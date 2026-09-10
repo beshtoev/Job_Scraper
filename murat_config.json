@@ -1,0 +1,91 @@
+GEOGRAPHY
+
+PRIMARY
+Toronto
+Greater Toronto Area
+Mississauga
+Etobicoke
+North York
+Markham
+Vaughan
+Oakville
+
+SECONDARY
+Canada Remote
+Ontario Remote
+
+
+LEVEL
+
+INCLUDE
+Vice President
+VP
+Head of
+Senior Director
+Managing Director
+Executive Director
+Chief Data Officer
+Chief AI Officer
+Chief Analytics Officer
+Transformation Leader
+
+SELECTIVELY INCLUDE
+Director
+
+
+DOMAINS
+
+Data
+AI
+Artificial Intelligence
+Analytics
+Data Transformation
+AI Transformation
+Finance Transformation
+FP&A
+Finance
+Automation
+Digital Transformation
+Data Governance
+AI Governance
+Technology
+Enterprise Platforms
+
+
+STRONG POSITIVE SIGNALS
+
+enterprise AI
+AI transformation
+data transformation
+Databricks
+Snowflake
+data platform
+generative AI
+agentic AI
+automation
+governance
+operating model
+finance transformation
+FP&A
+ERP
+CFO
+CTO
+CIO
+enterprise analytics
+
+
+NEGATIVE SIGNALS
+
+software developer
+data scientist
+machine learning engineer
+data engineer
+product manager
+marketing
+sales
+individual contributor
+junior
+intermediate
+contract
+internship
+co-op
