@@ -1,0 +1,396 @@
+{
+  "_README": "Murat Beshtoev Phase 1 discovery configuration. Scraping is deliberately broad at the executive level; deterministic and LLM ranking are deferred to later phases.",
+  "profile": {
+    "title": "Executive Data, AI & Transformation Job Tracker",
+    "subtitle": "Toronto / GTA · Ontario & Canada remote",
+    "emoji": "🎯"
+  },
+  "keywords": {
+    "_comment": "Title-level collection filter. Keep this conservative: false negatives are more costly than extra review candidates.",
+    "include": [
+      "vice president",
+      "vp",
+      "head of",
+      "senior director",
+      "managing director",
+      "executive director",
+      "chief data officer",
+      "chief ai officer",
+      "chief artificial intelligence officer",
+      "chief analytics officer",
+      "chief digital officer",
+      "chief technology officer",
+      "director of data",
+      "director, data",
+      "data director",
+      "director of analytics",
+      "director, analytics",
+      "analytics director",
+      "director of artificial intelligence",
+      "director, artificial intelligence",
+      "director of ai",
+      "director, ai",
+      "director of fp&a",
+      "fp&a director",
+      "director of automation",
+      "automation director",
+      "data transformation",
+      "ai transformation",
+      "artificial intelligence transformation",
+      "finance transformation",
+      "digital transformation",
+      "technology transformation",
+      "enterprise transformation",
+      "business transformation",
+      "transformation leader",
+      "data governance",
+      "ai governance",
+      "artificial intelligence governance",
+      "analytics governance",
+      "data strategy",
+      "ai strategy",
+      "artificial intelligence strategy",
+      "analytics strategy",
+      "enterprise ai",
+      "enterprise data",
+      "enterprise analytics",
+      "enterprise platform",
+      "finance systems",
+      "erp transformation",
+      "technology modernization"
+    ],
+    "_exclude_comment": "Only unambiguous junior/IC title signals are hard-rejected. Engineering terms are intentionally not excluded because executive data-engineering mandates can be relevant.",
+    "exclude": [
+      "intern",
+      "interns",
+      "internship",
+      "co-op",
+      "coop",
+      "trainee",
+      "apprentice",
+      "junior",
+      "intermediate",
+      "manager",
+      "new grad",
+      "graduate program",
+      "student",
+      "analyst",
+      "coordinator",
+      "technician"
+    ],
+    "_fuzzy_comment": "LinkedIn uses seniority plus domain tokens so Director roles qualify only when their title also carries a target-domain signal.",
+    "fuzzy_seniority": [
+      "chief",
+      "vice president",
+      "vp",
+      "head",
+      "senior director",
+      "director",
+      "managing director",
+      "executive director"
+    ],
+    "fuzzy_domain": [
+      "data",
+      "ai",
+      "artificial intelligence",
+      "analytics",
+      "transformation",
+      "finance",
+      "fp&a",
+      "automation",
+      "digital",
+      "governance",
+      "technology",
+      "platform",
+      "erp"
+    ],
+    "fuzzy_exclude": [
+      "intern",
+      "internship",
+      "co-op",
+      "trainee",
+      "apprentice",
+      "junior",
+      "intermediate",
+      "manager",
+      "student",
+      "analyst",
+      "coordinator",
+      "technician"
+    ]
+  },
+  "search_terms": {
+    "_comment": "LinkedIn can sustain a broader query set. JobSpy-backed sources use a smaller set to control calls and rate-limit exposure.",
+    "linkedin": [
+      "VP Data",
+      "Vice President Data",
+      "Head of Data",
+      "Chief Data Officer",
+      "VP Artificial Intelligence",
+      "Head of AI",
+      "Chief AI Officer",
+      "VP Analytics",
+      "Chief Analytics Officer",
+      "Senior Director Data AI",
+      "Data Transformation",
+      "AI Transformation",
+      "Finance Transformation",
+      "VP FP&A",
+      "Head of FP&A",
+      "Digital Transformation",
+      "Data Governance",
+      "AI Governance",
+      "Enterprise AI",
+      "Enterprise Platforms"
+    ],
+    "indeed": [
+      "VP Data AI",
+      "Head of Data AI",
+      "Senior Director Data AI",
+      "Data Transformation",
+      "Finance Transformation",
+      "VP FP&A",
+      "Enterprise AI",
+      "Digital Transformation"
+    ],
+    "glassdoor": [
+      "VP Data AI",
+      "Head of Data AI",
+      "Senior Director Data AI",
+      "Data Transformation",
+      "Finance Transformation",
+      "VP FP&A",
+      "Enterprise AI",
+      "Digital Transformation"
+    ],
+    "ziprecruiter": [
+      "VP Data AI",
+      "Head of Data AI",
+      "Senior Director Data AI",
+      "Data Transformation",
+      "Finance Transformation",
+      "VP FP&A",
+      "Enterprise AI",
+      "Digital Transformation"
+    ],
+    "google_jobs": [
+      "VP Data AI",
+      "Head of Data AI",
+      "Senior Director Data AI",
+      "Data Transformation",
+      "Finance Transformation",
+      "VP FP&A",
+      "Enterprise AI",
+      "Digital Transformation"
+    ],
+    "hiring_cafe": [],
+    "calcareers": [],
+    "usajobs": [],
+    "governmentjobs": [],
+    "workday": []
+  },
+  "locations": {
+    "_comment": "Toronto covers the core city; Mississauga and Markham improve west/east GTA coverage. Ontario and Canada entries preserve remote and strategically compelling opportunities.",
+    "linkedin": [
+      {
+        "name": "Toronto / GTA",
+        "location": "Greater Toronto Area, Canada",
+        "geoId": ""
+      },
+      {
+        "name": "Ontario",
+        "location": "Ontario, Canada",
+        "geoId": ""
+      },
+      {
+        "name": "Canada",
+        "location": "Canada",
+        "geoId": "101174742"
+      }
+    ],
+    "indeed": [
+      {
+        "location": "Toronto, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Mississauga, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Markham, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "Toronto, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Mississauga, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Markham, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "Toronto, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Mississauga, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Markham, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "Toronto, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Mississauga, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Markham, ON",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      }
+    ],
+    "hiring_cafe": [],
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
+      }
+    }
+  },
+  "location_filter": {
+    "_comment": "Case-insensitive post-filter for LinkedIn and sources without API geo-scoping.",
+    "terms": [
+      "toronto",
+      "greater toronto area",
+      "gta",
+      "mississauga",
+      "etobicoke",
+      "north york",
+      "markham",
+      "vaughan",
+      "oakville",
+      "ontario",
+      "canada",
+      "remote",
+      "hybrid"
+    ]
+  },
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "jobspy": {
+    "proxies": [],
+    "user_agent": ""
+  },
+  "hiring_cafe": {
+    "_comment": "The current public route is U.S.-only, so its workflow should remain disabled for this Canadian search.",
+    "max_pages": 1
+  },
+  "employers": {
+    "_priority_comment": "No priority-employer allowlist has been supplied yet; leave the priority digest workflow disabled until one is agreed.",
+    "priority": [],
+    "exclude": []
+  },
+  "priority_topics": {
+    "terms": [
+      [
+        "Enterprise AI",
+        "enterprise AI|AI transformation|generative AI|agentic AI|AI operating model"
+      ],
+      [
+        "Data platforms",
+        "data platform|Databricks|Snowflake|enterprise data architecture"
+      ],
+      [
+        "Finance transformation",
+        "finance transformation|FP&A|ERP|CFO"
+      ],
+      [
+        "Governance",
+        "data governance|AI governance|governance operating model"
+      ],
+      [
+        "Automation",
+        "automation|technology modernization|digital transformation"
+      ]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      [
+        "AI Leadership",
+        "artificial intelligence|\\bAI\\b|generative AI|enterprise AI"
+      ],
+      [
+        "Data Leadership",
+        "chief data|head of data|director.{0,12}data|data.{0,12}director|data platform|data strategy"
+      ],
+      [
+        "Analytics Leadership",
+        "analytics|chief analytics"
+      ],
+      [
+        "Finance / FP&A",
+        "finance|FP&A|financial planning|ERP"
+      ],
+      [
+        "Transformation",
+        "transformation|modernization"
+      ],
+      [
+        "Governance",
+        "governance|operating model"
+      ],
+      [
+        "Automation",
+        "automation"
+      ],
+      [
+        "Technology / Platforms",
+        "technology|platform|digital"
+      ]
+    ]
+  },
+  "notify": {
+    "min_fit": 85,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  }
+}

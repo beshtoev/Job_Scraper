@@ -705,6 +705,8 @@
       if (Array.isArray(pt)) STAR_TERMS = pt.map(([n, src]) => [n, new RegExp(src, 'i')]);
       const ex = (cfg.employers || {}).exclude;
       if (Array.isArray(ex)) EXCLUDE_COMPANY = ex.map(t => String(t).toLowerCase());
+      const titleEx = (cfg.keywords || {}).exclude;
+      if (Array.isArray(titleEx)) EXCLUDED_TITLE_RE = buildExcludedTitleRe(titleEx);
       const p = cfg.profile || {};
       if (p.title) {
         document.title = 'Job Triage — ' + p.title;
@@ -2203,13 +2205,22 @@
   // the scraper — keep this regex in sync with EXCLUDED_SENIORITY_RE in
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
-  const EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|engineer|engineering|ehs|occupational safety|occupational health)\b|health\s*&\s*safety|health and safety/i;
+  function buildExcludedTitleRe(terms) {
+    const escaped = (terms || []).map(term => {
+      const text = String(term || '').trim();
+      if (!text) return '';
+      const literal = text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      return /\s|&/.test(text) ? literal : `\\b${literal}\\b`;
+    }).filter(Boolean);
+    return escaped.length ? new RegExp(escaped.join('|'), 'i') : null;
+  }
+  let EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|engineer|engineering|ehs|occupational safety|occupational health)\b|health\s*&\s*safety|health and safety/i;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
       if (state.triage[j.url]) return true;
-      if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
+      if (EXCLUDED_TITLE_RE && EXCLUDED_TITLE_RE.test(j.title || '')) return false;
       if (isPharma(j.company)) return false;   // env-tox only — drop cached pharma
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
