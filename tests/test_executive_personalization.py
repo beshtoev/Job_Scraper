@@ -23,6 +23,41 @@ def test_live_config_targets_canada_and_executive_roles():
     assert not scrape_jobs.role_is_relevant("Senior Data Scientist")
 
 
+def test_title_filter_admits_executive_variants_found_in_pilot_recall_checks():
+    # Layer 1 must stay conservative: each title below is a plausible target
+    # mandate that an earlier, narrower domain/seniority list rejected.
+    for title in [
+        "VP, Financial Planning & Analysis",
+        "Vice President, Financial Planning and Analysis",
+        "Head of Data",
+        "SVP, Enterprise Data Office",
+        "AVP, Data & Analytics",
+        "Senior Vice-President, Data",
+        "Chief Financial Officer",
+        "Chief Information Officer",
+        "VP, Business Intelligence",
+        "Head of Insights",
+        "Senior Director, Machine Learning",
+        "Director, Enterprise Architecture",
+        "VP, Corporate Performance Management",
+        "Vice President, Strategy & Planning",
+        "Leader, AI Transformation",
+        # Multi-level postings must not be dropped by a lower-level token.
+        "Associate Team Leader; Team Leader; Director-Data and Analytics - Toronto",
+    ]:
+        assert scrape_jobs.role_is_relevant(title), title
+
+    for title in [
+        "Data Engineer",
+        "Machine Learning Engineer",
+        "Software Engineering Manager",
+        "Marketing Analytics Manager",
+        "Junior FP&A Analyst",
+        "Senior Manager, FP&A",
+    ]:
+        assert not scrape_jobs.role_is_relevant(title), title
+
+
 def test_triage_prompt_uses_executive_taxonomy_and_canada_gate():
     prompt = triage_agent.build_static_prefix("Target executive profile", "")
     lowered = prompt.lower()

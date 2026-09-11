@@ -9,6 +9,7 @@ Tune the search in config.json: title keywords, board-specific search terms,
 priority employers, locations, and LinkedIn geoIds / JobSpy locations.
 """
 
+import http.client
 import http.cookiejar
 import base64
 import json
@@ -237,6 +238,14 @@ def fetch(url, *, retries=4, _base_wait=30.0):
                 time.sleep(wait)
                 continue
             print(f"  WARNING: Could not fetch {url}: {e}")
+            return ""
+        except http.client.HTTPException as e:
+            # Truncated/malformed responses (e.g. IncompleteRead) are transient;
+            # one bad page must not abort a whole source run.
+            if attempt < retries:
+                time.sleep(2 + random.uniform(0, 3))
+                continue
+            print(f"  WARNING: Could not fetch {url}: {e!r}")
             return ""
         except (URLError, TimeoutError, OSError) as e:
             print(f"  WARNING: Could not fetch {url}: {e}")
