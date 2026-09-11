@@ -1,9 +1,10 @@
 # Architecture Decision: Murat's Executive Job Search System
 
-- **Status:** Accepted for Phase 1; later-phase interfaces remain proposed
-- **Date:** 2026-09-10
+- **Status:** Accepted for the discovery system (Phases 1–3); later-phase interfaces remain proposed
+- **Date:** 2026-09-10 (revision 2, same day — see [Revision history](#revision-history))
 - **Decider:** Murat Beshtoev
 - **Scope:** Discovery, executive-fit prioritization, application assistance, research, and evidence-grounded document generation
+- **Deployment state:** Not deployed. All Murat-specific work is on the local branch `codex/phase1-job-discovery`. Scheduled workflows on `main` still run the upstream environmental defaults, and GitHub Pages is not serving the dashboard.
 
 ## Context
 
@@ -32,7 +33,7 @@ They are complementary products with different runtimes and maintenance profiles
 
 ## Decision
 
-Keep **Job_Scraper as the Phase 1 foundation and system of record for discovery and prioritization**. Do not integrate JobMatchAI, Resume-Matcher, career-ops, SimplyApply, or Tailored into the Phase 1 runtime.
+Keep **Job_Scraper as the foundation and system of record for discovery and prioritization (Phases 1–3)**. Do not integrate JobMatchAI, Resume-Matcher, career-ops, SimplyApply, or Tailored into that runtime.
 
 Keep JobMatchAI and Resume-Matcher as separate applications. If later phases earn their complexity, connect them with small, versioned data contracts rather than shared storage, imported source trees, or duplicated trackers.
 
@@ -55,9 +56,52 @@ flowchart LR
     Review --> Submit[Human submits]
 ```
 
-Dashed connections are future options, not Phase 1 integrations.
+Dashed connections are future options, not integrations within Phases 1–3.
 
-## Phase 1 architecture
+### Phase numbering
+
+Phases follow the project brief so that "Phase N" means the same thing in conversation, commits, and this document:
+
+| Phase | Name | Layer |
+|---|---|---|
+| 1 | Discovery | Collection and Layer 1 hard filter |
+| 2 | Deterministic scoring | Layer 2 (`scoring_profile.json`, `candidate_profile.md`) |
+| 3 | Semantic triage | Layer 3 (`triage_agent.py`) |
+| 4 | Contract-only handoff | Export to JobMatchAI / downstream tools |
+| 5 | Guarded documents | Evidence ledger and claim gate |
+| 6 | Selective execution assistance | Reviewed autofill |
+
+Revision 1 of this record grouped Phases 1–3 into a single "Phase 1" and numbered the later phases 2–4. Work committed under that numbering, such as `scoring_profile.json` in `3425e0e6` and the triage taxonomy in `72398c2c`, belongs to Phases 2 and 3 here. Its gates still apply.
+
+## Three-layer filtering contract
+
+The layers exist to spend scarce resources in order: cheap rules first, model calls last, Murat's attention only at the end. Missing a strong VP role costs far more than showing a few mediocre ones, so each layer is designed for recall first.
+
+| Layer | Purpose | May reject on | Must not reject on |
+|---|---|---|---|
+| **1: Hard filter** | Remove obvious non-candidates cheaply | Location with explicit non-Canadian evidence; unambiguous junior/student/IC title tokens; excluded employers | Missing seniority or domain tokens alone; missing salary; words such as "engineering" |
+| **2: Deterministic score** | Rank eligible roles and decide which ones get model spend | Nothing. It orders; it does not delete. | — |
+| **3: Semantic triage** | Judge mandate, level, and worth-your-time with the full description | Nothing is deleted. Low verdicts are hidden, not discarded. | A failed or metadata-only call treated as a negative verdict |
+
+Rules:
+
+1. **One eligibility implementation.** Python (`scrape_jobs.role_is_relevant`, `is_target_location`) is the single implementation. The dashboard currently re-implements both in JavaScript with different semantics (substring vs word-boundary matching, and no `fuzzy_exclude`). It should instead display a decision the scraper persists with each job.
+2. **Retain rejected records.** Layer 1 rejections should be kept for a short window (such as 14 days) with a machine-readable reason. Without them, a filter change cannot be replayed or its recall gain measured. During the 2026-09-10 review, replaying a widened filter over stored data could show only losses, never gains, because rejected titles had already been discarded.
+3. **Measure Layer 1 separately.** Seniority-plus-domain title matching is the largest known source of false negatives. On 2026-09-10 it rejected "VP, Financial Planning & Analysis", SVP/AVP titles, "Chief Financial Officer", and "VP, Business Intelligence". Every filter change needs a regression test of known-good titles and a review of a sample of rejected jobs.
+4. **Layer 2 orders Layer 3 spend.** `triage_agent.py` currently takes eligible, unscored roles freshest-first up to `--limit`, so on a heavy day the best role can fall past the cap. Selection should be by deterministic score, with any remainder carried to the next run.
+5. **Every verdict carries its provenance:** rubric version, model id, evaluation time, input coverage (`full-description` or `metadata-only`), and sub-scores. The project brief's weighted rubric (seniority 25, domain 20, transformation 15, finance 15, executive exposure 10, compensation probability 10, company 5) is the starting point. The 90/80/70 verdict thresholds are hypotheses to calibrate against labels, not fixed rules.
+6. **Compensation is a probability, not a gate.** Canadian postings rarely disclose pay. Undisclosed compensation lowers `compensation_probability`; it never excludes a role.
+
+## Source strategy
+
+Recall is bounded first by what is fetched, and only then by filtering.
+
+- **Job boards** (LinkedIn guest search, JobSpy for Indeed/Glassdoor/ZipRecruiter/Google) give broad coverage but are fragile: they are unofficial, rate-limited, and change without notice. Expect some failures, and track them per source.
+- **Employer applicant-tracking systems** (Greenhouse, Lever, Ashby, Workday, and similar) expose public job feeds that are more stable, and cover roles never syndicated to boards. `portal_scraper.py` with `sources/company_portals.json` (338 companies, uncommitted as of 2026-09-10) is this complement. It should be reviewed as a Phase 1 source before it is enabled.
+- **U.S.-scoped sources** (HiringCafe's current public route, USAJOBS, CalCareers, CSU Careers, NEOGOV/CalOpps) do not serve this search. Their scheduled workflows should be disabled at cutover.
+- **Known limit:** many VP and C-level searches run through executive-search firms and are never publicly posted. No scraper can find those. Recruiter relationships and networking remain manual, and the time this system saves should be redirected to them.
+
+## Phase 1–3 architecture
 
 ### Responsibilities
 
@@ -81,26 +125,30 @@ Job_Scraper does **not** own:
 - durable application lifecycle management across devices; or
 - application submission.
 
-### Current data flow
+### Data flow
 
 ```text
-source adapters
+source adapters (boards, employer ATS feeds)
+    -> Layer 1: location + disqualifier filter      [target: rejections retained with reason]
     -> normalized per-source snapshots
     -> URL/content deduplication
     -> output/all_jobs.json (rolling 30-day discovery master)
-    -> deterministic scoring_profile score
-       and/or output/scores.json LLM verdict
-    -> triage.html
-    -> human save / dismiss / apply decision
+    -> Layer 2: scoring_profile.json score           [target: orders Layer 3 selection]
+    -> Layer 3: triage_agent.py verdict -> output/scores.json (capped per run)
+    -> triage.html                                   [target: shows persisted eligibility]
+    -> human save / dismiss / apply decision         [target: captured as labels]
 ```
 
-`output/all_jobs.json` is the canonical Phase 1 discovery set for its rolling window. Per-source files are replaceable snapshots, and `output/scores.json` is derived data that must be safe to recompute.
+Items marked `[target: ...]` are required by the three-layer contract but not implemented yet.
+
+`output/all_jobs.json` is the canonical discovery set for its rolling window. Per-source files are replaceable snapshots, and `output/scores.json` is derived data that must be safe to recompute.
 
 Dashboard statuses, notes, ratings, and timeline events currently live in browser `localStorage`. They are convenient personal state, not a durable or cross-device application system of record. CSV export is a backup/handoff mechanism, not transactional persistence.
 
-### Required Phase 1 boundaries
+### Required boundaries
 
 - Candidate profile, resume, provider keys, and private notes must not be committed to a public repository.
+- Private labels (`pilot/private/`, future backlog labels) stay local and gitignored. They are the calibration dataset and must survive re-runs and branch changes.
 - Job descriptions are untrusted input. They may inform evaluation but never instruct the agent or grant tools.
 - Collection must fail soft: one blocked source cannot erase previous valid results or fail the whole discovery run.
 - Deduplication must preserve source provenance and enrich an existing record instead of discarding better fields.
@@ -108,22 +156,50 @@ Dashboard statuses, notes, ratings, and timeline events currently live in browse
 - Expensive model evaluation should occur only after normalization, deduplication, basic eligibility checks, and a liveness check where practical.
 - Every score must identify its rubric version, evaluation time, input coverage (`full-description` or `metadata-only`), and concise supporting/rejecting signals.
 - Location, work authorization, compensation, and mandate level are explicit decision fields. They must not be hidden inside an opaque aggregate score.
-- No action outside discovery and prioritization is automatic in Phase 1.
+- No action outside discovery and prioritization is automatic in Phases 1–3.
 
-### Known Phase 1 gaps found during this review
+### Open decision: public-repository exposure
 
-The repository has a personalized `config.json` for Toronto/GTA executive discovery, but several fallbacks still describe the upstream environmental/toxicology use case:
+GitHub forks of public repositories are public. The fork is readable without signing in, so anything committed is visible to anyone: `config.json`, `scoring_profile.json`, the `output/` job lists, commit history, and a GitHub Pages dashboard once enabled. Together these show that the `beshtoev` account is running an active executive search, with target titles and domains. For a candidate who is currently employed, that fact may be more sensitive than the résumé itself.
 
-1. No local `scoring_profile.json` is present. The dashboard therefore retains its embedded environmental scoring rules, while notifications load the environmental `scoring_profile.example.json`.
-2. `triage_agent.py` still emits environmental/toxicology role families rather than Murat's executive mandate families.
-3. `notify.py` retains environmental defaults when personalized scoring/topic configuration is unavailable.
-4. `murat_config.json` is a plain-text planning brief, not valid JSON, and no runtime code reads it. `config.json` is the actual search configuration.
-5. The main README is upstream-oriented and repeatedly describes the environmental example. That is acceptable as upstream documentation only if Murat's runtime configuration and operator guide make the distinction unmistakable.
-6. The 30-day discovery master and browser-local workflow state do not yet constitute a durable application history.
+Nothing Murat-specific is public yet. `main` holds only upstream data, and the branch has not been pushed. **Decide before the first push.**
 
-These are Phase 1 calibration and documentation issues. They do not justify importing another application.
+| Option | Exposure | Cost and trade-offs |
+|---|---|---|
+| A. Keep the public fork | Search activity and targeting are public | Free Actions minutes and free Pages; weekly upstream sync via `sync_upstream.yml` |
+| B. Private standalone copy (not a fork) | Private | Upstream changes are pulled manually. Free-plan Actions minutes are capped for private repositories, so hourly schedules must be checked against measured run times. Pages on a private repository needs a paid plan, or the dashboard is served locally. |
+| C. Public code, private data repository | Code public; data and profile private | Most moving parts: workflows must check out and push to a second repository |
 
-## Component boundaries after Phase 1
+Until this is decided, treat pushing the branch and enabling Pages as reversible only in theory. Anything already crawled or cached cannot be recalled.
+
+### Remaining gaps (as of revision 2)
+
+Resolved since revision 1, on the unpushed branch:
+
+- ~~No local `scoring_profile.json`~~: added in `3425e0e6`, with tests; `notify.py` now disables itself rather than falling back to the environmental example.
+- ~~`triage_agent.py` emits environmental role families~~: executive taxonomy and a Canada gate added in `72398c2c`.
+- ~~Environmental jobs in the discovery master~~: cleared on the branch by `scripts/clean_existing_jobs.py`. `main` still holds 406 upstream jobs, which merging will remove from `all_jobs.json`.
+
+Still open:
+
+1. **Not deployed.** See the Deployment state line above. Every scheduled run on `main` spends Actions time collecting environmental-science jobs.
+2. **Layer 1 recall.** The seniority-plus-domain title filter produced the false negatives listed under the three-layer contract. A widened filter and a regression test are in the working tree (uncommitted) but unproven against live data.
+3. **Fail-soft collection.** A truncated HTTP response (`http.client.IncompleteRead`) escaped `fetch()` and aborted an entire LinkedIn run. A retry fix is in the working tree (uncommitted). Existing results survived only because the output file is written at the end of a run.
+4. **Duplicated eligibility logic** between Python and the dashboard (three-layer contract, rule 1).
+5. **Model spend ordered by freshness, not fit** (three-layer contract, rule 4).
+6. `murat_config.json` is a plain-text planning brief, not valid JSON, and no runtime code reads it.
+7. The main README describes the upstream environmental example, and there is no operator guide for Murat's configuration.
+8. The 30-day discovery master and browser-local workflow state do not constitute a durable application history. Dashboard save/dismiss/apply decisions are also the cheapest source of new labels, and they are currently lost to `localStorage`.
+
+These are calibration, deployment, and documentation issues. They do not justify importing another application.
+
+### Operations
+
+- **Runtime:** the code requires Python ≥ 3.10 (it uses `X | None` annotations at import time). CI uses 3.11. The macOS system interpreter is 3.9 and cannot run the tests, so local work needs a 3.11 environment.
+- **Working copy location:** the repository sits in iCloud Drive. iCloud sync can evict or duplicate files inside `.git` and corrupt the repository. Keep the working copy in a non-synced directory and rely on GitHub as the backup, but keep `pilot/private/` backed up separately, because it is gitignored.
+- **Cutover checklist:** (1) settle the public-exposure decision; (2) review the whole branch, not only its first commit; (3) push and open a PR to `main`; (4) merge only with Murat's approval; (5) disable the U.S.-scoped workflows; (6) confirm `ENABLE_DATA_COMMITS`, workflow permissions, and Pages; (7) watch the first day of scheduled runs for source failures.
+
+## Component boundaries after Phase 3
 
 | Component | Intended ownership | Explicit non-responsibilities |
 |---|---|---|
@@ -137,7 +213,7 @@ No component may write directly to another component's database. Cross-component
 
 ## Future interoperability contract
 
-The first integration, if Phase 1 succeeds, should be a small exported **application candidate** record. A conceptual schema is:
+The first integration, once Phases 1–3 pass their gates (Phase 4), should be a small exported **application candidate** record. A conceptual schema is:
 
 ```json
 {
@@ -220,18 +296,18 @@ The observations below are pinned to the inspected revisions so future changes i
 
 Additional conclusions from the review:
 
-- career-ops' human-readable canonical files are a good portability pattern, but Job_Scraper already has a simple JSON contract; changing formats during Phase 1 would add migration risk without improving discovery.
+- career-ops' human-readable canonical files are a good portability pattern, but Job_Scraper already has a simple JSON contract; changing formats during Phases 1–3 would add migration risk without improving discovery.
 - Resume-Matcher's current fork uses SQLite; references to TinyDB describe a legacy storage generation and should not drive current architecture decisions.
 - JobMatchAI is strategically useful only after a role has passed discovery and prioritization. Its score is a second opinion and must not overwrite Job_Scraper's score implicitly.
-- Company/contact research should be performed only for user-selected roles. Researching every scraped listing would add cost, privacy exposure, and stale data without helping Phase 1 recall.
+- Company/contact research should be performed only for user-selected roles. Researching every scraped listing would add cost, privacy exposure, and stale data without helping discovery recall.
 
 ## Options considered
 
 | Option | Benefits | Costs and risks | Decision |
 |---|---|---|---|
 | Merge JobMatchAI and Resume-Matcher into Job_Scraper now | One apparent product surface | Large mixed stack, duplicated state, coupled releases, security/permission expansion, slower discovery learning | Rejected |
-| Replace Job_Scraper with career-ops | Mature end-to-end concepts and agent workflows | Migration cost, overlapping capability, loss of focused scraper investments, still requires personal calibration | Rejected for Phase 1 |
-| Rebuild selected downstream features inside Job_Scraper | Full control and potentially fewer apps | Premature product work, recreates browser/document complexity, increases test burden | Rejected for Phase 1 |
+| Replace Job_Scraper with career-ops | Mature end-to-end concepts and agent workflows | Migration cost, overlapping capability, loss of focused scraper investments, still requires personal calibration | Rejected for Phases 1–3 |
+| Rebuild selected downstream features inside Job_Scraper | Full control and potentially fewer apps | Premature product work, recreates browser/document complexity, increases test burden | Rejected for Phases 1–3 |
 | Keep bounded components and add contracts only after evidence | Preserves specialization, limits blast radius, supports replaceability | Some manual handoff and later contract design | **Selected** |
 | Use a managed all-in-one service | Lower maintenance for autofill/tracking | Cloud data, subscription cost, generic scoring, limited evidence controls, platform lock-in | Contingency, not current core |
 
@@ -239,7 +315,7 @@ Additional conclusions from the review:
 
 ### Positive
 
-- Phase 1 effort stays concentrated on finding the right opportunities.
+- Phases 1–3 effort stays concentrated on finding the right opportunities.
 - Each application can evolve or be replaced independently.
 - Browser permissions and document-generation dependencies do not expand the scraper's attack surface.
 - Human approval remains an architectural boundary rather than a UI preference.
@@ -256,56 +332,95 @@ Additional conclusions from the review:
 
 ## Phase plan and gates
 
-### Phase 1 — prove discovery and prioritization
+Each gate is a measured result, not a feature list. Numeric targets are proposals for Murat to confirm; the pilot scorecard (`scripts/pilot_quality.py`) produces most of them.
 
-Allowed work:
+### Phase 1 — Discovery (collection and Layer 1)
 
-- calibrate all runtime filters, role families, scoring rules, and notifications to Murat's target mandate;
-- define a labeled set of representative good, borderline, and poor-fit postings;
-- measure false negatives, top-of-queue precision, duplicate rate, stale-post rate, and source failures;
-- add liveness and coverage indicators before optional model scoring;
-- make score rationale, rubric version, and metadata-only evaluation visible; and
-- document/verify private-versus-public data handling.
+Allowed work: source configuration, Layer 1 rules, fail-soft collection, deduplication, freshness, source-health reporting, cutover to `main`, and the public-exposure decision.
 
 Exit criteria:
 
-- a personalized deterministic scoring profile is active, tested, and never falls back silently;
-- the LLM role taxonomy and examples represent Data/AI/Analytics, Finance/FP&A, governance, platform, and transformation leadership;
-- representative labels show useful separation among apply-now, review, and reject cases;
-- Toronto/GTA and Canada-remote source coverage is reliable enough to review daily;
-- a blocked or empty source cannot wipe valid results;
-- duplicate and stale-post rates are understood; and
+- running on `main` from scheduled workflows, with U.S.-scoped workflows disabled;
+- seven consecutive days of scheduled collection with per-source failure rates recorded, and no failure that wipes previous valid results;
+- in broad recall checks and rejected-sample reviews, every missed relevant role is explained by a named cause (not fetched, location, title rule, or dedupe), and no title-rule miss is left unaddressed;
+- duplicate and stale-post rates measured.
+
+### Phase 2 — Deterministic scoring (Layer 2)
+
+Allowed work: `scoring_profile.json`, `candidate_profile.md`, test cases, and Layer 2 selection of Layer 3 candidates.
+
+Exit criteria:
+
+- the scoring profile is active, tested, and never falls back silently;
+- the brief's acceptance examples (for instance "VP Data Analytics & AI", "Head of AI Transformation") rank above its reject examples (for instance "Data Engineer", "Junior FP&A Analyst"), judged on descriptions, not titles alone;
+- against Murat's labels, relevant roles rank in the top third of eligible roles;
+- `triage_agent.py` selects roles for model review by deterministic score.
+
+### Phase 3 — Semantic triage (Layer 3)
+
+Allowed work: adapt `triage_agent.py` prompt, rubric sub-scores, `compensation_probability`, evals, cost caps, a roughly 30-day backtest where sources support backfill, and ingestion of the existing ~100-role backlog as labels.
+
+Exit criteria:
+
+- no role labelled relevant is hidden below REVIEW in the backtest (false negatives are the priority metric);
+- strict precision in the daily APPLY NOW + STRONG list is at least 70% over a week;
+- daily model cost stays within a configured cap, and failed or metadata-only calls are visible, never negative verdicts;
 - one week of normal use shows the queue saves time instead of creating review noise.
 
-### Phase 2 — contract-only handoff
+### Phase 4 — Contract-only handoff
 
 Add an export/open action for user-selected roles. Pilot JobMatchAI as an optional page-level copilot. Do not create two-way tracker synchronization until manual duplication is demonstrably costly.
 
-### Phase 3 — guarded documents
+### Phase 5 — Guarded documents
 
 Choose between the separate Resume-Matcher application and a smaller document service. Introduce the candidate evidence ledger and deterministic claim gate before relying on generated executive claims. Validate DOCX/PDF content, layout, and ATS extraction independently.
 
-### Phase 4 — selective execution assistance
+### Phase 6 — Selective execution assistance
 
 Pilot reviewed autofill on representative Greenhouse, Lever, and Workday applications. Reduce browser permissions if testing shows on-demand injection is practical. Preserve the rule that only Murat submits.
 
 ## Action items
 
-- [x] Create and validate Murat's private `scoring_profile.json`; remove silent use of the environmental example in his runtime.
-- [ ] Replace the environmental role taxonomy and prompt assumptions in the optional LLM triage path.
+Phase 1:
+
+- [ ] Decide public-repository exposure (option A, B, or C) before the first push.
+- [ ] Commit the widened Layer 1 title filter and the `fetch()` fail-soft fix after a live run confirms them.
+- [ ] Review `portal_scraper.py` and `sources/company_portals.json` as a Phase 1 source.
+- [ ] Persist Layer 1 rejections with reasons; make the dashboard display the persisted eligibility decision instead of re-implementing it.
+- [ ] Run the cutover checklist (see Operations).
 - [ ] Rename or retire the unused `murat_config.json` planning brief so it cannot be mistaken for runtime configuration.
-- [ ] Create a labeled executive-job evaluation fixture set and record precision/recall-oriented results.
-- [ ] Add source-liveness and input-coverage reporting before increasing automation.
-- [ ] Decide how to back up or migrate browser-local application state after Phase 1.
-- [ ] Draft the versioned application-candidate schema only when the Phase 2 pilot begins.
+- [ ] Add source-liveness and input-coverage reporting.
+
+Phase 2:
+
+- [x] Create and validate Murat's private `scoring_profile.json`; remove silent use of the environmental example in his runtime (`3425e0e6`).
+- [ ] Write `candidate_profile.md` (private, gitignored).
+- [ ] Order model review by deterministic score.
+- [ ] Capture dashboard save/dismiss/apply decisions as labels.
+
+Phase 3:
+
+- [x] Replace the environmental role taxonomy and prompt assumptions in the LLM triage path (`72398c2c`).
+- [ ] Create a labeled executive-job evaluation fixture set, including the ~100-role backlog, and record precision/recall-oriented results.
+- [ ] Add rubric sub-scores, `compensation_probability`, rubric version, and a daily cost cap.
+
+Later:
+
+- [ ] Decide how to back up or migrate browser-local application state after Phase 3.
+- [ ] Draft the versioned application-candidate schema only when the Phase 4 pilot begins.
 - [ ] Build the evidence ledger and claim validator before automated document handoff.
 - [ ] Pilot JobMatchAI and Resume-Matcher independently; do not merge either repository into Job_Scraper.
 
 ## Non-goals
 
 - Applying automatically or bypassing an employer's controls.
-- Scraping authenticated sources with personal sessions during Phase 1.
+- Scraping authenticated sources with personal sessions during Phases 1–3.
 - Maximizing the number of applications.
 - Treating keyword similarity as executive fit.
 - Inferring candidate experience from a job description.
 - Making one repository responsible for every stage of the job search.
+
+## Revision history
+
+- **Revision 1 (2026-09-10):** original decision; Job_Scraper as foundation, bounded components, truthfulness gate.
+- **Revision 2 (2026-09-10):** aligned phase numbering with the project brief; added the three-layer filtering contract, source strategy, public-exposure decision, operations and cutover checklist, and measurable phase gates; recorded gaps resolved on the branch and new gaps found in review (Layer 1 recall, fail-soft `fetch()`, duplicated eligibility logic, freshness-ordered model spend). The core decision is unchanged.
