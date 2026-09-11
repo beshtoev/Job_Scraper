@@ -291,7 +291,7 @@ Pilot reviewed autofill on representative Greenhouse, Lever, and Workday applica
 
 ## Action items
 
-- [ ] Create and validate Murat's private `scoring_profile.json`; remove silent use of the environmental example in his runtime.
+- [x] Create and validate Murat's private `scoring_profile.json`; remove silent use of the environmental example in his runtime.
 - [ ] Replace the environmental role taxonomy and prompt assumptions in the optional LLM triage path.
 - [ ] Rename or retire the unused `murat_config.json` planning brief so it cannot be mistaken for runtime configuration.
 - [ ] Create a labeled executive-job evaluation fixture set and record precision/recall-oriented results.
