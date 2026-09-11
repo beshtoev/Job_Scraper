@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Job Triage — Environmental / Toxicology (California)</title>
+<title>Executive Job Triage — Configuration loading</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
@@ -343,7 +343,7 @@
   .scorechip.fit { cursor: help; }
   .scorechip.top { box-shadow: 0 0 0 1px rgba(34,197,94,0.5); }
 
-  /* Priority-topic star/highlight (microplastics, ecotox, EDCs, R/Shiny) */
+  /* Priority-topic star/highlight (loaded from config.json) */
   .job.starred { outline: 1.5px solid rgba(251,191,36,0.55); outline-offset: -1px;
     background: rgba(251,191,36,0.06); }
   .starbadge { color: #fbbf24; font-size: 14px; margin-right: 4px; cursor: help;
@@ -402,7 +402,7 @@
 
 <header>
   <h1>Job Triage</h1>
-  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">California · Environmental / Toxicology · loading…</span>
+  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">Loading personalized configuration…</span>
   <span class="grow"></span>
   <div class="theme-toggle" id="theme-controls" aria-label="Theme">
     <button type="button" data-theme-mode="system" title="Match system theme">System</button>
@@ -410,8 +410,8 @@
     <button type="button" data-theme-mode="light" title="Use white mode">White</button>
   </div>
   <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
-  <a class="iconbtn" id="clear-data-link" href="https://github.com/ScottCoffin/Job_Scraper/actions/workflows/clear_data.yml" target="_blank" rel="noopener" title="Clear all accumulated job data (opens Actions → Run workflow)">🗑 Clear jobs</a>
-  <a class="iconbtn" id="repo-link" href="https://github.com/ScottCoffin/Job_Scraper" target="_blank" rel="noopener" title="View source repo">⌥ Repo</a>
+  <a class="iconbtn" id="clear-data-link" href="https://github.com/beshtoev/Job_Scraper/actions/workflows/clear_data.yml" target="_blank" rel="noopener" title="Clear all accumulated job data (opens Actions → Run workflow)">🗑 Clear jobs</a>
+  <a class="iconbtn" id="repo-link" href="https://github.com/beshtoev/Job_Scraper" target="_blank" rel="noopener" title="View source repo">⌥ Repo</a>
 </header>
 
 <div class="kpis">
@@ -444,7 +444,7 @@
     <p>External helpers for application prep.</p>
   </div>
   <div class="toolgrid">
-    <a class="toollink" href="https://github.com/wadekarg/JobMatchAI" target="_blank" rel="noopener noreferrer">
+    <a class="toollink" href="https://github.com/beshtoev/JobMatchAI" target="_blank" rel="noopener noreferrer">
       <strong>JobMatchAI</strong>
       <span>Browser-side match scoring, form autofill, cover letters, and per-job notes.</span>
     </a>
@@ -510,7 +510,7 @@
   <div class="controls-row">
     <span class="pillgroup-label">Highlight</span>
     <button type="button" class="pill" id="star-only" aria-pressed="false"
-      title="Show only roles touching microplastics, ecotoxicology, EDCs, or R/Shiny">★ Priority topics</button>
+      title="Show only roles matching priority topics in config.json">★ Priority topics</button>
   </div>
   <div class="controls-row">
     <span class="pillgroup-label">Salary</span>
@@ -653,39 +653,26 @@
     else if (THEME_MEDIA.addListener) THEME_MEDIA.addListener(onThemeMedia);
   }
 
-  // ---------- Config (config.json drives branding, role buckets, priority
-  //            topics, and company exclusion). These are the fallback defaults;
-  //            applyConfig() overrides them from config.json at load. ----------
+  // ---------- Config (personalization is required; no unrelated runtime
+  //            defaults are embedded in the dashboard). ----------
   let CONFIG = {};
 
   // Company exclusion — drop roles from these companies (case-insensitive
   // substring on the company name). Mirrors employers.exclude in config.json.
-  let EXCLUDE_COMPANY = [
-    'pharmaceutic', 'pharma ', 'therapeutics', 'biopharma', 'biotech', 'biologics',
-    'biosciences', 'genomics', 'oncolog', 'biomedicine', 'genentech', 'gilead',
-    'pfizer', 'merck', 'novartis', 'abbvie', 'regeneron', 'moderna', 'biogen',
-    'sanofi', 'astrazeneca', 'takeda', 'biomarin', 'alnylam', 'incyte', 'exelixis',
-    'neurocrine', 'ionis', 'denali', 'acadia', 'adarx', 'genmab', 'galapagos',
-    'insitro', 'recursion', 'cytokinetics', 'vertex pharm', 'bristol-myers', 'bristol myers',
-  ];
-  function isPharma(company) {
+  let EXCLUDE_COMPANY = [];
+  function isExcludedCompany(company) {
     const c = (company || '').toLowerCase();
     return EXCLUDE_COMPANY.some(t => t && c.includes(t));
   }
 
   // Role buckets for the Role filter: [name, RegExp], applied top-to-bottom.
-  let ROLE_CATS = [
-    ['Toxicology', /toxicolog/],
-    ['Risk/Exposure', /risk assess|exposure|hazard|dose.response|pharmacokinetic|toxicokinetic/],
-    ['Water', /water|drinking water|watershed|aquatic|marine|limnolog/],
-    ['Contaminants', /microplastic|nanoplastic|pfas|contaminant|pollution|remediation/],
-    ['Environmental Health', /environmental health|epidemiolog|public health/],
-    ['Environmental Science', /environmental|ecolog|sustainab|conservation|chemist/],
-    ['Policy/Regulatory', /policy|regulatory|stewardship|registration|reach\b|affairs/],
-    ['Data Science', /data scien|data analyst|biostatistic|informatic/],
-    ['Academic', /professor|faculty|lecturer/],
-  ];
+  let ROLE_CATS = [];
   let ROLE_NAMES = ROLE_CATS.map(r => r[0]).concat('Other');
+  let TARGET_LOCATION_TERMS = [];
+  let REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE = false;
+  let TARGET_TITLE_TERMS = [];
+  let TARGET_SENIORITY_TERMS = [];
+  let TARGET_DOMAIN_TERMS = [];
   function classifyRole(title) {
     const t = (title || '').toLowerCase();
     for (const [name, re] of ROLE_CATS) if (re.test(t)) return name;
@@ -707,6 +694,17 @@
       if (Array.isArray(ex)) EXCLUDE_COMPANY = ex.map(t => String(t).toLowerCase());
       const titleEx = (cfg.keywords || {}).exclude;
       if (Array.isArray(titleEx)) EXCLUDED_TITLE_RE = buildExcludedTitleRe(titleEx);
+      const locations = ((cfg.location_filter || {}).terms) || [];
+      if (Array.isArray(locations)) {
+        TARGET_LOCATION_TERMS = locations.map(t => String(t).toLowerCase()).filter(Boolean);
+      }
+      REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE = Boolean(
+        (cfg.location_filter || {}).require_country_evidence_for_remote
+      );
+      const keywords = cfg.keywords || {};
+      TARGET_TITLE_TERMS = (keywords.include || []).map(t => String(t).toLowerCase()).filter(Boolean);
+      TARGET_SENIORITY_TERMS = (keywords.fuzzy_seniority || []).map(t => String(t).toLowerCase()).filter(Boolean);
+      TARGET_DOMAIN_TERMS = (keywords.fuzzy_domain || []).map(t => String(t).toLowerCase()).filter(Boolean);
       const p = cfg.profile || {};
       if (p.title) {
         document.title = 'Job Triage — ' + p.title;
@@ -714,6 +712,28 @@
         if (h1) h1.textContent = (p.emoji ? p.emoji + ' ' : '') + p.title;
       }
     } catch (e) { console.warn('[applyConfig] ignored bad config:', e.message); }
+  }
+
+  const US_STATE_NAMES = new RegExp('\\b(?:alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming)\\b', 'i');
+  const US_STATE_CODE = /,\s*(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)(?:\s|,|$)/i;
+  const CANADA_PROVINCE_CODE = /,\s*(?:AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)(?:\s|,|$)/i;
+  function isTargetLocation(location) {
+    const raw = String(location || '').trim();
+    if (!raw) return false;
+    const loc = raw.toLowerCase();
+    // JobSpy can render Canadian results as "Toronto, ON, CA". A Canadian
+    // province code is stronger evidence than the ambiguous trailing CA.
+    if (/\bcanada\b/i.test(raw) || CANADA_PROVINCE_CODE.test(raw)) return true;
+    if (/\b(?:united states|u\.s\.?a?\.?|usa)\b/i.test(raw) || US_STATE_NAMES.test(raw) || US_STATE_CODE.test(raw)) return false;
+    if (REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE && /^(?:remote|hybrid)(?:\s+(?:role|position|work))?$/i.test(raw)) return false;
+    return TARGET_LOCATION_TERMS.some(term => loc.includes(term));
+  }
+  function isTargetRole(title) {
+    const value = String(title || '').toLowerCase();
+    if (!value || (EXCLUDED_TITLE_RE && EXCLUDED_TITLE_RE.test(value))) return false;
+    if (TARGET_TITLE_TERMS.some(term => value.includes(term))) return true;
+    return TARGET_SENIORITY_TERMS.some(term => value.includes(term)) &&
+      TARGET_DOMAIN_TERMS.some(term => value.includes(term));
   }
 
   // ---------- Classifiers ----------
@@ -744,23 +764,16 @@
 
   const WORK_MODES = [
     'On-site',
-    'Remote in-state eligible',
-    'Remote out-of-state eligible',
-    'Telecommute eligible',
+    'Remote — Canada eligible',
+    'Hybrid',
   ];
   function classifyWorkArrangement(j) {
     const text = [
       j.work_arrangement, j.telework, j.job_type, j.location,
     ].filter(Boolean).join(' ').toLowerCase().replace(/[\s\-_]+/g, ' ');
-    if (/\b(out of state|out state|out of state eligible|remote out of state)\b/.test(text)) {
-      return 'Remote out-of-state eligible';
-    }
-    if (/\b(in state|instate|in site|remote in state|remote in site)\b/.test(text)) {
-      return 'Remote in-state eligible';
-    }
-    if (/\b(telecommut\w*|telework|hybrid)\b/.test(text)) return 'Telecommute eligible';
+    if (/\b(telecommut\w*|telework|hybrid)\b/.test(text)) return 'Hybrid';
     if (/\b(work from home|remote|long distance)\b/.test(text) || j.is_remote === true) {
-      return 'Remote in-state eligible';
+      return 'Remote — Canada eligible';
     }
     if (/\b(on site|onsite|in office|office centered|in person|business location|work in person)\b/.test(text) || j.is_remote === false) {
       return 'On-site';
@@ -783,7 +796,7 @@
     if (/\b(u\.?s\.?\s+|state of |county of |city of |town of |port of )/i.test(j.company)) return 'Government';
     if (/\b(department|agency|bureau|office|division|board|commission|authority|district)\b/.test(co)
         && !/consulting|consultants|inc\.|llc|corp|ltd/.test(co)) return 'Government';
-    if (/\bepa\b|environmental protection agency|ca\.?\s*oehha|\bcdfw\b|\bcdtsc\b|\bswrcb\b|\bcarb\b|\bcdph\b|\bnoaa\b|\bnist\b|\bniehs\b|\bnih\b|\busgs\b|\bfda\b|\bnps\b|army corps|air force|navy |dept\. of /.test(co)) return 'Government';
+    if (/\b(?:government|ministry|department|agency|public service|crown corporation|municipality|city of|province of|government of canada)\b/.test(co)) return 'Government';
     if (/\b(county|municipalities|municipal)\b/.test(co) && !/inc\.|llc|corp/.test(co)) return 'Government';
 
     // Academic — universities, colleges, research institutes attached to academia.
@@ -791,11 +804,11 @@
     if (/\b(uc |cal poly|caltech|stanford|mit |harvard|yale |ucla|ucsd|ucsb|uci |ucr |ucsc|ucd )\b/.test(co)) return 'Academic';
 
     // Non-profit — foundations, conservancies, advocacy orgs, research NGOs.
-    if (/\b(foundation|conservancy|conservation|alliance|coalition|league|society|federation|greenpeace|audubon|sierra club|nature conservancy|natural resources defense|earthjustice|wildlife fund|environmental defense|waterkeeper|clean water|clean air|public interest)\b/.test(co)) return 'Non-profit';
+    if (/\b(foundation|charity|non-?profit|association|alliance|coalition|society|federation|public interest)\b/.test(co)) return 'Non-profit';
     if (/\b(institute|center|centre)\b/.test(co) && !/inc\.|llc|corp\.|ltd\.|consulting/.test(co)) return 'Non-profit';
     if (/\bnon-?profit\b|\b501\s*\(?c\)?/.test(co)) return 'Non-profit';
 
-    // Consulting — environmental/engineering consultancies.
+    // Consulting and professional-services organizations.
     if (/\b(stantec|arcadis|ramboll|aecom|tetra\s*tech|brown and caldwell|cdm\s*smith|kleinfelder|exponent|hdr\b|wspa\b|golder|jacobs\b|wood\s*plc|arup\b|aptim\b|icf\b|roux\s*assoc|gradient\b|environ\b|gssi\b|scs\s*engineers)\b/.test(co)) return 'Consulting';
     if (/\bconsult(ing|ant|ants|ancy)?\b/.test(co)) return 'Consulting';
 
@@ -803,39 +816,15 @@
   }
 
   // ---------- Resume-fit scoring (client-side, deterministic) ----------
-  // Weighted keywords from Dr. Coffin's specializations. Title matches count
-  // ~3x (title is the strongest signal); company / agent "why" text also count.
-  // Tune these weights freely — higher = stronger pull toward the top of Rank.
-  let FIT_TERMS = [
-    // Tier 1 — his signature topics
-    [/microplastic|nanoplastic|plastic pollution|microfiber/, 12],
-    [/ecotoxicolog/, 12],
-    [/risk assess|risk character|human health risk|ecological risk/, 11],
-    [/\bexposure\b|exposure assess|exposure scien/, 10],
-    [/\bqsar\b|read-across|structure.activity/, 11],
-    [/\bpfas\b|per- and polyfluoro|perfluoro|forever chemical/, 10],
-    // Tier 2 — core toxicology / methods
-    [/toxicolog/, 8],
-    [/pharmacokinetic|toxicokinetic|\bpbpk\b/, 8],
-    [/dose.response|benchmark dose|\bbmd\b/, 7],
-    [/computational tox|predictive tox|new approach method|\bnam\b|in vitro|high.throughput/, 8],
-    [/emerging contaminant|\bcec\b|contaminant|pollutant/, 6],
-    [/drinking water|water quality|wastewater|recycled water|potable reuse/, 7],
-    [/hazard (?:assess|identification|character)/, 6],
-    [/endocrine|bioaccumulat|sediment|aquatic|marine|estuar/, 5],
-    // Tier 3 — adjacent / skills
-    [/environmental health|environmental chemist|environmental scien/, 4],
-    [/regulatory|policy|standard setting|guidance/, 4],
-    [/data scien|machine learning|\bshiny\b|\br programming\b|biostatistic|modeling|modelling/, 4],
-    [/cheminformatic|chemical safety|chemical risk|product steward/, 5],
-  ];
+  // Rules are loaded exclusively from the owner's scoring_profile.json.
+  let FIT_TERMS = [];
   let SIGNATURE_TERMS = [];
   let POOR_FIT_TERMS = [];
   let FIT_SETTINGS = {
-    title_multiplier: 3,
+    title_multiplier: 1,
     body_multiplier: 1,
-    score_multiplier: 1.6,
-    generic_cap: 35,
+    score_multiplier: 1,
+    generic_cap: 0,
   };
   function compileScoringRegex(pattern) {
     try { return new RegExp(pattern, 'i'); }
@@ -877,35 +866,34 @@
     return out;
   }
   async function loadScoringProfile(bust) {
-    try {
-      const r = await fetch('scoring_profile.json' + bust);
-      if (!r.ok) return;
-      const profile = JSON.parse(repairJsonRegexEscapes(await r.text()));
-      const fit = compileWeightedRules(profile.fit_terms, 'weight');
-      const signatures = Array.isArray(profile.signature_terms)
-        ? profile.signature_terms.map(compileScoringRegex).filter(Boolean) : [];
-      const poor = compileWeightedRules(profile.poor_fit_terms, 'penalty');
-      // A custom profile replaces the built-in example terms. Missing sections
-      // are treated as empty so example-domain scoring never leaks into another field.
-      FIT_TERMS = fit;
-      SIGNATURE_TERMS = signatures;
-      POOR_FIT_TERMS = poor;
-      if (profile.settings && typeof profile.settings === 'object') {
-        for (const key of Object.keys(FIT_SETTINGS)) {
-          const val = Number(profile.settings[key]);
-          if (Number.isFinite(val)) FIT_SETTINGS[key] = val;
-        }
-      }
-      console.info('[scoring_profile] loaded scoring_profile.json');
-    } catch (e) {
-      console.warn('[scoring_profile] ignored scoring_profile.json:', e.message || e);
+    const r = await fetch('scoring_profile.json' + bust);
+    if (!r.ok) {
+      throw new Error(`Configuration required: scoring_profile.json could not be loaded (${r.status}).`);
     }
+    const profile = JSON.parse(repairJsonRegexEscapes(await r.text()));
+    const fit = compileWeightedRules(profile.fit_terms, 'weight');
+    const signatures = Array.isArray(profile.signature_terms)
+      ? profile.signature_terms.map(compileScoringRegex).filter(Boolean) : [];
+    const poor = compileWeightedRules(profile.poor_fit_terms, 'penalty');
+    if (!fit.length || !signatures.length) {
+      throw new Error('Configuration required: scoring_profile.json needs fit_terms and signature_terms.');
+    }
+    FIT_TERMS = fit;
+    SIGNATURE_TERMS = signatures;
+    POOR_FIT_TERMS = poor;
+    if (profile.settings && typeof profile.settings === 'object') {
+      for (const key of Object.keys(FIT_SETTINGS)) {
+        const val = Number(profile.settings[key]);
+        if (Number.isFinite(val)) FIT_SETTINGS[key] = val;
+      }
+    }
+    console.info('[scoring_profile] loaded scoring_profile.json');
   }
   // Cache of significant tokens from "not relevant"-marked titles → penalty source.
   let IRRELEVANT_CORPUS = {};
   const FIT_STOPWORDS = new Set(('the a an of for and or to in at on with senior staff principal '
     + 'lead associate director scientist engineer manager specialist analyst i ii iii iv v jr sr '
-    + 'california remote hybrid full time part').split(/\s+/));
+    + 'canada canadian ontario toronto remote hybrid full time part').split(/\s+/));
   function fitTokens(text) {
     return (text || '').toLowerCase().match(/[a-z][a-z+-]{3,}/g) || [];
   }
@@ -1049,14 +1037,8 @@
   }
 
   // ---------- Priority-topic star ----------
-  // Flag (★) roles touching signature topics, scanning title + company +
-  // description. Default fallback; overridden by config.json → priority_topics.
-  let STAR_TERMS = [
-    ['microplastics', /microplastic|nanoplastic|microfiber/i],
-    ['ecotoxicology', /ecotoxicolog/i],
-    ['endocrine-disrupting chemicals', /endocrine[\s-]?disrupt|\bedcs?\b/i],
-    ['R / Shiny', /\brshiny\b|\br[\s-]?shiny\b|shiny\s*(?:app|dashboard|server)|\bshiny\b/i],
-  ];
+  // Flag (★) roles touching configured priority topics.
+  let STAR_TERMS = [];
   function starHits(j) {
     const text = `${j.title || ''} ${j.company || ''} ${j.description || ''}`;
     return STAR_TERMS.filter(([, re]) => re.test(text)).map(([name]) => name);
@@ -1279,9 +1261,12 @@
     });
     if (okCount === 0) throw new Error('all sources failed');
     const jobs = [...byUrl.values()]
-      .filter(j => !isPharma(j.company))   // env-tox only — drop pharma/drug-dev
+      .filter(j => isTargetLocation(j.location))
+      .filter(j => isTargetRole(j.title))
+      .filter(j => !isExcludedCompany(j.company))
       .sort((a, b) => (b.date_posted || '').localeCompare(a.date_posted || ''));
-    return { scraped_at, new_count, new_jobs, jobs };
+    new_jobs = new_jobs.filter(j => jobs.some(kept => kept.url === j.url));
+    return { scraped_at, new_count: new_jobs.length, new_jobs, jobs };
   }
 
   // ---------- Merge (additive — preserves triage history) ----------
@@ -1892,10 +1877,9 @@
   }
 
   // ---------- Map view (Leaflet) ----------
-  // Client-side geocoding via a static city/region → [lat,lng] table covering
-  // California, Oregon, and Australia (no API key, no network). Jobs cluster by
-  // location; the view auto-fits to wherever they are. Remote/unknown roles get
-  // a single marker at the California center.
+  // Client-side geocoding via a static city/region → [lat,lng] table (no API
+  // key, no network). Canadian entries at the end override any ambiguous city
+  // names in the inherited table. Remote roles use the Canada centroid.
   const CITY_COORDS = {
     'sacramento': [38.5816, -121.4944], 'west sacramento': [38.5805, -121.5302],
     'davis': [38.5449, -121.7405], 'rancho cordova': [38.5891, -121.3027],
@@ -1997,8 +1981,22 @@
     'new york': [40.7128, -74.006], 'houston': [29.7604, -95.3698],
     'dallas': [32.7767, -96.797], 'phoenix': [33.4484, -112.074],
     'anchorage': [61.2181, -149.9003], 'honolulu': [21.3069, -157.8583],
+    // ---- Canada (target geography; entries intentionally last) ----
+    'greater toronto area': [43.6532, -79.3832], 'toronto': [43.6532, -79.3832],
+    'mississauga': [43.5890, -79.6441], 'etobicoke': [43.6205, -79.5132],
+    'north york': [43.7615, -79.4111], 'markham': [43.8561, -79.3370],
+    'vaughan': [43.8372, -79.5083], 'oakville': [43.4675, -79.6877],
+    'brampton': [43.7315, -79.7624], 'hamilton': [43.2557, -79.8711],
+    'waterloo': [43.4643, -80.5204], 'ottawa': [45.4215, -75.6972],
+    'montreal': [45.5019, -73.5674], 'quebec city': [46.8139, -71.2080],
+    'vancouver': [49.2827, -123.1207], 'burnaby': [49.2488, -122.9805],
+    'calgary': [51.0447, -114.0719], 'edmonton': [53.5461, -113.4938],
+    'winnipeg': [49.8951, -97.1384], 'halifax': [44.6488, -63.5752],
+    'ontario': [50.0000, -85.0000], 'british columbia': [53.7267, -127.6476],
+    'alberta': [53.9333, -116.5765], 'quebec': [52.9399, -73.5491],
   };
-  const CA_CENTER = [37.4, -119.5];
+  const CANADA_CENTER = [56.1304, -106.3468];
+  const GTA_CENTER = [43.6532, -79.3832];
   const US_CENTROID = [39.5, -98.0];
   // Full US state names (USAJOBS uses these) → fall back to the US centroid
   // when no city matched, so federal roles don't pile onto California.
@@ -2015,6 +2013,7 @@
       if (s.includes(city) && city.length > bestLen) { best = CITY_COORDS[city]; bestLen = city.length; }
     }
     if (best) return best;
+    if (/\bcanada\b/.test(s)) return CANADA_CENTER;
     if (/australia/.test(s)) return [-25.27, 133.77];      // AU centroid
     if (/\boregon\b|,\s*or\b/.test(s)) return [44.0, -120.5]; // OR centroid
     if (US_STATE_RE.test(s)) return US_CENTROID;            // other US (federal) → US centroid
@@ -2029,7 +2028,7 @@
       return;
     }
     if (!_map) {
-      _map = L.map('map', { scrollWheelZoom: true }).setView(CA_CENTER, 6);
+      _map = L.map('map', { scrollWheelZoom: true }).setView(GTA_CENTER, 5);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 18, attribution: '© OpenStreetMap'
       }).addTo(_map);
@@ -2045,7 +2044,7 @@
       const c = geocodeJob(j.location);
       if (!c) { remoteCount++;
         const k = 'remote';
-        if (!buckets.has(k)) buckets.set(k, { lat: CA_CENTER[0], lng: CA_CENTER[1], remote: true, jobs: [] });
+        if (!buckets.has(k)) buckets.set(k, { lat: CANADA_CENTER[0], lng: CANADA_CENTER[1], remote: true, jobs: [] });
         buckets.get(k).jobs.push(j); return;
       }
       const k = c[0] + ',' + c[1];
@@ -2063,7 +2062,7 @@
         `<div style="margin:3px 0">${j._star ? '<span style="color:#d97706">★</span> ' : ''}`
         + `<a href="${escape(j.url)}" target="_blank" rel="noopener">${escape(j.title)}</a> <span style="color:#888">· score ${rankScore(j).value}</span>`
         + `<br><span style="color:#666">${escape(j.company)}${j._salDisp ? ' · ' + escape(j._salDisp) : ''}</span></div>`).join('');
-      const where = b.remote ? 'Remote / Statewide' : escape(top[0].location || 'California');
+      const where = b.remote ? 'Remote / Canada' : escape(top[0].location || 'Canada');
       const m = L.circleMarker([b.lat, b.lng], {
         radius: r, color: b.remote ? '#a78bfa' : '#34d399',
         fillColor: b.remote ? '#a78bfa' : '#34d399', fillOpacity: 0.55, weight: 1.5,
@@ -2074,7 +2073,7 @@
         { maxWidth: 320 });
     });
 
-    // Auto-fit to wherever the jobs are (CA + Oregon + Australia). Only refit
+    // Auto-fit to wherever the Canadian jobs are. Only refit
     // when the extent actually changes, so dragging the salary slider etc.
     // doesn't keep snapping the view.
     const pts = [...buckets.values()].map(b => [b.lat, b.lng]);
@@ -2083,7 +2082,7 @@
       _map.fitBounds(pts, { padding: [34, 34], maxZoom: 9 });
       _lastFitKey = key;
     } else if (!pts.length) {
-      _map.setView(CA_CENTER, 5); _lastFitKey = '';
+      _map.setView(GTA_CENTER, 5); _lastFitKey = '';
     }
 
     note.hidden = false;
@@ -2214,14 +2213,15 @@
     }).filter(Boolean);
     return escaped.length ? new RegExp(escaped.join('|'), 'i') : null;
   }
-  let EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|engineer|engineering|ehs|occupational safety|occupational health)\b|health\s*&\s*safety|health and safety/i;
+  let EXCLUDED_TITLE_RE = null;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
       if (state.triage[j.url]) return true;
       if (EXCLUDED_TITLE_RE && EXCLUDED_TITLE_RE.test(j.title || '')) return false;
-      if (isPharma(j.company)) return false;   // env-tox only — drop cached pharma
+      if (!isTargetLocation(j.location) || !isTargetRole(j.title)) return false;
+      if (isExcludedCompany(j.company)) return false;
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
     });
@@ -2238,12 +2238,14 @@
   async function refresh() {
     $('snapshot-line').textContent = 'Loading…';
     try {
-      // config.json drives branding / role buckets / stars / exclusions.
-      // Missing or invalid → keep the built-in defaults (applyConfig no-ops).
-      try {
-        const cr = await fetch('config.json?v=' + Date.now());
-        if (cr.ok) applyConfig(await cr.json());
-      } catch { /* keep defaults */ }
+      const cr = await fetch('config.json?v=' + Date.now());
+      if (!cr.ok) throw new Error(`Configuration required: config.json could not be loaded (${cr.status}).`);
+      const cfg = await cr.json();
+      if (!cfg?.profile || !Array.isArray(cfg?.keywords?.include) ||
+          !Array.isArray(cfg?.location_filter?.terms)) {
+        throw new Error('Configuration required: config.json is missing profile, keywords, or location settings.');
+      }
+      applyConfig(cfg);
       SEED = await loadJobs();
       SEED.jobs.forEach(enrich);
       replaceJobs(SEED.jobs);

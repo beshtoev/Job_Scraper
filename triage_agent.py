@@ -39,9 +39,12 @@ JD_FETCHABLE_ATS = {"Greenhouse", "Workday", "Phenom", "Lever", "Ashby"}
 MODEL_TIMEOUT = 120   # seconds per model call (CLI path)
 FETCH_TIMEOUT = 15    # seconds per JD fetch
 
-ROLE_FAMILIES = ("toxicology | risk-exposure-assessment | environmental-science | "
-                 "environmental-health-epi | water-quality | chemical-safety-regulatory | "
-                 "data-science | science-policy | academic | other")
+ROLE_FAMILIES = (
+    "ai-leadership | data-leadership | analytics-leadership | "
+    "finance-transformation | fp-and-a-leadership | digital-transformation | "
+    "automation-leadership | data-governance | ai-governance | "
+    "technology-leadership | enterprise-platforms | other"
+)
 
 HEADERS = {
     "User-Agent": (
@@ -59,7 +62,8 @@ def load_jobs(from_files: bool) -> list[dict]:
     """All candidate roles, deduped by URL. Prefers the cumulative master."""
     if not from_files and os.path.exists(ALL_JOBS_PATH):
         with open(ALL_JOBS_PATH) as f:
-            return list(json.load(f).get("jobs", []))
+            jobs = list(json.load(f).get("jobs", []))
+        return _eligible_jobs(jobs)
 
     # Fallback for local testing before all_jobs.json exists: union the live
     # per-source snapshots (rolling windows — NOT the full day; see AGENT_README).
@@ -75,7 +79,18 @@ def load_jobs(from_files: bool) -> list[dict]:
             url = j.get("url", "")
             if url and url not in by_url:
                 by_url[url] = j
-    return list(by_url.values())
+    return _eligible_jobs(list(by_url.values()))
+
+
+def _eligible_jobs(jobs: list[dict]) -> list[dict]:
+    """Apply the same Canada/executive gate used before scraper persistence."""
+    from scrape_jobs import is_target_location, role_is_relevant
+
+    return [
+        job for job in jobs
+        if is_target_location(job.get("location", ""))
+        and role_is_relevant(job.get("title", ""), job.get("company", ""))
+    ]
 
 
 def load_scores() -> dict:
@@ -210,10 +225,28 @@ def build_static_prefix(profile: str, resume: str) -> str:
         '"outreach_opener": "<2 tailored sentences the candidate could send>"}',
         "",
         "Rules:",
+        "- Geographic eligibility is mandatory: the role must be based in Canada "
+        "or explicitly available to candidates working in Canada. A US-only, "
+        "US-remote-only, or otherwise non-Canadian role must score 0-15, receive "
+        "verdict `skip`, and include a location-ineligible flag. Do not infer "
+        "Canadian eligibility from the word `remote` alone.",
         "- Weight role-family match against the candidate's target families: an "
         "off-target family scores low and gets flagged even if seniority and "
         "company look great.",
-        "- Weight seniority against the candidate's band.",
+        "- This search targets executive Data, AI, Analytics, Finance/FP&A, "
+        "Governance, Technology/Platforms, Automation, and enterprise "
+        "Transformation mandates. Prefer Chief, VP, Head, Senior Director, "
+        "Managing Director, and Executive Director scope. A Director role is "
+        "strong only when the posting demonstrates enterprise ownership, team "
+        "leadership, decision authority, and executive exposure.",
+        "- Score the mandate, not title prestige. Reward enterprise-wide ownership, "
+        "operating-model or portfolio accountability, C-suite/board exposure, "
+        "people leadership, measurable business outcomes, and cross-domain "
+        "combinations such as Finance + AI/Data/Automation.",
+        "- Down-rank hands-on individual-contributor engineering/data-science work, "
+        "routine reporting, project/program management without functional "
+        "ownership, and sales or marketing roles.",
+        "- Use `strong` for scores 80-100, `maybe` for 70-79, and `skip` below 70.",
         "- Use the resume (when present) for skill-level matching, and make the "
         "opener reference the role specifically.",
         "- `why`, `flags`, `seniority_fit`, and `outreach_opener` will be "
@@ -223,8 +256,8 @@ def build_static_prefix(profile: str, resume: str) -> str:
         "(spelled out or as an acronym), dates or durations, or any number "
         "taken from the resume (metrics, publication counts, years of "
         "experience). Refer to the candidate only as 'the candidate' and to "
-        "their background generically (e.g. 'strong medical-imaging deep "
-        "learning background'). If tempted to say where the candidate worked "
+        "their background generically (e.g. 'enterprise data and transformation "
+        "leadership background'). If tempted to say where the candidate worked "
         "or studied, write 'in prior roles' instead. Write the opener in "
         "first person without self-identifying details, and never mention "
         "compensation.",

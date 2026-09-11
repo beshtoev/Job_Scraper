@@ -184,6 +184,14 @@ CASES = [
 ]
 
 
+# Replace the upstream demonstration cases with this fork's active Canada and
+# executive-role suite. Keeping the runner separate lets the public synthetic
+# cases evolve without touching model/backend logic.
+from executive_triage_cases import CASES as EXECUTIVE_CASES
+
+CASES = EXECUTIVE_CASES
+
+
 # ---------------------------------------------------------------------------
 # Runner
 # ---------------------------------------------------------------------------

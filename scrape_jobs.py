@@ -42,13 +42,10 @@ HEADERS = {
 }
 
 # ---------------------------------------------------------------------------
-# Config — ALL of a user's search settings live in config.json (edit it by hand
-# or generate it from a CV; see docs/cv-to-config-prompt.md). config.example.json
-# (committed, always present) supplies the base values; config.json (personal,
-# gitignored) is deep-merged on top key-by-key, so an older/partial config.json
-# missing a newer key still picks up the example's value for it. There are no
-# separate hardcoded Python defaults to keep in sync — a totally unreadable
-# config is fatal rather than silently scraping nothing.
+# Config — ALL live search settings come from the owner's config.json. The
+# example file is documentation/setup material only; using it silently would
+# reintroduce someone else's geography and taxonomy when personalization is
+# missing.
 # ---------------------------------------------------------------------------
 
 def _read_json(path: str) -> dict | None:
@@ -62,34 +59,22 @@ def _read_json(path: str) -> dict | None:
         return None
 
 
-def _deep_merge(base: dict, override: dict) -> dict:
-    merged = dict(base)
-    for key, value in override.items():
-        if isinstance(value, dict) and isinstance(merged.get(key), dict):
-            merged[key] = _deep_merge(merged[key], value)
-        else:
-            merged[key] = value
-    return merged
-
-
 def _load_config() -> dict:
-    base = _read_json(os.path.join(SCRIPT_DIR, "config.example.json")) or {}
     user = _read_json(os.path.join(SCRIPT_DIR, "config.json"))
     if user is None:
-        if not base:
-            sys.exit(
-                "  ⛔ No usable config found (config.json and config.example.json are "
-                "both missing or unparseable). Copy config.example.json to config.json, "
-                "or fix its JSON syntax, and re-run."
-            )
-        print("  ℹ️  config.json not found; using config.example.json as-is "
-              "(copy it to config.json and customize)")
-        return base
-    if not base:
-        print("  ⚠️  config.example.json not loaded; using config.json only "
-              "(newer optional keys may be missing)")
-        return user
-    return _deep_merge(base, user)
+        sys.exit(
+            "  ⛔ CONFIGURATION REQUIRED: config.json is missing or invalid. "
+            "Live scraping is disabled until the owner's geography and role "
+            "taxonomy are configured."
+        )
+    required = ("profile", "keywords", "search_terms", "locations", "location_filter")
+    missing = [key for key in required if not isinstance(user.get(key), dict)]
+    if missing:
+        sys.exit(
+            "  ⛔ CONFIGURATION REQUIRED: config.json is missing required section(s): "
+            + ", ".join(missing)
+        )
+    return user
 
 
 CONFIG = _load_config()
@@ -281,6 +266,9 @@ def text_matches_keywords(title: str, *parts: str) -> bool:
 # geo-filter at the API level — see LINKEDIN_GEOS / INDEED_GEOS.) Config.json →
 # location_filter.terms; case-insensitive substring match on the job location.
 TARGET_LOCATIONS = [str(t).lower() for t in _cfg("location_filter.terms", [])]
+REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE = bool(
+    _cfg("location_filter.require_country_evidence_for_remote", False)
+)
 
 # Country scope is config-driven. The original implementation assumed every
 # user was US-based and rejected Canada/Australia even when those countries
@@ -416,8 +404,16 @@ def is_target_location(location: str) -> bool:
     if explicit_countries:
         return bool(explicit_countries & TARGET_COUNTRIES)
 
-    # City/province-only and generic Remote/Hybrid labels have no explicit
-    # country. In those cases, fall back to configured location terms.
+    # A bare Remote/Hybrid label does not prove that a Canadian candidate is
+    # eligible. This fork deliberately prefers a false negative over silently
+    # admitting another country's remote-only role.
+    if REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE and re.fullmatch(
+        r"(?:remote|hybrid)(?:\s+(?:role|position|work))?", loc.strip()
+    ):
+        return False
+
+    # City/province-only labels have no explicit country. Fall back to the
+    # owner's configured place terms.
     return any(place in loc for place in TARGET_LOCATIONS)
 
 
@@ -2948,13 +2944,25 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
     the same path so each email surfaces only postings new to this run.
     """
-    # Single chokepoint for the company exclusion: every source (LinkedIn,
-    # Indeed, priority, CalCareers) funnels through here, so dropping excluded
-    # companies once keeps all digests AND all_jobs.json clean.
+    # Single eligibility chokepoint: every source funnels through here. Source
+    # APIs can ignore their query geography or return loosely related titles,
+    # so enforce Canada + Murat's executive taxonomy before persistence,
+    # accumulation, notifications, and rendering.
+    before = len(jobs)
+    jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+    if len(jobs) < before:
+        print(f"  🇨🇦 Dropped {before - len(jobs)} non-Canadian role(s)")
+    before = len(jobs)
+    jobs = [
+        j for j in jobs
+        if role_is_relevant(j.get("title", ""), j.get("company", ""))
+    ]
+    if len(jobs) < before:
+        print(f"  🎯 Dropped {before - len(jobs)} off-profile role(s)")
     before = len(jobs)
     jobs = [j for j in jobs if not _is_excluded_company(j.get("company", ""))]
     if len(jobs) < before:
-        print(f"  🚫 Dropped {before - len(jobs)} excluded role(s)")
+        print(f"  🚫 Dropped {before - len(jobs)} excluded-company role(s)")
     for job in jobs:
         _ensure_work_arrangement(job)
 

@@ -45,6 +45,7 @@ def _us_search_scope(monkeypatch):
     """Keep these generic regression cases independent of a fork owner's config."""
     monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"united states"})
     monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["remote", "hybrid"])
+    monkeypatch.setattr(scrape_jobs, "REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE", False)
 
 
 @pytest.mark.parametrize("state", US_STATES)
@@ -89,6 +90,15 @@ def test_us_location_rejected_when_only_canada_is_configured(monkeypatch):
     monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["canada", "remote", "hybrid"])
     assert is_target_location("Hybrid - Austin, TX") is False
     assert is_target_location("Remote, United States") is False
+
+
+def test_bare_remote_rejected_when_canadian_evidence_is_required(monkeypatch):
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
+    monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["canada", "remote", "hybrid"])
+    monkeypatch.setattr(scrape_jobs, "REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE", True)
+    assert is_target_location("Remote") is False
+    assert is_target_location("Hybrid") is False
+    assert is_target_location("Remote, Canada") is True
 
 
 @pytest.mark.parametrize("location", INTERNATIONAL)

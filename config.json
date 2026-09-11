@@ -290,7 +290,8 @@
     }
   },
   "location_filter": {
-    "_comment": "Case-insensitive post-filter for LinkedIn and sources without API geo-scoping.",
+    "_comment": "Case-insensitive post-filter for LinkedIn and sources without API geo-scoping. Bare Remote/Hybrid labels are rejected because they do not prove Canadian work eligibility.",
+    "require_country_evidence_for_remote": true,
     "terms": [
       "toronto",
       "greater toronto area",
