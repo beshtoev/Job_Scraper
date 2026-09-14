@@ -151,6 +151,7 @@
       "AI Transformation",
       "Finance Transformation",
       "VP FP&A",
+      "Vice President Financial Planning",
       "Head of FP&A",
       "Digital Transformation",
       "Data Governance",
@@ -322,6 +323,29 @@
       "remote",
       "hybrid"
     ]
+  },
+  "geography": {
+    "_comment": "Used by enrich_geography.py (runs after each scrape). Jobs are ranked by category_order, then by distance from home. Research looks up a company's office with Claude + web search when a posting gives no address; it needs the ANTHROPIC_API_KEY secret and is capped per run.",
+    "home": {
+      "label": "M4P 1W3 (Yonge & Eglinton), Toronto, ON",
+      "lat": 43.7075,
+      "lon": -79.396
+    },
+    "category_order": [
+      "Toronto",
+      "GTA",
+      "Ontario",
+      "Canada Remote",
+      "Other Canada",
+      "Canada (unspecified)"
+    ],
+    "research": {
+      "enabled": true,
+      "model": "claude-opus-5",
+      "max_per_run": 25,
+      "refine_known_cities": true,
+      "retry_failed_after_days": 7
+    }
   },
   "google_jobs": {
     "queries": [],

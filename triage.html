@@ -476,7 +476,7 @@
     <div id="sort-controls" class="controls-row" style="gap:6px">
       <button type="button" class="pill on" data-sort="fit" aria-pressed="true">★ Best fit</button>
       <button type="button" class="pill" data-sort="time" aria-pressed="false">Time posted</button>
-      <button type="button" class="pill" data-sort="location" aria-pressed="false">Location</button>
+      <button type="button" class="pill" data-sort="location" aria-pressed="false" title="Toronto → GTA → Ontario → Canada remote → rest of Canada, then distance from home">Nearest</button>
     </div>
   </div>
   <div class="controls-row">
@@ -494,6 +494,10 @@
   <div class="controls-row">
     <span class="pillgroup-label">Work mode</span>
     <div id="filter-work" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Location</span>
+    <div id="filter-geo" class="controls-row" style="gap:6px"></div>
   </div>
   <div class="controls-row">
     <span class="pillgroup-label">Sector</span>
@@ -672,6 +676,8 @@
   let REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE = false;
   let TARGET_TITLE_TERMS = [];
   let TARGET_SENIORITY_TERMS = [];
+  // Home point for distance ranking — config.json → geography.home.
+  let HOME = { label: 'M4P 1W3 (Yonge & Eglinton), Toronto, ON', lat: 43.7075, lon: -79.3960 };
   let TARGET_DOMAIN_TERMS = [];
   function classifyRole(title) {
     const t = (title || '').toLowerCase();
@@ -705,6 +711,8 @@
       TARGET_TITLE_TERMS = (keywords.include || []).map(t => String(t).toLowerCase()).filter(Boolean);
       TARGET_SENIORITY_TERMS = (keywords.fuzzy_seniority || []).map(t => String(t).toLowerCase()).filter(Boolean);
       TARGET_DOMAIN_TERMS = (keywords.fuzzy_domain || []).map(t => String(t).toLowerCase()).filter(Boolean);
+      const home = (cfg.geography || {}).home;
+      if (home && typeof home.lat === 'number' && typeof home.lon === 'number') HOME = home;
       const p = cfg.profile || {};
       if (p.title) {
         document.title = 'Job Triage — ' + p.title;
@@ -762,12 +770,49 @@
     return 'Other';
   }
 
+  // Location facet values, ordered nearest-first by each label's best geo_rank.
+  function geoLabels() {
+    const best = new Map();
+    VIEW.forEach(j => {
+      if (!j._geo) return;
+      const r = j.geo_rank ?? Number.MAX_SAFE_INTEGER;
+      if (!best.has(j._geo) || r < best.get(j._geo)) best.set(j._geo, r);
+    });
+    return [...best.keys()].sort((x, y) => best.get(x) - best.get(y) || compareText(x, y));
+  }
+  const GEO_SOURCE_TEXT = {
+    'posting-address': 'office address in the posting',
+    'posting-city': "posting's city (office address not given)",
+    'research': 'office found by web research',
+    'description': 'city named in the description',
+    'inferred': 'inferred from the stated region',
+  };
+  function geoSuffix(j) {
+    const km = j.geo_distance_km;
+    const bits = [];
+    const parts = (j.location || '').toLowerCase().split(',').map(s => s.trim());
+    if (j.geo_label && !parts.includes(j.geo_label.toLowerCase())) bits.push(escape(j.geo_label));
+    if (km != null && j.geo_category !== 'Canada Remote') bits.push(`${km < 10 ? km.toFixed(1) : Math.round(km)} km`);
+    if (j.geo_confidence === 'low') bits.push('approx.');
+    return bits.length ? ` <span class="ct">· ${bits.join(' · ')}</span>` : '';
+  }
+  function geoTitle(j) {
+    if (!j.geo_source) return '';
+    const text = `Location: ${GEO_SOURCE_TEXT[j.geo_source] || j.geo_source}`
+      + (j.geo_detail ? ` — ${j.geo_detail}` : '')
+      + ` (confidence: ${j.geo_confidence || 'low'}). Distance from ${HOME.label}.`;
+    return ` title="${escape(text)}"`;
+  }
+
   const WORK_MODES = [
     'On-site',
     'Remote — Canada eligible',
     'Hybrid',
   ];
   function classifyWorkArrangement(j) {
+    // enrich_geography.py reads titles, locations and descriptions; trust it first.
+    const fromEnrichment = { 'Remote': 'Remote — Canada eligible', 'Hybrid': 'Hybrid', 'On-site': 'On-site' }[j.work_mode];
+    if (fromEnrichment) return fromEnrichment;
     const text = [
       j.work_arrangement, j.telework, j.job_type, j.location,
     ].filter(Boolean).join(' ').toLowerCase().replace(/[\s\-_]+/g, ' ');
@@ -1017,6 +1062,7 @@
     j._src    = classifySource(j);
     j._work   = classifyWorkArrangement(j);
     j._sector = classifySector(j);
+    j._geo    = j.geo_label || '';
     // Agent verdict, when this URL has been scored (see scores.json).
     // A stored "error" verdict is a failed model call, not a judgment —
     // treat it as unscored so it doesn't masquerade as a real 0/100.
@@ -1273,7 +1319,8 @@
   // Fields refreshed from each fresh scrape onto already-cached jobs (e.g. a
   // salary backfilled later). Triage lives separately in state.triage (keyed by
   // URL), so updating the job's content is safe and never loses a decision.
-  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description', 'job_type', 'is_remote', 'telework', 'work_arrangement'];
+  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description', 'job_type', 'is_remote', 'telework', 'work_arrangement',
+    'work_mode', 'geo_category', 'geo_label', 'geo_city', 'geo_province', 'geo_lat', 'geo_lon', 'geo_distance_km', 'geo_rank', 'geo_source', 'geo_confidence', 'geo_detail'];
   function mergeJobs(incoming) {
     const seen = new Map(state.jobs.map(j => [j.url, j]));
     let added = 0;
@@ -1306,6 +1353,7 @@
     role: new Set(),
     sen: new Set(),
     work: new Set(),
+    geo: new Set(),
     sector: new Set(),
     state: new Set(['active', 'saved', 'applied', 'interview', 'offer']),
     days: null,   // null = any time; else an integer day-window (7 = last 7 days)
@@ -1357,6 +1405,7 @@
     if (except !== 'role'   && filters.role.size   && !filters.role.has(j._role))     return false;
     if (except !== 'sen'    && filters.sen.size    && !filters.sen.has(j._sen))       return false;
     if (except !== 'work'   && filters.work.size   && !filters.work.has(j._work))     return false;
+    if (except !== 'geo'    && filters.geo.size    && !filters.geo.has(j._geo))       return false;
     if (except !== 'sector' && filters.sector.size && !filters.sector.has(j._sector)) return false;
     if (except !== 'state') {
       const st = state.triage[j.url] || 'active';
@@ -1414,7 +1463,12 @@
     return (jobFreshMs(b) || 0) - (jobFreshMs(a) || 0);
   }
 
+  // Nearest first: geo_rank (from enrich_geography.py) = category order, then
+  // distance from home. Jobs not yet enriched fall back to location text.
   function locationDelta(a, b) {
+    const ra = a.geo_rank, rb = b.geo_rank;
+    if (ra != null && rb != null && ra !== rb) return ra - rb;
+    if ((ra == null) !== (rb == null)) return ra == null ? 1 : -1;
     return compareText(locationSortKey(a), locationSortKey(b));
   }
 
@@ -1458,7 +1512,7 @@
     VIEW.forEach(j => {
       if (!matchesFilters(j, key)) return;          // honor every filter except this facet's
       if (key === 'source') { (j._srcs || [j._src]).forEach(s => counts[s] = (counts[s] || 0) + 1); return; }
-      const v = key === 'role' ? j._role : key === 'work' ? j._work : key === 'sector' ? j._sector : j._sen;
+      const v = key === 'role' ? j._role : key === 'work' ? j._work : key === 'geo' ? j._geo : key === 'sector' ? j._sector : j._sen;
       if (!v) return;
       counts[v] = (counts[v] || 0) + 1;
     });
@@ -1708,7 +1762,7 @@
     const header = [
       'status', 'title', 'company', 'sector', 'location', 'sources', 'salary',
       'fit_score', 'score_source', 'verdict', 'role_family', 'score_why',
-      'job_type', 'work_arrangement', 'remote', 'date_posted', 'role', 'seniority',
+      'job_type', 'work_arrangement', 'remote', 'geo_category', 'distance_km', 'geo_source', 'office_detail', 'date_posted', 'role', 'seniority',
       'note', 'url', 'direct_url',
     ];
     const lines = [header.join(',')];
@@ -1719,6 +1773,7 @@
         (j._srcs || [j._src]).join('; '), j._salDisp || j.salary || '',
         rs.value, rs.source, j._verdict || '', j._family || '', j._why || '',
         j.job_type || '', j._work || j.work_arrangement || '', j.is_remote ? 'yes' : '',
+        j.geo_label || '', j.geo_distance_km ?? '', j.geo_source || '', j.geo_detail || '',
         j.date_posted || '', j._role || '', j._sen || '',
         jobNote(j), j.url || '', j.direct_url || '',
       ].map(csvCell).join(','));
@@ -1848,7 +1903,7 @@
           <div class="meta">
             <span class="co">${escape(j.company)}</span>
             <span class="src-item">🔗 ${srcBadges}</span>
-            <span>📍 ${escape(j.location || 'Not specified')}</span>
+            <span${geoTitle(j)}>📍 ${escape(j.location || 'Not specified')}${geoSuffix(j)}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
             ${typeBits ? `<span>${typeBits}</span>` : ''}
             ${j.date_posted ? `<span title="${escape(j.date_posted)}">🕒 ${escape(_fmtDate(j.date_posted))}</span>` : ''}
@@ -2041,7 +2096,9 @@
     const buckets = new Map();   // key → {lat,lng,remote,jobs[]}
     let remoteCount = 0;
     jobs.forEach(j => {
-      const c = geocodeJob(j.location);
+      const c = j.geo_category === 'Canada Remote' ? null
+        : (j.geo_lat != null && j.geo_lon != null) ? [j.geo_lat, j.geo_lon]
+        : geocodeJob(j.location);
       if (!c) { remoteCount++;
         const k = 'remote';
         if (!buckets.has(k)) buckets.set(k, { lat: CANADA_CENTER[0], lng: CANADA_CENTER[1], remote: true, jobs: [] });
@@ -2073,6 +2130,9 @@
         { maxWidth: 320 });
     });
 
+    L.circleMarker([HOME.lat, HOME.lon], { radius: 6, color: '#ef4444', fillColor: '#ef4444', fillOpacity: 0.9, weight: 2 })
+      .addTo(_markerLayer).bindTooltip(`Home — ${escape(HOME.label)}`, { direction: 'top' });
+
     // Auto-fit to wherever the Canadian jobs are. Only refit
     // when the extent actually changes, so dragging the salary slider etc.
     // doesn't keep snapping the view.
@@ -2097,6 +2157,7 @@
     renderFilterGroup('filter-sen', 'sen',
       ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);
     renderFilterGroup('filter-work', 'work', WORK_MODES);
+    renderFilterGroup('filter-geo', 'geo', geoLabels());
     renderFilterGroup('filter-sector', 'sector', SECTOR_NAMES);
     renderDateFilter();
     renderStateFilter();

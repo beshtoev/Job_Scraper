@@ -111,12 +111,21 @@ jobs:
           git reset --hard origin/main
       - name: Merge partition results
         run: python scrape_jobs.py --linkedin-merge-backfill
+      - name: Add geography (office location, distance from home)
+        # Fail soft: a geocoding/research problem must never block saving scraped jobs.
+        continue-on-error: true
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then pip install --quiet anthropic; fi
+          python enrich_geography.py output/linkedin_jobs.json output/all_jobs.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
       - name: Commit Phase 1 results
         if: vars.ENABLE_DATA_COMMITS == 'true'
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/all_jobs.json output/deltas/
+          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/all_jobs.json output/geo_cache.json output/deltas/
           git diff --cached --quiet || git commit -m "chore: linkedin backfill phase 1 [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase -X theirs origin main
           git push
@@ -231,12 +240,21 @@ jobs:
           with open("output/workflow_runs.jsonl", "a", encoding="utf-8") as f:
               f.write(json.dumps(entry, sort_keys=True) + "\n")
           EOF
+      - name: Add geography (office location, distance from home)
+        # Fail soft: a geocoding/research problem must never block saving scraped jobs.
+        continue-on-error: true
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then pip install --quiet anthropic; fi
+          python enrich_geography.py output/linkedin_jobs.json output/all_jobs.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
       - name: Commit Phase 2 results
         if: vars.ENABLE_DATA_COMMITS == 'true'
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json output/deltas/
+          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/geo_cache.json output/notified.json output/deltas/
           git diff --cached --quiet || git commit -m "chore: linkedin backfill phase 2 (high-volume day slices) [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase -X theirs origin main
           git push
