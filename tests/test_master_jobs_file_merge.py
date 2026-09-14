@@ -30,6 +30,14 @@ def test_merge_adds_new_jobs(tmp_output_dir, sample_all_jobs):
 def test_preserves_existing_fields_on_duplicate(tmp_output_dir, sample_all_jobs):
     """Existing downstream fields (bookmarked, notes) must be preserved when merging a duplicate."""
     path = tmp_output_dir / "all_jobs.json"
+    # Keep the fixture inside the production 30-day retention window. Without
+    # this, the test starts failing as wall-clock time advances past its fixed
+    # 2026-08-11 timestamp before it can assert field preservation.
+    target = next(
+        j for j in sample_all_jobs["jobs"]
+        if j["url"] == "https://www.linkedin.com/jobs/view/4400000001/"
+    )
+    target["first_seen"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     path.write_text(json.dumps(sample_all_jobs, separators=(",", ":")))
 
     # Merge a job that duplicates an existing bookmarked job
