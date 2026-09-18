@@ -2,8 +2,10 @@ name: Company Portal Watcher
 
 on:
   schedule:
-    # Daily direct-employer sweep. GitHub schedules in UTC.
-    - cron: "17 11 * * *"
+    # Direct-employer sweep, 3am EST (08:00 UTC), Monday-Saturday. GitHub
+    # schedules run in UTC and do not observe DST, so this drifts to 4am
+    # EDT in summer; adjust here if that matters.
+    - cron: "0 8 * * 1-6"
   workflow_dispatch:
     inputs:
       limit:

@@ -2,8 +2,11 @@ name: CSU Careers Watcher
 
 on:
   # Daily, offset from CalCareers and local-gov watchers.
-  schedule:
-    - cron: "37 16 * * *"
+  # Disabled at Canadian-executive-search cutover (2026-09-18): this source is
+  # U.S.-scoped and out of profile. Trigger manually via workflow_dispatch if
+  # ever needed again; the schedule was "37 16 * * *".
+  # schedule:
+  #   - cron: "37 16 * * *"
   workflow_dispatch:
 
 concurrency:
