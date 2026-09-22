@@ -6,16 +6,15 @@ no-op unless BOTH PUSHOVER_TOKEN and PUSHOVER_USER env vars are set (so local
 runs and forks without Pushover are unaffected). It dedupes against
 notified.json so the same role is never pushed twice — across sources or runs.
 
-"Highly relevant" = a posting that either
-  • touches a priority topic (microplastics, ecotoxicology, endocrine-disrupting
-    chemicals, R/Shiny — mirrors STAR_TERMS in triage.html), or
-  • scores >= NOTIFY_MIN_FIT (default 75) on a compact port of the dashboard's
-    resume-fit model.
+"Highly relevant" = a posting that either touches a priority topic configured
+in config.json or meets the configured deterministic score in
+scoring_profile.json. Personalization is required: this module never substitutes
+the example profile or an unrelated built-in taxonomy.
 
 Set up (GitHub → Settings → Secrets and variables → Actions):
   PUSHOVER_TOKEN   your Pushover application/API token
   PUSHOVER_USER    your Pushover user key
-Optional: NOTIFY_MIN_FIT (default 75) — lower to get more (less selective) pings.
+Optional: NOTIFY_MIN_FIT overrides config.json → notify.min_fit.
 """
 
 import json
@@ -31,12 +30,10 @@ OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
 NOTIFIED_PATH = os.path.join(OUTPUT_DIR, "notified.json")
 ALL_JOBS_PATH = os.path.join(OUTPUT_DIR, "all_jobs.json")
 SCORES_PATH = os.path.join(OUTPUT_DIR, "scores.json")
-# config.json → fork owner's customized copy; config.example.json → upstream fallback
+# Fork-owner personalization. Example files are documentation only and must
+# never be used for live scoring or notification decisions.
 CONFIG_PATH = os.path.join(SCRIPT_DIR, "config.json")
-CONFIG_EXAMPLE_PATH = os.path.join(SCRIPT_DIR, "config.example.json")
-# scoring_profile.json → fork owner's copy; scoring_profile.example.json → upstream fallback
 SCORING_PROFILE_PATH = os.path.join(SCRIPT_DIR, "scoring_profile.json")
-SCORING_PROFILE_EXAMPLE_PATH = os.path.join(SCRIPT_DIR, "scoring_profile.example.json")
 PUSHOVER_URL = "https://api.pushover.net/1/messages.json"
 # Derive dashboard URL from GITHUB_REPOSITORY (owner/repo) so forks get their own URL.
 _gh_repo = os.environ.get("GITHUB_REPOSITORY", "")
@@ -48,63 +45,6 @@ DASHBOARD_URL = (
 MAX_PUSHES_PER_RUN = 8     # cap individual pings; the rest get one summary
 NOTIFIED_KEEP = 600        # remember this many recent jobs to avoid repeats
 
-# Priority-topic stars — keep in sync with STAR_TERMS in triage.html.
-STAR_TERMS = [
-    ("microplastics", re.compile(r'microplastic|nanoplastic|microfiber', re.I)),
-    ("ecotoxicology", re.compile(r'ecotoxicolog', re.I)),
-    ("endocrine-disrupting chemicals", re.compile(r'endocrine[\s-]?disrupt|\bedcs?\b', re.I)),
-    ("R/Shiny", re.compile(r'\brshiny\b|\br[\s-]?shiny\b|shiny\s*(?:app|dashboard|server)|\bshiny\b', re.I)),
-]
-
-# Compact resume-fit. Title counts x3, but broad title-only hits are capped and
-# poor-fit role families are penalized so weekly "standouts" do not overstate
-# generic consulting/compliance matches when scores.json is empty.
-FIT_TERMS = [
-    (re.compile(r'microplastic|nanoplastic|plastic pollution', re.I), 12),
-    (re.compile(r'ecotoxicolog', re.I), 12),
-    (re.compile(r'human health risk|ecological risk|risk character', re.I), 11),
-    (re.compile(r'\brisk assess', re.I), 7),
-    (re.compile(r'\bexposure\b|exposure assess|exposure scien', re.I), 10),
-    (re.compile(r'\bqsar\b|read-across', re.I), 11),
-    (re.compile(r'\bpfas\b|perfluoro|per- and polyfluoro', re.I), 10),
-    (re.compile(r'toxicolog', re.I), 8),
-    (re.compile(r'pharmacokinetic|toxicokinetic|\bpbpk\b', re.I), 8),
-    (re.compile(r'dose.response|benchmark dose', re.I), 7),
-    (re.compile(r'computational tox|predictive tox|new approach method|\bnam\b|in vitro|high.throughput', re.I), 8),
-    (re.compile(r'emerging contaminant|\bcec\b|contaminant|pollutant', re.I), 6),
-    (re.compile(r'drinking water|water quality', re.I), 7),
-    (re.compile(r'hazard assess', re.I), 6),
-    (re.compile(r'endocrine|bioaccumulat|sediment|aquatic|marine|estuar', re.I), 5),
-    (re.compile(r'environmental health|environmental chemist|environmental scien', re.I), 4),
-    (re.compile(r'regulatory|policy|standard setting|guidance', re.I), 4),
-    (re.compile(r'data scien|machine learning|\bshiny\b|\br programming\b|biostatistic|modeling|modelling', re.I), 4),
-    (re.compile(r'cheminformatic|chemical safety|chemical risk|product steward', re.I), 5),
-]
-
-SIGNATURE_TERMS = [
-    re.compile(p, re.I) for p in [
-        r'microplastic|nanoplastic|plastic pollution|ecotoxicolog',
-        r'endocrine[\s-]?disrupt|\bedcs?\b',
-        r'\bqsar\b|read-across|structure.activity|cheminformatic',
-        r'computational tox|predictive tox|new approach method|\bnam\b',
-        r'pharmacokinetic|toxicokinetic|\bpbpk\b|dose.response|benchmark dose',
-        r'\bexposure\b|exposure assess|exposure scien',
-        r'human health risk|ecological risk|hazard assess|chemical risk',
-        r'\bshiny\b|\br programming\b|data scien|machine learning',
-    ]
-]
-
-POOR_FIT_TERMS = [
-    (re.compile(r'occupational hygiene|industrial hygien|environmental health safety|\behs\b|health safety', re.I), 36),
-    (re.compile(r'customer risk|credit risk|operations risk|operational risk|financial risk|banking|change lead', re.I), 45),
-    (re.compile(r'risk assessment and operations', re.I), 32),
-    (re.compile(r'staff research associate|research associate', re.I), 32),
-    (re.compile(r'contaminated land|remediation|field oversight|hazardous building materials|stormwater', re.I), 24),
-    (re.compile(r'\bwater treatment\b|utilities operations|electrician|air quality project', re.I), 18),
-    (re.compile(r'\bprincipal\b|practice lead|senior manager|director\b|supervisor', re.I), 14),
-    (re.compile(r'clinical|forensic|pharmacologist|physiologist|pharmaceutical|pharmaron|biocompat', re.I), 35),
-]
-
 DEFAULT_SCORING_SETTINGS = {
     "title_multiplier": 3,
     "body_multiplier": 1,
@@ -114,13 +54,15 @@ DEFAULT_SCORING_SETTINGS = {
 }
 
 _SCORING_PROFILE: dict | None = None
+_CONFIG: dict | None = None
 
 
 def _min_fit() -> int:
     try:
-        return int(os.environ.get("NOTIFY_MIN_FIT", "75"))
-    except ValueError:
-        return 75
+        configured = _load_config().get("notify", {}).get("min_fit", 85)
+        return int(os.environ.get("NOTIFY_MIN_FIT", configured))
+    except (TypeError, ValueError):
+        return 85
 
 
 def _truthy(value: str | None) -> bool:
@@ -128,11 +70,22 @@ def _truthy(value: str | None) -> bool:
 
 
 def _load_config() -> dict:
+    global _CONFIG
+    if _CONFIG is not None:
+        return _CONFIG
     try:
         with open(CONFIG_PATH, encoding="utf-8") as f:
-            return json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        return {}
+            loaded = json.load(f)
+        if not isinstance(loaded, dict) or not loaded.get("profile"):
+            raise ValueError("missing required profile section")
+        _CONFIG = loaded
+    except (FileNotFoundError, json.JSONDecodeError, OSError, ValueError) as e:
+        print(
+            "  ⚠️  CONFIGURATION REQUIRED: config.json is missing or invalid; "
+            f"personalized notifications are disabled ({e})."
+        )
+        _CONFIG = {}
+    return _CONFIG
 
 
 def _repair_json_regex_escapes(text: str) -> str:
@@ -214,28 +167,29 @@ def _scoring_profile() -> dict:
         return _SCORING_PROFILE
 
     profile = {
-        "fit_terms": FIT_TERMS,
-        "signature_terms": SIGNATURE_TERMS,
-        "poor_fit_terms": POOR_FIT_TERMS,
+        "configured": False,
+        "fit_terms": [],
+        "signature_terms": [],
+        "poor_fit_terms": [],
         "settings": dict(DEFAULT_SCORING_SETTINGS),
     }
-    raw_text = None
-    for sp_path in (SCORING_PROFILE_PATH, SCORING_PROFILE_EXAMPLE_PATH):
-        try:
-            with open(sp_path, encoding="utf-8") as f:
-                raw_text = f.read()
-            if sp_path == SCORING_PROFILE_EXAMPLE_PATH:
-                print("  ℹ️  scoring_profile.json not found; using scoring_profile.example.json")
-            break
-        except FileNotFoundError:
-            continue
-    if raw_text is None:
+    try:
+        with open(SCORING_PROFILE_PATH, encoding="utf-8") as f:
+            raw_text = f.read()
+    except (FileNotFoundError, OSError) as e:
+        print(
+            "  ⚠️  CONFIGURATION REQUIRED: scoring_profile.json is missing; "
+            f"deterministic scoring and fit notifications are disabled ({e})."
+        )
         _SCORING_PROFILE = profile
         return profile
     try:
         raw = json.loads(_repair_json_regex_escapes(raw_text))
     except json.JSONDecodeError as e:
-        print(f"  Warning: scoring profile is invalid JSON even after regex-escape repair; using built-in scoring ({e})")
+        print(
+            "  ⚠️  CONFIGURATION REQUIRED: scoring_profile.json is invalid; "
+            f"deterministic scoring and fit notifications are disabled ({e})."
+        )
         _SCORING_PROFILE = profile
         return profile
 
@@ -244,6 +198,15 @@ def _scoring_profile() -> dict:
     profile["fit_terms"] = _compile_weighted_patterns(raw.get("fit_terms", []), "weight")
     profile["signature_terms"] = _compile_patterns(raw.get("signature_terms", []))
     profile["poor_fit_terms"] = _compile_weighted_patterns(raw.get("poor_fit_terms", []), "penalty")
+
+    if not profile["fit_terms"] or not profile["signature_terms"]:
+        print(
+            "  ⚠️  CONFIGURATION REQUIRED: scoring_profile.json needs non-empty "
+            "fit_terms and signature_terms; deterministic scoring and fit "
+            "notifications are disabled."
+        )
+        _SCORING_PROFILE = profile
+        return profile
 
     settings = raw.get("settings", {})
     if isinstance(settings, dict):
@@ -254,6 +217,7 @@ def _scoring_profile() -> dict:
             except (TypeError, ValueError):
                 print(f"  Warning: scoring_profile.json ignored invalid setting {key!r}")
 
+    profile["configured"] = True
     _SCORING_PROFILE = profile
     print(
         "scoring_profile.json loaded: "
@@ -282,11 +246,24 @@ def _weekly_digest_enabled(force: bool = False) -> bool:
 
 
 def _stars(text: str) -> list:
-    return [name for name, rx in STAR_TERMS if rx.search(text)]
+    configured = _load_config().get("priority_topics", {}).get("terms", [])
+    stars = []
+    for item in configured:
+        if not isinstance(item, (list, tuple)) or len(item) < 2:
+            continue
+        name, pattern = item[0], item[1]
+        try:
+            if re.search(str(pattern), text, re.I):
+                stars.append(str(name))
+        except re.error as e:
+            print(f"  ⚠️  config.json ignored invalid priority-topic regex {pattern!r}: {e}")
+    return stars
 
 
 def _fit(title: str, body: str) -> int:
     profile = _scoring_profile()
+    if not profile["configured"]:
+        return 0
     settings = profile["settings"]
     text = f"{title} {body}"
     has_signature = any(rx.search(text) for rx in profile["signature_terms"])
@@ -309,7 +286,13 @@ def relevance(job: dict) -> tuple[bool, list, int]:
     body = f"{job.get('company', '')} {job.get('description', '')}"
     stars = _stars(f"{title} {body}")
     fit = _fit(title, body)
-    return (bool(stars) or fit >= _min_fit()), stars, fit
+    configured = bool(_load_config()) and _scoring_profile()["configured"]
+    return (configured and (bool(stars) or fit >= _min_fit())), stars, fit
+
+
+def _personalization_ready() -> bool:
+    """Load required owner files so missing setup is always visible."""
+    return bool(_load_config()) and bool(_scoring_profile()["configured"])
 
 
 def _identity(job: dict) -> str:
@@ -471,7 +454,10 @@ def _standout_lines(jobs: list[dict], scores: dict, limit: int = 3) -> tuple[str
             f"- {score}/100 {source}: {job.get('title', 'Untitled')} @ "
             f"{job.get('company', 'Unknown')} ({where}){salary}"
         )
-    threshold = _scoring_profile()["settings"]["standout_threshold"]
+    profile = _scoring_profile()
+    if not profile["configured"]:
+        return "Scoring unavailable (personalization required):", []
+    threshold = profile["settings"]["standout_threshold"]
     heading = "Standouts:" if ranked and ranked[0][0] >= threshold else "Closest matches (no high-confidence standouts):"
     return heading, lines
 
@@ -531,6 +517,8 @@ def send_pushover(token: str, user: str, *, title: str, message: str,
 
 def notify_new_jobs(new_jobs: list, source_label: str = ""):
     """Push the highly-relevant, not-yet-notified entries of new_jobs."""
+    if not _personalization_ready():
+        return
     token = os.environ.get("PUSHOVER_TOKEN")
     user = os.environ.get("PUSHOVER_USER")
     if not token or not user:
@@ -564,7 +552,7 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
             msg += f" · {job['salary']}"
         send_pushover(
             token, user,
-            title=f"🧪 {job.get('title', 'New role')}",
+            title=f"🎯 {job.get('title', 'New role')}",
             message=msg,
             url=job.get("url", ""), url_title="Open posting",
             priority=1 if stars else 0,   # priority topics ping with high priority
@@ -573,7 +561,7 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
 
     extra = len(picks) - sent
     if extra > 0:
-        send_pushover(token, user, title="🧪 More relevant roles",
+        send_pushover(token, user, title="🎯 More relevant roles",
                       message=f"+{extra} more relevant new role(s) — open the dashboard.")
     print(f"  📲 Pushover: notified {sent} relevant role(s)"
           + (f" (+{extra} summarized)" if extra else ""))
@@ -631,8 +619,8 @@ def send_test() -> bool:
         token, user,
         title="🧪 Job_Scraper — test notification",
         message=("Pushover is wired up correctly. You'll get pings like this for "
-                 "highly-relevant new roles: microplastics, ecotoxicology, "
-                 "endocrine-disrupting chemicals, R/Shiny, or a high resume-fit score."),
+                 "highly-relevant new roles matching configured priority topics "
+                 "or the personalized fit-score threshold."),
         url=DASHBOARD_URL,
         url_title="Open dashboard",
         priority=0,

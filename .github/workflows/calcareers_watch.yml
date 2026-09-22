@@ -3,8 +3,11 @@ name: CalCareers Watcher
 on:
   # Daily — CalCareers postings change at day resolution and the portal is slow,
   # so once per day is plenty. Runs at 16:07 UTC (~9am PT) plus on demand.
-  schedule:
-    - cron: "7 16 * * *"
+  # Disabled at Canadian-executive-search cutover (2026-09-18): this source is
+  # U.S.-scoped and out of profile. Trigger manually via workflow_dispatch if
+  # ever needed again; the schedule was "7 16 * * *".
+  # schedule:
+  #   - cron: "7 16 * * *"
   workflow_dispatch:
 
 concurrency:

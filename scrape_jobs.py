@@ -9,6 +9,7 @@ Tune the search in config.json: title keywords, board-specific search terms,
 priority employers, locations, and LinkedIn geoIds / JobSpy locations.
 """
 
+import http.client
 import http.cookiejar
 import base64
 import json
@@ -42,13 +43,10 @@ HEADERS = {
 }
 
 # ---------------------------------------------------------------------------
-# Config — ALL of a user's search settings live in config.json (edit it by hand
-# or generate it from a CV; see docs/cv-to-config-prompt.md). config.example.json
-# (committed, always present) supplies the base values; config.json (personal,
-# gitignored) is deep-merged on top key-by-key, so an older/partial config.json
-# missing a newer key still picks up the example's value for it. There are no
-# separate hardcoded Python defaults to keep in sync — a totally unreadable
-# config is fatal rather than silently scraping nothing.
+# Config — ALL live search settings come from the owner's config.json. The
+# example file is documentation/setup material only; using it silently would
+# reintroduce someone else's geography and taxonomy when personalization is
+# missing.
 # ---------------------------------------------------------------------------
 
 def _read_json(path: str) -> dict | None:
@@ -62,34 +60,22 @@ def _read_json(path: str) -> dict | None:
         return None
 
 
-def _deep_merge(base: dict, override: dict) -> dict:
-    merged = dict(base)
-    for key, value in override.items():
-        if isinstance(value, dict) and isinstance(merged.get(key), dict):
-            merged[key] = _deep_merge(merged[key], value)
-        else:
-            merged[key] = value
-    return merged
-
-
 def _load_config() -> dict:
-    base = _read_json(os.path.join(SCRIPT_DIR, "config.example.json")) or {}
     user = _read_json(os.path.join(SCRIPT_DIR, "config.json"))
     if user is None:
-        if not base:
-            sys.exit(
-                "  ⛔ No usable config found (config.json and config.example.json are "
-                "both missing or unparseable). Copy config.example.json to config.json, "
-                "or fix its JSON syntax, and re-run."
-            )
-        print("  ℹ️  config.json not found; using config.example.json as-is "
-              "(copy it to config.json and customize)")
-        return base
-    if not base:
-        print("  ⚠️  config.example.json not loaded; using config.json only "
-              "(newer optional keys may be missing)")
-        return user
-    return _deep_merge(base, user)
+        sys.exit(
+            "  ⛔ CONFIGURATION REQUIRED: config.json is missing or invalid. "
+            "Live scraping is disabled until the owner's geography and role "
+            "taxonomy are configured."
+        )
+    required = ("profile", "keywords", "search_terms", "locations", "location_filter")
+    missing = [key for key in required if not isinstance(user.get(key), dict)]
+    if missing:
+        sys.exit(
+            "  ⛔ CONFIGURATION REQUIRED: config.json is missing required section(s): "
+            + ", ".join(missing)
+        )
+    return user
 
 
 CONFIG = _load_config()
@@ -253,6 +239,14 @@ def fetch(url, *, retries=4, _base_wait=30.0):
                 continue
             print(f"  WARNING: Could not fetch {url}: {e}")
             return ""
+        except http.client.HTTPException as e:
+            # Truncated/malformed responses (e.g. IncompleteRead) are transient;
+            # one bad page must not abort a whole source run.
+            if attempt < retries:
+                time.sleep(2 + random.uniform(0, 3))
+                continue
+            print(f"  WARNING: Could not fetch {url}: {e!r}")
+            return ""
         except (URLError, TimeoutError, OSError) as e:
             print(f"  WARNING: Could not fetch {url}: {e}")
             return ""
@@ -261,11 +255,11 @@ def fetch(url, *, retries=4, _base_wait=30.0):
 
 def title_matches_keywords(title: str) -> bool:
     """True if a job title matches any keyword in keywords.include and is not
-    a junior/student posting (keywords.exclude). This is the config-driven
-    keyword filter used by all non-LinkedIn-partition sources."""
-    if EXCLUDED_SENIORITY_RE.search(title):
-        return False
-    return bool(_KEYWORD_RE.search(title))
+    a junior/student posting (keywords.exclude). When the configured fuzzy
+    executive filter is enabled, use its seniority-plus-domain rule across all
+    sources so generic titles such as "Head of Brand" do not pass merely
+    because a board returned them for a noisy data/AI query."""
+    return role_is_relevant(title)
 
 
 def text_matches_keywords(title: str, *parts: str) -> bool:
@@ -281,28 +275,85 @@ def text_matches_keywords(title: str, *parts: str) -> bool:
 # geo-filter at the API level — see LINKEDIN_GEOS / INDEED_GEOS.) Config.json →
 # location_filter.terms; case-insensitive substring match on the job location.
 TARGET_LOCATIONS = [str(t).lower() for t in _cfg("location_filter.terms", [])]
-
-# Countries to reject even if a target substring matches (e.g. ", ca" matches
-# "Canada", ", wa" matches "Wales"). LinkedIn's "Remote" geo returns global jobs.
-# Multi-word country names are matched as substrings; single-word names are
-# matched with word boundaries to avoid false positives like "india" matching
-# "Indiana" or "mexico" matching "New Mexico".
-NON_US_COUNTRIES_MULTI = [
-    "united kingdom", "south korea", "south africa", "new zealand",
-    "saudi arabia", "united arab emirates",
-]
-NON_US_COUNTRIES_SINGLE = [
-    "canada", "australia", "uk", "england", "scotland",
-    "wales", "ireland", "germany", "france", "netherlands", "switzerland",
-    "sweden", "norway", "denmark", "finland", "spain", "portugal", "italy",
-    "india", "singapore", "japan", "china", "brazil",
-    "mexico", "argentina", "belgium",
-    "austria", "poland", "czech", "romania", "hungary", "israel",
-    "qatar", "egypt",
-]
-_NON_US_COUNTRY_RE = re.compile(
-    r'\b(?:' + '|'.join(re.escape(c) for c in NON_US_COUNTRIES_SINGLE) + r')\b'
+REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE = bool(
+    _cfg("location_filter.require_country_evidence_for_remote", False)
 )
+
+# Country scope is config-driven. The original implementation assumed every
+# user was US-based and rejected Canada/Australia even when those countries
+# were explicitly configured. Canonicalizing board-specific country values
+# lets the post-filter protect broad/remote searches while honoring the user's
+# actual geography.
+_COUNTRY_ALIASES = {
+    "united states": ("united states", "usa", "us"),
+    "canada": ("canada",),
+    "australia": ("australia",),
+    "united kingdom": ("united kingdom", "uk", "gb", "england", "scotland", "wales"),
+    "ireland": ("ireland",),
+    "germany": ("germany",),
+    "france": ("france",),
+    "netherlands": ("netherlands",),
+    "switzerland": ("switzerland",),
+    "sweden": ("sweden",),
+    "norway": ("norway",),
+    "denmark": ("denmark",),
+    "finland": ("finland",),
+    "spain": ("spain",),
+    "portugal": ("portugal",),
+    "italy": ("italy",),
+    "india": ("india",),
+    "singapore": ("singapore",),
+    "japan": ("japan",),
+    "china": ("china",),
+    "brazil": ("brazil",),
+    "mexico": ("mexico",),
+    "argentina": ("argentina",),
+    "belgium": ("belgium",),
+    "austria": ("austria",),
+    "poland": ("poland",),
+    "czechia": ("czechia", "czech republic", "czech"),
+    "romania": ("romania",),
+    "hungary": ("hungary",),
+    "israel": ("israel",),
+    "south korea": ("south korea",),
+    "south africa": ("south africa",),
+    "new zealand": ("new zealand",),
+    "saudi arabia": ("saudi arabia",),
+    "united arab emirates": ("united arab emirates", "uae"),
+    "qatar": ("qatar",),
+    "egypt": ("egypt",),
+}
+
+
+def _canonical_country(value: str) -> str:
+    normalized = re.sub(r"[^a-z]+", " ", str(value or "").lower()).strip()
+    for canonical, aliases in _COUNTRY_ALIASES.items():
+        if normalized == canonical or normalized in aliases:
+            return canonical
+    return normalized
+
+
+def _configured_target_countries() -> set[str]:
+    countries: set[str] = set()
+    for source in ("indeed", "glassdoor", "ziprecruiter", "google_jobs"):
+        for geo in _cfg(f"locations.{source}", []):
+            if isinstance(geo, dict) and geo.get("country"):
+                countries.add(_canonical_country(geo["country"]))
+
+    # LinkedIn location objects have no country field, so recognize country
+    # names embedded in their configured location text.
+    linkedin_text = " ".join(
+        str(geo.get("location", ""))
+        for geo in _cfg("locations.linkedin", [])
+        if isinstance(geo, dict)
+    ).lower()
+    for canonical, aliases in _COUNTRY_ALIASES.items():
+        if any(re.search(rf"\b{re.escape(alias)}\b", linkedin_text) for alias in aliases):
+            countries.add(canonical)
+    return countries
+
+
+TARGET_COUNTRIES = _configured_target_countries()
 
 
 # US state full names (lowercased) — used to override country-match false
@@ -321,24 +372,57 @@ _US_STATE_NAMES = [
     "west virginia", "wisconsin", "wyoming",
 ]
 
+_US_STATE_CODE_RE = re.compile(
+    r",\s*(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|"
+    r"MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|"
+    r"VT|VA|WA|WV|WI|WY)(?:\s|,|$)",
+    re.IGNORECASE,
+)
+_CANADA_PROVINCE_CODE_RE = re.compile(
+    r",\s*(?:AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)(?:\s|,|$)",
+    re.IGNORECASE,
+)
+
+
+def _countries_in_location(location: str) -> set[str]:
+    found: set[str] = set()
+    for canonical, aliases in _COUNTRY_ALIASES.items():
+        for alias in aliases:
+            if re.search(rf"\b{re.escape(alias)}\b", location):
+                found.add(canonical)
+                break
+    return found
+
 
 def is_target_location(location: str) -> bool:
     if not location:
         return False
     loc = location.lower()
-    # If a US state full name matches, accept immediately — this handles
-    # "New Mexico" (contains "mexico") and "Indiana" (contains "india")
-    # which would otherwise be rejected by the country check below.
-    if any(state in loc for state in _US_STATE_NAMES):
-        return True
-    # Reject non-US countries — prevents ", ca" matching "Canada", etc.
-    # Multi-word countries: substring match (safe, distinctive phrases).
-    if any(country in loc for country in NON_US_COUNTRIES_MULTI):
+    # JobSpy renders Canadian results as e.g. "Toronto, ON, CA". Recognize
+    # the province first so the trailing CA country code is not mistaken for
+    # the US state of California.
+    if _CANADA_PROVINCE_CODE_RE.search(location):
+        return "canada" in TARGET_COUNTRIES
+    # Resolve US states before country names so New Mexico/Indiana are not
+    # mistaken for Mexico/India. A US location is accepted only when the
+    # United States is actually part of the configured search.
+    if any(state in loc for state in _US_STATE_NAMES) or _US_STATE_CODE_RE.search(location):
+        return "united states" in TARGET_COUNTRIES
+
+    explicit_countries = _countries_in_location(loc)
+    if explicit_countries:
+        return bool(explicit_countries & TARGET_COUNTRIES)
+
+    # A bare Remote/Hybrid label does not prove that a Canadian candidate is
+    # eligible. This fork deliberately prefers a false negative over silently
+    # admitting another country's remote-only role.
+    if REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE and re.fullmatch(
+        r"(?:remote|hybrid)(?:\s+(?:role|position|work))?", loc.strip()
+    ):
         return False
-    # Single-word countries: word-boundary match (prevents "india" matching
-    # "Indiana", "mexico" matching "New Mexico", etc.).
-    if _NON_US_COUNTRY_RE.search(loc):
-        return False
+
+    # City/province-only labels have no explicit country. Fall back to the
+    # owner's configured place terms.
     return any(place in loc for place in TARGET_LOCATIONS)
 
 
@@ -2869,13 +2953,25 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
     the same path so each email surfaces only postings new to this run.
     """
-    # Single chokepoint for the company exclusion: every source (LinkedIn,
-    # Indeed, priority, CalCareers) funnels through here, so dropping excluded
-    # companies once keeps all digests AND all_jobs.json clean.
+    # Single eligibility chokepoint: every source funnels through here. Source
+    # APIs can ignore their query geography or return loosely related titles,
+    # so enforce Canada + Murat's executive taxonomy before persistence,
+    # accumulation, notifications, and rendering.
+    before = len(jobs)
+    jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
+    if len(jobs) < before:
+        print(f"  🇨🇦 Dropped {before - len(jobs)} non-Canadian role(s)")
+    before = len(jobs)
+    jobs = [
+        j for j in jobs
+        if role_is_relevant(j.get("title", ""), j.get("company", ""))
+    ]
+    if len(jobs) < before:
+        print(f"  🎯 Dropped {before - len(jobs)} off-profile role(s)")
     before = len(jobs)
     jobs = [j for j in jobs if not _is_excluded_company(j.get("company", ""))]
     if len(jobs) < before:
-        print(f"  🚫 Dropped {before - len(jobs)} excluded role(s)")
+        print(f"  🚫 Dropped {before - len(jobs)} excluded-company role(s)")
     for job in jobs:
         _ensure_work_arrangement(job)
 

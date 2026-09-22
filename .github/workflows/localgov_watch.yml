@@ -3,8 +3,11 @@ name: Local & State Gov Watcher (NEOGOV + CalOpps)
 on:
   # Daily — government postings change at day resolution. Runs at 16:22 UTC
   # (~9am PT), offset from the other watchers, plus on demand.
-  schedule:
-    - cron: "22 16 * * *"
+  # Disabled at Canadian-executive-search cutover (2026-09-18): this source is
+  # U.S.-scoped and out of profile. Trigger manually via workflow_dispatch if
+  # ever needed again; the schedule was "22 16 * * *".
+  # schedule:
+  #   - cron: "22 16 * * *"
   workflow_dispatch:
     inputs:
       backfill:

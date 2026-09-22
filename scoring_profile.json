@@ -1,0 +1,305 @@
+{
+  "version": 1,
+  "description": "Private deterministic scoring profile for Toronto and Canada-based executive Data, AI, Analytics, Finance, Governance, Platform, Automation, and Transformation mandates.",
+  "settings": {
+    "title_multiplier": 2,
+    "body_multiplier": 1,
+    "score_multiplier": 1.1,
+    "generic_cap": 49,
+    "standout_threshold": 80
+  },
+  "fit_terms": [
+    {
+      "pattern": "\\b(?:chief (?:data(?: and analytics)?|ai|artificial intelligence|analytics|digital|technology) officer|(?:vice president|vp|head of|senior director|managing director|executive director)\\b.{0,45}\\b(?:data|ai|artificial intelligence|analytics|fp&a|finance|transformation|automation|digital|governance|technology|platforms?))\\b",
+      "weight": 15
+    },
+    {
+      "pattern": "\\b(?:vice president|vp|head of|chief|senior director|managing director|executive director)\\b",
+      "weight": 7
+    },
+    {
+      "pattern": "\\bdirector\\b.{0,40}\\b(?:data|ai|artificial intelligence|analytics|fp&a|finance|transformation|automation|digital|governance|technology|platforms?)\\b",
+      "weight": 5
+    },
+    {
+      "pattern": "\\b(?:enterprise ai|enterprise artificial intelligence|ai strategy|artificial intelligence strategy|ai operating model|responsible ai|ai centre of excellence|ai center of excellence)\\b",
+      "weight": 12
+    },
+    {
+      "pattern": "\\b(?:enterprise data strategy|data strategy|data platform|enterprise data platform|data architecture|enterprise data architecture|data products?|data product operating model|data modernization)\\b",
+      "weight": 10
+    },
+    {
+      "pattern": "\\b(?:enterprise analytics|analytics strategy|advanced analytics|business intelligence|performance management|decision intelligence|analytics operating model)\\b",
+      "weight": 8
+    },
+    {
+      "pattern": "\\b(?:enterprise transformation|business transformation|digital transformation|technology transformation|data transformation|ai transformation|artificial intelligence transformation|operating model transformation|technology modernization)\\b",
+      "weight": 11
+    },
+    {
+      "pattern": "\\b(?:finance transformation|financial transformation|finance modernization|finance systems transformation|cfo transformation|erp transformation)\\b",
+      "weight": 12
+    },
+    {
+      "pattern": "\\b(?:fp&a|financial planning and analysis|strategic finance|enterprise performance management|integrated business planning|planning and forecasting)\\b",
+      "weight": 8
+    },
+    {
+      "pattern": "\\b(?:data governance|ai governance|artificial intelligence governance|analytics governance|information governance|model governance|data stewardship|governance operating model)\\b",
+      "weight": 9
+    },
+    {
+      "pattern": "\\b(?:intelligent automation|enterprise automation|automation strategy|process automation|workflow automation|robotic process automation|rpa)\\b",
+      "weight": 7
+    },
+    {
+      "pattern": "\\b(?:reports? (?:directly )?to (?:the )?(?:ceo|cfo|cio|cto)|c-suite|executive committee|executive leadership team|board of directors|board-level|trusted advisor to executives?)\\b",
+      "weight": 9
+    },
+    {
+      "pattern": "\\b(?:enterprise-wide|company-wide|organization-wide|global mandate|global function|multi-year roadmap|investment portfolio|portfolio prioritization|operating model|centre of excellence|center of excellence)\\b",
+      "weight": 10
+    },
+    {
+      "pattern": "\\b(?:build and lead|lead and scale|leads? (?:a |the )?(?:global |enterprise )?(?:team|function|organization)|organizational design|talent strategy|people leadership|direct reports?|multi-disciplinary team|cross-functional leadership)\\b",
+      "weight": 8
+    },
+    {
+      "pattern": "\\b(?:business outcomes?|value realization|cost savings?|revenue growth|profitability|productivity|return on investment|roi|p&l|business case|benefits realization)\\b",
+      "weight": 7
+    },
+    {
+      "pattern": "\\b(?:generative ai|genai|agentic ai|ai agents?|large language models?|llms?)\\b",
+      "weight": 7
+    },
+    {
+      "pattern": "\\b(?:databricks|snowflake|power bi|microsoft fabric|azure data|cloud data platform|lakehouse)\\b",
+      "weight": 4
+    },
+    {
+      "pattern": "\\b(?:global stakeholders?|international operations?|multiple business units?|across business units?|enterprise portfolio|shared services)\\b",
+      "weight": 5
+    },
+    {
+      "pattern": "\\b(?:strategy and execution|strategic roadmap|transformation roadmap|technology roadmap|portfolio strategy|investment strategy|capability roadmap)\\b",
+      "weight": 7
+    },
+    {
+      "pattern": "(?:\\bfinance\\b.{0,80}\\b(?:ai|artificial intelligence|data|analytics|automation|transformation)\\b|\\b(?:ai|artificial intelligence|data|analytics|automation|transformation)\\b.{0,80}\\bfinance\\b)",
+      "weight": 10
+    },
+    {
+      "pattern": "(?:\\b(?:data|analytics)\\b.{0,80}\\b(?:ai|artificial intelligence|transformation|governance|platform)\\b|\\b(?:ai|artificial intelligence|transformation|governance|platform)\\b.{0,80}\\b(?:data|analytics)\\b)",
+      "weight": 9
+    },
+    {
+      "pattern": "\\b(?:risk management|regulatory requirements?|privacy|cybersecurity governance|model risk|controls framework|audit|compliance)\\b",
+      "weight": 4
+    }
+  ],
+  "signature_terms": [
+    "\\b(?:chief (?:data(?: and analytics)?|ai|artificial intelligence|analytics|digital|technology) officer|(?:vice president|vp|head of|senior director|managing director|executive director)\\b.{0,45}\\b(?:data|ai|artificial intelligence|analytics|fp&a|finance|transformation|automation|digital|governance|technology|platforms?))\\b",
+    "\\bdirector\\b.{0,40}\\b(?:data|ai|artificial intelligence|analytics|fp&a|finance|transformation|automation|digital|governance|technology|platforms?)\\b.{0,160}\\b(?:enterprise-wide|global mandate|operating model|c-suite|executive committee|transformation|strategy|portfolio)\\b",
+    "\\b(?:enterprise ai|ai operating model|ai transformation|data transformation|finance transformation|enterprise analytics|enterprise data platform|data governance|ai governance|erp transformation)\\b",
+    "(?:\\bfinance\\b.{0,80}\\b(?:ai|artificial intelligence|data|analytics|automation|transformation)\\b|\\b(?:ai|artificial intelligence|data|analytics|automation|transformation)\\b.{0,80}\\bfinance\\b)",
+    "\\b(?:reports? (?:directly )?to (?:the )?(?:ceo|cfo|cio|cto)|c-suite|executive committee|board-level)\\b.{0,160}\\b(?:data|ai|artificial intelligence|analytics|finance|transformation|technology|governance)\\b"
+  ],
+  "poor_fit_terms": [
+    {
+      "pattern": "\\b(?:junior|entry[- ]level|intern(?:ship)?|co-op|new grad(?:uate)?|student position|trainee|apprentice)\\b",
+      "penalty": 60
+    },
+    {
+      "pattern": "\\b(?:data scientist|machine learning engineer|ml engineer|data engineer|software engineer|software developer|full[- ]stack developer|research scientist)\\b",
+      "penalty": 45
+    },
+    {
+      "pattern": "\\b(?:software engineering manager|engineering manager|product manager|product management|product requirements?|product roadmap|project manager|program manager|scrum master|business analyst|data analyst|financial analyst)\\b",
+      "penalty": 38
+    },
+    {
+      "pattern": "\\b(?:individual contributor|no direct reports?|hands-on coding role|write production code|coding (?:is )?required daily|primarily hands-on|player-coach role)\\b",
+      "penalty": 32
+    },
+    {
+      "pattern": "\\b(?:train (?:and|&) deploy (?:machine learning|ml) models?|model training|algorithm development|feature engineering|build predictive models?|develop production software)\\b",
+      "penalty": 28
+    },
+    {
+      "pattern": "\\b(?:software delivery|developer productivity|production reliability|hands-on technical architecture|application engineering delivery)\\b",
+      "penalty": 32
+    },
+    {
+      "pattern": "\\b(?:account executive|sales executive|sales development|quota-carrying|revenue quota|named-account territory|territory sales|business development representative)\\b",
+      "penalty": 50
+    },
+    {
+      "pattern": "\\b(?:marketing analytics|growth marketing|performance marketing|digital marketing|advertising analytics|customer acquisition)\\b",
+      "penalty": 36
+    },
+    {
+      "pattern": "\\b(?:help desk|service desk|desktop support|network administrator|systems administrator|technical support|it support)\\b",
+      "penalty": 45
+    },
+    {
+      "pattern": "\\b(?:security engineer|security operations|soc analyst|penetration testing|incident response|threat detection)\\b",
+      "penalty": 38
+    },
+    {
+      "pattern": "\\b(?:fixed[- ]term|temporary position|contract position|contract role|\\d{1,2}[- ]month contract|hourly contract)\\b",
+      "penalty": 22
+    },
+    {
+      "pattern": "\\b(?:bookkeeping|accounts payable|accounts receivable|payroll administration|tax compliance role|external audit associate)\\b",
+      "penalty": 32
+    },
+    {
+      "pattern": "\\b(?:academic research|postdoctoral|postdoc|laboratory research|principal investigator|publish research papers?)\\b",
+      "penalty": 35
+    },
+    {
+      "pattern": "\\b(?:content strategy|social media|brand marketing|communications manager|public relations)\\b",
+      "penalty": 35
+    },
+    {
+      "pattern": "\\b(?:maintain dashboards?|prepare recurring reports?|ticket queue|respond to support tickets|routine reporting)\\b",
+      "penalty": 24
+    }
+  ],
+  "test_cases": [
+    {
+      "title": "Vice President, Data Analytics & AI",
+      "company": "Canadian financial institution",
+      "description": "Enterprise-wide mandate reporting to the CIO. Own the enterprise data and AI strategy, AI operating model, data governance, analytics modernization, Databricks platform roadmap, investment portfolio, and a multi-disciplinary leadership team. Partner with the CFO and executive committee to deliver measurable productivity and business outcomes.",
+      "expected_score_range": [100, 100],
+      "rationale": "Gold-standard cross-functional executive role combining enterprise Data, AI, Analytics, Governance, Platform, Finance partnership, and transformation ownership."
+    },
+    {
+      "title": "Vice President, Finance Transformation & AI",
+      "company": "Large Canadian enterprise",
+      "description": "Report to the CFO and lead a global finance transformation spanning FP&A, ERP transformation, enterprise automation, generative AI, operating model redesign, and benefits realization across multiple business units. Build and lead the transformation office and present progress to the executive committee.",
+      "expected_score_range": [96, 100],
+      "rationale": "Excellent Finance, AI, automation, operating-model, and enterprise transformation alignment at the target level."
+    },
+    {
+      "title": "Head of AI Transformation",
+      "company": "National services company",
+      "description": "Set enterprise AI strategy and lead the AI operating model, responsible AI governance, generative AI portfolio, workflow automation, investment roadmap, and value realization. Advise the C-suite and scale a cross-functional centre of excellence.",
+      "expected_score_range": [94, 100],
+      "rationale": "Direct match for enterprise AI transformation, governance, automation, executive exposure, and organizational leadership."
+    },
+    {
+      "title": "Chief Data and Analytics Officer",
+      "company": "Canadian regulated organization",
+      "description": "Own the enterprise data strategy, analytics operating model, data governance, cloud data platform, and global function. Report to the CEO, advise the board, and lead a multi-year roadmap linking data investment to profitability and customer outcomes.",
+      "expected_score_range": [94, 100],
+      "rationale": "Chief-level enterprise Data and Analytics mandate with governance, platforms, executive exposure, and business accountability."
+    },
+    {
+      "title": "Senior Director, Data & AI",
+      "company": "Canadian insurance company",
+      "description": "Lead enterprise data products, AI strategy, model governance, Databricks modernization, and a multi-disciplinary team. Partner with executive leadership and Finance on the strategic roadmap, investment business cases, and benefits realization.",
+      "expected_score_range": [88, 100],
+      "rationale": "Strong target-level role with meaningful enterprise scope, although one level below VP or Chief."
+    },
+    {
+      "title": "Executive Director, Enterprise Analytics",
+      "company": "Canadian enterprise",
+      "description": "Own analytics strategy and performance management across multiple business units. The role reports to a Vice President.",
+      "expected_score_range": [80, 88],
+      "rationale": "Strong Analytics leadership with enterprise breadth, but less transformation detail and executive authority than the highest-priority roles."
+    },
+    {
+      "title": "Director, Enterprise Data Governance",
+      "company": "Ontario-based regulated enterprise",
+      "description": "Lead the company-wide data governance operating model, data stewardship function, privacy and controls framework, and a team serving multiple business units. Present roadmap decisions to the executive committee and partner with the data platform organization.",
+      "expected_score_range": [88, 95],
+      "rationale": "Selectively relevant Director role because enterprise scope, team leadership, governance ownership, and executive exposure compensate for title level."
+    },
+    {
+      "title": "Director, Technology Modernization",
+      "company": "Canadian public company",
+      "description": "Own a multi-year technology modernization roadmap across finance systems, cloud data platforms, and workflow automation. Coordinate multiple business units and develop investment business cases, but report through a Vice President rather than directly to the C-suite.",
+      "expected_score_range": [68, 82],
+      "rationale": "Plausible transformation mandate with relevant platforms and Finance exposure, but less senior executive access."
+    },
+    {
+      "title": "Director, FP&A",
+      "company": "Mid-sized Canadian company",
+      "description": "Lead annual planning and forecasting, management reporting, budgeting, and business partnership. Manage a small team and support the CFO, with no stated transformation, automation, data-platform, or enterprise technology mandate.",
+      "expected_score_range": [35, 55],
+      "rationale": "Relevant Finance leadership but missing the cross-functional transformation, AI, governance, and enterprise platform differentiation."
+    },
+    {
+      "title": "Head of Data Science",
+      "company": "Early-stage startup",
+      "description": "Player-coach role with no direct reports initially. Train and deploy machine learning models, perform feature engineering, write production code daily, and contribute hands-on to algorithm development.",
+      "expected_score_range": [0, 15],
+      "rationale": "Inflated leadership title for a primarily hands-on individual-contributor technical role."
+    },
+    {
+      "title": "Vice President, Data Engineering",
+      "company": "Technology company",
+      "description": "Set the cloud data platform roadmap and lead data engineering teams. Own software delivery, developer productivity, production reliability, and hands-on technical architecture for large-scale pipelines and developer tooling.",
+      "expected_score_range": [45, 65],
+      "rationale": "Executive title and platform scope are relevant, but the mandate is engineering-delivery-heavy and lacks Murat's strongest cross-functional differentiators."
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "Canadian retailer",
+      "description": "Build predictive models, perform feature engineering and model training, and maintain dashboards for marketing teams. This is an individual contributor role with no direct reports.",
+      "expected_score_range": [0, 20],
+      "rationale": "Hands-on data-science individual-contributor role rather than executive transformation leadership."
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "AI software company",
+      "description": "Train and deploy machine learning models, write production code, develop algorithms, and operate model-serving infrastructure as an individual contributor.",
+      "expected_score_range": [0, 15],
+      "rationale": "Technical implementation role outside the target leadership positioning."
+    },
+    {
+      "title": "Software Engineering Manager",
+      "company": "Enterprise software vendor",
+      "description": "Manage an application engineering squad, own sprint delivery, conduct code reviews, and develop production software. The role has no enterprise data, AI, Finance, Governance, or transformation mandate.",
+      "expected_score_range": [0, 20],
+      "rationale": "People management does not compensate for the wrong software-delivery job family."
+    },
+    {
+      "title": "Marketing Analytics Manager",
+      "company": "Consumer brand",
+      "description": "Maintain dashboards, measure advertising campaigns, improve customer acquisition, and support growth marketing reporting as an individual contributor.",
+      "expected_score_range": [0, 20],
+      "rationale": "Misleading Analytics overlap, but wrong function, level, and mandate."
+    },
+    {
+      "title": "Junior FP&A Analyst",
+      "company": "Canadian manufacturer",
+      "description": "Prepare recurring reports, support budgeting, update forecasts, and perform variance analysis under a Finance Manager.",
+      "expected_score_range": [0, 10],
+      "rationale": "Relevant Finance terminology but clearly junior and execution-oriented."
+    },
+    {
+      "title": "Enterprise Account Executive, Data Platform",
+      "company": "Cloud technology vendor",
+      "description": "Own a named-account territory, carry a revenue quota, lead sales cycles, and sell enterprise data platform and AI solutions to C-suite buyers.",
+      "expected_score_range": [0, 20],
+      "rationale": "Contains enterprise Data, AI, and executive language but is a quota-carrying sales role."
+    },
+    {
+      "title": "Transformation Program Manager - 12 Month Contract",
+      "company": "Canadian bank",
+      "description": "Coordinate a finance systems transformation, maintain the program plan, track workstreams, prepare executive status reports, and manage project risks in a fixed-term contract role.",
+      "expected_score_range": [0, 15],
+      "rationale": "Adjacent transformation content but below the target mandate and penalized for program-management and contract scope."
+    },
+    {
+      "title": "Director, AI Product Management",
+      "company": "Digital product company",
+      "description": "Own the consumer product roadmap, write product requirements, manage feature delivery, and improve customer acquisition using AI-enabled product capabilities.",
+      "expected_score_range": [0, 15],
+      "rationale": "Senior AI-adjacent title, but product delivery and customer-acquisition mandate do not match enterprise transformation leadership."
+    }
+  ]
+}

@@ -4,6 +4,7 @@ This is a regression test for the confirmed bug where 35/50 states were
 missing from the location filter, causing jobs to be dropped.
 """
 import pytest
+import scrape_jobs
 from scrape_jobs import is_target_location
 
 
@@ -39,6 +40,14 @@ INTERNATIONAL = [
 ]
 
 
+@pytest.fixture(autouse=True)
+def _us_search_scope(monkeypatch):
+    """Keep these generic regression cases independent of a fork owner's config."""
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"united states"})
+    monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["remote", "hybrid"])
+    monkeypatch.setattr(scrape_jobs, "REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE", False)
+
+
 @pytest.mark.parametrize("state", US_STATES)
 def test_all_50_states_accepted(state):
     """Every US state must pass the location filter."""
@@ -57,6 +66,39 @@ def test_remote_united_states():
 
 def test_hybrid():
     assert is_target_location("Hybrid - Austin, TX") is True
+
+
+@pytest.mark.parametrize("location", [
+    "Toronto, Ontario, Canada",
+    "Mississauga, ON, Canada",
+    "Mississauga, ON, CA",
+    "Markham, Canada",
+    "Canada (Remote)",
+])
+def test_canadian_locations_accepted_when_canada_is_configured(location, monkeypatch):
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
+    monkeypatch.setattr(
+        scrape_jobs,
+        "TARGET_LOCATIONS",
+        ["toronto", "mississauga", "markham", "ontario", "canada", "remote"],
+    )
+    assert is_target_location(location) is True
+
+
+def test_us_location_rejected_when_only_canada_is_configured(monkeypatch):
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
+    monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["canada", "remote", "hybrid"])
+    assert is_target_location("Hybrid - Austin, TX") is False
+    assert is_target_location("Remote, United States") is False
+
+
+def test_bare_remote_rejected_when_canadian_evidence_is_required(monkeypatch):
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
+    monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["canada", "remote", "hybrid"])
+    monkeypatch.setattr(scrape_jobs, "REQUIRE_COUNTRY_EVIDENCE_FOR_REMOTE", True)
+    assert is_target_location("Remote") is False
+    assert is_target_location("Hybrid") is False
+    assert is_target_location("Remote, Canada") is True
 
 
 @pytest.mark.parametrize("location", INTERNATIONAL)

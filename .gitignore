@@ -19,3 +19,8 @@ scoring_profile.json
 # "git add -f output/<file>" to commit their own results.
 output/*
 !output/.gitkeep
+
+# Discovery-quality pilot evidence contains Murat's private review decisions.
+# Keep the repeatable method/scripts in git and the daily evidence local.
+pilot/private/*
+!pilot/private/.gitkeep

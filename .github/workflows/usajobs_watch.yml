@@ -3,8 +3,11 @@ name: USAJOBS Watcher
 on:
   # Daily — federal postings change at day resolution. Runs at 15:37 UTC
   # (~8am PT), offset from the other watchers, plus on demand.
-  schedule:
-    - cron: "37 15 * * *"
+  # Disabled at Canadian-executive-search cutover (2026-09-18): this source is
+  # U.S.-scoped and out of profile. Trigger manually via workflow_dispatch if
+  # ever needed again; the schedule was "37 15 * * *".
+  # schedule:
+  #   - cron: "37 15 * * *"
   workflow_dispatch:
 
 concurrency:

@@ -1,0 +1,83 @@
+name: Company Portal Watcher
+
+on:
+  schedule:
+    # Direct-employer sweep, 3am EST (08:00 UTC), Monday-Saturday. GitHub
+    # schedules run in UTC and do not observe DST, so this drifts to 4am
+    # EDT in summer; adjust here if that matters.
+    - cron: "0 8 * * 1-6"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Optional number of company portals for a diagnostic run"
+        required: false
+        type: string
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: Poll company portals
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Poll resolved portals and discovery boards
+        shell: bash
+        run: |
+          args=()
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            args+=(--limit "${{ github.event.inputs.limit }}")
+          fi
+          python portal_scraper.py "${args[@]}"
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
+
+      - name: Record workflow run
+        if: always()
+        run: |
+          python - <<'EOF'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          status_path = Path("output/company_portal_status.json")
+          status = json.loads(status_path.read_text()) if status_path.exists() else {}
+          entry = {
+              "workflow": "company_portals",
+              "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "job_count": int(status.get("unique_jobs", 0)),
+              "source_status": status.get("status_counts", {"failed": "run did not produce status"}),
+              "run_id": os.environ.get("GITHUB_RUN_ID", ""),
+              "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT", ""),
+          }
+          Path("output").mkdir(exist_ok=True)
+          with open("output/workflow_runs.jsonl", "a", encoding="utf-8") as handle:
+              handle.write(json.dumps(entry, sort_keys=True) + "\n")
+          EOF
+
+      - name: Commit results to repo
+        if: always() && vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/company_portal_jobs.json output/company_portal_jobs.md output/company_portal_jobs.html output/company_portal_status.json output/workflow_runs.jsonl output/all_jobs.json output/notified.json
+          git diff --cached --quiet || git commit -m "chore: update company portal listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase -X ours origin main
+          git push

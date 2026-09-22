@@ -2,8 +2,11 @@ name: HiringCafe Watcher
 
 on:
   # Direct-employer listings from HiringCafe's public SSR search pages.
-  schedule:
-    - cron: "57 16-23,0-3 * * *"
+  # Disabled at Canadian-executive-search cutover (2026-09-18): this source is
+  # U.S.-scoped and out of profile. Trigger manually via workflow_dispatch if
+  # ever needed again; the schedule was "57 16-23,0-3 * * *".
+  # schedule:
+  #   - cron: "57 16-23,0-3 * * *"
   workflow_dispatch:
     inputs:
       backfill:
