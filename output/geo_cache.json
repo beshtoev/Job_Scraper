@@ -1,4 +1,31 @@
 {
-  "geocode": {},
+  "geocode": {
+    "/teletravail, on, canada": null,
+    "100 adelaide st w, toronto - 100 adelaide st w, on, canada": null,
+    "100 king street west, toronto, on, canada": [
+      43.6487681,
+      -79.3816921
+    ],
+    "181 bay street, toronto, on, canada": [
+      43.647176,
+      -79.3782977
+    ],
+    "1940 argentia rd, mississauga, canada": [
+      43.6009127,
+      -79.7378024
+    ],
+    "can - 9200 des générations blvd, qc, canada": [
+      45.6375411,
+      -73.5587317
+    ],
+    "north vancouver, bc, canada": [
+      49.3206294,
+      -123.0737925
+    ],
+    "ville saint-laurent, qc, canada": [
+      45.4954147,
+      -73.6877278
+    ]
+  },
   "research": {}
 }

@@ -1,0 +1,2604 @@
+{
+  "run_at": "2026-09-22T12:47:23Z",
+  "inventory_count": 338,
+  "selected_count": 338,
+  "raw_jobs": 11874,
+  "unique_jobs": 11695,
+  "status_counts": {
+    "succeeded": 188,
+    "unresolved": 131,
+    "failed": 20
+  },
+  "web_discovery": {
+    "status": "scheduled_separately",
+    "queries": [
+      "site:jobs.lever.co (director OR vice president OR head) Canada",
+      "site:job-boards.greenhouse.io (director OR vice president OR head) Canada",
+      "site:jobs.ashbyhq.com (director OR vice president OR head) Canada",
+      "site:bamboohr.com/careers (director OR vice president OR head) Canada"
+    ]
+  },
+  "sources": [
+    {
+      "company": "1Password",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 64,
+      "duration_seconds": 0.27,
+      "reason": ""
+    },
+    {
+      "company": "AbCellera",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 22,
+      "duration_seconds": 0.23,
+      "reason": ""
+    },
+    {
+      "company": "Abridge",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Absolute Software",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 2,
+      "duration_seconds": 0.45,
+      "reason": ""
+    },
+    {
+      "company": "Achievers",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 16,
+      "duration_seconds": 0.84,
+      "reason": ""
+    },
+    {
+      "company": "Ada",
+      "ats": "personio",
+      "status": "succeeded",
+      "job_count": 1,
+      "duration_seconds": 0.54,
+      "reason": ""
+    },
+    {
+      "company": "Aerovect",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 47,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "Affirm",
+      "ats": "greenhouse",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "AIG",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 92,
+      "duration_seconds": 9.22,
+      "reason": ""
+    },
+    {
+      "company": "Airliquidehr",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 111,
+      "duration_seconds": 10.76,
+      "reason": ""
+    },
+    {
+      "company": "Alaris Equity Partners",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "AlayaCare",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 26,
+      "duration_seconds": 0.15,
+      "reason": ""
+    },
+    {
+      "company": "Alithya",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Allucent",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 38,
+      "duration_seconds": 0.22,
+      "reason": ""
+    },
+    {
+      "company": "Almirall",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Anthropic",
+      "ats": "greenhouse",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Anysphere",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Apotex",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Appfire",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 10,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "ApplyBoard",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Applydigital",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 30,
+      "duration_seconds": 0.81,
+      "reason": ""
+    },
+    {
+      "company": "Arc'teryx",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 296,
+      "duration_seconds": 1.72,
+      "reason": ""
+    },
+    {
+      "company": "Archistar",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 4,
+      "duration_seconds": 0.11,
+      "reason": ""
+    },
+    {
+      "company": "Armstrongfluidtechnology",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 148,
+      "duration_seconds": 2.41,
+      "reason": ""
+    },
+    {
+      "company": "Arondite",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 19,
+      "duration_seconds": 0.16,
+      "reason": ""
+    },
+    {
+      "company": "Ashby",
+      "ats": "ashby",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "AstraZeneca",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "ATB Financial",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Athene",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 45,
+      "duration_seconds": 7.68,
+      "reason": ""
+    },
+    {
+      "company": "Autodesk",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 98,
+      "duration_seconds": 7.27,
+      "reason": ""
+    },
+    {
+      "company": "Aviva Canada",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Axonify",
+      "ats": "gem",
+      "status": "succeeded",
+      "job_count": 7,
+      "duration_seconds": 0.26,
+      "reason": ""
+    },
+    {
+      "company": "Banyansoftware",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 44,
+      "duration_seconds": 0.19,
+      "reason": ""
+    },
+    {
+      "company": "Bausch Health",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Bayer",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "BDC",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 37,
+      "duration_seconds": 4.47,
+      "reason": ""
+    },
+    {
+      "company": "BenchSci",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 0,
+      "duration_seconds": 0.38,
+      "reason": ""
+    },
+    {
+      "company": "Big Viking Games",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Bimeda",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 24,
+      "duration_seconds": 1.23,
+      "reason": ""
+    },
+    {
+      "company": "Bird Construction",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 54,
+      "duration_seconds": 7.88,
+      "reason": ""
+    },
+    {
+      "company": "Blackduck",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 47,
+      "duration_seconds": 0.59,
+      "reason": ""
+    },
+    {
+      "company": "Blackline Safety",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "BLANKSLATE Partners",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 13,
+      "duration_seconds": 0.11,
+      "reason": ""
+    },
+    {
+      "company": "Blue J",
+      "ats": "gem",
+      "status": "succeeded",
+      "job_count": 15,
+      "duration_seconds": 0.24,
+      "reason": ""
+    },
+    {
+      "company": "BMO",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 84,
+      "duration_seconds": 15.94,
+      "reason": ""
+    },
+    {
+      "company": "Boehringer Ingelheim",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Bonfire",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "BoomerangFX",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Borrowell",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 4,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "Botpress Technologies Inc.",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 12,
+      "duration_seconds": 0.11,
+      "reason": ""
+    },
+    {
+      "company": "Bounteous",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 35,
+      "duration_seconds": 0.91,
+      "reason": ""
+    },
+    {
+      "company": "BrandBastion",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 10,
+      "duration_seconds": 0.1,
+      "reason": ""
+    },
+    {
+      "company": "Bri-Chem",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Brookfield",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 67,
+      "duration_seconds": 12.54,
+      "reason": ""
+    },
+    {
+      "company": "Burq, Inc.",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 24,
+      "duration_seconds": 0.12,
+      "reason": ""
+    },
+    {
+      "company": "Canada Life",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Capco",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 734,
+      "duration_seconds": 0.75,
+      "reason": ""
+    },
+    {
+      "company": "Carbon60",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 13,
+      "duration_seconds": 0.33,
+      "reason": ""
+    },
+    {
+      "company": "Careers Cotiviti",
+      "ats": "",
+      "status": "succeeded",
+      "job_count": 1,
+      "duration_seconds": 0.26,
+      "reason": ""
+    },
+    {
+      "company": "Caseware",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 53,
+      "duration_seconds": 1.42,
+      "reason": ""
+    },
+    {
+      "company": "Caylent",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 81,
+      "duration_seconds": 0.19,
+      "reason": ""
+    },
+    {
+      "company": "Cemtrex",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Cerebras",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Certn",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "CGI",
+      "ats": "njoyn",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 2.39,
+      "reason": "SourceFailure: no supported adapter for njoyn; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "CI",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 40,
+      "duration_seconds": 8.64,
+      "reason": ""
+    },
+    {
+      "company": "CIBC",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 87,
+      "duration_seconds": 18.65,
+      "reason": ""
+    },
+    {
+      "company": "CITI",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 153,
+      "duration_seconds": 37.09,
+      "reason": ""
+    },
+    {
+      "company": "Citylitics",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 5,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "ClearBlue Technologies",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Clio",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 65,
+      "duration_seconds": 6.49,
+      "reason": ""
+    },
+    {
+      "company": "Cloudlinux",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Cohere",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Colliers",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 47,
+      "duration_seconds": 12.68,
+      "reason": ""
+    },
+    {
+      "company": "Converge Technology Solutions",
+      "ats": "gem",
+      "status": "succeeded",
+      "job_count": 4,
+      "duration_seconds": 0.27,
+      "reason": ""
+    },
+    {
+      "company": "Coveo",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "CPP Investments",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Cppib",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 36,
+      "duration_seconds": 6.02,
+      "reason": ""
+    },
+    {
+      "company": "Creyos",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 3,
+      "duration_seconds": 0.08,
+      "reason": ""
+    },
+    {
+      "company": "CSC Generation",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 485,
+      "duration_seconds": 2.24,
+      "reason": ""
+    },
+    {
+      "company": "Cyclica",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "D2L",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 20,
+      "duration_seconds": 0.14,
+      "reason": ""
+    },
+    {
+      "company": "Databricks",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 884,
+      "duration_seconds": 0.82,
+      "reason": ""
+    },
+    {
+      "company": "Dayforce",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Decagon",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Deep Genomics",
+      "ats": "personio",
+      "status": "succeeded",
+      "job_count": 3,
+      "duration_seconds": 0.61,
+      "reason": ""
+    },
+    {
+      "company": "Definity Financial",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Deloitte",
+      "ats": "j2w",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.27,
+      "reason": "SourceFailure: no supported adapter for j2w; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "Desjardins",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Diagnos",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Dialogue Health",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Digital",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Diligentcorporation",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 111,
+      "duration_seconds": 0.31,
+      "reason": ""
+    },
+    {
+      "company": "DIRTT Environmental",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Djeholdings",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 63,
+      "duration_seconds": 8.1,
+      "reason": ""
+    },
+    {
+      "company": "Docebo",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 47,
+      "duration_seconds": 0.12,
+      "reason": ""
+    },
+    {
+      "company": "Docker",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 61,
+      "duration_seconds": 0.14,
+      "reason": ""
+    },
+    {
+      "company": "Dropbox",
+      "ats": "greenhouse",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "ecobee",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Element Fleet Management",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 4,
+      "duration_seconds": 0.37,
+      "reason": ""
+    },
+    {
+      "company": "ElevenLabs",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Emburse",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 37,
+      "duration_seconds": 1.11,
+      "reason": ""
+    },
+    {
+      "company": "EMD Serono",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Enghouse Systems",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 15,
+      "duration_seconds": 0.64,
+      "reason": ""
+    },
+    {
+      "company": "Enterprise Group",
+      "ats": "recruitee",
+      "status": "succeeded",
+      "job_count": 7,
+      "duration_seconds": 0.47,
+      "reason": ""
+    },
+    {
+      "company": "EQ Bank",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 80,
+      "duration_seconds": 1.25,
+      "reason": ""
+    },
+    {
+      "company": "Equinix",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Equitable Bank",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Euna",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 43,
+      "duration_seconds": 0.3,
+      "reason": ""
+    },
+    {
+      "company": "Evenup",
+      "ats": "ashby",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 4.66,
+      "reason": "SourceFailure: HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Evertz Technologies",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Evolving Web",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 10,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "Extremenetworks",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 138,
+      "duration_seconds": 1.36,
+      "reason": ""
+    },
+    {
+      "company": "Faire",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 74,
+      "duration_seconds": 0.23,
+      "reason": ""
+    },
+    {
+      "company": "Ferring Pharmaceuticals",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Figure AI",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 104,
+      "duration_seconds": 0.2,
+      "reason": ""
+    },
+    {
+      "company": "FIL",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 72,
+      "duration_seconds": 9.13,
+      "reason": ""
+    },
+    {
+      "company": "Financeit",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 14,
+      "duration_seconds": 0.13,
+      "reason": ""
+    },
+    {
+      "company": "Firan Technology Group",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Flipp",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 13,
+      "duration_seconds": 0.23,
+      "reason": ""
+    },
+    {
+      "company": "Float Financial",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 20,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "Flosum",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 159,
+      "duration_seconds": 0.22,
+      "reason": ""
+    },
+    {
+      "company": "Fresenius Kabi",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "FreshBooks",
+      "ats": "gem",
+      "status": "succeeded",
+      "job_count": 3,
+      "duration_seconds": 0.23,
+      "reason": ""
+    },
+    {
+      "company": "FSRA",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 8,
+      "duration_seconds": 6.42,
+      "reason": ""
+    },
+    {
+      "company": "Fullscript",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 20,
+      "duration_seconds": 0.85,
+      "reason": ""
+    },
+    {
+      "company": "FutureFit AI",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 6,
+      "duration_seconds": 0.07,
+      "reason": ""
+    },
+    {
+      "company": "Futurpreneur",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Galderma",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Gartner",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 102,
+      "duration_seconds": 10.5,
+      "reason": ""
+    },
+    {
+      "company": "Gatekeeper",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Genetec",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Geotab",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 89,
+      "duration_seconds": 0.23,
+      "reason": ""
+    },
+    {
+      "company": "Glean",
+      "ats": "smartrecruiters",
+      "status": "succeeded",
+      "job_count": 1,
+      "duration_seconds": 0.49,
+      "reason": ""
+    },
+    {
+      "company": "goeasy",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Google DeepMind",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Gotphoto",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 5,
+      "duration_seconds": 0.06,
+      "reason": ""
+    },
+    {
+      "company": "Grafanalabs",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 138,
+      "duration_seconds": 0.27,
+      "reason": ""
+    },
+    {
+      "company": "Grifols",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Groq",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "GSK",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Guidewire",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 71,
+      "duration_seconds": 5.8,
+      "reason": ""
+    },
+    {
+      "company": "Hadley Designs",
+      "ats": "workable",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.0,
+      "reason": "SourceFailure: blocked by source safety policy"
+    },
+    {
+      "company": "Hammond Power Solutions",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Harvey",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Hoffmann-La Roche",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Homebase",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 22,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "HOOPP",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 28,
+      "duration_seconds": 3.01,
+      "reason": ""
+    },
+    {
+      "company": "Hootsuite",
+      "ats": "smartrecruiters",
+      "status": "succeeded",
+      "job_count": 8,
+      "duration_seconds": 0.39,
+      "reason": ""
+    },
+    {
+      "company": "Hopper",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 27,
+      "duration_seconds": 0.11,
+      "reason": ""
+    },
+    {
+      "company": "Huaweicanada",
+      "ats": "recruitee",
+      "status": "succeeded",
+      "job_count": 180,
+      "duration_seconds": 0.4,
+      "reason": ""
+    },
+    {
+      "company": "Hugging Face",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 8,
+      "duration_seconds": 0.11,
+      "reason": ""
+    },
+    {
+      "company": "Humanagency",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 162,
+      "duration_seconds": 0.27,
+      "reason": ""
+    },
+    {
+      "company": "Hyprwork",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 43,
+      "duration_seconds": 0.14,
+      "reason": ""
+    },
+    {
+      "company": "IBM",
+      "ats": "ibm",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 5.11,
+      "reason": "SourceFailure: HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "company": "InfoTrack Canada",
+      "ats": "",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.64,
+      "reason": "SourceFailure: no supported adapter for unknown HTML; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "Instacart Canada",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 110,
+      "duration_seconds": 0.26,
+      "reason": ""
+    },
+    {
+      "company": "Intact Financial",
+      "ats": "personio",
+      "status": "succeeded",
+      "job_count": 3,
+      "duration_seconds": 1.08,
+      "reason": ""
+    },
+    {
+      "company": "Intelex",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Interpublic",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 91,
+      "duration_seconds": 9.37,
+      "reason": ""
+    },
+    {
+      "company": "Intouch Insight",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 2,
+      "duration_seconds": 0.22,
+      "reason": ""
+    },
+    {
+      "company": "Ipsen",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Jacobian",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 4,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "Jamp Pharma",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Jane Software",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 22,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "Jobber",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 39,
+      "duration_seconds": 0.12,
+      "reason": ""
+    },
+    {
+      "company": "K2Services",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 72,
+      "duration_seconds": 3.3,
+      "reason": ""
+    },
+    {
+      "company": "Keywords Studios",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Kinaxis",
+      "ats": "icims",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.3,
+      "reason": "SourceFailure: no supported adapter for icims; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "Kinvia",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 1,
+      "duration_seconds": 0.36,
+      "reason": ""
+    },
+    {
+      "company": "KittySpout",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 26,
+      "duration_seconds": 0.12,
+      "reason": ""
+    },
+    {
+      "company": "Klue",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 10,
+      "duration_seconds": 0.08,
+      "reason": ""
+    },
+    {
+      "company": "Kneat",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Knix",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 37,
+      "duration_seconds": 1.02,
+      "reason": ""
+    },
+    {
+      "company": "KOHO",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 9,
+      "duration_seconds": 0.08,
+      "reason": ""
+    },
+    {
+      "company": "Kraken Robotics",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Later",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 41,
+      "duration_seconds": 0.23,
+      "reason": ""
+    },
+    {
+      "company": "League",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "LEO Pharma",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Level Agency",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 14,
+      "duration_seconds": 0.16,
+      "reason": ""
+    },
+    {
+      "company": "Lightspeed Commerce",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 4,
+      "duration_seconds": 0.06,
+      "reason": ""
+    },
+    {
+      "company": "Localstack",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 12,
+      "duration_seconds": 0.06,
+      "reason": ""
+    },
+    {
+      "company": "Login",
+      "ats": "",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 5.13,
+      "reason": "SourceFailure: HTTPError: HTTP Error 400: Bad Request"
+    },
+    {
+      "company": "lululemon",
+      "ats": "radancy",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 64.96,
+      "reason": "SourceFailure: TimeoutError: The read operation timed out"
+    },
+    {
+      "company": "Luma AI",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 33,
+      "duration_seconds": 0.07,
+      "reason": ""
+    },
+    {
+      "company": "Lumentum",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 84,
+      "duration_seconds": 8.89,
+      "reason": ""
+    },
+    {
+      "company": "Lundbeck",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Mackenzieinvestments",
+      "ats": "",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 5.49,
+      "reason": "SourceFailure: HTTPError: HTTP Error 410: Gone"
+    },
+    {
+      "company": "Magnet Forensics",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 39,
+      "duration_seconds": 1.04,
+      "reason": ""
+    },
+    {
+      "company": "Manulife",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 121,
+      "duration_seconds": 22.83,
+      "reason": ""
+    },
+    {
+      "company": "Maple",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 14,
+      "duration_seconds": 0.06,
+      "reason": ""
+    },
+    {
+      "company": "Maritime Launch Services",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Martello Technologies",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 2,
+      "duration_seconds": 0.36,
+      "reason": ""
+    },
+    {
+      "company": "Mastercard",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 103,
+      "duration_seconds": 10.58,
+      "reason": ""
+    },
+    {
+      "company": "Mckesson",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 126,
+      "duration_seconds": 19.55,
+      "reason": ""
+    },
+    {
+      "company": "mdf commerce",
+      "ats": "smartrecruiters",
+      "status": "succeeded",
+      "job_count": 1,
+      "duration_seconds": 0.5,
+      "reason": ""
+    },
+    {
+      "company": "MDLZ",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 120,
+      "duration_seconds": 14.31,
+      "reason": ""
+    },
+    {
+      "company": "Mecka",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 17,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "Mejuri",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 152,
+      "duration_seconds": 0.31,
+      "reason": ""
+    },
+    {
+      "company": "Merck KGaA",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Meridian Credit Union",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Mimecast",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 55,
+      "duration_seconds": 5.43,
+      "reason": ""
+    },
+    {
+      "company": "Miovision",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 15,
+      "duration_seconds": 0.07,
+      "reason": ""
+    },
+    {
+      "company": "Mistral AI",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Momentumfinancialservicesgroup",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 19,
+      "duration_seconds": 0.1,
+      "reason": ""
+    },
+    {
+      "company": "Mozilla",
+      "ats": "greenhouse",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Mufgub",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 129,
+      "duration_seconds": 38.05,
+      "reason": ""
+    },
+    {
+      "company": "Multiview",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 5,
+      "duration_seconds": 1.76,
+      "reason": ""
+    },
+    {
+      "company": "Munich Re",
+      "ats": "talentbrew",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.3,
+      "reason": "SourceFailure: no supported adapter for talentbrew; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "Myview",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 42,
+      "duration_seconds": 10.75,
+      "reason": ""
+    },
+    {
+      "company": "Nanalysis Scientific",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Nasdaq",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 90,
+      "duration_seconds": 9.54,
+      "reason": ""
+    },
+    {
+      "company": "National Bank of Canada",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 5,
+      "duration_seconds": 0.21,
+      "reason": ""
+    },
+    {
+      "company": "Neo Financial",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 82,
+      "duration_seconds": 0.13,
+      "reason": ""
+    },
+    {
+      "company": "Netbrain",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 43,
+      "duration_seconds": 0.15,
+      "reason": ""
+    },
+    {
+      "company": "Neuralink",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "New Energy Nexus",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 16,
+      "duration_seconds": 0.14,
+      "reason": ""
+    },
+    {
+      "company": "Northleafcapitalpartners",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 11,
+      "duration_seconds": 0.32,
+      "reason": ""
+    },
+    {
+      "company": "Novartis",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Novo Nordisk",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "NowVertical Group",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 8,
+      "duration_seconds": 0.15,
+      "reason": ""
+    },
+    {
+      "company": "Nutrition International",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 12,
+      "duration_seconds": 0.14,
+      "reason": ""
+    },
+    {
+      "company": "Nuvei",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 74,
+      "duration_seconds": 0.19,
+      "reason": ""
+    },
+    {
+      "company": "NVIDIA",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Nylas",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 6,
+      "duration_seconds": 0.06,
+      "reason": ""
+    },
+    {
+      "company": "OMERS",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Onex",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Ontario Securities Commission",
+      "ats": "",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 5.22,
+      "reason": "SourceFailure: HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Ontario Teachers Pension Plan",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "OpenAI",
+      "ats": "ashby",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "OpenText",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Optiva",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Optrust",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 6,
+      "duration_seconds": 6.7,
+      "reason": ""
+    },
+    {
+      "company": "Pareto Publishing - Make The Magic Happen",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Passage",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 16,
+      "duration_seconds": 0.07,
+      "reason": ""
+    },
+    {
+      "company": "Payfare",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Perplexity",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Pfizer",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 87,
+      "duration_seconds": 12.35,
+      "reason": ""
+    },
+    {
+      "company": "Phh",
+      "ats": "",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 5.14,
+      "reason": "SourceFailure: HTTPError: HTTP Error 500: 500"
+    },
+    {
+      "company": "Physical Intelligence",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 35,
+      "duration_seconds": 0.09,
+      "reason": ""
+    },
+    {
+      "company": "Pivotree",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Pluscompany",
+      "ats": "",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.5,
+      "reason": "SourceFailure: no supported adapter for unknown HTML; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "Plusgrade",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "PointClickCare",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 84,
+      "duration_seconds": 1.39,
+      "reason": ""
+    },
+    {
+      "company": "Portage Point Partners",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 52,
+      "duration_seconds": 0.96,
+      "reason": ""
+    },
+    {
+      "company": "Priceline",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 43,
+      "duration_seconds": 4.18,
+      "reason": ""
+    },
+    {
+      "company": "Propel Holdings",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 9,
+      "duration_seconds": 0.08,
+      "reason": ""
+    },
+    {
+      "company": "Prophix",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 27,
+      "duration_seconds": 0.16,
+      "reason": ""
+    },
+    {
+      "company": "PSP Investments",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Publicis Groupe",
+      "ats": "jibe",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 1.28,
+      "reason": "SourceFailure: no supported adapter for jibe; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "Pulse Labs AI, Inc.",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Q4 Inc",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Qudatacentres",
+      "ats": "",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.72,
+      "reason": "SourceFailure: no supported adapter for unknown HTML; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "Quisitive",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Raisingthevillage",
+      "ats": "",
+      "status": "succeeded",
+      "job_count": 1,
+      "duration_seconds": 0.53,
+      "reason": ""
+    },
+    {
+      "company": "Raymondjames",
+      "ats": "",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.38,
+      "reason": "SourceFailure: no supported adapter for unknown HTML; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "RBC",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 145,
+      "duration_seconds": 64.92,
+      "reason": ""
+    },
+    {
+      "company": "Real Matters",
+      "ats": "ashby",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 4.67,
+      "reason": "SourceFailure: HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "company": "Relativity Space",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Rewind",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 3,
+      "duration_seconds": 0.05,
+      "reason": ""
+    },
+    {
+      "company": "Ritual",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 15,
+      "duration_seconds": 0.12,
+      "reason": ""
+    },
+    {
+      "company": "Roche Canada",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Rocket Lab",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Runway",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 4,
+      "duration_seconds": 0.06,
+      "reason": ""
+    },
+    {
+      "company": "Safe Superintelligence",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 13,
+      "duration_seconds": 0.08,
+      "reason": ""
+    },
+    {
+      "company": "Sampler",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Samsungresearchamerica",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 22,
+      "duration_seconds": 0.17,
+      "reason": ""
+    },
+    {
+      "company": "Sandoz",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Sangoma Technologies",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Sanofi",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Scale AI",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Scotiabank",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Scribdinc",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 11,
+      "duration_seconds": 0.08,
+      "reason": ""
+    },
+    {
+      "company": "Servier",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Shopify",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Side",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Sidetrade",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 26,
+      "duration_seconds": 0.13,
+      "reason": ""
+    },
+    {
+      "company": "Sierra",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 209,
+      "duration_seconds": 0.24,
+      "reason": ""
+    },
+    {
+      "company": "Simcorp",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 93,
+      "duration_seconds": 11.98,
+      "reason": ""
+    },
+    {
+      "company": "Skild AI",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Softchoice",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "SpaceX",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "SQUIRE",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 2,
+      "duration_seconds": 0.48,
+      "reason": ""
+    },
+    {
+      "company": "SSENSE",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "StoreForce",
+      "ats": "bamboohr",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Stripe",
+      "ats": "stripe",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Sun Life",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 90,
+      "duration_seconds": 17.29,
+      "reason": ""
+    },
+    {
+      "company": "Sylogist",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Talentmanagementsolution",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 24,
+      "duration_seconds": 5.55,
+      "reason": ""
+    },
+    {
+      "company": "Tali Ai",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 6,
+      "duration_seconds": 0.77,
+      "reason": ""
+    },
+    {
+      "company": "TD",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 132,
+      "duration_seconds": 18.13,
+      "reason": ""
+    },
+    {
+      "company": "Teladoc Health",
+      "ats": "smartrecruiters",
+      "status": "succeeded",
+      "job_count": 2,
+      "duration_seconds": 0.57,
+      "reason": ""
+    },
+    {
+      "company": "Teladoc Health Canada",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 34,
+      "duration_seconds": 4.94,
+      "reason": ""
+    },
+    {
+      "company": "Telesat",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 50,
+      "duration_seconds": 1.03,
+      "reason": ""
+    },
+    {
+      "company": "TELUS",
+      "ats": "j2w",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.39,
+      "reason": "SourceFailure: no supported adapter for j2w; no JobPosting JSON-LD found"
+    },
+    {
+      "company": "TELUS Digital",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 68,
+      "duration_seconds": 0.15,
+      "reason": ""
+    },
+    {
+      "company": "Tenstorrent",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "The Very Good Food Company",
+      "ats": "bamboohr",
+      "status": "failed",
+      "job_count": 0,
+      "duration_seconds": 0.44,
+      "reason": "SourceFailure: invalid JSON: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "company": "Thinkific",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Thinking Machines Lab",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 46,
+      "duration_seconds": 0.1,
+      "reason": ""
+    },
+    {
+      "company": "Tiger Analytics Inc.",
+      "ats": "workable",
+      "status": "succeeded",
+      "job_count": 227,
+      "duration_seconds": 0.3,
+      "reason": ""
+    },
+    {
+      "company": "Titanium Transportation Group",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "TMX",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 54,
+      "duration_seconds": 7.21,
+      "reason": ""
+    },
+    {
+      "company": "Together AI",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 77,
+      "duration_seconds": 0.25,
+      "reason": ""
+    },
+    {
+      "company": "Tomo",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 14,
+      "duration_seconds": 0.07,
+      "reason": ""
+    },
+    {
+      "company": "Top Hat",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Toryburch",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 49,
+      "duration_seconds": 7.32,
+      "reason": ""
+    },
+    {
+      "company": "Transunion",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 94,
+      "duration_seconds": 7.15,
+      "reason": ""
+    },
+    {
+      "company": "Trulioo",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Tucows",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 1,
+      "duration_seconds": 0.27,
+      "reason": ""
+    },
+    {
+      "company": "Tulip Retail",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 65,
+      "duration_seconds": 0.16,
+      "reason": ""
+    },
+    {
+      "company": "Uberflip",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "UCB",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Unbounce",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Valiantys",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 13,
+      "duration_seconds": 0.76,
+      "reason": ""
+    },
+    {
+      "company": "Valsoft Corporation",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Vancity",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Vena Solutions",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Vidyard",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Visier",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "VitalHub",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 5,
+      "duration_seconds": 0.63,
+      "reason": ""
+    },
+    {
+      "company": "Voltus",
+      "ats": "lever",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Waabi",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 1,
+      "duration_seconds": 0.38,
+      "reason": ""
+    },
+    {
+      "company": "Walmart",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 155,
+      "duration_seconds": 21.39,
+      "reason": ""
+    },
+    {
+      "company": "Wattpad",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 18,
+      "duration_seconds": 0.94,
+      "reason": ""
+    },
+    {
+      "company": "Waymo",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 347,
+      "duration_seconds": 0.37,
+      "reason": ""
+    },
+    {
+      "company": "Wealthica",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Wealthsimple",
+      "ats": "ashby",
+      "status": "succeeded",
+      "job_count": 43,
+      "duration_seconds": 0.12,
+      "reason": ""
+    },
+    {
+      "company": "WELL Health",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Wiza",
+      "ats": "",
+      "status": "unresolved",
+      "job_count": 0,
+      "reason": "no careers URL or ATS tenant resolved"
+    },
+    {
+      "company": "Workday",
+      "ats": "workday",
+      "status": "succeeded",
+      "job_count": 107,
+      "duration_seconds": 20.78,
+      "reason": ""
+    },
+    {
+      "company": "Workleap",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 4,
+      "duration_seconds": 0.12,
+      "reason": ""
+    },
+    {
+      "company": "World Labs",
+      "ats": "bamboohr",
+      "status": "succeeded",
+      "job_count": 6,
+      "duration_seconds": 0.38,
+      "reason": ""
+    },
+    {
+      "company": "xAI",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 276,
+      "duration_seconds": 0.28,
+      "reason": ""
+    },
+    {
+      "company": "Xsolla",
+      "ats": "lever",
+      "status": "succeeded",
+      "job_count": 182,
+      "duration_seconds": 1.56,
+      "reason": ""
+    },
+    {
+      "company": "Zafinlabsamericasinc",
+      "ats": "greenhouse",
+      "status": "succeeded",
+      "job_count": 32,
+      "duration_seconds": 0.16,
+      "reason": ""
+    },
+    {
+      "company": "workable",
+      "ats": "aggregator",
+      "status": "succeeded",
+      "job_count": 78,
+      "duration_seconds": 1.79,
+      "reason": ""
+    },
+    {
+      "company": "builtin_toronto",
+      "ats": "aggregator",
+      "status": "succeeded",
+      "job_count": 375,
+      "duration_seconds": 10.26,
+      "reason": ""
+    },
+    {
+      "company": "summit_search",
+      "ats": "aggregator",
+      "status": "succeeded",
+      "job_count": 122,
+      "duration_seconds": 1.57,
+      "reason": ""
+    }
+  ]
+}
