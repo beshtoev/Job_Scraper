@@ -628,19 +628,28 @@ def main(argv: list[str] | None = None) -> int:
         cfg["research"]["enabled"] = False
     if args.research_limit is not None:
         cfg["research"]["max_per_run"] = args.research_limit
+    cache_existed = True
     try:
         with open(CACHE_PATH, encoding="utf-8") as f:
             cache = json.load(f)
     except (OSError, ValueError):
-        cache = {}
+        cache, cache_existed = {}, False
+    # Snapshot BEFORE constructing Resolver: its __init__ setdefaults "geocode"
+    # and "research" keys onto `cache`, which would otherwise make a same-run
+    # comparison see no change even when this is the very first run (no prior
+    # file) — silently skipping the write and leaving callers (the CI commit
+    # step does `git add -f output/geo_cache.json` unconditionally) to fail on
+    # a file that was never created.
+    before = json.dumps(cache, sort_keys=True)
     resolver = Resolver(cache, offline=args.offline, research_cfg=cfg["research"])
     if cfg["research"].get("enabled") and not args.offline and not os.environ.get("ANTHROPIC_API_KEY"):
         print("ℹ️  ANTHROPIC_API_KEY not set — skipping office research; vague locations will be inferred.")
 
-    before = json.dumps(cache, sort_keys=True)
     paths = args.files or _output_files()
     summary = enrich_files(paths, resolver, cfg)
-    if json.dumps(cache, sort_keys=True) != before:  # no-op runs must not create a commit
+    # Always create the file the first time (so downstream `git add -f` never
+    # hits a missing path); on later runs, skip the write when nothing changed.
+    if not cache_existed or json.dumps(cache, sort_keys=True) != before:
         os.makedirs(OUTPUT_DIR, exist_ok=True)
         with open(CACHE_PATH, "w", encoding="utf-8") as f:
             json.dump(cache, f, indent=2, ensure_ascii=False, sort_keys=True)
