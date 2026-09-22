@@ -1,40 +1,65 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-22 19:11 UTC*
+*Last updated: 2026-09-22 22:28 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Director, Data Scientist](https://www.linkedin.com/jobs/view/4440194222/) — Mastercard
+### [Director of Enterprise Data and Analytics](https://www.linkedin.com/jobs/view/4470623602/) — The Alcohol and Gaming Commission of Ontario
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $154,000 - $247,000
+- 💰 **Salary:** $142,113 to $177,639
 - 🕒 **Posted:** 2026-09-22
 
-### [Lead Python AI Principal Engineer (Hands-On), SVP](https://www.linkedin.com/jobs/view/4405393340/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $145,100.00 - $217,700.00
+### [Director, FP&A - Site Operations](https://www.linkedin.com/jobs/view/4470200767/) — Compass Minerals
+- 📍 **Location:** Goderich, Ontario, Canada
+- 💰 **Salary:** $150,000 - $187,500 per year
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Director, Strategy & Business Management – Digital Market Infrastructure](https://www.linkedin.com/jobs/view/4461258298/) — BNY
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Head, Managing Director -Wealth Planning, Private Wealth Canada](https://www.linkedin.com/jobs/view/4465386955/) — BMO
+- 📍 **Location:** London, Ontario, Canada
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Director - Chief Developer and AI Adoption](https://www.linkedin.com/jobs/view/4470601062/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director of Data Management and Business Intelligence](https://www.linkedin.com/jobs/view/4470628595/) — Top Aces
+- 📍 **Location:** Dorval, Quebec, Canada
 - 🕒 **Posted:** 2026-09-22
 
-### [Director, Corporate Client Group Finance](https://www.linkedin.com/jobs/view/4470493379/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, Enterprise Applications](https://www.linkedin.com/jobs/view/4468942127/) — Gateway Casinos and Entertainment Limited
+- 📍 **Location:** Burnaby, British Columbia, Canada
+- 💰 **Salary:** $143,837-$160,000
 - 🕒 **Posted:** 2026-09-22
 
-### [Lead QA Automation Engineer ,Vice President](https://www.linkedin.com/jobs/view/4451907057/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
+### [Head, Managing Director -Wealth Planning, Private Wealth Canada](https://www.linkedin.com/jobs/view/4465379920/) — BMO
+- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 🕒 **Posted:** 2026-09-22
 
-### [Chief AI Officer](https://www.linkedin.com/jobs/view/4469036857/) — Axial Search
+### [Head, Managing Director -Wealth Planning, Private Wealth Canada](https://www.linkedin.com/jobs/view/4465600801/) — BMO
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 🕒 **Posted:** 2026-09-22
+
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4469061220/) — Confidential
 - 📍 **Location:** Canada
-- 💰 **Salary:** $180,000.00/yr - CA$350,000.00/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [VP, Data and Enterprise Architecture](https://www.linkedin.com/jobs/view/4469182920/) — Momentum Financial Services Group
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Chief Financial Officer (CFO) Strategic Business Executive](https://www.linkedin.com/jobs/view/4469063645/) — Grey Eagle Resort & Casino
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-09-22
+
+### [Head, Managing Director -Wealth Planning, Private Wealth Canada](https://www.linkedin.com/jobs/view/4465383863/) — BMO
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-09-22
+
+### [Head, Managing Director -Wealth Planning, Private Wealth Canada](https://www.linkedin.com/jobs/view/4465601304/) — BMO
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-09-22
+
+### [Managing Director, Corporate Finance Group](https://www.linkedin.com/jobs/view/4467204203/) — BMO
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-09-22
+
+### [Managing Director, Corporate Finance Group](https://www.linkedin.com/jobs/view/4467202192/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Procurement Specialist, AVP Strategy Enterprise Comm](https://www.linkedin.com/jobs/view/4469242446/) — University of Calgary
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-09-22
