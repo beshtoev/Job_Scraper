@@ -1,17 +1,40 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-22 12:29 UTC*
+*Last updated: 2026-09-22 19:11 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Senior Vice President Sales Americas, Private Markets Data Solutions (f/m/x)](https://www.linkedin.com/jobs/view/4469012035/) — CEPRES
-- 📍 **Location:** Canada
+### [Director, Data Scientist](https://www.linkedin.com/jobs/view/4440194222/) — Mastercard
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $154,000 - $247,000
 - 🕒 **Posted:** 2026-09-22
 
-### [Expert Opportunity - Head of FP&A ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4442591828/) — Ethos
-- 📍 **Location:** Canada
+### [Lead Python AI Principal Engineer (Hands-On), SVP](https://www.linkedin.com/jobs/view/4405393340/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $145,100.00 - $217,700.00
 - 🕒 **Posted:** 2026-09-22
 
-### [Director, Finance & HR – Non-Profit (Contract)](https://www.linkedin.com/jobs/view/4469000231/) — Robert Half
-- 📍 **Location:** Burlington, Ontario, Canada
-- 💰 **Salary:** $120,000.00/yr - CA$130,000.00/yr
+### [Senior Director, Strategy & Business Management – Digital Market Infrastructure](https://www.linkedin.com/jobs/view/4461258298/) — BNY
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Director - Chief Developer and AI Adoption](https://www.linkedin.com/jobs/view/4470601062/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-09-22
+
+### [Director, Corporate Client Group Finance](https://www.linkedin.com/jobs/view/4470493379/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-09-22
+
+### [Lead QA Automation Engineer ,Vice President](https://www.linkedin.com/jobs/view/4451907057/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-09-22
+
+### [Chief AI Officer](https://www.linkedin.com/jobs/view/4469036857/) — Axial Search
+- 📍 **Location:** Canada
+- 💰 **Salary:** $180,000.00/yr - CA$350,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [VP, Data and Enterprise Architecture](https://www.linkedin.com/jobs/view/4469182920/) — Momentum Financial Services Group
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-22
