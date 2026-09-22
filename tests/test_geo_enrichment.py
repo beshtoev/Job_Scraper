@@ -100,3 +100,33 @@ def test_enrich_files_is_idempotent(tmp_path):
 
     assert first["changed_files"] == 1 and second["changed_files"] == 0
     assert json.loads(path.read_text())["jobs"][0]["geo_category"] == "GTA"
+
+
+def test_first_run_always_creates_geo_cache_even_with_no_network_calls(tmp_path, monkeypatch):
+    """Regression: on a brand-new repo checkout (no prior geo_cache.json), CI's
+    commit step does `git add -f output/geo_cache.json` unconditionally. If that
+    file is never written — because this run's jobs all resolved via the
+    built-in gazetteer with zero geocode/research calls — the commit step fails
+    outright on a missing pathspec and the whole scrape is lost. The cache file
+    must exist after main() runs at least once, regardless of whether anything
+    was actually looked up over the network."""
+    jobs_path = tmp_path / "linkedin_jobs.json"
+    # A location the gazetteer resolves directly — no geocode() or research()
+    # call needed at all, which is exactly the scenario that broke in prod.
+    jobs_path.write_text(json.dumps({"jobs": [{"url": "https://x/1", "location": "Toronto, Ontario, Canada"}]}))
+    cache_path = tmp_path / "geo_cache.json"
+    monkeypatch.setattr(geo, "CACHE_PATH", str(cache_path))
+    monkeypatch.setattr(geo, "CONFIG_PATH", str(tmp_path / "nonexistent-config.json"))
+
+    assert not cache_path.exists()
+    rc = geo.main(["--offline", str(jobs_path)])
+
+    assert rc == 0
+    assert cache_path.exists(), "geo_cache.json must be created on the very first run"
+
+    # A second, later run with nothing new to add must NOT rewrite the file
+    # (that's the existing no-op guard) — but it must also not delete it.
+    before_mtime = cache_path.stat().st_mtime_ns
+    geo.main(["--offline", str(jobs_path)])
+    assert cache_path.exists()
+    assert cache_path.stat().st_mtime_ns == before_mtime, "unchanged cache must not be rewritten"

@@ -83,7 +83,10 @@ jobs:
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/jobs.json output/jobs.md output/jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json output/geo_cache.json
+          git add -f output/jobs.json output/jobs.md output/jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
+          # geo_cache.json is only written when enrich_geography.py actually
+          # changes something (see its no-op guard); a light run may not touch it.
+          [ -f output/geo_cache.json ] && git add -f output/geo_cache.json || true
           git diff --cached --quiet || git commit -m "chore: update job listings [$(date -u '+%Y-%m-%d')]"
           git pull --rebase -X ours origin main
           git push
