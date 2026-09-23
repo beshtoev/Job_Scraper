@@ -2,6 +2,10 @@
   "geocode": {
     "/teletravail, on, canada": null,
     "100 adelaide st w, toronto - 100 adelaide st w, on, canada": null,
+    "100 king street west, toronto, canada": [
+      43.6487681,
+      -79.3816921
+    ],
     "100 king street west, toronto, on, canada": [
       43.6487681,
       -79.3816921
@@ -17,6 +21,10 @@
     "243 consumers road, toronto, canada": [
       43.770309,
       -79.330609
+    ],
+    "81 bay street, toronto, on, canada": [
+      43.6441688,
+      -79.3773514
     ],
     "can - 9200 des générations blvd, qc, canada": [
       45.6375411,
