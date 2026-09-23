@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-23 06:44 UTC",
+  "scraped_at": "2026-09-23 06:45 UTC",
   "total": 12,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "CIBC",
@@ -388,38 +388,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Citi",
-      "title": "Senior Java Technology Developer – Vice President",
-      "location": "Mississauga, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=0b9c662c5be0efc5",
-      "direct_url": "https://jobs.citi.com/job/mississauga/senior-java-technology-developer-vice-president/287/101004991008",
-      "company_url": "https://ca.indeed.com/cmp/Citi",
-      "date_posted": "2026-09-22",
-      "description": "**Discover your future at Citi**\n--------------------------------\n\n\nWorking at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n\n**Job Overview**\n----------------\n\n\nCiti is looking for a Senior Java Developer to take technical ownership of business\\-critical Credit Risk and Capital Markets platforms, driving the modernization of large\\-scale systems into resilient, cloud\\-native architectures. In this Vice President\\-level role, you will operate as a senior individual contributor and technical leader — shaping engineering standards, guiding platform evolution, and delivering high\\-impact solutions across a globally distributed team. If you bring deep Java expertise, Capital Markets domain knowledge, and a drive to solve complex engineering challenges at scale, this role offers the scope and influence to make a real difference**.**\n\n\n**Responsibilities**\n--------------------\n\n\n* Design and deliver high\\-performance, enterprise\\-scale Credit Risk and Capital Markets systems across the full software development lifecycle, from architecture through production deployment.\n* Lead the re\\-engineering of complex, monolithic applications into modern, cloud\\-native microservices, ensuring scalability, resilience, and regulatory compliance at every stage.\n* Define and drive architectural decisions for platform modernization initiatives, including cloud migration and the adoption of distributed data processing technologies.\n* Build and sustain low\\-latency, highly available systems that meet enterprise\\-grade standards for security, performance, and operational stability.\n* Partner with a global team of software engineers, business analysts, DevOps, and support functions to deliver quality solutions across Capital Markets and Risk domains.\n* Mentor and develop mid\\-level and junior engineers, raising engineering standards and enabling the team to consistently deliver production\\-grade solutions.\n* Evaluate and integrate emerging technologies — including AI\\-assisted development tooling — to improve engineering efficiency and delivery quality.\n\n**Required Qualifications \\& Skills**\n-------------------------------------\n\n\n* 6\\+ years of experience in application development or systems analysis, with a track record of delivering large\\-scale, complex technology initiatives.\n* Deep expertise in Core Java, including object\\-oriented design principles, concurrent and multi\\-threaded programming, JVM memory management, and performance tuning.\n* Hands\\-on experience re\\-engineering monolithic applications into microservices architectures, and deploying containerised workloads using Docker and Kubernetes.\n* Practical knowledge of distributed systems and data processing frameworks such as Apache Flink, alongside distributed caching technologies such as Redis, Oracle Coherence, or GridGain.\n* Database experience spanning relational platforms (preferably Oracle) and NoSQL technologies (preferably MongoDB), with the ability to design for scale and reliability.\n* Proven domain knowledge in Capital Markets, including Derivatives, Credit Risk, and Risk Management, with experience supporting risk\\-sensitive, business\\-critical platforms.\n* Bachelor's or Master's degree in Computer Science, Engineering, or a related STEM discipline, or equivalent practical experience in a comparable role.\n\n**Beneficial Skills \\& Qualifications**\n---------------------------------------\n\n\n* Experience with SDLC and DevOps tooling including Git, Bitbucket, Jenkins, SonarQube, and JIRA, with familiarity in secure coding practices.\n* Familiarity with Linux and Unix environments, including scripting for automation and operational tasks.\n* Experience using AI\\-assisted development tools such as GitHub Copilot or Devin to accelerate engineering delivery.\n* Recognised subject matter expertise in one or more areas of application development, with a demonstrated ability to influence architectural and strategic decisions at a senior level.\n\n**What We Offer**\n-----------------\n\n\nAt Citi, you will work at the intersection of technology and financial markets, contributing to platforms that directly support global Capital Markets operations. This is a senior role with real ownership, strategic influence, and the opportunity to shape how critical systems are built and modernised across a high\\-performing global engineering team.\n\n\n* Hybrid working model with 3 days in the office and 2 days working remotely, giving you flexibility alongside meaningful in\\-person collaboration.\n* Opportunity to lead technically significant, franchise\\-critical initiatives with direct impact on Credit Risk and Capital Markets infrastructure at global scale.\n* Access to continuous learning and professional development resources to deepen both technical and domain expertise.\n* A performance\\-driven environment where senior engineers have genuine influence over architectural direction and technology strategy.\n* Competitive compensation and a comprehensive benefits package designed to support your financial wellbeing and long\\-term career growth.\n* Wellbeing support and work\\-life balance initiatives, backed by programmes tailored to the needs of experienced technology professionals.\n\nApply now to bring your Java engineering expertise to one of the world's leading financial institutions and take technical ownership of platforms that matter**.**\n\n\n\\-\n\n\n**Job Family Group:**\n---------------------\n\nTechnology\n\\-\n\n\n**Job Family:**\n---------------\n\n\nApplications Development\n\\-\n\n\n**Time Type:**\n--------------\n\n\nFull time\n\\-\n\n\n**Primary Location Full Time Salary Range:**\n--------------------------------------------\n\n\n$120,800\\.00 \\- $170,800\\.00\n\\-\n\n\n**Most Relevant Skills**\n------------------------\n\nPlease see the requirements listed above.\n\\-\n\n\n**Other Relevant Skills**\n-------------",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
-      "geo_city": "Mississauga",
-      "geo_province": "ON",
-      "geo_lat": 43.589,
-      "geo_lon": -79.6441,
-      "geo_distance_km": 23.9,
-      "geo_rank": 300239,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
