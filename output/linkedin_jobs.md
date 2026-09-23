@@ -1,37 +1,42 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-23 19:23 UTC*
+*Last updated: 2026-09-23 22:34 UTC*
 
 **8 new role(s)** since last run · 8 total in last 1h
 
-### [Director Data, AI, and Specialized Business](https://www.linkedin.com/jobs/view/4470993536/) — RBC
+### [Director, AI Technology Delivery](https://www.linkedin.com/jobs/view/4471134149/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000.00 - $240,000.00
 - 🕒 **Posted:** 2026-09-23
 
-### [Associate Director, Finance & Risk Data Management Office, Chief Data Office](https://www.linkedin.com/jobs/view/4471105137/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467292374/) — BMO
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-09-23
 
-### [Talent Solutions Cross Functional AI Product Owner - Associate Director](https://www.linkedin.com/jobs/view/4459960432/) — EY
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $135,700 to $268,700
+### [Senior Director of Planning and Allocation](https://www.linkedin.com/jobs/view/4471140044/) — Psycho Bunny
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-09-23
 
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4442786240/) — GlassRatner Canada
-- 📍 **Location:** Greater Toronto Area, Canada
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467273679/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-09-23
 
-### [Vice President, Finance](https://www.linkedin.com/jobs/view/4470991543/) — Kilmer Van Nostrand Co. Limited
-- 📍 **Location:** Toronto, Ontario, Canada
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467287463/) — BMO
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-09-23
 
-### [Director of Data Management and Business Intelligence](https://www.linkedin.com/jobs/view/4469497136/) — Jobgether
-- 📍 **Location:** Canada
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467276607/) — BMO
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-09-23
 
-### [Service Line Leader, Data & AI](https://www.linkedin.com/jobs/view/4471102243/) — Lantern
-- 📍 **Location:** Edmonton, Alberta, Canada
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467293369/) — BMO
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-09-23
 
-### [Chief Transformation Officer](https://www.linkedin.com/jobs/view/4469494145/) — Lifesaving Society Canada
-- 📍 **Location:** Canada
+### [Chief Financial Officer (CFO) Strategic Business Executive](https://www.linkedin.com/jobs/view/4469612596/) — Grey Eagle Resort & Casino
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-09-23
