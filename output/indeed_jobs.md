@@ -1,15 +1,26 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-23 19:24 UTC*
+*Last updated: 2026-09-23 22:35 UTC*
 
-**2 new role(s)** since last run · 9 total in last 24h
+**4 new role(s)** since last run · 8 total in last 24h
 
-### [Senior Director - Chief Developer and AI Adoption](https://ca.indeed.com/viewjob?jk=5e0fa419853c0a35) — RBC
+### [Senior Director, Financial Planning and Analysis](https://ca.indeed.com/viewjob?jk=62875313f8921987) — Unknown
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
 
-### [Global O2E Transformation Leader, Deloitte Global Technology](https://ca.indeed.com/viewjob?jk=862dc9e6a38d2d8f) — Deloitte
+### [Head of Global HR Analytics & Data Office](https://ca.indeed.com/viewjob?jk=a9e95d15aeed2648) — Scotiabank
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-23
+
+### [Head of Brand Strategy and Governance](https://ca.indeed.com/viewjob?jk=9c922ce464c854d8) — Unknown
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Director, IAM Product, Architecture, and Governance](https://ca.indeed.com/viewjob?jk=589b0aa171054480) — Scotiabank
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-23
