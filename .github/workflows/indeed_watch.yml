@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     inputs:
       backfill:
-        description: "One-time backfill: fetch last 50 days instead of last 24h (run once when setting up)"
+        description: "One-time backfill: fetch last 7 days instead of last 24h (run once when setting up)"
         required: false
         type: boolean
         default: false
@@ -42,7 +42,7 @@ jobs:
       - name: Install Indeed deps
         run: pip install -r requirements.txt
 
-      - name: Scrape Indeed (last 24h, or 50-day backfill)
+      - name: Scrape Indeed (last 24h, or 7-day backfill)
         run: |
           if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
             python scrape_jobs.py --indeed-backfill

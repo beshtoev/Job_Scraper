@@ -1,13 +1,10 @@
 name: Glassdoor Watcher
 
 on:
-  # Glassdoor via its public search pages (glassdoor_web.py). python-jobspy's own
-  # Glassdoor scraper has been dead since Glassdoor removed the endpoints it needs, so
-  # this no longer depends on it. Glassdoor dates postings by whole days and scores
-  # requests for bots, so every ~3 hours in the active window (8am-midnight ET) is
-  # plenty; more often only adds rate-limit risk without finding anything fresher.
-  schedule:
-    - cron: "7 12,15,18,21,0 * * *"
+  # Glassdoor is scraped by the local runner (scripts/local_runner.py, docs/local-runner.md), not on a
+  # schedule here: Glassdoor's Cloudflare answers GitHub-hosted runners with an instant 403 on every
+  # page (verified 2026-09-24), so a scheduled run can never collect anything. This manual trigger is
+  # kept for testing, and it works if the repository ever gets a runner on an unblocked network.
   workflow_dispatch:
     inputs:
       backfill:

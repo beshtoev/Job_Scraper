@@ -1072,10 +1072,66 @@ def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
         )
     return salary_filled, desc_filled
 
+# ---------------------------------------------------------------------------
+# Scrape state: when each source last genuinely succeeded. A run that is blocked
+# (0 cards) or that crashes must NOT count, otherwise the next window would start
+# after the gap and the jobs posted in it would be lost for good.
+# ---------------------------------------------------------------------------
+SCRAPE_STATE_PATH = os.path.join(OUTPUT_DIR, "scrape_state.json")
+LINKEDIN_CATCH_UP_MARGIN_SECONDS = 15 * 60
+_SCRAPE_OK: dict[str, bool] = {}
+
+
+def _read_scrape_state() -> dict:
+    try:
+        with open(SCRAPE_STATE_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        return data if isinstance(data, dict) else {}
+    except (OSError, ValueError):
+        return {}
+
+
+def _mark_scrape_success(source: str, now: datetime | None = None) -> None:
+    """Record a genuine success (atomic write; the file is committed and read by CI)."""
+    state = _read_scrape_state()
+    state[source] = {"last_success": (now or datetime.now(timezone.utc)).strftime("%Y-%m-%dT%H:%M:%SZ")}
+    tmp = SCRAPE_STATE_PATH + ".tmp"
+    os.makedirs(os.path.dirname(SCRAPE_STATE_PATH), exist_ok=True)
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=2, sort_keys=True)
+        f.write("\n")
+    os.replace(tmp, SCRAPE_STATE_PATH)
+
+
+def _linkedin_lookback_seconds(now: datetime | None = None) -> int:
+    """LinkedIn search window: the time since the last real scrape, plus a margin.
+
+    A fixed 1h window silently loses every posting from any skipped slot (a sleeping
+    laptop, a dropped GitHub cron). Sizing the window to the gap means a missed run
+    only delays discovery. Never below the base window, never above the backfill
+    limit (older postings are not worth applying to)."""
+    base = LINKEDIN_LOOKBACK_SECONDS
+    cap = LINKEDIN_BACKFILL_DAYS * 86400
+    last = (_read_scrape_state().get("linkedin") or {}).get("last_success")
+    try:
+        gap = ((now or datetime.now(timezone.utc))
+               - datetime.strptime(last, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)).total_seconds()
+    except (TypeError, ValueError):
+        return base
+    return int(min(cap, max(base, gap + LINKEDIN_CATCH_UP_MARGIN_SECONDS)))
+
+
+def _describe_window(seconds: int) -> str:
+    if seconds < 3600:
+        return f"{round(seconds / 60)}min"
+    return f"{seconds / 3600:.1f}h".replace(".0h", "h")
+
+
 def scrape_linkedin_recent() -> list:
-    print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
-    jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS,
-                                        max_results=100)
+    lookback = _linkedin_lookback_seconds()
+    print(f"🔎 Scraping LinkedIn (last {_describe_window(lookback)})...")
+    _SCRAPE_OK["linkedin"] = False
+    jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, lookback, max_results=100)
     # Block guard (mirrors Indeed's): zero raw cards across every term means
     # LinkedIn gave us nothing — rate-limited or blocked, not a quiet hour.
     # Reuse the previous results so we don't clobber the dedupe baseline.
@@ -1089,6 +1145,7 @@ def scrape_linkedin_recent() -> list:
     print(f"  📍 Location filter: {before} → {len(jobs)} roles")
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
     _enrich_linkedin_postings(jobs)
+    _SCRAPE_OK["linkedin"] = True   # confirmed only once save_linkedin_results has persisted it
     return jobs
 
 
@@ -1120,7 +1177,7 @@ def scrape_linkedin_priority() -> list:
 
 INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h window
 # returns almost nothing; the hourly watcher's cross-run dedupe trims the overlap.
-INDEED_BACKFILL_DAYS = 50  # one-time historical backfill window
+INDEED_BACKFILL_DAYS = int(_cfg("freshness.backfill_days", 7))  # one-time backfill; older postings are rarely worth applying to
 
 # Indeed geographies. country sets the Indeed domain (USA → indeed.com,
 # Australia → au.indeed.com). Searched per term, so we use a tighter term list
@@ -3062,6 +3119,12 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
 
 
 def save_linkedin_results(jobs: list):
+    _save_linkedin_snapshot(jobs)
+    if _SCRAPE_OK.pop("linkedin", False):
+        _mark_scrape_success("linkedin")
+
+
+def _save_linkedin_snapshot(jobs: list):
     save_jobs_output(
         jobs,
         basename="linkedin_jobs",
