@@ -1,16 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-24 12:02 UTC*
+*Last updated: 2026-09-24 19:29 UTC*
 
-**2 new role(s)** since last run · 10 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [Director Data, AI, and Specialized Business](https://ca.indeed.com/viewjob?jk=29652f440baeed51) — RBC
+### [Sr Director, Operations Finance](https://ca.indeed.com/viewjob?jk=411b77b99bd0a1cc) — Gay Lea Foods
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Director, AI and Data & Integration Platforms](https://ca.indeed.com/viewjob?jk=9fa46aafd4f3ecff) — RBC
-- 📍 **Location:** Mississauga, ON, CA
-- **Work mode:** On-site
+### [Director, Brand & Content Strategy](https://ca.indeed.com/viewjob?jk=dd4945041cf71de9) — Altus Group
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-08-25
