@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-24 06:42 UTC",
+  "scraped_at": "2026-09-24 06:47 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Unknown",
@@ -260,38 +260,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Citi",
-      "title": "Staff Generative AI Engineer - Vice President",
-      "location": "Mississauga, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=a69a972f2b1c252f",
-      "direct_url": "https://jobs.citi.com/job/mississauga/staff-generative-ai-engineer-vice-president/287/101052287152",
-      "company_url": "https://ca.indeed.com/cmp/Citi",
-      "date_posted": "2026-09-23",
-      "description": "**Discover your future at Citi**\n--------------------------------\n\n\nWorking at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n\n**Job Overview**\n----------------\n\n\nWe are seeking an exceptional Staff Generative AI Engineer to join our team. This is a critical, deeply hands\\-on role for a seasoned software engineer with a profound passion for Generative AI, Large Language Models (LLMs), and agentic frameworks. You will be instrumental in designing, building, and deploying real\\-world, commercial production systems, not just proofs\\-of\\-concept.\n\n\n**As a Staff Generative AI Engineer, you will:**\n\n\n* Architect \\& Build Production Systems: Lead the hands\\-on development of sophisticated Generative AI applications, LLM\\-powered solutions, and intricate agentic frameworks primarily using Python. Your code will be clean, performant, scalable, and deployed directly into commercial production environments, solving real business problems.\n* Pioneer Automation with Agents: Design and implement intelligent agents capable of understanding, reasoning, and orchestrating complex workflows to automate critical enterprise business processes, driving efficiency and reducing operational risk at scale.\n* Master Containerized Deployments: Demonstrate deep comfort and expertise with container technologies, particularly deploying and managing applications within OpenShift environments.\n* Drive Technical Direction \\& Ownership: Contribute significantly to the technical strategy and roadmap for Generative AI adoption, influencing architectural decisions and technology choices across our product portfolio, ensuring all solutions are production\\-ready.\n* Champion Engineering Excellence: Instill and uphold rigorous software engineering best practices, including robust testing, code reviews, documentation, and continuous integration/delivery, ensuring the highest quality for our mission\\-critical systems running in production.\n* Innovate \\& Research: Stay at the bleeding edge of Generative AI, actively exploring new models, techniques, and frameworks.\n* Contribute to both applied engineering and research initiatives within the domain. You will have access to state\\-of\\-the\\-art AI\\- assisted development tools like Devin and Copilot to amplify your productivity and creativity.\n* Mentor \\& Collaborate: Act as a technical leader and mentor to junior engineers, fostering a culture of knowledge sharing and continuous improvement. Collaborate closely with cross\\-functional teams, product managers, and stakeholders to deliver impactful solutions.\n* Iterate \\& Deliver: Thrive in an agile, fast\\-paced environment, prioritizing rapid delivery, iterative development, and adaptability.\n* Focus on delivering measurable business value and learning quickly from prototypes and deployments, always with a path to production in mind.\n* Ensure Responsible AI: Design and implement robust guardrails and ethical considerations into AI solutions, proactively assessing and mitigating risks in line with organizational and regulatory standards.\n* Partner with multiple management teams to ensure appropriate integration of functions to meet goals as well as identify and define necessary system enhancements to deploy new products and process improvements\n* Resolve variety of high impact problems/projects through in\\-depth evaluation of complex business processes, system processes, and industry standards\n* Provide expertise in area and advanced knowledge of applications programming and ensure application design adheres to the overall architecture blueprint\n* Utilize advanced knowledge of system flow and develop standards for coding, testing, debugging, and implementation\n* Appropriately assess risk when business decisions are made, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating,\n* managing and reporting control issues with transparency.\n\n**Recommended Qualifications:**\n\n\n* 6\\+ years of professional software engineering experience, demonstrating a strong track record of designing, building, and delivering scalable enterprise\\-grade solutions in commercial production environments, not just proofs\\-of\\-concept.\n* Expert\\-level proficiency in Python is a must\\-have, with a deep understanding of its ecosystem for AI/ML development, data engineering, and backend services. Full\\-stack development experience is a distinct advantage.\n* Extensive hands\\-on experience with Generative AI concepts, Large Language Models (LLMs), transformer architectures, RAG, and advanced agentic frameworks (e.g., LangChain, LangGraph, Google ADK. Optionally AutoGen, CrewAI, LlamaIndex, Semantic Kernel).\n* Deep comfort and practical experience with containers and orchestration technologies, specifically OpenShift.\n* Demonstrated ability to architect, develop, and deploy highly performant, large\\-scale AI/ML systems into production\n* environments.\n* Strong understanding of modern software development principles, clean code practices, data structures, algorithms, and distributed systems.\n* Proficiency with Relational (preferably, PostgreSQL) and Vector (preferably, pgvector) databases.\n\n**Preferred Qualifications (Bonus Points):**\n\n\n* Practical experience in model risk management, developing AI guardrails, and establishing end\\-user adoption pathways for Generative AI solutions.\n* A proven track record of contributing to open\\-source projects or publishing relevant research in AI/ML.\n\n**Education:**\n\n\n* Bachelor’s degree/University degree or equivalent experience\n\n\\-\n\n\n**Job Family Group:**\n---------------------\n\nTechnology\n\\-\n\n\n**Jo",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Mississauga",
-      "geo_province": "ON",
-      "geo_lat": 43.589,
-      "geo_lon": -79.6441,
-      "geo_distance_km": 23.9,
-      "geo_rank": 100239,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
