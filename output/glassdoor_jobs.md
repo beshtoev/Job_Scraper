@@ -1,31 +1,18 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-24 21:13 UTC*
+*Last updated: 2026-09-24 22:35 UTC*
 
-**6 new role(s)** since last run · 69 total in last 24h
+**3 new role(s)** since last run · 68 total in last 24h
 
-### [Sr Director, Operations Finance](https://www.glassdoor.ca/job-listing/j?jl=1010273291726) — Gay Lea Foods
+### [AVP, Program Management and Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010273482109) — Sun Life
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $140k–$225k/yr
 - 🕒 **Posted:** 2026-09-24
 
-### [Sr. Director, Business Intelligence and Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010273379750) — GS1 Canada
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $145k–$165k/yr
+### [Director, Data Centre Strategy & Market Development*** Directeur(trice), stratégie des centres de données et développement des marches](https://www.glassdoor.ca/job-listing/j?jl=1010273486096) — IPEX Management Inc.
+- 📍 **Location:** Oakville, Canada
 - 🕒 **Posted:** 2026-09-24
 
-### [Director, Global Insurance Data Solutions](https://www.glassdoor.ca/job-listing/j?jl=1010273399831) — Scotiabank
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-09-24
-
-### [Senior Director Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010273443141) — Ubisoft
-- 📍 **Location:** Montreal, Canada
-- 🕒 **Posted:** 2026-09-24
-
-### [Chief Financial Officer (CFO)](https://www.glassdoor.ca/job-listing/j?jl=1010273274370) — Global Bricks Realty Brokerage
-- 📍 **Location:** Remote, Canada
-- 💰 **Salary:** $87k–$229k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-24
-
-### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010273291415) — Town of New Glasgow
-- 📍 **Location:** New Glasgow, Canada
+### [Director of Finance & Administration](https://www.glassdoor.ca/job-listing/j?jl=1010272646905) — Robert Half
+- 📍 **Location:** Markham, Canada
+- 💰 **Salary:** $145k–$175k/yr
 - 🕒 **Posted:** 2026-09-24
