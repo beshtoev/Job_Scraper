@@ -2038,7 +2038,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 13,
-      "duration_seconds": 0.16,
+      "duration_seconds": 0.25,
       "reason": ""
     },
     {
@@ -2096,7 +2096,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 11,
-      "duration_seconds": 0.16,
+      "duration_seconds": 0.17,
       "reason": ""
     },
     {
@@ -2557,7 +2557,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 276,
-      "duration_seconds": 0.32,
+      "duration_seconds": 0.3,
       "reason": ""
     },
     {
