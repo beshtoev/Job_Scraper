@@ -1,16 +1,31 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-24 18:08 UTC*
+*Last updated: 2026-09-24 21:13 UTC*
 
-**3 new role(s)** since last run · 76 total in last 24h
+**6 new role(s)** since last run · 69 total in last 24h
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010272226417) — Accountant Staffing
-- 📍 **Location:** St. John's, Canada
-- 🕒 **Posted:** 2026-09-23
+### [Sr Director, Operations Finance](https://www.glassdoor.ca/job-listing/j?jl=1010273291726) — Gay Lea Foods
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-09-24
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010272036697) — Prairie Agricultural Machinery Institute
-- 📍 **Location:** Humboldt, Canada
-- 🕒 **Posted:** 2026-09-23
+### [Sr. Director, Business Intelligence and Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010273379750) — GS1 Canada
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $145k–$165k/yr
+- 🕒 **Posted:** 2026-09-24
 
-### [Regional Director, Financial Services](https://www.glassdoor.ca/job-listing/j?jl=1010271546475) — Interlake-Eastern Regional Health Authority
-- 📍 **Location:** Selkirk, Canada
-- 🕒 **Posted:** 2026-09-23
+### [Director, Global Insurance Data Solutions](https://www.glassdoor.ca/job-listing/j?jl=1010273399831) — Scotiabank
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Director Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010273443141) — Ubisoft
+- 📍 **Location:** Montreal, Canada
+- 🕒 **Posted:** 2026-09-24
+
+### [Chief Financial Officer (CFO)](https://www.glassdoor.ca/job-listing/j?jl=1010273274370) — Global Bricks Realty Brokerage
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $87k–$229k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-24
+
+### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010273291415) — Town of New Glasgow
+- 📍 **Location:** New Glasgow, Canada
+- 🕒 **Posted:** 2026-09-24

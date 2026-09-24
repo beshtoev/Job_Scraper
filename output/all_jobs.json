@@ -1,6 +1,88 @@
 {
-  "updated_at": "2026-09-24 21:05 UTC",
+  "updated_at": "2026-09-24 21:13 UTC",
   "jobs": [
+    {
+      "company": "Ubisoft",
+      "title": "Senior Director Analytics",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010273443141",
+      "date_posted": "2026-09-24",
+      "description": "Strong expertise in quantitative analysis and data science methodologies, with experience leveraging analytics to drive marketing, sales and player engagement…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-24T21:13:50Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Global Bricks Realty Brokerage",
+      "title": "Chief Financial Officer (CFO)",
+      "location": "Remote, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010273274370",
+      "date_posted": "2026-09-24",
+      "description": "Guide business development initiatives by analyzing market trends, identifying new revenue streams, and supporting sales strategies.",
+      "salary": "$87k–$229k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_arrangement": "Remote in-state eligible",
+      "first_seen": "2026-09-24T21:13:50Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "Town of New Glasgow",
+      "title": "Director of Information Technology",
+      "location": "New Glasgow, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010273291415",
+      "date_posted": "2026-09-24",
+      "description": "Post-secondary degree or diploma in Computer Science, Information Technology, Network Engineering, or a related field, or an equivalent combination of education…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-24T21:13:50Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "New Glasgow",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Scotiabank",
       "title": "Director, Technical Product Management - Platform Engineering & Cloud Services",
@@ -99,7 +181,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010273399831"
+      ]
     },
     {
       "company": "Confidential Talent Services",
@@ -332,7 +417,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "10 Carlson Court, Etobicoke",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010273291726"
+      ]
     },
     {
       "company": "RBC",
@@ -607,7 +695,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010273379750"
+      ]
     },
     {
       "company": "FTI Consulting",
@@ -1780,16 +1871,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-09-24T15:30:52Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
