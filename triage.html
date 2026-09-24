@@ -339,6 +339,10 @@
   .src.calopps { background: rgba(21,128,61,0.20); color: #86efac; }
   .src.csucareers { background: rgba(30,64,175,0.20); color: #93c5fd; }
   .src.master { background: var(--pill-bg); color: var(--muted); }
+  .src.built-in { background: rgba(244,114,182,0.16); color: #f9a8d4; }
+  .src.company-sites { background: rgba(45,212,191,0.16); color: #5eead4; }
+  .src.executive-search { background: rgba(250,204,21,0.16); color: #fde047; }
+  .src.other { background: var(--pill-bg); color: var(--muted); }
 
   .scorechip.fit { cursor: help; }
   .scorechip.top { box-shadow: 0 0 0 1px rgba(34,197,94,0.5); }
@@ -761,12 +765,16 @@
     if (j.ats === 'CalCareers' || (j.url || '').includes('calcareers.ca.gov')) return 'CalCareers';
     if (j.ats === 'CSUCareers' || (j.url || '').includes('csucareers.calstate.edu')) return 'CSUCareers';
     if (j.ats === 'LinkedIn') return 'LinkedIn';
-    if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Priority';
     if (j.ats === 'Indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
     if (j.ats === 'Glassdoor' || (j.url || '').includes('glassdoor.')) return 'Glassdoor';
     if (j.ats === 'ZipRecruiter' || (j.url || '').includes('ziprecruiter.com')) return 'ZipRecruiter';
     if (j.ats === 'GoogleJobs' || (j.url || '').includes('google.com/search')) return 'GoogleJobs';
     if (j.ats === 'HiringCafe' || (j.url || '').includes('hiring.cafe')) return 'HiringCafe';
+    // Direct-from-employer postings collected by portal_scraper.py. Each record's
+    // `ats` is the employer's applicant-tracking platform (Workday, Greenhouse...).
+    if (/^built\s*in/i.test(j.ats || '')) return 'Built In';
+    if (/summit\s*search/i.test(j.ats || '')) return 'Executive search';
+    if (j.ats) return 'Company sites';
     return 'Other';
   }
 
@@ -1505,6 +1513,7 @@
   // ---------- Render ----------
   const $ = id => document.getElementById(id);
 
+  const CORE_SOURCES = new Set(['LinkedIn', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'Built In', 'Company sites']);
   function renderFilterGroup(containerId, key, values) {
     const el = $(containerId);
     el.innerHTML = '';
@@ -1519,7 +1528,9 @@
     values.forEach(v => {
       const ct = counts[v] || 0;
       const active = filters[key].has(v);
-      if (!ct && !active) return;                   // hide empties, but never an active pill
+      // Hide empty facets, but never an active pill — and never hide a core job source:
+      // "Glassdoor 0" is information (the channel is not delivering), not clutter.
+      if (!ct && !active && !(key === 'source' && CORE_SOURCES.has(v))) return;
       const p = document.createElement('button');
       p.type = 'button';
       p.className = 'pill' + (active ? ' on' : '');
@@ -1881,7 +1892,11 @@
       const st = jobStatus(j);
       const selected = selectedUrls.has(j.url);
       const srcs = j._srcs || [j._src];
-      const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
+      const srcBadges = srcs.map(s => {
+        const cls = s.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+        const label = (s === 'Company sites' && j.ats) ? `${s} · ${j.ats}` : s;
+        return `<span class="src ${cls}">${escape(label)}</span>`;
+      }).join('');
       const sal = j._salDisp || j.salary;
       const score = (viewMode === 'rank' || sortMode === 'fit') ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
       const note = jobNote(j);
@@ -2152,7 +2167,7 @@
 
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
-    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'HiringCafe', 'CalCareers', 'CSUCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'Built In', 'Company sites', 'Executive search', 'Priority', 'HiringCafe', 'CalCareers', 'CSUCareers', 'USAJOBS', 'NEOGOV', 'CalOpps', 'Other']);
     renderFilterGroup('filter-role', 'role', ROLE_NAMES);   // from config.json → role_categories
     renderFilterGroup('filter-sen', 'sen',
       ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);
