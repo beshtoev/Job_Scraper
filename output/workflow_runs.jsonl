@@ -3653,3 +3653,4 @@
 {"job_count": 11589, "run_attempt": "1", "run_id": "36002431086", "source_status": {"failed": 20, "succeeded": 188, "unresolved": 131}, "timestamp": "2026-09-24T13:15:58Z", "workflow": "company_portals"}
 {"job_count": 11588, "run_attempt": "1", "run_id": "36003642615", "source_status": {"failed": 20, "succeeded": 188, "unresolved": 131}, "timestamp": "2026-09-24T13:34:48Z", "workflow": "company_portals"}
 {"job_count": 7, "run_attempt": "1", "run_id": "36048438315", "timestamp": "2026-09-24T19:29:51Z", "workflow": "indeed"}
+{"job_count": 7, "run_attempt": "1", "run_id": "36048619313", "timestamp": "2026-09-24T19:31:22Z", "workflow": "indeed"}
