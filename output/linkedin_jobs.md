@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-24 16:31 UTC*
+*Last updated: 2026-09-24 17:07 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**1 new role(s)** since last run · 9 total in last 1h
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4471606952/) — Capitalsage Vantage
+### [Project Director- AI Transformation](https://www.linkedin.com/jobs/view/4471614556/) — Hays
 - 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-09-24
-
-### [R&D Head – Agentic AI , Kitchener, Ontario](https://www.linkedin.com/jobs/view/4452785592/) — Siemens
-- 📍 **Location:** Kitchener, Ontario, Canada
 - 🕒 **Posted:** 2026-09-24
