@@ -364,6 +364,8 @@
   .salary-ctl input[type=range] { width: 150px; accent-color: var(--applied); }
   .salary-ctl .salval { font-variant-numeric: tabular-nums; color: var(--ink); font-size: 12px; min-width: 110px; }
   .salary-ctl label { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
+  /* Salary quick-filter bands: keep every band visible, dim the empty ones */
+  #filter-salband .pill.empty:not(.on) { opacity: 0.45; }
 
   /* Salary distribution histogram (interactive) */
   .histo { display: flex; align-items: flex-end; gap: 4px; height: 240px; padding-top: 14px; }
@@ -528,6 +530,8 @@
           aria-label="Minimum annual salary" />
         <span class="salval" id="sal-val">Any</span>
       </div>
+      <div id="filter-salband" class="controls-row" style="gap:6px" role="group"
+        aria-label="Salary bands"></div>
       <label><input type="checkbox" id="sal-unknown" /> include unlisted</label>
     </div>
   </div>
@@ -1366,7 +1370,8 @@
     state: new Set(['active', 'saved', 'applied', 'interview', 'offer']),
     days: null,   // null = any time; else an integer day-window (7 = last 7 days)
     salMin: 0,    // minimum annual salary (USD); 0 = no floor
-    salUnknown: false,  // when a floor is set, exclude roles with no listed salary (toggle to include)
+    salUnknown: false,  // when a floor or band is set, exclude roles with no listed salary (toggle to include)
+    salBands: new Set(),  // active SAL_BANDS labels; a role matches if its range overlaps any of them
     scoreMin: 0,       // minimum fit/agent score (0–100); 0 = no floor
     scoreUnscored: true, // when a floor is set, include roles with no score
     minStars: 0,       // minimum user star rating (1–5); 0 = any
@@ -1403,6 +1408,27 @@
     return jobDateMs(j);
   }
 
+  // Salary quick-filter bands (annual USD). min is inclusive, max exclusive;
+  // max: null = open-ended. Independent of the slider: both apply (AND).
+  const SAL_BANDS = [
+    { label: 'Under $100k', min: 0,      max: 100000 },
+    { label: '$100–125k',   min: 100000, max: 125000 },
+    { label: '$125–150k',   min: 125000, max: 150000 },
+    { label: '$150–175k',   min: 150000, max: 175000 },
+    { label: '$175–200k',   min: 175000, max: 200000 },
+    { label: '$200–250k',   min: 200000, max: 250000 },
+    { label: '$250–300k',   min: 250000, max: 300000 },
+    { label: '$300k+',      min: 300000, max: null },
+  ];
+  // Does a listed pay range [salMin, salMax] overlap the band [min, max)?
+  // A single figure counts as min = max; no figure at all never matches.
+  function salaryInBand(salMin, salMax, band) {
+    const lo = salMin != null ? salMin : salMax;
+    const hi = salMax != null ? salMax : salMin;
+    if (lo == null) return false;
+    return hi >= band.min && (band.max == null || lo < band.max);
+  }
+
   // `except` skips one dimension so a facet's pills don't constrain their own counts.
   function matchesFilters(j, except) {
     const co = (j.company || '').toLowerCase();
@@ -1426,6 +1452,11 @@
     if (except !== 'salary' && filters.salMin > 0) {
       if (j._salMax == null) { if (!filters.salUnknown) return false; }
       else if (j._salMax < filters.salMin) return false;
+    }
+    if (except !== 'salband' && filters.salBands.size) {
+      if (j._salMax == null) { if (!filters.salUnknown) return false; }
+      else if (!SAL_BANDS.some(b => filters.salBands.has(b.label)
+        && salaryInBand(j._salMin, j._salMax, b))) return false;
     }
     if (filters.starOnly && !j._star) return false;
     if (except !== 'score' && filters.scoreMin > 0) {
@@ -2200,6 +2231,33 @@
         && (j._salMax != null ? j._salMax >= v : filters.salUnknown)).length;
       lbl.textContent = `≥ $${Math.round(v / 1000)}k/yr · ${pass}`;
     }
+    renderSalaryBands();
+  }
+
+  // Salary band pills: multi-select; each count = roles with a listed salary
+  // overlapping that band, given every other active filter (slider included).
+  // All eight always render (empty ones dimmed) so the row doesn't jump.
+  function renderSalaryBands() {
+    const el = $('filter-salband');
+    if (!el) return;
+    el.innerHTML = '';
+    const pool = VIEW.filter(j => j._salMax != null && matchesFilters(j, 'salband'));
+    SAL_BANDS.forEach(b => {
+      const ct = pool.filter(j => salaryInBand(j._salMin, j._salMax, b)).length;
+      const active = filters.salBands.has(b.label);
+      const p = document.createElement('button');
+      p.type = 'button';
+      p.className = 'pill' + (active ? ' on' : '') + (ct ? '' : ' empty');
+      p.setAttribute('aria-pressed', active ? 'true' : 'false');
+      p.title = `Roles whose listed pay range overlaps ${b.label}/yr`;
+      p.innerHTML = `${escape(b.label)}<span class="ct">${ct}</span>`;
+      p.onclick = () => {
+        if (filters.salBands.has(b.label)) filters.salBands.delete(b.label);
+        else filters.salBands.add(b.label);
+        renderAll();
+      };
+      el.appendChild(p);
+    });
   }
 
   // Score slider: reflect the current floor + how many roles clear it.
@@ -2663,7 +2721,7 @@
     filters.source.clear(); filters.role.clear(); filters.sen.clear(); filters.work.clear(); filters.sector.clear();
     filters.state = new Set(['active', 'saved', 'applied', 'interview', 'offer']);
     filters.days = null;
-    filters.salMin = 0; filters.salUnknown = false;
+    filters.salMin = 0; filters.salUnknown = false; filters.salBands.clear();
     $('sal-min').value = 0; $('sal-unknown').checked = false;
     filters.scoreMin = 0; filters.scoreUnscored = true;
     $('score-min').value = 0; $('score-unscored').checked = true;
