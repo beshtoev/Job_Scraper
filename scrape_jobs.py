@@ -1357,7 +1357,7 @@ def scrape_glassdoor_recent(hours_old: int | None = None) -> list:
         jobs, stats = glassdoor_web.scrape(
             GLASSDOOR_SEARCH_TERMS, GLASSDOOR_GEOS, h,
             keep_title=title_matches_keywords, keep_location=is_target_location,
-            format_salary=format_salary,
+            format_salary=format_salary, verbose=True,
         )
     except Exception as e:  # missing dependency or an unexpected site change
         print(f"  ⚠️  Glassdoor scrape failed: {e}")

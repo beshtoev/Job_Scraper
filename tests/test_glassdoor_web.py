@@ -53,9 +53,12 @@ class FakeSession:
         self.by_url = by_url
         self.urls = []
 
-    def get(self, url):
+    def get(self, url, **kwargs):
         self.urls.append(url)
-        return self.by_url(url) if self.by_url else self.queue.pop(0)
+        item = self.by_url(url) if self.by_url else self.queue.pop(0)
+        if isinstance(item, Exception):
+            raise item
+        return item
 
 
 @pytest.fixture(autouse=True)
@@ -139,6 +142,13 @@ def test_persistent_403_gives_up_and_says_so():
     session = FakeSession([Resp(403)] * 3)
     with pytest.raises(gw.GlassdoorBlocked, match="403.*after 3 attempts"):
         gw.fetch(session, "https://x/")
+
+
+def test_a_stalled_or_reset_connection_is_retried_not_allowed_to_crash_the_run():
+    session = FakeSession([TimeoutError("read timed out"), Resp(200, "ok")])
+    assert gw.fetch(session, "https://x/") == "ok"
+    with pytest.raises(gw.GlassdoorBlocked, match="TimeoutError.*after 3 attempts"):
+        gw.fetch(FakeSession([TimeoutError("read timed out")] * 3), "https://x/")
 
 
 def test_other_errors_are_not_retried_and_redirects_are_followed():

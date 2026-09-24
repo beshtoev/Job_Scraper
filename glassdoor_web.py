@@ -54,6 +54,7 @@ LOCATIONS: dict[str, tuple[str, int, str]] = {
 # Glassdoor's server-side "posted within N days" filter accepts only these values.
 AGE_STEPS = (1, 3, 7, 14, 30)
 PAGE_SIZE = 30
+REQUEST_TIMEOUT = 20  # seconds per request; the TLS client otherwise waits 30s and a stalled IP would hang a run
 PAY_INTERVALS = {"ANNUAL": "yearly", "MONTHLY": "monthly", "WEEKLY": "weekly", "DAILY": "daily", "HOURLY": "hourly"}
 
 
@@ -223,8 +224,13 @@ def fetch(session, url: str, *, hops: int = 5, attempts: int = 3,
     last = "no response"
     for attempt in range(1, attempts + 1):
         target = url
+        retryable = False
         for _ in range(hops):
-            resp = session.get(target)
+            try:
+                resp = session.get(target, timeout_seconds=REQUEST_TIMEOUT)
+            except Exception as exc:  # noqa: BLE001 - timeouts / connection resets from the TLS client
+                last, retryable = f"{type(exc).__name__}: {str(exc)[:80]}", True
+                break
             code = resp.status_code
             if code in (301, 302, 303, 307, 308):
                 target = urljoin(target, resp.headers.get("location") or resp.headers.get("Location") or "")
@@ -232,10 +238,11 @@ def fetch(session, url: str, *, hops: int = 5, attempts: int = 3,
             if code == 200:
                 return resp.text
             last = f"HTTP {code}" + (" (rate limited or challenged)" if code in (403, 429) else "")
+            retryable = code in (403, 429)
             break
         else:
             raise GlassdoorBlocked("too many redirects")
-        if code not in (403, 429):
+        if not retryable:
             raise GlassdoorBlocked(last)
         if attempt < attempts:
             sleep(6 * attempt + random.uniform(0, 3))
@@ -254,6 +261,7 @@ def scrape(
     delay: float = 2.0,
     log: Callable[[str], None] = print,
     now: datetime | None = None,
+    verbose: bool = False,
 ) -> tuple[list[dict], dict]:
     """Search every (term, place) pair and return (jobs, stats).
 
@@ -289,9 +297,13 @@ def scrape(
                 except GlassdoorBlocked as exc:
                     stats["failed"] += 1
                     stats["errors"].append(f"{term!r}/{place}: {exc}")
+                    if verbose:
+                        log(f"    ✗ {term!r} / {place} (last {age}d): {exc}")
                     break
                 stats["ok"] += 1
                 stats["raw"] += len(listings)
+                if verbose:
+                    log(f"    ✓ {term!r} / {place} (last {age}d): {len(listings)} of {total} results")
                 # Keep everything this window returned, then decide whether to look closer.
                 for item in listings:
                     job = to_job(item, today=now, format_salary=format_salary)
