@@ -1,15 +1,17 @@
 name: Glassdoor Watcher
 
 on:
-  # JobSpy-backed Glassdoor pass. Scheduled runs are opt-in with
-  # repository Variable ENABLE_GLASSDOOR_WATCHER=true because Glassdoor
-  # frequently returns 403/location-parse failures from shared CI IPs.
+  # Glassdoor via its public search pages (glassdoor_web.py). python-jobspy's own
+  # Glassdoor scraper has been dead since Glassdoor removed the endpoints it needs, so
+  # this no longer depends on it. Glassdoor dates postings by whole days and scores
+  # requests for bots, so every ~3 hours in the active window (8am-midnight ET) is
+  # plenty; more often only adds rate-limit risk without finding anything fresher.
   schedule:
-    - cron: "07 16-23,0-3 * * *"
+    - cron: "7 12,15,18,21,0 * * *"
   workflow_dispatch:
     inputs:
       backfill:
-        description: "One-time backfill: fetch last 30 days instead of last 24h (run once when setting up)"
+        description: "One-time backfill: fetch last 7 days instead of the last 3 (run once when setting up)"
         required: false
         type: boolean
         default: false
@@ -21,7 +23,6 @@ concurrency:
 jobs:
   scrape:
     name: Glassdoor scrape
-    if: github.event_name == 'workflow_dispatch' || vars.ENABLE_GLASSDOOR_WATCHER == 'true'
     runs-on: ubuntu-latest
 
     permissions:

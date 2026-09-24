@@ -1128,11 +1128,11 @@ INDEED_BACKFILL_DAYS = 50  # one-time historical backfill window
 INDEED_GEOS = _cfg("locations.indeed", [])
 INDEED_SEARCH_TERMS = _cfg("search_terms.indeed", [])
 GLASSDOOR_LOOKBACK_HOURS = 24
-GLASSDOOR_BACKFILL_DAYS = 30
+GLASSDOOR_BACKFILL_DAYS = int(_cfg("freshness.backfill_days", 7))
 GLASSDOOR_GEOS = _cfg("locations.glassdoor", INDEED_GEOS)
 GLASSDOOR_SEARCH_TERMS = _cfg("search_terms.glassdoor", INDEED_SEARCH_TERMS)
 ZIPRECRUITER_LOOKBACK_HOURS = 24
-ZIPRECRUITER_BACKFILL_DAYS = 30
+ZIPRECRUITER_BACKFILL_DAYS = int(_cfg("freshness.backfill_days", 7))
 ZIPRECRUITER_GEOS = _cfg("locations.ziprecruiter", [
     geo for geo in INDEED_GEOS
     if str(geo.get("country", "")).lower() in {"usa", "us", "united states", "canada"}
@@ -1343,16 +1343,32 @@ def scrape_indeed_recent(hours_old: int | None = None) -> list:
 
 
 def scrape_glassdoor_recent(hours_old: int | None = None) -> list:
-    """Glassdoor roles posted in the last hours_old hours (default GLASSDOOR_LOOKBACK_HOURS)."""
+    """Glassdoor roles posted in the last hours_old hours (default GLASSDOOR_LOOKBACK_HOURS).
+
+    Reads Glassdoor's public search pages (glassdoor_web.py). python-jobspy's own
+    Glassdoor scraper has been dead since Glassdoor removed the endpoints it depends
+    on; it failed every query as "location not parsed" and so returned nothing.
+    """
     h = hours_old if hours_old is not None else GLASSDOOR_LOOKBACK_HOURS
-    return _scrape_jobspy_board(
-        label="Glassdoor",
-        site_name="glassdoor",
-        geos=GLASSDOOR_GEOS,
-        terms=GLASSDOOR_SEARCH_TERMS,
-        hours_old=h,
-        prev_basename="glassdoor_jobs",
-    )
+    print(f"🟦 Scraping Glassdoor (last {h}h)...")
+    jobs, stats = [], {"ok": 0}
+    try:
+        import glassdoor_web
+        jobs, stats = glassdoor_web.scrape(
+            GLASSDOOR_SEARCH_TERMS, GLASSDOOR_GEOS, h,
+            keep_title=title_matches_keywords, keep_location=is_target_location,
+            format_salary=format_salary, verbose=True,
+        )
+    except Exception as e:  # missing dependency or an unexpected site change
+        print(f"  ⚠️  Glassdoor scrape failed: {e}")
+    if stats.get("ok", 0) == 0:
+        # No page came back at all (blocked / site down): keep the previous results so the
+        # dedupe baseline is not wiped, exactly as the other boards do.
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "glassdoor_jobs.json"))
+        print(f"  ⛔ Glassdoor returned no pages across all queries (likely blocked); "
+              f"preserving previous {len(prev)} result(s)")
+        return prev
+    return jobs
 
 
 def scrape_ziprecruiter_recent(hours_old: int | None = None) -> list:
@@ -2876,7 +2892,7 @@ ALL_JOBS_PRUNE_DAYS = 30
 # LinkedIn's guest API reliably supports ~30 days via f_TPR; use this for the
 # one-time historical backfill (--linkedin-backfill) so new users get a full
 # picture without running hourly for weeks.
-LINKEDIN_BACKFILL_DAYS = 30
+LINKEDIN_BACKFILL_DAYS = int(_cfg("freshness.backfill_days", 7))  # high-volume board: older postings are not worth applying to
 
 
 def _merge_into_all_jobs(new_jobs: list) -> int:
