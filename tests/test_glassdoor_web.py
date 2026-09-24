@@ -204,3 +204,19 @@ def test_when_every_query_fails_the_stats_say_zero_ok_so_the_caller_can_keep_old
     jobs, stats = run(FakeSession(by_url=lambda url: Resp(403)))
     assert jobs == [] and stats["ok"] == 0 and stats["failed"] == stats["queries"] > 0
     assert "403" in stats["errors"][0]
+
+
+def test_a_network_that_is_refused_outright_stops_early_instead_of_retrying_every_query():
+    session = FakeSession(by_url=lambda url: Resp(403))
+    terms = [f"term {i}" for i in range(20)]
+    jobs, stats = run(session, terms=terms)
+    assert jobs == [] and stats["ok"] == 0
+    assert stats["network_blocked"] is True
+    assert stats["queries"] == gw.BLOCK_AFTER                 # gave up after the streak, not after 40 queries
+    assert len(session.urls) == gw.BLOCK_AFTER * 3            # each failed query was retried 3 times, no more
+
+
+def test_a_few_early_failures_do_not_condemn_a_network_that_then_works():
+    responses = iter([Resp(403)] * 3 + [Resp(200, page([listing(40, "Director, Data")]))] * 40)
+    jobs, stats = run(FakeSession(by_url=lambda url: next(responses)), terms=["a", "b"])
+    assert stats["network_blocked"] is False and stats["ok"] > 0 and jobs

@@ -54,6 +54,7 @@ LOCATIONS: dict[str, tuple[str, int, str]] = {
 # Glassdoor's server-side "posted within N days" filter accepts only these values.
 AGE_STEPS = (1, 3, 7, 14, 30)
 PAGE_SIZE = 30
+BLOCK_AFTER = 3  # consecutive failures, with no success yet, that mean the whole network is refused
 REQUEST_TIMEOUT = 20  # seconds per request; the TLS client otherwise waits 30s and a stalled IP would hang a run
 PAY_INTERVALS = {"ANNUAL": "yearly", "MONTHLY": "monthly", "WEEKLY": "weekly", "DAILY": "daily", "HOURLY": "hourly"}
 
@@ -278,12 +279,17 @@ def scrape(
         places.append("canada")  # remote and unlisted cities live only in the national search
 
     stats = {"queries": 0, "ok": 0, "failed": 0, "raw": 0, "truncated": 0, "from_age": from_age,
-             "errors": []}
+             "errors": [], "network_blocked": False}
+    streak = 0   # consecutive failed queries with no success yet
     jobs: dict[str, dict] = {}
     first = True
 
     for term in terms:
+        if stats["network_blocked"]:
+            break
         for place in places:
+            if stats["network_blocked"]:
+                break
             loc_type, loc_id, loc_slug = LOCATIONS[place]
             age = from_age
             while True:
@@ -296,11 +302,17 @@ def scrape(
                     listings, total = parse_results(html)
                 except GlassdoorBlocked as exc:
                     stats["failed"] += 1
+                    streak += 1
                     stats["errors"].append(f"{term!r}/{place}: {exc}")
                     if verbose:
                         log(f"    ✗ {term!r} / {place} (last {age}d): {exc}")
+                    if stats["ok"] == 0 and streak >= BLOCK_AFTER:
+                        # Cloudflare refuses whole networks (GitHub's hosted runners get an instant
+                        # 403 on every page). Retrying the remaining queries only wastes minutes.
+                        stats["network_blocked"] = True
                     break
                 stats["ok"] += 1
+                streak = 0
                 stats["raw"] += len(listings)
                 if verbose:
                     log(f"    ✓ {term!r} / {place} (last {age}d): {len(listings)} of {total} results")
@@ -327,4 +339,7 @@ def scrape(
     )
     for err in stats["errors"][:3]:
         log(f"  ⚠️  Glassdoor {err}")
+    if stats["network_blocked"]:
+        log("  ⛔ Glassdoor refused every request from this network (Cloudflare blocks data-centre "
+            "addresses such as GitHub-hosted runners). Run it from a home/office connection or via a proxy.")
     return list(jobs.values()), stats
