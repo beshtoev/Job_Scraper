@@ -1,18 +1,18 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-24 20:40 UTC*
+*Last updated: 2026-09-24 21:05 UTC*
 
-**3 new role(s)** since last run · 14 total in last 1h
+**3 new role(s)** since last run · 11 total in last 1h
 
-### [Director, Global Insurance Data Solutions](https://www.linkedin.com/jobs/view/4470024614/) — Scotiabank
+### [Director, Technical Product Management - Platform Engineering & Cloud Services](https://www.linkedin.com/jobs/view/4470026614/) — Scotiabank
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-24
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4457272803/) — Confidential Talent Services
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $100,000.00/yr - CA$115,000.00/yr
+### [Information Technology - Senior Director, Enterprise Systems & AI Enablement](https://www.linkedin.com/jobs/view/4470023724/) — Cineflix Media Inc.
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000 - $200,000 K
 - 🕒 **Posted:** 2026-09-24
 
-### [Director of Finance And Administration](https://www.linkedin.com/jobs/view/4470023639/) — Robert Half
-- 📍 **Location:** Markham, Ontario, Canada
-- 💰 **Salary:** $145,000.00/yr - CA$175,000.00/yr
+### [Director, System Planning](https://www.linkedin.com/jobs/view/4470035419/) — Government of Alberta
+- 📍 **Location:** Alberta, Canada
+- 💰 **Salary:** $134,135.73 - $170,332.78/year
 - 🕒 **Posted:** 2026-09-24
