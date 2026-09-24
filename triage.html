@@ -1006,40 +1006,79 @@
   // CalCareers "$6,963 - $8,724 per month", LinkedIn titles "($175K – $250K)").
   // Normalize everything to an ANNUAL USD {min,max}. Returns null when no pay
   // signal is present.
+  // Pay periods. Only looked for right next to an amount (see _parseOnePay),
+  // so "Senior HR leadership" or "5+ years" elsewhere can't set the period.
   const PERIOD_MULT = [
-    [/hour|hr\b|\/hr|per hour/, 2080],
-    [/\bday|\/day|per day|daily/, 260],
-    [/week|wk\b|\/wk|per week/, 52],
-    [/month|mo\b|\/mo|per month|monthly/, 12],
-    [/year|yr\b|\/yr|per year|annual|annually|p\.?a\.?/, 1],
+    [/\/\s*h(?:ou)?r\b|\bper\s+h(?:ou)?r\b|\ban?\s+hour\b|\bhourly\b/i, 2080],
+    [/\/\s*day\b|\bper\s+day\b|\ba\s+day\b|\bdaily\b/i, 260],
+    [/\/\s*(?:wk|week)\b|\bper\s+(?:wk|week)\b|\ba\s+week\b|\bweekly\b/i, 52],
+    [/\/\s*mo(?:nth)?\b|\bper\s+(?:mo|month)\b|\ba\s+month\b|\bmonthly\b|\bmonth\b/i, 12],
+    [/\/\s*y(?:ea)?r\b|\bper\s+(?:yr|year|annum)\b|\ba\s+year\b|\bannual(?:ly)?\b|\byearly\b|\byear\b|\bp\.a\.?(?![a-z])/i, 1],
   ];
+  // The period word that appears earliest in `s` (null = none).
   function _annualMult(s) {
-    for (const [re, m] of PERIOD_MULT) if (re.test(s)) return m;
-    return null;  // unknown period — inferred later from magnitude
-  }
-  // Pull dollar amounts out of a string. Tolerates comma OR space thousands
-  // separators ("$120,000", "$120 000", "$120000") and k-suffixes ("$120k").
-  // The bare-grouped form ($-optional) covers "$120 000"; the k and plain forms
-  // require a $ so we don't grab "401k" or random numbers from prose.
-  const _MONEY_RE = /\$\s*\d+(?:\.\d+)?\s*[kK]\b|\$?\s*\d{1,3}(?:[,\s]\d{3})+(?:\.\d+)?|\$\s*\d{2,7}(?:\.\d+)?/g;
-  function _moneyNums(s) {
-    const out = [];
-    let m;
-    _MONEY_RE.lastIndex = 0;
-    while ((m = _MONEY_RE.exec(s)) !== null) {
-      const tok = m[0];
-      let n = parseFloat(tok.replace(/[\s,$]/g, ''));
-      if (/[kK]/.test(tok)) n *= 1000;
-      if (isFinite(n) && n >= 10) out.push(n);
+    let best = null, at = Infinity;
+    for (const [re, m] of PERIOD_MULT) {
+      const hit = re.exec(s);
+      if (hit && hit.index < at) { at = hit.index; best = m; }
     }
-    return out;
+    return best;
+  }
+  // Amount tokens: "$120k", "$120,000", "$120 000", "$62.50", bare "120,000".
+  // Group 1 = "$", 2 = digits, 3 = decimals, 4 = scale suffix.
+  const _AMOUNT_RE = /(\$\s*)?(\d{1,3}(?:[,\s]\d{3}(?!\d))+|\d+)(\.\d+)?(?:\s*(k|thousand|mm|m|million|bn|b|billion|trillion)(?![a-z]))?/gi;
+  // "$A - B", "$A \- B" (markdown-escaped), "$A – B", "$A to B" (CA$/US$ allowed on B).
+  const _RANGE_SEP_RE = /^\s*(?:\\?[-–—]|to)\s*(?:us|ca|c)?\s*$/i;
+  // A number without "$" followed by one of these is a headcount, not pay.
+  const _NOT_PAY_NOUN_RE = /^\s*\+?\s*(?:employees|staff|people|persons|clients|customers|users|members|students|patients|residents|beds|partners|professionals|associates|colleagues|team\s+members|volunteers|visitors|households|homes|units|stores|locations|offices|countries|companies|organizations|sq|square)\b/i;
+  function _amounts(s) {
+    const toks = [];
+    let m;
+    _AMOUNT_RE.lastIndex = 0;
+    while ((m = _AMOUNT_RE.exec(s)) !== null) {
+      const scale = (m[4] || '').toLowerCase();
+      toks.push({
+        start: m.index, end: m.index + m[0].length,
+        dollar: !!m[1],
+        grouped: /[,\s]/.test(m[2]),
+        big: /^(?:mm|m|million|bn|b|billion|trillion)$/.test(scale),   // $10M of projects is not pay
+        k: scale === 'k' || scale === 'thousand',
+        value: parseFloat(m[2].replace(/[,\s]/g, '') + (m[3] || '')),
+      });
+    }
+    // Link "$A - B" ranges: B needs no "$", and a K on B alone applies to A ($160-200K).
+    toks.forEach((t, i) => {
+      const u = toks[i + 1];
+      if (!u || !t.dollar || t.big || u.big || !_RANGE_SEP_RE.test(s.slice(t.end, u.start))) return;
+      u.rangeUpper = true; t.upper = u;
+      if (u.k && !t.k && t.value < 1000) t.k = true;
+    });
+    return toks.filter((t, i) => {
+      if (t.big) return false;
+      if (t.k && t.value < 1000) t.value *= 1000;   // "$140,000K" is already in full
+      if (!(isFinite(t.value) && t.value >= 10)) return false;
+      if (t.dollar || t.rangeUpper) return true;
+      // Bare numbers count only in the thousands-grouped form ("120,000"),
+      // never "401k" or a year, and never when they count people.
+      return t.grouped && !_NOT_PAY_NOUN_RE.test(s.slice(t.end, t.end + 30));
+    }).map((t, i, arr) => {
+      // Each amount's own period: the text right after it, up to the next amount.
+      const next = arr[i + 1];
+      t.mult = _annualMult(s.slice(t.end, Math.min(t.end + 25, next ? next.start : Infinity)));
+      return t;
+    });
   }
   function _parseOnePay(raw) {
-    const s = (raw || '').toLowerCase();
-    const nums = _moneyNums(s);
-    if (!nums.length) return null;
-    let mult = _annualMult(s);
-    let lo = Math.min(...nums), hi = Math.max(...nums);
+    const s = raw || '';
+    const toks = _amounts(s);
+    if (!toks.length) return null;
+    toks.forEach(t => { if (t.upper && t.mult == null) t.mult = t.upper.mult; });  // "$60 - $70/hr"
+    let mult = (toks.find(t => t.mult != null) || {}).mult;
+    if (mult == null) mult = _annualMult(s.slice(Math.max(0, toks[0].start - 25), toks[0].start));  // "Hourly rate: $50"
+    // Drop amounts quoted in a different period ("$80/hr, up to $1,600/week").
+    const kept = mult == null ? toks : toks.filter(t => t.mult == null || t.mult === mult);
+    const vals = kept.map(t => t.value);
+    let lo = Math.min(...vals), hi = Math.max(...vals);
     if (mult == null) {
       if (hi < 200) mult = 2080;        // looks hourly
       else if (hi < 20000) mult = 12;   // looks monthly
@@ -1050,16 +1089,26 @@
     const k = n => '$' + Math.round(n / 1000) + 'k';
     return { min: lo, max: hi, disp: (lo === hi ? k(lo) : `${k(lo)}–${k(hi)}`) + '/yr' };
   }
+  // Explicit pay wording only; a bare "$N" is not a cue ("US$1.0 trillion in
+  // assets", "$10M of capital projects").
+  const _PAY_CUE_RE = /salary|compensation|pay\s*(?:range|rate|scale|band|details)|hiring\s*range|base\s*pay|hourly\s*rate|\bwages?\b|\bannual(?:ly)?\b|\bper\s+(?:year|annum|hour)\b|\/\s*(?:yr|year|hr|hour)\b|\ban\s+hour\b|\ba\s+year\b/gi;
   function parseSalary(j) {
     const cands = [];
     if (j.salary) cands.push(j.salary);
     if (j.title) cands.push(j.title);
     if (j.description) {
-      // Only parse the slice around a pay cue, so we don't grab random dollar
-      // figures (or 401k) from the body text.
+      // Only parse slices around pay wording, so we don't grab random dollar
+      // figures (or 401k) from the body text. Try the first 20 cues in order.
       const d = j.description;
-      const cue = /(salary|compensation|pay\s*range|pay\s*rate|base\s*pay|hourly\s*rate|\bwage\b|\$\s?\d)/i.exec(d);
-      if (cue) cands.push(d.slice(Math.max(0, cue.index - 24), cue.index + 160));
+      let m, n = 0;
+      _PAY_CUE_RE.lastIndex = 0;
+      while ((m = _PAY_CUE_RE.exec(d)) !== null && n++ < 20) {
+        // Widen the slice so it never cuts an amount in half ("$135,000" → "5,000").
+        let a = Math.max(0, m.index - 60), b = Math.min(d.length, m.index + 160);
+        while (a > 0 && /[\d,.$]/.test(d[a - 1])) a--;
+        while (b < d.length && /[\d,.kK]/.test(d[b])) b++;
+        cands.push(d.slice(a, b));
+      }
     }
     for (const raw of cands) {
       const got = _parseOnePay(raw);
@@ -1421,12 +1470,16 @@
     { label: '$300k+',      min: 300000, max: null },
   ];
   // Does a listed pay range [salMin, salMax] overlap the band [min, max)?
-  // A single figure counts as min = max; no figure at all never matches.
+  // A single figure (min = max) sits in the band where min <= v < max. A range
+  // must overlap the band's interior: touching an edge is not enough, so
+  // $230k–$250k is only in $200–250k and $100k–$125k is not in $125–150k.
+  // No figure at all never matches.
   function salaryInBand(salMin, salMax, band) {
     const lo = salMin != null ? salMin : salMax;
     const hi = salMax != null ? salMax : salMin;
     if (lo == null) return false;
-    return hi >= band.min && (band.max == null || lo < band.max);
+    const belowMax = band.max == null || lo < band.max;
+    return (lo === hi ? lo >= band.min : hi > band.min) && belowMax;
   }
 
   // `except` skips one dimension so a facet's pills don't constrain their own counts.
