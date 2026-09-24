@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
     inputs:
       backfill:
-        description: "One-time backfill: fetch last 30 days instead of last hour (run once when setting up)"
+        description: "One-time backfill: fetch the last 7 days instead of the time since the last scrape (run once when setting up)"
         required: false
         type: boolean
         default: false
@@ -33,12 +33,42 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Skip if another runner scraped recently
+        id: fresh
+        # The local runner (scripts/local_runner.py, docs/local-runner.md) scrapes LinkedIn about
+        # every 20 minutes from a home connection and publishes output/scrape_state.json. If it
+        # did so recently there is nothing for GitHub to add, and running would only race it.
+        # A manual backfill always runs. If the local runner stops (Mac asleep or off), the
+        # marker ages past 45 minutes and this workflow resumes as the fallback.
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          from datetime import datetime, timezone
+
+          skip = False
+          if os.environ.get("BACKFILL") != "true":
+              try:
+                  last = json.load(open("output/scrape_state.json"))["linkedin"]["last_success"]
+                  then = datetime.strptime(last, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                  age = (datetime.now(timezone.utc) - then).total_seconds() / 60
+                  skip = age < 45
+                  print(f"last successful LinkedIn scrape {age:.0f} min ago -> {'skipping' if skip else 'scraping'}")
+              except Exception as exc:
+                  print(f"no usable scrape state ({exc}); scraping")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              out.write(f"skip={'true' if skip else 'false'}\n")
+          EOF
+        env:
+          BACKFILL: ${{ github.event.inputs.backfill }}
+
       - name: Set up Python
+        if: steps.fresh.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Scrape LinkedIn (last 1h, or 30-day backfill)
+      - name: Scrape LinkedIn (since the last success, or 7-day backfill)
+        if: steps.fresh.outputs.skip != 'true'
         run: |
           if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
             python scrape_jobs.py --linkedin-backfill
@@ -51,6 +81,7 @@ jobs:
           NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
 
       - name: Record workflow run
+        if: steps.fresh.outputs.skip != 'true'
         run: |
           python - <<'EOF'
           import json
@@ -73,6 +104,7 @@ jobs:
           EOF
 
       - name: Add geography (office location, distance from home)
+        if: steps.fresh.outputs.skip != 'true'
         # Fail soft: a geocoding/research problem must never block saving scraped jobs.
         continue-on-error: true
         run: |
@@ -82,11 +114,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Commit results to repo
-        if: vars.ENABLE_DATA_COMMITS == 'true'
+        if: steps.fresh.outputs.skip != 'true' && vars.ENABLE_DATA_COMMITS == 'true'
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
+          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json output/scrape_state.json
           # geo_cache.json is only written when enrich_geography.py actually
           # changes something (see its no-op guard); a light run may not touch it.
           [ -f output/geo_cache.json ] && git add -f output/geo_cache.json || true
