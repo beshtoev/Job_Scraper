@@ -170,14 +170,32 @@
       "Digital Transformation"
     ],
     "glassdoor": [
-      "VP Data AI",
-      "Head of Data AI",
-      "Senior Director Data AI",
-      "Data Transformation",
-      "Finance Transformation",
-      "VP FP&A",
-      "Enterprise AI",
-      "Digital Transformation"
+      "vice president data",
+      "vice president analytics",
+      "vice president ai",
+      "vice president finance",
+      "vice president transformation",
+      "vice president technology",
+      "head of data",
+      "head of ai",
+      "head of analytics",
+      "head of finance",
+      "head of transformation",
+      "chief data officer",
+      "chief ai officer",
+      "chief analytics officer",
+      "chief digital officer",
+      "senior director data",
+      "senior director analytics",
+      "senior director ai",
+      "senior director finance",
+      "senior director transformation",
+      "director data",
+      "director analytics",
+      "director ai",
+      "director finance",
+      "director transformation",
+      "director governance"
     ],
     "ziprecruiter": [
       "VP Data AI",
@@ -323,6 +341,10 @@
       "remote",
       "hybrid"
     ]
+  },
+  "freshness": {
+    "_comment": "How far back backfills reach on the high-volume boards (LinkedIn, Glassdoor, ZipRecruiter). Postings older than this draw hundreds of applicants and are rarely worth pursuing; lower to 3 for stricter freshness. Indeed keeps its own window.",
+    "backfill_days": 7
   },
   "geography": {
     "_comment": "Used by enrich_geography.py (runs after each scrape). Jobs are ranked by category_order, then by distance from home. Research looks up a company's office with Claude + web search when a posting gives no address; it needs the ANTHROPIC_API_KEY secret and is capped per run.",
