@@ -1,42 +1,36 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-23 22:34 UTC*
+*Last updated: 2026-09-24 00:48 UTC*
 
 **8 new role(s)** since last run · 8 total in last 1h
 
-### [Director, AI Technology Delivery](https://www.linkedin.com/jobs/view/4471134149/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000.00 - $240,000.00
-- 🕒 **Posted:** 2026-09-23
+### [Senior Director, AI and Data & Integration Platforms](https://www.linkedin.com/jobs/view/4471167225/) — RBC
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-09-24
 
-### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467292374/) — BMO
+### [Director, People Analytics](https://www.linkedin.com/jobs/view/4469615807/) — CBC/Radio-Canada
 - 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Senior Director of Planning and Allocation](https://www.linkedin.com/jobs/view/4471140044/) — Psycho Bunny
+### [Director, AI Governance and Adoption (T & I) (Telework/Hybrid)](https://www.linkedin.com/jobs/view/4469624273/) — CBC/Radio-Canada
 - 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467273679/) — BMO
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-09-23
-
-### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467287463/) — BMO
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-09-23
-
-### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467276607/) — BMO
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-09-23
-
-### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467293369/) — BMO
+### [Director, Financial planning and analysis, Nuclear Sector](https://www.linkedin.com/jobs/view/4471171136/) — AtkinsRéalis
 - 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Chief Financial Officer (CFO) Strategic Business Executive](https://www.linkedin.com/jobs/view/4469612596/) — Grey Eagle Resort & Casino
+### [Director, Enterprise IT Internal Audit](https://www.linkedin.com/jobs/view/4471156899/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-09-24
+
+### [Program Director – Wireline Network Transformation & Delivery](https://www.linkedin.com/jobs/view/4469630256/) — Tata Consultancy Services
+- 📍 **Location:** Greater Toronto Area, Canada
+- 🕒 **Posted:** 2026-09-24
+
+### [Director, Operations, AI Data Centre](https://www.linkedin.com/jobs/view/4467917057/) — Bell
+- 📍 **Location:** Regina, Saskatchewan, Canada
+- 🕒 **Posted:** 2026-09-24
+
+### [Program Director, Bell AI Fabric](https://www.linkedin.com/jobs/view/4467922003/) — Bell
 - 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
