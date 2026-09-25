@@ -728,7 +728,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Program-Director--Wealth-Management-Transformation-Management-Office_R-0000188353-1",
+      "duplicate_urls": [
+        "https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Program-Director--Wealth-Management-Transformation-Management-Office_R-0000188353-1"
+      ]
     },
     {
       "company": "Elevate Service Group",
@@ -794,7 +798,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://builtintoronto.com/job/senior-director-enterprise-systems-ai-enablement/11361736"
+      ]
     },
     {
       "company": "BCS Technology International Pty Ltd",
@@ -846,7 +853,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://builtintoronto.com/job/digital-consulting-director-oracle-epm/11361767",
+      "duplicate_urls": [
+        "https://builtintoronto.com/job/digital-consulting-director-oracle-epm/11361767"
+      ]
     },
     {
       "company": "Cineflix",
@@ -982,7 +993,12 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Digital-Investing-Product-Management_R260026126",
+      "duplicate_urls": [
+        "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Digital-Investing-Product-Management_R260026126",
+        "https://builtintoronto.com/job/director-digital-investing-product-management/11366118"
+      ]
     },
     {
       "company": "EvenUp",
@@ -1385,7 +1401,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://builtintoronto.com/job/director-data-centre-strategy-market-development-directeur-trice-strat-gie-des-centres-de-donn-es-et-d-veloppement-des-marches/11359473",
+      "duplicate_urls": [
+        "https://builtintoronto.com/job/director-data-centre-strategy-market-development-directeur-trice-strat-gie-des-centres-de-donn-es-et-d-veloppement-des-marches/11359473"
+      ]
     },
     {
       "company": "Jobber",
@@ -1460,7 +1480,12 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Assisted-Channels-Platform-Strategy--Resiliency---Organizational-Change-Management_R260027240",
+      "duplicate_urls": [
+        "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Assisted-Channels-Platform-Strategy--Resiliency---Organizational-Change-Management_R260027240",
+        "https://builtintoronto.com/job/director-assisted-channels-platform-strategy-resiliency-organizational-change-management/11365217"
+      ]
     },
     {
       "company": "TAIRC",
@@ -1947,7 +1972,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=6c15fe49d4e6ce7b"
+        "https://ca.indeed.com/viewjob?jk=6c15fe49d4e6ce7b",
+        "https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--AI-Delivery---Portfolio-Management---Global-Payments-Technology_R-0000186228-1"
       ]
     },
     {
@@ -2077,6 +2103,7 @@
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=30627a61a8865191",
         "https://ca.indeed.com/viewjob?jk=d6668dc02fc43a9b",
+        "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP--Program-Management-and-Transformation_JR00128304",
         "https://www.glassdoor.ca/job-listing/j?jl=1010273482109",
         "https://www.glassdoor.ca/job-listing/j?jl=1010273522175"
       ],
@@ -2209,6 +2236,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://builtintoronto.com/job/sr-director-business-intelligence-and-analytics/11361300",
         "https://ca.indeed.com/viewjob?jk=8e65f690b47f9778",
         "https://www.glassdoor.ca/job-listing/j?jl=1010273379750"
       ],
@@ -12909,8 +12937,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -13323,19 +13351,19 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
-      "geo_lat": 43.64877,
-      "geo_lon": -79.38169,
-      "geo_distance_km": 6.6,
-      "geo_rank": 66,
-      "geo_source": "posting-address",
-      "geo_confidence": "high",
-      "geo_detail": "100 King Street West",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
         "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Head--Responsible-AI---Governance_R260020318"

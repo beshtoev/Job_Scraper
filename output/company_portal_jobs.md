@@ -1,80 +1,57 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-24 13:15 UTC*
+*Last updated: 2026-09-25 13:33 UTC*
 
-**22 new role(s)** since last run · 246 total in current portal openings
+**15 new role(s)** since last run · 245 total in current portal openings
 
-### [Director, AI Technology Delivery](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--AI-Technology-Delivery_R260027474-1) — BMO
+### [Director, Digital Investing Product Management](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Digital-Investing-Product-Management_R260026126) — BMO
 - 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Director, Wealth Growth & Analytics](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Wealth-Growth---Analytics_R260023430-1) — BMO
+### [Director, Assisted Channels Platform Strategy, Resiliency & Organizational Change Management](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Assisted-Channels-Platform-Strategy--Resiliency---Organizational-Change-Management_R260027240) — BMO
 - 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Vice-President, Digital Discoverability and Shopping](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Vice-President--Digital-Discoverability-and-Shopping_2619589) — CIBC
-- 📍 **Location:** Toronto, ON
-- 🕒 **Posted:** 2026-09-23
+### [Senior Credit Officer, Director - Financial Institutions](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Credit-Officer--Director---Financial-Institutions_R260027658) — BMO
+- 📍 **Location:** Toronto, ON, CAN
+- 🕒 **Posted:** 2026-09-24
 
-### [Lead Automation Developer - Vice President](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Lead-Automation-Developer---Vice-President_26994313) — CITI
-- 📍 **Location:** Mississauga Ontario Canada
-- 🕒 **Posted:** 2026-09-23
-
-### [Head of Brand Strategy and Governance](https://jobs.lever.co/eqbank/20a3d2bf-5f0d-4552-901f-e3a4bcdd2a16) — EQ Bank
+### [Director, Security Architecture & Engineering, Information & Corporate Security](https://cppib.wd10.myworkdayjobs.com/en-US/cppinvestments/job/Toronto/Director--Security-Architecture---Engineering--Information---Corporate-Security_JR00060) — Cppib
 - 📍 **Location:** Toronto
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Senior Director, Financial Planning and Analysis](https://jobs.lever.co/eqbank/ecf5ddae-1dac-40a2-9bf0-b48155e3bce3) — EQ Bank
-- 📍 **Location:** Toronto
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-23
+### [Directeur, Planification de la chaîne d’approvisionnement et transport/Director, Supply Chain Planning & Transportation](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Directeur--Planification-de-la-chane-d-approvisionnement-et-transport-Director--Supply-Chain-Planning---Transportation_JR0151905) — Mckesson
+- 📍 **Location:** CAN, QC, Montreal, Ville Saint-Laurent
+- 🕒 **Posted:** 2026-09-22
 
-### [Account Director, Platform Strategy](https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/job/Toronto-Ontario-Canada/Account-Director--Platform-Strategy_R15395) — Interpublic
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-09-23
+### [Program Director, Wealth Management Transformation Management Office](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Program-Director--Wealth-Management-Transformation-Management-Office_R-0000188353-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-09-24
 
-### [AVP, Corporate Underwriting Risk & Governance](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP--Corporate-Underwriting-Risk---Governance_JR00126900) — Sun Life
+### [Director, AI Delivery & Portfolio Management – Global Payments Technology](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--AI-Delivery---Portfolio-Management---Global-Payments-Technology_R-0000186228-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-09-24
+
+### [AVP, Program Management and Transformation](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP--Program-Management-and-Transformation_JR00128304) — Sun Life
 - 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-09-24
 
-### [Director, AI Governance and Adoption (T & I) (Telework/Hybrid)](https://builtintoronto.com/job/director-ai-governance-and-adoption-t-i-telework-hybrid/11339209) — CBC/Radio-Canada
+### [Director, Digital Investing Product Management](https://builtintoronto.com/job/director-digital-investing-product-management/11366118) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, People Analytics](https://builtintoronto.com/job/director-people-analytics/11339202) — CBC/Radio-Canada
+### [Director, Assisted Channels Platform Strategy, Resiliency & Organizational Change Management](https://builtintoronto.com/job/director-assisted-channels-platform-strategy-resiliency-organizational-change-management/11365217) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, AI Enterprise Data Governance (T & I) (Telework/Hybrid)](https://builtintoronto.com/job/director-ai-enterprise-data-governance-t-i-telework-hybrid/11339199) — CBC/Radio-Canada
+### [Senior Credit Officer, Director - Financial Institutions](https://builtintoronto.com/job/senior-credit-officer-director-financial-institutions/11363384) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, AI Innovation Enablement (T & I) (Telework/Hybrid)](https://builtintoronto.com/job/director-ai-innovation-enablement-t-i-telework-hybrid/11339185) — CBC/Radio-Canada
+### [Digital Consulting Director, Oracle EPM](https://builtintoronto.com/job/digital-consulting-director-oracle-epm/11361767) — Huron
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Director, Financial Planning and Analysis](https://builtintoronto.com/job/senior-director-financial-planning-and-analysis/11335952) — EQ Bank | Equitable Bank
+### [Senior Director, Enterprise Systems & AI Enablement](https://builtintoronto.com/job/senior-director-enterprise-systems-ai-enablement/11361736) — Cineflix Media Inc.
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Wealth Growth & Analytics](https://builtintoronto.com/job/director-wealth-growth-analytics/10665268) — BMO
+### [Sr. Director, Business Intelligence and Analytics](https://builtintoronto.com/job/sr-director-business-intelligence-and-analytics/11361300) — GS1 Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Vice-President, Enterprise Media & Owned Channels](https://builtintoronto.com/job/vice-president-enterprise-media-owned-channels/11344876) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Vice-President, Digital Discoverability and Shopping](https://builtintoronto.com/job/vice-president-digital-discoverability-and-shopping/11344872) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Associate/Assistant Vice President - Credit Underwriting and Portfolio Management – Financial Institutions Group (FIG)](https://builtintoronto.com/job/associate-assistant-vice-president-credit-underwriting-and-portfolio-management-financial-institutions-group-fig/11341474) — MUFG
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [SVP, Technology (Product & Engineering)](https://builtintoronto.com/job/svp-technology-product-engineering/11339062) — SWTCH
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Staff Generative AI Engineer - Vice President](https://builtintoronto.com/job/staff-generative-ai-engineer-vice-president/11336234) — Citi
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Senior Java Developer - Equities Trading Technology - Vice President](https://builtintoronto.com/job/senior-java-developer-equities-trading-technology-vice-president/11332477) — Citi
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Lead Automation Developer - Vice President](https://builtintoronto.com/job/lead-automation-developer-vice-president/11332478) — Citi
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Head of Brand Strategy and Governance](https://builtintoronto.com/job/head-brand-strategy-and-governance/11335911) — EQ Bank | Equitable Bank
+### [Director, Data Centre Strategy & Market Development*** Directeur(trice), stratégie des centres de données et développement des marches](https://builtintoronto.com/job/director-data-centre-strategy-market-development-directeur-trice-strat-gie-des-centres-de-donn-es-et-d-veloppement-des-marches/11359473) — Aliaxis
 - 📍 **Location:** Toronto, Ontario, Canada
