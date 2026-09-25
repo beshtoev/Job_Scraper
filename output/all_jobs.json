@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-25 14:55 UTC",
+  "updated_at": "2026-09-25 15:17 UTC",
   "jobs": [
+    {
+      "company": "Hammond Power Solutions",
+      "title": "Director, Enterprise Business Applications",
+      "location": "Guelph, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4413345016/",
+      "date_posted": "2026-09-25",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Hammond Power Solutions Inc.\nis a global manufacturer headquartered in Guelph, Ontario, Canada. HPS has grown to become the leader in North America in the custom design and manufacture of dry type transformers. For the past century, HPS has grown to deliver electrical power solutions to global markets and provides solutions for complex applications like, mining, rectifier, drives, traction, wind, solar and many other electrical power applications. The world relies on HPS to continually conceive and produce state-of-the-art transformer technology. We currently have an opening for a Director, Enterprise Business Applications,\ncome grow with us!\n\nReporting to the Chief Information Officer, the Director, Enterprise Business Applications is accountable for the strategy, performance, and evolution of the organization’s enterprise business application portfolio. This role ensures that core platforms supporting manufacturing, supply chain, finance, commercial, P&C, and corporate functions are reliable, scalable, secure, and aligned with business priorities in a multinational manufacturing environment, while driving responsible adoption of AI-enabled capabilities.\n\nKey Responsibilities Include\n\nDefine and execute a multi-year enterprise applications strategy aligned with business objectives and operating priorities\nPartner with business and functional leaders to translate needs into technology roadmaps and investment plans.\nOversee the performance, stability, and lifecycle management of enterprise applications, including incident, change, and release processes.\nLead modernization initiatives across ERP, CRM, HRIS, finance, and manufacturing systems to improve scalability and reduce technical debt.\nDrive adoption of AI-enabled capabilities (e.g., vendor AI, Microsoft Copilot, custom solutions) to enhance productivity, decision-making, and automation.\nEnsure AI-enabled features and automations are operated reliably, monitored effectively, and supported within standard service models.\nEnable system integration, process standardization, and data-driven operations\nSupport M&A activities by assessing application and data landscapes, defining target-state architectures, and planning phased integrations, including AI and analytics alignment.\nManage budgets, vendors, and implementation partners, ensuring effective delivery and measurable business value (including software licensing, AI services, support and delivery partners)\nEstablish governance frameworks, ensuring compliance with cybersecurity, data, and regulatory requirements, and managing application and AI-related risk\nLead and develop global application teams, fostering a high-performance, collaborative, and outcome-focused culture.\nPartner with risk, security, legal, and compliance teams to proactively identify and mitigate application and AI-related risks.\n\nDo you qualify? We are seeking:\n\n10+ years of experience in enterprise applications leadership\nDegree in Computer Science, Information Systems, Engineering, or related field (Master’s an asset)\nProven experience in complex, manufacturing-focused environments\nProven experience implementing and overseeing AI‑enabled business applications, including embedded vendor AI and productivity copilots, with awareness of data, security, and operational implications.\nStrong expertise across ERP-centric ecosystems supporting supply chain, finance, HR, and operations\nSolid understanding of application architecture, integration, and governance practices.\nDemonstrated ability to translate business strategy into technology roadmaps and outcomes\nRelevant certifications (PMP, Agile, ERP, Azure/AWS) considered an asset\nExcellent communication and leadership skills\n\nNOTE: Hammond Power Solutions encourages applications from all qualified candidates. HPS has a great record of accommodating persons with disabilities. Contact our People & Culture team if you need accommodation at any stage of the application process or want more information on our accommodation policies.\n\nSome Of The Benefits Of Working At Hammond\n\nWe are Great Place to Work Certified! Our people work hard for us—so we make sure our benefits work hard for them. Our equitable pay, benefits, and practices prioritize security, health, and well-being while sharing in our business success through variable pay programs and our Employee Stock Ownership Program.\n\nOur core benefits focus on wellness, mental health, and financial security when employees need them the most, early career or getting ready for retirement. We also support work-life balance through flexible work schedules, paid time off, and leaves of absence. Employees and their families also have access to our confidential, best-in-class Employee and Family Assistance Program (EFAP).\n\nWe are committed to sustainable business practices and offer opportunities for our employees to support the communities where we live and work through our Hammond Giving Strategy.\n\n#HP\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nAppliances, Electrical, and Electronics Manufacturing",
+      "first_seen": "2026-09-25T15:17:44Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Guelph",
+      "geo_province": "ON",
+      "geo_lat": 43.5448,
+      "geo_lon": -80.2482,
+      "geo_distance_km": 70.9,
+      "geo_rank": 200709,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Lyft",
       "title": "Director, Business Planning & Central Operations",
