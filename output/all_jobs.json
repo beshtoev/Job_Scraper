@@ -543,7 +543,12 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.scotiabank.com/job/Toronto-Director%2C-Platform-Product-Owner-ON-M5H-1H1/606446817/",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=e2b4e0ba0d961b52"
+      ]
     },
     {
       "company": "South Shore Community Service Association",
