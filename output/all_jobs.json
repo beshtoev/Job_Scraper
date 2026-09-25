@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 00:56 UTC",
+  "updated_at": "2026-09-25 00:58 UTC",
   "jobs": [
     {
       "company": "BMO Financial Group",
@@ -1043,8 +1043,6 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=30627a61a8865191",
-        "https://ca.indeed.com/viewjob?jk=d6668dc02fc43a9b",
         "https://www.glassdoor.ca/job-listing/j?jl=1010273482109"
       ],
       "direct_url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP--Program-Management-and-Transformation_JR00128304",
@@ -1176,7 +1174,6 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=8e65f690b47f9778",
         "https://www.glassdoor.ca/job-listing/j?jl=1010273379750"
       ],
       "direct_url": "https://gs1ca.pinpointhq.com/postings/2d075181-1b70-4b85-a6b8-ea05f5868fb7?utm_medium=job_board&utm_source=indeed",
@@ -12842,5 +12839,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 427
 }
