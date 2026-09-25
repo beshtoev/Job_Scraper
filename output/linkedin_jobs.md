@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-25 05:57 UTC*
+*Last updated: 2026-09-25 06:44 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Director of Transformation](https://www.linkedin.com/jobs/view/4470087151/) — BCS Technology International Pty Ltd
+### [Program Director, Wealth Management Transformation Management Office](https://www.linkedin.com/jobs/view/4471869257/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-25
