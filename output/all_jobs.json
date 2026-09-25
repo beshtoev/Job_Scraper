@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-25 11:22 UTC",
+  "updated_at": "2026-09-25 11:58 UTC",
   "jobs": [
+    {
+      "company": "Ethos",
+      "title": "Expert Opportunity - VP of FP&A ($80/hr, up to $1,600/week)",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4453399169/",
+      "date_posted": "2026-09-25",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "About This Opportunity\n\nWe're working with a leading foundational AI lab to find experienced VPs of FP&A who can help train their latest language model on professional presentation and slide deck tasks.\n\nWe're looking for VPs of FP&A with 5+ years owning budgeting, forecasting, and executive reporting to create, evaluate, and refine AI-generated presentations and slide decks across core workflows: monthly business review decks, budget and forecast presentations, variance analysis exhibits, board finance packages, long-range plan decks, and KPI dashboard slides.\n\nCompensation:\n$80/hour\n\nCommitment:\nFlexible, 5-20 hours per week (or more if desired)\n\nLocation:\nFully remote, work on your own schedule\n\nStart date:\nASAP\n\nQualifications\n\n5+ years in FP&A with ownership of executive or board reporting\nDeep expertise in variance storytelling, financial exhibits, and business review materials\nExpert-level PowerPoint and slide craftsmanship, with excellent written communication and attention to detail\n\nAbout Ethos\n\nEthos is a new expert network built by a McKinsey/SoftBank/DeepMind team and backed by world-leading investors like General Catalyst. We connect experts with investors and consultancies for paid expert calls, speaking engagements, and advisory opportunities.\n\nKey Requirements\n\n5+ years in FP&A with ownership of executive or board reporting\nDeep expertise in variance storytelling, financial exhibits, and business review materials\nExpert-level PowerPoint and slide craftsmanship, with excellent written communication and attention to detail\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nPart-time\n\nJob function\n\nFinance and Sales\n\nIndustries\n\nTechnology, Information and Internet",
+      "first_seen": "2026-09-25T11:58:37Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Thomson Reuters",
       "title": "Director, AI Product Ops",
