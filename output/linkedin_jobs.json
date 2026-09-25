@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-25 02:33 UTC",
+  "scraped_at": "2026-09-25 03:20 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Huron",
@@ -52,54 +52,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Huron",
-      "title": "Digital Consulting Director, Oracle EPM",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4469796674/",
-      "date_posted": "2026-09-25",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Huron is a global consultancy that collaborates with clients to drive strategic growth, ignite innovation and navigate constant change. Through a combination of strategy, expertise and creativity, we help clients accelerate operational, digital and cultural transformation, enabling the change they need to own their future.\n\nJoin our team as the expert you are now and create your future.\n\nThe correlation between World-Class Professional Services firms and Directors…\n\nThriving professional services firms share a number of traits— a team of first-rate Directors heads the list. At Huron, Directors represent the pinnacle of professionalism and expertise. They effectively collaborate with Huron and client senior leaders to architect and implement goal-achieving enterprise technology solutions while delivering remarkable results that meet - but usually exceed - specified engagement objectives. They provide client engagement delivery oversight, team leadership and program management. Throughout the process, they construct enduring relationships that benefit the firm in profound ways including selling additional project work into clients.\n\nHuron Directors contribute more than 10+ years of experience and dedication to helping organizations solve their most complex challenges—and they consistently convert expertise and intuition into the growth of our clients and Huron alike. Their talents and leadership instill passion and followership in clients, juniors and management. If you’re defined by ongoing progress—if you can lead teams, create solutions, and masterfully communicate on every level…If you’re a consummate professional, a prospective champion of Huron's core values, and an inspiration of confidence and trust… then you can and will help Huron and it’s clients achieve their full potential.\n\nRewarding and boundless… a Director role at Huron will ignite your future in professional services.\n\nWe see what’s possible in you and help you achieve it.\n\nQualifications\n\n8-10 years of experience in a consulting or advisory role focused on enterprise-scale platform implementations\nExperience with estimating, implementation planning, functional application expertise, and project management\nOracle EPM expertise with end-to-end cloud implementations in a consulting environment\nPrior experience driving delivery and assisting with pursuits\nExcellent communication skills – oral and written – and the interpersonal skills needed to quickly establish relationships of trust and collaboration\nPreferred expertise in Oracle EPM Profitability & Cost Management Cloud\nAbility to establish credibility in the eyes of senior-level, financially literate client executives on the basis of expertise, maturity, and professionalism\nProven thought leadership as indicated by speaking engagements and/or publications\nAbility to manage multiple projects of different scale and duration\nAbility to train and participate in the professional development of Huron staff in both project-management and technical dimensions\nHuron requires a Bachelor’s Degree in a related field or equivalent work experience\nWillingness to travel up to 50%\n\nPosition Level\n\nDirector\n\nCountry\n\nCanada\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nJob function\n\nConsulting, Information Technology, and Sales\n\nIndustries\n\nBusiness Consulting and Services",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "EvenUp",
-      "title": "Director, FP&A, R&D",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4469789939/",
-      "date_posted": "2026-09-25",
-      "salary": "$176,000.00/yr - $250,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "EvenUp is on a mission to close the justice gap using technology and AI. We empower personal injury lawyers and victims to get the justice they deserve. Our products enable law firms to secure faster settlements, higher payouts, and better outcomes for victims injured through no fault of their own in vehicle collisions, accidents, natural disasters, and more.\n\nWe are one of the fastest-growing vertical SaaS companies in history, and we are just getting started. EvenUp is backed by top VCs, including Bessemer Venture Partners, Bain Capital Ventures, SignalFire, and Lightspeed. We are looking to expand our team with talented, driven, and collaborative individuals who seek to have a lasting impact. Learn more at www.evenuplaw.com.\n\nThe Director of FP&A, R&D acts as the strategic finance partner to Engineering, Product, and Data/ML leadership, owning the R&D operating plan and establishing LLM economics as a fundamental financial discipline. This role manages the P&L for R&D headcount and Cost of Revenue (CoR) for AI in production, driving efficiency through direct engagement with our data stack (BigQuery/dbt).\n\nWhat You'll Do\n\nPartner day to day with engineering, product, and data leaders as their trusted finance counterpart.\nBuild the analyses that shape build-vs-buy, pricing, and infrastructure decisions.\nSupport foundation-model and cloud vendor negotiations with data-backed positions.\nDeliver clear, concise reporting and variance commentary to the CFO, FP&A leadership, and the board.\nOwn the R&D budget, forecast, and headcount plan across Engineering, Product, and Data/ML. Drive the re-forecast cycle and keep hiring plans tied to output and priorities.\nMake LLM/inference and cloud compute cost a first-class, closely monitored metric. Build the model that tracks unit costs; monitor spend daily; and partner with engineering to find and defend efficiency. This is not a monthly-close afterthought, it's a core operating metric of the business.\nOwn the connection between usage, inference cost, and gross margin. Model the margin impact of new products, pricing changes, and model/infrastructure choices, and make the tradeoffs legible to leadership.\nBring financial rigor to major R&D spend decisions including foundation-model and API contracts, cloud commitments, data, and dev tooling, including negotiation support and ROI cases.\n\nWhat We Look For\n\n8+ years in FP&A / corporate finance, with meaningful time supporting R&D, Engineering, or a technical/product org.\nDeep comfort with SaaS and AI/usage-based economics: CoR, gross margin, unit economics, and how infrastructure/inference cost drives them.\nStrong SQL (BigQuery a major plus) and expert Excel/Sheets modeling, with clean, maintainable model architecture.\nStrong grasp of how R&D spend flows through the P&L.\nAbility to be a genuine partner to technical leaders, holding substantive conversations with engineering or ML leads to translate technical work into financial views.\nPrecise, low-ego, self-directed, and concise work ethic.\nNice to have: Experience at a high-growth AI/ML company, familiarity with modern data stacks, contract negotiation experience, people management experience, and CPA/CA/CFA.\nNice to have: Familiarity with a modern data stack (dbt, EPMs) and building repeatable, auditable finance pipelines.\n\nBenefits & Perks:\n\nAs part of our total rewards package, we offer attractive benefits and perks to our employees, including:\n\nChoice of medical, dental, and vision insurance plans for you and your family.\nAdditional insurance coverage options for life, accident, or critical illness.\nFlexible paid time off, sick leave, short-term and long-term disability.\n10 US observed holidays, and Canadian statutory holidays by province.\nA home office stipend.\n401(k) for US-based employees and RRSP for Canada-based employees.\nPaid parental leave.\nA local in-person meet-up program.\nHubs in San Francisco and Toronto.\n\n(Please note the above benefits & perks are for full-time employees)\n\nNotice to Candidates:\n\nTo ensure fairness and proper consideration, we do not accept resumes or expressions of interest via email or social media messages. If you’re interested in a role, please submit your application directly through our careers page .\n\nPlease note that EvenUp may use AI notetakers and other recording devices in the recruiting process. If you interview with us, with your consent, we may record your conversations and summarize them into notes for internal use. Recording is optional, and declining will not affect your candidacy.\n\nEvenUp is an equal opportunity employer. We are committed to diversity and inclusion in our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nCompensation Range: $176K - $250K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nFinance and Sales\n\nIndustries\n\nTechnology, Information and Internet",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
