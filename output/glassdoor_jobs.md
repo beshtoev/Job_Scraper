@@ -1,39 +1,31 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-25 23:06 UTC*
+*Last updated: 2026-09-26 00:36 UTC*
 
-**8 new role(s)** since last run · 74 total in last 24h
+**6 new role(s)** since last run · 75 total in last 24h
 
-### [AVP, People Strategy & Experience](https://www.glassdoor.ca/job-listing/j?jl=1010274761791) — Federated Co-operatives Limited
-- 📍 **Location:** Saskatoon, Canada
-- 🕒 **Posted:** 2026-09-25
-
-### [Associate/Assistant Vice President - Credit Underwriting and Portfolio Management – Financial Institutions Group (FIG)](https://www.glassdoor.ca/job-listing/j?jl=1010272532120) — MUFG
+### [AVP, Program Management and Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010273482109) — Sun Life
 - 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-09-24
+- 💰 **Salary:** $140k–$225k/yr
+- 🕒 **Posted:** 2026-09-25
 
-### [Vice President, Finance - North America](https://www.glassdoor.ca/job-listing/j?jl=1010272953021) — Landmark Cinemas
-- 📍 **Location:** Calgary, Canada
-- 🕒 **Posted:** 2026-09-24
-
-### [Head of Sales ZEISS Medical Technology - Microsurgery](https://www.glassdoor.ca/job-listing/j?jl=1010274789498) — ZEISS Group
+### [Director, Wealth Digital AI Platforms & Technology Delivery](https://www.glassdoor.ca/job-listing/j?jl=1010274890706) — BMO Financial Group
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $165k–$206k/yr
-- 🕒 **Posted:** 2026-09-25
+- 💰 **Salary:** $140k–$240k/yr
+- 🕒 **Posted:** 2026-09-26
 
-### [Senior Director, Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010274822551) — Creative Destruction Lab
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-09-25
+### [Director, Pricing Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010274890526) — Varicent
+- 📍 **Location:** Brampton, Canada
+- 🕒 **Posted:** 2026-09-26
 
-### [Director, Analytics & Insights](https://www.glassdoor.ca/job-listing/j?jl=1010274751799) — Securian Canada
-- 📍 **Location:** Waterloo, Canada
-- 💰 **Salary:** $130k–$170k/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Director AI Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010274772387) — CGI
+### [Director, Pricing Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010274890528) — Varicent
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $145k–$195k/yr
-- 🕒 **Posted:** 2026-09-25
+- 🕒 **Posted:** 2026-09-26
 
-### [Senior Director- Budgeting, Sustainability and Data Quality (#VAC0029235)](https://www.glassdoor.ca/job-listing/j?jl=1010274851443) — healthcarecan
-- 📍 **Location:** St. John's, Canada
-- 🕒 **Posted:** 2026-09-25
+### [Director, Pricing Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010274890525) — Varicent
+- 📍 **Location:** Mississauga, Canada
+- 🕒 **Posted:** 2026-09-26
+
+### [Commercial Banker Technology - Market Executive - Executive Director](https://www.glassdoor.ca/job-listing/j?jl=1010274929917) — JPMorganChase
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $200k–$250k/yr
+- 🕒 **Posted:** 2026-09-26
