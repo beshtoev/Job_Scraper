@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 14:28 UTC*
+*Last updated: 2026-09-26 14:51 UTC*
 
-**1 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 7 total in last 1h
 
-### [Senior Director, Solutions Architecture — Americas](https://www.linkedin.com/jobs/view/4443165890/) — Cohere
-- 📍 **Location:** Canada
-- 💰 **Salary:** $270,000 - $539,750
+### [Director, Securities Post Trade Technology](https://www.linkedin.com/jobs/view/4396362111/) — Scotiabank
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-26
