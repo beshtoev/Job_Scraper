@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 15:47 UTC",
+  "updated_at": "2026-09-26 16:37 UTC",
   "jobs": [
     {
       "company": "McKesson",
@@ -9707,7 +9707,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4454326366/"
+      ]
     },
     {
       "company": "1Password",
@@ -12301,7 +12304,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$149,600 - $199,500",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4454572008/"
+      ]
     },
     {
       "company": "Miovision",
@@ -16757,5 +16764,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 567
 }
