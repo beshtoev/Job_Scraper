@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 02:50 UTC",
+  "updated_at": "2026-09-26 03:03 UTC",
   "jobs": [
     {
       "company": "Vetsource",
@@ -718,7 +718,8 @@
         "https://www.glassdoor.ca/job-listing/j?jl=1010274890525",
         "https://www.glassdoor.ca/job-listing/j?jl=1010274890526",
         "https://www.glassdoor.ca/job-listing/j?jl=1010274890528",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010274890529"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010274890529",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010274890530"
       ],
       "direct_url": "https://grnh.se/6ve5dix18us",
       "is_remote": true,
@@ -5302,16 +5303,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-09-24T15:30:52Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
