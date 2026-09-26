@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 18:02 UTC*
+*Last updated: 2026-09-26 18:25 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4444347373/) — MNP
+### [Director, Data Enablement](https://www.linkedin.com/jobs/view/4454560277/) — PwC Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $90,000–$140,000
+- 💰 **Salary:** $191,200 - $241,200
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Director, Business Architecture and Innovation](https://www.linkedin.com/jobs/view/4463616561/) — iA Financial Group (Industrial Alliance)
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-09-26
