@@ -1,13 +1,13 @@
 name: Indeed Watcher
 
 on:
-  # Native GitHub cron, hourly at :47 during the active window (8am–8pm PT ≈
-  # 15:00–03:00 UTC). Offset from LinkedIn (:17) to reduce contention on the
-  # commit-push concurrency group. (Indeed has no watchdog backup, so this
-  # native schedule is its only automatic trigger — add cron-job.org too if you
-  # want belt-and-suspenders.)
+  # FALLBACK since 2026-09-26. The local runner (scripts/local_runner.py) scrapes Indeed every
+  # 30 minutes from a home connection; the `fresh` job below stands this workflow down while it
+  # does. GitHub's cron delivered 8 of 48 "hourly" runs in 2 days with gaps up to 12.9h, so it
+  # cannot be the primary. Hourly around the clock: the old 15:00-03:00 UTC window skipped the
+  # Toronto morning, which is exactly when a sleeping Mac needs covering.
   schedule:
-    - cron: "47 15-23,0-3 * * *"
+    - cron: "47 * * * *"
   workflow_dispatch:
     inputs:
       backfill:
@@ -21,8 +21,28 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  fresh:
+    name: Stand down if the local runner has Indeed covered
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            output/scrape_state.json
+            scripts/skip_if_fresh.py
+          sparse-checkout-cone-mode: false
+      - id: check
+        # Runner cadence is 30 min and it publishes at least every 30; 75 allows one miss.
+        run: python3 scripts/skip_if_fresh.py indeed 75
+        env:
+          BACKFILL: ${{ github.event.inputs.backfill }}
+
   scrape:
     name: Indeed scrape
+    needs: fresh
+    if: needs.fresh.outputs.skip != 'true'
     runs-on: ubuntu-latest
 
     permissions:

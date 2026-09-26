@@ -1,14 +1,13 @@
 name: LinkedIn Watcher
 
 on:
-  # Native GitHub cron, hourly at :17 during the active window (8am–8pm PT ≈
-  # 15:00–03:00 UTC). GH's scheduler occasionally skips a slot, so the watchdog
-  # (linkedin_watch_backup.yml at :33) re-dispatches as backup. For higher
-  # reliability you can also drive this externally via cron-job.org → the
-  # workflow_dispatch API; both triggers are safe to run together (dedupe + the
-  # commit-push concurrency group prevent collisions).
+  # FALLBACK. The local runner scrapes LinkedIn every 20 minutes and the "Skip if another
+  # runner scraped recently" step stands this down while it does. Hourly around the clock
+  # since 2026-09-26: the old 15:00-03:00 UTC window (8am-8pm PT) skipped the whole Toronto
+  # morning, which is when a Mac that slept overnight most needs covering. Both triggers are
+  # safe together (dedupe + the commit-push concurrency group prevent collisions).
   schedule:
-    - cron: "17 15-23,0-3 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       backfill:

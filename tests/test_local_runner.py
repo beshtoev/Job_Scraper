@@ -274,6 +274,32 @@ def test_nothing_new_is_not_published_until_the_heartbeat_is_due(stubbed):
     assert beat["publish"] in ("pushed", "nothing")
 
 
+PORTAL_STUB = '''
+import json, os
+os.makedirs("output", exist_ok=True)
+jobs = [{"url": "https://boards.example/1", "title": "VP Finance", "first_seen": "2026-09-24T11:00:00Z"}]
+json.dump({"total": 1, "new_count": 1, "jobs": jobs}, open("output/company_portal_jobs.json", "w"))
+json.dump({"acme": "ok"}, open("output/company_portal_status.json", "w"))
+doc = json.load(open("output/all_jobs.json"))
+doc["jobs"] += jobs
+json.dump(doc, open("output/all_jobs.json", "w"))
+'''
+
+
+def test_a_source_with_its_own_script_publishes_its_extra_outputs_and_marks_success(stubbed):
+    remote, cfg, dash, tmp_path = stubbed
+    seed = tmp_path / "seed"
+    (seed / "portal_scraper.py").write_text(PORTAL_STUB)
+    sh("git", "add", "-A", cwd=seed)
+    sh("git", "commit", "-qm", "portal stub", cwd=seed)
+    sh("git", "push", "-q", "origin", "HEAD:main", cwd=seed)
+    result = runner.run_source("company_portals", cfg, {"sources": {}}, NOW)
+    assert result["publish"] == "pushed" and result["new"] == 1
+    assert remote_json(remote, tmp_path, "output/company_portal_status.json") == {"acme": "ok"}
+    state = remote_json(remote, tmp_path, "output/scrape_state.json")
+    assert state["company_portals"]["last_success"] == runner.iso(NOW)
+
+
 def test_a_failing_scraper_is_reported_and_publishes_nothing(stubbed):
     remote, cfg, dash, tmp_path = stubbed
     cfg["sources"]["linkedin"]["args"] = ["--definitely-not-a-flag-and-crash"]
@@ -314,7 +340,51 @@ def test_sources_that_are_not_due_are_left_alone(home, monkeypatch):
     recent = runner.iso(runner.utcnow() - timedelta(minutes=5))
     runner.write_json_atomic(runner.STATE_PATH, {"sources": {"linkedin": {"last_attempt": recent, "last_ok": True}}})
     runner.main(["tick"])
-    assert calls == ["glassdoor"]                       # linkedin ran 5 minutes ago; glassdoor never did
+    assert calls == ["indeed", "glassdoor", "company_portals"]   # linkedin ran 5 minutes ago; the rest never did
+
+
+def test_due_sources_run_most_urgent_first(home, monkeypatch):
+    calls = []
+    monkeypatch.setattr(runner, "run_source", lambda name, *a, **k: calls.append(name) or {"total": 0, "new": 0})
+    runner.main(["tick"])
+    assert calls == ["linkedin", "indeed", "glassdoor", "company_portals"]
+
+
+def test_a_source_that_comes_due_mid_tick_runs_next_not_last(home, monkeypatch):
+    """A 20-minute portal poll must not leave LinkedIn waiting behind everything else."""
+    calls = []
+    clock = {"now": runner.utcnow()}
+
+    def fake_run(name, cfg, state, now, dry_run=False):
+        calls.append(name)
+        clock["now"] += timedelta(minutes=25)               # every scrape takes 25 minutes
+        return {"total": 0, "new": 0}
+    monkeypatch.setattr(runner, "run_source", fake_run)
+    monkeypatch.setattr(runner, "utcnow", lambda: clock["now"])
+    runner.write_json_atomic(runner.STATE_PATH, {"sources": {
+        "linkedin": {"last_attempt": runner.iso(clock["now"] - timedelta(minutes=10)), "last_ok": True},
+        "indeed": {"last_attempt": runner.iso(clock["now"] - timedelta(minutes=10)), "last_ok": True},
+        "glassdoor": {"last_attempt": runner.iso(clock["now"] - timedelta(minutes=10)), "last_ok": True}}})
+    runner.main(["tick"])
+    # portals first (the only one due), then linkedin the moment it comes due, each once per tick
+    assert calls == ["company_portals", "linkedin", "indeed", "glassdoor"]
+
+
+def test_run_one_source_by_name_runs_only_that_one(home, monkeypatch):
+    calls = []
+    monkeypatch.setattr(runner, "run_source", lambda name, *a, **k: calls.append(name) or {"total": 0, "new": 0})
+    runner.main(["run", "indeed"])
+    assert calls == ["indeed"]
+
+
+def test_success_marker_is_written_but_never_moved_back(tmp_path):
+    (tmp_path / "output").mkdir()
+    runner.mark_success(tmp_path, "indeed", NOW)
+    assert json.loads((tmp_path / "output/scrape_state.json").read_text())["indeed"]["last_success"] == runner.iso(NOW)
+    later = NOW + timedelta(minutes=30)
+    runner.write_json_atomic(tmp_path / "output/scrape_state.json", {"linkedin": {"last_success": runner.iso(later)}})
+    runner.mark_success(tmp_path, "linkedin", NOW)     # the scraper's own, later stamp wins
+    assert json.loads((tmp_path / "output/scrape_state.json").read_text())["linkedin"]["last_success"] == runner.iso(later)
 
 
 def test_a_second_tick_while_one_is_running_does_nothing(home, monkeypatch, capsys):

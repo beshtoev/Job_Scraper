@@ -2,10 +2,11 @@ name: Company Portal Watcher
 
 on:
   schedule:
-    # Direct-employer sweep, 3am EST (08:00 UTC), Monday-Saturday. GitHub
-    # schedules run in UTC and do not observe DST, so this drifts to 4am
-    # EDT in summer; adjust here if that matters.
-    - cron: "0 8 * * 1-6"
+    # FALLBACK since 2026-09-26. The local runner (scripts/local_runner.py) polls the portals
+    # every 3 hours from a home connection; the `fresh` job below stands this down while it
+    # does. This used to be the only poll, once a day at 08:00 UTC Monday-Saturday, so a
+    # Saturday-afternoon posting waited ~40h. Every 3 hours, every day, when the Mac is off.
+    - cron: "10 */3 * * *"
   workflow_dispatch:
     inputs:
       limit:
@@ -18,8 +19,28 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  fresh:
+    name: Stand down if the local runner has the portals covered
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            output/scrape_state.json
+            scripts/skip_if_fresh.py
+          sparse-checkout-cone-mode: false
+      - id: check
+        # Runner cadence is 3h; 6h allows one missed poll. A manual run always polls.
+        run: python3 scripts/skip_if_fresh.py company_portals 360
+        env:
+          BACKFILL: ${{ github.event_name == 'workflow_dispatch' }}
+
   scrape:
     name: Poll company portals
+    needs: fresh
+    if: needs.fresh.outputs.skip != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 90
 
