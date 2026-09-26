@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 08:35 UTC*
+*Last updated: 2026-09-26 09:24 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Director, Collections Strategy & Performance](https://www.linkedin.com/jobs/view/4441557606/) — goeasy Ltd.
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-09-26
