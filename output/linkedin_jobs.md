@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 16:37 UTC*
+*Last updated: 2026-09-26 16:57 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Principal Technology Portfolio Management Leader](https://www.linkedin.com/jobs/view/4454572008/) — McKesson
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $149,600 - $199,500
-- 🕒 **Posted:** 2026-09-26
-
-### [Field Chief Technology Officer - North America East](https://www.linkedin.com/jobs/view/4454326366/) — 1Password
-- 📍 **Location:** Canada
+### [Director, Finance (Hybrid)](https://www.linkedin.com/jobs/view/4433125742/) — Arch Insurance Group Inc.
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-09-26
