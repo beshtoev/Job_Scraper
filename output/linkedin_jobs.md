@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 09:47 UTC*
+*Last updated: 2026-09-26 10:09 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Associate Director, Supply Chain Finance - Canada](https://www.linkedin.com/jobs/view/4461407584/) — Kraft Heinz
+### [Director, Finance Data Strategy & Stewardship](https://www.linkedin.com/jobs/view/4472275273/) — Salesforce Partner Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $181,000.00 - $210,000.00
+- 🕒 **Posted:** 2026-09-26
+
+### [Senior Director, Controllership & Operations Transformation](https://www.linkedin.com/jobs/view/4472279192/) — Salesforce Partner Canada
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-26
