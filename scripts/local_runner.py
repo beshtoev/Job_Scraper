@@ -8,7 +8,8 @@ connection has neither problem.
 
 How it works (a background job calls ``tick`` every few minutes):
 
-  1. Decide which sources are due (LinkedIn every 20 min, Glassdoor hourly).
+  1. Decide which sources are due (LinkedIn every 20 min, Indeed every 30, Glassdoor
+     hourly, company portals every 3 hours) and run them most urgent first.
   2. In a dedicated, disposable clone (never your dashboard folder): reset to the
      newest origin/main, run the scraper, add geography.
   3. Publish only ``output/`` data files to GitHub, re-merging onto the newest
@@ -54,13 +55,28 @@ DEFAULT_CONFIG = {
     "retry_minutes": 5,              # after a failed attempt
     "heartbeat_minutes": 30,         # publish at least this often, even with nothing new
     "dashboard_retention_days": 30,  # same rolling window as the scrapers' master list
+    # priority: lower runs first when several are due in one tick, and the due list is re-read
+    # after every source, so a LinkedIn slot that comes due during a 20-minute portal poll runs
+    # next instead of waiting behind the rest.
     "sources": {
         "linkedin": {"every_minutes": 20, "args": ["--linkedin-only"], "basename": "linkedin_jobs",
-                     "timeout_minutes": 45},
+                     "timeout_minutes": 45, "priority": 1},
+        # Moved off GitHub 2026-09-26: its "hourly" cron fired 8 times in 48h with gaps up to
+        # 12.9h, and never in the Toronto morning (the cron window was 15:00-03:00 UTC). From a
+        # home connection the same search ran 32 queries with 0 errors. The 24h window matches
+        # Indeed's day-resolution dates, so a 30-minute cadence only adds freshness.
+        "indeed": {"every_minutes": 30, "args": ["--indeed-only"], "basename": "indeed_jobs",
+                   "timeout_minutes": 30, "priority": 2},
         # Glassdoor dates postings by whole days and scores requests for bots: hourly is as
         # fresh as it can get, and more often only adds rate-limit risk.
         "glassdoor": {"every_minutes": 60, "args": ["--glassdoor-only"], "basename": "glassdoor_jobs",
-                      "timeout_minutes": 30},
+                      "timeout_minutes": 30, "priority": 3},
+        # Employer ATS boards (Workday, Greenhouse, Lever...). GitHub polled them once a day.
+        # A full poll is ~20 min, so it goes last and every 3 hours.
+        "company_portals": {"every_minutes": 180, "script": "portal_scraper.py", "args": [],
+                            "basename": "company_portal_jobs",
+                            "extra_outputs": ["output/company_portal_status.json"],
+                            "timeout_minutes": 60, "priority": 9},
     },
 }
 PUBLISH_PREFIX = "output/"
@@ -147,6 +163,19 @@ def is_due(source_cfg: dict, source_state: dict, now: datetime, retry_minutes: i
 # --------------------------------------------------------------------------- #
 # Merging (pure functions)
 # --------------------------------------------------------------------------- #
+
+def mark_success(repo: Path, name: str, started: datetime) -> None:
+    """Record this source's success in output/scrape_state.json, which is published with the
+    data. GitHub's fallback workflows read it and stand down while the Mac covers a source.
+    A later last_success is never moved back: LinkedIn writes its own and sizes its search
+    window from it."""
+    path = repo / SCRAPE_STATE
+    doc = read_json(path, {}) or {}
+    have = parse_iso((doc.get(name) or {}).get("last_success"))
+    if have is None or have < started:
+        doc.setdefault(name, {})["last_success"] = iso(started)
+        write_json_atomic(path, doc)
+
 
 def job_key(job: dict):
     return job.get("url") or "|".join(str(job.get(k, "")) for k in ("company", "title", "location"))
@@ -339,13 +368,15 @@ def run_source(name: str, cfg: dict, state: dict, now: datetime, dry_run: bool =
     sync_clone(REPO_DIR, cfg["repo_url"], cfg["branch"])
     before = jobs_digest(read_json(REPO_DIR / ALL_JOBS))
 
-    rc, lines = run_command([python, "scrape_jobs.py", *spec["args"]], REPO_DIR, spec.get("timeout_minutes", 45) * 60)
+    script = spec.get("script", "scrape_jobs.py")
+    rc, lines = run_command([python, script, *spec["args"]], REPO_DIR, spec.get("timeout_minutes", 45) * 60)
     for ln in key_lines(lines):
         log(f"  {ln}")
     if rc != 0:
         for ln in lines[-12:]:
             log(f"  | {ln}")
         raise RuntimeError(f"{name} scraper exited with code {rc}")
+    mark_success(REPO_DIR, name, now)
 
     rc, lines = run_command([python, "enrich_geography.py", f"output/{basename}.json", ALL_JOBS], REPO_DIR, 15 * 60)
     for ln in key_lines(lines):
@@ -358,6 +389,7 @@ def run_source(name: str, cfg: dict, state: dict, now: datetime, dry_run: bool =
     last_publish = parse_iso(state.get("last_publish"))
     heartbeat_due = last_publish is None or now - last_publish >= timedelta(minutes=cfg["heartbeat_minutes"])
     paths = [f"output/{basename}{ext}" for ext in (".json", ".md", ".html")] + [ALL_JOBS, GEO_CACHE, SCRAPE_STATE]
+    paths += [p for p in spec.get("extra_outputs", []) if (REPO_DIR / p).exists()]
     outcome, dashboard_problem = "dry run: nothing pushed", None
     if not dry_run:
         if changed or heartbeat_due:
@@ -424,17 +456,24 @@ def cmd_tick(args) -> int:
             return 0
         cfg, state = load_config(), load_state()
         now = utcnow()
-        names = [args.only] if getattr(args, "only", None) else \
-            [n for n, s in cfg["sources"].items() if is_due(s, state["sources"].get(n, {}), now, cfg["retry_minutes"])]
-        if not names:
+        only = getattr(args, "only", None)
+        if only and only not in cfg["sources"]:
+            log(f"unknown source {only!r}")
+            return 0
+        if not (only or due_sources(cfg, state, now)):
             return 0
         if not network_up():
             log("no network; will try again next tick")
             return 0
-        for name in names:
-            if name not in cfg["sources"]:
-                log(f"unknown source {name!r}")
-                continue
+        done: set[str] = set()
+        while True:
+            if only:
+                name = None if only in done else only
+            else:
+                name = next((n for n in due_sources(cfg, state, utcnow()) if n not in done), None)
+            if name is None:
+                break
+            done.add(name)
             entry = state["sources"].setdefault(name, {})
             entry["last_attempt"] = iso(utcnow())
             try:
@@ -447,6 +486,12 @@ def cmd_tick(args) -> int:
                 log(traceback.format_exc().strip().splitlines()[-1])
             write_json_atomic(STATE_PATH, state)
     return 0
+
+
+def due_sources(cfg: dict, state: dict, now: datetime) -> list[str]:
+    """Due sources, most urgent first."""
+    due = [n for n, s in cfg["sources"].items() if is_due(s, state["sources"].get(n, {}), now, cfg["retry_minutes"])]
+    return sorted(due, key=lambda n: cfg["sources"][n].get("priority", 5))
 
 
 def cmd_status(_args) -> int:
