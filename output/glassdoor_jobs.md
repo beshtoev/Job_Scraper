@@ -1,6 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 20:11 UTC*
+*Last updated: 2026-09-26 21:26 UTC*
 
-**0 new role(s)** since last run · 69 total in last 24h
+**1 new role(s)** since last run · 67 total in last 24h
 
-No new roles since the last run.
+### [Director, Digital Investing Product Management](https://www.glassdoor.ca/job-listing/j?jl=1010273901118) — BMO Financial Group
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $120k–$215k/yr
+- 🕒 **Posted:** 2026-09-25
