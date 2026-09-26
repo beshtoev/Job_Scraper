@@ -1,31 +1,22 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 00:36 UTC*
+*Last updated: 2026-09-26 01:48 UTC*
 
-**6 new role(s)** since last run · 75 total in last 24h
+**4 new role(s)** since last run · 77 total in last 24h
 
-### [AVP, Program Management and Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010273482109) — Sun Life
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $140k–$225k/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Director, Wealth Digital AI Platforms & Technology Delivery](https://www.glassdoor.ca/job-listing/j?jl=1010274890706) — BMO Financial Group
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $140k–$240k/yr
+### [Director, Analytics & Insights](https://www.glassdoor.ca/job-listing/j?jl=1010274751799) — Securian Canada
+- 📍 **Location:** Waterloo, Canada
+- 💰 **Salary:** $130k–$170k/yr
 - 🕒 **Posted:** 2026-09-26
 
-### [Director, Pricing Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010274890526) — Varicent
-- 📍 **Location:** Brampton, Canada
+### [Director, Pricing Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010274890529) — Varicent
+- 📍 **Location:** Ottawa, Canada
 - 🕒 **Posted:** 2026-09-26
 
-### [Director, Pricing Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010274890528) — Varicent
-- 📍 **Location:** Toronto, Canada
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010274924160) — Robert Half
+- 📍 **Location:** Hamilton, Canada
+- 💰 **Salary:** $150k–$170k/yr
 - 🕒 **Posted:** 2026-09-26
 
-### [Director, Pricing Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010274890525) — Varicent
-- 📍 **Location:** Mississauga, Canada
-- 🕒 **Posted:** 2026-09-26
-
-### [Commercial Banker Technology - Market Executive - Executive Director](https://www.glassdoor.ca/job-listing/j?jl=1010274929917) — JPMorganChase
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $200k–$250k/yr
-- 🕒 **Posted:** 2026-09-26
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010272036697) — Prairie Agricultural Machinery Institute
+- 📍 **Location:** Humboldt, Canada
+- 🕒 **Posted:** 2026-09-24
