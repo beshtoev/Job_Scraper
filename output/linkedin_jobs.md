@@ -1,20 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 12:53 UTC*
+*Last updated: 2026-09-26 13:13 UTC*
 
-**4 new role(s)** since last run · 6 total in last 1h
+**2 new role(s)** since last run · 7 total in last 1h
 
-### [Director, AI Business Enablement](https://www.linkedin.com/jobs/view/4454033975/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [VP Consulting Services, Banking & Financial Services](https://www.linkedin.com/jobs/view/4436459762/) — CGI
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior Director of Data](https://www.linkedin.com/jobs/view/4463670856/) — Cover Genius
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-09-26
-
-### [Associate Director, AI - Data Tooling & Automation (Halifax)](https://www.linkedin.com/jobs/view/4454034902/) — RBC
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 🕒 **Posted:** 2026-09-26
-
-### [Director, Planning & Allocations - North America](https://www.linkedin.com/jobs/view/4463395948/) — Arc'teryx Equipment
-- 📍 **Location:** North Vancouver, British Columbia, Canada
+### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4471042013/) — Vaco by Highspring
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $75.00/hr - CA$85.00/hr
 - 🕒 **Posted:** 2026-09-26
