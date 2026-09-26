@@ -1,57 +1,73 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-25 13:33 UTC*
+*Last updated: 2026-09-26 12:54 UTC*
 
-**15 new role(s)** since last run · 245 total in current portal openings
+**19 new role(s)** since last run · 247 total in current portal openings
 
-### [Director, Digital Investing Product Management](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Digital-Investing-Product-Management_R260026126) — BMO
+### [Vice President, Global Consumer Data & Insights](https://jobs.lever.co/arcteryx.com/19780865-f06a-4df3-a5bd-7416e0fca2bb) — Arc'teryx
+- 📍 **Location:** North Vancouver, BC (Corporate)
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [Director, Wealth Digital AI Platforms & Technology Delivery](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Wealth-Digital-AI-Platforms---Technology-Delivery_R260025430) — BMO
 - 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-25
 
-### [Director, Assisted Channels Platform Strategy, Resiliency & Organizational Change Management](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Assisted-Channels-Platform-Strategy--Resiliency---Organizational-Change-Management_R260027240) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-09-24
+### [Director, Enterprise Communications](https://hoopp.wd10.myworkdayjobs.com/en-US/HOOPP/job/Toronto-Ontario-Canada/Director--Enterprise-Communications_JR102583) — HOOPP
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-09-25
 
-### [Senior Credit Officer, Director - Financial Institutions](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Credit-Officer--Director---Financial-Institutions_R260027658) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-09-24
-
-### [Director, Security Architecture & Engineering, Information & Corporate Security](https://cppib.wd10.myworkdayjobs.com/en-US/cppinvestments/job/Toronto/Director--Security-Architecture---Engineering--Information---Corporate-Security_JR00060) — Cppib
-- 📍 **Location:** Toronto
-- 🕒 **Posted:** 2026-09-24
-
-### [Directeur, Planification de la chaîne d’approvisionnement et transport/Director, Supply Chain Planning & Transportation](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Directeur--Planification-de-la-chane-d-approvisionnement-et-transport-Director--Supply-Chain-Planning---Transportation_JR0151905) — Mckesson
-- 📍 **Location:** CAN, QC, Montreal, Ville Saint-Laurent
-- 🕒 **Posted:** 2026-09-22
-
-### [Program Director, Wealth Management Transformation Management Office](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Program-Director--Wealth-Management-Transformation-Management-Office_R-0000188353-1) — RBC
+### [Director, CLAO Data Management and Reporting Services(12 Month Contract)](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--CLAO-Data-Management-and-Reporting-Services-12-Month-Contract-_R-0000187964-1) — RBC
 - 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-21
 
-### [Director, AI Delivery & Portfolio Management – Global Payments Technology](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--AI-Delivery---Portfolio-Management---Global-Payments-Technology_R-0000186228-1) — RBC
+### [Associate Director, Digital Transformation](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Portfolio-Manager--Capital-Markets_R-0000186408-1) — RBC
 - 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-25
 
-### [AVP, Program Management and Transformation](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP--Program-Management-and-Transformation_JR00128304) — Sun Life
+### [Senior Director, AI Solutions Engineering](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--AI-Solutions-Engineering_R-0000173778-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-09-04
+
+### [Director, Financial Planning & Analysis - SLC Management](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director--Financial-Planning---Analysis---SLC-Management_JR00128286-1) — Sun Life
 - 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-25
 
-### [Director, Digital Investing Product Management](https://builtintoronto.com/job/director-digital-investing-product-management/11366118) — BMO
+### [Strategic Finance Director](https://jobs.workable.com/view/swKxyAieCv1EYVFVsk1zVq/remote-strategic-finance-director-in-canada-at-hadley-designs) — Hadley Designs
+- 📍 **Location:** Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-25
+
+### [Director of Recruiting & People Strategy](https://jobs.workable.com/view/peUZX2bAmvuGzUpdW3vwDb/remote-director-of-recruiting-%26-people-strategy-in-canada-at-hadley-designs) — Hadley Designs
+- 📍 **Location:** Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-25
+
+### [Director, Financial Planning & Analysis - SLC Management](https://builtintoronto.com/job/director-financial-planning-analysis-slc-management/11384615) — Sun Life Financial, Inc.
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Assisted Channels Platform Strategy, Resiliency & Organizational Change Management](https://builtintoronto.com/job/director-assisted-channels-platform-strategy-resiliency-organizational-change-management/11365217) — BMO
+### [Director, Digital Media](https://builtintoronto.com/job/director-digital-media/11383954) — Dentsu Creative
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Credit Officer, Director - Financial Institutions](https://builtintoronto.com/job/senior-credit-officer-director-financial-institutions/11363384) — BMO
+### [Director, Digital Media](https://builtintoronto.com/job/director-digital-media/11383294) — dentsu
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Digital Consulting Director, Oracle EPM](https://builtintoronto.com/job/digital-consulting-director-oracle-epm/11361767) — Huron
+### [Director, Enterprise Communications](https://builtintoronto.com/job/director-enterprise-communications/11382031) — HOOPP (Healthcare of Ontario Pension Plan)
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Director, Enterprise Systems & AI Enablement](https://builtintoronto.com/job/senior-director-enterprise-systems-ai-enablement/11361736) — Cineflix Media Inc.
+### [Director, Analytics & Insights](https://builtintoronto.com/job/director-analytics-insights/11379960) — Securian Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Sr. Director, Business Intelligence and Analytics](https://builtintoronto.com/job/sr-director-business-intelligence-and-analytics/11361300) — GS1 Canada
+### [Director, Print & Post Operations & Financial Management](https://builtintoronto.com/job/director-print-post-operations-financial-management/10932598) — Manulife
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Data Centre Strategy & Market Development*** Directeur(trice), stratégie des centres de données et développement des marches](https://builtintoronto.com/job/director-data-centre-strategy-market-development-directeur-trice-strat-gie-des-centres-de-donn-es-et-d-veloppement-des-marches/11359473) — Aliaxis
+### [Senior Vice President, Enterprise Risk Management](https://builtintoronto.com/job/senior-vice-president-enterprise-risk-management/11380661) — Aviva plc
 - 📍 **Location:** Toronto, Ontario, Canada
+
+### [Head of FP&A](https://builtintoronto.com/job/head-fp/11379188) — Simbe Robotics
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director People Planning And Strategy Term Winnipeg W1363](https://summitsearchgroup.com/job/director-8211-people-planning-and-strategy-term-winnipeg-mb-w1363/) — Summit Search Group
+- 📍 **Location:** Canada
+
+### [Director Equipment Finance Winnipeg Brandon Selkirk Stonewall W1373](https://summitsearchgroup.com/job/director-equipment-finance-winnipeg-mb-brandon-mb-selkirk-mb-stonewall-mb-w1373/) — Summit Search Group
+- 📍 **Location:** Canada
