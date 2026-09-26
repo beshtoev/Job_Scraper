@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-26 10:59 UTC*
+*Last updated: 2026-09-26 11:23 UTC*
 
-**0 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-No new roles since the last run.
+### [Senior Director, AI Solutions Engineering](https://www.linkedin.com/jobs/view/4463682456/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-09-26
