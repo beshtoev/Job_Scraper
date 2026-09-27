@@ -1,7 +1,57 @@
 {
-  "scraped_at": "2026-09-27 20:27 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-09-27 21:55 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Salesforce Partner Canada",
+      "title": "Director, Finance Data Strategy & Stewardship",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4472476140/",
+      "date_posted": "2026-09-27",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nJob Description\n\nAs a member of the Controllership organisation, the Director of Finance Data Strategy & Stewardship will lead the end-to-end strategy, governance, and lifecycle management of Finance data across the enterprise. This role oversees the intake of new data into the Finance data lake, defines data models and governance standards, and ensures the reliability, quality, and compliance of Finance data used for reporting and analytics. The Director will also manage and develop a dedicated Data Governance and Reporting Controls team located in India, responsible for data stewardship, SOX-related data certification, and support for Finance reporting.\n\nKey Responsibilities\n\nData Strategy & Intake Management\nDefine and drive the Finance data strategy, aligned with business priorities and downstream reporting needs.\nOversee the onboarding of new data sources into the Finance data lake, ensuring scalability, traceability, and alignment with enterprise architecture.\nPartner with Finance, IT, and product teams to assess new data requirements and convert them into actionable data delivery roadmaps.\nData Modeling & Architecture\nLead the design of enterprise-grade Finance data models and semantic layers to support analytics, regulatory reporting, and operational Finance needs.\nEnsure metadata standards, master data alignment, and consistent data definitions across systems.\nCollaborate with data architects and engineering teams to ensure robust and efficient data pipelines.\nData Governance & Controls\nEstablish and enforce data governance standards, policies, and stewardship processes for Finance data.\nOversee the definition and monitoring of data quality rules, issue management, and remediation workflows.\nEnsure compliance with SOX controls and certification requirements related to financial data and reporting.\nLeadership of the India Data Governance Team\nLead and develop a team in India responsible for data governance, data quality operations, and stewardship activities.\nOversee processes related to Finance reporting controls, SOX testing support, and data certification.\nFoster a culture of accountability, operational excellence, and continuous improvement.\nCross-Functional & Executive Partnership\nWork closely with Finance, Accounting, FP&A, IT, Audit, and Data Engineering leaders to align on priorities and data needs.\nServe as a strategic advisor to senior executives on Finance data risks, data quality, and opportunities to improve reporting and insights.\nDrive alignment between business requirements and technical implementation across the data value chain.\nOperational Excellence & Continuous Improvement\nEstablish KPIs, dashboards, and operating mechanisms to measure data quality, controls effectiveness, and team performance.\nIdentify and implement process improvements, automation opportunities, and best practices in data governance and data delivery.\nStay current with emerging technologies and regulatory trends shaping Finance data management.\n\nQualifications\n\n12–15+ years of experience in data management, data governance, Finance data strategy, or related fields.\nStrong understanding of Finance processes, accounting flows, and financial reporting requirements; experience in audit or accounting is a plus.\nProven experience designing data models, managing data lakes, and overseeing data ingestion and transformation.\nLeadership experience managing global or offshore teams, ideally in shared-services or GCC environments.\nStrong stakeholder management skills, with the ability to influence executives and cross-functional partners.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nFinance and Sales\n\nIndustries\n\nSoftware Development",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Salesforce Partner Canada",
+      "title": "Director, Finance Data Strategy & Stewardship",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4472476140/",
+      "date_posted": "2026-09-27",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Description\n\nJob Description\n\nAs a member of the Controllership organisation, the Director of Finance Data Strategy & Stewardship will lead the end-to-end strategy, governance, and lifecycle management of Finance data across the enterprise. This role oversees the intake of new data into the Finance data lake, defines data models and governance standards, and ensures the reliability, quality, and compliance of Finance data used for reporting and analytics. The Director will also manage and develop a dedicated Data Governance and Reporting Controls team located in India, responsible for data stewardship, SOX-related data certification, and support for Finance reporting.\n\nKey Responsibilities\n\nData Strategy & Intake Management\nDefine and drive the Finance data strategy, aligned with business priorities and downstream reporting needs.\nOversee the onboarding of new data sources into the Finance data lake, ensuring scalability, traceability, and alignment with enterprise architecture.\nPartner with Finance, IT, and product teams to assess new data requirements and convert them into actionable data delivery roadmaps.\nData Modeling & Architecture\nLead the design of enterprise-grade Finance data models and semantic layers to support analytics, regulatory reporting, and operational Finance needs.\nEnsure metadata standards, master data alignment, and consistent data definitions across systems.\nCollaborate with data architects and engineering teams to ensure robust and efficient data pipelines.\nData Governance & Controls\nEstablish and enforce data governance standards, policies, and stewardship processes for Finance data.\nOversee the definition and monitoring of data quality rules, issue management, and remediation workflows.\nEnsure compliance with SOX controls and certification requirements related to financial data and reporting.\nLeadership of the India Data Governance Team\nLead and develop a team in India responsible for data governance, data quality operations, and stewardship activities.\nOversee processes related to Finance reporting controls, SOX testing support, and data certification.\nFoster a culture of accountability, operational excellence, and continuous improvement.\nCross-Functional & Executive Partnership\nWork closely with Finance, Accounting, FP&A, IT, Audit, and Data Engineering leaders to align on priorities and data needs.\nServe as a strategic advisor to senior executives on Finance data risks, data quality, and opportunities to improve reporting and insights.\nDrive alignment between business requirements and technical implementation across the data value chain.\nOperational Excellence & Continuous Improvement\nEstablish KPIs, dashboards, and operating mechanisms to measure data quality, controls effectiveness, and team performance.\nIdentify and implement process improvements, automation opportunities, and best practices in data governance and data delivery.\nStay current with emerging technologies and regulatory trends shaping Finance data management.\n\nQualifications\n\n12–15+ years of experience in data management, data governance, Finance data strategy, or related fields.\nStrong understanding of Finance processes, accounting flows, and financial reporting requirements; experience in audit or accounting is a plus.\nProven experience designing data models, managing data lakes, and overseeing data ingestion and transformation.\nLeadership experience managing global or offshore teams, ideally in shared-services or GCC environments.\nStrong stakeholder management skills, with the ability to influence executives and cross-functional partners.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nFinance and Sales\n\nIndustries\n\nSoftware Development",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
