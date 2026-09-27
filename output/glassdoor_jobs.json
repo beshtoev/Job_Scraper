@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-27 07:59 UTC",
+  "scraped_at": "2026-09-27 08:56 UTC",
   "total": 57,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Arc'teryx",
@@ -1488,32 +1488,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Robert Half",
-      "title": "Director of Finance",
-      "location": "Hamilton, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010274924160",
-      "date_posted": "2026-09-26",
-      "description": "Act as a strategic business partner to Sales, Operations, and executive leadership, providing analysis, insights, and recommendations that drive business…",
-      "salary": "$150k–$170k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "Hamilton",
-      "geo_province": "ON",
-      "geo_lat": 43.2557,
-      "geo_lon": -79.8711,
-      "geo_distance_km": 63.2,
-      "geo_rank": 200632,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
