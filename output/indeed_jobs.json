@@ -1,40 +1,7 @@
 {
-  "scraped_at": "2026-09-27 08:54 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-27 13:20 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Sun Life",
-      "title": "Director, Financial Planning & Analysis - SLC Management",
-      "location": "Toronto, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=40116180f2c2fb18",
-      "direct_url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director--Financial-Planning---Analysis---SLC-Management_JR00128286-1",
-      "company_url": "https://ca.indeed.com/cmp/Sun-Life-1",
-      "date_posted": "2026-09-25",
-      "description": "SLC Management is a growing global asset management firm providing innovative and diversified investment solutions to institutional investors. We are breaking new ground with a full spectrum of solutions for a growing institutional client base of more than 1400 organizations. Our history of organic and strategic growth reflects this commitment with over CA$422/US$304 billion in assets under management (AUM). As a subsidiary of Sun Life, we are aligned with one of the world’s leading financial services companies, and benefit from the stability and strength of that relationship.\n\n\nWe are a performance\\-driven organization with a deliberate focus on fostering a development\\-focused, inclusive culture revolving around our Core Values of being **client obsessed** , **valuing each other** , **acting with speed** and **having an owner’s mindset** . As part of our team, you play a role in fulfilling our purpose and making a difference. We offer a rewarding work environment that is filled with opportunity for growth where you will be empowered to meet the challenges of a highly competitive landscape.\n\n\nVisit our website to learn more and for the most up to date AUM information.\n\n\nSLC Management offers a mix of in\\-office and virtual work where our employees are empowered to do their best. Generally, employees are expected to work three or more days in\\-office each week with flexibility depending on their business, client and team needs.\n\n\n**Job Description:**\n\n  \n\n* Join SLC Management's Toronto\\-based team as a Director/Senior Director, FP\\&A in a highly visible role that extends well beyond traditional financial planning and analysis. In addition to leading management reporting, forecasting, and strategic planning, you will support investor relations, financial modeling, business analytics, and corporate strategy across a global alternatives platform. The role offers regular interaction with SLC Management's executive team, business leaders, and Sun Life partners.\n* This position is ideal for a commercially minded finance leader who combines analytical rigor with sound business judgment and enjoys translating complex data into actionable insights. You will thrive in a dynamic, growth\\-oriented environment where priorities evolve quickly, continuous learning is expected, and there may be opportunities to lead and develop finance talent.\nThis is a unique opportunity to help shape the financial and strategic direction of one of the industry's fastest\\-growing alternatives platforms. As SLC Management continues to expand across private credit, real estate, infrastructure, and fixed income, you will partner directly with senior leadership on critical growth, investment, and business decisions while building a strong platform for future career advancement.  \n* \n\n**WHAT YOU WILL DO:**  \n\n\n\n* **Management reporting —** Lead the preparation of monthly and quarterly management reporting packages, including AUM and fee\\-earning AUM roll\\-forwards, fee\\-related earnings, management and performance fee revenue, expenses, margin, and headcount, with clear commentary on drivers, trends, and variances to plan\n* **Planning and forecasting —** Own key components of the annual budget, multi\\-year business plan, and rolling forecast process across business units and corporate functions; partner with business leaders to build, challenge, and validate assumptions\n* **Business and strategic planning —** Support the enterprise strategic planning cycle, including long\\-range financial projections, growth ambition setting, capital allocation analysis, and evaluation of new products, strategies, and investment platforms\n* **Financial modeling —** Build and maintain robust, auditable models covering fundraising and deployment pacing, fee revenue build\\-ups, seed and co\\-investment capital, expense structures, product\\-level and client\\-level profitability, and scenario and sensitivity analysis\n* **Investor relations support —** Prepare analysis, talking points, and supporting materials for Sun Life quarterly earnings disclosure, investor day content, analyst questions, and peer benchmarking against publicly traded alternative asset managers\n* **Executive and Board materials —** Develop clear, well\\-structured presentations and written analysis for the SLC Management executive team, Sun Life senior leadership, and Board audiences\n* **Strategy and analytics —** Conduct competitive, market, and peer analysis on AUM growth, fee rates, margins, fund performance, and industry trends; deliver insight\\-driven recommendations rather than data alone\n* **Business partnership —** Act as a trusted finance partner to business unit leaders, investment teams, distribution, and corporate functions, supporting ad hoc analysis, business cases, and decision support\n* **Process improvement —** Drive continuous improvement in planning tools, reporting templates, data quality, and dashboards to increase speed, accuracy, and insight\n* **Generative AI adoption —** Apply generative AI and emerging analytical tools to accelerate and strengthen FP\\&A work — from research and peer benchmarking to drafting, model documentation, data summarization, and reporting automation — and help establish practical standards for how the team uses these tools responsibly and with appropriate review\n* **Cross\\-functional collaboration —** Work closely with Controllership, Tax, Capital \\& Treasury, Investor Relations, Human Resources, and Sun Life corporate Finance to ensure consistency and integrity of financial information\n* **Leadership —** Where applicable, manage, coach, and develop finance talent, setting clear standards for analytical quality and attention to detail\n\n  \n\n**WHAT YOU WILL NEED TO SUCCEED:**\n\n  \n\n* **Intellectual curiosity –** actively seeks to understand what drives the business, asks the next question, and pursues the “why” behind the numbers\n* **Exceptional attention to detail –** produces work that is accurate, internally consistent, and exec",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "thebrightside@sunlife.com",
-      "ats": "Indeed",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
