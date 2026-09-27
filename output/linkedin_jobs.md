@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-27 09:09 UTC*
+*Last updated: 2026-09-27 09:34 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [AVP, AI](https://www.linkedin.com/jobs/view/4453569031/) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-09-27
