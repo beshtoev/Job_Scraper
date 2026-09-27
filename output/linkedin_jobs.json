@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-09-27 16:33 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-27 16:58 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "BiblioCommons",
+      "title": "VP, Product & Technology",
+      "location": "Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4472458430/",
+      "date_posted": "2026-09-27",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Job Summary\n\nWe’re looking for a Vice President, Product & Technology to lead the strategy, development, and delivery of our platform and products across a large, multi-disciplinary organization spanning Product Management, Design, Engineering, QA, Architecture, and Delivery, while taking advantage of every opportunity created by AI.\n\nThis is a senior executive role responsible for defining where the company is going — and ensuring the organization can execute against that vision at scale. You will shape product strategy, guide long-term platform evolution, drive operational excellence, and lead the evolution toward an AI-first approach to software development.\n\nThis is an exciting opportunity to shape the next generation of a platform used by millions of people, influence company strategy, and lead a talented organization through its next stage of growth and evolution.\n\nJob Description\n\nVice President, Product & Technology\n\nAt BiblioCommons, we believe great technology organizations are built at the intersection of bold product vision, exceptional execution, and deep customer understanding.\n\nWe’re looking for a Vice President, Product & Technology to lead the strategy, development, and delivery of our platform and products across a large, multi-disciplinary organization spanning Product Management, Design, Engineering, QA, Architecture, and Delivery, while taking advantage of every opportunity created by AI.\n\nThis is a senior executive role responsible for defining where the company is going — and ensuring the organization can execute against that vision at scale. You will shape product strategy, guide long-term platform evolution, drive operational excellence, and lead the evolution toward an AI-first approach to software development.\n\nWhat You’ll Do\n\nProduct Vision & Strategy\n\nDefine and evolve the company’s product vision, strategy, and roadmap in alignment with company objectives and market opportunities\nDeeply understand customer needs, market dynamics, competitive trends, and emerging technologies, particularly the opportunities created by AI\nTranslate strategic priorities into clear product direction and investment decisions\nPartner closely with executive leadership on company strategy, growth initiatives, and long-range planning\nChampion customer-centric thinking and measurable product outcomes across the organization\n\nTechnology Leadership & Execution\n\nLead end-to-end execution across the Product & Technology organization, building teams and operating models that balance innovation, velocity, quality, and discipline\nEstablish AI-first software development as a fundamental way of working, embedding AI throughout engineering, product development, testing, and delivery to materially improve productivity, quality, and speed\nDrive predictable execution, effective planning and prioritization, and continuous improvement across the product development lifecycle\nEnsure technical and architectural decisions support long-term scalability, reliability, maintainability, and business goals\n\nOrganizational Leadership\n\nDevelop and mentor senior leaders across Product and Technology\nBuild a culture of accountability, collaboration, innovation, continuous learning, and experimentation with new AI-enabled ways of working\nLead the organizational and operating-model changes required to realize the potential of AI-first software development\nCommunicate vision, priorities, and progress clearly across the organization and serve as a key member of the executive leadership team\n\nWhat We’re Looking For\n\nProven executive leadership experience overseeing both Product and Engineering/Technology functions\nTrack record of defining successful product strategy and delivering complex software products at scale\nDemonstrated experience adopting and scaling AI-first software development practices, with a strong point of view on how AI is fundamentally changing how modern software organizations operate\nExperience leading large, multi-functional technology organizations through significant growth, transformation, or organizational evolution\nDeep understanding of modern software development, product management, platform architecture, and AI-enabled development practices\nStrong strategic thinking combined with a pragmatic, execution-oriented mindset\nExcellent communication and stakeholder management skills, with the ability to balance long-term innovation with near-term delivery commitments\n\nNice to Have\n\nExperience in SaaS, platform, or enterprise software environments\nExperience in mission-driven, education, civic, or public-sector technology organizations\n\nWhy Join Us\n\nThis is an opportunity to shape the future of a product platform used by millions of people while building a modern, AI-first Product & Technology organization capable of delivering exceptional customer experiences at scale.\n\nYou’ll have the ability to influence company strategy, lead outstanding teams, and help define the next generation of our products, technology, and how we build software.\n\nWorker Type\n\nRegular\n\nNumber Of Openings Available\n\n1\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nProduct Management and Marketing\n\nIndustries\n\nSoftware Development",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "",
+      "geo_province": "ON",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 299999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only province ON stated",
+      "geo_version": 1
+    },
     {
       "company": "Scotiabank",
       "title": "Director, Wealth Management Technology",
@@ -28,5 +52,30 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "BiblioCommons",
+      "title": "VP, Product & Technology",
+      "location": "Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4472458430/",
+      "date_posted": "2026-09-27",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Job Summary\n\nWe’re looking for a Vice President, Product & Technology to lead the strategy, development, and delivery of our platform and products across a large, multi-disciplinary organization spanning Product Management, Design, Engineering, QA, Architecture, and Delivery, while taking advantage of every opportunity created by AI.\n\nThis is a senior executive role responsible for defining where the company is going — and ensuring the organization can execute against that vision at scale. You will shape product strategy, guide long-term platform evolution, drive operational excellence, and lead the evolution toward an AI-first approach to software development.\n\nThis is an exciting opportunity to shape the next generation of a platform used by millions of people, influence company strategy, and lead a talented organization through its next stage of growth and evolution.\n\nJob Description\n\nVice President, Product & Technology\n\nAt BiblioCommons, we believe great technology organizations are built at the intersection of bold product vision, exceptional execution, and deep customer understanding.\n\nWe’re looking for a Vice President, Product & Technology to lead the strategy, development, and delivery of our platform and products across a large, multi-disciplinary organization spanning Product Management, Design, Engineering, QA, Architecture, and Delivery, while taking advantage of every opportunity created by AI.\n\nThis is a senior executive role responsible for defining where the company is going — and ensuring the organization can execute against that vision at scale. You will shape product strategy, guide long-term platform evolution, drive operational excellence, and lead the evolution toward an AI-first approach to software development.\n\nWhat You’ll Do\n\nProduct Vision & Strategy\n\nDefine and evolve the company’s product vision, strategy, and roadmap in alignment with company objectives and market opportunities\nDeeply understand customer needs, market dynamics, competitive trends, and emerging technologies, particularly the opportunities created by AI\nTranslate strategic priorities into clear product direction and investment decisions\nPartner closely with executive leadership on company strategy, growth initiatives, and long-range planning\nChampion customer-centric thinking and measurable product outcomes across the organization\n\nTechnology Leadership & Execution\n\nLead end-to-end execution across the Product & Technology organization, building teams and operating models that balance innovation, velocity, quality, and discipline\nEstablish AI-first software development as a fundamental way of working, embedding AI throughout engineering, product development, testing, and delivery to materially improve productivity, quality, and speed\nDrive predictable execution, effective planning and prioritization, and continuous improvement across the product development lifecycle\nEnsure technical and architectural decisions support long-term scalability, reliability, maintainability, and business goals\n\nOrganizational Leadership\n\nDevelop and mentor senior leaders across Product and Technology\nBuild a culture of accountability, collaboration, innovation, continuous learning, and experimentation with new AI-enabled ways of working\nLead the organizational and operating-model changes required to realize the potential of AI-first software development\nCommunicate vision, priorities, and progress clearly across the organization and serve as a key member of the executive leadership team\n\nWhat We’re Looking For\n\nProven executive leadership experience overseeing both Product and Engineering/Technology functions\nTrack record of defining successful product strategy and delivering complex software products at scale\nDemonstrated experience adopting and scaling AI-first software development practices, with a strong point of view on how AI is fundamentally changing how modern software organizations operate\nExperience leading large, multi-functional technology organizations through significant growth, transformation, or organizational evolution\nDeep understanding of modern software development, product management, platform architecture, and AI-enabled development practices\nStrong strategic thinking combined with a pragmatic, execution-oriented mindset\nExcellent communication and stakeholder management skills, with the ability to balance long-term innovation with near-term delivery commitments\n\nNice to Have\n\nExperience in SaaS, platform, or enterprise software environments\nExperience in mission-driven, education, civic, or public-sector technology organizations\n\nWhy Join Us\n\nThis is an opportunity to shape the future of a product platform used by millions of people while building a modern, AI-first Product & Technology organization capable of delivering exceptional customer experiences at scale.\n\nYou’ll have the ability to influence company strategy, lead outstanding teams, and help define the next generation of our products, technology, and how we build software.\n\nWorker Type\n\nRegular\n\nNumber Of Openings Available\n\n1\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nProduct Management and Marketing\n\nIndustries\n\nSoftware Development",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "",
+      "geo_province": "ON",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 299999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only province ON stated",
+      "geo_version": 1
+    }
+  ]
 }
