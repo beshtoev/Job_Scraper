@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-27 14:44 UTC*
+*Last updated: 2026-09-27 15:25 UTC*
 
-**1 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/4436790543/) — Brookfield
+### [Director, Wealth Management Technology](https://www.linkedin.com/jobs/view/4444022341/) — Scotiabank
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000 - $170,000
+- 🕒 **Posted:** 2026-09-27
+
+### [Director, Technical Accounting & Financial Reporting](https://www.linkedin.com/jobs/view/4441573257/) — Spin Master
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000 to $185,000 Per Annum
 - 🕒 **Posted:** 2026-09-27
