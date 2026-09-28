@@ -1,14 +1,13 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-28 07:02 UTC*
+*Last updated: 2026-09-28 13:27 UTC*
 
-**2 new role(s)** since last run · 36 total in last 24h
+**2 new role(s)** since last run · 35 total in last 24h
 
-### [PMO AI Leader - Client Delivery](https://www.glassdoor.ca/job-listing/j?jl=1010275938206) — Slalom
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $135k–$160k/yr
-- 🕒 **Posted:** 2026-09-28
-
-### [Director, Analytics & Insights](https://www.glassdoor.ca/job-listing/j?jl=1010274751799) — Securian Canada
-- 📍 **Location:** Waterloo, Canada
-- 💰 **Salary:** $130k–$170k/yr
+### [Director EIAM Strategy &Technical Product Management (Global Security)](https://www.glassdoor.ca/job-listing/j?jl=1010275131480) — Royal Bank of Canada
+- 📍 **Location:** Vancouver, Canada
 - 🕒 **Posted:** 2026-09-26
+
+### [Chief Financial Officer (CFO)](https://www.glassdoor.ca/job-listing/j?jl=1010275746606) — Confidential
+- 📍 **Location:** Calgary, Canada
+- 💰 **Salary:** $200k–$300k/yr
+- 🕒 **Posted:** 2026-09-28
