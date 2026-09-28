@@ -1,7 +1,57 @@
 {
-  "scraped_at": "2026-09-28 00:43 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-09-28 02:13 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "SearchEatt",
+      "title": "Head of Finance & Fundraising",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4471319125/",
+      "date_posted": "2026-09-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nOntario Tech University is a modern, forward-thinking institution focused on advancing knowledge to drive economic growth, regional development, and social innovation. The university prepares students and graduates to make a positive impact in a tech-focused world, emphasizing both technological advancement and its social and ethical implications. Researchers and students collaborate with organizations, communities, governments, and academic partners to solve complex problems across diverse fields such as business, engineering, health sciences, information technology, and social sciences. Ontario Tech adapts to an evolving educational landscape through experiential and dynamic learning, offering flexible pathways for learners. With more than 80 specialized research labs and collaborative spaces like Brilliant Catalyst, the campus fosters innovation, connection, and real-world impact.\nRole Description\nThe Head of Finance & Fundraising is a full-time remote role responsible for overseeing the university’s financial strategy and leading fundraising initiatives to support institutional priorities. This role manages financial planning, budgeting, and reporting, ensuring accuracy, compliance, and effective use of resources across academic and administrative units. The individual leads the development and execution of fundraising strategies, including donor cultivation, stewardship, and partnership development with individuals, corporations, and foundations. Day-to-day responsibilities include monitoring financial performance, preparing and reviewing financial statements, guiding investment and funding decisions, and collaborating with leadership to align financial and fundraising goals with the university’s strategic plan. The role also involves mentoring team members, implementing process improvements, and providing clear communication and guidance to stakeholders on financial and fundraising matters.\nQualifications\n\nStrong foundation in Finance, with proven experience managing Financial Statements and Financial Reporting.\nDemonstrated Analytical Skills for interpreting complex financial data and informing strategic decision-making.\nExperience with Budgeting, including developing, monitoring, and adjusting budgets in a multifaceted organization.\nBackground in fundraising or development, including donor relations, proposal development, and revenue generation strategies.\nBachelor’s degree in Finance, Accounting, Business, or a related field; a relevant graduate degree or professional designation (e.g., CPA, CFA) is an asset.\nExcellent communication and interpersonal skills, with the ability to collaborate effectively in a remote environment and influence senior stakeholders.\nProven leadership experience, including managing teams, setting priorities, and driving continuous improvement in financial and fundraising processes.\nFamiliarity with higher education, nonprofit, or public-sector environments and knowledge of relevant financial regulations and best practices.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nPart-time\n\nJob function\n\nFinance and Sales\n\nIndustries\n\nSoftware Development",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 300061,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "SearchEatt",
+      "title": "Head of Finance & Fundraising",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4471319125/",
+      "date_posted": "2026-09-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nOntario Tech University is a modern, forward-thinking institution focused on advancing knowledge to drive economic growth, regional development, and social innovation. The university prepares students and graduates to make a positive impact in a tech-focused world, emphasizing both technological advancement and its social and ethical implications. Researchers and students collaborate with organizations, communities, governments, and academic partners to solve complex problems across diverse fields such as business, engineering, health sciences, information technology, and social sciences. Ontario Tech adapts to an evolving educational landscape through experiential and dynamic learning, offering flexible pathways for learners. With more than 80 specialized research labs and collaborative spaces like Brilliant Catalyst, the campus fosters innovation, connection, and real-world impact.\nRole Description\nThe Head of Finance & Fundraising is a full-time remote role responsible for overseeing the university’s financial strategy and leading fundraising initiatives to support institutional priorities. This role manages financial planning, budgeting, and reporting, ensuring accuracy, compliance, and effective use of resources across academic and administrative units. The individual leads the development and execution of fundraising strategies, including donor cultivation, stewardship, and partnership development with individuals, corporations, and foundations. Day-to-day responsibilities include monitoring financial performance, preparing and reviewing financial statements, guiding investment and funding decisions, and collaborating with leadership to align financial and fundraising goals with the university’s strategic plan. The role also involves mentoring team members, implementing process improvements, and providing clear communication and guidance to stakeholders on financial and fundraising matters.\nQualifications\n\nStrong foundation in Finance, with proven experience managing Financial Statements and Financial Reporting.\nDemonstrated Analytical Skills for interpreting complex financial data and informing strategic decision-making.\nExperience with Budgeting, including developing, monitoring, and adjusting budgets in a multifaceted organization.\nBackground in fundraising or development, including donor relations, proposal development, and revenue generation strategies.\nBachelor’s degree in Finance, Accounting, Business, or a related field; a relevant graduate degree or professional designation (e.g., CPA, CFA) is an asset.\nExcellent communication and interpersonal skills, with the ability to collaborate effectively in a remote environment and influence senior stakeholders.\nProven leadership experience, including managing teams, setting priorities, and driving continuous improvement in financial and fundraising processes.\nFamiliarity with higher education, nonprofit, or public-sector environments and knowledge of relevant financial regulations and best practices.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nPart-time\n\nJob function\n\nFinance and Sales\n\nIndustries\n\nSoftware Development",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 300061,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
