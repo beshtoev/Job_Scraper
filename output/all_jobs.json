@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-09-28 22:15 UTC",
+  "updated_at": "2026-09-28 22:34 UTC",
   "jobs": [
+    {
+      "company": "Instacart Canada",
+      "title": "Director, Enterprise AI & Machine Learning Engineering",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "url": "https://instacart.careers/job/?gh_jid=8234068",
+      "direct_url": "https://instacart.careers/job/?gh_jid=8234068",
+      "req_id": "PR00215",
+      "date_posted": "2026-09-28",
+      "date_seen": "2026-09-28T22:22:47Z",
+      "description": "We're transforming the grocery industry \n\n At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. \n\n Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.\n\n Instacart is a Flex First team \n\n There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. \n\n Overview \n\n Instacart’s Enterprise AI team is building the next generation of intelligent solutions for retailers. We are seeking a Director of Enterprise AI Engineering and Machine Learning to lead the development of agentic AI products that help retailers solve complex business challenges and unlock new opportunities.\n\n In this role, you will work at the intersection of engineering, machine learning, data science, product, consulting, and forward-deployed engineering. You will partner directly with retailers and internal stakeholders to define ambitious opportunities, shape technical strategy, and deliver innovative solutions in a rapidly evolving, zero-to-one product environment.\n\n This is an opportunity to help establish a new area of innovation at Instacart while leading teams through the full product development lifecycle—from identifying customer needs and exploring emerging technologies to building, deploying, and scaling production-ready AI systems.\n\n About the Job \n\n Lead the engineering and machine learning strategy for agentic AI solutions designed to address the needs of Instacart’s retail partners.\n\n Build, mentor, and inspire high-performing engineering and science teams, creating an environment that supports technical excellence, experimentation, and strong execution.\n\n Partner directly with retailers, product leaders, consultants, data scientists, machine learning engineers, and forward-deployed engineers to translate complex business problems into impactful AI products.\n\n Guide the development of systems that combine advanced machine learning, data, software engineering, and agentic capabilities, with an emphasis on reliability, scalability, usability, and measurable customer value.\n\n Establish direction in a zero-to-one product space, balancing long-term technical strategy with the need to move quickly, learn from early deployments, and adapt to changing customer and business requirements.\n\n Represent Enterprise AI across the organization, communicating tradeoffs, progress, risks, and opportunities to senior stakeholders and building alignment across technical and commercial teams.\n\n You will be joining a fast-paced environment where the technology, customer needs, and product direction will continue to evolve. Success will require comfort with ambiguity, a willingness to engage deeply in both strategy and execution, and the judgment to make thoughtful decisions while building new capabilities from the ground up.\n\n &nbsp;\n\n About You \n\n Minimum Qualifications\n\n Demonstrated experience building and deploying agentic AI, generative AI, or machine learning products in production environments.\n\n Experience leading engineering, machine learning, data science, or applied science teams through product development and delivery.\n\n Experience partnering with product, business, customer-facing, and technical stakeholders to define requirements and deliver solutions to complex problems.\n\n Strong understanding of machine learning development practices, software engineering principles, data systems, and the operational considerations required to scale AI applications.\n\n Demonstrated ability to set technical direction, prioritize work, manage ambiguity, and deliver results in a fast-changing environment.\n\n Preferred Qualifications\n\n Deep technical expertise in agentic systems, large language models, machine learning platforms, or related areas of applied artificial intelligence.\n\n Experience delivering applied machine learning products at significant scale, including systems used by external customers or business partners.\n\n Experience leading cross-functional initiatives that span engineering, machine learning, data science, product, consulting, and customer-facing teams.\n\n Experience working directly with retailers, commerce platforms, or other enterprise customers to translate operational challenges into technology solutions.\n\n A track record of creating clarity and momentum in zero-to-one product environments while maintaining high standards for quality, responsible development, and customer impact.\n\n &nbsp;\n\n #LI-Remote\n Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy here. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.\n\n Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings here.\n\n For Canadian based candidates, the base pay ranges for a successful candidate are listed below.\n\n CAN\n $313,000 &mdash; $330,500 CAD",
+      "is_remote": null,
+      "department": "",
+      "ats": "Greenhouse",
+      "source": "company_portal",
+      "archetype": "A",
+      "work_arrangement": "Remote in-state eligible",
+      "first_seen": "2026-09-28T22:34:10Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "Mars",
+      "title": "Head, Strategy & Performance NA",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://builtintoronto.com/job/head-strategy-performance-na/11406596",
+      "direct_url": "https://builtintoronto.com/job/head-strategy-performance-na/11406596",
+      "req_id": "",
+      "date_posted": "",
+      "date_seen": "2026-09-28T22:34:05Z",
+      "description": "",
+      "is_remote": null,
+      "department": "",
+      "ats": "Builtin",
+      "source": "company_portal",
+      "archetype": "D",
+      "first_seen": "2026-09-28T22:34:10Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Lancaster Group Inc",
       "title": "Chief Financial Officer (CFO)",
@@ -220,7 +283,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://builtintoronto.com/job/director-enterprise-ai-strategy-transformation/11406226",
+      "duplicate_urls": [
+        "https://builtintoronto.com/job/director-enterprise-ai-strategy-transformation/11406226"
+      ]
     },
     {
       "company": "Empowered Futures",
@@ -309,7 +376,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "100 King Street West",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://builtintoronto.com/job/managing-director-cybersecurity-core-technology-audit/11408209"
+      ]
     },
     {
       "company": "RBC",
@@ -16573,8 +16643,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -17997,8 +18067,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -18411,19 +18481,19 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
-      "geo_lat": 43.64877,
-      "geo_lon": -79.38169,
-      "geo_distance_km": 6.6,
-      "geo_rank": 66,
-      "geo_source": "posting-address",
-      "geo_confidence": "high",
-      "geo_detail": "100 King Street West",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
         "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Head--Responsible-AI---Governance_R260020318"
@@ -18973,6 +19043,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 648
+  ]
 }
