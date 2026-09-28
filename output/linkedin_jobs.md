@@ -1,9 +1,21 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-28 12:33 UTC*
+*Last updated: 2026-09-28 12:58 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4471042013/) — Vaco by Highspring
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/hr - CA$85.00/hr
+### [Director, Enterprise Architecture & Engineering](https://www.linkedin.com/jobs/view/4471393163/) — Jobgether
+- 📍 **Location:** Canada
+- 💰 **Salary:** $175,000–$275,000
+- 🕒 **Posted:** 2026-09-28
+
+### [Expert Opportunity - Head of Finance Operations ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4455133515/) — Ethos
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-09-28
+
+### [Expert Opportunity - VP of Information Security ($90/hr, up to $1,800/week)](https://www.linkedin.com/jobs/view/4455153527/) — Ethos
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-09-28
+
+### [Expert Opportunity - Director of Data Engineering ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4455132764/) — Ethos
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-09-28
