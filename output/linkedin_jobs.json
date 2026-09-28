@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 11:43 UTC",
+  "scraped_at": "2026-09-28 12:10 UTC",
   "total": 3,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Ethos",
@@ -76,78 +76,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Ethos",
-      "title": "Expert Opportunity - Head of Corporate Finance ($100/hr, up to $2,000/week)",
-      "location": "Canada",
-      "url": "https://www.linkedin.com/jobs/view/4455151388/",
-      "date_posted": "2026-09-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "About This Opportunity\n\nWe're working with a leading foundational AI lab to find experienced heads of corporate finance who can help train their latest language model on professional document, spreadsheet, and slide deck tasks.\n\nWe're looking for heads of corporate finance with 5+ years in FP&A or corporate finance roles building forecasts and financial models to create, evaluate, and refine AI-generated documents, spreadsheets, and slide decks across core workflows: rolling forecast models, variance bridge decks, driver-based operating models, board-ready p&l decks, monthly flux commentary memos, and scenario sensitivity models.\n\nCompensation:\n$100/hour\n\nCommitment:\nFlexible, 5-20 hours per week (or more if desired)\n\nLocation:\nFully remote, work on your own schedule\n\nStart date:\nASAP\n\nQualifications\n\n5+ years in FP&A or corporate finance building rolling forecasts, variance bridges, and driver-based operating models for a growing company\nTrack record of producing board-ready p&l decks and monthly flux commentary memos that finance leadership can present without rework\nExpert-level document, spreadsheet, and slide craftsmanship, with excellent written communication and attention to detail\n\nAbout Ethos\n\nEthos is a new expert network built by a McKinsey/SoftBank/DeepMind team and backed by world-leading investors like General Catalyst. We connect experts with investors and consultancies for paid expert calls, speaking engagements, and advisory opportunities.\n\nKey Requirements\n\n5+ years in FP&A or corporate finance building rolling forecasts, variance bridges, and driver-based operating models for a growing company\nTrack record of producing board-ready p&l decks and monthly flux commentary memos that finance leadership can present without rework\nExpert-level document, spreadsheet, and slide craftsmanship, with excellent written communication and attention to detail\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nPart-time\n\nJob function\n\nFinance and Sales\n\nIndustries\n\nTechnology, Information and Internet",
-      "work_mode": "Remote",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
-      "geo_city": "",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 399999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only country stated",
-      "geo_version": 1
-    },
-    {
-      "company": "Ethos",
-      "title": "Expert Opportunity - Head of Information Security ($90/hr, up to $1,800/week)",
-      "location": "Canada",
-      "url": "https://www.linkedin.com/jobs/view/4455150409/",
-      "date_posted": "2026-09-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "About This Opportunity\n\nWe're working with a leading foundational AI lab to find experienced heads of information security who can help train their latest language model on professional document, spreadsheet, and slide deck tasks.\n\nWe're looking for heads of information security with 5+ years in cybersecurity governance, risk management, and compliance, IT audit, or information security to create, evaluate, and refine AI-generated documents, spreadsheets, and slide decks across core workflows: SOC 2 and ISO 27001 audit readiness documentation, security risk assessment and control matrices, vendor and third-party security due diligence questionnaires, incident response and breach notification reports, policy and control framework mapping documents, and board-level security posture and risk dashboards.\n\nCompensation:\n$90/hour\n\nCommitment:\nFlexible, 5-20 hours per week (or more if desired)\n\nLocation:\nFully remote, work on your own schedule\n\nStart date:\nASAP\n\nQualifications\n\n5+ years in cybersecurity GRC, IT audit, or information security compliance, with direct ownership of SOC 2, ISO 27001, or NIST framework certification work\nHands-on experience writing or reviewing risk assessments, control matrices, and vendor security questionnaires against a named regulatory or audit framework\nExpert-level document, spreadsheet, and slide craftsmanship, with excellent written communication and attention to detail\n\nAbout Ethos\n\nEthos is a new expert network built by a McKinsey/SoftBank/DeepMind team and backed by world-leading investors like General Catalyst. We connect experts with investors and consultancies for paid expert calls, speaking engagements, and advisory opportunities.\n\nKey Requirements\n\n5+ years in cybersecurity GRC, IT audit, or information security compliance, with direct ownership of SOC 2, ISO 27001, or NIST framework certification work\nHands-on experience writing or reviewing risk assessments, control matrices, and vendor security questionnaires against a named regulatory or audit framework\nExpert-level document, spreadsheet, and slide craftsmanship, with excellent written communication and attention to detail\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nPart-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nTechnology, Information and Internet",
-      "work_mode": "Remote",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
-      "geo_city": "",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 399999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only country stated",
-      "geo_version": 1
-    },
-    {
-      "company": "Ethos",
-      "title": "Expert Opportunity - Head of Strategy ($100/hr, up to $2,000/week)",
-      "location": "Canada",
-      "url": "https://www.linkedin.com/jobs/view/4455139532/",
-      "date_posted": "2026-09-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "About This Opportunity\n\nWe're working with a leading foundational AI lab to find experienced heads of strategy who can help train their latest language model on professional document, spreadsheet, and slide deck tasks.\n\nWe're looking for heads of strategy with 5+ years in management consulting or corporate strategy to create, evaluate, and refine AI-generated documents, spreadsheets, and slide decks across core workflows: client-ready strategy decks and executive steering committee materials, market entry and competitive positioning analyses, operating model redesign workshops and deliverables, sensitivity-tested business case models, stakeholder interview synthesis for engagement diagnostics, and implementation roadmaps and change management playbooks.\n\nCompensation:\n$100/hour\n\nCommitment:\nFlexible, 5-20 hours per week (or more if desired)\n\nLocation:\nFully remote, work on your own schedule\n\nStart date:\nASAP\n\nQualifications\n\n5+ years in management consulting or internal corporate strategy, with direct ownership of client-ready strategy decks and executive steering committee materials\nFluency with structured problem-solving frameworks, operating model redesign, and building sensitivity-tested business case models in Excel and PowerPoint\nExpert-level document, spreadsheet, and slide craftsmanship, with excellent written communication and attention to detail\n\nAbout Ethos\n\nEthos is a new expert network built by a McKinsey/SoftBank/DeepMind team and backed by world-leading investors like General Catalyst. We connect experts with investors and consultancies for paid expert calls, speaking engagements, and advisory opportunities.\n\nKey Requirements\n\n5+ years in management consulting or internal corporate strategy, with direct ownership of client-ready strategy decks and executive steering committee materials\nFluency with structured problem-solving frameworks, operating model redesign, and building sensitivity-tested business case models in Excel and PowerPoint\nExpert-level document, spreadsheet, and slide craftsmanship, with excellent written communication and attention to detail\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nPart-time\n\nJob function\n\nBusiness Development and Sales\n\nIndustries\n\nTechnology, Information and Internet",
-      "work_mode": "Remote",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
-      "geo_city": "",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 399999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only country stated",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
