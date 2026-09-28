@@ -1,8 +1,15 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-28 03:47 UTC*
+*Last updated: 2026-09-28 06:47 UTC*
 
-**1 new role(s)** since last run · 245 total in current portal openings
+**3 new role(s)** since last run · 244 total in current portal openings
 
-### [(CAN) Senior Director, Business Intelligence Strategy & Media Insights – Walmart Connect](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Mississauga-ON/XMLNAME--CAN--Senior-Director--Data-Science---Walmart-Connect_R-2474800) — Walmart
-- 📍 **Location:** Mississauga, ON
-- 🕒 **Posted:** 2026-07-21
+### [Vice-President, Enterprise Media & Owned Channels](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Vice-President--Enterprise-Media---Owned-Channels_2619594) — CIBC
+- 📍 **Location:** Toronto, ON
+- 🕒 **Posted:** 2026-09-23
+
+### [Associate Director, Finance & Risk Data Management Office, Chief Data Office](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Associate-Director--Finance---Risk-Data-Management-Office--Chief-Data-Office_R-0000187897) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-09-23
+
+### [Vice President, Product Management, Platform & Innovation](https://builtintoronto.com/job/vice-president-product-management-platform-innovation/11060217) — Appfire
+- 📍 **Location:** Toronto, Ontario, Canada
