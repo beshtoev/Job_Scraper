@@ -1,16 +1,14 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-28 18:51 UTC*
+*Last updated: 2026-09-28 19:34 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**2 new role(s)** since last run · 4 total in last 24h
 
-### [Vice President, Risk Management Transformation](https://ca.indeed.com/viewjob?jk=91efe26ecf240a00) — TD
-- 📍 **Location:** Toronto, ON, CA
+### [Vice President, Technology and Transformation Risk](https://ca.indeed.com/viewjob?jk=0689911f4941223c) — Aviva
+- 📍 **Location:** Markham, ON, CA
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Vice President, Risk Business Management and Governance](https://ca.indeed.com/viewjob?jk=e44e3a6d2edbffe1) — TD
-- 📍 **Location:** Toronto, ON, CA
+### [AVP, Technology and Transformation Risk](https://ca.indeed.com/viewjob?jk=f0f8aa85e15a1bad) — Aviva
+- 📍 **Location:** Markham, ON, CA
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
