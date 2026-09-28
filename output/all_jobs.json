@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 06:53 UTC",
+  "updated_at": "2026-09-28 07:02 UTC",
   "jobs": [
     {
       "company": "SearchEatt",
@@ -4724,7 +4724,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010275938206"
+      ]
     },
     {
       "company": "The Citco Group Limited",
@@ -17560,5 +17563,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 597
 }
