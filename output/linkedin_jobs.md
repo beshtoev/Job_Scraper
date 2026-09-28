@@ -1,22 +1,59 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-28 19:56 UTC*
+*Last updated: 2026-09-28 22:10 UTC*
 
-**4 new role(s)** since last run · 5 total in last 1h
+**12 new role(s)** since last run · 13 total in last 1h
 
-### [Director, Media Strategy](https://www.linkedin.com/jobs/view/4472786784/) — Monks
+### [Director of Information Technology](https://www.linkedin.com/jobs/view/4473005730/) — Liteline
+- 📍 **Location:** Richmond Hill, Ontario, Canada
+- 🕒 **Posted:** 2026-09-28
+
+### [Managing Director - Cybersecurity & Core Technology Audit](https://www.linkedin.com/jobs/view/4473017488/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $167,000—$190,000 USD
+- 💰 **Salary:** $160k-$215k
 - 🕒 **Posted:** 2026-09-28
 
-### [Director, Enterprise AI Strategy & Transformation](https://www.linkedin.com/jobs/view/4471540480/) — Mevotech
-- 📍 **Location:** North York, Ontario, Canada
+### [Director, Autism Program and Service Planning](https://www.linkedin.com/jobs/view/4471548070/) — Children's Treatment Network (CTN)
+- 📍 **Location:** Richmond Hill, Ontario, Canada
+- 💰 **Salary:** $140,547 - $156,162
 - 🕒 **Posted:** 2026-09-28
 
-### [Chief Technology and Innovation Officer](https://www.linkedin.com/jobs/view/4471530809/) — Empowered Futures
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4471547259/) — Jim Peplinski Capital
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-09-28
+
+### [Strategy Director, Catalyst Team](https://www.linkedin.com/jobs/view/4471219106/) — Equinix
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-09-28
+
+### [Director of Platform Engineering](https://www.linkedin.com/jobs/view/4471552459/) — Blackpoint Cyber
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-09-28
 
-### [Director, Financial Advisory Services](https://www.linkedin.com/jobs/view/4472075105/) — Government of Nova Scotia
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $4,754.34 - $5,942.94
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467273679/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-09-28
+
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467276607/) — BMO
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-09-28
+
+### [Director of Data](https://www.linkedin.com/jobs/view/4471548680/) — Pebl
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $191,452.00/yr - CA$252,000.00/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Chief Financial Officer (CFO) Strategic Business Executive](https://www.linkedin.com/jobs/view/4471549726/) — Grey Eagle Resort & Casino
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-09-28
+
+### [Managing Director, Corporate Finance Group](https://www.linkedin.com/jobs/view/4467204203/) — BMO
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-09-28
+
+### [Managing Director, Corporate Finance Group](https://www.linkedin.com/jobs/view/4467202192/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
 - 🕒 **Posted:** 2026-09-28
