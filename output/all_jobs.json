@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-09-28 22:08 UTC",
+  "updated_at": "2026-09-28 22:15 UTC",
   "jobs": [
+    {
+      "company": "Lancaster Group Inc",
+      "title": "Chief Financial Officer (CFO)",
+      "location": "Hamilton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010276462302",
+      "date_posted": "2026-09-28",
+      "description": "Strong knowledge of construction accounting, *job costing, WIP, labour costing, project margins, progress billing, cash flow and forecasting*.",
+      "salary": "$120k–$175k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-28T22:15:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Hamilton",
+      "geo_province": "ON",
+      "geo_lat": 43.2557,
+      "geo_lon": -79.8711,
+      "geo_distance_km": 63.2,
+      "geo_rank": 200632,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Kongsberg",
+      "title": "Director, Finance & Corporate Services",
+      "location": "Port Coquitlam, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010276681914",
+      "date_posted": "2026-09-28",
+      "description": "A valid CPA designation (or equivalent professional accounting qualification). We take comprehensive care of our employees through extended health, dental, and…",
+      "salary": "$160k–$180k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-28T22:15:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Port Coquitlam",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Xatsull First Nation (Soda Creek Indian Band)",
+      "title": "Director of Finance & Administration",
+      "location": "Williams Lake, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010276761998",
+      "date_posted": "2026-09-28",
+      "description": "Reporting to the Chief Administrative Officer, this role works closely with leadership, Chief and Council, staff, committees, funders, auditors, and external…",
+      "salary": "$92k–$130k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-28T22:15:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Williams Lake",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "BioVectra Inc.",
+      "title": "Director Quality Science & Technology",
+      "location": "Charlottetown, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010276581525",
+      "date_posted": "2026-09-28",
+      "description": "Lead quality assessment of change controls, ensuring appropriate risk evaluation, impact assessment, validation requirement and implementation strategies are…",
+      "salary": "$131k–$205k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-28T22:15:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (PE)",
+      "geo_city": "Charlottetown",
+      "geo_province": "PE",
+      "geo_lat": 46.2382,
+      "geo_lon": -63.1311,
+      "geo_distance_km": 1307.5,
+      "geo_rank": 413075,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "McGill University",
+      "title": "Assistant Vice-President, Research Strategy and Services",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010276480773",
+      "date_posted": "2026-09-28",
+      "description": "The ideal candidate will possess a graduate degree and a demonstrated record of progressive senior leadership in research administration, research strategy, or…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-28T22:15:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Children's Treatment Network of Simcoe York",
       "title": "Director, Autism Program and Service Planning",
@@ -10,7 +145,7 @@
       "company_url": "https://ca.indeed.com/cmp/Children's-Treatment-Network-of-Simcoe-York-1",
       "date_posted": "2026-09-28",
       "description": "**What We Do:**  \nChildren’s Treatment Network (CTN) supports over 42,000 kids and youth with disabilities and other developmental needs. We provide intake, service navigation and coordinated service planning, assessment and diagnostic services, specialized clinics and rehabilitation services, including physiotherapy, occupational therapy and speech language therapy.\n\nFunded by the Ministry of Children, Community and Social Services, CTN is an Ontario provincial government funded not\\-for profit organization, that offers services through contracted partners in the education, health and community sectors. Through its innovative network model, CTN’s commitment to providing family\\-centered care is anchored by an electronic client record that is shared across its partner organizations and provides the foundation for integrated plans of care and services.\n\nDedicated to creating a vibrant community where all kids, youth and families belong, we have a strong commitment to equity, diversity, inclusion, Indigeneity and accessibility. With this in mind, our goal is a workforce that reflects the communities we serve. We welcome all qualified applicants to apply including individuals with disabilities, those who identify as Black, Indigenous or persons of colour, members of the LGBTQ2S\\+ communities and others. We are proud to be in compliance with the Accessibility for Ontarians with Disabilities Act (AODA), 2005 and the Integrated Accessibility Standards Regulation. We are happy to honour accommodations at any part of the recruitment process and invite you to let us know how we can help.\n\n**What We Offer:**\n\n* Competitive compensation and employee benefits package including participation in the Healthcare of Ontario Pension Plan (HOOPP) and vacation/leave entitlement\n* An opportunity to contribute to the work of a not\\-for\\-profit organization that provides services to kids and youth with disabilities and developmental needs and their families\n* The chance to be a part of a culture with an organization that values inclusion, collaboration, responsibility, and innovation\n* The opportunity to work with us to achieve CTN’s strategic goals of putting people at the centre of what we do, striving for excellence, fostering a culture of accountability and stewardship to support community needs, and transformation through equitable data\\-driven service innovation\n\n**What You Will Do:**  \nCTN is looking for a full\\-time Director, Autism Program and Service Planning who provides strategic leadership and operational oversight of CTN’s Autism and Service Planning services. This position is one of two Programs and Services Directors and holds accountability for service system development; service delivery and coordination; service monitoring, contract compliance, evaluation, and quality improvement. The Director is accountable for the optimization and effectiveness of operations, provide context to others who manage teams, and develop frameworks for relationships with key internal and/or external stakeholders. The Director envisions changes, responds to risk, and identifies growth opportunities and fundamental improvement changes. The Director manages teams to ensure the appropriate capacity and capabilities are in place to deliver the required operational services. The position is actively involved with the ongoing development of the Network’s planning, development, and integration; and is a member of CTN’s Senior Management Team. This position reports to the Vice President, Programs and System Partnerships.\n\n**Responsibilities:**  \nThe successful incumbent will be responsible for the following duties and responsibilities:\n\n**Service Delivery:**\n\n* Collaborate with programs and services and network partner managers to ensure:\n* evidence informed clinical protocols and service pathways\n* coordinated service delivery and integrated care plans\n* inter\\-professional practice protocols\n* family centred service delivery\n* Ensure that CTN’s clinical policies and procedures meet the mandate, mission and service agreement requirements for the delivery of all CTN funded services\n* Ensure appropriate consistency of service delivery across multiple partners\n* Implement strategies to leverage the clinical network outside of the hosted resources to provide optimum solutions to services for the clients of CTN\n* Pilot innovative clinical practices in response to identified service gaps and needs and determine resourcing to support these\n* Monitor and assess the waitlist, case\\-loads and service delivery data to support resource allocation strategies and budgeting on an annual basis, and monitor the service gaps and needs for year\\-end adjustments\n* Support the Director, Corporate Services in developing and monitoring the programs and services budget, assist in variance analysis and forecasting financial and service projections\n* Ensure appropriate risk management response to family relations issues, programs and services related risk situations and individual clinical issues of an extraordinary nature related to programs and services\n\n**Contract Management:**\n\n* Ensure compliance with, and support network partners in monitoring and achieving, contractual obligations with respect to service targets and service descriptions including quality management\n* Serve as liaison for tertiary providers for clinical issues and in the negotiation of service provision contracts, and manage these contracts for effectiveness and compliance\n\n**Local Team Operations:**\n\n* Ensure appropriate clinical activities, family and provider engagement and inter\\-professional programs and activities at the local team sites\n* Develop an approach to risk management for local teams including response to family relations and local team issues\n* Ensure awareness of and access to local team sites amongst providers, families and referral sources\n* Ensure coordination with Corporate Services in regard to the operational requirements of the satellite sites, heal",
-      "salary": "",
+      "salary": "$141k–$156k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -32,7 +167,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010276768789"
+      ]
     },
     {
       "company": "Monks",
@@ -247,9 +385,9 @@
       "url": "https://builtintoronto.com/job/vice-president-risk-management-transformation/11400880",
       "direct_url": "https://builtintoronto.com/job/vice-president-risk-management-transformation/11400880",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-09-28",
       "date_seen": "2026-09-28T19:34:08Z",
-      "description": "",
+      "description": "Significant leadership experience in one or more of the following areas: business architecture, enterprise transformation, portfolio or program delivery, change…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -269,7 +407,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$185k–$275k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010276615393"
+      ]
     },
     {
       "company": "TD Bank",
@@ -278,9 +420,9 @@
       "url": "https://builtintoronto.com/job/vice-president-risk-business-management-and-governance/11400869",
       "direct_url": "https://builtintoronto.com/job/vice-president-risk-business-management-and-governance/11400869",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-09-28",
       "date_seen": "2026-09-28T19:34:08Z",
-      "description": "",
+      "description": "Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -300,7 +442,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$185k–$275k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010276615389"
+      ]
     },
     {
       "company": "Aviva plc",
@@ -309,9 +455,9 @@
       "url": "https://builtintoronto.com/job/vice-president-technology-and-transformation-risk/11399688",
       "direct_url": "https://builtintoronto.com/job/vice-president-technology-and-transformation-risk/11399688",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-09-28",
       "date_seen": "2026-09-28T19:34:08Z",
-      "description": "",
+      "description": "The role partners closely with Group and local stakeholders to provide independent risk advice, oversight and challenge, supporting the ongoing development of…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -331,7 +477,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010276644147"
+      ]
     },
     {
       "company": "State Street",
@@ -15922,6 +16071,7 @@
       "geo_detail": "1940 Argentia Rd, Mississauga",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010115233783",
         "https://www.linkedin.com/jobs/view/4443971423/"
       ]
     },
@@ -18823,5 +18973,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 648
 }
