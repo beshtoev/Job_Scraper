@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-28 22:34 UTC",
+  "updated_at": "2026-09-28 22:55 UTC",
   "jobs": [
+    {
+      "company": "Aviva Canada",
+      "title": "AVP, Technology and Transformation Risk",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4471560581/",
+      "date_posted": "2026-09-28",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Experience Aviva\n\nIndividually we are people, but together we are Aviva. Individually these are just words, but together they are our Values – Care, Commitment, Community, and Confidence.\n\nAt Aviva Canada, we put people first, our employees, our customers, and our communities. We’re proud of a culture built on care, inclusion, and collaboration, where your voice matters and your growth is supported. We’re not just about insurance; we’re about making a real difference by protecting what matters most.\n\nThe Opportunity\n\nWe’re looking for an AVP, Technology & Transformation Risk to lead second‑line oversight of technology, data privacy, data governance, cybersecurity and transformation across Aviva Canada. In this role, you’ll shape how we manage data risk, strengthen controls, and respond to an evolving regulatory and technology landscape.\n\nYou’ll work closely with partners across the business to provide independent challenge, guide decision‑making, and support strong governance practices. You will also play a key role in advancing our approach to emerging areas such as GenAI, automation, and data ethics.\n\nThis is a highly visible opportunity to influence strategy, build positive relationships, and help ensure Aviva delivers safe, fair, and trusted outcomes for our customers.\n\nWhat You’ll Do\n\nProvide second‑line oversight of technology, cyber security practices, data privacy, data governance and transformation risks.\nPartner with first‑line teams to identify risks, strengthen controls, and improve data practices.\nLead data risk reviews, deep dives, and assessment activities to ensure regulatory and policy alignment.\nDeliver clear, insight‑driven reports that highlight trends, issues, and emerging risks.\nBuild positive relationships across the business to support consistent and effective risk management.\nChampion best practices in cybersecurity, data governance, privacy, GenAI, and automation.\nCollaborate with teams to enable safe and efficient automation and AI use cases.\nMaintain documentation that supports governance, transparency, and compliance.\nContribute to strong customer outcomes through sound risk oversight.\n\nWhat You’ll Bring\n\nA degree in Computer Science, Data Science, Mathematics, Business, or a related field.\n10+ years of experience in data governance, data management, analytics, or a related discipline.\nStrong understanding of Cyber Security including ISO 27001 and NIST framework\nStrong understanding of data privacy, data quality, and regulatory expectations.\nClear and confident communication skills, with the ability to influence partners at all levels.\nExperience assessing risks, reviewing controls, and preparing insight‑driven reports.\nAbility to tackle sophisticated problems, make sound decisions, and drive outcomes.\nStrong relationship‑building skills and a collaborative working style.\nKnowledge of data architecture, data lineage, data quality, data retention and emerging data practices.\nGood understanding of Secure by Design principles\nCuriosity and adaptability to keep pace with evolving technologies, including AI and automation.\n\nWhat Makes You Stand Out\n\nExperience working with GenAI, automation, and AI governance.\nFamiliarity with operational risk practices.\nStrong visual communication and storytelling skills.\nAbility to effectively challenge senior leaders with confidence and clarity.\nDeep understanding of cyber, data, and IT infrastructure domains.\n\nWhat You’ll Get\n\nCompelling rewards package including base compensation, eligibility for annual bonus, retirement savings, share plan, health benefits, personal wellness, and volunteer opportunities.\nHybrid flexible work model.\nOutstanding career development opportunities.\nWe’ll support your professional development education.\nCompetitive vacation package with the option to purchase 5 extra days off per year.\nEmployee-driven programs focused on gender, LGBTQ+, origins, diversity, and inclusion.\nCorporate wellness programs to support our employees’ physical and mental health.\n\nThis job advertisement is for an existing vacancy which has been posted both internally & externally.\n\nAviva Canada may use AI (Artificial Intelligence) tools to assist us throughout the recruitment process to screen, assess or select applicants for a position.\n\nAviva Canada welcomes applications from all qualified individuals and has a process in place to provide accommodations for persons with disabilities at all stages of the hiring process and during employment. If you require an accommodation during the interview or hiring process, please contact your Aviva Talent Acquisition Partner so that an appropriate accommodation can be arranged.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nInsurance",
+      "first_seen": "2026-09-28T22:55:16Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Instacart Canada",
       "title": "Director, Enterprise AI & Machine Learning Engineering",
@@ -345,7 +370,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4471550864/"
+      ]
     },
     {
       "company": "BMO",
@@ -445,8 +473,10 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=f0569f115fba3afa"
-      ]
+        "https://ca.indeed.com/viewjob?jk=f0569f115fba3afa",
+        "https://www.linkedin.com/jobs/view/4471548680/"
+      ],
+      "salary": "$191,452.00/yr - CA$252,000.00/yr"
     },
     {
       "company": "TD Bank",
@@ -16643,8 +16673,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -18067,8 +18097,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -18481,19 +18511,19 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
+      "geo_lat": 43.64877,
+      "geo_lon": -79.38169,
+      "geo_distance_km": 6.6,
+      "geo_rank": 66,
+      "geo_source": "posting-address",
+      "geo_confidence": "high",
+      "geo_detail": "100 King Street West",
       "geo_version": 1,
       "duplicate_urls": [
         "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Head--Responsible-AI---Governance_R260020318"
