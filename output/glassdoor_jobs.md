@@ -1,13 +1,18 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-28 13:27 UTC*
+*Last updated: 2026-09-28 14:39 UTC*
 
-**2 new role(s)** since last run · 35 total in last 24h
+**3 new role(s)** since last run · 36 total in last 24h
 
-### [Director EIAM Strategy &Technical Product Management (Global Security)](https://www.glassdoor.ca/job-listing/j?jl=1010275131480) — Royal Bank of Canada
-- 📍 **Location:** Vancouver, Canada
+### [Director, Pricing Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010274890529) — Varicent
+- 📍 **Location:** Ottawa, Canada
 - 🕒 **Posted:** 2026-09-26
 
-### [Chief Financial Officer (CFO)](https://www.glassdoor.ca/job-listing/j?jl=1010275746606) — Confidential
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $200k–$300k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010276389845) — Atlantic Windoor Ltd
+- 📍 **Location:** Saint John, Canada
+- 💰 **Salary:** $80k–$120k/yr
 - 🕒 **Posted:** 2026-09-28
+
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010274924160) — Robert Half
+- 📍 **Location:** Hamilton, Canada
+- 💰 **Salary:** $150k–$170k/yr
+- 🕒 **Posted:** 2026-09-26
