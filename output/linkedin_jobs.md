@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 12:02 UTC*
+*Last updated: 2026-09-29 12:43 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Assistant Vice-President, Technology Lead, Health](https://www.linkedin.com/jobs/view/4462301344/) — Sun Life
-- 📍 **Location:** Columbia-Shuswap A, British Columbia, Canada
+### [Director Resilience CoE - Strategy & Transformation](https://www.linkedin.com/jobs/view/4473239841/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-29
