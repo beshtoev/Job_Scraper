@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-29 00:57 UTC",
+  "scraped_at": "2026-09-29 01:37 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Children's Treatment Network of Simcoe York",
@@ -260,38 +260,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Mevotech LP",
-      "title": "Director, Enterprise AI Strategy & Transformation",
-      "location": "North York, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=87cd3277b5ec2084",
-      "direct_url": "https://mevotech.applytojob.com/apply/VtIWLVTcI7/Director-Enterprise-AI-Strategy-Transformation?source=INDE&~",
-      "company_url": "https://ca.indeed.com/cmp/Mevotech-Lp",
-      "date_posted": "2026-09-28",
-      "description": "**JOB PURPOSE**  \n\nReporting to the Chief Financial Officer, the Director, Enterprise AI Strategy \\& Transformation leads the development and execution of the organization’s enterprise AI strategy and transformation agenda to drive measurable business value, productivity, operational efficiency, innovation, and informed decision\\-making. The role serves as the organization’s AI subject matter expert and enterprise coordinating point, providing strategic guidance on AI opportunities, investments, governance, risk, technology, adoption, and value realization.  \n\n  \n\nThe Director partners with business and functional leaders to identify, prioritize, and implement AI and intelligent automation opportunities aligned with organizational objectives and financial goals. The role initially focuses on leveraging AI to enhance financial and operational performance, including forecasting, reporting, analysis, productivity, workflow efficiency, cost management, and decision\\-making, with successful capabilities and practices progressively expanded across other functions. The Director oversees the enterprise AI portfolio and lifecycle from opportunity assessment and business case development through solution selection, implementation, adoption, benefits realization, ongoing monitoring, and retirement.  \n\n  \n\n**KEY DUTIES AND RESPONSIBILITIES**  \n\n**AI Strategy, Portfolio \\& Value Management*** Develop and maintain the enterprise AI strategy, operating model, portfolio, and roadmap aligned with corporate objectives and financial goals.\n* Identify, evaluate, and prioritize AI opportunities based on strategic alignment, business value, cost, complexity, data readiness, risk, and organizational readiness.\n* Develop business cases, investment recommendations, and implementation roadmaps, including build, buy, configure, or partner options.\n* Establish performance measures, baseline metrics, and value\\-realization frameworks to track AI adoption, ROI, productivity, cost savings, revenue impact, and other business outcomes.\n* Provide executive leadership with visibility into AI investments, performance, realized benefits, opportunities, and risks.\n\n**AI Solution Development \\& Implementation*** Lead the evaluation, design, development, and deployment of AI solutions across enterprise productivity, function\\-specific applications, intelligent automation, advanced AI, and emerging agentic capabilities.\n* Partner with business units and end users to identify opportunities, develop practical AI\\-enabled solutions, and improve processes and ways of working.\n* Oversee AI pilots, proofs of concept, and enterprise implementations through the full lifecycle—from opportunity identification and feasibility through deployment, adoption, benefits realization, monitoring, and retirement.\n* Coordinate with Cybersecurity, Human Resources and other stakeholders to ensure solutions are appropriately designed, implemented, adopted, and measured.\n* Assess solution performance and recommend whether initiatives should be scaled, enhanced, consolidated, paused, or retired based on business value, adoption, cost, and risk.\n\n**AI Governance, Risk \\& Responsible Adoption*** Establish and maintain enterprise AI governance frameworks, policies, standards, controls, and risk\\-based processes to support responsible AI adoption.\n* Ensure AI initiatives are appropriately assessed for cybersecurity, privacy, data, intellectual property, legal, ethical, third\\-party, model, and business continuity risks.\n* Maintain an enterprise inventory of approved AI technologies, platforms, models, agents, and material use cases, with appropriate review, approval, testing, human oversight, monitoring, and escalation requirements.\n* Ensure data quality, classification, access, security, information governance, and regulatory requirements are addressed before AI solutions are deployed.\n* Monitor the evolving AI landscape, regulatory expectations, and associated risks, and update governance practices as required.\n\n**Enterprise AI Adoption \\& Change Management*** Lead enterprise AI literacy, adoption, and change\\-management initiatives across executives, leaders, employees, technical teams, and advanced AI users.\n* Develop and deliver role\\- and function\\-specific training, guidance, and resources to promote effective and responsible use of AI.\n* Serve as the enterprise resource for AI strategy, best practices, use\\-case guidance, and adoption support.\n* Measure AI utilization, adoption, training effectiveness, employee feedback, and business outcomes to continuously improve AI enablement.\n* Coordinate internal subject matter experts, technology teams, business stakeholders, and external partners to support successful AI adoption\n\n**Vendor, Technology \\& Partner Management*** Evaluate AI technologies, vendors, consultants, platforms, and implementation partners against business requirements, value, security, architecture, scalability, risk, and total cost of ownership.\n* Manage AI technology and vendor relationships to ensure service quality, effective implementation, and value realization.\n* Maintain oversight of the enterprise AI technology portfolio to identify duplicate capabilities, unnecessary licensing, overlapping solutions, and opportunities for consolidation.\n* Monitor emerging AI technologies—including generative AI, large language models, predictive AI, intelligent automation, computer vision, and agentic AI—and assess their practical business applicability and potential value.\n\n**QUALIFICATIONS, SKILLS, AND EDUCATIONAL REQUIREMENTS**  \n\n* Bachelor’s degree in Computer Science, Data Science, Information Technology, Engineering, Finance, Business Administration, or a related field; Master’s degree preferred.\n* Minimum seven (7\\) years of progressive experience in AI, data analytics, digital transformation, automation, technology, or related fields, including significant experience leading enterprise AI or generative AI adoption.\n* Proven experienc",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "North York",
-      "geo_province": "ON",
-      "geo_lat": 43.7615,
-      "geo_lon": -79.4111,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }

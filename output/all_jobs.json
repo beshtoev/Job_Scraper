@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 01:36 UTC",
+  "updated_at": "2026-09-29 01:37 UTC",
   "jobs": [
     {
       "company": "Morningstar",
@@ -18705,12 +18705,12 @@
       "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
+      "geo_lat": 43.64877,
+      "geo_lon": -79.38169,
+      "geo_distance_km": 6.6,
+      "geo_rank": 66,
+      "geo_source": "posting-address",
+      "geo_confidence": "high",
       "geo_detail": "100 King Street West",
       "geo_version": 1,
       "duplicate_urls": [
@@ -19261,6 +19261,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 657
+  ]
 }
