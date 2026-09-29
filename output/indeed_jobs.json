@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29 14:23 UTC",
-  "total": 9,
+  "scraped_at": "2026-09-29 17:01 UTC",
+  "total": 8,
   "new_count": 0,
   "jobs": [
     {
@@ -257,38 +257,6 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "BMO Financial Group",
-      "title": "Managing Director - Cybersecurity & Core Technology Audit",
-      "location": "Toronto, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=2506961a9e8300d5",
-      "direct_url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Managing-Director---Cybersecurity---Core-Technology-Audit_R260027832-1",
-      "company_url": "https://ca.indeed.com/cmp/Bmo-Financial-Group",
-      "date_posted": "2026-09-28",
-      "description": "Application Deadline:\n\n\n10/30/2026\nAddress:\n\n\n100 King Street West\nJob Family Group:\n\n\nAudit, Risk \\& Compliance\nProvides strategic leadership and enterprise\\-wide oversight of audit coverage across Cybersecurity and Core Technology, ensuring robust, risk\\-based assurance aligned to the Bank’s evolving technology landscape. The role establishes the audit strategy, testing priorities, and integrated coverage approach for high\\-risk technology domains, including cybersecurity resilience, technology infrastructure, cloud platforms, engineering practices, software development, service management, technology operations, platform support, operational resilience, physical security, and technology\\-enabled transformation programs. Operating within the Technology \\& Operations Audit mandate, the role identifies horizontal audit touchpoints, dependencies, and control considerations across the broader Corporate Audit ecosystem, partnering with LOB and Chief Auditor groups to deliver coordinated coverage.  \n\n\n\n* Define and execute a risk\\-based, integrated audit strategy across Cybersecurity and Core Technology that focuses on both current and future focused emerging risk reviews\n* Lead ongoing risk assessment activities and development of audit coverage strategies to provide independent assurance over Cybersecurity and Core Technology risks, control effectiveness, and risk management practices.\n* Strengthen audit capabilities across Cybersecurity and Core Technology through workforce planning, technical specialization, succession management, methodology enhancement, and targeted capability development in cyber, cloud, infrastructure, engineering, and technology operations risk domains.\n* Maintain integrated, risk\\-based audit coverage across cybersecurity, engineering, technology operations, service management, platform support, cloud, infrastructure, software delivery, operational resilience, and third\\-party ecosystems, with a focus on identifying systemic risks, enterprise\\-wide control dependencies, and emerging technology risks. Proactively build partnerships across business, technology, control, and audit teams to support effective risk management, issue remediation, and sustainable control environment\n* Serve as the senior audit relationship lead for technology executives, including CISOs, engineering, infrastructure, and operations leaders, while maintaining strategic partnerships with regulators, control functions, and other key stakeholders .Lead audit support for regulatory examinations, horizontal reviews, regulatory commitments, and remediation activities related to Cybersecurity and Core Technology. Ensure audit insights, thematic observations, and risk perspectives are communicated effectively to executive management and the Board. Provide strategic leadership and performance oversight of Directors responsible for portfolio execution and identify opportunities to strengthen ownership and risk alignment while expanding control\\-level, domain\\-specific coverage\n* Ensure quality, consistency, and timeliness of audit delivery through standardized methodologies, reusable testing approaches, and continuous improvement practices. Establish proactive audit engagement and continuous monitoring across portfolios to enable real\\-time reprioritization and end\\-to\\-end risk visibility\n* Drive adoption of analytics, continuous assurance, and AI\\-enabled auditing (e.g., AI\\-enabled threats, advanced cyber risks) for better forward\\-looking risk insights\n* Deliver thematic insights, root\\-cause analysis, and enterprise\\-wide risk perspectives across technology domains.\n* Within the mandate of this role, promotes and supports the Bank’s risk culture including ensuring employees understand their accountabilities for risk\\-taking activities, promoting an environment of open communication and effective challenge, and establishing the “tone from the top” through leading by example.\nTakes measured risks while protecting the bank by applying our Risk Management Framework in the execution of your role, in line with our Risk Culture and within our approved Risk Appetite, making sound and risk informed decisions that align to business strategy, protect assets, and adhere to applicable policy documents (Frameworks, Policies, Standards, Procedures and Supporting documents), laws and regulations.  \n* \n\n**People / Culture Leadership Language:**\n\n* Role models driving simplicity and productivity enhancements for optimization across groups, driving continuous improvement on key measures.\n* Activates our winning culture, aligned with Purpose. Ignites engagement by aligning our culture to our strategy and fueling exceptional execution.\n* Fosters an inclusive environment for all employees by eliminating barriers to inclusion.\n* Develops leaders, plans for succession, and fosters a high\\-performance culture.\n* Drives top talent acquisition and retention, developing organizational capabilities to drive competitive advantage.\n* Leads and mentors a team with diverse risk and business experience, skills, and orientation.\nLeads, promotes, and reinforces the Bank’s Ambition; personally, role models One Bank leadership; drives sustainable improvements in customer loyalty and business growth; adheres and supports enterprise customer experience and brand standards.  \n* \n\n**Qualifications:**\n\n* 15\\+ years of experience in Internal Audit, Technology Audit, Cybersecurity, or Risk Management within large financial institutions\n* Senior leadership experience overseeing complex technology domains, including cybersecurity, infrastructure, cloud, engineering, technology operations, and operational resilience.\n* Deep expertise in cybersecurity, technology infrastructure, engineering practices, service management, operational resilience, and technology risk management, with proven ability to lead integrated audit programs across multiple risk domains. Proven ability to lead integrated audit programs across multiple risk domains\n* Strong ",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.64877,
-      "geo_lon": -79.38169,
-      "geo_distance_km": 6.6,
-      "geo_rank": 66,
-      "geo_source": "posting-address",
-      "geo_confidence": "high",
-      "geo_detail": "100 King Street West",
       "geo_version": 1
     }
   ],
