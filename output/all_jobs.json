@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-09-29 00:27 UTC",
+  "updated_at": "2026-09-29 00:34 UTC",
   "jobs": [
+    {
+      "company": "Emily Carr University of Art + Design",
+      "title": "Director, Financial Services",
+      "location": "Vancouver, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010276891142",
+      "date_posted": "2026-09-29",
+      "description": "Participates as required in short and long range strategic planning, collaborating with administrative management and producing coherent implementation plans…",
+      "salary": "$125k–$167k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-29T00:34:43Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "BMO Financial Group",
       "title": "Managing Director - Cybersecurity & Core Technology Audit",
@@ -10,7 +37,7 @@
       "company_url": "https://ca.indeed.com/cmp/Bmo-Financial-Group",
       "date_posted": "2026-09-28",
       "description": "Application Deadline:\n\n\n10/30/2026\nAddress:\n\n\n100 King Street West\nJob Family Group:\n\n\nAudit, Risk \\& Compliance\nProvides strategic leadership and enterprise\\-wide oversight of audit coverage across Cybersecurity and Core Technology, ensuring robust, risk\\-based assurance aligned to the Bank’s evolving technology landscape. The role establishes the audit strategy, testing priorities, and integrated coverage approach for high\\-risk technology domains, including cybersecurity resilience, technology infrastructure, cloud platforms, engineering practices, software development, service management, technology operations, platform support, operational resilience, physical security, and technology\\-enabled transformation programs. Operating within the Technology \\& Operations Audit mandate, the role identifies horizontal audit touchpoints, dependencies, and control considerations across the broader Corporate Audit ecosystem, partnering with LOB and Chief Auditor groups to deliver coordinated coverage.  \n\n\n\n* Define and execute a risk\\-based, integrated audit strategy across Cybersecurity and Core Technology that focuses on both current and future focused emerging risk reviews\n* Lead ongoing risk assessment activities and development of audit coverage strategies to provide independent assurance over Cybersecurity and Core Technology risks, control effectiveness, and risk management practices.\n* Strengthen audit capabilities across Cybersecurity and Core Technology through workforce planning, technical specialization, succession management, methodology enhancement, and targeted capability development in cyber, cloud, infrastructure, engineering, and technology operations risk domains.\n* Maintain integrated, risk\\-based audit coverage across cybersecurity, engineering, technology operations, service management, platform support, cloud, infrastructure, software delivery, operational resilience, and third\\-party ecosystems, with a focus on identifying systemic risks, enterprise\\-wide control dependencies, and emerging technology risks. Proactively build partnerships across business, technology, control, and audit teams to support effective risk management, issue remediation, and sustainable control environment\n* Serve as the senior audit relationship lead for technology executives, including CISOs, engineering, infrastructure, and operations leaders, while maintaining strategic partnerships with regulators, control functions, and other key stakeholders .Lead audit support for regulatory examinations, horizontal reviews, regulatory commitments, and remediation activities related to Cybersecurity and Core Technology. Ensure audit insights, thematic observations, and risk perspectives are communicated effectively to executive management and the Board. Provide strategic leadership and performance oversight of Directors responsible for portfolio execution and identify opportunities to strengthen ownership and risk alignment while expanding control\\-level, domain\\-specific coverage\n* Ensure quality, consistency, and timeliness of audit delivery through standardized methodologies, reusable testing approaches, and continuous improvement practices. Establish proactive audit engagement and continuous monitoring across portfolios to enable real\\-time reprioritization and end\\-to\\-end risk visibility\n* Drive adoption of analytics, continuous assurance, and AI\\-enabled auditing (e.g., AI\\-enabled threats, advanced cyber risks) for better forward\\-looking risk insights\n* Deliver thematic insights, root\\-cause analysis, and enterprise\\-wide risk perspectives across technology domains.\n* Within the mandate of this role, promotes and supports the Bank’s risk culture including ensuring employees understand their accountabilities for risk\\-taking activities, promoting an environment of open communication and effective challenge, and establishing the “tone from the top” through leading by example.\nTakes measured risks while protecting the bank by applying our Risk Management Framework in the execution of your role, in line with our Risk Culture and within our approved Risk Appetite, making sound and risk informed decisions that align to business strategy, protect assets, and adhere to applicable policy documents (Frameworks, Policies, Standards, Procedures and Supporting documents), laws and regulations.  \n* \n\n**People / Culture Leadership Language:**\n\n* Role models driving simplicity and productivity enhancements for optimization across groups, driving continuous improvement on key measures.\n* Activates our winning culture, aligned with Purpose. Ignites engagement by aligning our culture to our strategy and fueling exceptional execution.\n* Fosters an inclusive environment for all employees by eliminating barriers to inclusion.\n* Develops leaders, plans for succession, and fosters a high\\-performance culture.\n* Drives top talent acquisition and retention, developing organizational capabilities to drive competitive advantage.\n* Leads and mentors a team with diverse risk and business experience, skills, and orientation.\nLeads, promotes, and reinforces the Bank’s Ambition; personally, role models One Bank leadership; drives sustainable improvements in customer loyalty and business growth; adheres and supports enterprise customer experience and brand standards.  \n* \n\n**Qualifications:**\n\n* 15\\+ years of experience in Internal Audit, Technology Audit, Cybersecurity, or Risk Management within large financial institutions\n* Senior leadership experience overseeing complex technology domains, including cybersecurity, infrastructure, cloud, engineering, technology operations, and operational resilience.\n* Deep expertise in cybersecurity, technology infrastructure, engineering practices, service management, operational resilience, and technology risk management, with proven ability to lead integrated audit programs across multiple risk domains. Proven ability to lead integrated audit programs across multiple risk domains\n* Strong ",
-      "salary": "",
+      "salary": "$160k–$215k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -32,7 +59,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "100 King Street West",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010276930020"
+      ]
     },
     {
       "company": "Atlantic Windoor Ltd",
@@ -68,7 +98,7 @@
       "company_url": "https://ca.indeed.com/cmp/Liteline-Corporation",
       "date_posted": "2026-09-28",
       "description": "Liteline Corporation is a privately held Canadian lighting manufacturer with more than 160 employees across multiple facilities in the Greater Toronto Area. We are adding a Director of Information Technology to our leadership team — a senior role with full ownership of the IT function and a direct hand in how this business operates and grows.\n\nThe scope is deliberately broad. Liteline is investing in artificial intelligence, automation, data infrastructure and connected business systems across the organization, and the Director of Information Technology will lead that work from the front.\n\nThis is an operating role as much as a technical one. The person in this position will work closely with leadership and with departments across the business, including Operations, Customer Service, Sales, Finance, Product Development, Manufacturing, Warehousing and Distribution.\n\n**IT Strategy and Leadership**\n\n* Own and develop Liteline's IT strategy and long\\-term technology roadmap.\n* Partner directly with senior leadership to set technology priorities and identify risks and investment opportunities.\n* Evaluate emerging technologies and determine where they create real operational or commercial value.\n* Maintain and evolve the standards, policies and governance practices a growing organization requires.\n* Lead technology planning across multiple facilities and business functions.\n* Own IT budgets, capital planning, licensing, vendor spend and major technology investments.\n* Lead the internal IT team and the external partners who support IT and set the service standards the business is held to.\n\n**AI, Automation and Digital Transformation**\n\n* Lead Liteline's adoption of artificial intelligence, automation and next\\-generation business technologies.\n* Find the highest\\-value applications for automation across the business and build the case for them.\n* Develop AI and automation solutions that lift productivity, sharpen decision\\-making and strengthen the customer experience.\n* Build the infrastructure and governance required to scale AI responsibly across the organization.\n* Work directly with business leaders to move successful initiatives from experimentation into production.\n* Embed data and automation into everyday business operations.\n\n**Business Systems and Data**\n\n* Own the architecture and ongoing development of Liteline's core business systems.\n* Oversee ERP, databases, reporting systems, integrations and other enterprise applications.\n* Own the platforms supporting our customer\\-facing teams, including order management, pricing and product information.\n* Own system integration and the flow of information between departments and facilities.\n* Lead Liteline's data strategy, covering structure, accessibility, security, integration, reporting and business intelligence.\n* Partner with functions across the business on system capability, visibility and usability.\n* Keep technology platforms scalable and aligned to where the business is heading.\n\n**Cybersecurity, Infrastructure and Business Continuity**\n\n* Own Liteline's cybersecurity strategy, policies, controls and risk\\-management framework.\n* Maintain a strong security posture across endpoints, servers, networks, cloud services, applications and user access.\n* Oversee infrastructure including servers, networking, storage, virtualization, cloud environments and telecommunications.\n* Maintain tested backup, disaster\\-recovery and business\\-continuity capability.\n* Maintain the monitoring, patching and access\\-control practices that keep the environment defensible.\n* Manage external technology and cybersecurity partners.\n* Keep infrastructure stable, secure, scalable and resilient.\n\n**Technology Operations**\n\n* Maintain high availability and reliability across critical systems.\n* Own the service standards, escalation paths and accountability for technology issues.\n* Deliver a technology experience that makes it easy for more than 160 employees to do their best work.\n* Manage relationships with key technology vendors, service providers and consultants.\n* Keep Liteline's platforms and commercial arrangements current, and bring forward stronger options as the market moves.\n* Deliver projects on scope, on schedule and with the documentation to support them.\n\n**WHAT WE ARE LOOKING FOR**\n\nWe are looking for an experienced technology leader who operates comfortably at both the strategic and the technical level.\n\nThe successful candidate will understand enterprise infrastructure, business applications, cybersecurity, data and emerging technologies, and will also understand that technology exists to serve the business. You should be able to step onto the floor, understand how the work is genuinely performed, and design practical solutions that people adopt and keep using.\n\nStrong candidates will bring:\n\n* Significant experience leading information technology in a complex business environment.\n* Strong knowledge of IT infrastructure, networking, servers, cloud technologies and enterprise systems.\n* Experience with cybersecurity strategy, governance, risk management and business continuity.\n* A strong grasp of databases, systems integration, data architecture and business intelligence.\n* Experience with ERP and other enterprise business applications.\n* Practical understanding of artificial intelligence, automation and modern development technologies.\n* A record of leading major technology projects from strategy through implementation.\n* Strong vendor\\-management and commercial\\-negotiation skills.\n* The ability to communicate effectively with senior executives as well as operational and technical stakeholders.\n* Sound business judgment and the ability to prioritize technology initiatives by business impact.\n\n**LOCATION AND WORKING ARRANGEMENT**\n\nThis position is based at Liteline's Richmond Hill head office and is on\\-site five days per week, with regular presence at our distribution facilities.\n\nThe successful candidate should expect to be highly engaged wi",
-      "salary": "",
+      "salary": "$120k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -90,7 +120,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010276878870"
+      ]
     },
     {
       "company": "Aviva Canada",
@@ -147,7 +180,11 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$313k–$330k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010276940489"
+      ]
     },
     {
       "company": "Mars",
