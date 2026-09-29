@@ -1,13 +1,20 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 19:49 UTC*
+*Last updated: 2026-09-29 20:13 UTC*
 
-**2 new role(s)** since last run · 14 total in last 1h
+**4 new role(s)** since last run · 16 total in last 1h
 
-### [Head of Technology and AI](https://www.linkedin.com/jobs/view/4473535192/) — Aequilibrium
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $160,000–$200,000
+### [Interim Senior Vice President, Finance](https://www.linkedin.com/jobs/view/4471947489/) — LHH Knightsbridge
+- 📍 **Location:** Waterloo, Ontario, Canada
 - 🕒 **Posted:** 2026-09-29
 
-### [Film and Television Director of Finance & Administration](https://www.linkedin.com/jobs/view/4471945430/) — Intuitive Pictures
+### [Director of Finance & Operations](https://www.linkedin.com/jobs/view/4471960054/) — Comox Valley Healthcare Foundation
+- 📍 **Location:** Courtenay, British Columbia, Canada
+- 🕒 **Posted:** 2026-09-29
+
+### [VP of Capital Markets & Structured Finance](https://www.linkedin.com/jobs/view/4473088559/) — 1Legion
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Director, Real Property Strategy and Asset Management](https://www.linkedin.com/jobs/view/4462308630/) — Alto
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-09-29
