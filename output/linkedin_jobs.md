@@ -1,12 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 00:04 UTC*
+*Last updated: 2026-09-29 01:27 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Vice President, Product Management, Platform & Innovation](https://www.linkedin.com/jobs/view/4464923076/) — Appfire
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-09-28
+### [Director, Finance](https://www.linkedin.com/jobs/view/4471583609/) — Cambridge Memorial Hospital
+- 📍 **Location:** Cambridge, Ontario, Canada
+- 💰 **Salary:** $155,000 - $185,000
+- 🕒 **Posted:** 2026-09-29
 
-### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4471527045/) — Atlantic Windoor Ltd
-- 📍 **Location:** Saint John, New Brunswick, Canada
-- 🕒 **Posted:** 2026-09-28
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467273679/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-09-29
+
+### [National Director, Credit Structuring ( Real Estate Finance)](https://www.linkedin.com/jobs/view/4467276607/) — BMO
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-09-29
