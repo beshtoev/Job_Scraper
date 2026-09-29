@@ -1,17 +1,27 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 01:44 UTC*
+*Last updated: 2026-09-29 03:00 UTC*
 
-**3 new role(s)** since last run · 28 total in last 24h
+**5 new role(s)** since last run · 31 total in last 24h
 
-### [Director, Enterprise AI Strategy & Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010276953430) — Mevotech
-- 📍 **Location:** North York, Canada
+### [Assistant Vice President, Marketing Automation & Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010277059950) — Morningstar
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $75k–$111k/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010276978952) — Services and Housing In the Province
-- 📍 **Location:** Mississauga, Canada
-- 💰 **Salary:** $99k–$118k/yr
+### [Assistant Vice-President, Research Strategy and Services](https://www.glassdoor.ca/job-listing/j?jl=1010276480773) — McGill University
+- 📍 **Location:** Montreal, Canada
 - 🕒 **Posted:** 2026-09-29
 
-### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010276982882) — Our Place Peel
-- 📍 **Location:** Mississauga, Canada
+### [Chief Financial Officer (CFO)](https://www.glassdoor.ca/job-listing/j?jl=1010275746606) — Confidential
+- 📍 **Location:** Calgary, Canada
+- 💰 **Salary:** $200k–$300k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Director EIAM Strategy &Technical Product Management (Global Security)](https://www.glassdoor.ca/job-listing/j?jl=1010275131480) — Royal Bank of Canada
+- 📍 **Location:** Vancouver, Canada
+- 🕒 **Posted:** 2026-09-27
+
+### [Assistant Director of Finance and Accounting](https://www.glassdoor.ca/job-listing/j?jl=1010277004864) — Marriott International, Inc
+- 📍 **Location:** Moncton, Canada
+- 💰 **Salary:** $65k–$81k/yr
 - 🕒 **Posted:** 2026-09-29

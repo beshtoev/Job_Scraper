@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-09-29 02:52 UTC",
+  "updated_at": "2026-09-29 03:00 UTC",
   "jobs": [
+    {
+      "company": "Marriott International, Inc",
+      "title": "Assistant Director of Finance and Accounting",
+      "location": "Moncton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010277004864",
+      "date_posted": "2026-09-29",
+      "description": "Primary responsibilities include financial analysis and financial reporting, budgeting/forecasting, audit and control, asset and liability reconciliation,…",
+      "salary": "$65k–$81k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-09-29T03:00:20Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (NB)",
+      "geo_city": "Moncton",
+      "geo_province": "NB",
+      "geo_lat": 46.0878,
+      "geo_lon": -64.7782,
+      "geo_distance_km": 1179.6,
+      "geo_rank": 411796,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "CGI",
       "title": "Director - Enterprise Data Warehouse and Data Platforms",
@@ -112,9 +139,9 @@
       "url": "https://builtintoronto.com/job/assistant-vice-president-marketing-automation-analytics/11409891",
       "direct_url": "https://builtintoronto.com/job/assistant-vice-president-marketing-automation-analytics/11409891",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-09-29",
       "date_seen": "2026-09-29T01:36:26Z",
-      "description": "",
+      "description": "Through Morningstar DBRS, we provide independent credit opinions and thought leadership on corporate and sovereign entities, financial institutions, and project…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -134,7 +161,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$75k–$111k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010277059950"
+      ]
     },
     {
       "company": "Cambridge Memorial Hospital",
