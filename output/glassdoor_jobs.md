@@ -1,28 +1,17 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 00:34 UTC*
+*Last updated: 2026-09-29 01:44 UTC*
 
-**5 new role(s)** since last run · 27 total in last 24h
+**3 new role(s)** since last run · 28 total in last 24h
 
-### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010276878870) — Liteline Corporation
-- 📍 **Location:** Richmond Hill, Canada
-- 💰 **Salary:** $120k/yr
+### [Director, Enterprise AI Strategy & Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010276953430) — Mevotech
+- 📍 **Location:** North York, Canada
 - 🕒 **Posted:** 2026-09-29
 
-### [Director, Enterprise AI & Machine Learning Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010276940489) — Instacart
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $313k–$330k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010276978952) — Services and Housing In the Province
+- 📍 **Location:** Mississauga, Canada
+- 💰 **Salary:** $99k–$118k/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [Managing Director - Cybersecurity & Core Technology Audit](https://www.glassdoor.ca/job-listing/j?jl=1010276930020) — BMO Financial Group
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $160k–$215k/yr
-- 🕒 **Posted:** 2026-09-29
-
-### [Director EIAM Strategy &Technical Product Management (Global Security)](https://www.glassdoor.ca/job-listing/j?jl=1010275131480) — Royal Bank of Canada
-- 📍 **Location:** Vancouver, Canada
-- 🕒 **Posted:** 2026-09-27
-
-### [Director, Financial Services](https://www.glassdoor.ca/job-listing/j?jl=1010276891142) — Emily Carr University of Art + Design
-- 📍 **Location:** Vancouver, Canada
-- 💰 **Salary:** $125k–$167k/yr
+### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010276982882) — Our Place Peel
+- 📍 **Location:** Mississauga, Canada
 - 🕒 **Posted:** 2026-09-29
