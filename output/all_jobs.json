@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-09-29 01:27 UTC",
+  "updated_at": "2026-09-29 01:36 UTC",
   "jobs": [
+    {
+      "company": "Morningstar",
+      "title": "Assistant Vice President, Marketing Automation & Analytics",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://builtintoronto.com/job/assistant-vice-president-marketing-automation-analytics/11409891",
+      "direct_url": "https://builtintoronto.com/job/assistant-vice-president-marketing-automation-analytics/11409891",
+      "req_id": "",
+      "date_posted": "",
+      "date_seen": "2026-09-29T01:36:26Z",
+      "description": "",
+      "is_remote": null,
+      "department": "",
+      "ats": "Builtin",
+      "source": "company_portal",
+      "archetype": "D",
+      "first_seen": "2026-09-29T01:36:36Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Cambridge Memorial Hospital",
       "title": "Director, Finance",
@@ -18674,12 +18705,12 @@
       "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
-      "geo_lat": 43.64877,
-      "geo_lon": -79.38169,
-      "geo_distance_km": 6.6,
-      "geo_rank": 66,
-      "geo_source": "posting-address",
-      "geo_confidence": "high",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
       "geo_detail": "100 King Street West",
       "geo_version": 1,
       "duplicate_urls": [
@@ -19230,5 +19261,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 657
 }
