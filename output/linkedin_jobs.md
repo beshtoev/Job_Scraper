@@ -1,8 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 12:43 UTC*
+*Last updated: 2026-09-29 13:05 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Director Resilience CoE - Strategy & Transformation](https://www.linkedin.com/jobs/view/4473239841/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4471042013/) — Vaco by Highspring
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $75.00/hr - CA$85.00/hr
+- 🕒 **Posted:** 2026-09-29
+
+### [Finance Director](https://www.linkedin.com/jobs/view/4473248499/) — Enel North America
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-09-29
