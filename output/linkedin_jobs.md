@@ -1,40 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 17:47 UTC*
+*Last updated: 2026-09-29 18:31 UTC*
 
-**9 new role(s)** since last run · 13 total in last 1h
+**3 new role(s)** since last run · 8 total in last 1h
 
-### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4467281277/) — BDO Canada
-- 📍 **Location:** Oakville, Ontario, Canada
-- 🕒 **Posted:** 2026-09-29
-
-### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4467275360/) — BDO Canada
+### [Director, Business Intelligence & Category Management](https://www.linkedin.com/jobs/view/4471941170/) — Analyticsmart
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-29
 
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4466370947/) — BDO Canada
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 🕒 **Posted:** 2026-09-29
-
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4466365954/) — BDO Canada
-- 📍 **Location:** London, Ontario, Canada
-- 🕒 **Posted:** 2026-09-29
-
-### [Chief Technology Officer (Part-Time/Fractional)](https://www.linkedin.com/jobs/view/4473287309/) — BIMM
+### [Vice President, Product Management, Platform & Innovation](https://www.linkedin.com/jobs/view/4464923076/) — Appfire
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-29
 
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4466372927/) — BDO Canada
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 🕒 **Posted:** 2026-09-29
-
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4466386870/) — BDO Canada
-- 📍 **Location:** Oakville, Ontario, Canada
-- 🕒 **Posted:** 2026-09-29
-
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4466372928/) — BDO Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-09-29
-
-### [Global Ontology and Semantic Data Leader](https://www.linkedin.com/jobs/view/4463291777/) — Schneider Electric
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Head of Enterprise Services - Canada](https://www.linkedin.com/jobs/view/4471944090/) — Siemens Healthineers
+- 📍 **Location:** Edmonton, Alberta, Canada
 - 🕒 **Posted:** 2026-09-29
