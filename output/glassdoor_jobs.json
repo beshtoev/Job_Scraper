@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-29 10:53 UTC",
+  "scraped_at": "2026-09-29 18:09 UTC",
   "total": 25,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Morningstar",
@@ -654,58 +654,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "McGill University",
-      "title": "Assistant Vice-President, Research Strategy and Services",
-      "location": "Montreal, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010276480773",
-      "date_posted": "2026-09-29",
-      "description": "The ideal candidate will possess a graduate degree and a demonstrated record of progressive senior leadership in research administration, research strategy, or…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Montreal",
-      "geo_province": "QC",
-      "geo_lat": 45.5019,
-      "geo_lon": -73.5674,
-      "geo_distance_km": 502.6,
-      "geo_rank": 405026,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Shannex",
-      "title": "National Director of Wellness Strategy",
-      "location": "Halifax, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010277716503",
-      "date_posted": "2026-09-29",
-      "description": "Degree or certification in health, wellness, kinesiology, public health, business, or a related field would be considered an asset.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (NS)",
-      "geo_city": "Halifax",
-      "geo_province": "NS",
-      "geo_lat": 44.6488,
-      "geo_lon": -63.5752,
-      "geo_distance_km": 1264.0,
-      "geo_rank": 412640,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
