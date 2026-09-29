@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-29 18:32 UTC",
+  "scraped_at": "2026-09-29 19:22 UTC",
   "total": 6,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Children's Treatment Network of Simcoe York",
@@ -196,38 +196,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ELECTRICAL SAFETY AUTHORITY",
-      "title": "2026-0077 Director, Strategy and Partnerships",
-      "location": "Mississauga, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=de32e15a55e39b29",
-      "direct_url": "https://careers.esasafe.com/jobs/8468002-2026-0077-director-strategy-and-partnerships",
-      "company_url": "https://ca.indeed.com/cmp/Electrical-Safety-Authority",
-      "date_posted": "2026-09-29",
-      "description": "**Job Type \\& Duration:** Full\\-time, Permanent\n\n**Shift Information:** Monday to Friday, 35 hours per week\n\n**Affiliation:** SLT \\- Senior Leadership Team\n\n**Number of Positions Open:** 1\n\n**Posting Period:** Sept 29 \\- Oct 13/26\n\n**POSITION DESCRIPTION**\n\n\nThe Director, Strategy \\& Partnerships provides leadership for ESA's enterprise strategy function and supports a structured, organization\\-wide approach to strategic partnerships that advance ESA's public safety mandate, strategic plan, modernization agenda, collaboration objectives, and Vision. The role is responsible for leading enterprise strategic planning, strategy execution monitoring, performance measurement and reporting, strategic analysis, and partnership development activities that strengthen organizational alignment, support executive decision\\-making, identify emerging opportunities and risks, and enable achievement of ESA's long\\-term objectives.\n\n\nThe role establishes frameworks, governance processes, and enterprise\\-wide approaches that help translate strategic priorities into actionable initiatives and measurable outcomes across the organization. The role also supports a more deliberate and coordinated approach to identifying, prioritizing, governing, and evaluating strategic partnerships that enhance collaboration, support public safety outcomes, and strengthen ESA's ability to address emerging sector opportunities and challenges.\n\n**ROLE DESCRIPTION**\n\n* Leads the development, coordination, and ongoing refresh of ESA's enterprise strategic planning process, corporate strategic plan, and related strategic planning activities across the organization.\n* Works closely with senior leadership to translate strategic priorities into business plans, operational objectives, implementation roadmaps, and clearly defined accountabilities across the organization.\n* Leads the development and ongoing enhancement of strategic planning, strategy management, and enterprise performance measurement frameworks to strengthen organizational alignment and execution discipline.\n* Monitors organizational progress against strategic objectives and key initiatives, identifying barriers to execution, opportunities, emerging issues, and corrective actions to support achievement of desired outcomes.\n* Facilitates and coordinates, in collaboration with other business functions, enterprise strategic analysis, environmental scanning, research, and evidence\\-based recommendations regarding sector trends, modernization opportunities, emerging risks, public safety priorities, regulatory developments, stakeholder needs, and strategic opportunities that may affect ESA's future direction.\n* Develops executive and Board\\-level briefings, presentations, reports, dashboards, and recommendations that support strategic decision\\-making and enterprise governance processes.\n* Facilitates strategic planning sessions, leadership discussions, and cross\\-functional engagement activities to build alignment around organizational priorities and strategic objectives.\n* Works collaboratively with leaders across ESA to identify and address cross\\-functional dependencies, organizational barriers, and alignment challenges that may impact strategy execution or achievement of enterprise priorities.\n* Supports the development and continuous improvement of governance frameworks, decision\\-making processes, strategic reporting mechanisms, and enterprise planning practices that strengthen organizational effectiveness and accountability.\n* Leads ESA's enterprise partnership strategy and governance framework, including partnership principles, governance processes, prioritization criteria, performance measures, and evaluation approaches that support consistent partnership management across the organization.\n* Identifies, evaluates, and coordinates strategic partnership opportunities that support ESA's public safety mandate, collaboration priorities, modernization objectives, and long\\-term strategic goals.\n* Works with internal stakeholders to assess partnership opportunities, define partnership objectives, establish governance structures, and ensure appropriate alignment with ESA's strategic priorities, regulatory obligations, and organizational capacity, while supporting accountable business areas in the management of partnership relationships.\n* Monitors the effectiveness and outcomes of strategic partnerships and provides enterprise\\-level recommendations to strengthen partnership governance, collaboration, value realization, and achievement of partnership objectives.\n* Develops, monitors and reports on departmental objectives, performance measures and operational plans.\n* Responsible for departmental planning, budget management, resource allocation and oversight.\n* Establishes effective working relationships with internal and external stakeholders and promotes collaboration, partnership, and knowledge sharing across the organization.\n* Ensures team members understand and comply with applicable legal, regulatory, policy, health and safety, and business requirements related to their work.\n* Promotes and models ESA’s values, Code of Conduct and leadership expectations.\n* Fosters a high\\-performing team culture focused on delivery excellence, innovation and customer service.\n\n**QUALIFICATIONS \\& REQUIREMENTS**\n\n* University degree in Business Administration, Public Administration or a related discipline.\n* Minimum 8\\-10 years of progressive experience in strategy, enterprise planning, strategic initiatives, organizational transformation, management consulting, public sector modernization, or related fields, including experience leading teams and advising senior executives.\n* Demonstrated experience leading enterprise strategic planning processes and translating strategy into actionable plans, performance measures, governance mechanisms, and organizational outcomes.\n* Demonstrated experience providing strategic advice, analysis, and recommendations to senior executives, leadership te",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "careers@electricalsafety.on.ca",
-      "ats": "Indeed",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Mississauga",
-      "geo_province": "ON",
-      "geo_lat": 43.589,
-      "geo_lon": -79.6441,
-      "geo_distance_km": 23.9,
-      "geo_rank": 100239,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
