@@ -1,15 +1,19 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 14:58 UTC*
+*Last updated: 2026-09-29 18:08 UTC*
 
-**3 new role(s)** since last run · 246 total in current portal openings
+**4 new role(s)** since last run · 244 total in current portal openings
 
-### [Director, Insurance Data Management Office](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/MISSISSAUGA-Ontario-Canada/Director--Insurance-Data-Management-Office_R-0000178053-1) — RBC
-- 📍 **Location:** MISSISSAUGA, Ontario, Canada
-- 🕒 **Posted:** 2026-09-17
+### [Senior Director, Data & AI, Wealth Management Canada](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--Data---AI--Wealth-Management-Canada_R-0000185853-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-08-27
 
-### [(CAN) Senior Director, Business Intelligence Strategy & Media Insights – Walmart Connect](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Mississauga-ON/XMLNAME--CAN--Senior-Director--Data-Science---Walmart-Connect_R-2474800) — Walmart
-- 📍 **Location:** Mississauga, ON
-- 🕒 **Posted:** 2026-07-21
+### [Associate Director, Global Risk Analytics](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Associate-Director--Global-Risk-Analytics_R-0000188471-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-09-29
 
-### [(CAN) Senior Director, Digital Strategy and Media](https://builtintoronto.com/job/can-senior-director-digital-strategy-and-media/11418736) — Walmart Global Tech
+### [Associate Director, Capital Planning & Reporting](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Associate-Director--Capital-Planning---Reporting_R-0000189225-2) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-09-29
+
+### [(Python) AI Engineer - Vice President](https://builtintoronto.com/job/python-ai-engineer-vice-president/11239033) — Citi
 - 📍 **Location:** Toronto, Ontario, Canada
