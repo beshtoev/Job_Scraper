@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 09:40 UTC",
+  "updated_at": "2026-09-29 10:22 UTC",
   "jobs": [
     {
       "company": "Nexans",
@@ -49,7 +49,12 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4455531937/",
+        "https://www.linkedin.com/jobs/view/4455533919/",
+        "https://www.linkedin.com/jobs/view/4455548003/"
+      ]
     },
     {
       "company": "Shannex Incorporated",
@@ -11844,7 +11849,8 @@
         "https://www.linkedin.com/jobs/view/4470708819/",
         "https://www.linkedin.com/jobs/view/4471063865/",
         "https://www.linkedin.com/jobs/view/4471097037/",
-        "https://www.linkedin.com/jobs/view/4471356028/"
+        "https://www.linkedin.com/jobs/view/4471356028/",
+        "https://www.linkedin.com/jobs/view/4473213744/"
       ]
     },
     {
@@ -19614,5 +19620,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 670
 }

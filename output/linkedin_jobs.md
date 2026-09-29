@@ -1,12 +1,20 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-29 09:40 UTC*
+*Last updated: 2026-09-29 10:22 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**4 new role(s)** since last run · 6 total in last 1h
 
-### [Finance Director, Canada](https://www.linkedin.com/jobs/view/4464438227/) — Nexans
-- 📍 **Location:** Markham, Ontario, Canada
+### [Director, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4455548003/) — Kinaxis
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-29
 
-### [Director, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4455533921/) — Kinaxis
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4455533919/) — Kinaxis
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-09-29
+
+### [Director, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4455531937/) — Kinaxis
+- 📍 **Location:** Québec, Quebec, Canada
+- 🕒 **Posted:** 2026-09-29
+
+### [Chief Financial Officer (CFO) Strategic Business Executive](https://www.linkedin.com/jobs/view/4473213744/) — Grey Eagle Resort & Casino
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-09-29
