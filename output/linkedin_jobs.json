@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29 11:44 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-29 12:02 UTC",
+  "total": 2,
   "new_count": 1,
   "jobs": [
     {
@@ -26,14 +26,12 @@
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1
-    }
-  ],
-  "new_jobs": [
+    },
     {
       "company": "Sun Life",
       "title": "Assistant Vice-President, Technology Lead, Health",
-      "location": "Fairview, Alberta, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4462311283/",
+      "location": "Columbia-Shuswap A, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4462301344/",
       "date_posted": "2026-09-29",
       "salary": "",
       "ats": "LinkedIn",
@@ -41,13 +39,39 @@
       "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Other Canada",
-      "geo_label": "Other Canada (AB)",
-      "geo_city": "Fairview",
-      "geo_province": "AB",
-      "geo_lat": 49.69561,
-      "geo_lon": -112.77577,
-      "geo_distance_km": 2607.5,
-      "geo_rank": 426075,
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Columbia-Shuswap A",
+      "geo_province": "BC",
+      "geo_lat": 51.4106,
+      "geo_lon": -116.46527,
+      "geo_distance_km": 2875.6,
+      "geo_rank": 428756,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Sun Life",
+      "title": "Assistant Vice-President, Technology Lead, Health",
+      "location": "Columbia-Shuswap A, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4462301344/",
+      "date_posted": "2026-09-29",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "You are as unique as your background, experience and point of view. Here, you’ll be encouraged, empowered and challenged to be your best self. You'll work with dynamic colleagues - experts in their fields - who are eager to share their knowledge with you. Your leaders will inspire and help you reach your potential and soar to new heights. Every day, you'll have new and exciting opportunities to make life brighter for our Clients - who are at the heart of everything we do.\n\nAt Sun Life, we're driven by our Purpose: helping our Clients achieve lifetime financial security and live healthier lives. Our values shape how we work: caring, authentic, bold, inspiring, and impactful.\n\nWhen you join Sun Life, you'll work with passionate colleagues and empowering leaders who support your growth and celebrate your contributions, so you can make a meaningful difference in our Clients' lives.\n\nDiscover how you can make a difference in the lives of individuals, families and communities around the world.\n\nJob Description:\n\nThe Opportunity\n\nLead a transformational technology organization powering health and benefits experiences for millions. As the Assistant Vice-President (AVP), Technology Lead\n, you will own one of Sun Life Canada’s largest technology portfolios\nfor health benefits claims adjudication/processing, virtual health, and online pharmacy systems\n.\n\nYou will lead a 250+ person technology professional organization\nincluding 5 Directors across multiple high-performing squads in a matrixed environment. This is your chance to shape strategy, drive modernization, and build a world-class engineering culture that balances breakthrough innovation with operational excellence.\n\nYou'll partner with executives across Architecture, Product, Operations, and Business to define the future of Sun Life's health technology platforms including mission-critical mainframe systems to cutting-edge digital experiences—while managing complex vendor ecosystems and driving sustainable delivery practices.\n\nThis role is highly visible, mission-critical to Sun Life Canada’s core business, strategically influential, and demands a leader who thrives in complexity.\n\nWhy This Role Matters\n\nYou'll lead a strategic inflection point for Sun Life's health benefits claims and on-line health technology organization. Leading one of Sun Life Canada’s largest technology portfolios and 250+ technology professionals, you have the scale, resources, and mandate to drive meaningful modernization while serving millions of members. This is a high-visibility opportunity to influence enterprise technology strategy, build a best-in-class engineering culture, and deliver business impact in a complex, mission-critical environment.\n\nWhat You'll Own\n\nTechnology Strategy & Modernization Leadership\n\nDefine and communicate a compelling technology vision that bridges near-term delivery with long-term platform modernization across health benefits claims, adjudication systems, online health platforms, and core systems of record.\nLead evolution of Sun Life's health technology ecosystem—making bold build vs. buy vs. partner decisions in an extremely large technology portfolio\nChampion modern engineering practices, technology standards, and architectural excellence while actively managing technical debt in complex, non-greenfield environments\nPartner with Business, Architecture, and Enterprise Technology leaders to design resilient, scalable platforms that deliver exceptional member and sponsor experiences\n\nDelivery Excellence at Scale\n\nAccountable for end-to-end delivery across multiple agile squads at varying maturity levels—driving velocity, quality, and reliability improvements\nManage relationships with system integrators and vendors, holding partners accountable for outcomes and knowledge transfer\nServe as the primary escalation point for critical platform and delivery issues in a mission-critical environment\nTransform delivery metrics into actionable insights and drive continuous improvement\n\nPeople Leadership & Culture Building\n\nLead, mentor, and develop 250+ technology professionals across 5 Director level reports and cross-functional teams\nFoster a collaborative, inclusive, execution-focused culture rooted in psychological safety and continuous learning\nDesign high-performing team structures aligned with business outcomes and technical excellence\nBuild and retain technical talent through coaching, career development, and hands-on leadership\n\nFinancial & Strategic Vendor Management\n\nOwn platform budgeting, cost optimization, and capitalization decisions\nManage strategic vendor and SI relationships to maximize delivery quality and ROI\nDrive alignment between IT spend and business value delivery\n\nGovernance & Risk Management\n\nEstablish governance that accelerates delivery while meeting regulatory and security requirements\nEnsure platform stability, security, and effective incident/change management for mission-critical systems\nPartner with Operations on disaster recovery and business continuity for enablement platforms\n\nWho You Are\n\nExperience & Expertise\n\n10+ years in senior technology leadership roles for very large technology portfolios, with proven success delivering complex, mission-critical systems at enterprise scale\nTrack record modernizing and enabling technology platforms.\nExperience working in a health benefits claims / health industry is good to have\nStrong financial acumen—comfortable managing large budgets, vendor portfolios, and ROI optimization\nDemonstrated ability to lead technology teams through transformation while maintaining operational excellence\nKnowledge with Mainframe environments and their integration with modern and digital business-critical systems is good to have\n\nTechnical Credibility & Mindset\n\nStrong technical foundation with the credibility to challenge architecture, delivery practices, CI/CD, and engineering approaches\nBuilder mentality—equally focused on fixing legacy systems, scaling capabilities, and enabling teams\nDecisive leader comfortable making clear decisions amid ambiguity and complexity\nPragmatic, outcomes-driven thinker who balances innovation with stability\nCollaborative leader who rebuilds trust, drives momentum, and fosters transparency\n\nEducation\n\nBachelor's degree in Computer Science, Engineering, or related field (MBA or advanced degree is an asset)\nExperience in regulated health, insurance or financial services is valuable\n\nAs this position is posted in several locations, we specify that bilingualism (French, English, both oral and written) is required for Quebec only as the position includes managing both French and English-speaking staff (Quebec and outside Quebec) and providing daily support to the team.\n\nWhat’s in it for you?\n\nFlexible hybrid work model.\nPension, stock and savings programs to help build and enhance your future financial security\nWork and professional development that is united by our Purpose: to help Clients and Employees achieve lifetime financial security and live healthier lives\nA friendly, collaborative and inclusive culture\nBe part of our continuous improvement journey in developing the next greatest digital enterprise experience.\nCompetitive salary and bonus structure influenced by market range data\nThe opportunity to move along a variety of career paths with amazing networking potential\n\nThe Base Pay range is for the primary location for which the job is posted. It may vary depending on the work location of the successful candidate or other factors. In addition to Base Pay, eligible Sun Life employees participate in various incentive plans, payment under which is discretionary and subject to individual and company performance. Certain sales focused roles have sales incentive plans based on individual or group sales results.\n\nDiversity and inclusion have always been at the core of our values at Sun Life. A diverse workforce with wide perspectives and creative ideas benefits our Clients, the communities where we operate and all of us as colleagues. We welcome applications from qualified individuals from all backgrounds.\n\nPersons with disabilities who need accommodation in the application process, or those needing job postings in an alternative format, may e-mail a request to thebrightside@sunlife.com.\n\nWe are proud to be a hybrid organization that offers our employees the choice and flexibility to work from both the office and virtually based on the needs of the business, our Clients and you.\n\nWe may use artificial intelligence to support candidate sourcing, screening, interview scheduling.\n\nWe thank all applicants for showing an interest in this position. Only those selected for an interview will be contacted.\n\nSalary Range:\n\n145,000/145 000 - 235,000/235 000\n\nJob Category:\n\nProject Management - Systems\n\nPosting End Date:\n\n11/10/2026\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nFinancial Services and Insurance",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Columbia-Shuswap A",
+      "geo_province": "BC",
+      "geo_lat": 51.4106,
+      "geo_lon": -116.46527,
+      "geo_distance_km": 2875.6,
+      "geo_rank": 428756,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
