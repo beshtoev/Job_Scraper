@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-30 00:38 UTC*
+*Last updated: 2026-09-30 01:00 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Associate Director, Global Risk Analytics](https://www.linkedin.com/jobs/view/4473565987/) — RBC
+### [Director, Strategy - Bell AI Fabric, CP4](https://www.linkedin.com/jobs/view/4469270314/) — Bell
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-30
-
-### [Vice President, Product Management, Platform & Innovation](https://www.linkedin.com/jobs/view/4464923076/) — Appfire
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-09-29
