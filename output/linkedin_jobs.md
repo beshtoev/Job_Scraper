@@ -1,20 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-30 15:17 UTC*
+*Last updated: 2026-09-30 15:39 UTC*
 
-**4 new role(s)** since last run · 9 total in last 1h
+**1 new role(s)** since last run · 8 total in last 1h
 
-### [Directeur Financier | Finance Director](https://www.linkedin.com/jobs/view/4369717622/) — Manos Software Group
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-09-30
-
-### [Sr. Director, Enterprise Finance Systems](https://www.linkedin.com/jobs/view/4462547376/) — OpenText
-- 📍 **Location:** Richmond Hill, Ontario, Canada
-- 🕒 **Posted:** 2026-09-30
-
-### [Head, Business Intelligence Unit](https://www.linkedin.com/jobs/view/4473791670/) — National Film Board of Canada
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-09-30
-
-### [Sr. Director, Enterprise Finance Systems](https://www.linkedin.com/jobs/view/4462534571/) — OpenText
-- 📍 **Location:** Waterloo, Ontario, Canada
+### [Sr. Director, Product Strategy (AI, Data, Advertising)](https://www.linkedin.com/jobs/view/4461904999/) — Publicis Groupe Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $160,000.00/yr - CA$210,000.00/yr
 - 🕒 **Posted:** 2026-09-30
