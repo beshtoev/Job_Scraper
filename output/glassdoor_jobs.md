@@ -1,44 +1,56 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-30 13:17 UTC*
+*Last updated: 2026-09-30 22:57 UTC*
 
-**9 new role(s)** since last run · 53 total in last 24h
+**11 new role(s)** since last run · 56 total in last 24h
 
-### [Vice President, Risk Business Management and Governance](https://www.glassdoor.ca/job-listing/j?jl=1010276615389) — TD Bank
+### [Head of Market Intelligence & Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010280367413) — Northland Power
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $185k–$275k/yr
-- 🕒 **Posted:** 2026-09-29
+- 💰 **Salary:** $174k–$217k/yr
+- 🕒 **Posted:** 2026-09-30
 
-### [Associate Director, Global Risk Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010278986712) — Royal Bank of Canada
+### [Chef(fe) de l’analyse marketing / Head of Marketing Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010279727234) — Manmade Products for Men
+- 📍 **Location:** Montreal, Canada
+- 🕒 **Posted:** 2026-09-30
+
+### [Associate Director, Information Security](https://www.glassdoor.ca/job-listing/j?jl=1010279341346) — Algonquin College
+- 📍 **Location:** Ottawa, Canada
+- 💰 **Salary:** $120k–$160k/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Director, Data & Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010279583447) — University Pension Plan
 - 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-09-30
 
-### [Associate Director, Commercial Banking Financial Control](https://www.glassdoor.ca/job-listing/j?jl=1010278986692) — Royal Bank of Canada
+### [AVP, Strategic Programs, Innovation, Insights and Regulatory Operations](https://www.glassdoor.ca/job-listing/j?jl=1010280355247) — Sun Life
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $140k–$225k/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Associate Director, Capital Planning & Reporting](https://www.glassdoor.ca/job-listing/j?jl=1010278986634) — Royal Bank of Canada
+### [Associate Director, Scientific Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010279850423) — Klick Health
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $125k–$150k/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [(CAN) Senior Director, Digital Strategy and Media](https://www.glassdoor.ca/job-listing/j?jl=1010278135360) — Walmart Canada
-- 📍 **Location:** Mississauga, Canada
+### [Director, Finance and Enterprise Services | National Office](https://www.glassdoor.ca/job-listing/j?jl=1010279273771) — St. John Ambulance
+- 📍 **Location:** Ottawa, Canada
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010276389845) — Atlantic Windoor Ltd
-- 📍 **Location:** Saint John, Canada
-- 💰 **Salary:** $80k–$120k/yr
+### [Director, Finance](https://www.glassdoor.ca/job-listing/j?jl=1010279374262) — Bruyère Health
+- 📍 **Location:** Ottawa, Canada
+- 💰 **Salary:** $162k–$192k/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Director, Operations Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010280355239) — Sun Life
+- 📍 **Location:** Waterloo, Canada
+- 💰 **Salary:** $110k–$180k/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Assistant Director of Finance and Accounting](https://www.glassdoor.ca/job-listing/j?jl=1010277004864) — Marriott International, Inc
+- 📍 **Location:** Moncton, Canada
+- 💰 **Salary:** $65k–$81k/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [Director of Finance & Administration](https://www.glassdoor.ca/job-listing/j?jl=1010276761998) — Xatsull First Nation (Soda Creek Indian Band)
-- 📍 **Location:** Williams Lake, Canada
-- 💰 **Salary:** $92k–$130k/yr
-- 🕒 **Posted:** 2026-09-29
-
-### [Director Quality Science & Technology](https://www.glassdoor.ca/job-listing/j?jl=1010276581525) — BioVectra Inc.
-- 📍 **Location:** Charlottetown, Canada
-- 💰 **Salary:** $131k–$205k/yr
-- 🕒 **Posted:** 2026-09-29
-
-### [National Director of Wellness Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010277716503) — Shannex
-- 📍 **Location:** Halifax, Canada
-- 🕒 **Posted:** 2026-09-29
+### [Director, Global Strategy - Enterprise Planning](https://www.glassdoor.ca/job-listing/j?jl=1010278693422) — Arc'teryx
+- 📍 **Location:** North Vancouver, Canada
+- 💰 **Salary:** $149k–$195k/yr
+- 🕒 **Posted:** 2026-09-30
