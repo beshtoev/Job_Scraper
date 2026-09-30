@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-30 19:53 UTC",
+  "updated_at": "2026-09-30 20:43 UTC",
   "jobs": [
+    {
+      "company": "Oakbridge Search Partners",
+      "title": "Vice President of Financial Planning Analysis",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4473953533/",
+      "date_posted": "2026-09-30",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "VP of Finance\n\nHybrid (2 Days in Vaughan)\n\nOakbridge Search Partners has been retained by a leading, multi-entity Canadian services organization to hire a VP of FP&A. This is a ground-floor opportunity to build the finance function for a new initiative with the backing of an established parent organization.\n\nThe Opportunity\n\nAs VP of Finance, you'll own financial management, reporting, and controls for a complex, multi-workstream initiative. You'll lead budgeting, forecasting, treasury, and audit, design processes and controls from scratch, and report into the broader organization. This role is for a builder who takes ownership, makes decisions independently, and wants to shape something from day one.\n\nWhat You'll Do\n\nOwn financial tracking and reporting (monthly, quarterly, and ad hoc) for leadership and the ownership group\nBuild and maintain budgets and forecasts across all workstreams; monitor variances and recommend corrective action\nLead treasury management and the annual audit process\nDesign and implement financial processes and internal controls\nReview vendor contracts, invoices, and POs, and support procurement decisions with financial analysis\nPartner with Project Managers and Leadership to provide financial input into planning and prioritization\nIdentify and mitigate financial risk while ensuring compliance with policies and standards\n\nWhat You Bring\n\nCPA designation (CA, CMA, or CGA legacy designations accepted)\n8 to 12 years of progressive finance experience, including 3 to 5 years in a senior finance leadership role\nDirect experience managing an annual audit and preparing financials under ASPE\nStrong technical accounting skills and Canadian tax knowledge (corporate income tax, GST/HST, payroll compliance)\nProficiency with accounting software (QuickBooks, Sage, NetSuite, or similar) and advanced Excel modelling\nComfort operating at both a strategic and hands-on level, from presenting to ownership to booking a month-end entry\nExperience managing financials for projects, operations, or business units in a fast-paced, multi-stakeholder environment\nNice to have: experience in project-based environments (construction, technology, implementation, or consulting), procurement and vendor management, or system implementation projects\n\nLocation & Travel\n\nHybrid, with two days per week in office at one of the organization's Ontario locations, plus travel to other Ontario sites approximately twice per month.\n\nWhat's Offered\n\nComprehensive health, dental, and vision benefits, plus mental health and wellness resources\nThree weeks of vacation to start, paid sick and personal days\nFull company shutdown between Christmas and New Year's\nA collaborative, supportive culture with a genuine commitment to growth and development\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nVenture Capital and Private Equity Principals",
+      "first_seen": "2026-09-30T20:43:45Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Greater Toronto Area",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 100061,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "centre of Greater Toronto Area",
+      "geo_version": 1
+    },
     {
       "company": "JAM Industries",
       "title": "Bureau de la transformation numérique / Digital Transformation Office - Directeur(trice) de projet, Transformation financière / Finance Transformation Project Director",
