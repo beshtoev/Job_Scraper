@@ -1,23 +1,23 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-09-30 04:35 UTC*
+*Last updated: 2026-09-30 05:39 UTC*
 
-**4 new role(s)** since last run · 49 total in last 24h
+**4 new role(s)** since last run · 50 total in last 24h
 
-### [Director of Finance (NPO)](https://www.glassdoor.ca/job-listing/j?jl=1010278182242) — WilsonCTS
-- 📍 **Location:** North York, Canada
-- 💰 **Salary:** $110k–$130k/yr
+### [Associate Director, AI and Automation](https://www.glassdoor.ca/job-listing/j?jl=1010278733143) — Thompson Rivers University
+- 📍 **Location:** Kamloops, Canada
 - 🕒 **Posted:** 2026-09-30
 
-### [Director Resilience CoE - Strategy & Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010278644301) — Royal Bank of Canada
+### [Director, Enterprise Security & IT](https://www.glassdoor.ca/job-listing/j?jl=1010278809068) — Klue
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $155k–$200k/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010278101472) — FED Finance
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $150k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010278728753) — MacKay Contracting
+- 📍 **Location:** Cranbrook, Canada
+- 💰 **Salary:** $100k–$150k/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Chief Financial Officer (CFO)](https://www.glassdoor.ca/job-listing/j?jl=1010275746606) — Confidential
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $200k–$300k/yr
-- 🕒 **Posted:** 2026-09-28
+### [Director, Global Strategy - Enterprise Planning](https://www.glassdoor.ca/job-listing/j?jl=1010278693422) — Arc'teryx
+- 📍 **Location:** North Vancouver, Canada
+- 💰 **Salary:** $149k–$195k/yr
+- 🕒 **Posted:** 2026-09-30
