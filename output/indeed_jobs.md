@@ -1,5 +1,5 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-01 11:15 UTC*
+*Last updated: 2026-10-01 12:47 UTC*
 
 **0 new role(s)** since last run · 4 total in last 24h
 
