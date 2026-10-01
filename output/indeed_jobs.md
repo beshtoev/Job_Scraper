@@ -1,6 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-01 15:49 UTC*
+*Last updated: 2026-10-01 16:37 UTC*
 
-**0 new role(s)** since last run · 5 total in last 24h
+**1 new role(s)** since last run · 6 total in last 24h
 
-No new roles since the last run.
+### [Director, Finance](https://ca.indeed.com/viewjob?jk=9821f62ae5181c5d) — Conagra Brands
+- 📍 **Location:** Mississauga, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
