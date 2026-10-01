@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-01 21:44 UTC",
+  "scraped_at": "2026-10-01 22:31 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "TMX GROUP",
@@ -260,38 +260,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Citi",
-      "title": "Agentic AI Lead Engineer - Vice President",
-      "location": "Mississauga, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=9a80b91befabfa30",
-      "direct_url": "https://jobs.citi.com/job/mississauga/agentic-ai-lead-engineer-vice-president/287/101394277520",
-      "company_url": "https://ca.indeed.com/cmp/Citi",
-      "date_posted": "2026-10-01",
-      "description": "**Discover your future at Citi**\n--------------------------------\n\n\nWorking at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n\n**Job Overview**\n----------------\n\n\nCiti is looking for a hands on Technical Lead to shape the engineering foundation of its Services AI Platform a multi\\-tenant, production\\-grade ecosystem where agentic AI meets enterprise scale. In this player\\-coach role, you will write production code and set the technical direction for the platform, ensuring it is built on principles of trust, operational resilience, and scalability. You will translate complex enterprise workflows into intelligent, automated systems that deliver measurable business impact across Citi's global operations.\n\n\n**Responsibilities**\n\n\n* Architect and build full\\-stack AI platform components using Python and Angular, including internal large language model fine\\-tuning interfaces and experiment tracking dashboards.\n* Design and optimize multi\\-tenant intelligent agents using modular orchestration patterns — including ReAct and ReWOO — to power scalable, production\\-ready agentic workflows.\n* Build Model Context Protocol servers that enforce clean, decoupled communication layers, ensuring agents interact exclusively through defined API boundaries without direct database access.\n* Develop next\\-generation retrieval\\-augmented generation pipelines, including Knowledge Graph RAG, LightRAG, and RAPTOR hierarchical summary architectures, to enable sophisticated enterprise data retrieval.\n* Integrate vector and graph databases — such as Neo4j and pgvector — to support complex, thematic data retrieval at platform scale.\n* Design precise prompt and intent classification logic that prevents workflow collisions and ensures each agent instruction is handled with high accuracy.\n* Partner directly with subject matter experts to translate deep domain knowledge into automated, agent\\-driven solutions, and collaborate with UI and API teams to deliver seamless end\\-to\\-end integrations.\n\n**Required Qualifications \\& Skills**\n\n\n* 10 or more years of software engineering experience, with at least 5 years focused on AI and machine learning solutions delivered in production environments.\n* 2 or more years of hands\\-on experience in Generative AI, including large language model development, retrieval\\-augmented generation, and prompt engineering.\n* 3 or more years leading technical teams and owning delivery of complex software or AI platforms end to end.\n* Deep practical experience with AWS infrastructure and services for AI and machine learning workloads.\n* A demonstrated portfolio of AI solutions successfully deployed into live business environments, evidencing both technical depth and delivery ownership.\n* Bachelor's or Master's degree in Computer Science, Data Science, Artificial Intelligence, or a closely related field.\n  \n\n  \n\n**Education**\n\n\n* Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or a related field\n\n**What We Offer**\n\n\nAt Citi, you will work at the forefront of enterprise AI engineering within a global platform team that values technical excellence, collaboration, and meaningful business impact. This is a role where your code ships to production, your architectural decisions shape the platform, and your leadership directly influences the capability and performance of the team around you.\n\n\n* Hybrid working model with 3 days in the office and 2 days working remotely, giving you structure alongside genuine flexibility.\n* Access to cutting\\-edge AI infrastructure, tools, and frameworks that keep you at the leading edge of the field.\n* Continuous learning and development support, including access to technical training, industry conferences, and structured career growth pathways.\n* The opportunity to lead high\\-impact engineering at global scale, with your work directly influencing how Citi builds and deploys intelligent automation across the enterprise.\n* Competitive compensation and a comprehensive financial wellbeing package reflective of a Vice President\\-level position at a leading global institution.\n* Wellbeing support programs that help you maintain balance and perform at your best over the long term.\n\nBuild the AI platform that powers Citi's next generation of intelligent automation — apply now and bring your engineering leadership to one of the most technically ambitious platforms in global financial services.\n\n  \n\n  \n\n\\#LI\\-MB1\n\n\n\\-\n\n\n**Job Family Group:**\n---------------------\n\nTechnology\n\\-\n\n\n**Job Family:**\n---------------\n\n\nApplications Development\n\\-\n\n\n**Time Type:**\n--------------\n\n\nFull time\n\\-\n\n\n**Primary Location Full Time Salary Range:**\n--------------------------------------------\n\n\n$120,800\\.00 \\- $170,800\\.00\n\\-\n\n\n**Most Relevant Skills**\n------------------------\n\nPlease see the requirements listed above.\n\\-\n\n\n**Other Relevant Skills**\n-------------------------\n\nFor complementary skills, please see above and/or contact the recruiter.\n\\-\n\n\n**Automated Processing and AI**\n-------------------------------\n\n\nWe use automated processing, including artificial intelligence, for our legitimate business interests (or our reasonable and appropriate business purposes) to identify and align the candidate's skills and abilities with a specific job opening. Additionally, if you so choose, or consent, we can match your skills and abilities to other suitable roles at Citi.\n\n\nImportantly, all our hiring processes and decisions, including determining your suitability for a role, are conducted, checked, and decided by individuals. Our automated processing and AI do not involve relying on automatic or autonomous decision\\-making. Please refer to any Jurisdictional Considerations, with specific provisions for your country (where relevant) for further details.\n\n\n\\-\n\n\n*This job opening is ",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
-      "geo_city": "Mississauga",
-      "geo_province": "ON",
-      "geo_lat": 43.589,
-      "geo_lon": -79.6441,
-      "geo_distance_km": 23.9,
-      "geo_rank": 300239,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
