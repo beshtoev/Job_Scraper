@@ -1,26 +1,19 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-01 20:20 UTC*
+*Last updated: 2026-10-01 23:35 UTC*
 
-**6 new role(s)** since last run · 230 total in current portal openings
+**4 new role(s)** since last run · 231 total in current portal openings
 
-### [Director Analytics Engineering](https://jobs.ashbyhq.com/1password/32eb8288-f53a-40f6-9c90-1a0063bcabca) — 1Password
-- 📍 **Location:** Remote (United States | Canada)
-- **Work mode:** Remote in-state eligible
+### [Director, Commercial Banking (Financial Services Group)](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Commercial-Banking--Financial-Services-Group-_R260028090) — BMO
+- 📍 **Location:** Toronto, ON, CAN
 - 🕒 **Posted:** 2026-10-01
 
-### [Director, Data Scouting](https://cppib.wd10.myworkdayjobs.com/en-US/cppinvestments/job/Toronto/Director--Data-Scouting_JR00441) — Cppib
-- 📍 **Location:** Toronto
+### [Directeur(trice) principal(e) de l’architecture de solutions/Senior Director, Solution Architecture](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Saint-Laurent-QC-CAN---4705-Dobrin-Street-MC41/Directeur-trice--principal-e--de-l-architecture-de-solutions-Senior-Director--Solution-Architecture_JR0151451) — Mckesson
+- 📍 **Location:** Saint-Laurent, QC, CAN - 4705 Dobrin Street (MC41)
 - 🕒 **Posted:** 2026-10-01
 
-### [Director, Third Party Risk Management – Quality Assurance & Governance (Line 1B)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Director--Third-Party-Risk-Management---Quality-Assurance---Governance--Line-1B-_JR26071321) — Manulife
-- 📍 **Location:** Toronto, Ontario
+### [Director, Technology Product Strategy](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Technology-Product-Strategy_R-0000172019-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
 - 🕒 **Posted:** 2026-10-01
 
-### [Director, Third Party Risk Management – Quality Assurance & Governance (Line 1B)](https://builtintoronto.com/job/director-third-party-risk-management-quality-assurance-governance-line-1b/10442616) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Director Analytics Engineering](https://builtintoronto.com/job/director-analytics-engineering/10782348) — 1Password
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Senior Java Developer - Equities Trading Technology - Vice President](https://builtintoronto.com/job/senior-java-developer-equities-trading-technology-vice-president/11332477) — Citi
+### [Director, EAML Strategy & Reporting](https://builtintoronto.com/job/director-eaml-strategy-reporting/11471419) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
