@@ -1,21 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-01 09:22 UTC*
+*Last updated: 2026-10-01 10:14 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 7 total in last 1h
 
-### [Director of Engineering, Operations Planning](https://www.linkedin.com/jobs/view/4455783600/) — HelloFresh
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $174,300—$184,300
+### [Director of Enterprise Architecture - Information Technology](https://www.linkedin.com/jobs/view/4463070667/) — Alberta Blue Cross
+- 📍 **Location:** Edmonton, Alberta, Canada
 - 🕒 **Posted:** 2026-10-01
 
-### [Director of Product, Content Intelligence & Growth](https://www.linkedin.com/jobs/view/4452878316/) — Scribd, Inc.
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Directeur.trice associé.e en technologie – Associate Director of Technology - Beenox](https://www.linkedin.com/jobs/view/4400904211/) — Activision
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-01
 
-### [Director of Product, Content Intelligence & Growth](https://www.linkedin.com/jobs/view/4452881305/) — Scribd, Inc.
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 🕒 **Posted:** 2026-10-01
-
-### [Director of Product, Content Intelligence & Growth](https://www.linkedin.com/jobs/view/4452873328/) — Scribd, Inc.
-- 📍 **Location:** Vancouver, British Columbia, Canada
+### [Chief Financial Officer (CFO) Strategic Business Executive](https://www.linkedin.com/jobs/view/4472546051/) — Grey Eagle Resort & Casino
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-10-01
