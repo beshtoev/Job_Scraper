@@ -1,8 +1,40 @@
 {
-  "scraped_at": "2026-10-01 19:08 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-10-01 20:00 UTC",
+  "total": 8,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "TMX GROUP",
+      "title": "Technology Lead, Enterprise Platforms & Operation (Director)",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=eb9f1f14e486ab86",
+      "direct_url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Technology-Lead--Enterprise-Platforms---Operation-Director-_R-6464",
+      "company_url": "https://ca.indeed.com/cmp/Tmx-Group",
+      "date_posted": "2026-10-01",
+      "description": "**Venture outside the ordinary \\- TMX Careers**\n\nThe TMX group of companies includes leading global exchanges such as the Toronto Stock Exchange, Montreal Exchange, and numerous innovative organizations enhancing capital markets. United as a global team, we’re connecting cross\\-functionally, traversing industries and geographies, moving opportunity into action, advancing global economic growth, and propelling progress. Through a rich exchange of ideas, meaningful collaboration, and a nimble operating model, we're powering some of the nation's most critical systems, fueling capital formation and innovation, bringing increased opportunity to business visionaries, product ingenuity to consumers, and career exploration to our team.\n\n\n**Ready to be part of the action?**\n\n  \n\nWe are seeking a strategic, highly collaborative technology leader to take comprehensive ownership of our enterprise platforms and corporate ecosystem. As the **Technology Lead, Enterprise Platforms and Operations** , you will drive a holistic strategy to modernize our digital workplace, transforming disconnected processes and siloed applications into an integrated, frictionless employee experience.  \n\n\n\n  \n\nGrounded in a workflow\\-first methodology, you will champion operational excellence across core productivity suites, workflow automation, custom web tools, and emerging AI technologies. You will act as the organizational \"switchboard,\" bridging technical teams and executive business partners to ensure our technology portfolio directly enables business capabilities, scales efficiency, and delivers maximum ROI.\n\n\n* **This role reports to:** Head of Corporate Technology Services\n* **Job Location:** Hybrid (2\\-3 days in office) \\- based in Toronto, ON (100 Adelaide St W)\n\n  \n\n**Key Accountabilities:**\n\n* **Strategic Leadership \\& Platform Governance:** Define and execute a multi\\-year strategic vision for core enterprise platforms—including Google Workspace, ServiceNow, Web/Digital platforms, desktop applications, and Gemini/AI initiatives. Establish governance, lifecycle management, and security guardrails in partnership with Cybersecurity and Risk teams.\n* **Ecosystem Synergy \\& Debt Reduction:** Architect seamless integrations across disparate systems to remove operational friction, eliminate redundant applications, and systematically reduce technical debt. Map platform capabilities directly to business capabilities and the service catalog.\n* **Process Orchestration \\& Automation:** Function as the central architect for workflow design, ensuring business processes are thoroughly re\\-engineered before applying automation to high\\-volume or high\\-friction areas.\n* **Service Management \\& Analytics:** Establish and enforce rigorous Service Level Agreements (SLAs). Build data\\-driven performance dashboards to monitor platform health, user adoption rates, and license utilization to hold service owners strictly accountable.\n* **Stakeholder Engagement \\& Change Management:** Partner closely with Technology Leaders, HRIS/Finance Directors, and shared IT service teams to align platform roadmaps with business goals. Collaborate with HR and Internal Communications to drive adoption and training campaigns.\n* **Vendor \\& Budget Optimization:** Direct strategic vendor relationships, negotiate contracts, and align software roadmaps (including disruptive AI capabilities) to optimize SaaS spend and realize strong ROI.\n* **Team Leadership \\& Development:** Lead, mentor, and empower a high\\-performing team of platform managers, API developers, and technical specialists, fostering a culture of accountability, continuous upskilling, and innovation.\n\n  \n\n**Must Have(s):**\n\n* **Education:** Bachelor’s degree in Computer Science, Information Technology, Business Administration, or a related field (Master’s or MBA preferred).\n* **Overall Experience:** 10 to 12\\+ years of progressive leadership experience within IT operations, enterprise applications, or workplace technology environments.\n* **People Management:** 5\\+ years of dedicated experience leading and mentoring high\\-performing software engineering or platform management teams.\n* **Platform Mastery:** Proven track record of managing enterprise\\-scale deployments of core platforms such as Google Workspace, ServiceNow (ITSM/ITOM), and Enterprise ERP environments.\n* **Modern Technical Acumen:** Deep familiarity with web architectures, API integrations, desktop application management, and agile product management workflows.\n* **Emerging Tech Proficiency:** Practical experience integrating emerging AI tools, prompt engineering, and machine learning capabilities into existing enterprise suites.\n* **Strategic \\& Financial Mindset:** Strong capabilities in budget oversight, vendor management, process optimization, and executive\\-level stakeholder management.\n\n  \n\n**Nice to Have(s):**\n\n* Experience managing IT platform transformation within global or multi\\-office enterprise environments.\nAdvanced certifications in ServiceNow, Google Workspace Administration, or ITIL Frameworks.  \n* \n\n  \n\n**Salary Range:** $160,000K/year \\- $180,000K/year CAD. Please note that the salary range included is a guideline only. The salary offered may vary based on factors, including, but not limited to, the successful candidate’s relevant knowledge, skills, and experience.  \n\n\n\n  \n\n*The recruiting efforts for this role are intended to fill a vacant position.*\n\n**In the market for…**\n\n**Excitement** \\- Explore emerging technology and innovation, as well as ventures and digital finance that shape the future of global markets! Experience the movement of the market while grounded in the stability of close to 200 years of success.\n\n\n**Connection** \\- With site hubs in some of the world’s most multicultural cities, we leverage our size and structure to create rich connections and belonging while experiencing powerful global impact through our work.\n\n\n**Impact** \\- More than a platform, we use our talents to power mission\\-c",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.64965,
+      "geo_lon": -79.38233,
+      "geo_distance_km": 6.5,
+      "geo_rank": 65,
+      "geo_source": "posting-address",
+      "geo_confidence": "high",
+      "geo_detail": "100 Adelaide St W",
+      "geo_version": 1
+    },
     {
       "company": "NORTHLAND POWER",
       "title": "Head of Market Intelligence & Analytics",
@@ -228,5 +260,38 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "TMX GROUP",
+      "title": "Technology Lead, Enterprise Platforms & Operation (Director)",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=eb9f1f14e486ab86",
+      "direct_url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Technology-Lead--Enterprise-Platforms---Operation-Director-_R-6464",
+      "company_url": "https://ca.indeed.com/cmp/Tmx-Group",
+      "date_posted": "2026-10-01",
+      "description": "**Venture outside the ordinary \\- TMX Careers**\n\nThe TMX group of companies includes leading global exchanges such as the Toronto Stock Exchange, Montreal Exchange, and numerous innovative organizations enhancing capital markets. United as a global team, we’re connecting cross\\-functionally, traversing industries and geographies, moving opportunity into action, advancing global economic growth, and propelling progress. Through a rich exchange of ideas, meaningful collaboration, and a nimble operating model, we're powering some of the nation's most critical systems, fueling capital formation and innovation, bringing increased opportunity to business visionaries, product ingenuity to consumers, and career exploration to our team.\n\n\n**Ready to be part of the action?**\n\n  \n\nWe are seeking a strategic, highly collaborative technology leader to take comprehensive ownership of our enterprise platforms and corporate ecosystem. As the **Technology Lead, Enterprise Platforms and Operations** , you will drive a holistic strategy to modernize our digital workplace, transforming disconnected processes and siloed applications into an integrated, frictionless employee experience.  \n\n\n\n  \n\nGrounded in a workflow\\-first methodology, you will champion operational excellence across core productivity suites, workflow automation, custom web tools, and emerging AI technologies. You will act as the organizational \"switchboard,\" bridging technical teams and executive business partners to ensure our technology portfolio directly enables business capabilities, scales efficiency, and delivers maximum ROI.\n\n\n* **This role reports to:** Head of Corporate Technology Services\n* **Job Location:** Hybrid (2\\-3 days in office) \\- based in Toronto, ON (100 Adelaide St W)\n\n  \n\n**Key Accountabilities:**\n\n* **Strategic Leadership \\& Platform Governance:** Define and execute a multi\\-year strategic vision for core enterprise platforms—including Google Workspace, ServiceNow, Web/Digital platforms, desktop applications, and Gemini/AI initiatives. Establish governance, lifecycle management, and security guardrails in partnership with Cybersecurity and Risk teams.\n* **Ecosystem Synergy \\& Debt Reduction:** Architect seamless integrations across disparate systems to remove operational friction, eliminate redundant applications, and systematically reduce technical debt. Map platform capabilities directly to business capabilities and the service catalog.\n* **Process Orchestration \\& Automation:** Function as the central architect for workflow design, ensuring business processes are thoroughly re\\-engineered before applying automation to high\\-volume or high\\-friction areas.\n* **Service Management \\& Analytics:** Establish and enforce rigorous Service Level Agreements (SLAs). Build data\\-driven performance dashboards to monitor platform health, user adoption rates, and license utilization to hold service owners strictly accountable.\n* **Stakeholder Engagement \\& Change Management:** Partner closely with Technology Leaders, HRIS/Finance Directors, and shared IT service teams to align platform roadmaps with business goals. Collaborate with HR and Internal Communications to drive adoption and training campaigns.\n* **Vendor \\& Budget Optimization:** Direct strategic vendor relationships, negotiate contracts, and align software roadmaps (including disruptive AI capabilities) to optimize SaaS spend and realize strong ROI.\n* **Team Leadership \\& Development:** Lead, mentor, and empower a high\\-performing team of platform managers, API developers, and technical specialists, fostering a culture of accountability, continuous upskilling, and innovation.\n\n  \n\n**Must Have(s):**\n\n* **Education:** Bachelor’s degree in Computer Science, Information Technology, Business Administration, or a related field (Master’s or MBA preferred).\n* **Overall Experience:** 10 to 12\\+ years of progressive leadership experience within IT operations, enterprise applications, or workplace technology environments.\n* **People Management:** 5\\+ years of dedicated experience leading and mentoring high\\-performing software engineering or platform management teams.\n* **Platform Mastery:** Proven track record of managing enterprise\\-scale deployments of core platforms such as Google Workspace, ServiceNow (ITSM/ITOM), and Enterprise ERP environments.\n* **Modern Technical Acumen:** Deep familiarity with web architectures, API integrations, desktop application management, and agile product management workflows.\n* **Emerging Tech Proficiency:** Practical experience integrating emerging AI tools, prompt engineering, and machine learning capabilities into existing enterprise suites.\n* **Strategic \\& Financial Mindset:** Strong capabilities in budget oversight, vendor management, process optimization, and executive\\-level stakeholder management.\n\n  \n\n**Nice to Have(s):**\n\n* Experience managing IT platform transformation within global or multi\\-office enterprise environments.\nAdvanced certifications in ServiceNow, Google Workspace Administration, or ITIL Frameworks.  \n* \n\n  \n\n**Salary Range:** $160,000K/year \\- $180,000K/year CAD. Please note that the salary range included is a guideline only. The salary offered may vary based on factors, including, but not limited to, the successful candidate’s relevant knowledge, skills, and experience.  \n\n\n\n  \n\n*The recruiting efforts for this role are intended to fill a vacant position.*\n\n**In the market for…**\n\n**Excitement** \\- Explore emerging technology and innovation, as well as ventures and digital finance that shape the future of global markets! Experience the movement of the market while grounded in the stability of close to 200 years of success.\n\n\n**Connection** \\- With site hubs in some of the world’s most multicultural cities, we leverage our size and structure to create rich connections and belonging while experiencing powerful global impact through our work.\n\n\n**Impact** \\- More than a platform, we use our talents to power mission\\-c",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.64965,
+      "geo_lon": -79.38233,
+      "geo_distance_km": 6.5,
+      "geo_rank": 65,
+      "geo_source": "posting-address",
+      "geo_confidence": "high",
+      "geo_detail": "100 Adelaide St W",
+      "geo_version": 1
+    }
+  ]
 }
