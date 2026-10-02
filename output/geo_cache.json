@@ -203,7 +203,19 @@
       45.4856917,
       -73.596562
     ],
-    "can - 4705 dobrin street, qc, canada": null
+    "can - 4705 dobrin street, qc, canada": null,
+    "abbotsford, bc, canada": [
+      49.0521162,
+      -122.329479
+    ],
+    "woodstock, on, canada": [
+      43.1301111,
+      -80.7562977
+    ],
+    "woolwich, on, canada": [
+      43.5665497,
+      -80.4995154
+    ]
   },
   "research": {}
 }
