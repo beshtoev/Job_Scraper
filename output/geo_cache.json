@@ -51,6 +51,10 @@
       43.7110013,
       -79.3996631
     ],
+    "25 ontario street, toronto, canada": [
+      43.65254,
+      -79.366284
+    ],
     "25 ontario street, toronto, on, canada": [
       43.65254,
       -79.366284
@@ -91,6 +95,10 @@
       43.7597363,
       -79.5327235
     ],
+    "abbotsford, bc, canada": [
+      49.0521162,
+      -122.329479
+    ],
     "baie-d’urfé, qc, canada": [
       45.4174258,
       -73.9153643
@@ -111,6 +119,7 @@
       45.9593092,
       -66.6362825
     ],
+    "can - 4705 dobrin street, qc, canada": null,
     "can - 9200 des générations blvd, qc, canada": [
       45.6375411,
       -73.5587317
@@ -202,11 +211,6 @@
     "westmount, qc, canada": [
       45.4856917,
       -73.596562
-    ],
-    "can - 4705 dobrin street, qc, canada": null,
-    "abbotsford, bc, canada": [
-      49.0521162,
-      -122.329479
     ],
     "woodstock, on, canada": [
       43.1301111,
