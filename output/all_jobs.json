@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-02 20:18 UTC",
+  "updated_at": "2026-10-02 20:27 UTC",
   "jobs": [
+    {
+      "company": "Blossom Group",
+      "title": "Director of Finance",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010283764559",
+      "date_posted": "2026-10-02",
+      "description": "Blossom Group is a CARE based organization that provides therapeutic live in programs, we support children, youth, and adults through a range of cognitive,…",
+      "salary": "$85k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-02T20:27:15Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Blossom Group",
       "title": "Director of Finance",
@@ -205,7 +232,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010283675108"
+      ]
     },
     {
       "company": "Blend",
@@ -5464,7 +5494,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010278728753"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010278728753",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010283798721"
       ]
     },
     {
@@ -26879,5 +26910,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 928
 }
