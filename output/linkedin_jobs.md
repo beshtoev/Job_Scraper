@@ -1,18 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 07:47 UTC*
+*Last updated: 2026-10-02 08:40 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Executive Vice President and Chief Financial Officer, Trilogy (Remote) - $800,000/year USD](https://www.linkedin.com/jobs/view/4471947618/) — Crossover
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $400.00/hr - $400.00/hr
-- 🕒 **Posted:** 2026-10-02
-
-### [Director, CRO & Analytics](https://www.linkedin.com/jobs/view/4474595904/) — ehouse
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-02
-
-### [Executive Vice President and Chief Financial Officer, Trilogy (Remote) - $800,000/year USD](https://www.linkedin.com/jobs/view/4471947619/) — Crossover
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $400.00/hr - $400.00/hr
-- 🕒 **Posted:** 2026-10-02
+No new roles since the last run.
