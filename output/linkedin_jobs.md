@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 13:07 UTC*
+*Last updated: 2026-10-02 13:27 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4445791063/) — MNP Executive Search & Professional Recruitment
-- 📍 **Location:** British Columbia, Canada
+### [Director, Global Business Planning (FP&A)](https://www.linkedin.com/jobs/view/4446874788/) — Arc'teryx Equipment
+- 📍 **Location:** North Vancouver, British Columbia, Canada
 - 🕒 **Posted:** 2026-10-02
