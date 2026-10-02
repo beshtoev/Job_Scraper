@@ -227,6 +227,11 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
+    ],
+    "81 bay st., greater toronto area, on, canada": null,
+    "81 bay st., toronto, on, canada": [
+      43.6441688,
+      -79.3773514
     ]
   },
   "research": {}
