@@ -1,24 +1,26 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 14:18 UTC*
+*Last updated: 2026-10-02 14:47 UTC*
 
-**5 new role(s)** since last run · 7 total in last 1h
+**5 new role(s)** since last run · 10 total in last 1h
 
-### [Analytics Associate Director, US Oncology](https://www.linkedin.com/jobs/view/4473334870/) — AstraZeneca
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-10-02
-
-### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4473355145/) — Pivotal Integrated HR Solutions
-- 📍 **Location:** Greater Toronto Area, Canada
-- 🕒 **Posted:** 2026-10-02
-
-### [Vice President, Finance](https://www.linkedin.com/jobs/view/4474771112/) — Kilmer Van Nostrand Co. Limited
+### [Director, Financial Modelling & Strategic Finance](https://www.linkedin.com/jobs/view/4450722747/) — GlassRatner Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-02
 
-### [Head of Financial Reporting](https://www.linkedin.com/jobs/view/4449030171/) — GlassRatner Canada
-- 📍 **Location:** Ontario, Canada
+### [Associate Director, Supply Chain Planning](https://www.linkedin.com/jobs/view/4473343457/) — AstraZeneca
+- 📍 **Location:** Hamilton, Ontario, Canada
 - 🕒 **Posted:** 2026-10-02
 
-### [Assistant Vice-President, Research Strategy and Services](https://www.linkedin.com/jobs/view/4473352181/) — McGill University
-- 📍 **Location:** Montreal, Quebec, Canada
+### [VP Enterprise Marketing](https://www.linkedin.com/jobs/view/4474772360/) — Mentimeter
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $226,000–$303,000
+- 🕒 **Posted:** 2026-10-02
+
+### [vCIO - Virtual Chief Information Officer](https://www.linkedin.com/jobs/view/4419523844/) — F12.net
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-02
+
+### [VP of Information Technology](https://www.linkedin.com/jobs/view/4446437736/) — Tenstorrent
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $100k - $500k
 - 🕒 **Posted:** 2026-10-02
