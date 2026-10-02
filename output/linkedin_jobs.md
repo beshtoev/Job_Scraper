@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 03:50 UTC*
+*Last updated: 2026-10-02 04:54 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [AVP, Cloud Platform Enablement](https://www.linkedin.com/jobs/view/4474580692/) — TD
+### [Senior Director, Risk Data Strategy](https://www.linkedin.com/jobs/view/4474701131/) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000 - $200,000
 - 🕒 **Posted:** 2026-10-02
