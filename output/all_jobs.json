@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-02 22:28 UTC",
+  "updated_at": "2026-10-02 22:51 UTC",
   "jobs": [
+    {
+      "company": "Andean Precious Metals Corp.",
+      "title": "Director, Financial Planning & Analysis",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4473805328/",
+      "date_posted": "2026-10-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We're Hiring!\n\nWe are looking for a Director, Financial Planning & Analysis\nto join our team.\n\nThis role will lead the financial planning process, analyze performance, provide strategic insights, and support strategic planning and corporate development for Andean. The position will work closely with the CFO and senior leadership to drive financial strategy, optimize costs, support business growth initiatives, and ensure robust financial modeling, data-driven decision-making and effective financial reporting.\n\nLocation:\nToronto, Canada – On-site.\nThis position requires extensive travel to Andean's mine sites in Bolivia and California, USA.\n\nResponsibilities:\n\nFinancial Planning, Budgeting & Forecasting\n\nLead the annual budgeting process and long-term financial planning for all aspects of Andean, coordinating inputs across departments and mine sites\nCoordinate, consolidate, and deliver the Annual Plan, Rolling Latest Best Estimate (RLBE), and other periodic forecasts\nMaintain an effective planning calendar with key dates and deliverables for all functional areas\nOwn and administer the corporate planning process within Oracle Hyperion / EPM, including maintaining planning models, hierarchies, scenarios, and reports, and driving continuous improvement of the system\nDevelop flexible tools, templates, and process improvements that support timely, accurate consolidation of corporate planning and reporting schedules\n\nFinancial Modeling & Analysis\n\nBuild and maintain revenue, cost, and cash flow models and valuations for the company and its assets; run scenario and sensitivity analyses\nAnalyze financial trends, commodity market conditions, and operational performance to inform strategic decision-making\nModel long-term growth and identify the business drivers that influence it\nAssess risks and opportunities associated with commodity pricing, operational efficiency, and capital expenditures\n\nPerformance Reporting & Business Partnering\n\nPrepare the monthly financial performance package, KPI reporting, and financial dashboard; develop KPIs and metrics to assess company performance\nLead monthly financial review meetings with each department, reporting actuals against budget and reviewing variances and corrective actions\nPrepare the monthly headcount actual-to-budget variance report and related forecasts\nConduct cost analyses, provide commentary on cost centre findings, and recommend initiatives to improve efficiency and profitability\nProvide actionable analysis and recommendations to senior leadership, explaining actual performance against budget and forecast\nOversee the preparation of management reports and presentations; support ad hoc analysis as required\n\nStrategy & Corporate Development\n\nPartner with the executive team to develop Andean's medium- and long-term financial and strategic plans\nSupport M&A activity, capital investment decisions, and financial due diligence, including post-merger integration and monitoring acquired assets against their expected value and ROI\nIdentify business issues, propose solutions, and support their implementation\n\nTeam Leadership\n\nManage, coach, and develop one direct report based in Mexico, setting clear objectives, reviewing deliverables, and supporting professional growth\nProvide functional leadership and direction to the mine asset finance and planning teams, which report indirectly to this role; set standards, review deliverables, and ensure consistency and quality of planning, forecasting, and reporting across all sites\nBuild strong working relationships with site-based finance and planning teams through regular engagement and extensive travel to the mine sites\n\nQualifications and Skills:\n\nBachelor’s Degree from a recognized University or College in Finance, Accounting, Business Administration, or Mining Engineer or related field. \nMaster’s Degree - MBA in Accounting or Finance or Chartered Financial Analyst is preferred\nExpert level experience in Excel, including the ability to write macros\nExperience using Power BI or other financial analysis experience\n10+ years of finance, financial planning, corporate development or accounting experience with a focus on Financial Planning and Analysis within the mining industry\nExcellent verbal, written communication and presentation skills.\nStrong MS office skills and financial systems applications.\nAbility to work in a highly matrixed and geographically diverse business environment.\nAbility to work within a team and as an individual contributor in a fast-paced, changing environment.\nHands-on experience with Oracle Hyperion / EPM planning applications is required, including building and maintaining budgets, forecasts, and reports within the platform\nAbility to leverage and/or engage others to accomplish projects\nSpanish speaker is a plus     \n\nIf your background and expertise align with this opportunity, we invite you to apply and become part of Andean Precious Metals. We look forward to hearing from you!\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMining",
+      "first_seen": "2026-10-02T22:51:45Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Sun Life",
       "title": "AVP Dealer Transformation",
@@ -867,7 +892,10 @@
       "geo_source": "description",
       "geo_confidence": "medium",
       "geo_detail": "description names Toronto",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4473808173/"
+      ]
     },
     {
       "company": "Pivotal Integrated HR Solutions",
