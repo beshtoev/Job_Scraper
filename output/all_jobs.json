@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-01 23:52 UTC",
+  "updated_at": "2026-10-02 00:06 UTC",
   "jobs": [
+    {
+      "company": "Best Access Doors",
+      "title": "Director of Technology, AI & Data Transformation",
+      "location": "Remote, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010282618033",
+      "date_posted": "2026-10-01",
+      "description": "Lead and develop technical employees across AI, data, development and project delivery. Lead internal developers, technical leaders, project resources and…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_arrangement": "Remote in-state eligible",
+      "first_seen": "2026-10-02T00:06:39Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "BMO Financial Group",
+      "title": "Director, Commercial Banking (Financial Services Group)",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010282615343",
+      "date_posted": "2026-10-01",
+      "description": "A recruiting agency must first have a valid, written and fully executed agency agreement contract for service to submit resumes.",
+      "salary": "$86k–$185k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-02T00:06:39Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "The Citco Group Limited",
       "title": "Assistant Vice President, Data Transformation",
@@ -114,7 +169,8 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/director-eaml-strategy-reporting/11471419",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-eaml-strategy-reporting/11471419"
+        "https://builtintoronto.com/job/director-eaml-strategy-reporting/11471419",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010282639142"
       ]
     },
     {
@@ -551,7 +607,8 @@
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=0697bac1e698a330"
+        "https://ca.indeed.com/viewjob?jk=0697bac1e698a330",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010282581132"
       ]
     },
     {
@@ -892,7 +949,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010282543412"
+      ]
     },
     {
       "company": "Electronic Arts (EA)",
@@ -1315,7 +1375,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010282543174"
+      ]
     },
     {
       "company": "APPLY",
