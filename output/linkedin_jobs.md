@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 12:00 UTC*
+*Last updated: 2026-10-02 13:07 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Associate Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4466055307/) — KPMG Canada
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-10-02
-
-### [Associate Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4466055306/) — KPMG Canada
-- 📍 **Location:** Winnipeg, Manitoba, Canada
+### [Director of Finance](https://www.linkedin.com/jobs/view/4445791063/) — MNP Executive Search & Professional Recruitment
+- 📍 **Location:** British Columbia, Canada
 - 🕒 **Posted:** 2026-10-02
