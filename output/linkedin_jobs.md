@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 05:36 UTC*
+*Last updated: 2026-10-02 06:16 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Executive Vice President and Chief Financial Officer, Trilogy (Remote) - $800,000/year USD](https://www.linkedin.com/jobs/view/4471950436/) — Crossover
+- 📍 **Location:** Canada
+- 💰 **Salary:** $400.00/hr - $400.00/hr
+- 🕒 **Posted:** 2026-10-02
