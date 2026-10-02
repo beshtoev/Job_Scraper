@@ -87,6 +87,11 @@
       46.0881352,
       -64.7766355
     ],
+    "81 bay st., greater toronto area, on, canada": null,
+    "81 bay st., toronto, on, canada": [
+      43.6441688,
+      -79.3773514
+    ],
     "81 bay street, toronto, on, canada": [
       43.6441688,
       -79.3773514
@@ -131,6 +136,10 @@
     "courtenay, bc, canada": [
       49.6894061,
       -124.9954959
+    ],
+    "cranbrook, bc, canada": [
+      49.5107477,
+      -115.7672772
     ],
     "dorval, qc, canada": [
       45.4453082,
@@ -227,11 +236,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "81 bay st., greater toronto area, on, canada": null,
-    "81 bay st., toronto, on, canada": [
-      43.6441688,
-      -79.3773514
     ]
   },
   "research": {}
