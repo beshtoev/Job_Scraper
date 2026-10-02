@@ -1,9 +1,9 @@
 {
-  "run_at": "2026-10-02T12:45:33Z",
+  "run_at": "2026-10-02T16:06:30Z",
   "inventory_count": 338,
   "selected_count": 338,
-  "raw_jobs": 11755,
-  "unique_jobs": 11556,
+  "raw_jobs": 11781,
+  "unique_jobs": 11582,
   "status_counts": {
     "succeeded": 188,
     "unresolved": 131,
@@ -24,7 +24,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 67,
-      "duration_seconds": 0.32,
+      "duration_seconds": 0.4,
       "reason": ""
     },
     {
@@ -32,7 +32,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 31,
-      "duration_seconds": 0.28,
+      "duration_seconds": 0.31,
       "reason": ""
     },
     {
@@ -55,7 +55,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 13,
-      "duration_seconds": 0.63,
+      "duration_seconds": 0.69,
       "reason": ""
     },
     {
@@ -63,7 +63,7 @@
       "ats": "personio",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.49,
+      "duration_seconds": 0.74,
       "reason": ""
     },
     {
@@ -85,8 +85,8 @@
       "company": "AIG",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 92,
-      "duration_seconds": 10.02,
+      "job_count": 94,
+      "duration_seconds": 10.21,
       "reason": ""
     },
     {
@@ -94,7 +94,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 109,
-      "duration_seconds": 11.33,
+      "duration_seconds": 11.06,
       "reason": ""
     },
     {
@@ -109,7 +109,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 27,
-      "duration_seconds": 0.32,
+      "duration_seconds": 0.33,
       "reason": ""
     },
     {
@@ -123,8 +123,8 @@
       "company": "Allucent",
       "ats": "workable",
       "status": "succeeded",
-      "job_count": 53,
-      "duration_seconds": 0.33,
+      "job_count": 55,
+      "duration_seconds": 0.36,
       "reason": ""
     },
     {
@@ -160,7 +160,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 22,
-      "duration_seconds": 0.24,
+      "duration_seconds": 0.26,
       "reason": ""
     },
     {
@@ -175,15 +175,15 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 28,
-      "duration_seconds": 0.8,
+      "duration_seconds": 0.76,
       "reason": ""
     },
     {
       "company": "Arc'teryx",
       "ats": "lever",
       "status": "succeeded",
-      "job_count": 283,
-      "duration_seconds": 1.14,
+      "job_count": 282,
+      "duration_seconds": 23.28,
       "reason": ""
     },
     {
@@ -199,7 +199,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 156,
-      "duration_seconds": 1.66,
+      "duration_seconds": 1.26,
       "reason": ""
     },
     {
@@ -207,7 +207,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 18,
-      "duration_seconds": 0.25,
+      "duration_seconds": 0.26,
       "reason": ""
     },
     {
@@ -236,7 +236,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 45,
-      "duration_seconds": 8.2,
+      "duration_seconds": 8.97,
       "reason": ""
     },
     {
@@ -244,7 +244,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 104,
-      "duration_seconds": 7.43,
+      "duration_seconds": 8.47,
       "reason": ""
     },
     {
@@ -259,7 +259,7 @@
       "ats": "gem",
       "status": "succeeded",
       "job_count": 6,
-      "duration_seconds": 0.27,
+      "duration_seconds": 0.34,
       "reason": ""
     },
     {
@@ -267,7 +267,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 40,
-      "duration_seconds": 0.36,
+      "duration_seconds": 0.35,
       "reason": ""
     },
     {
@@ -288,8 +288,8 @@
       "company": "BDC",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 26,
-      "duration_seconds": 3.98,
+      "job_count": 25,
+      "duration_seconds": 4.17,
       "reason": ""
     },
     {
@@ -297,7 +297,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 0,
-      "duration_seconds": 0.41,
+      "duration_seconds": 0.4,
       "reason": ""
     },
     {
@@ -312,7 +312,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 23,
-      "duration_seconds": 0.69,
+      "duration_seconds": 0.83,
       "reason": ""
     },
     {
@@ -320,7 +320,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 51,
-      "duration_seconds": 8.89,
+      "duration_seconds": 9.06,
       "reason": ""
     },
     {
@@ -328,7 +328,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 45,
-      "duration_seconds": 0.3,
+      "duration_seconds": 0.38,
       "reason": ""
     },
     {
@@ -351,15 +351,15 @@
       "ats": "gem",
       "status": "succeeded",
       "job_count": 14,
-      "duration_seconds": 0.25,
+      "duration_seconds": 0.23,
       "reason": ""
     },
     {
       "company": "BMO",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 88,
-      "duration_seconds": 17.05,
+      "job_count": 95,
+      "duration_seconds": 17.43,
       "reason": ""
     },
     {
@@ -388,7 +388,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 3,
-      "duration_seconds": 0.2,
+      "duration_seconds": 0.17,
       "reason": ""
     },
     {
@@ -396,7 +396,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 6,
-      "duration_seconds": 0.21,
+      "duration_seconds": 0.22,
       "reason": ""
     },
     {
@@ -412,7 +412,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 11,
-      "duration_seconds": 0.19,
+      "duration_seconds": 0.21,
       "reason": ""
     },
     {
@@ -427,7 +427,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 66,
-      "duration_seconds": 14.02,
+      "duration_seconds": 15.14,
       "reason": ""
     },
     {
@@ -449,8 +449,8 @@
       "company": "Capco",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 709,
-      "duration_seconds": 0.88,
+      "job_count": 708,
+      "duration_seconds": 0.84,
       "reason": ""
     },
     {
@@ -466,7 +466,7 @@
       "ats": "",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.39,
+      "duration_seconds": 0.45,
       "reason": ""
     },
     {
@@ -474,7 +474,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 46,
-      "duration_seconds": 1.07,
+      "duration_seconds": 6.2,
       "reason": ""
     },
     {
@@ -482,7 +482,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 77,
-      "duration_seconds": 0.4,
+      "duration_seconds": 0.34,
       "reason": ""
     },
     {
@@ -511,7 +511,7 @@
       "ats": "njoyn",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 2.14,
+      "duration_seconds": 2.76,
       "reason": "SourceFailure: no supported adapter for njoyn; no JobPosting JSON-LD found"
     },
     {
@@ -519,15 +519,15 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 41,
-      "duration_seconds": 10.35,
+      "duration_seconds": 9.29,
       "reason": ""
     },
     {
       "company": "CIBC",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 88,
-      "duration_seconds": 15.76,
+      "job_count": 92,
+      "duration_seconds": 15.32,
       "reason": ""
     },
     {
@@ -535,15 +535,15 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 149,
-      "duration_seconds": 38.68,
+      "duration_seconds": 40.68,
       "reason": ""
     },
     {
       "company": "Citylitics",
       "ats": "workable",
       "status": "succeeded",
-      "job_count": 4,
-      "duration_seconds": 0.19,
+      "job_count": 3,
+      "duration_seconds": 0.21,
       "reason": ""
     },
     {
@@ -557,8 +557,8 @@
       "company": "Clio",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 68,
-      "duration_seconds": 7.25,
+      "job_count": 67,
+      "duration_seconds": 7.42,
       "reason": ""
     },
     {
@@ -580,7 +580,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 49,
-      "duration_seconds": 12.81,
+      "duration_seconds": 11.48,
       "reason": ""
     },
     {
@@ -588,7 +588,7 @@
       "ats": "gem",
       "status": "succeeded",
       "job_count": 4,
-      "duration_seconds": 0.26,
+      "duration_seconds": 0.31,
       "reason": ""
     },
     {
@@ -610,7 +610,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 36,
-      "duration_seconds": 5.48,
+      "duration_seconds": 5.49,
       "reason": ""
     },
     {
@@ -626,7 +626,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 580,
-      "duration_seconds": 2.93,
+      "duration_seconds": 2.33,
       "reason": ""
     },
     {
@@ -640,16 +640,16 @@
       "company": "D2L",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 17,
-      "duration_seconds": 0.32,
+      "job_count": 15,
+      "duration_seconds": 0.44,
       "reason": ""
     },
     {
       "company": "Databricks",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 872,
-      "duration_seconds": 0.83,
+      "job_count": 879,
+      "duration_seconds": 1.62,
       "reason": ""
     },
     {
@@ -671,7 +671,7 @@
       "ats": "personio",
       "status": "succeeded",
       "job_count": 3,
-      "duration_seconds": 0.51,
+      "duration_seconds": 0.66,
       "reason": ""
     },
     {
@@ -686,7 +686,7 @@
       "ats": "j2w",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 5.17,
+      "duration_seconds": 5.2,
       "reason": "SourceFailure: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>"
     },
     {
@@ -721,7 +721,7 @@
       "company": "Diligentcorporation",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 100,
+      "job_count": 101,
       "duration_seconds": 0.47,
       "reason": ""
     },
@@ -737,7 +737,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 59,
-      "duration_seconds": 8.66,
+      "duration_seconds": 9.71,
       "reason": ""
     },
     {
@@ -745,7 +745,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 47,
-      "duration_seconds": 0.34,
+      "duration_seconds": 0.27,
       "reason": ""
     },
     {
@@ -775,7 +775,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 3,
-      "duration_seconds": 0.32,
+      "duration_seconds": 0.34,
       "reason": ""
     },
     {
@@ -789,8 +789,8 @@
       "company": "Emburse",
       "ats": "lever",
       "status": "succeeded",
-      "job_count": 26,
-      "duration_seconds": 0.9,
+      "job_count": 27,
+      "duration_seconds": 0.71,
       "reason": ""
     },
     {
@@ -805,7 +805,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 16,
-      "duration_seconds": 0.44,
+      "duration_seconds": 0.42,
       "reason": ""
     },
     {
@@ -813,7 +813,7 @@
       "ats": "recruitee",
       "status": "succeeded",
       "job_count": 7,
-      "duration_seconds": 0.44,
+      "duration_seconds": 0.47,
       "reason": ""
     },
     {
@@ -821,7 +821,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 90,
-      "duration_seconds": 0.97,
+      "duration_seconds": 1.06,
       "reason": ""
     },
     {
@@ -843,7 +843,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 47,
-      "duration_seconds": 0.32,
+      "duration_seconds": 0.46,
       "reason": ""
     },
     {
@@ -851,7 +851,7 @@
       "ats": "ashby",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 4.99,
+      "duration_seconds": 5.06,
       "reason": "SourceFailure: HTTPError: HTTP Error 404: Not Found"
     },
     {
@@ -866,15 +866,15 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 10,
-      "duration_seconds": 0.25,
+      "duration_seconds": 0.28,
       "reason": ""
     },
     {
       "company": "Extremenetworks",
       "ats": "lever",
       "status": "succeeded",
-      "job_count": 134,
-      "duration_seconds": 1.13,
+      "job_count": 136,
+      "duration_seconds": 1.31,
       "reason": ""
     },
     {
@@ -882,7 +882,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 79,
-      "duration_seconds": 0.35,
+      "duration_seconds": 0.36,
       "reason": ""
     },
     {
@@ -897,7 +897,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 98,
-      "duration_seconds": 0.33,
+      "duration_seconds": 0.34,
       "reason": ""
     },
     {
@@ -905,7 +905,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 67,
-      "duration_seconds": 9.15,
+      "duration_seconds": 8.87,
       "reason": ""
     },
     {
@@ -928,7 +928,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 14,
-      "duration_seconds": 0.21,
+      "duration_seconds": 0.23,
       "reason": ""
     },
     {
@@ -936,7 +936,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 19,
-      "duration_seconds": 0.21,
+      "duration_seconds": 0.26,
       "reason": ""
     },
     {
@@ -944,7 +944,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 148,
-      "duration_seconds": 0.39,
+      "duration_seconds": 0.44,
       "reason": ""
     },
     {
@@ -959,7 +959,7 @@
       "ats": "gem",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.32,
+      "duration_seconds": 0.3,
       "reason": ""
     },
     {
@@ -967,7 +967,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 3,
-      "duration_seconds": 7.01,
+      "duration_seconds": 7.93,
       "reason": ""
     },
     {
@@ -975,7 +975,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 15,
-      "duration_seconds": 0.89,
+      "duration_seconds": 0.78,
       "reason": ""
     },
     {
@@ -983,7 +983,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 6,
-      "duration_seconds": 0.19,
+      "duration_seconds": 0.18,
       "reason": ""
     },
     {
@@ -1005,7 +1005,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 100,
-      "duration_seconds": 12.1,
+      "duration_seconds": 13.14,
       "reason": ""
     },
     {
@@ -1026,8 +1026,8 @@
       "company": "Geotab",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 70,
-      "duration_seconds": 0.47,
+      "job_count": 67,
+      "duration_seconds": 0.54,
       "reason": ""
     },
     {
@@ -1035,7 +1035,7 @@
       "ats": "smartrecruiters",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.52,
+      "duration_seconds": 0.59,
       "reason": ""
     },
     {
@@ -1057,7 +1057,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 2,
-      "duration_seconds": 0.15,
+      "duration_seconds": 0.17,
       "reason": ""
     },
     {
@@ -1065,7 +1065,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 120,
-      "duration_seconds": 0.43,
+      "duration_seconds": 0.4,
       "reason": ""
     },
     {
@@ -1094,7 +1094,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 72,
-      "duration_seconds": 6.9,
+      "duration_seconds": 6.55,
       "reason": ""
     },
     {
@@ -1131,7 +1131,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 24,
-      "duration_seconds": 0.24,
+      "duration_seconds": 0.21,
       "reason": ""
     },
     {
@@ -1139,7 +1139,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 32,
-      "duration_seconds": 3.22,
+      "duration_seconds": 3.78,
       "reason": ""
     },
     {
@@ -1147,7 +1147,7 @@
       "ats": "smartrecruiters",
       "status": "succeeded",
       "job_count": 8,
-      "duration_seconds": 0.45,
+      "duration_seconds": 0.48,
       "reason": ""
     },
     {
@@ -1155,7 +1155,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 19,
-      "duration_seconds": 0.24,
+      "duration_seconds": 0.17,
       "reason": ""
     },
     {
@@ -1171,7 +1171,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 8,
-      "duration_seconds": 0.2,
+      "duration_seconds": 0.21,
       "reason": ""
     },
     {
@@ -1179,7 +1179,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 103,
-      "duration_seconds": 0.4,
+      "duration_seconds": 0.39,
       "reason": ""
     },
     {
@@ -1187,7 +1187,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 32,
-      "duration_seconds": 0.27,
+      "duration_seconds": 0.35,
       "reason": ""
     },
     {
@@ -1195,7 +1195,7 @@
       "ats": "ibm",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 6.96,
+      "duration_seconds": 5.68,
       "reason": "SourceFailure: HTTPError: HTTP Error 404: Not Found"
     },
     {
@@ -1203,7 +1203,7 @@
       "ats": "",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 0.18,
+      "duration_seconds": 0.21,
       "reason": "SourceFailure: no supported adapter for unknown HTML; no JobPosting JSON-LD found"
     },
     {
@@ -1211,7 +1211,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 127,
-      "duration_seconds": 0.42,
+      "duration_seconds": 0.39,
       "reason": ""
     },
     {
@@ -1219,7 +1219,7 @@
       "ats": "personio",
       "status": "succeeded",
       "job_count": 3,
-      "duration_seconds": 0.61,
+      "duration_seconds": 0.65,
       "reason": ""
     },
     {
@@ -1234,7 +1234,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 82,
-      "duration_seconds": 10.81,
+      "duration_seconds": 12.66,
       "reason": ""
     },
     {
@@ -1242,7 +1242,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.29,
+      "duration_seconds": 0.36,
       "reason": ""
     },
     {
@@ -1257,7 +1257,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 6,
-      "duration_seconds": 0.16,
+      "duration_seconds": 0.21,
       "reason": ""
     },
     {
@@ -1271,8 +1271,8 @@
       "company": "Jane Software",
       "ats": "ashby",
       "status": "succeeded",
-      "job_count": 22,
-      "duration_seconds": 0.2,
+      "job_count": 23,
+      "duration_seconds": 0.19,
       "reason": ""
     },
     {
@@ -1287,8 +1287,8 @@
       "company": "K2Services",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 70,
-      "duration_seconds": 5.04,
+      "job_count": 69,
+      "duration_seconds": 5.47,
       "reason": ""
     },
     {
@@ -1303,7 +1303,7 @@
       "ats": "icims",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 0.39,
+      "duration_seconds": 0.42,
       "reason": "SourceFailure: no supported adapter for icims; no JobPosting JSON-LD found"
     },
     {
@@ -1311,7 +1311,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.25,
+      "duration_seconds": 0.31,
       "reason": ""
     },
     {
@@ -1319,7 +1319,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 17,
-      "duration_seconds": 0.22,
+      "duration_seconds": 0.25,
       "reason": ""
     },
     {
@@ -1327,7 +1327,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 10,
-      "duration_seconds": 0.22,
+      "duration_seconds": 0.21,
       "reason": ""
     },
     {
@@ -1341,8 +1341,8 @@
       "company": "Knix",
       "ats": "lever",
       "status": "succeeded",
-      "job_count": 50,
-      "duration_seconds": 1.08,
+      "job_count": 49,
+      "duration_seconds": 14.06,
       "reason": ""
     },
     {
@@ -1350,7 +1350,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 9,
-      "duration_seconds": 0.26,
+      "duration_seconds": 0.2,
       "reason": ""
     },
     {
@@ -1364,8 +1364,8 @@
       "company": "Later",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 41,
-      "duration_seconds": 0.31,
+      "job_count": 42,
+      "duration_seconds": 0.37,
       "reason": ""
     },
     {
@@ -1387,7 +1387,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 14,
-      "duration_seconds": 0.32,
+      "duration_seconds": 0.29,
       "reason": ""
     },
     {
@@ -1403,7 +1403,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 13,
-      "duration_seconds": 0.18,
+      "duration_seconds": 0.22,
       "reason": ""
     },
     {
@@ -1411,7 +1411,7 @@
       "ats": "",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 5.29,
+      "duration_seconds": 5.38,
       "reason": "SourceFailure: HTTPError: HTTP Error 400: Bad Request"
     },
     {
@@ -1419,7 +1419,7 @@
       "ats": "radancy",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 65.16,
+      "duration_seconds": 65.09,
       "reason": "SourceFailure: TimeoutError: The read operation timed out"
     },
     {
@@ -1427,7 +1427,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 30,
-      "duration_seconds": 0.23,
+      "duration_seconds": 0.24,
       "reason": ""
     },
     {
@@ -1435,7 +1435,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 83,
-      "duration_seconds": 25.16,
+      "duration_seconds": 11.14,
       "reason": ""
     },
     {
@@ -1450,15 +1450,15 @@
       "ats": "",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 5.64,
+      "duration_seconds": 5.75,
       "reason": "SourceFailure: HTTPError: HTTP Error 410: Gone"
     },
     {
       "company": "Magnet Forensics",
       "ats": "lever",
       "status": "succeeded",
-      "job_count": 38,
-      "duration_seconds": 1.55,
+      "job_count": 40,
+      "duration_seconds": 0.97,
       "reason": ""
     },
     {
@@ -1466,7 +1466,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 125,
-      "duration_seconds": 23.94,
+      "duration_seconds": 24.01,
       "reason": ""
     },
     {
@@ -1474,7 +1474,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 14,
-      "duration_seconds": 0.2,
+      "duration_seconds": 0.18,
       "reason": ""
     },
     {
@@ -1489,23 +1489,23 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.34,
+      "duration_seconds": 0.31,
       "reason": ""
     },
     {
       "company": "Mastercard",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 100,
-      "duration_seconds": 9.6,
+      "job_count": 107,
+      "duration_seconds": 10.5,
       "reason": ""
     },
     {
       "company": "Mckesson",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 125,
-      "duration_seconds": 23.76,
+      "job_count": 126,
+      "duration_seconds": 25.84,
       "reason": ""
     },
     {
@@ -1520,8 +1520,8 @@
       "company": "MDLZ",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 113,
-      "duration_seconds": 20.77,
+      "job_count": 114,
+      "duration_seconds": 16.99,
       "reason": ""
     },
     {
@@ -1529,7 +1529,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 33,
-      "duration_seconds": 0.24,
+      "duration_seconds": 0.23,
       "reason": ""
     },
     {
@@ -1558,8 +1558,8 @@
       "company": "Mimecast",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 54,
-      "duration_seconds": 6.49,
+      "job_count": 53,
+      "duration_seconds": 7.22,
       "reason": ""
     },
     {
@@ -1567,7 +1567,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 19,
-      "duration_seconds": 0.22,
+      "duration_seconds": 0.2,
       "reason": ""
     },
     {
@@ -1582,7 +1582,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 20,
-      "duration_seconds": 0.3,
+      "duration_seconds": 0.25,
       "reason": ""
     },
     {
@@ -1597,15 +1597,15 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 134,
-      "duration_seconds": 46.65,
+      "duration_seconds": 51.59,
       "reason": ""
     },
     {
       "company": "Multiview",
       "ats": "bamboohr",
       "status": "succeeded",
-      "job_count": 5,
-      "duration_seconds": 0.61,
+      "job_count": 4,
+      "duration_seconds": 0.69,
       "reason": ""
     },
     {
@@ -1613,7 +1613,7 @@
       "ats": "talentbrew",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 4.96,
+      "duration_seconds": 4.99,
       "reason": "SourceFailure: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>"
     },
     {
@@ -1621,7 +1621,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 38,
-      "duration_seconds": 9.78,
+      "duration_seconds": 11.0,
       "reason": ""
     },
     {
@@ -1636,7 +1636,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 87,
-      "duration_seconds": 9.96,
+      "duration_seconds": 12.36,
       "reason": ""
     },
     {
@@ -1644,7 +1644,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 4,
-      "duration_seconds": 0.26,
+      "duration_seconds": 0.27,
       "reason": ""
     },
     {
@@ -1652,7 +1652,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 77,
-      "duration_seconds": 0.3,
+      "duration_seconds": 0.37,
       "reason": ""
     },
     {
@@ -1660,7 +1660,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 43,
-      "duration_seconds": 0.38,
+      "duration_seconds": 0.3,
       "reason": ""
     },
     {
@@ -1683,7 +1683,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 10,
-      "duration_seconds": 0.39,
+      "duration_seconds": 0.29,
       "reason": ""
     },
     {
@@ -1705,7 +1705,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 10,
-      "duration_seconds": 0.21,
+      "duration_seconds": 0.2,
       "reason": ""
     },
     {
@@ -1713,7 +1713,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 3,
-      "duration_seconds": 0.16,
+      "duration_seconds": 0.21,
       "reason": ""
     },
     {
@@ -1721,7 +1721,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 68,
-      "duration_seconds": 0.36,
+      "duration_seconds": 0.34,
       "reason": ""
     },
     {
@@ -1736,7 +1736,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 6,
-      "duration_seconds": 0.14,
+      "duration_seconds": 0.19,
       "reason": ""
     },
     {
@@ -1758,7 +1758,7 @@
       "ats": "",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 5.6,
+      "duration_seconds": 5.66,
       "reason": "SourceFailure: HTTPError: HTTP Error 404: Not Found"
     },
     {
@@ -1793,8 +1793,8 @@
       "company": "Optrust",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 4,
-      "duration_seconds": 8.34,
+      "job_count": 5,
+      "duration_seconds": 7.0,
       "reason": ""
     },
     {
@@ -1809,7 +1809,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 16,
-      "duration_seconds": 0.17,
+      "duration_seconds": 0.19,
       "reason": ""
     },
     {
@@ -1831,7 +1831,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 94,
-      "duration_seconds": 28.81,
+      "duration_seconds": 24.01,
       "reason": ""
     },
     {
@@ -1839,15 +1839,15 @@
       "ats": "",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 5.52,
+      "duration_seconds": 5.48,
       "reason": "SourceFailure: HTTPError: HTTP Error 500: 500"
     },
     {
       "company": "Physical Intelligence",
       "ats": "ashby",
       "status": "succeeded",
-      "job_count": 35,
-      "duration_seconds": 0.2,
+      "job_count": 34,
+      "duration_seconds": 0.19,
       "reason": ""
     },
     {
@@ -1862,7 +1862,7 @@
       "ats": "",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 0.47,
+      "duration_seconds": 0.54,
       "reason": "SourceFailure: no supported adapter for unknown HTML; no JobPosting JSON-LD found"
     },
     {
@@ -1877,7 +1877,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 76,
-      "duration_seconds": 1.07,
+      "duration_seconds": 1.09,
       "reason": ""
     },
     {
@@ -1885,7 +1885,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 52,
-      "duration_seconds": 1.52,
+      "duration_seconds": 1.04,
       "reason": ""
     },
     {
@@ -1893,7 +1893,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 35,
-      "duration_seconds": 9.89,
+      "duration_seconds": 5.64,
       "reason": ""
     },
     {
@@ -1901,7 +1901,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 7,
-      "duration_seconds": 0.29,
+      "duration_seconds": 0.19,
       "reason": ""
     },
     {
@@ -1909,7 +1909,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 32,
-      "duration_seconds": 0.31,
+      "duration_seconds": 0.35,
       "reason": ""
     },
     {
@@ -1924,7 +1924,7 @@
       "ats": "jibe",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 1.46,
+      "duration_seconds": 1.25,
       "reason": "SourceFailure: no supported adapter for jibe; no JobPosting JSON-LD found"
     },
     {
@@ -1946,7 +1946,7 @@
       "ats": "",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 0.76,
+      "duration_seconds": 1.54,
       "reason": "SourceFailure: no supported adapter for unknown HTML; no JobPosting JSON-LD found"
     },
     {
@@ -1961,7 +1961,7 @@
       "ats": "",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.6,
+      "duration_seconds": 0.51,
       "reason": ""
     },
     {
@@ -1969,15 +1969,15 @@
       "ats": "",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 0.52,
+      "duration_seconds": 0.47,
       "reason": "SourceFailure: no supported adapter for unknown HTML; no JobPosting JSON-LD found"
     },
     {
       "company": "RBC",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 134,
-      "duration_seconds": 65.66,
+      "job_count": 129,
+      "duration_seconds": 69.1,
       "reason": ""
     },
     {
@@ -1985,7 +1985,7 @@
       "ats": "ashby",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 5.01,
+      "duration_seconds": 4.97,
       "reason": "SourceFailure: HTTPError: HTTP Error 404: Not Found"
     },
     {
@@ -2000,7 +2000,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 2,
-      "duration_seconds": 0.12,
+      "duration_seconds": 0.16,
       "reason": ""
     },
     {
@@ -2008,7 +2008,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 15,
-      "duration_seconds": 0.34,
+      "duration_seconds": 0.26,
       "reason": ""
     },
     {
@@ -2030,7 +2030,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 4,
-      "duration_seconds": 0.15,
+      "duration_seconds": 0.11,
       "reason": ""
     },
     {
@@ -2038,7 +2038,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 11,
-      "duration_seconds": 0.22,
+      "duration_seconds": 0.19,
       "reason": ""
     },
     {
@@ -2053,7 +2053,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 23,
-      "duration_seconds": 0.26,
+      "duration_seconds": 0.22,
       "reason": ""
     },
     {
@@ -2096,7 +2096,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 12,
-      "duration_seconds": 0.34,
+      "duration_seconds": 0.18,
       "reason": ""
     },
     {
@@ -2133,15 +2133,15 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 194,
-      "duration_seconds": 0.56,
+      "duration_seconds": 0.4,
       "reason": ""
     },
     {
       "company": "Simcorp",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 93,
-      "duration_seconds": 8.66,
+      "job_count": 94,
+      "duration_seconds": 8.74,
       "reason": ""
     },
     {
@@ -2170,7 +2170,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 2,
-      "duration_seconds": 0.5,
+      "duration_seconds": 0.49,
       "reason": ""
     },
     {
@@ -2199,7 +2199,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 96,
-      "duration_seconds": 21.6,
+      "duration_seconds": 21.07,
       "reason": ""
     },
     {
@@ -2214,7 +2214,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 23,
-      "duration_seconds": 5.86,
+      "duration_seconds": 6.21,
       "reason": ""
     },
     {
@@ -2222,15 +2222,15 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 6,
-      "duration_seconds": 0.64,
+      "duration_seconds": 2.8,
       "reason": ""
     },
     {
       "company": "TD",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 125,
-      "duration_seconds": 21.42,
+      "job_count": 124,
+      "duration_seconds": 22.14,
       "reason": ""
     },
     {
@@ -2238,7 +2238,7 @@
       "ats": "smartrecruiters",
       "status": "succeeded",
       "job_count": 2,
-      "duration_seconds": 0.52,
+      "duration_seconds": 0.54,
       "reason": ""
     },
     {
@@ -2246,7 +2246,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 36,
-      "duration_seconds": 5.61,
+      "duration_seconds": 6.56,
       "reason": ""
     },
     {
@@ -2254,7 +2254,7 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 51,
-      "duration_seconds": 0.88,
+      "duration_seconds": 7.28,
       "reason": ""
     },
     {
@@ -2262,15 +2262,15 @@
       "ats": "j2w",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 0.36,
+      "duration_seconds": 0.4,
       "reason": "SourceFailure: no supported adapter for j2w; no JobPosting JSON-LD found"
     },
     {
       "company": "TELUS Digital",
       "ats": "ashby",
       "status": "succeeded",
-      "job_count": 69,
-      "duration_seconds": 0.3,
+      "job_count": 68,
+      "duration_seconds": 0.29,
       "reason": ""
     },
     {
@@ -2285,7 +2285,7 @@
       "ats": "bamboohr",
       "status": "failed",
       "job_count": 0,
-      "duration_seconds": 0.47,
+      "duration_seconds": 0.56,
       "reason": "SourceFailure: invalid JSON: Expecting value: line 1 column 1 (char 0)"
     },
     {
@@ -2308,7 +2308,7 @@
       "ats": "workable",
       "status": "succeeded",
       "job_count": 214,
-      "duration_seconds": 0.43,
+      "duration_seconds": 0.36,
       "reason": ""
     },
     {
@@ -2323,7 +2323,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 60,
-      "duration_seconds": 7.98,
+      "duration_seconds": 7.7,
       "reason": ""
     },
     {
@@ -2331,7 +2331,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 77,
-      "duration_seconds": 0.52,
+      "duration_seconds": 1.7,
       "reason": ""
     },
     {
@@ -2339,7 +2339,7 @@
       "ats": "ashby",
       "status": "succeeded",
       "job_count": 13,
-      "duration_seconds": 0.3,
+      "duration_seconds": 1.17,
       "reason": ""
     },
     {
@@ -2354,15 +2354,15 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 49,
-      "duration_seconds": 15.55,
+      "duration_seconds": 11.74,
       "reason": ""
     },
     {
       "company": "Transunion",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 95,
-      "duration_seconds": 10.23,
+      "job_count": 97,
+      "duration_seconds": 10.0,
       "reason": ""
     },
     {
@@ -2377,7 +2377,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.13,
+      "duration_seconds": 0.15,
       "reason": ""
     },
     {
@@ -2385,7 +2385,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 69,
-      "duration_seconds": 0.29,
+      "duration_seconds": 0.3,
       "reason": ""
     },
     {
@@ -2413,8 +2413,8 @@
       "company": "Valiantys",
       "ats": "lever",
       "status": "succeeded",
-      "job_count": 13,
-      "duration_seconds": 4.58,
+      "job_count": 14,
+      "duration_seconds": 20.12,
       "reason": ""
     },
     {
@@ -2457,7 +2457,7 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 5,
-      "duration_seconds": 0.71,
+      "duration_seconds": 0.39,
       "reason": ""
     },
     {
@@ -2472,15 +2472,15 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 1,
-      "duration_seconds": 0.31,
+      "duration_seconds": 0.29,
       "reason": ""
     },
     {
       "company": "Walmart",
       "ats": "workday",
       "status": "succeeded",
-      "job_count": 155,
-      "duration_seconds": 22.79,
+      "job_count": 154,
+      "duration_seconds": 23.94,
       "reason": ""
     },
     {
@@ -2488,15 +2488,15 @@
       "ats": "lever",
       "status": "succeeded",
       "job_count": 17,
-      "duration_seconds": 0.95,
+      "duration_seconds": 2.87,
       "reason": ""
     },
     {
       "company": "Waymo",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 361,
-      "duration_seconds": 0.61,
+      "job_count": 360,
+      "duration_seconds": 1.28,
       "reason": ""
     },
     {
@@ -2510,7 +2510,7 @@
       "company": "Wealthsimple",
       "ats": "ashby",
       "status": "succeeded",
-      "job_count": 43,
+      "job_count": 44,
       "duration_seconds": 0.28,
       "reason": ""
     },
@@ -2533,7 +2533,7 @@
       "ats": "workday",
       "status": "succeeded",
       "job_count": 104,
-      "duration_seconds": 21.37,
+      "duration_seconds": 22.43,
       "reason": ""
     },
     {
@@ -2541,7 +2541,7 @@
       "ats": "greenhouse",
       "status": "succeeded",
       "job_count": 4,
-      "duration_seconds": 0.19,
+      "duration_seconds": 0.17,
       "reason": ""
     },
     {
@@ -2549,31 +2549,31 @@
       "ats": "bamboohr",
       "status": "succeeded",
       "job_count": 6,
-      "duration_seconds": 0.37,
+      "duration_seconds": 0.42,
       "reason": ""
     },
     {
       "company": "xAI",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 297,
-      "duration_seconds": 0.5,
+      "job_count": 298,
+      "duration_seconds": 0.49,
       "reason": ""
     },
     {
       "company": "Xsolla",
       "ats": "lever",
       "status": "succeeded",
-      "job_count": 175,
-      "duration_seconds": 1.17,
+      "job_count": 179,
+      "duration_seconds": 1.14,
       "reason": ""
     },
     {
       "company": "Zafinlabsamericasinc",
       "ats": "greenhouse",
       "status": "succeeded",
-      "job_count": 31,
-      "duration_seconds": 0.32,
+      "job_count": 30,
+      "duration_seconds": 0.3,
       "reason": ""
     },
     {
@@ -2581,15 +2581,15 @@
       "ats": "aggregator",
       "status": "succeeded",
       "job_count": 78,
-      "duration_seconds": 1.81,
+      "duration_seconds": 2.16,
       "reason": ""
     },
     {
       "company": "builtin_toronto",
       "ats": "aggregator",
       "status": "succeeded",
-      "job_count": 372,
-      "duration_seconds": 12.19,
+      "job_count": 373,
+      "duration_seconds": 14.16,
       "reason": ""
     },
     {
@@ -2597,7 +2597,7 @@
       "ats": "aggregator",
       "status": "succeeded",
       "job_count": 108,
-      "duration_seconds": 1.75,
+      "duration_seconds": 1.7,
       "reason": ""
     }
   ]
