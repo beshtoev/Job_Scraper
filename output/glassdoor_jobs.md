@@ -1,34 +1,31 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 20:27 UTC*
+*Last updated: 2026-10-02 23:00 UTC*
 
-**6 new role(s)** since last run · 57 total in last 24h
+**6 new role(s)** since last run · 59 total in last 24h
 
-### [Head of Enterprise Architecture & Applications](https://www.glassdoor.ca/job-listing/j?jl=1010279554838) — Quadra Group
-- 📍 **Location:** Vaudreuil-Dorion, Canada
-- 💰 **Salary:** $135k–$205k/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010283764559) — Blossom Group
-- 📍 **Location:** Canada
-- 💰 **Salary:** $85k/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Director, Denominational Property Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010283675108) — The United Church of Canada
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $107k–$143k/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Director, Digital Marketing & Web Experience](https://www.glassdoor.ca/job-listing/j?jl=1010278492131) — Varicent
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $138k–$181k/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Finance Director](https://www.glassdoor.ca/job-listing/j?jl=1010283798721) — MacKay Contracting
-- 📍 **Location:** Cranbrook, Canada
-- 💰 **Salary:** $125k–$150k/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Finance Director](https://www.glassdoor.ca/job-listing/j?jl=1010280792750) — Mennonite Central Committee
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $110k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010280547636) — Robert Half
+- 📍 **Location:** London, Canada
+- 💰 **Salary:** $130k–$160k/yr
 - 🕒 **Posted:** 2026-10-01
+
+### [Director, Finance](https://www.glassdoor.ca/job-listing/j?jl=1010283880036) — Imperial Brady
+- 📍 **Location:** Saint-Laurent, Canada
+- 🕒 **Posted:** 2026-10-02
+
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010282126299) — UP Vertical Farms
+- 📍 **Location:** Pitt Meadows, Canada
+- 💰 **Salary:** $150k–$165k/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Director, Financial Planning and Analysis](https://www.glassdoor.ca/job-listing/j?jl=1010283814475) — Federated Co-operatives Limited
+- 📍 **Location:** Saskatoon, Canada
+- 🕒 **Posted:** 2026-10-02
+
+### [Director, Enterprise Materials Management, Logistics & Trade Compliance](https://www.glassdoor.ca/job-listing/j?jl=1010283920449) — PCS Inc
+- 📍 **Location:** Saskatoon, Canada
+- 🕒 **Posted:** 2026-10-02
+
+### [Associate Creative Director, Digital Design](https://www.glassdoor.ca/job-listing/j?jl=1010283821322) — Samsara
+- 📍 **Location:** Ottawa, Canada
+- 💰 **Salary:** $126k–$173k/yr
+- 🕒 **Posted:** 2026-10-02
