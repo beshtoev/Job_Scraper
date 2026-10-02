@@ -1,22 +1,35 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 06:47 UTC*
+*Last updated: 2026-10-02 10:08 UTC*
 
-**4 new role(s)** since last run · 65 total in last 24h
+**6 new role(s)** since last run · 67 total in last 24h
 
-### [Associate Director, AI Products Development Lead](https://www.glassdoor.ca/job-listing/j?jl=1010283060416) — Royal Bank of Canada
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-02
+### [Head of Enterprise Architecture & Applications](https://www.glassdoor.ca/job-listing/j?jl=1010279554834) — Quadra Group
+- 📍 **Location:** Vaudreuil-Dorion, Canada
+- 💰 **Salary:** $135k–$205k/yr
+- 🕒 **Posted:** 2026-10-01
 
-### [Analytics Associate Director, US Oncology](https://www.glassdoor.ca/job-listing/j?jl=1010283059833) — AstraZeneca
+### [Director, FP&A](https://www.glassdoor.ca/job-listing/j?jl=1010279360905) — Robert Half
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $70–$85/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010278427957) — Robert Half
 - 📍 **Location:** Mississauga, Canada
-- 💰 **Salary:** $135k–$177k/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [(CAN) Senior Director, Digital Strategy and Media](https://www.glassdoor.ca/job-listing/j?jl=1010278135360) — Walmart Canada
-- 📍 **Location:** Mississauga, Canada
+- 💰 **Salary:** $150k–$160k/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Assistant Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010278423421) — Neeginan Education, Training and Employment Services Inc.
-- 📍 **Location:** Winnipeg, Canada
-- 💰 **Salary:** $35–$37/hr
+### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010283255455) — Lussiers Construction Inc
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $96–$120/hr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-02
+
+### [Finance Director](https://www.glassdoor.ca/job-listing/j?jl=1010278398398) — MacKay Contracting
+- 📍 **Location:** Cranbrook, Canada
+- 💰 **Salary:** $125k–$150k/yr
 - 🕒 **Posted:** 2026-09-30
+
+### [Directeur des finances (CPA) - Rive-Sud - hybride - 150 k$ à 170 k$ / Director of Finance (CPA)](https://www.glassdoor.ca/job-listing/j?jl=1010279298849) — Quantum Management Services
+- 📍 **Location:** Granby, Canada
+- 💰 **Salary:** $150k–$170k/yr
+- 🕒 **Posted:** 2026-10-01

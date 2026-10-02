@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 09:39 UTC",
+  "updated_at": "2026-10-02 10:08 UTC",
   "jobs": [
     {
       "company": "Marsh",
@@ -2530,12 +2530,12 @@
       "location": "Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4472389303/",
       "date_posted": "2026-10-01",
-      "salary": "",
+      "salary": "$96–$120/hr",
       "ats": "LinkedIn",
       "description": "Company Description\nLussiers Construction Inc. is a growing construction company focused on delivering reliable, high-quality building services to a diverse range of clients. The organization values safety, efficiency, and clear communication on every project, from planning through completion. Team members collaborate closely to meet client timelines, budget expectations, and regulatory standards. The company encourages continuous improvement in processes, technology, and skills to support sustainable growth and strong client relationships.\nRole Description\nThe Chief Financial Officer (CFO) at Lussiers Construction Inc. is a part-time, remote role responsible for leading the company’s financial strategy and operations. The CFO oversees the preparation, review, and analysis of financial statements and reports to ensure accuracy, compliance, and timely delivery. Day-to-day tasks include managing financial planning and budgeting processes, monitoring cash flow, evaluating financial performance, and advising leadership on financial risks and opportunities. The CFO collaborates with senior management on strategic decisions, supports forecasting and cost management for construction projects, and helps implement financial controls, policies, and systems that align with the company’s goals.\nQualifications\n\nStrong foundation in Finance, including experience overseeing organizational financial operations and strategy.\nProficiency in Financial Planning, budgeting, and forecasting to support short- and long-term business goals.\nAbility to prepare, interpret, and review Financial Statements with attention to accuracy and regulatory compliance.\nExperience in Financial Reporting, including internal management reports and external stakeholder communications.\nAdvanced Analytical Skills for evaluating financial performance, project profitability, and investment decisions.\nPrior leadership experience in a senior finance role; experience in the construction or related industries is an asset.\nComfort working part-time in a remote environment, with strong organizational, communication, and collaboration skills.\nRelevant academic background such as a degree in Finance, Accounting, Business, or a related field; professional designations (e.g., CPA, CMA) are beneficial.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nPart-time",
       "first_seen": "2026-10-01T06:47:21Z",
       "work_mode": "Remote",
-      "work_mode_evidence": "description",
+      "work_mode_evidence": "title/location",
       "geo_category": "Canada Remote",
       "geo_label": "Canada Remote (ON)",
       "geo_city": "",
@@ -2547,7 +2547,11 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only province ON stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010283255455"
+      ]
     },
     {
       "company": "Saskatchewan Pulse Growers",
