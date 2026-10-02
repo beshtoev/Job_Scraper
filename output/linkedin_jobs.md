@@ -1,26 +1,29 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 14:47 UTC*
+*Last updated: 2026-10-02 16:07 UTC*
 
-**5 new role(s)** since last run · 10 total in last 1h
+**6 new role(s)** since last run · 8 total in last 1h
 
-### [Director, Financial Modelling & Strategic Finance](https://www.linkedin.com/jobs/view/4450722747/) — GlassRatner Canada
+### [Bilingual (English/French) Associate Director, Retail Analytics](https://www.linkedin.com/jobs/view/4455686391/) — NielsenIQ
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-02
 
-### [Associate Director, Supply Chain Planning](https://www.linkedin.com/jobs/view/4473343457/) — AstraZeneca
-- 📍 **Location:** Hamilton, Ontario, Canada
-- 🕒 **Posted:** 2026-10-02
-
-### [VP Enterprise Marketing](https://www.linkedin.com/jobs/view/4474772360/) — Mentimeter
+### [VP Enterprise Marketing](https://www.linkedin.com/jobs/view/4474792056/) — Mentimeter
 - 📍 **Location:** Toronto, Ontario, Canada
 - 💰 **Salary:** $226,000–$303,000
 - 🕒 **Posted:** 2026-10-02
 
-### [vCIO - Virtual Chief Information Officer](https://www.linkedin.com/jobs/view/4419523844/) — F12.net
-- 📍 **Location:** Vancouver, British Columbia, Canada
+### [Director, Field Marketing Strategy](https://www.linkedin.com/jobs/view/4454151855/) — OpenText
+- 📍 **Location:** Waterloo, Ontario, Canada
 - 🕒 **Posted:** 2026-10-02
 
-### [VP of Information Technology](https://www.linkedin.com/jobs/view/4446437736/) — Tenstorrent
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $100k - $500k
+### [Director Analytics Engineering](https://www.linkedin.com/jobs/view/4457017578/) — 1Password
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-02
+
+### [VP, AI Services](https://www.linkedin.com/jobs/view/4428872090/) — Toptal
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-02
+
+### [Director, Digital Media Operations & Performance](https://www.linkedin.com/jobs/view/4474765985/) — Panoply Media
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-02
