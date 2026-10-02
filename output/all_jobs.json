@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-02 00:06 UTC",
+  "updated_at": "2026-10-02 00:19 UTC",
   "jobs": [
+    {
+      "company": "Clash Nexus AI",
+      "title": "Chief Technology Officer",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4472552677/",
+      "date_posted": "2026-10-01",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "***Start-up co-founder position*** Equity only position until revenue milestones hit! Applicants located in North America only. GTA, Ontario preferable.\nCompany Description\nClash Nexus AI helps construction teams identify drawing issues before they turn into rework, RFIs, delays, or change orders. By uploading construction drawings, specifications, and project documents, users receive AI-driven reviews that flag coordination issues, missing information, scope gaps, spec conflicts, code concerns, and constructability risks. Each finding includes visual evidence, clear context, severity, impact, and recommended next steps, enabling faster, more informed decisions. The platform supports contractors, consultants, engineers, and preconstruction teams in keeping projects on track and reducing costly on-site problems.\nRole Description\nTo begin with, you will bein the trenches coding with Python and working side by side our CEO on product development. The Chief Technology Officer (CTO) will become a full-time, remote leadership role responsible for defining and executing the overall technology vision at Clash Nexus AI. This role oversees end-to-end software development, technical architecture, and product engineering for the AI-driven construction review platform. The CTO collaborates closely with product, operations, and customer-facing teams to align technology initiatives with business goals and market needs. Day-to-day responsibilities include leading and mentoring engineering teams, setting coding standards and best practices, managing technical roadmaps, and ensuring reliable, secure, and scalable systems. The CTO also evaluates new technologies, manages vendor and partner relationships, and contributes to strategic planning, budgeting, and risk management to support sustainable growth.\nQualifications\n\nStrong background in Software Development and Architecture, including experience designing scalable, secure, and high-performance platforms.\nProven expertise in Product Development, guiding features from concept to launch and collaborating with cross-functional teams.\nDemonstrated ability in IT Strategy and Project Management, with experience setting technical roadmaps, priorities, and delivery timelines.\nExperience leading remote engineering teams, including mentoring, hiring, and performance management.\nFamiliarity with AI/ML-driven products or data-intensive systems, ideally in B2B SaaS environments.\nKnowledge of construction, engineering, or related industries is a plus, but not required.\nExcellent communication, stakeholder management, and decision-making skills.\nBachelor’s or Master’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "first_seen": "2026-10-02T00:19:21Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Greater Toronto Area",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 100061,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "centre of Greater Toronto Area",
+      "geo_version": 1
+    },
     {
       "company": "Best Access Doors",
       "title": "Director of Technology, AI & Data Transformation",
@@ -16698,7 +16723,8 @@
       "direct_url": "https://builtintoronto.com/job/director-people-analytics/11339202",
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-people-analytics/11339202",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010272475924"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010272475924",
+        "https://www.linkedin.com/jobs/view/4471110788/"
       ]
     },
     {
@@ -16728,7 +16754,8 @@
       "direct_url": "https://builtintoronto.com/job/director-ai-governance-and-adoption-t-i-telework-hybrid/11339209",
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-ai-governance-and-adoption-t-i-telework-hybrid/11339209",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010272475931"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010272475931",
+        "https://www.linkedin.com/jobs/view/4471121274/"
       ]
     },
     {

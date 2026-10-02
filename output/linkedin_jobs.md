@@ -1,12 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-01 23:52 UTC*
+*Last updated: 2026-10-02 00:19 UTC*
 
-**2 new role(s)** since last run · 6 total in last 1h
+**3 new role(s)** since last run · 9 total in last 1h
 
-### [Assistant Vice President, Data Transformation](https://www.linkedin.com/jobs/view/4472988393/) — The Citco Group Limited
-- 📍 **Location:** Nova Scotia, Canada
-- 🕒 **Posted:** 2026-10-01
+### [Director, People Analytics](https://www.linkedin.com/jobs/view/4471110788/) — Radio-Canada
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-10-02
 
-### [Director, Strategy and Corporate Development](https://www.linkedin.com/jobs/view/4474557086/) — Bell
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, AI Governance and Adoption (T & I) (Telework/Hybrid)](https://www.linkedin.com/jobs/view/4471121274/) — Radio-Canada
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-02
+
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4472552677/) — Clash Nexus AI
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-10-01
