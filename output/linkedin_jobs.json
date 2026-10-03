@@ -1,7 +1,57 @@
 {
-  "scraped_at": "2026-10-03 03:11 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-03 04:36 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Les écoles Azrieli Schools Talmud Torah | Herzliah",
+      "title": "Director of Finance and Operations",
+      "location": "Urban agglomeration of Montreal, Quebec, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4473847142/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Reporting directly to the Assistant Head of School and working closely with the Board of Directors’ Finance Committee, the Director of Finance and Operations is responsible for planning and managing all financial aspects of the school, as well as overseeing administrative operations, including human resources, risk management and special projects.\n\n‍\n\nResponsibilities Of The Director Of Finance And Operations Include\n\nManaging the administrative office, accounting department and overall school operations.\nOverseeing all financial matters, including the preparation and administration of the school’s budget and annual audit.\nOverseeing accounts receivable, accounts payable and payroll.\nManaging human resources, including employment contracts.\nEnsuring the school complies with government regulations; maintains accurate employee, student and financial records; prepares required financial statements and reports; and submits all reports required by federal and provincial authorities and relevant organizations in a timely manner.\nEnsuring that the school’s building, grounds and physical assets are properly maintained and insured, and that appropriate safety and security measures are in place.\nManaging and negotiating all service contracts.\n\n‍\n\nQualifications\n\nCPA designation.\nA minimum of five years of experience in financial and operational management.\nExperience in an educational or not-for-profit environment is considered an asset.\nA sound understanding of applicable municipal legislation, relevant policies and regulations governing fundraising activities is considered an asset.\n\n‍\n\nKnowledge, Skills And Technical Competencies\n\nAbility to manage multiple priorities across various functions.\nExcellent leadership, management and team-building skills.\nExcellent interpersonal skills.\nExcellent listening and verbal and written communication skills.\nStrong attention to detail and a high degree of accuracy.\nExcellent organizational skills.\nExcellent time-management skills.\nExperience providing strategic advice to internal stakeholders and senior leadership, including strong presentation, writing and verbal communication skills.\nStrategic and analytical thinker with strong problem-solving skills.\nFlexible, adaptable and a strong team player.\n\n‍\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nPrimary and Secondary Education",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Urban Agglomeration Of Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.55058,
+      "geo_lon": -73.60223,
+      "geo_distance_km": 502.0,
+      "geo_rank": 405020,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Les écoles Azrieli Schools Talmud Torah | Herzliah",
+      "title": "Director of Finance and Operations",
+      "location": "Urban agglomeration of Montreal, Quebec, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4473847142/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Reporting directly to the Assistant Head of School and working closely with the Board of Directors’ Finance Committee, the Director of Finance and Operations is responsible for planning and managing all financial aspects of the school, as well as overseeing administrative operations, including human resources, risk management and special projects.\n\n‍\n\nResponsibilities Of The Director Of Finance And Operations Include\n\nManaging the administrative office, accounting department and overall school operations.\nOverseeing all financial matters, including the preparation and administration of the school’s budget and annual audit.\nOverseeing accounts receivable, accounts payable and payroll.\nManaging human resources, including employment contracts.\nEnsuring the school complies with government regulations; maintains accurate employee, student and financial records; prepares required financial statements and reports; and submits all reports required by federal and provincial authorities and relevant organizations in a timely manner.\nEnsuring that the school’s building, grounds and physical assets are properly maintained and insured, and that appropriate safety and security measures are in place.\nManaging and negotiating all service contracts.\n\n‍\n\nQualifications\n\nCPA designation.\nA minimum of five years of experience in financial and operational management.\nExperience in an educational or not-for-profit environment is considered an asset.\nA sound understanding of applicable municipal legislation, relevant policies and regulations governing fundraising activities is considered an asset.\n\n‍\n\nKnowledge, Skills And Technical Competencies\n\nAbility to manage multiple priorities across various functions.\nExcellent leadership, management and team-building skills.\nExcellent interpersonal skills.\nExcellent listening and verbal and written communication skills.\nStrong attention to detail and a high degree of accuracy.\nExcellent organizational skills.\nExcellent time-management skills.\nExperience providing strategic advice to internal stakeholders and senior leadership, including strong presentation, writing and verbal communication skills.\nStrategic and analytical thinker with strong problem-solving skills.\nFlexible, adaptable and a strong team player.\n\n‍\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nPrimary and Secondary Education",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Urban Agglomeration Of Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.55058,
+      "geo_lon": -73.60223,
+      "geo_distance_km": 502.0,
+      "geo_rank": 405020,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
