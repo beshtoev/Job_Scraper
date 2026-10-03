@@ -1,33 +1,33 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-03 10:18 UTC*
+*Last updated: 2026-10-03 10:47 UTC*
 
-**6 new role(s)** since last run · 7 total in last 1h
+**6 new role(s)** since last run · 12 total in last 1h
 
-### [Director, Customer Operations Vendor Strategy & Execution](https://www.linkedin.com/jobs/view/4456625293/) — Affirm
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 💰 **Salary:** $199,000 - $279,000
+### [Director, Business Intelligence & Go-to-Market](https://www.linkedin.com/jobs/view/4456070014/) — Arterra Wines Canada
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $126,111 - $173,403
 - 🕒 **Posted:** 2026-10-03
 
-### [Chief Courts Information Officer](https://www.linkedin.com/jobs/view/4456289878/) — Affinity
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 🕒 **Posted:** 2026-10-03
-
-### [Director, Customer Operations Vendor Strategy & Execution](https://www.linkedin.com/jobs/view/4456617362/) — Affirm
-- 📍 **Location:** Regina, Saskatchewan, Canada
-- 💰 **Salary:** $199,000 - $279,000
-- 🕒 **Posted:** 2026-10-03
-
-### [Director, Customer Operations Vendor Strategy & Execution](https://www.linkedin.com/jobs/view/4456603422/) — Affirm
-- 📍 **Location:** Victoria, British Columbia, Canada
-- 💰 **Salary:** $199,000 - $279,000
-- 🕒 **Posted:** 2026-10-03
-
-### [Director, Customer Operations Vendor Strategy & Execution](https://www.linkedin.com/jobs/view/4456621348/) — Affirm
-- 📍 **Location:** Oshawa, Ontario, Canada
-- 💰 **Salary:** $199,000 - $279,000
-- 🕒 **Posted:** 2026-10-03
-
-### [Director, HRBP - Operations and Technology](https://www.linkedin.com/jobs/view/4456024778/) — Thomson Reuters
+### [Director, Revenue Strategy & Operations (Large Customer Sales)](https://www.linkedin.com/jobs/view/4466325171/) — Reddit, Inc.
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $137,200 USD - $254,800 USD
+- 🕒 **Posted:** 2026-10-03
+
+### [Director, Customer Operations Vendor Strategy & Execution](https://www.linkedin.com/jobs/view/4456611369/) — Affirm
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 💰 **Salary:** $199,000 - $279,000
+- 🕒 **Posted:** 2026-10-03
+
+### [Director, Customer Operations Vendor Strategy & Execution](https://www.linkedin.com/jobs/view/4456601656/) — Affirm
+- 📍 **Location:** Saskatoon, Saskatchewan, Canada
+- 💰 **Salary:** $199,000 - $279,000
+- 🕒 **Posted:** 2026-10-03
+
+### [Director, Customer Operations Vendor Strategy & Execution](https://www.linkedin.com/jobs/view/4456604395/) — Affirm
+- 📍 **Location:** Queens, Prince Edward Island, Canada
+- 💰 **Salary:** $199,000 - $279,000
+- 🕒 **Posted:** 2026-10-03
+
+### [Director, Customer Operations Vendor Strategy & Execution](https://www.linkedin.com/jobs/view/4456625295/) — Affirm
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $199,000 - $279,000
 - 🕒 **Posted:** 2026-10-03
