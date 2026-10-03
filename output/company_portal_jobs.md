@@ -1,7 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-02 23:19 UTC*
+*Last updated: 2026-10-03 02:24 UTC*
 
-**1 new role(s)** since last run · 230 total in current portal openings
+**1 new role(s)** since last run · 231 total in current portal openings
 
-### [Associate Creative Director, Digital Design](https://builtintoronto.com/job/associate-creative-director-digital-design/11490303) — Samsara
+### [VP of Sales, Enterprise](https://builtintoronto.com/job/vp-sales-enterprise/11493403) — Fulfillment IQ
 - 📍 **Location:** Toronto, Ontario, Canada
