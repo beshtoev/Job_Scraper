@@ -719,6 +719,34 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
     return parsed, raw_count
 
 
+LINKEDIN_PAGE_SIZE = 10   # the guest search API serves at most 10 cards a page
+
+
+def _geo_within(inner: dict, outer: dict) -> bool:
+    """True when `inner` is a place inside `outer`, read from the location strings:
+    "Greater Toronto Area, Canada" and "Ontario, Canada" are both inside "Canada"."""
+    a, b = inner["location"].strip().lower(), outer["location"].strip().lower()
+    return a != b and a.endswith(", " + b)
+
+
+def _linkedin_geo_tree(geos: list[dict]) -> tuple[list[dict], dict[int, list[dict]]]:
+    """(roots, children by id(geo)). A root is inside no other configured geo; each geo's
+    children are the configured geos directly inside it. Geos with no nesting stay roots,
+    so a config of unrelated cities searches every one of them as before."""
+    def parent(g):
+        outers = [o for o in geos if _geo_within(g, o)]
+        # the innermost container is the one with the longest location string
+        return max(outers, key=lambda o: len(o["location"])) if outers else None
+    roots, children = [], {}
+    for g in geos:
+        p = parent(g)
+        if p is None:
+            roots.append(g)
+        else:
+            children.setdefault(id(p), []).append(g)
+    return roots, children
+
+
 def _linkedin_search(terms: list[str], lookback_seconds: int,
                      geos: list[dict] | None = None,
                      max_results: int = 500) -> tuple[list[dict], int]:
@@ -732,8 +760,13 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
 
     Pagination: the guest API returns 10 cards per page. We step by 10 to avoid
     skipping cards. max_results caps the total cards fetched per term per geo
-    (default 500 = 50 pages). The empty-page check breaks early when a term
-    has fewer results, so the hourly watcher stays fast.
+    (default 500 = 50 pages). A page with fewer than 10 cards is the last one, so
+    a term with few results costs one page, and the watcher stays fast.
+
+    Geographies: nested geos (Toronto and Ontario inside Canada) are searched
+    broadest first; a narrower geo is searched for a term only when the broad
+    search filled every page up to max_results, the one case where it can have
+    cut results off.
 
     Rate-limit handling: fetch() retries 429s with exponential backoff. If a
     page still comes back empty after all retries, we retry the same start
@@ -748,74 +781,90 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     total_raw_cards = 0
     consecutive_empty = 0
     pages_fetched = 0
-    for geo in geos:
+    # Speed, 2026-09-26: a 20-minute LinkedIn run fetched ~145 pages and took ~15 min, 3 to 5 s
+    # a page. Measured on a 3h window (311 pages, 63 term x geo searches): Toronto/GTA and
+    # Ontario sit inside Canada, and they added exactly 1 relevant job Canada missed, found
+    # only because Canada hit its page cap for that term. So each term searches the broadest
+    # geo first and drills into the geos inside it only when that search hit the cap. And a
+    # page of fewer than PAGE_SIZE cards is the last page: in all 63 searches no short page
+    # was ever followed by more, so the empty page that used to confirm it is skipped.
+    roots, children = _linkedin_geo_tree(geos)
+    drilled = 0
+    queue = [(term, geo) for term in terms for geo in roots]
+    while queue:
+        term, geo = queue.pop(0)
         geo_param = f"&geoId={geo['geoId']}" if geo.get("geoId") else ""
-        for term in terms:
-            term_start = pages_fetched
-            for start in range(0, max_results, 10):
-                # Dynamic delay: increase when we've been rate-limited
-                delay = LINKEDIN_REQUEST_DELAY + random.uniform(0, 2)
-                if _RATE_LIMITED:
-                    delay += 10  # slow down significantly after any 429
-                time.sleep(delay)
-                url = (
-                    "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
-                    f"?keywords={urllib.parse.quote(term)}"
-                    f"&location={urllib.parse.quote(geo['location'])}"
-                    f"{geo_param}"
-                    f"&f_TPR=r{lookback_seconds}"
-                    f"&start={start}"
-                )
-                html = fetch(url)
-                if not html.strip():
-                    # Could be rate-limited (429 exhausted retries) or genuinely
-                    # no more results. Retry once with a long pause before giving
-                    # up on this term.
-                    consecutive_empty += 1
-                    if consecutive_empty == 1:
-                        wait = 60 + random.uniform(0, 30)
-                        print(f"  ⏸  Empty response at start={start} for \"{term}\" in {geo['name']}; "
-                              f"pausing {wait:.0f}s before one retry…")
-                        time.sleep(wait)
-                        html = fetch(url)
-                        if not html.strip():
-                            print(f"  ⛔ Still empty after retry; stopping \"{term}\" in {geo['name']} "
-                                  f"at start={start}")
-                            break
-                    else:
+        capped = False
+        for start in range(0, max_results, LINKEDIN_PAGE_SIZE):
+            # Dynamic delay: increase when we've been rate-limited
+            delay = LINKEDIN_REQUEST_DELAY + random.uniform(0, 2)
+            if _RATE_LIMITED:
+                delay += 10  # slow down significantly after any 429
+            time.sleep(delay)
+            url = (
+                "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+                f"?keywords={urllib.parse.quote(term)}"
+                f"&location={urllib.parse.quote(geo['location'])}"
+                f"{geo_param}"
+                f"&f_TPR=r{lookback_seconds}"
+                f"&start={start}"
+            )
+            html = fetch(url)
+            if not html.strip():
+                # Could be rate-limited (429 exhausted retries) or genuinely
+                # no more results. Retry once with a long pause before giving
+                # up on this term.
+                consecutive_empty += 1
+                if consecutive_empty == 1:
+                    wait = 60 + random.uniform(0, 30)
+                    print(f"  ⏸  Empty response at start={start} for \"{term}\" in {geo['name']}; "
+                          f"pausing {wait:.0f}s before one retry…")
+                    time.sleep(wait)
+                    html = fetch(url)
+                    if not html.strip():
+                        print(f"  ⛔ Still empty after retry; stopping \"{term}\" in {geo['name']} "
+                              f"at start={start}")
                         break
-                consecutive_empty = 0
-                parsed, raw_count = _parse_linkedin_cards(html)
-                total_raw_cards += raw_count
-                pages_fetched += 1
-                if pages_fetched % 10 == 0:
-                    print(f"  📊 {pages_fetched} pages fetched | "
-                          f"{len(jobs_by_id)} unique jobs | "
-                          f"{total_raw_cards} raw cards"
-                          f"{' [RATE-LIMITED — slowing down]' if _RATE_LIMITED else ''}")
-                # Break on a truly empty page, NOT on "no keyword matches" — a page
-                # of 10 off-target roles must not end pagination for the term.
-                if not raw_count:
+                else:
                     break
-                for p in parsed:
-                    if p["id"] in jobs_by_id:
-                        continue
-                    if not role_is_relevant(p["title"], p["company"]):
-                        continue
-                    jobs_by_id[p["id"]] = {
-                        "company": p["company"],
-                        "title": p["title"],
-                        "location": p["location"],
-                        "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
-                        "date_posted": p["date_posted"],
-                        "salary": p.get("salary", ""),
-                        "ats": "LinkedIn",
-                    }
+            consecutive_empty = 0
+            parsed, raw_count = _parse_linkedin_cards(html)
+            total_raw_cards += raw_count
+            pages_fetched += 1
+            if pages_fetched % 10 == 0:
+                print(f"  📊 {pages_fetched} pages fetched | "
+                      f"{len(jobs_by_id)} unique jobs | "
+                      f"{total_raw_cards} raw cards"
+                      f"{' [RATE-LIMITED — slowing down]' if _RATE_LIMITED else ''}")
+            for p in parsed:
+                if p["id"] in jobs_by_id:
+                    continue
+                if not role_is_relevant(p["title"], p["company"]):
+                    continue
+                jobs_by_id[p["id"]] = {
+                    "company": p["company"],
+                    "title": p["title"],
+                    "location": p["location"],
+                    "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
+                    "date_posted": p["date_posted"],
+                    "salary": p.get("salary", ""),
+                    "ats": "LinkedIn",
+                }
+            # A short page is the last page. Stop on the card count, NOT on keyword
+            # matches: a full page of 10 off-target roles must not end pagination.
+            if raw_count < LINKEDIN_PAGE_SIZE:
+                break
+        else:
+            capped = True     # every page was full up to max_results: results may be cut off
+        if capped and children.get(id(geo)):
+            drilled += len(children[id(geo)])
+            queue[0:0] = [(term, child) for child in children[id(geo)]]
 
     jobs = list(jobs_by_id.values())
     jobs.sort(key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
     print(f"  ✅ LinkedIn search complete: {pages_fetched} pages, "
           f"{total_raw_cards} raw cards, {len(jobs)} unique jobs"
+          f"{f', {drilled} narrower-geo search(es) where the broad one hit the cap' if drilled else ''}"
           f"{' (rate-limited during run)' if _RATE_LIMITED else ''}")
     return jobs, total_raw_cards
 
