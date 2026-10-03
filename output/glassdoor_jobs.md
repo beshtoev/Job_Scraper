@@ -1,13 +1,24 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-03 18:16 UTC*
+*Last updated: 2026-10-03 22:32 UTC*
 
-**2 new role(s)** since last run · 47 total in last 24h
+**4 new role(s)** since last run · 44 total in last 24h
 
-### [Director, Commercial Finance Agriculture](https://www.glassdoor.ca/job-listing/j?jl=1010283289547) — Royal Bank of Canada
-- 📍 **Location:** Woodstock, Canada
-- 🕒 **Posted:** 2026-10-02
+### [Director, Enterprise Managed Services Sales](https://www.glassdoor.ca/job-listing/j?jl=1010280890768) — Broadcast Management Group
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-01
 
-### [Associate Director, Finance](https://www.glassdoor.ca/job-listing/j?jl=1010284338714) — Food Process Solutions
-- 📍 **Location:** Richmond, Canada
-- 💰 **Salary:** $120k–$150k/yr
-- 🕒 **Posted:** 2026-10-03
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010280547636) — Robert Half
+- 📍 **Location:** London, Canada
+- 💰 **Salary:** $130k–$160k/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010282126299) — UP Vertical Farms
+- 📍 **Location:** Pitt Meadows, Canada
+- 💰 **Salary:** $150k–$165k/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Bilingual Director of Finance & Strategic Planning - French/English (100% Remote)](https://www.glassdoor.ca/job-listing/j?jl=1010282117841) — Generation eCom
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $80k–$100k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-01
