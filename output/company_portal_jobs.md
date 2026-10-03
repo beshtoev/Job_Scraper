@@ -1,7 +1,6 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-03 02:24 UTC*
+*Last updated: 2026-10-03 05:36 UTC*
 
-**1 new role(s)** since last run · 231 total in current portal openings
+**0 new role(s)** since last run · 230 total in current portal openings
 
-### [VP of Sales, Enterprise](https://builtintoronto.com/job/vp-sales-enterprise/11493403) — Fulfillment IQ
-- 📍 **Location:** Toronto, Ontario, Canada
+No matching roles found in today's company-portal run.
