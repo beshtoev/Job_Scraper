@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 18:50 UTC",
+  "updated_at": "2026-10-03 18:51 UTC",
   "jobs": [
     {
       "company": "Klick",
@@ -28083,5 +28083,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 970
 }
