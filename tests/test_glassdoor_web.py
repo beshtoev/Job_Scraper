@@ -220,3 +220,26 @@ def test_a_few_early_failures_do_not_condemn_a_network_that_then_works():
     responses = iter([Resp(403)] * 3 + [Resp(200, page([listing(40, "Director, Data")]))] * 40)
     jobs, stats = run(FakeSession(by_url=lambda url: next(responses)), terms=["a", "b"])
     assert stats["network_blocked"] is False and stats["ok"] > 0 and jobs
+
+
+def test_a_run_past_its_time_budget_stops_but_keeps_what_it_already_found(monkeypatch):
+    t = {"now": 0.0}
+    monkeypatch.setattr(gw.time, "monotonic", lambda: t["now"])
+    served = []
+
+    def serve(url):                                  # every query costs nine minutes
+        t["now"] += 9 * 60
+        served.append(url)
+        return Resp(200, page([listing(100 + len(served), "Director, Data")]))
+
+    terms = [f"term {i}" for i in range(10)]         # x 2 places = 20 queries if unconstrained
+    jobs, stats = run(FakeSession(by_url=serve), terms=terms)
+    assert stats["deadline_hit"] is True
+    assert stats["queries"] == len(served) == 3      # checks at 0/9/18 min pass; at 27 min we stop
+    assert len(jobs) == 3                            # the three pages already fetched are kept
+
+
+def test_a_fast_run_never_notices_the_deadline():
+    jobs, stats = run(FakeSession(by_url=lambda url: Resp(200, page([listing(50, "Director, Data")]))),
+                      terms=["a", "b"])
+    assert stats["deadline_hit"] is False and stats["queries"] == 4
