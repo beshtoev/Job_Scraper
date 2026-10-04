@@ -1,6 +1,8 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-04 01:58 UTC*
+*Last updated: 2026-10-04 03:10 UTC*
 
-**0 new role(s)** since last run · 42 total in last 24h
+**1 new role(s)** since last run · 43 total in last 24h
 
-No new roles since the last run.
+### [Director, Strategy and Corporate Development](https://www.glassdoor.ca/job-listing/j?jl=1010282305113) — Bell
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-02
