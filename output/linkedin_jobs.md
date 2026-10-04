@@ -1,13 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-04 15:23 UTC*
+*Last updated: 2026-10-04 15:45 UTC*
 
-**2 new role(s)** since last run · 6 total in last 1h
+**3 new role(s)** since last run · 9 total in last 1h
 
-### [Lead Python and Generative AI Engineer- Vice President](https://www.linkedin.com/jobs/view/4429376526/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
+### [Director of Product Management, Financial Simulation and Modeling](https://www.linkedin.com/jobs/view/4417254135/) — SandboxAQ
+- 📍 **Location:** Canada
+- 💰 **Salary:** $136,000.00/yr - CA$240,000.00/yr
 - 🕒 **Posted:** 2026-10-04
 
-### [Associate Director, Pricing Strategy](https://www.linkedin.com/jobs/view/4438334901/) — EY
-- 📍 **Location:** Toronto, Ontario, Canada
+### [AI Learning Associate Director - Learning and Development (18-month contract)](https://www.linkedin.com/jobs/view/4454665740/) — EY
+- 📍 **Location:** Dieppe, New Brunswick, Canada
+- 💰 **Salary:** $126,800 to $211,300
+- 🕒 **Posted:** 2026-10-04
+
+### [Assistant Director, Digital Marketing - Client Engagement & Automation](https://www.linkedin.com/jobs/view/4454664726/) — EY
+- 📍 **Location:** St John’s, Newfoundland and Labrador, Canada
+- 💰 **Salary:** $94,100 to $144,100
 - 🕒 **Posted:** 2026-10-04
