@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-04 15:10 UTC",
+  "updated_at": "2026-10-04 15:23 UTC",
   "jobs": [
+    {
+      "company": "Citi",
+      "title": "Lead Python and Generative AI Engineer- Vice President",
+      "location": "Mississauga, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4429376526/",
+      "date_posted": "2026-10-04",
+      "salary": "$120,800.00 - $170,800.00",
+      "ats": "LinkedIn",
+      "description": "We're searching for a highly skilled and experienced senior engineer and Python expert to lead the design and development of the various AI-related technologies as part of Services Tech AI team. The ideal candidate has an excellent track record in high-scale engineering products and specifically AI solutions. In this role, you'll be a key player in driving innovative AI projects throughout the bank.\n\nResponsibilities\n\nLead the design, development, and maintenance of highly complex Python-based GenAI platforms, applications, services, and supporting infrastructure to ensure seamless operation, scalability, and integration of AI capabilities across various Citi business units.\nEngage with data science, technical, and business stakeholders to define and design overall architecture for key use-cases, specifically focusing on Python-based solutions for our lines of business.\nDrive the deployment of new GenAI products and process improvements, working with internal and external partners to design, validate, and deliver solutions with commercial benefit for Citi, with a strong emphasis on robust Python implementations.\nResolve high-impact technical and business problems, leading projects through in-depth evaluation of complex GenAI business processes, system architecture, and industry standards, providing innovative Python-driven solutions.\nProvide expert guidance and advanced knowledge in Python-based programming, ensuring platform design adheres to architectural blueprints and best practices for generative models.\nDevelop and enforce robust Python coding standards, testing methodologies, debugging practices, and implementation strategies for enterprise-grade solutions, leveraging an advanced understanding of system flow.\nManage multiple concurrent initiatives and projects of varying sizes and complexity, engaging with external vendors and startups for joint initiatives and exploration of new directions, particularly those involving Python-based technologies.\nCultivate a comprehensive understanding of how business, architecture, and infrastructure integrate within the GenAI ecosystem at Citi to achieve strategic goals.\nServe as an advisor and coach to mid-level developers and analysts specializing in Python and GenAI technologies, fostering skill development and effective work allocation.\nCollaborate with Citi's Risk and Control teams to ensure best practices are followed regarding governance, risk management, standardization, and tooling for Python-based GenAI systems.\n\nSkills & Qualifications\n\n10+ years of experience in the software industry, with a strong emphasis on building enterprise software.\n6+ years of relevant experience in developing and implementing scalable and robuest Python-based platforms for AI-driven applications and systems using salient Python libraries (e.g., FastAPI, Flask, Django, Pandas, NumPy, Prefect, Scikit-learn, Hugging Face).\n5+ years of experience delivering complex Python-based solutions and services (e.g., backend services, APIs) into production.\nDemonstrated experience in managing and implementing successful projects of varying sizes and complexities.\nProven understanding of Generative AI systems, AIOps, and application monitoring/evaluation.\nExperience with cloud architectures, with specific experience in public cloud offerings.\nStrong passion and proven hands-on experience integrating with AI/ML technologies, particularly using Python.\nExperience with software development agents, agile development, CI/CD pipelines, software testing, and code reviews.\nAbility to quickly learn new technologies, adjust priorities, influence highly skilled engineering teams, and guide technology decisions.\nDemonstrated leadership and project management skills.\nExcellent communication and documentation skills, with the ability to communicate clearly and concisely, both written and verbal.\nStrong analytical, problem-solving skills, and a strategic mindset.\nExperience in the financial industry is a significant advantage.\n\nEducation\n\nBachelor's degree/University degree or equivalent experience is required.\n\n------------------------------------------------------\n\nJob Family Group:\n\nTechnology\n\n------------------------------------------------------\n\nJob Family:\n\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\n\nFull time\n\n------------------------------------------------------\n\nPrimary Location Full Time Salary Range:\n\n$120,800.00 - $170,800.00\n\n------------------------------------------------------\n\nMost Relevant Skills\n\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\n\nFor complementary skills, please see above and/or contact the recruiter.\n\n------------------------------------------------------\n\nAutomated Processing and AI\n\nWe use automated processing, including artificial intelligence, for our legitimate business interests (or our reasonable and appropriate business purposes) to identify and align the candidate's skills and abilities with a specific job opening. Additionally, if you so choose, or consent, we can match your skills and abilities to other suitable roles at Citi.\n\nImportantly, all our hiring processes and decisions, including determining your suitability for a role, are conducted, checked, and decided by individuals. Our automated processing and AI do not involve relying on automatic or autonomous decision-making. Please refer to any Jurisdictional Considerations, with specific provisions for your country (where relevant) for further details.\n\n------------------------------------------------------\n\nThis job opening is for an existing job vacancy.\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\n\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView Citi’s EEO Policy Statement and the Know Your Rights poster.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBanking, Financial Services, and Investment Banking",
+      "first_seen": "2026-10-04T15:23:47Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Davie",
       "title": "Director, Planning",
@@ -333,7 +358,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4438334901/"
+      ]
     },
     {
       "company": "EY",
