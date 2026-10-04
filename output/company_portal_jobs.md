@@ -1,7 +1,6 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-04 07:16 UTC*
+*Last updated: 2026-10-04 10:18 UTC*
 
-**1 new role(s)** since last run · 231 total in current portal openings
+**0 new role(s)** since last run · 231 total in current portal openings
 
-### [VP, Network Strategy and Management Solutions](https://builtintoronto.com/job/vp-network-strategy-and-management-solutions/11163229) — Centene Corporation
-- 📍 **Location:** Toronto, Ontario, Canada
+No matching roles found in today's company-portal run.
