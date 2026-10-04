@@ -340,14 +340,14 @@ def test_sources_that_are_not_due_are_left_alone(home, monkeypatch):
     recent = runner.iso(runner.utcnow() - timedelta(minutes=5))
     runner.write_json_atomic(runner.STATE_PATH, {"sources": {"linkedin": {"last_attempt": recent, "last_ok": True}}})
     runner.main(["tick"])
-    assert calls == ["indeed", "glassdoor", "company_portals"]   # linkedin ran 5 minutes ago; the rest never did
+    assert calls == ["indeed", "glassdoor", "ziprecruiter_email", "company_portals"]   # linkedin ran 5 minutes ago; the rest never did
 
 
 def test_due_sources_run_most_urgent_first(home, monkeypatch):
     calls = []
     monkeypatch.setattr(runner, "run_source", lambda name, *a, **k: calls.append(name) or {"total": 0, "new": 0})
     runner.main(["tick"])
-    assert calls == ["linkedin", "indeed", "glassdoor", "company_portals"]
+    assert calls == ["linkedin", "indeed", "glassdoor", "ziprecruiter_email", "company_portals"]
 
 
 def test_a_source_that_comes_due_mid_tick_runs_next_not_last(home, monkeypatch):
@@ -366,8 +366,9 @@ def test_a_source_that_comes_due_mid_tick_runs_next_not_last(home, monkeypatch):
         "indeed": {"last_attempt": runner.iso(clock["now"] - timedelta(minutes=10)), "last_ok": True},
         "glassdoor": {"last_attempt": runner.iso(clock["now"] - timedelta(minutes=10)), "last_ok": True}}})
     runner.main(["tick"])
-    # portals first (the only one due), then linkedin the moment it comes due, each once per tick
-    assert calls == ["company_portals", "linkedin", "indeed", "glassdoor"]
+    # the never-run sources first by priority, then linkedin the moment it comes due,
+    # each once per tick
+    assert calls == ["ziprecruiter_email", "linkedin", "indeed", "glassdoor", "company_portals"]
 
 
 def test_run_one_source_by_name_runs_only_that_one(home, monkeypatch):
