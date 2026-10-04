@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 13:41 UTC",
+  "updated_at": "2026-10-04 14:00 UTC",
   "jobs": [
     {
       "company": "Clever Digital Marketing",
@@ -4807,8 +4807,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-10-01T03:32:44Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -4897,8 +4897,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-10-01T00:06:14Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -5214,16 +5214,16 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-30T21:04:12Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -6421,8 +6421,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-30T00:31:52Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -7113,8 +7113,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-29T21:32:29Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -21756,7 +21756,11 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "181 Bay Street",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$150,000 - $185,000",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4439343644/"
+      ]
     },
     {
       "company": "Brookfield",
@@ -23504,8 +23508,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -23579,7 +23583,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$151,200 - $201,600",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4466742046/"
+      ]
     },
     {
       "company": "Mckesson",
