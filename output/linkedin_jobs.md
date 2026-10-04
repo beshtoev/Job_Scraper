@@ -1,14 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-04 14:00 UTC*
+*Last updated: 2026-10-04 14:15 UTC*
 
-**2 new role(s)** since last run · 6 total in last 1h
+**2 new role(s)** since last run · 8 total in last 1h
 
-### [Sr. Director, Specialty Technology Solutions](https://www.linkedin.com/jobs/view/4466742046/) — McKesson
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $151,200 - $201,600
+### [Head of Finance - Gaming Agency and Publisher](https://www.linkedin.com/jobs/view/4474213403/) — Virtual Athletics League
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-10-04
 
-### [Director, AI Solutions Architect](https://www.linkedin.com/jobs/view/4439343644/) — Brookfield
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000 - $185,000
+### [Director, Management Equity Finance and Tax – SLC Management](https://www.linkedin.com/jobs/view/4445064044/) — SLC Management
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 💰 **Salary:** $110,000–$150,000
 - 🕒 **Posted:** 2026-10-04
