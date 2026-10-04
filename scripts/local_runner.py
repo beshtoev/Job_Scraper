@@ -71,6 +71,13 @@ DEFAULT_CONFIG = {
         # fresh as it can get, and more often only adds rate-limit risk.
         "glassdoor": {"every_minutes": 60, "args": ["--glassdoor-only"], "basename": "glassdoor_jobs",
                       "timeout_minutes": 30, "priority": 3},
+        # ZipRecruiter's site blocks every scheduled scraper (interactive Cloudflare check),
+        # so saved searches on ziprecruiter.com email their results and this reads that
+        # mailbox (~/.job-scraper/email.json; docs/ziprecruiter-email.md). Unconfigured or
+        # empty mailboxes keep the previous results, so the slot is always safe to run.
+        "ziprecruiter_email": {"every_minutes": 60, "args": ["--ziprecruiter-email"],
+                               "basename": "ziprecruiter_jobs",
+                               "timeout_minutes": 10, "priority": 4},
         # Employer ATS boards (Workday, Greenhouse, Lever...). GitHub polled them once a day.
         # A full poll is ~20 min, so it goes last and every 3 hours.
         "company_portals": {"every_minutes": 180, "script": "portal_scraper.py", "args": [],

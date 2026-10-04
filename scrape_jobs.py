@@ -1491,6 +1491,71 @@ def scrape_ziprecruiter_recent(hours_old: int | None = None) -> list:
     )
 
 
+def scrape_ziprecruiter_email() -> list:
+    """ZipRecruiter roles taken from its alert emails instead of its blocked site.
+
+    The site's interactive Cloudflare check defeats every scheduled scraper, so the
+    saved searches live on ziprecruiter.com and email their results; this reads that
+    mailbox (see ziprecruiter_email.py). A missing mailbox config or an unreachable
+    mailbox keeps the previous results, exactly like a blocked board.
+    """
+    import ziprecruiter_email as zre
+
+    print("🟧 Reading ZipRecruiter alert emails...")
+    prev_path = os.path.join(OUTPUT_DIR, "ziprecruiter_jobs.json")
+    cfg = zre.load_email_config()
+    if not cfg:
+        print(f"  ⚠️  Mailbox not configured: fill in {zre.default_config_path()} "
+              f"(docs/ziprecruiter-email.md); keeping previous results")
+        return _load_prev_jobs(prev_path)
+    try:
+        cards, stats = zre.scrape(cfg)
+    except Exception as e:
+        print(f"  ⛔ Could not read the mailbox ({type(e).__name__}: {e}); keeping previous results")
+        return _load_prev_jobs(prev_path)
+
+    jobs_by_id: dict[str, dict] = {}
+    for card in cards:
+        title = card["title"]
+        if not title_matches_keywords(title):
+            continue
+        ident = _job_identity(card["url"])
+        if ident in jobs_by_id:
+            continue
+        loc = card["location"]
+        is_remote = "remote" in loc.lower()
+        jobs_by_id[ident] = _ensure_work_arrangement({
+            "company": card["company"] or "Unknown",
+            "title": title,
+            "location": loc,
+            "url": card["url"],
+            "direct_url": "",
+            "company_url": "",
+            "date_posted": "",
+            "description": "",
+            "salary": card["salary"],
+            "salary_source": "alert email",
+            "salary_currency": "",
+            "job_type": "",
+            "is_remote": is_remote,
+            "work_arrangement": classify_work_arrangement(loc, "", is_remote=is_remote),
+            "emails": "",
+            "ats": "ZipRecruiter",
+        })
+    jobs = list(jobs_by_id.values())
+    print(f"  📊 ZipRecruiter email: {stats['emails']} alert(s) → {stats['cards']} card(s), "
+          f"{len(jobs)} matched ({stats['empty_emails']} unparsed)")
+
+    if stats["emails"] == 0:
+        # No alerts in the window is normal (quiet week, or alerts not set up yet);
+        # it says nothing about the jobs, so keep what we had.
+        prev = _load_prev_jobs(prev_path)
+        print(f"  ℹ️  No alert emails in the last {cfg['since_days']} day(s); "
+              f"preserving previous {len(prev)} result(s)")
+        return prev
+    return jobs
+
+
 def _google_jobs_time_phrase(hours_old: int) -> str:
     """Natural-language recency phrase expected by Google Jobs search."""
     if hours_old <= 24:
@@ -3453,6 +3518,10 @@ if __name__ == "__main__":
 
     if "--ziprecruiter-only" in sys.argv:
         save_ziprecruiter_results(scrape_ziprecruiter_recent())
+        sys.exit(0)
+
+    if "--ziprecruiter-email" in sys.argv:
+        save_ziprecruiter_results(scrape_ziprecruiter_email())
         sys.exit(0)
 
     if "--ziprecruiter-backfill" in sys.argv:

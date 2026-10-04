@@ -57,4 +57,6 @@ job data: `local_runner.py sync-dashboard` (GitHub also commits `output/`, so a 
   catches up.
 - **It runs whatever is on `main`,** on your Mac, with your GitHub login (for pushing data). Treat merges to
   `main` as code that will run here.
-- ZipRecruiter is not covered: its site sits behind an interactive Cloudflare human check.
+- ZipRecruiter's site sits behind an interactive Cloudflare human check, so it arrives by
+  email instead: saved searches on ziprecruiter.com send alerts to a mailbox the runner reads
+  hourly (read-only IMAP). Setup and behaviour: docs/ziprecruiter-email.md.
