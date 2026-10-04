@@ -56,6 +56,8 @@ AGE_STEPS = (1, 3, 7, 14, 30)
 PAGE_SIZE = 30
 BLOCK_AFTER = 3  # consecutive failures, with no success yet, that mean the whole network is refused
 REQUEST_TIMEOUT = 20  # seconds per request; the TLS client otherwise waits 30s and a stalled IP would hang a run
+DEADLINE_MINUTES = 20  # wall-clock budget for one scrape(); past it we stop querying and keep what we have,
+                       # because the local runner kills the whole process at 30 min and that loses everything
 PAY_INTERVALS = {"ANNUAL": "yearly", "MONTHLY": "monthly", "WEEKLY": "weekly", "DAILY": "daily", "HOURLY": "hourly"}
 
 
@@ -263,13 +265,18 @@ def scrape(
     log: Callable[[str], None] = print,
     now: datetime | None = None,
     verbose: bool = False,
+    deadline_minutes: float | None = DEADLINE_MINUTES,
 ) -> tuple[list[dict], dict]:
     """Search every (term, place) pair and return (jobs, stats).
 
     ``stats`` always says how many queries ran, how many failed, and how many
     hit the ~30-result page limit, so silence never means "nothing there".
+    A run slowed down (e.g. by Cloudflare retries) past ``deadline_minutes``
+    stops querying and returns what it has, with ``stats["deadline_hit"]``
+    set; the next run's window re-covers what was skipped.
     """
     now = now or datetime.now(timezone.utc)
+    deadline = time.monotonic() + deadline_minutes * 60 if deadline_minutes else None
     if session is None:
         session = make_session()
         warm_up(session)
@@ -279,20 +286,23 @@ def scrape(
         places.append("canada")  # remote and unlisted cities live only in the national search
 
     stats = {"queries": 0, "ok": 0, "failed": 0, "raw": 0, "truncated": 0, "from_age": from_age,
-             "errors": [], "network_blocked": False}
+             "errors": [], "network_blocked": False, "deadline_hit": False}
     streak = 0   # consecutive failed queries with no success yet
     jobs: dict[str, dict] = {}
     first = True
 
     for term in terms:
-        if stats["network_blocked"]:
+        if stats["network_blocked"] or stats["deadline_hit"]:
             break
         for place in places:
-            if stats["network_blocked"]:
+            if stats["network_blocked"] or stats["deadline_hit"]:
                 break
             loc_type, loc_id, loc_slug = LOCATIONS[place]
             age = from_age
             while True:
+                if deadline is not None and time.monotonic() >= deadline:
+                    stats["deadline_hit"] = True
+                    break
                 if not first:
                     time.sleep(delay + random.uniform(0, 1.0))
                 first = False
@@ -339,6 +349,9 @@ def scrape(
     )
     for err in stats["errors"][:3]:
         log(f"  ⚠️  Glassdoor {err}")
+    if stats["deadline_hit"]:
+        log(f"  ⏱  Glassdoor stopped at its {deadline_minutes:g}-minute budget and kept everything "
+            f"matched so far; the next run's window covers what was skipped.")
     if stats["network_blocked"]:
         log("  ⛔ Glassdoor refused every request from this network (Cloudflare blocks data-centre "
             "addresses such as GitHub-hosted runners). Run it from a home/office connection or via a proxy.")
