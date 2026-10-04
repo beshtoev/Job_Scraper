@@ -57,7 +57,9 @@
       "enterprise platform",
       "finance systems",
       "erp transformation",
-      "technology modernization"
+      "technology modernization",
+      "chief financial officer",
+      "cfo"
     ],
     "_exclude_comment": "Only unambiguous junior/IC title signals are hard-rejected. Engineering terms are intentionally not excluded because executive data-engineering mandates can be relevant.",
     "exclude": [
@@ -157,7 +159,9 @@
       "Data Governance",
       "AI Governance",
       "Enterprise AI",
-      "Enterprise Platforms"
+      "Enterprise Platforms",
+      "Chief Financial Officer",
+      "CFO"
     ],
     "indeed": [
       "VP Data AI",
@@ -167,7 +171,8 @@
       "Finance Transformation",
       "VP FP&A",
       "Enterprise AI",
-      "Digital Transformation"
+      "Digital Transformation",
+      "Chief Financial Officer"
     ],
     "glassdoor": [
       "vice president data",
@@ -195,7 +200,8 @@
       "director ai",
       "director finance",
       "director transformation",
-      "director governance"
+      "director governance",
+      "chief financial officer"
     ],
     "ziprecruiter": [
       "VP Data AI",
@@ -205,7 +211,8 @@
       "Finance Transformation",
       "VP FP&A",
       "Enterprise AI",
-      "Digital Transformation"
+      "Digital Transformation",
+      "Chief Financial Officer"
     ],
     "google_jobs": [
       "VP Data AI",
@@ -215,7 +222,8 @@
       "Finance Transformation",
       "VP FP&A",
       "Enterprise AI",
-      "Digital Transformation"
+      "Digital Transformation",
+      "Chief Financial Officer"
     ],
     "hiring_cafe": [],
     "calcareers": [],
