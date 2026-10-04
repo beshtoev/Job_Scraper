@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 14:15 UTC",
+  "updated_at": "2026-10-04 14:27 UTC",
   "jobs": [
     {
       "company": "Virtual Athletics League",
@@ -7,12 +7,12 @@
       "location": "Calgary, Alberta, Canada",
       "url": "https://www.linkedin.com/jobs/view/4474213403/",
       "date_posted": "2026-10-04",
-      "salary": "",
+      "salary": "$65k–$80k/yr",
       "ats": "LinkedIn",
       "description": "We’re looking for a full time head of finance to help strengthen the financial foundation of VAL, which has been in operations for 10 years. This is an all remote role. Candidates must be located in Canada.\n\nCandidates who do not have at least one of the following backgrounds - agency, gaming, or publishing experience will not be considered.\n\nThe Virtual Athletics League (VAL) is an both startup, leading agency in the VR space, and a publisher. We have the same network of investors who backed Tesla, Hotmail, and Skype.\n\nWe have worked directly with Meta on many supported projects including some of the most high profile in VR. Previously we have worked with Nerf, The Walking Dead, Metro, Alien, Hello Neighbor, and others like Gorilla Tag.\n\nThis is not a pure bookkeeping or controller role or day to day finance tasks.\n\nCandidates who understand the modern challenges of gaming businesses and the VR industry are given the highest priority.\n\nThe ideal candidate has financial clarity, structure, and judgment while also helping mentor the team and experience in pricing and building robust invoice collection systems.\n\nThis is a leadership role. We are looking for those with a heart for team dynamics and growth.\n\nThe ideal person has experience in gaming agencies, service businesses project-based or retainer-based revenue environments companies. We are looking for someone with a keen eye for cash flow, forecasting, margins, and operational decision-making.\n\nCore job duties\n\nBuilding and improving core financial structures, reporting, and forecasting\nHelping ensure the company has the right finance systems and rhythms in place\nAdvising on cash flow, budgeting, profitability, and planning\nBringing sharper visibility into margins, revenue quality, and financial decision-making\nSupporting leadership with strategic financial thinking, not just historical reporting\nMentoring internal team members and helping improve finance-related accountability and maturity\nIdentifying gaps, weak spots, and opportunities in our current finance operations\nLeadership coaching, hiring and other people management skills\n\nWhat we’re looking for\n\nSignificant experience in at least some senior level financial position or even front line management role.\nStrong command of financial planning, cash flow management, forecasting, and operational finance\nAbility to work well in an entrepreneurial environment.\nSomeone practical, direct, and capable of building order without creating unnecessary bureaucracy\nForecasting experience and ability especially in agencies, gaming and live ops.\n\nPay is 110,000 CAD per year and starts on a four month initial contract with potential conversion to our EOR/Canadian legal entity.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nEntertainment Providers",
       "first_seen": "2026-10-04T14:15:00Z",
       "work_mode": "Remote",
-      "work_mode_evidence": "description",
+      "work_mode_evidence": "title/location",
       "geo_category": "Canada Remote",
       "geo_label": "Canada Remote (AB)",
       "geo_city": "Calgary",
@@ -24,7 +24,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010284687908"
+      ]
     },
     {
       "company": "SLC Management",
