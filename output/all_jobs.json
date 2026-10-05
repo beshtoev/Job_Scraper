@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-05 20:55 UTC",
+  "updated_at": "2026-10-05 21:03 UTC",
   "jobs": [
+    {
+      "company": "Sun Life",
+      "title": "Director, Domain Enterprise Architect, Technology Modernization and Cloudification",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286034054",
+      "date_posted": "2026-10-05",
+      "description": "Chaque jour, vous aurez de nouvelles et passionnantes occasions de rendre la vie plus brillante pour nos Clients – qui sont au cœur de tout ce que nous faisons.",
+      "salary": "$135k–$195k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-05T21:03:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Panda Hub",
+      "title": "Fractional Chief Financial Officer (CFO)",
+      "location": "Etobicoke, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286008883",
+      "date_posted": "2026-10-05",
+      "description": "This role is responsible for providing executive-level financial leadership, overseeing budgeting, forecasting, financial planning, cash flow management,…",
+      "salary": "$90k–$100k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-05T21:03:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Etobicoke",
+      "geo_province": "ON",
+      "geo_lat": 43.6205,
+      "geo_lon": -79.5132,
+      "geo_distance_km": 13.5,
+      "geo_rank": 135,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "J Dass",
       "title": "Chief Financial Officer (CFO)",
@@ -10,7 +64,7 @@
       "company_url": "https://ca.indeed.com/cmp/J-Dass",
       "date_posted": "2026-10-05",
       "description": "**Job Summary**\n\n\nChief Financial Officer (CFO)\n\n\nJ Dass\n\n\nFull\\-time\n\n\nIn\\-Office \\| Vaughan, ON, Canada\n\n **The Opportunity**\n\n\nYou’re the kind of person who is always looking to learn. You want to grow into something greater and you’re looking for an employer encourages and supports your professional development. J Dass promotes advancement and rewards our employees based on individual performance and merit. Sure you’ll have exposure to the team, but all of our people are accountable for their success. Competitive and focused, our team is on a mission to deliver excellence. We also know that this can only be accomplished by supporting our employee growth and development. By providing frequent feedback and consistently measuring progress, we’ve discovered the recipe for success that’s delivered year over year growth since our first year of business. This a culture of winning. At J Dass we breed winners.\n\n **Responsibilities**\n\n* Oversee financial planning, budgeting, and forecasting to guide growth strategy.\n* Drive cash flow management and working capital optimization.\n* Develop and monitor KPIs and dashboards for revenue, costs, and pipelines.\n* Provide strategic financial guidance to executive team for decision making.\n* Lead fundraising efforts and investor relations to support expansion.\n* Ensure compliance with accounting standards and internal controls.\n* Identify cost optimization opportunities without compromising growth.\n* Build scalable financial processes and systems to support rapid growth.\n* Manage treasury functions and risk management to safeguard assets.\n* Lead annual audit and liaise with external auditors.\n* Develop talent within the finance team and promote merit\\-based advancement.\n\n **Experience/Qualifications**\n\n* CPA/CA or equivalent, with strong IFRS/GAAP knowledge.\n* 10\\+ years finance leadership, preferably in growth\\-stage companies.\n* Proven experience in fundraising and investor relations.\n* Fluent in building scalable FP\\&A processes and dashboards.\n* Strong cash flow, working capital, and treasury management skills.\n* Track record of implementing internal controls and audit readiness.\n* Strategic advisory mindset with ahigh emphasis on KPIs and data\\-driven decisions.\n* Talent development: experience building and mentoring finance teams.\n* Experience in risk management and regulatory compliance across jurisdictions.\n* On\\-site availability with ability to collaborate closely with executive team.\n\n **What's in it for you? (Salary, Commissions \\& Benefits)**\n\n* On\\-site role based in Vaughan, ON — enjoy a collaborative, in\\-person work environment\n* Competitive base salary as the core of your compensation package\n\n\n\\#J\\_Dass  \n\n  \n\n*J Dass uses Workwolf’s AI\\-enabled tools to sort and screen applications based on job\\-related criteria. All hiring decisions involve human review.*",
-      "salary": "",
+      "salary": "$85k–$90k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -32,7 +86,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285933645"
+      ]
     },
     {
       "company": "Loblaw Companies Limited",
@@ -165,7 +222,7 @@
       "location": "Montreal, Quebec, Canada",
       "url": "https://www.linkedin.com/jobs/view/4475875141/",
       "date_posted": "2026-10-05",
-      "salary": "",
+      "salary": "$135k–$195k/yr",
       "ats": "LinkedIn",
       "description": "Vous êtes aussi unique que votre parcours, votre expérience et votre point de vue. Ici, vous serez encouragé, habilité et défié à être à votre meilleur. Vous travaillerez avec des collègues dynamiques – des experts dans leurs domaines – qui sont désireux de partager leurs connaissances avec vous. Vos leaders vous inspireront et vous aideront à atteindre votre potentiel et à vous envoler vers de nouveaux horizons. Chaque jour, vous aurez de nouvelles et passionnantes occasions de rendre la vie plus brillante pour nos Clients – qui sont au cœur de tout ce que nous faisons.\n\nChez Sun Life, nous sommes guidés par notre Raison d'être : aider nos Clients à réaliser la sécurité financière à vie et à vivre une vie plus saine. Nos valeurs façonnent notre façon de travailler : bienveillance, authenticité, audace, inspiration et impact.\n\nQuand vous vous joignez à Sun Life, vous travaillez avec des collègues passionnés et des leaders habilitants qui soutiennent votre croissance et célèbrent vos contributions, afin que vous puissiez faire une différence significative dans la vie de nos Clients.\n\nDécouvrez comment vous pouvez faire une différence dans la vie des personnes, des familles et des communautés du monde entier.\n\nDescription de poste:\n\nDirector, Enterprise Architecture Strategy, Core Platform\n\nThe Director, Enterprise Architecture Strategy is the architecture strategist supporting the Assistant Vice President, Enterprise Architecture, Core Platforms.\n\nThe Director drives the architecture integration strategy across cloud, on premise, network, application platforms, and foundational technology services. The role translates enterprise and business priorities into actionable architecture direction, roadmaps, investment priorities, standards, and modernization outcomes.\n\nWorking closely with the AVP, other Enterprise Architects, technology executives, engineering leaders, and domain and solution architects, the Director ensures that architecture priorities are aligned with business, operational, security, regulatory, and cost outcomes.\n\nWhat will you do?\n\nWorking in collaboration with the other Enterprise Architects, define future-state architectures, transition roadmaps, principles, standards, reference architectures, and decision boundaries.\nProvide strategic analysis, recommendations, visibility and executive reporting into architecture decisions, investments, dependencies, risks, and outcomes.\nMaintain an integrated view of architecture priorities, decisions, dependencies, and outcomes.\nTranslate business priorities, executive direction, regulatory obligations, operational risks, and technology constraints into actionable architecture priorities.\nIntegrate cloud, infrastructure, network, security, identity, platform, API, and application architecture into a coherent enterprise direction.\nFacilitate joint architecture planning and decision-making where initiatives cross business, portfolio, or technology boundaries.\nPromote the reuse of enterprise capabilities, platforms, standards, patterns, and architecture decisions.\nEscalate unresolved cross-domain decisions to the appropriate architecture or executive authority.\nLead architecture governance and ensure architecture decisions are documented, traceable, implementable, and aligned with security, resilience, operational, financial, and compliance requirements.\nPartner with engineering and operational leaders to validate that architecture direction is practical, financially responsible, and sustainable in production.\nDefine and communicate measurable outcomes for technology health, risk reduction, resilience, cost efficiency, simplification and platform adoption.\n\nWhat you'll need to succeed?\n\nBachelor’s degree in Computer Science, Engineering, Information Systems, Business Technology Management, or a related discipline. A master’s degree is preferred.\nEnterprise architecture credentials such as TOGAF, IASA CITA, or an equivalent architecture certification are preferred.\n10 or more years of progressive architecture experience, including enterprise, portfolio, or cross-domain responsibility.\nDemonstrated experience developing enterprise technology strategies, future-state architectures, integrated roadmaps, standards, and transition plans.\nBroad knowledge of cloud platforms, networks, operating systems, middleware, identity, security, virtualization, application hosting, APIs, integration, automation, and platform engineering.\nExperience with cloud migration, infrastructure transformation, vulnerability remediation, technology currency, lifecycle management, and technical debt reduction.\nExperience integrating architecture strategies and resolving dependencies across multiple business and technology domains.\nProven ability to influence senior business and technology leaders through clear analysis, options, trade-offs, and recommendations.\nAbility to translate business and enterprise priorities into actionable architecture direction.\nAbility to synthesize complex and fragmented information into a coherent enterprise position.\nExcellent executive communication, facilitation, negotiation, and influence.\nStrong financial and analytical acumen, including investment, cost, risk, and value trade-offs.\nAbility to lead through influence, establish decision clarity, and resolve conflicts.\nSound judgment regarding when to standardize, consolidate, modernize, remediate, replace, retire, or accept risk.\n\nWhat’s in it for you?\n\nA competitive salary and bonus program, based on market scale\nA flexible group insurance program starting on your first day of work to meet your needs and those of your family.\nTime off that allows you to focus on the moments that matter most. 20 vacation days per year.\nOur Share Ownership Program gives you the opportunity to invest in Sun Life while benefiting from employer matching contributions.\nWe are proud to be included in Great Place to Work's 2026 list of Canada's Best Workplaces.\nWorking together, sharing common values, and encouraging growth & achievement.\n\nL'étendue du salaire de base s'applique au lieu principal pour lequel l'emploi est affiché. Elle peut varier en fonction du lieu de travail du candidat retenu ou d'autres facteurs. En plus du salaire de base, les employés admissibles de Sun Life participent à divers régimes d'encouragement dont le paiement est discrétionnaire et assujetti au rendement individuel et à celui de l'entreprise. Certains rôles axés sur les ventes comportent des régimes d'encouragement à la vente basés sur les résultats des ventes individuelles ou de groupe.\n\nLa diversité et l'inclusion ont toujours été au cœur de nos valeurs chez Sun Life. Une main-d'œuvre diversifiée avec des perspectives variées et des idées créatives profite à nos Clients, aux communautés où nous opérons et à nous tous comme collègues. Nous accueillons les demandes de personnes qualifiées de tous les milieux.\n\nLes personnes handicapées qui ont besoin d'accommodements dans le processus de demande ou celles qui ont besoin d'offres d'emploi dans un format différent peuvent envoyer une demande par courriel à thebrightside@sunlife.com.\n\nNous sommes fiers d'être une organisation hybride qui offre à nos employés le choix et la flexibilité de travailler à la fois au bureau et virtuellement en fonction des besoins de l'entreprise, de nos Clients et de vous.\n\nNous pouvons utiliser l'intelligence artificielle pour soutenir la recherche de candidats, le filtrage et la planification des entrevues.\n\nNous remercions tous les candidats d'avoir manifesté de l'intérêt pour ce poste. Seuls les candidats sélectionnés pour une entrevue seront contactés.\n\nÉchelle salariale:\n\n135,000/135 000 - 195,000/195 000\n\nCatégorie\nd'emploi\n:\n\nDéveloppement d'applications - TI\n\nFin de\nl'affichage\n:\n\n18/10/2026\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInsurance",
       "first_seen": "2026-10-05T20:03:56Z",
@@ -182,7 +239,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286034062"
+      ]
     },
     {
       "company": "Sun Life Québec",
@@ -424,7 +484,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "4250 Canada Way, Burnaby",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285892091"
+      ]
     },
     {
       "company": "FAIRMONT",
@@ -721,7 +784,8 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/director-strategic-finance/11505836",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-strategic-finance/11505836"
+        "https://builtintoronto.com/job/director-strategic-finance/11505836",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286043553"
       ]
     },
     {
@@ -1028,6 +1092,8 @@
       "description": "Director of Data Center Operations\n\nThe Director of Data Center Operations serves as a strategic leader responsible for enabling Salute’s site teams to focus on customer delivery. This role will support administrative, compliance, and employee development responsibilities, ensuring operational consistency across sites and building a highly skilled, engaged workforce. The Director will manage operational governance, talent development, process improvement, and cross-site coordination, leading a multi-campus operations account.\n\nKey Responsibilities\n\n1. Operational Oversight & Administrative Management\n\nOwn and manage all non-billable (internal) operational duties to reduce administrative workload on billable site managers.\n\nMaintain centralized oversight of policies, procedures, and documentation standards for all assigned sites.\n\nEnsure compliance with safety, security, and regulatory requirements through regular audits and reporting.\n\nCoordinate multi-site operational planning, scheduling, and resource allocation in alignment with client needs.\n\nTrack and report operational performance metrics, providing actionable insights to client site leadership.\n\nObserve customer operational workflows, documentation, and reporting templates and recommend improvements to client site management to drive consistency and performance across locations.\n\n2. Employee Development & Talent Management\n\nLead talent development programs for site leadership teams, including onboarding, training, mentoring, and career progression planning.\n\nConduct regular performance reviews, provide coaching, and create individual development plans for site managers.\n\nFacilitate leadership readiness programs to prepare emerging leaders for future management roles.\n\nEnsure new leaders are equipped with the skills and tools needed before assuming management positions.\n\n3. Process & Quality Improvement\n\nIdentify operational bottlenecks and implement process improvements to enhance efficiency and service quality.\n\nDevelop and maintain a knowledge base of best practices, lessons learned, and standard operating procedures.\n\nCoordinate cross-site initiatives to align maintenance, safety, and operational excellence programs.\n\nOversee root cause analysis and lessons-learned documentation following incidents, ensuring consistent follow-up.\n\nMaintain relationship with client site management for quality assurance feedback.\n\n4. Stakeholder Communication & Coordination\n\nAct as the primary liaison for operational matters between the VP of Data Center Operations, site managers, and corporate teams.\n\nAct as primary account manager for a data center operations client.\n\nSupport internal communications, ensuring that site managers receive timely updates and clear direction.\n\nCollaborate with HR, Finance, and other support functions to resolve site-level personnel or process issues.\n\nReceive client feedback and escalations on team performance.\n\nReport data, metrics, and feedback to client in support of reporting and collaboration.\n\nQualifications\n\n5+ years in operations leadership, preferably in critical infrastructure or technical services.\n\nProven experience in employee development, team leadership, and performance management.\n\nStrong organizational, planning, and project management skills.\n\nExceptional communication and stakeholder engagement abilities.\n\nExperience implementing process improvements and operational standards across multiple locations.\n\nDeep understanding of data center infrastructure and operations.\n\nPosition Impact\n\nUnder the Director of Data Center Operations, site managers will be empowered to focus on, and be supported in, delivering exceptional service to our customers. This role will be instrumental in strengthening our leadership pipeline, improving operational efficiency, and ensuring long-term customer satisfaction.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nNon-profit Organizations",
       "first_seen": "2026-10-05T14:33:45Z",
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285983919",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285983922",
         "https://www.linkedin.com/jobs/view/4474278816/"
       ],
       "work_mode": "",
