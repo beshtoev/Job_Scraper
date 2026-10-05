@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-05 18:32 UTC",
+  "updated_at": "2026-10-05 18:39 UTC",
   "jobs": [
+    {
+      "company": "FAIRMONT",
+      "title": "Assistant Director, Finance and Business Support",
+      "location": "Lake Louise, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010285848418",
+      "date_posted": "2026-10-05",
+      "description": "Professional designation (CPA, CHAE) or acceptable university degree with an appropriate specialization in accounting or enrolled in a recognized accounting…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-05T18:39:32Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Lake Louise",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Shoppers Drug Mart",
       "title": "Senior Director, Pharmacy Experience and Transformation",
@@ -10,7 +37,7 @@
       "company_url": "https://ca.indeed.com/cmp/Shoppers-Drug-Mart",
       "date_posted": "2026-10-05",
       "description": "**Location:**\n\n243 Consumers Road, Toronto, Ontario, M2J 4W8\nAt Shoppers Drug Mart, we’re innovating health and wellness in Canada. From prescriptions to walk\\-in clinics, and a beloved loyalty program, we’re caring and supporting our customers in new ways every day.  \n\nWith more than 1,300 locally owned and operated stores from coast to coast, the Shoppers Drug Mart network is more than a great place to shop, it’s a great place to work. We’re committed to building our talented team who champion collaboration, kindness and inclusivity. Join our team, and help recognize a healthy future for your career and for all Canadians.\n\n**Why this role is important?**\n\n\nReporting to the VP, Pharmacy Operations, Clinical Excellence and Transformation, the Senior Director, Pharmacy Experience and Transformation will lead the strategy and execution of transformational initiatives shaping the future of pharmacy at Shoppers Drug Mart.\n\n\nThis role will own the **pharmacy AI, technology, automation and optimization agenda**, while ensuring that the patient and pharmacy team experience remains at the centre of transformation. The successful candidate will identify and scale opportunities that improve how patients access and experience pharmacy care, simplify pharmacy workflows, enhance team member experience and deliver measurable operational and business value.\n\n\nWorking closely with Pharmacy Operations, Technology, Digital, Clinical Excellence, and other cross\\-functional partners, this leader will translate emerging capabilities, patient and team insights, and business opportunities into a clear transformation strategy and roadmap. They will be comfortable operating at both the strategic and execution level, taking initiatives from early\\-stage discovery and business case development through implementation, adoption, and scale.\n\n **What You’ll Do**\n\n* Define and lead the Pharmacy Experience and Transformation strategy and roadmap, with a strong focus on AI, automation, technology and the evolving needs of patients and pharmacy teams.\n* Own the pharmacy AI agenda, identifying and prioritizing opportunities to apply AI and emerging technologies to improve patient experience, pharmacy workflows, team member experience and operational performance.\n* Lead a portfolio of key transformation initiatives, including Experience Insights \\& Analysis, Pharmacy Experience Program (PEP), Rx Delivery, AI Call Agent and Assisted Data Entry.\n* Translate strategic opportunities into scalable solutions, leading initiatives from discovery, concept development and business case through implementation, adoption and value realization.\n* Champion a patient\\- and team\\-centred approach to transformation, ensuring new technology and process changes make pharmacy interactions simpler, more seamless and more meaningful.\n* Identify opportunities to redesign, simplify and automate pharmacy workflows, reducing administrative burden and enabling pharmacy teams to spend more time supporting patients and delivering care.\n* Use patient feedback, pharmacy team insights, operational data, market trends and emerging technology to identify opportunities and shape the future pharmacy experience.\n* Partner closely with Pharmacy Operations, Technology, Digital, Clinical Excellence and other teams to align business priorities, technology capabilities and investment against the transformation roadmap.\n* Lead experience discovery and analysis to better understand patient and team member pain points, unmet needs and emerging expectations, and translate those insights into actionable transformation priorities.\n* Establish clear success measures across patient experience, pharmacy team experience, operational performance and financial value, and monitor outcomes to ensure initiatives are delivering meaningful impact.\n* Build alignment across senior stakeholders and cross\\-functional teams, bringing clarity and structure to complex transformation opportunities and driving decisions required to move initiatives forward.\n* Lead and develop a high\\-performing team with a strong culture of strategic thinking, innovation, experimentation, accountability and execution.\n\n **What You’ll Need**\n\n* Senior leadership experience in strategy, AI, digital transformation, technology, customer experience or large\\-scale business transformation.\n* Demonstrated ability to develop transformation strategies and take complex initiatives from concept and business case through implementation and scale.\n* Strong understanding of AI, automation and emerging technologies, and how they can be applied to improve customer or patient experience, frontline workflows and operational efficiency.\n* Strong strategic thinking and problem\\-solving skills, with the ability to bring structure and direction to complex or ambiguous opportunities.\n* A strong human\\-centred mindset, with demonstrated ability to translate patient, customer and frontline team needs into meaningful experience improvements.\n* Strong business acumen, including the ability to assess opportunities, build compelling business cases and connect transformation investments to measurable value.\n* Proven ability to lead complex, cross\\-functional initiatives across operations, technology, digital and business teams.\n* Strong executive communication, stakeholder management and influencing skills, with the ability to align senior leaders around a transformation agenda.\n* Experience using data, insights and performance measures to inform strategy, prioritize opportunities and assess impact.\n* Experience in pharmacy, healthcare, retail, technology, consulting or another complex operating environment.\n* Demonstrated ability to lead and develop high\\-performing teams through significant change and transformation.\n* Post\\-Secondary education in Industrial or Process Engineer / Technology / Business/ Healthcare or Operations\n* 7\\-10 years' experience, retail preferred\n* MBA or relevant advanced degree is an asset.\n* Must be available",
-      "salary": "",
+      "salary": "$145k–$195k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -32,7 +59,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "243 Consumers Road, Toronto",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285831579"
+      ]
     },
     {
       "company": "CIBC",
@@ -231,7 +261,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285846293"
+      ]
     },
     {
       "company": "Forma.ai",
@@ -441,6 +474,7 @@
       "duplicate_urls": [
         "https://builtintoronto.com/job/ai-product-scaling-director/11503060",
         "https://ca.indeed.com/viewjob?jk=a65703e8e0f9511f",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285828461",
         "https://www.linkedin.com/jobs/view/4475826450/"
       ],
       "work_mode": "Remote",
@@ -893,7 +927,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285795911"
+      ]
     },
     {
       "company": "Plumbers' Photographer Union",
@@ -3084,6 +3121,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010285822675",
         "https://www.linkedin.com/jobs/view/4475827046/"
       ]
     },
