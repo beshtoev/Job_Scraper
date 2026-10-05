@@ -1,34 +1,23 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 22:07 UTC*
+*Last updated: 2026-10-05 23:13 UTC*
 
-**6 new role(s)** since last run · 31 total in last 24h
+**4 new role(s)** since last run · 33 total in last 24h
 
-### [Regional Director, High Net Worth Wealth Planning](https://www.glassdoor.ca/job-listing/j?jl=1010284615707) — BMO Financial
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $110k–$200k/yr
-- 🕒 **Posted:** 2026-10-04
-
-### [Director, Domain Enterprise Architect, Technology Modernization and Cloudification](https://www.glassdoor.ca/job-listing/j?jl=1010286135112) — Sun Life
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $135k–$195k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Director, Enterprise Architecture Strategy, Core Platform](https://www.glassdoor.ca/job-listing/j?jl=1010286135102) — Sun Life
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $135k–$195k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Associate Director, Data Engineer](https://www.glassdoor.ca/job-listing/j?jl=1010286046845) — SickKids Foundation
+### [Managing Director and Head, Financial Services Group](https://www.glassdoor.ca/job-listing/j?jl=1010286194110) — BMO Financial Group
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $99k–$143k/yr
+- 💰 **Salary:** $120k–$215k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Director, Domain Enterprise Architect, RPA and Intelligent Automation](https://www.glassdoor.ca/job-listing/j?jl=1010286135156) — Sun Life
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $135k–$195k/yr
+### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010285892910) — St. Michaels University School
+- 📍 **Location:** Victoria, Canada
+- 💰 **Salary:** $101k–$151k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Chief Financial Officer (CFO) – Controller Experience Required](https://www.glassdoor.ca/job-listing/j?jl=1010286089081) — Firefly Solar Inc.
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $175k–$200k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010286197201) — Backstretch
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $120k–$170k/yr
+- 🕒 **Posted:** 2026-10-05
+
+### [Director, Finance & Operations](https://www.glassdoor.ca/job-listing/j?jl=1010286152568) — Bissell Centre
+- 📍 **Location:** Edmonton, Canada
 - 🕒 **Posted:** 2026-10-05

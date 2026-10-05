@@ -1,13 +1,40 @@
 {
-  "updated_at": "2026-10-05 23:05 UTC",
+  "updated_at": "2026-10-05 23:13 UTC",
   "jobs": [
+    {
+      "company": "BMO Financial Group",
+      "title": "Managing Director and Head, Financial Services Group",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286194110",
+      "date_posted": "2026-10-05",
+      "description": "Bachelor’s degree required, Master’s degree preferred, CPA certification preferred; Business Administration, Finance and Accounting preferred.",
+      "salary": "$120k–$215k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-05T23:13:16Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "BackStretch",
       "title": "Director of Finance",
       "location": "Vancouver, British Columbia, Canada",
       "url": "https://www.linkedin.com/jobs/view/4474631705/",
       "date_posted": "2026-10-05",
-      "salary": "",
+      "salary": "$120k–$170k/yr",
       "ats": "LinkedIn",
       "description": "In this Director of Finance position - this is a rare opportunity to join a local BC-based company that is scaling up! A fast-growing company now at 8 million gross revenue (with stretch goals this year to reach 10 million) in the business services insurance space that is making customers' lives easier with compassion and data. You will work alongside the CEO and leadership team - your voice will be heard, and your inputs can be implemented in days, not years.If you are keen on joining a local and growing company, where ideas are heard and implemented, and prides itself on daily improvement - this is for you!\n\nTop level:\n\nThe Director of Finance is a senior financial leader responsible for overseeing the organization’s financial operations, planning, reporting, and strategic financial management. To be clear, you are the sole individual in finance on the leadership team - and will have the opportunity to build around when the timing is right.\n\nThis role provides financial insight and leadership to executive management while ensuring the accuracy, integrity, and effectiveness of the company’s financial processes.\nThe Director of Finance will lead budgeting and forecasting, financial reporting, cash flow management, financial analysis, internal controls, and long-term financial planning. The successful candidate will be a strategic business partner who can translate financial data into actionable recommendations and help drive sustainable growth and profitability.\n\nKey Responsibilities:\n\nFinancial Leadership & Strategy\n\nDevelop and execute financial strategies aligned with the organization’s overall business objectives.\nServe as a trusted financial advisor to the CEO, executive leadership team, and other senior stakeholders.\nProvide financial analysis, insights, and recommendations to support strategic and operational decision-making.\nEvaluate business performance, profitability, investments, and growth opportunities.\nEstablish financial policies, processes, controls, and performance standards.\n\nBudgeting & Forecasting\n\nLead the annual budgeting and planning process.\nDevelop financial forecasts and regularly update projections based on business performance and market conditions.\nMonitor actual results against budgets and forecasts, identifying trends, risks, and opportunities.\nPartner with department leaders to improve financial accountability and resource allocation.\n\nFinancial Reporting & Analysis\n\nOversee timely and accurate monthly, quarterly, and annual financial reporting.\nCompletion of all T2s\nPrepare management reports, dashboards, and financial presentations for senior leadership and, where applicable, the Board of Directors.\nAnalyze revenue, expenses, margins, cash flow, working capital, and key performance indicators.\nDevelop meaningful financial metrics to measure business performance.\n\nAccounting & Controls\n\nOversee accounting operations, including accounts payable, accounts receivable, general ledger, payroll, and financial close processes.\nEnsure compliance with applicable accounting standards, tax requirements, and regulatory obligations.\nMaintain strong internal controls and financial governance.\nCoordinate with external auditors, tax advisors, banking partners, and other financial service providers.\n\nCash Flow & Risk Management\n\nManage cash flow forecasting and liquidity planning.\nMonitor working capital and optimize cash management.\nIdentify financial, operational, and business risks and recommend appropriate mitigation strategies.\nSupport insurance, banking, financing, and other financial arrangements as required.\n\nTeam Leadership\n\nLead, mentor, and develop the finance and accounting team.\nEstablish clear goals, performance expectations, and professional development plans.\nPromote a culture of accountability, accuracy, continuous improvement, and business partnership.\nEvaluate and improve finance systems, processes, and technology.\n\nQualifications:\n\nBachelor’s degree in Finance, Accounting, Business Administration, or a related field.\nCPA, CFA, MBA, or other relevant professional designation is an asset.\n5+ years of progressive experience in finance, accounting, financial planning and analysis, or a related discipline.\nDemonstrated experience leading budgeting, forecasting, financial reporting, and strategic analysis.\nStrong understanding of accounting principles, financial controls, and business finance.\nExperience managing and developing finance professionals.\nStrong analytical, problem-solving, and decision-making skills.\nExcellent communication and presentation abilities.\nAdvanced proficiency in Excel and financial reporting/ERP systems.\n\nPreferred Experience\n\nExperience in a senior finance leadership role within a growing or complex organization.\nExperience with financial systems implementation, process improvement, and automation.\nStrong commercial and operational understanding, with the ability to connect financial performance to business strategy.\nExperience managing external auditors, tax advisors, lenders, and other external stakeholders.\n\nFinancials:\n\nFull time - full time in office with option for hybrid after first 3 months\nPay Range - 120k to 170k\nComprehensive benefits program - including dental care, vision care, and paid time off\nAnnual bonus based on profitability on business\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInsurance",
       "first_seen": "2026-10-05T23:05:32Z",
@@ -24,7 +51,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286197201"
+      ]
     },
     {
       "company": "ICUC",
@@ -74,7 +104,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286152568"
+      ]
     },
     {
       "company": "SickKids Foundation",
@@ -30392,6 +30425,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1048
+  ]
 }
