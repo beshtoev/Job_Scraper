@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 09:54 UTC*
+*Last updated: 2026-10-05 10:19 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Associate Director, Strategic Initiatives, Wealth Planning](https://www.linkedin.com/jobs/view/4448917858/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $70,000.00 - $150,000.00
+### [Chief Artificial Intelligence Architect](https://www.linkedin.com/jobs/view/4473636245/) — National Bank of Canada
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-05
+
+### [Digital Payments and Tokenized Assets Leader](https://www.linkedin.com/jobs/view/4473624736/) — National Bank of Canada
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-05
