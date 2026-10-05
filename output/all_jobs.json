@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-05 10:19 UTC",
+  "updated_at": "2026-10-05 10:46 UTC",
   "jobs": [
+    {
+      "company": "Jobgether",
+      "title": "Director of Data Engineering",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4474268189/",
+      "date_posted": "2026-10-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Director of Data Engineering based in Canada.\n\nThis is a senior data leadership role responsible for building and scaling the data foundation that powers critical business decisions.\n\nYou’ll own the data roadmap, architecture, and company-wide data model while creating a trusted single source of truth for core business information.\n\nThe role combines strategic leadership with hands-on technical involvement, from modernizing legacy pipelines to improving data quality, governance, and observability.\n\nYou’ll lead a small engineering team, establish clear priorities, and help engineers grow while staying close to the technical details when needed.\n\nAs the business scales, you’ll also guide infrastructure and warehouse efficiency, enterprise system integrations, and platform reliability.\n\nAI will be an important part of the team’s operating model, with opportunities to use AI agents for development, incident investigation, and data quality.\n\nThe environment is fully remote, high-trust, fast-moving, and focused on building a durable enterprise-level data function from a strong foundation.\n\nAccountabilities\n\nOwn the data roadmap, architecture, and company-wide data model, establishing a trusted single source of truth for core business data.\nModernize and refactor legacy data jobs, reducing technical debt and creating a platform that can scale with business growth.\nEnsure data pipelines remain resilient, reliable, accurate, and consistently available to teams across the organization.\nEstablish and maintain strong data quality, governance, monitoring, and observability practices.\nManage warehouse and infrastructure costs as data volumes and business requirements increase.\nLead the team's intake and sprint-planning process, prioritizing requests according to business impact while adapting to changing priorities.\nLead, coach, and develop a small data engineering team through code reviews, regular feedback, mentorship, and clear growth paths.\nStay hands-on with technical work when required, contributing directly to architecture, engineering, troubleshooting, and platform improvements.\nIntegrate new enterprise systems, including ERP platforms, into the data warehouse and broader data ecosystem.\nIntroduce and scale AI-native ways of working, using AI agents for software development, incident investigation, data quality, and engineering productivity.\nPromote a pragmatic engineering approach that starts with the business question and selects the simplest technology capable of solving it.\nFoster a culture where data integrity and trust are treated as critical, priorities are managed decisively, and engineers are supported in developing into senior contributors and future managers.\n\nRequirements\n\n8+ years of experience in data architecture or data engineering, including at least 3 years of experience leading teams.\nProven experience building and scaling cloud-based data platforms, with BigQuery or a comparable technology.\nStrong hands-on expertise in SQL and Python, along with dbt or a similar data modeling framework.\nDeep experience with data modeling and the ability to design data structures starting from business concepts and requirements rather than simply from existing tables.\nExperience establishing data quality, governance, monitoring, and observability practices that create confidence across the organization.\nExperience managing sprint-based intake, prioritization, and delivery for a data team supporting multiple business stakeholders.\nFamiliarity with ELT platforms such as Fivetran and comparable data integration tools.\nExperience working with enterprise systems and data integrations; ERP experience is a plus.\nExperience in direct-to-consumer (DTC) or consumer packaged goods (CPG) environments is preferred.\nStrong judgment and prioritization skills, with the ability to balance urgent business needs against long-term platform health and technical debt.\nHands-on leadership style with the ability to move between strategic planning, technical problem-solving, and people management.\nStrong coaching and communication skills, with a commitment to developing engineers and creating clear paths for professional growth.\nPractical experience using AI agents or AI-assisted engineering tools, with an openness to making AI a meaningful part of day-to-day technical workflows.\n\nBenefits\n\nBase salary of $200,000 plus bonus and incentive compensation, depending on experience.\nComprehensive benefits package supporting employee and family well-being.\nStrong healthcare benefits coverage.\nGenerous paid time off.\nWellness and health-focused perks.\nFree access to company products.\nFully remote, high-trust working environment.\nBiannual company off-sites providing opportunities for in-person connection and collaboration.\nSignificant ownership and influence over the organization's data strategy and technical foundation.\nOpportunities for career growth and meaningful impact while building an enterprise-level data function.\n\nHow Jobgether Works\n\nWe use an AI-powered matching process\nto ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\n\nWhy Apply Through Jobgether?\n\nData Privacy Notice:\nBy submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInternet Marketplace Platforms",
+      "first_seen": "2026-10-05T10:46:36Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "National Bank of Canada",
       "title": "Chief Artificial Intelligence Architect",
@@ -2498,6 +2523,8 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://www.linkedin.com/jobs/view/4447711997/",
+        "https://www.linkedin.com/jobs/view/4447717950/",
+        "https://www.linkedin.com/jobs/view/4447723873/",
         "https://www.linkedin.com/jobs/view/4447724866/",
         "https://www.linkedin.com/jobs/view/4447732067/",
         "https://www.linkedin.com/jobs/view/4466055306/",

@@ -1,12 +1,18 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 10:19 UTC*
+*Last updated: 2026-10-05 10:46 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 6 total in last 1h
 
-### [Chief Artificial Intelligence Architect](https://www.linkedin.com/jobs/view/4473636245/) — National Bank of Canada
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director of Data Engineering](https://www.linkedin.com/jobs/view/4474268189/) — Jobgether
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-10-05
 
-### [Digital Payments and Tokenized Assets Leader](https://www.linkedin.com/jobs/view/4473624736/) — National Bank of Canada
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Associate Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4447723873/) — KPMG Canada
+- 📍 **Location:** Hamilton, Ontario, Canada
+- 💰 **Salary:** $98,000 to $131,500
+- 🕒 **Posted:** 2026-10-05
+
+### [Associate Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4447717950/) — KPMG Canada
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $98,000 to $131,500
 - 🕒 **Posted:** 2026-10-05
