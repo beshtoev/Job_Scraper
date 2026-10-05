@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-05 07:47 UTC",
+  "scraped_at": "2026-10-05 08:31 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "ONSITE3D",
@@ -28,30 +28,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ONSITE3D",
-      "title": "Chief Financial Officer",
-      "location": "Calgary, Alberta, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4474259021/",
-      "date_posted": "2026-10-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Company Description\nONSITE3D is an Indigenous-owned virtual design and construction (VDC) company serving the industrial and construction sectors with end-to-end project solutions. The organization combines advanced technology, innovative front-end planning, and highly skilled labor to optimize efficiency, minimize waste, and reduce cost and schedule risks. A state-of-the-art manufacturing facility with automated welding supports precise, consistent prefabrication of components. Experienced construction and maintenance crews provide support from field execution through final commissioning. ONSITE3D positions itself as a trusted partner for turnkey VDC solutions that deliver reliable, high-quality results.\nRole Description\nThe Chief Financial Officer (CFO) is a full-time, on-site role based in Calgary, AB, responsible for leading all financial strategy and operations for ONSITE3D. The CFO will oversee budgeting, forecasting, cash flow management, and capital planning, while ensuring timely and accurate financial reporting to senior leadership and stakeholders. Day-to-day responsibilities include managing financial controls, overseeing the preparation and analysis of financial statements, and monitoring key performance indicators to support data-driven decision making. The role will collaborate closely with executive leadership to support growth initiatives, assess investment opportunities, and manage risk across projects and business units. The CFO will also lead and develop the finance team, maintain relationships with banks, auditors, and other financial partners, and ensure compliance with applicable accounting standards and regulatory requirements.\nQualifications\n\nCandidates should possess strong skills in Financial Planning, budgeting, and forecasting.\nCandidates should possess expertise in Financial Statements and Financial Reporting, including preparation, analysis, and presentation.\nCandidates should possess a solid foundation in Finance and capital management, including cash flow, investments, and risk management.\nCandidates should possess advanced Analytical Skills for interpreting financial data, modeling scenarios, and supporting strategic decisions.\nExtensive experience in senior financial leadership roles, preferably as a CFO or equivalent in industrial, construction, or related sectors.\nProfessional accounting designation (e.g., CPA, CA, CMA, CGA) and a university degree in finance, accounting, business, or a related field.\nDemonstrated ability to build and lead high-performing finance teams and to collaborate effectively with cross-functional leadership.\nExperience with ERP systems, financial software, and process improvement within a growing organization.\nStrong communication, stakeholder management, and negotiation skills, with the ability to present complex information clearly.\nCommitment to inclusive, ethical business practices and alignment with the values of an Indigenous-owned organization.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nOil, Gas, and Mining",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (AB)",
-      "geo_city": "Calgary",
-      "geo_province": "AB",
-      "geo_lat": 51.0447,
-      "geo_lon": -114.0719,
-      "geo_distance_km": 2706.9,
-      "geo_rank": 427069,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
