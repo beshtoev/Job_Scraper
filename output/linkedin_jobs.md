@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 02:08 UTC*
+*Last updated: 2026-10-05 02:38 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Vice President Finance](https://www.linkedin.com/jobs/view/4474221794/) — Plumbers' Photographer Union
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-05
