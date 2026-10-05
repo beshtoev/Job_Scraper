@@ -1,35 +1,21 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 18:39 UTC*
+*Last updated: 2026-10-05 19:49 UTC*
 
-**7 new role(s)** since last run · 24 total in last 24h
+**4 new role(s)** since last run · 27 total in last 24h
 
-### [Regional Director, High Net Worth Wealth Planning](https://www.glassdoor.ca/job-listing/j?jl=1010284615707) — BMO Financial
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $110k–$200k/yr
-- 🕒 **Posted:** 2026-10-04
+### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010285892910) — St. Michaels University School
+- 📍 **Location:** Victoria, Canada
+- 💰 **Salary:** $101k–$151k/yr
+- 🕒 **Posted:** 2026-10-05
 
-### [Vice President, Information Security](https://www.glassdoor.ca/job-listing/j?jl=1010285846293) — Docebo
+### [Senior Director, Enterprise Execution](https://www.glassdoor.ca/job-listing/j?jl=1010285880188) — EQ Bank | Canada's Challenger Bank
 - 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-10-05
 
-### [Assistant Director, Finance and Business Support](https://www.glassdoor.ca/job-listing/j?jl=1010285848418) — FAIRMONT
-- 📍 **Location:** Lake Louise, Canada
-- 🕒 **Posted:** 2026-10-05
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010283838752) — JASPER PLACE WELLNESS CENTRE
+- 📍 **Location:** Edmonton, Canada
+- 🕒 **Posted:** 2026-10-03
 
-### [vCIO - Virtual Chief Information Officer](https://www.glassdoor.ca/job-listing/j?jl=1010285822675) — F12.net
-- 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Director, Pharmacy Experience and Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010285831579) — Shoppers Drug Mart / Pharmaprix
+### [Director, Technology Communications & Organizational Change Management (14 month contract)](https://www.glassdoor.ca/job-listing/j?jl=1010285915259) — Canadian Tire Corporation
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $145k–$195k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [AI Product Scaling Director](https://www.glassdoor.ca/job-listing/j?jl=1010285828461) — CIBC
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-05
-
-### [Associate Director-AI&Data](https://www.glassdoor.ca/job-listing/j?jl=1010285795911) — Accenture
-- 📍 **Location:** Ottawa, Canada
-- 💰 **Salary:** $172k–$324k/yr
 - 🕒 **Posted:** 2026-10-05
