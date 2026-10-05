@@ -1,32 +1,7 @@
 {
-  "scraped_at": "2026-10-05 03:45 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-05 04:32 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Plumbers' Photographer Union",
-      "title": "Vice President Finance",
-      "location": "Montreal, Quebec, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4474221794/",
-      "date_posted": "2026-10-05",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "*This is a McGill University student club position\n\nPosition Description:\nAttending and engaging in bi-weekly PPU Executive meetings \nSubmitting budget proposals at the beginning of each semester on behalf of the PPU. \nTracking the financial activities of the PPU with the budget created for each semester.\nApproving, in conjunction with the President(s), all PPU expenditures. \nSubmitting and managing cheque requests for all Executive Committee members. \nEnsuring adequate sources of funding for PPU events, workshops, and initiatives. \nHelp manage compensation owed to EUS photographers for paid work in conjunction with the President(s).\n\nRequirement\nApplicants must be members of the EUS (aka. an undergraduate student in McGill's Engineering Faculty)\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nPhotography",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Montreal",
-      "geo_province": "QC",
-      "geo_lat": 45.5019,
-      "geo_lon": -73.5674,
-      "geo_distance_km": 502.6,
-      "geo_rank": 405026,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
