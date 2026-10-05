@@ -1,27 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 14:33 UTC*
+*Last updated: 2026-10-05 15:38 UTC*
 
-**5 new role(s)** since last run · 7 total in last 1h
+**3 new role(s)** since last run · 4 total in last 1h
 
-### [Director of Data Center Operations](https://www.linkedin.com/jobs/view/4474284469/) — Salute
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$150,000.00/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Director of Data Center Operations](https://www.linkedin.com/jobs/view/4474278816/) — Salute
+### [Senior Director, Enterprise Execution](https://www.linkedin.com/jobs/view/4475817168/) — EQ Bank
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$150,000.00/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Head of Information Technology, Business Engagement, North America](https://www.linkedin.com/jobs/view/4473640966/) — Pacific International Executive Search
+### [Director - Retail Project Management (Enterprise)](https://www.linkedin.com/jobs/view/4474601094/) — Turner & Townsend
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$200,000.00/yr
+- 💰 **Salary:** $60,000 - $85,000 per year
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior IT Auditor, VP Finance](https://www.linkedin.com/jobs/view/4475032532/) — University of Calgary
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-10-05
-
-### [Directeur régional des technologies de l’information - Région de Montréal/Information Technology Regional Director - Montreal](https://www.linkedin.com/jobs/view/4438374375/) — MDA Space
-- 📍 **Location:** Sainte-Anne-de-Bellevue, Quebec, Canada
+### [Associate Director, Capital Investment Strategy](https://www.linkedin.com/jobs/view/4474281904/) — Toronto Pearson International Airport
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-05
