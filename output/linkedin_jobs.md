@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 09:05 UTC*
+*Last updated: 2026-10-05 09:54 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4473617819/) — Recruiting Solutions by Deborah Zsebok
-- 📍 **Location:** Leamington, Ontario, Canada
-- 💰 **Salary:** $100,000.00/yr - CA$140,000.00/yr
+### [Associate Director, Strategic Initiatives, Wealth Planning](https://www.linkedin.com/jobs/view/4448917858/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $70,000.00 - $150,000.00
 - 🕒 **Posted:** 2026-10-05
