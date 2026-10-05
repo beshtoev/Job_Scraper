@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 19:16 UTC*
+*Last updated: 2026-10-05 19:40 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Director - Deal Analytics](https://www.linkedin.com/jobs/view/4474618282/) — RSM Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000 - $238,700
+### [Senior Director Benefits Governance](https://www.linkedin.com/jobs/view/4473692012/) — National Bank of Canada
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-05
+
+### [Chief Financial Officer (CFO)](https://www.linkedin.com/jobs/view/4475846960/) — JDass Corp
+- 📍 **Location:** Maple, Ontario, Canada
 - 🕒 **Posted:** 2026-10-05
