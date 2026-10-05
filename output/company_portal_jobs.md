@@ -1,14 +1,20 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 12:07 UTC*
+*Last updated: 2026-10-05 15:24 UTC*
 
-**2 new role(s)** since last run · 231 total in current portal openings
+**5 new role(s)** since last run · 235 total in current portal openings
 
-### [Enterprise Service Management (ESM) Transformation Director](https://jobs.lever.co/valiantys/77aa2f9a-fa93-4f99-8156-67395d90415e) — Valiantys
-- 📍 **Location:** Remote, North America
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-05-18
+### [AI Product Scaling Director](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/AI-Product-Scaling-Director_2620358) — CIBC
+- 📍 **Location:** Toronto, ON
+- 🕒 **Posted:** 2026-10-05
 
-### [SDLC Transformation Director](https://jobs.lever.co/valiantys/349ed7fd-4fde-4d41-832c-23de5c7b9ffe) — Valiantys
-- 📍 **Location:** Remote, North America
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-05-18
+### [Director, Technology Communications & Change](https://builtintoronto.com/job/director-technology-communications-change/11504313) — Canadian Tire Corporation
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [AI Product Scaling Director](https://builtintoronto.com/job/ai-product-scaling-director/11503060) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Finance Transformation Director](https://builtintoronto.com/job/finance-transformation-director/11502935) — Travelex
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [SDLC Transformation Director](https://builtintoronto.com/job/sdlc-transformation-director/11501482) — Valiantys
+- 📍 **Location:** Toronto, Ontario, Canada
