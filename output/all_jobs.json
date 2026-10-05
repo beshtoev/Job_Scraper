@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-05 21:55 UTC",
+  "updated_at": "2026-10-05 22:07 UTC",
   "jobs": [
+    {
+      "company": "SickKids Foundation",
+      "title": "Associate Director, Data Engineer",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286046845",
+      "date_posted": "2026-10-05",
+      "description": "Stay current with developments in cloud data platforms, AI, and emerging engineering practices, bringing relevant advancements into the platform roadmap and…",
+      "salary": "$99k–$143k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-05T22:07:36Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Firefly Solar Inc.",
+      "title": "Chief Financial Officer (CFO) – Controller Experience Required",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286089081",
+      "date_posted": "2026-10-05",
+      "description": "Lead budgeting, forecasting, cash-flow planning and financial analysis. Partner closely with the Accounting & Finance Lead and senior leadership on financial…",
+      "salary": "$175k–$200k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-05T22:07:36Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "illumin",
       "title": "Technology Procurement Leader",
@@ -101,9 +155,9 @@
       "url": "https://builtintoronto.com/job/director-domain-enterprise-architect-rpa-and-intelligent-automation/11512446",
       "direct_url": "https://builtintoronto.com/job/director-domain-enterprise-architect-rpa-and-intelligent-automation/11512446",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-10-05",
       "date_seen": "2026-10-05T21:38:16Z",
-      "description": "",
+      "description": "A flexible group insurance program starting on your first day of work to meet your needs and those of your family. A master’s degree is preferred.",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -123,7 +177,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$135k–$195k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286135156"
+      ]
     },
     {
       "company": "Autodesk",
@@ -250,7 +308,8 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/director-domain-enterprise-architect-technology-modernization-and-cloudification/11512435",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-domain-enterprise-architect-technology-modernization-and-cloudification/11512435"
+        "https://builtintoronto.com/job/director-domain-enterprise-architect-technology-modernization-and-cloudification/11512435",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286135112"
       ]
     },
     {
@@ -475,7 +534,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010286034062"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286034062",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286135102"
       ]
     },
     {
