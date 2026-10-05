@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 13:27 UTC*
+*Last updated: 2026-10-05 13:47 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Head of Sales Americas, Private Markets Data Solutions (f/m/x)](https://www.linkedin.com/jobs/view/4474285135/) — CEPRES
-- 📍 **Location:** Canada
+### [Technology and Innovation - Associate Director (NetSuite)](https://www.linkedin.com/jobs/view/4410863809/) — Riveron
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $162,000.00/yr - CA$190,000.00/yr
 - 🕒 **Posted:** 2026-10-05
