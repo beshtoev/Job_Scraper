@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 04:32 UTC*
+*Last updated: 2026-10-05 04:54 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Associate Director-AI&Data](https://www.linkedin.com/jobs/view/4474233667/) — Accenture
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $172,100 to $323,600
+- 🕒 **Posted:** 2026-10-05
