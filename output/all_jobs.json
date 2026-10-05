@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 18:25 UTC",
+  "updated_at": "2026-10-05 18:31 UTC",
   "jobs": [
     {
       "company": "CIBC",
@@ -4990,7 +4990,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010282733804"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010282733804",
+        "https://www.linkedin.com/jobs/view/4474298824/"
       ]
     },
     {
@@ -5957,8 +5958,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-10-01T03:32:44Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -6047,8 +6048,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-10-01T00:06:14Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -6364,16 +6365,16 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-30T21:04:12Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -7571,8 +7572,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-30T00:31:52Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -24658,8 +24659,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -24790,8 +24791,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -27775,9 +27776,9 @@
       "url": "https://builtintoronto.com/job/vice-president-product-management-enterprise-loyalty-consulting/11193546",
       "direct_url": "https://builtintoronto.com/job/vice-president-product-management-enterprise-loyalty-consulting/11193546",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-10-05",
       "date_seen": "2026-09-22T12:47:15Z",
-      "description": "",
+      "description": "Our Purpose\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\nTitle And Summary\n\nVice President, Product Management, Enterprise Loyalty Consulting\n\nOverview\n\nMastercard’s Services organization is a key growth engine, delivering innovative solutions that help our customers thrive. By integrating proprietary data, cutting-edge technology, expert insights, and strategic expertise, Services plays a critical role in driving Mastercard’s differentiation and business growth. The Consumer Acquisition & Engagement team is a key differentiator for Mastercard, providing the cutting-edge services that help our customers grow.\n\nMastercard is looking for a Vice President, Product Management, Enterprise Loyalty to drive growth of global Consumer Acquisition & Engagement (CA&E) consulting. In CA&E, we help clients build stronger and more profitable relationships with their customers through our combination of data, technology platforms, marketing capabilities, and expertise. Consulting plays a critical role in delivering outcomes for our clients through our trusted advisory that additionally draws in the right solutions from CA&E to solve our clients’ needs.\n\nThe VP, Product Management, Enterprise Loyalty Consulting will spearhead the Enterprise Loyalty consulting vision, guiding many of the world’s leading financial institutions in enhancing their relationships with their consumers. You will partner closely across Product, Marketing, Sales, Delivery, regional teams and external partners to build joint solutions, clear product narratives, strengthen go-to-market execution and ensure we deliver measurable value for clients, consumers and Mastercard.\n\nWhat will you do?\n\nStrategy: Define the vision and product strategy for Enterprise Loyalty consulting\nProduct innovation: Oversee and evolve a portfolio of solutions that drives consumer engagement strategy and Enterprise Loyalty for many of the world’s leading Financial Institutions.\nGo-to-market: Establish GTM playbook and thought leadership for Enterprise Loyalty strategy. Collaborate with product and sales to develop narratives that resonate in the market, and partner with our regional teams to build adoption and pipeline in local markets.\nClient impact: Engage directly with clients to understand pain points and challenges in delivering Enterprise Loyalty value propositions with their consumers. Maintain a two-way dialogue with our consultants and sales teams to validate that we are delivering measurable client impact through the work we do.\nMarket Insights: Maintain awareness of competitive trends, emerging rewards models, partner ecosystems, and broader loyalty innovation across global markets\nProduct development: Support business case development, pricing inputs, packaging recommendations, and commercialization planning for new and enhanced consulting capabilities. Manage a product roadmap that balances short-term priorities with long-term aspirations.\n\nAll About You\n\nSubstantial experience leading loyalty and rewards at an established financial institution\nDeep knowledge in financial institutions, payments, and marketing\nDemonstrated thought leadership in the market through speaking engagements, published articles and/or digital mediums (e.g. podcasts)\nVisionary thinking and proven record of owning outcomes\nExperience in a matrix organization structure, managing and building relationships with internal and external stakeholders effectively\nExceptional ability to drive strategic alignment both laterally (across stakeholders) and longitudinally (along different time horizons) thinking coupled with deep intellectual curiosity\nConsultative mindset with the ability to craft compelling, customer-tailored narratives\nAbility to break down and communicate complex ideas in dynamic situations\nHigh level of ownership, quantitative acumen, creativity, and entrepreneurship\n\nMastercard is a merit-based, inclusive, equal opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. We hire the most qualified candidate for the role. In the US or Canada, if you require accommodations or assistance to complete the online application process or during the recruitment process, please contact reasonable_accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.\n\nCorporate Security Responsibility\n\nAll activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:\n\nAbide by Mastercard’s security policies and practices;\nEnsure the confidentiality and integrity of the information being accessed;\nReport any suspected information security violation or breach, and\nComplete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.\n\nIn line with Mastercard’s total compensation philosophy and assuming that the job will be performed in Canada, the successful candidate will be offered a competitive pay based on location, experience and other qualifications for the role and may be eligible to participate in a discretionary annual incentive program. This posting reflects one or more current openings on our team.\n\nPay Ranges\n\nToronto, Canada: $200,000 - $320,000 CAD\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services, IT Services and IT Consulting, and Technology, Information and Internet",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -27797,7 +27798,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$200,000 - $320,000",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4465212872/"
+      ]
     },
     {
       "company": "Morningstar",
