@@ -1,9 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 19:06 UTC*
+*Last updated: 2026-10-05 19:41 UTC*
 
-**1 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-### [Vice President, Information Security](https://ca.indeed.com/viewjob?jk=abbf4b2cbfc975c1) — Docebo
+### [Senior Director, Enterprise Execution](https://ca.indeed.com/viewjob?jk=d5d6934096dc790b) — Unknown
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
