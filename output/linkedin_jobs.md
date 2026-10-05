@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 18:55 UTC*
+*Last updated: 2026-10-05 19:16 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Data and Insights](https://www.linkedin.com/jobs/view/4474618150/) — Pacific Blue Cross
-- 📍 **Location:** Burnaby, British Columbia, Canada
-- 💰 **Salary:** $122,400.00/yr - CA$183,600.00/yr
+### [Director - Deal Analytics](https://www.linkedin.com/jobs/view/4474618282/) — RSM Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $130,000 - $238,700
 - 🕒 **Posted:** 2026-10-05
