@@ -1,6 +1,8 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-04 20:55 UTC*
+*Last updated: 2026-10-05 03:19 UTC*
 
-**0 new role(s)** since last run · 28 total in last 24h
+**1 new role(s)** since last run · 18 total in last 24h
 
-No new roles since the last run.
+### [Director, Enterprise Materials Management, Logistics & Trade Compliance](https://www.glassdoor.ca/job-listing/j?jl=1010283920449) — PCS Inc
+- 📍 **Location:** Saskatoon, Canada
+- 🕒 **Posted:** 2026-10-03
