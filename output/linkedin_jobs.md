@@ -1,28 +1,22 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 13:23 UTC*
+*Last updated: 2026-10-06 13:44 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 9 total in last 1h
 
-### [Director, Analytics & Insights](https://www.linkedin.com/jobs/view/4470700330/) — Securian Canada
+### [VP, Strategy and Operations](https://www.linkedin.com/jobs/view/4474957481/) — RELX
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000.00/yr - CA$170,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Chef(fe) de l’analyse marketing / Head of Marketing Analytics](https://www.linkedin.com/jobs/view/4473918909/) — Manmade
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4474949743/) — Robert Half
+- 📍 **Location:** Hamilton, Ontario, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$170,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Director, Analytics & Insights](https://www.linkedin.com/jobs/view/4470710021/) — Securian Canada
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 💰 **Salary:** $130,000.00/yr - CA$170,000.00/yr
+### [Director of Finance-CPA Required](https://www.linkedin.com/jobs/view/4474912276/) — EVORETRO
+- 📍 **Location:** Quebec, Canada
 - 🕒 **Posted:** 2026-10-06
 
-### [Interim Vice President, Finance](https://www.linkedin.com/jobs/view/4474963081/) — Robert Half
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/yr - CA$90.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4471042013/) — Vaco by Highspring
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/hr - CA$85.00/hr
+### [Director of Finance And Operations](https://www.linkedin.com/jobs/view/4474960414/) — BoomerangFX
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,000.00/yr - CA$130,000.00/yr
 - 🕒 **Posted:** 2026-10-06
