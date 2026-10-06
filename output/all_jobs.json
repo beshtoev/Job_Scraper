@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 10:12 UTC",
+  "updated_at": "2026-10-06 10:22 UTC",
   "jobs": [
     {
       "company": "Finning",
@@ -24,7 +24,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4411938993/",
+        "https://www.linkedin.com/jobs/view/4411942853/"
+      ]
     },
     {
       "company": "Omnicom Media",
@@ -30907,5 +30911,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 1066
 }
