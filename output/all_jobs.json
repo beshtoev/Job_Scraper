@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-06 14:31 UTC",
+  "updated_at": "2026-10-06 14:39 UTC",
   "jobs": [
+    {
+      "company": "Pinnacle Search Group",
+      "title": "Director of Finance - Manufacturing",
+      "location": "Brampton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286983396",
+      "date_posted": "2026-10-06",
+      "description": "Maintain safeguards and oversight of organizational resources, including financial records, receivables, inventory, cash, equipment, and other business assets.",
+      "salary": "$170k–$185k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-06T14:39:39Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Brampton",
+      "geo_province": "ON",
+      "geo_lat": 43.7315,
+      "geo_lon": -79.7624,
+      "geo_distance_km": 29.6,
+      "geo_rank": 100296,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Scotiabank",
       "title": "Director - Data Solution Delivery, Wealth Management",
@@ -1558,7 +1585,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010286958221"
+      ]
     },
     {
       "company": "JASPER PLACE WELLNESS CENTRE",
@@ -2086,16 +2116,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-05T16:09:44Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",

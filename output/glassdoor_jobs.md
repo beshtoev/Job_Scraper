@@ -1,13 +1,14 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 13:31 UTC*
+*Last updated: 2026-10-06 14:39 UTC*
 
-**2 new role(s)** since last run · 35 total in last 24h
+**2 new role(s)** since last run · 34 total in last 24h
 
-### [Regional Director, High Net Worth Wealth Planning](https://www.glassdoor.ca/job-listing/j?jl=1010284615707) — BMO Financial
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $110k–$200k/yr
-- 🕒 **Posted:** 2026-10-04
+### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010286958221) — St. Michaels University School
+- 📍 **Location:** Victoria, Canada
+- 💰 **Salary:** $101k–$151k/yr
+- 🕒 **Posted:** 2026-10-06
 
-### [Canada Technology Consulting - Business Platform Transformation Senior Director](https://www.glassdoor.ca/job-listing/j?jl=1010285719649) — Protiviti
-- 📍 **Location:** Toronto, Canada
+### [Director of Finance - Manufacturing](https://www.glassdoor.ca/job-listing/j?jl=1010286983396) — Pinnacle Search Group
+- 📍 **Location:** Brampton, Canada
+- 💰 **Salary:** $170k–$185k/yr
 - 🕒 **Posted:** 2026-10-06
