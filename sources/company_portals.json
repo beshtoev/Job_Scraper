@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 339,
-    "pollable": 207,
+    "companies": 340,
+    "pollable": 209,
     "unresolved": 131
   },
   "companies": [
@@ -886,6 +886,19 @@
       "searches": [],
       "enabled": false,
       "resolution_status": "unresolved"
+    },
+    {
+      "company": "Centricity Research",
+      "archetype": "D",
+      "ats": "rippling",
+      "slug": "centricity-research",
+      "careers_url": "https://ats.rippling.com/centricity-research/jobs",
+      "source": "user:2026-10-06",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "Cerebras",

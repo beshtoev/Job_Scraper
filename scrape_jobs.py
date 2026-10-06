@@ -1491,29 +1491,12 @@ def scrape_ziprecruiter_recent(hours_old: int | None = None) -> list:
     )
 
 
-def scrape_ziprecruiter_email() -> list:
-    """ZipRecruiter roles taken from its alert emails instead of its blocked site.
+def ziprecruiter_cards_to_jobs(cards: list[dict]) -> list[dict]:
+    """Alert-email job cards, filtered and normalized into the repo schema.
 
-    The site's interactive Cloudflare check defeats every scheduled scraper, so the
-    saved searches live on ziprecruiter.com and email their results; this reads that
-    mailbox (see ziprecruiter_email.py). A missing mailbox config or an unreachable
-    mailbox keeps the previous results, exactly like a blocked board.
+    Shared by the IMAP path below and scripts/ingest_ziprecruiter_html.py (the
+    scheduled task that reads the same alerts out of an Outlook mailbox).
     """
-    import ziprecruiter_email as zre
-
-    print("🟧 Reading ZipRecruiter alert emails...")
-    prev_path = os.path.join(OUTPUT_DIR, "ziprecruiter_jobs.json")
-    cfg = zre.load_email_config()
-    if not cfg:
-        print(f"  ⚠️  Mailbox not configured: fill in {zre.default_config_path()} "
-              f"(docs/ziprecruiter-email.md); keeping previous results")
-        return _load_prev_jobs(prev_path)
-    try:
-        cards, stats = zre.scrape(cfg)
-    except Exception as e:
-        print(f"  ⛔ Could not read the mailbox ({type(e).__name__}: {e}); keeping previous results")
-        return _load_prev_jobs(prev_path)
-
     jobs_by_id: dict[str, dict] = {}
     for card in cards:
         title = card["title"]
@@ -1542,7 +1525,33 @@ def scrape_ziprecruiter_email() -> list:
             "emails": "",
             "ats": "ZipRecruiter",
         })
-    jobs = list(jobs_by_id.values())
+    return list(jobs_by_id.values())
+
+
+def scrape_ziprecruiter_email() -> list:
+    """ZipRecruiter roles taken from its alert emails instead of its blocked site.
+
+    The site's interactive Cloudflare check defeats every scheduled scraper, so the
+    saved searches live on ziprecruiter.com and email their results; this reads that
+    mailbox (see ziprecruiter_email.py). A missing mailbox config or an unreachable
+    mailbox keeps the previous results, exactly like a blocked board.
+    """
+    import ziprecruiter_email as zre
+
+    print("🟧 Reading ZipRecruiter alert emails...")
+    prev_path = os.path.join(OUTPUT_DIR, "ziprecruiter_jobs.json")
+    cfg = zre.load_email_config()
+    if not cfg:
+        print(f"  ⚠️  Mailbox not configured: fill in {zre.default_config_path()} "
+              f"(docs/ziprecruiter-email.md); keeping previous results")
+        return _load_prev_jobs(prev_path)
+    try:
+        cards, stats = zre.scrape(cfg)
+    except Exception as e:
+        print(f"  ⛔ Could not read the mailbox ({type(e).__name__}: {e}); keeping previous results")
+        return _load_prev_jobs(prev_path)
+
+    jobs = ziprecruiter_cards_to_jobs(cards)
     print(f"  📊 ZipRecruiter email: {stats['emails']} alert(s) → {stats['cards']} card(s), "
           f"{len(jobs)} matched ({stats['empty_emails']} unparsed)")
 
