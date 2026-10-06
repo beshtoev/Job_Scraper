@@ -1,19 +1,13 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 12:03 UTC*
+*Last updated: 2026-10-06 13:31 UTC*
 
-**3 new role(s)** since last run · 35 total in last 24h
+**2 new role(s)** since last run · 35 total in last 24h
 
-### [Director, Data and Insights](https://www.glassdoor.ca/job-listing/j?jl=1010285892091) — Pacific Blue Cross
-- 📍 **Location:** Burnaby, Canada
-- 💰 **Salary:** $122k–$184k/yr
-- 🕒 **Posted:** 2026-10-06
+### [Regional Director, High Net Worth Wealth Planning](https://www.glassdoor.ca/job-listing/j?jl=1010284615707) — BMO Financial
+- 📍 **Location:** Montreal, Canada
+- 💰 **Salary:** $110k–$200k/yr
+- 🕒 **Posted:** 2026-10-04
 
-### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010285892910) — St. Michaels University School
-- 📍 **Location:** Victoria, Canada
-- 💰 **Salary:** $101k–$151k/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Analytics Principal/Director](https://www.glassdoor.ca/job-listing/j?jl=1010286863146) — EPAM Systems, Inc.
-- 📍 **Location:** Remote, Canada
-- **Work mode:** Remote in-state eligible
+### [Canada Technology Consulting - Business Platform Transformation Senior Director](https://www.glassdoor.ca/job-listing/j?jl=1010285719649) — Protiviti
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-10-06
