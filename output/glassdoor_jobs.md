@@ -1,31 +1,39 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 20:46 UTC*
+*Last updated: 2026-10-06 21:52 UTC*
 
-**6 new role(s)** since last run · 42 total in last 24h
+**7 new role(s)** since last run · 48 total in last 24h
 
-### [Director, Data and Insights](https://www.glassdoor.ca/job-listing/j?jl=1010285892091) — Pacific Blue Cross
-- 📍 **Location:** Burnaby, Canada
-- 💰 **Salary:** $122k–$184k/yr
-- 🕒 **Posted:** 2026-10-05
+### [Regional Director, High Net Worth Wealth Planning](https://www.glassdoor.ca/job-listing/j?jl=1010284615707) — BMO Financial
+- 📍 **Location:** Montreal, Canada
+- 💰 **Salary:** $110k–$200k/yr
+- 🕒 **Posted:** 2026-10-04
 
-### [Associate director, Financial Planning & Analysis](https://www.glassdoor.ca/job-listing/j?jl=1010287324448) — Novo Nordisk
-- 📍 **Location:** Mississauga, Canada
-- 💰 **Salary:** $159k–$209k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010287423276) — Multiview Corporation
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $140k–$160k/yr
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-06
 
-### [VP, Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010287370329) — RELX
+### [Director, Retirement Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010287398562) — Manulife
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $145k–$195k/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Transformation Consulting Managing Director](https://www.glassdoor.ca/job-listing/j?jl=1010287278489) — NTT Ltd
+### [Director, Digital Servicing](https://www.glassdoor.ca/job-listing/j?jl=1010287432856) — Sun Life
+- 📍 **Location:** Waterloo, Canada
+- 💰 **Salary:** $130k–$180k/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Director of Finance / CFO – Title & scope based on experience](https://www.glassdoor.ca/job-listing/j?jl=1010287422873) — Truly Green Farms and Cedarline Greenhouses
+- 📍 **Location:** Chatham-Kent, Canada
+- 🕒 **Posted:** 2026-10-06
+
+### [Associate Director, Investment Data - SLC Management](https://www.glassdoor.ca/job-listing/j?jl=1010287432751) — Sun Life
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $187k–$312k/yr
+- 💰 **Salary:** $85k–$128k/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010287383736) — Michael Garron Hospital
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-06
-
-### [Director, Financial Planning & Analysis / Directeur(-trice) de la planification financière et de l’analyse](https://www.glassdoor.ca/job-listing/j?jl=1010287368994) — BioScript Pharmacy Ltd.
-- 📍 **Location:** Oakville, Canada
+### [Director, Product Automation](https://www.glassdoor.ca/job-listing/j?jl=1010286338612) — Dentsu
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $110k–$135k/yr
 - 🕒 **Posted:** 2026-10-06
