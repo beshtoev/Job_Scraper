@@ -63,9 +63,12 @@ DEFAULT_CONFIG = {
                      "timeout_minutes": 45, "priority": 1},
         # Moved off GitHub 2026-09-26: its "hourly" cron fired 8 times in 48h with gaps up to
         # 12.9h, and never in the Toronto morning (the cron window was 15:00-03:00 UTC). From a
-        # home connection the same search ran 32 queries with 0 errors. The 24h window matches
-        # Indeed's day-resolution dates, so a 30-minute cadence only adds freshness.
-        "indeed": {"every_minutes": 30, "args": ["--indeed-only"], "basename": "indeed_jobs",
+        # home connection the same search ran 32 queries with 0 errors.
+        # Every 2 hours since 2026-10-06: at 30 minutes (~1,700 queries a day) Indeed began
+        # quietly throttling this connection on 10-04. No errors, but raw results per run fell
+        # from ~700 to ~43, and a direct probe found 6 Toronto "Director Finance" postings in
+        # 3 days. Its dates are day-resolution with a 24h window, so 2 hours loses little.
+        "indeed": {"every_minutes": 120, "args": ["--indeed-only"], "basename": "indeed_jobs",
                    "timeout_minutes": 30, "priority": 2},
         # Glassdoor dates postings by whole days and scores requests for bots: hourly is as
         # fresh as it can get, and more often only adds rate-limit risk.

@@ -161,7 +161,13 @@
       "Enterprise AI",
       "Enterprise Platforms",
       "Chief Financial Officer",
-      "CFO"
+      "CFO",
+      "Director FP&A",
+      "Senior Director FP&A",
+      "Director Finance Systems",
+      "Director Business Intelligence",
+      "Director Strategic Finance",
+      "VP Finance"
     ],
     "indeed": [
       "VP Data AI",
@@ -172,7 +178,10 @@
       "VP FP&A",
       "Enterprise AI",
       "Digital Transformation",
-      "Chief Financial Officer"
+      "Chief Financial Officer",
+      "Director FP&A",
+      "Director Finance Systems",
+      "Director Strategic Finance"
     ],
     "glassdoor": [
       "vice president data",

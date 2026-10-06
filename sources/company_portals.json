@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 340,
-    "pollable": 209,
+    "companies": 341,
+    "pollable": 210,
     "unresolved": 131
   },
   "companies": [
@@ -1029,6 +1029,19 @@
       "searches": [],
       "enabled": false,
       "resolution_status": "unresolved"
+    },
+    {
+      "company": "Coder",
+      "archetype": "A",
+      "ats": "ashby",
+      "slug": "coder",
+      "careers_url": "https://jobs.ashbyhq.com/coder",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "Cohere",

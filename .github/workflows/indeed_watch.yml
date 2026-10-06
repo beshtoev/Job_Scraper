@@ -34,8 +34,9 @@ jobs:
             scripts/skip_if_fresh.py
           sparse-checkout-cone-mode: false
       - id: check
-        # Runner cadence is 30 min and it publishes at least every 30; 75 allows one miss.
-        run: python3 scripts/skip_if_fresh.py indeed 75
+        # Runner cadence is 2h (slowed 2026-10-06 when Indeed throttled 30-minute polling);
+        # 150 min allows for a late tick without GitHub stepping in between normal runs.
+        run: python3 scripts/skip_if_fresh.py indeed 150
         env:
           BACKFILL: ${{ github.event.inputs.backfill }}
 

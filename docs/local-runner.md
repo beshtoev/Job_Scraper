@@ -12,7 +12,7 @@ A Mac on a home connection has neither problem, so a background job runs, most u
 | Source | Every | Why this cadence |
 |---|---|---|
 | LinkedIn | 20 min | window sized to the time since the last success |
-| Indeed | 30 min | 24h window; Indeed dates postings by the day |
+| Indeed | 2 h | 24h window, dates by the day; 30-minute polling got throttled (2026-10-04) |
 | Glassdoor | 60 min | dates by the day and scores requests for bots |
 | Company portals | 3 h | a full poll takes ~20 min, so it runs last |
 
@@ -34,7 +34,7 @@ polled the portals once a day. Built In, Google Jobs and the government boards s
 LinkedIn's search window is the time since the last **successful** scrape (plus 15 minutes), capped at 7 days.
 A sleeping Mac therefore only *delays* discovery; nothing posted meanwhile is lost. The GitHub workflows for
 LinkedIn, Indeed and the portals read that stamp (`scripts/skip_if_fresh.py`) and stand down while the Mac is
-covering the source (45 min, 75 min and 6 h respectively). When it isn't, they take over as the fallback, now
+covering the source (45 min, 150 min and 6 h respectively). When it isn't, they take over as the fallback, now
 around the clock: the old 15:00-03:00 UTC window skipped the Toronto morning, which is exactly when a Mac
 that slept overnight needs covering.
 
