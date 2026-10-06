@@ -53,7 +53,7 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 338,
+    "companies": 339,
     "pollable": 207,
     "unresolved": 131
   },
@@ -2256,6 +2256,19 @@
       "slug": "jobber",
       "careers_url": "https://jobs.ashbyhq.com/jobber",
       "source": "seed:canadian-tech",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Jobgether",
+      "archetype": "D",
+      "ats": "lever",
+      "slug": "jobgether",
+      "careers_url": "https://jobs.lever.co/jobgether",
+      "source": "user:2026-10-06",
       "include": [],
       "exclude": [],
       "searches": [],
