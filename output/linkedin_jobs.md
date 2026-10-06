@@ -1,13 +1,18 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 09:25 UTC*
+*Last updated: 2026-10-06 09:53 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [SVP, Product Management – Data Products & Strategy](https://www.linkedin.com/jobs/view/4466112457/) — PointClickCare
-- 📍 **Location:** Mississauga, Ontario, Canada
+### [Senior Director, Commercial Finance & Performance Management (CFPM)](https://www.linkedin.com/jobs/view/4411946487/) — Finning
+- 📍 **Location:** Edmonton, Alberta, Canada
 - 🕒 **Posted:** 2026-10-06
 
-### [Director, Digital Experience Platform, Web & eCommerce](https://www.linkedin.com/jobs/view/4467403120/) — Four Seasons
+### [Associate Director, Digital](https://www.linkedin.com/jobs/view/4466106191/) — Omnicom Media
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000 - $170,000
+- 💰 **Salary:** $80,000 - $90,000
+- 🕒 **Posted:** 2026-10-06
+
+### [Leader, LCR Strategy and Operations](https://www.linkedin.com/jobs/view/4384611468/) — Interac Corp.
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000 to $160,000,
 - 🕒 **Posted:** 2026-10-06
