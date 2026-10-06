@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-06 22:56 UTC",
+  "updated_at": "2026-10-06 23:06 UTC",
   "jobs": [
+    {
+      "company": "Osborne Financial Search",
+      "title": "Vice President Finance",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4475119898/",
+      "date_posted": "2026-10-06",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Osborne Financial Search has been retained by a large, privately held industrial manufacturing and processing business to recruit a Vice President, Finance\n.\n\nThe company operates across Canada and the U.S. and has experienced significant growth over the past several years. With that growth has come increased complexity across the business and a need to continue building the finance infrastructure, systems and processes required to support the organization going forward.\n\nReporting directly to the CFO, the VP Finance will lead the day-to-day finance function and work closely with senior leadership and operations across the business. The mandate is broad, with responsibility for financial leadership, planning and analysis, reporting, treasury and banking, systems and process improvement, and development of the finance team.\n\nA significant priority will be the transformation of the finance function, including implementation of a new ERP and greater automation of processes and reporting. The successful candidate will be expected to understand how the business operates, identify where finance can work more effectively and lead those improvements through execution.\n\nRoles & Responsibilities\n\n• Lead the day-to-day finance function and provide leadership and direction to the broader finance team.\n• Lead budgeting, forecasting and long-range financial planning, including development of meaningful analysis and reporting to support business decisions.\n• Strengthen FP&A and business partnering capabilities, working closely with operational and senior leaders to improve financial visibility and decision-making.\n• Oversee consolidated financial reporting across multiple entities and jurisdictions, including IFRS and U.S. GAAP requirements.\n• Lead the implementation of a new ERP and drive improvements in finance processes, systems, reporting and automation.\n• Identify opportunities to simplify manual processes, improve efficiency and reduce reliance on spreadsheets across the finance organization.\n• Provide oversight and leadership across treasury, cash management, banking relationships and the company’s broader financing requirements.\n• Support the CFO on corporate finance initiatives, including banking, financing, M&A and other strategic priorities.\n• Ensure appropriate financial controls, policies and processes are in place to support a growing and increasingly complex organization.\n• Build the capabilities of the finance team, establish clear accountabilities and develop a function capable of supporting the continued growth of the business.\n• Develop strong relationships across the organization and ensure finance is providing practical, timely information to support operational and strategic decision-making.\n\nWhat We’re Looking For\n\nThe successful candidate will be a CPA with significant progressive finance leadership experience in a complex operating environment.\n\nThey will bring strong technical finance capabilities together with meaningful experience in FP&A, financial reporting, business partnering and finance transformation. Experience leading a significant ERP implementation is important, as is the ability to operate effectively across multiple entities and jurisdictions.\n\nThe environment is entrepreneurial and fast moving. The successful candidate will need to be comfortable working in an organization that has grown quickly, where not every process or system is fully developed and where the expectation is to identify what needs to change and then make it happen.\n\nExperience within a privately held, acquisitive, multi-site or similarly entrepreneurial organization would be particularly relevant. Big Four or other major accounting/advisory firm experience would be an asset.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nManufacturing",
+      "first_seen": "2026-10-06T23:06:51Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Dollar Tree",
       "title": "Director I, Finance",
@@ -377,7 +402,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4475122682/"
+      ]
     },
     {
       "company": "CleanDesign Inc.",
