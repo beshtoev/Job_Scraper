@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 09:22 UTC",
+  "updated_at": "2026-10-06 09:25 UTC",
   "jobs": [
     {
       "company": "Four Seasons",
@@ -30832,5 +30832,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 1063
 }
