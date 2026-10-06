@@ -111,3 +111,21 @@ def test_alert_cards_become_schema_jobs_through_the_normal_filters(monkeypatch):
     job = jobs[0]
     assert job["ats"] == "ZipRecruiter" and job["salary"] == "$180,000 - $220,000/year"
     assert job["work_arrangement"]                                   # classified, not left blank
+
+
+def test_ingest_script_merges_saved_html_files_into_the_snapshot(tmp_path, monkeypatch):
+    from scripts import ingest_ziprecruiter_html as ingest
+    out = tmp_path / "output"; out.mkdir()
+    monkeypatch.setattr(s, "OUTPUT_DIR", str(out))
+    (out / "ziprecruiter_jobs.json").write_text(json.dumps({"jobs": [
+        {"title": "Old VP Data", "url": "https://www.ziprecruiter.com/jobs/old?lvk=OLD1",
+         "company": "Prev Co", "location": "Toronto, ON"}]}))
+    alerts = tmp_path / "alerts"; alerts.mkdir()
+    (alerts / "a1.html").write_text(ALERT_HTML)
+    (alerts / "broken.html").write_text("<html><body>new layout!</body></html>")
+    assert ingest.main([str(alerts)]) == 0
+    snapshot = json.loads((out / "ziprecruiter_jobs.json").read_text())
+    titles = sorted(j["title"] for j in snapshot["jobs"])
+    assert "Old VP Data" in titles                       # incremental: previous jobs kept
+    assert "VP, Data & Analytics" in titles              # the new alert's relevant card added
+    assert "Forklift Operator" not in titles

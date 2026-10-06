@@ -136,6 +136,37 @@ def fetch_lever(entry: dict) -> list[dict]:
     return out
 
 
+RIPPLING_DETAIL_CAP = 60  # per-job detail calls per board; past this, listings go out without text
+
+
+def fetch_rippling(entry: dict) -> list[dict]:
+    base = f"https://api.rippling.com/platform/api/ats/v1/board/{entry['slug']}/jobs"
+    data = http_json(base)
+    if not isinstance(data, list):
+        raise SourceFailure("response is not an array")
+    out = []
+    for index, item in enumerate(data):
+        # The list carries no dates, text or pay; each job's detail endpoint does.
+        detail = {}
+        if index < RIPPLING_DETAIL_CAP:
+            try:
+                detail = http_json(f"{base}/{item['uuid']}") or {}
+            except Exception:
+                detail = {}      # the listing alone is still a valid posting
+            time.sleep(0.2)
+        desc = detail.get("description")
+        description = (" ".join(strip_html(str(part)) for part in desc.values())
+                       if isinstance(desc, dict) else strip_html(str(desc or "")))
+        location = ((item.get("workLocation") or {}).get("label", "")
+                    or ", ".join(str(loc) for loc in (detail.get("workLocations") or [])))
+        out.append(posting(entry, title=item.get("name"), url=item.get("url"),
+                           location=location, req_id=item.get("uuid"),
+                           date_posted=detail.get("createdOn", ""), description=description,
+                           remote="remote" in location.lower(),
+                           department=(item.get("department") or {}).get("label", "")))
+    return out
+
+
 def fetch_workable(entry: dict) -> list[dict]:
     data = http_json(f"https://apply.workable.com/api/v1/widget/accounts/{entry['slug']}?details=true")
     if not isinstance(data, dict) or not isinstance(data.get("jobs"), list):
@@ -344,6 +375,7 @@ FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
     "lever": fetch_lever,
+    "rippling": fetch_rippling,
     "workable": fetch_workable,
     "smartrecruiters": fetch_smartrecruiters,
     "bamboohr": fetch_bamboohr,

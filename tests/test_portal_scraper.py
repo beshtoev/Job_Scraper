@@ -99,3 +99,29 @@ def test_committed_inventory_is_well_formed():
     assert inventory["counts"]["companies"] >= 330
     assert inventory["counts"]["pollable"] >= 190
     assert len(inventory["companies"]) == inventory["counts"]["companies"]
+
+
+def test_rippling_parser_joins_detail_description_and_tolerates_detail_failure(monkeypatch):
+    def fake_http_json(url):
+        if url.endswith("/jobs"):
+            return [
+                {"uuid": "u1", "name": "Director, Data & AI",
+                 "department": {"label": "IT"}, "url": "https://ats.rippling.com/x/jobs/u1",
+                 "workLocation": {"label": "Toronto, ON"}},
+                {"uuid": "u2", "name": "VP Analytics",
+                 "department": {"label": "Analytics"}, "url": "https://ats.rippling.com/x/jobs/u2",
+                 "workLocation": None},
+            ]
+        if url.endswith("/jobs/u1"):
+            return {"description": {"company": "<p>About us.</p>", "role": "<p>Lead <b>data</b>.</p>"},
+                    "createdOn": "2026-09-17T13:13:36-07:00", "workLocations": ["Toronto, ON"]}
+        raise RuntimeError("detail down")           # u2's detail call fails
+
+    monkeypatch.setattr(portals, "http_json", fake_http_json)
+    monkeypatch.setattr(portals.time, "sleep", lambda s: None)
+    jobs = portals.fetch_rippling(_entry("rippling"))
+    assert [j["title"] for j in jobs] == ["Director, Data & AI", "VP Analytics"]
+    assert jobs[0]["location"] == "Toronto, ON" and jobs[0]["date_posted"].startswith("2026-09-17")
+    assert "About us. Lead data." in jobs[0]["description"].replace("  ", " ")
+    assert jobs[1]["url"] == "https://ats.rippling.com/x/jobs/u2"   # listing alone still a posting
+    assert jobs[1]["description"] == "" and jobs[1]["date_posted"] == ""
