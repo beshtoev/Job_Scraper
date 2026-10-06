@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-10-06 20:39 UTC",
+  "updated_at": "2026-10-06 20:46 UTC",
   "jobs": [
+    {
+      "company": "NTT Ltd",
+      "title": "Transformation Consulting Managing Director",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010287278489",
+      "date_posted": "2026-10-06",
+      "description": "This role will align IT strategy with business goals by assessing current-state environments, identifying modernization opportunities, and creating a blueprint…",
+      "salary": "$187k–$312k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-06T20:46:51Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Michael Garron Hospital",
+      "title": "Director of Finance",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010287383736",
+      "date_posted": "2026-10-06",
+      "description": "Master’s degree in business administration, accounting, finance or a related discipline is an asset. Bachelor’s degree in Commerce, Business, Finance,…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-06T20:46:51Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "BioScript Pharmacy Ltd.",
+      "title": "Director, Financial Planning & Analysis / Directeur(-trice) de la planification financière et de l’analyse",
+      "location": "Oakville, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010287368994",
+      "date_posted": "2026-10-06",
+      "description": "Diriger le processus annuel d’établissement du budget et de prévisions financières à court et à long terme afin de soutenir la stratégie d’entreprise et de…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-06T20:46:51Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Oakville",
+      "geo_province": "ON",
+      "geo_lat": 43.4675,
+      "geo_lon": -79.6877,
+      "geo_distance_km": 35.6,
+      "geo_rank": 100356,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "BioScript Solutions",
       "title": "Director, Financial Planning & Analysis / Directeur(-trice) de la planification financière et de l’analyse",
@@ -136,7 +217,8 @@
       "direct_url": "https://careers.novonordisk.com/job/Mississauga-Associate-director%2C-Financial-Planning-&-Analysis-Onta/1444801233/",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=068db881e0f82c0f"
+        "https://ca.indeed.com/viewjob?jk=068db881e0f82c0f",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010287324448"
       ]
     },
     {
@@ -1257,7 +1339,8 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/vp-strategy-and-operations/11529563",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/vp-strategy-and-operations/11529563"
+        "https://builtintoronto.com/job/vp-strategy-and-operations/11529563",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010287370329"
       ]
     },
     {

@@ -1,19 +1,31 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 19:06 UTC*
+*Last updated: 2026-10-06 20:46 UTC*
 
-**3 new role(s)** since last run · 38 total in last 24h
+**6 new role(s)** since last run · 42 total in last 24h
 
-### [Regional Director, High Net Worth Wealth Planning](https://www.glassdoor.ca/job-listing/j?jl=1010284615707) — BMO Financial
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $110k–$200k/yr
-- 🕒 **Posted:** 2026-10-04
-
-### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010285892910) — St. Michaels University School
-- 📍 **Location:** Victoria, Canada
-- 💰 **Salary:** $101k–$151k/yr
+### [Director, Data and Insights](https://www.glassdoor.ca/job-listing/j?jl=1010285892091) — Pacific Blue Cross
+- 📍 **Location:** Burnaby, Canada
+- 💰 **Salary:** $122k–$184k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010287232025) — Huu-ay-aht First Nations
-- 📍 **Location:** Port Alberni, Canada
-- 💰 **Salary:** $143k–$173k/yr
+### [Associate director, Financial Planning & Analysis](https://www.glassdoor.ca/job-listing/j?jl=1010287324448) — Novo Nordisk
+- 📍 **Location:** Mississauga, Canada
+- 💰 **Salary:** $159k–$209k/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [VP, Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010287370329) — RELX
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-06
+
+### [Transformation Consulting Managing Director](https://www.glassdoor.ca/job-listing/j?jl=1010287278489) — NTT Ltd
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $187k–$312k/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010287383736) — Michael Garron Hospital
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-06
+
+### [Director, Financial Planning & Analysis / Directeur(-trice) de la planification financière et de l’analyse](https://www.glassdoor.ca/job-listing/j?jl=1010287368994) — BioScript Pharmacy Ltd.
+- 📍 **Location:** Oakville, Canada
 - 🕒 **Posted:** 2026-10-06
