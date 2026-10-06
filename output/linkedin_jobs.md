@@ -1,13 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 19:46 UTC*
+*Last updated: 2026-10-06 20:38 UTC*
 
-**2 new role(s)** since last run · 11 total in last 1h
+**2 new role(s)** since last run · 9 total in last 1h
 
-### [Head of Insights Consulting](https://www.linkedin.com/jobs/view/4474999805/) — Humankind Global Recruitment
-- 📍 **Location:** Halifax, Nova Scotia, Canada
+### [Director of Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4474999957/) — CleanDesign Inc.
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $120,000.00/yr - CA$135,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Associate director, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4474408127/) — Novo Nordisk
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $159,230.00 - $209,230.00
+### [Director of Finance & Administration](https://www.linkedin.com/jobs/view/4475109631/) — Mitsoh
+- 📍 **Location:** Edmonton Metropolitan Region, Alberta, Canada
 - 🕒 **Posted:** 2026-10-06
