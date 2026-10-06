@@ -1,18 +1,22 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 22:56 UTC*
+*Last updated: 2026-10-06 23:59 UTC*
 
-**3 new role(s)** since last run · 50 total in last 24h
+**4 new role(s)** since last run · 53 total in last 24h
 
-### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010285892910) — St. Michaels University School
-- 📍 **Location:** Victoria, Canada
-- 💰 **Salary:** $101k–$151k/yr
-- 🕒 **Posted:** 2026-10-05
+### [Senior Director, Enterprise Technology Services](https://www.glassdoor.ca/job-listing/j?jl=1010287521543) — Federation of Canadian Municipalities
+- 📍 **Location:** Ottawa, Canada
+- 🕒 **Posted:** 2026-10-06
 
-### [Associate Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010287468460) — The Salvation Army
+### [Associate Director, Financial Operations](https://www.glassdoor.ca/job-listing/j?jl=1010287503700) — Covenant House Toronto
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $85k–$128k/yr
+- 💰 **Salary:** $113k–$142k/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Director I, Finance](https://www.glassdoor.ca/job-listing/j?jl=1010287497736) — Dollar Tree
-- 📍 **Location:** Mississauga, Canada
+### [Director, Deal Desk & Pricing Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010287505769) — Varicent
+- 📍 **Location:** Calgary, Canada
 - 🕒 **Posted:** 2026-10-06
+
+### [Associate Director-AI&Data](https://www.glassdoor.ca/job-listing/j?jl=1010285795911) — Accenture
+- 📍 **Location:** Ottawa, Canada
+- 💰 **Salary:** $172k–$324k/yr
+- 🕒 **Posted:** 2026-10-05
