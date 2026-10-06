@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-06 14:07 UTC",
+  "updated_at": "2026-10-06 14:31 UTC",
   "jobs": [
+    {
+      "company": "Scotiabank",
+      "title": "Director - Data Solution Delivery, Wealth Management",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4457186209/",
+      "date_posted": "2026-10-06",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Requisition ID: 262549\n\nJoin a purpose driven winning team, committed to results, in an inclusive and high-performing culture.\n\nThe Director – Data Solution Delivery, Wealth Management, is accountable for developing, leading, and overseeing the activities of delivery teams responsible for working with cross-functional development teams and business stakeholders to define and implement business strategies, product roadmaps, service offerings, and new features. This is a demanding hands-on and strategic role that requires knowledge of the financial services sector and emerging trends in the Wealth and Asset Management industry.\n\nIs this role right for you? In this role you will:\n\nTake ownership of end-to-end delivery of wealth data exchange engineering use cases and work closely with business and technology stakeholders.\nParticipate in Data Engineering, Data Architecture strategy, medallion data hub architecture, and roadmap definition and review process.\nDemonstrate strong experience with Google Cloud Platform (GCP) data services and Databricks.\nProvide thought leadership in selecting next-generation technologies and architecture components as per the latest trends and Scotiabank standards, frameworks, and best practices.\nPromote a data-first mindset across the enterprise to enable Scotiabank to become a stronger data-driven organization.\nIdentify, monitor, and mitigate cross-project or cross-program dependencies while managing relationships, anticipating/mitigating risks, facilitating communications, and leading projects in an agile fashion.\nEngage sponsoring executives and project team members, establishing trusted partnerships to ensure deliveries within scope, budget, and timelines while effectively communicating and discussing analytic insights with senior stakeholders.\nBalance collaboration and consensus with the ability to assert project management discipline where required, while being a seasoned practitioner in leading project teams through fast and complex projects.\nWork in an agile manner to onboard data, define ETL business processes, and create and manage a data dictionary and data lineage.\nLead a team of data engineers and full-stack developers.\nExcel in relationship, stakeholder management, influencing, and negotiation skills, effective at all levels up to senior executives.\nEfficiently perform management tasks including incident response and escalations, vendor and contract management, infrastructure management, service resiliency, and service ownership.\nEnjoy the challenges of working on different types of projects (from large complex to simple).\nCollaborate with various business functions to ensure Wealth Technology meets business needs.\n\nSkills\n\nDo you have the skills that will enable you to succeed in this role? We'd love to work with you if you have:\n\nMinimum 10+ years in a data engineering-focused role.\nHands-on technical leadership with proven experience leading and mentoring engineering teams.\nExpertise in implementing Google Cloud Platform (GCP) data services such as DataProc, Dataflow, CloudSQL, BigQuery, CloudSpanner in combination with third parties such as Spark, Apache Beam/Composer, DBT, Cloud PubSub, Confluent Kafka, Cloud Storage, Cloud Functions, and GitHub.\nExperience with data streaming and technologies such as Kafka, Spark-streaming, etc.\nEffective programming/query skills and in-depth knowledge of common data manipulation, visualization, and analytical tools (e.g., Python, Java, PowerBI, etc.).\nAnalytical, insights-driven with the ability to help the organization leverage data-driven decisions.\nStrong architecture knowledge with experience in providing technical solutions for cloud infrastructure.\nActive Google Cloud Data Engineer certification or Google Professional Cloud Architect certification.\n\nWhat's in it for you?\n\nDiversity, Equity, Inclusion & Allyship - We strive to create an inclusive culture where every employee is empowered to reach their fullest potential, respected for who they are, and are embraced through bias-free practices and inclusive values across Scotiabank. We embrace diversity and provide opportunities for all employee to learn, grow & participate through our various Employee Resource Groups (ERGs) that span across diverse gender identities, ethnicity, race, age, ability & veterans.\nAccessibility and Workplace Accommodations - We value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. Scotiabank continues to locate, remove and prevent barriers so that we can build a diverse and inclusive environment while meeting accessibility requirements.\nUpskilling through online courses, cross-functional development opportunities, and tuition assistance.\nCompetitive Rewards program including bonus, flexible vacation, personal, sick days and benefits will start on day one.\nDynamic Ecosystem - Free tea & coffee, universal washrooms, and lots of space for team collaboration.\nCommunity Engagement - We offer opportunities for community engagement & belonging with our various programs such as hackathons.\n\nLocation(s): Canada : Ontario : Toronto\n\nScotiabank is a leading bank in the Americas. Guided by our purpose: \"for every future\", we help our customers, their families and their communities achieve success through a broad range of advice, products and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets.\n\nAt Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. If you require technical assistance, please click here. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBanking",
+      "first_seen": "2026-10-06T14:31:06Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Everest Clinical Research",
       "title": "Director, Clinical Data Management",
@@ -323,7 +348,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4421313168/"
+      ]
     },
     {
       "company": "Talent Mappers",
