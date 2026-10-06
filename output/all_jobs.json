@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-06 22:44 UTC",
+  "updated_at": "2026-10-06 22:56 UTC",
   "jobs": [
+    {
+      "company": "Dollar Tree",
+      "title": "Director I, Finance",
+      "location": "Mississauga, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010287497736",
+      "date_posted": "2026-10-06",
+      "description": "This is a highly visible leadership role requiring strong technical accounting expertise, financial acumen, cross-functional partnership, and the ability to…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-06T22:56:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Canadian Medical Association",
       "title": "Vice-President, Information Management & Information Technology",
@@ -579,7 +606,8 @@
       "direct_url": "https://builtintoronto.com/job/associate-director-finance/11528891",
       "duplicate_urls": [
         "https://builtintoronto.com/job/associate-director-finance/11528891",
-        "https://ca.indeed.com/viewjob?jk=aba5aa4f595804cf"
+        "https://ca.indeed.com/viewjob?jk=aba5aa4f595804cf",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010287468460"
       ],
       "job_type": "fulltime",
       "is_remote": true,
