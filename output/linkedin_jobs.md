@@ -1,13 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 20:38 UTC*
+*Last updated: 2026-10-06 21:03 UTC*
 
-**2 new role(s)** since last run · 9 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Director of Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4474999957/) — CleanDesign Inc.
+### [Director Threat Intelligence](https://www.linkedin.com/jobs/view/4476360794/) — Mackenzie Investments
 - 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $120,000.00/yr - CA$135,000.00/yr
+- 💰 **Salary:** $149,500 - $192,500
 - 🕒 **Posted:** 2026-10-06
 
-### [Director of Finance & Administration](https://www.linkedin.com/jobs/view/4475109631/) — Mitsoh
-- 📍 **Location:** Edmonton Metropolitan Region, Alberta, Canada
+### [Senior IT Auditor, VP Finance](https://www.linkedin.com/jobs/view/4475032532/) — University of Calgary
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-10-06
