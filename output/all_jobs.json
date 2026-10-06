@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-06 18:33 UTC",
+  "updated_at": "2026-10-06 18:34 UTC",
   "jobs": [
+    {
+      "company": "Salute Mission Inc.",
+      "title": "Director of Data Center Operations",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=2e6815c0e9eeb1d3",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d5856577-2c4f-400c-bcf3-4f80afedad61&ccId=19000101_000001&jobId=595507&source=IN&lang=en_US",
+      "company_url": "https://ca.indeed.com/cmp/Salute-Mission-Inc.",
+      "date_posted": "2026-10-05",
+      "description": "Director of Data Center Operations\n\n  \n\n  \n\nThe Director of Data Center Operations serves as a strategic leader responsible for enabling Salute’s site teams to focus on customer delivery. This role will support administrative, compliance, and employee development responsibilities, ensuring operational consistency across sites and building a highly skilled, engaged workforce. The Director will manage operational governance, talent development, process improvement, and cross\\-site coordination, leading a multi\\-campus operations account.\n\n\nKey Responsibilities\n\n\n1\\. Operational Oversight \\& Administrative Management\n\n* Own and manage all non\\-billable (internal) operational duties to reduce administrative workload on billable site managers.\n* Maintain centralized oversight of policies, procedures, and documentation standards for all assigned sites.\n* Ensure compliance with safety, security, and regulatory requirements through regular audits and reporting.\n* Coordinate multi\\-site operational planning, scheduling, and resource allocation in alignment with client needs.\n* Track and report operational performance metrics, providing actionable insights to client site leadership.\n* Observe customer operational workflows, documentation, and reporting templates and recommend improvements to client site management to drive consistency and performance across locations.\n\n\n2\\. Employee Development \\& Talent Management\n\n* Lead talent development programs for site leadership teams, including onboarding, training, mentoring, and career progression planning.\n* Conduct regular performance reviews, provide coaching, and create individual development plans for site managers.\n* Facilitate leadership readiness programs to prepare emerging leaders for future management roles.\n* Ensure new leaders are equipped with the skills and tools needed before assuming management positions.\n\n\n3\\. Process \\& Quality Improvement\n\n* Identify operational bottlenecks and implement process improvements to enhance efficiency and service quality.\n* Develop and maintain a knowledge base of best practices, lessons learned, and standard operating procedures.\n* Coordinate cross\\-site initiatives to align maintenance, safety, and operational excellence programs.\n* Oversee root cause analysis and lessons\\-learned documentation following incidents, ensuring consistent follow\\-up.\n* Maintain relationship with client site management for quality assurance feedback.\n\n\n4\\. Stakeholder Communication \\& Coordination\n\n* Act as the primary liaison for operational matters between the VP of Data Center Operations, site managers, and corporate teams.\n* Act as primary account manager for a data center operations client.\n* Support internal communications, ensuring that site managers receive timely updates and clear direction.\n* Collaborate with HR, Finance, and other support functions to resolve site\\-level personnel or process issues.\n* Receive client feedback and escalations on team performance.\n* Report data, metrics, and feedback to client in support of reporting and collaboration.\n\n\nQualifications\n\n* 5\\+ years in operations leadership, preferably in critical infrastructure or technical services.\n* Proven experience in employee development, team leadership, and performance management.\n* Strong organizational, planning, and project management skills.\n* Exceptional communication and stakeholder engagement abilities.\n* Experience implementing process improvements and operational standards across multiple locations.\n* Deep understanding of data center infrastructure and operations.\n\n\nPosition Impact\n\n\nUnder the Director of Data Center Operations, site managers will be empowered to focus on, and be supported in, delivering exceptional service to our customers. This role will be instrumental in strengthening our leadership pipeline, improving operational efficiency, and ensuring long\\-term customer satisfaction.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-10-06T18:34:30Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Dayforce",
       "title": "Sr Director, Enterprise Data and AI Platform",
@@ -1710,7 +1743,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Managing-Director-and-Head--Financial-Services-Group_R260028308",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=51a4a38d8f1fcc1d"
+      ]
     },
     {
       "company": "BackStretch",
@@ -32158,6 +32197,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1111
+  ]
 }
