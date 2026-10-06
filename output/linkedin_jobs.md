@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 10:22 UTC*
+*Last updated: 2026-10-06 10:47 UTC*
 
-**2 new role(s)** since last run · 7 total in last 1h
+**1 new role(s)** since last run · 7 total in last 1h
 
-### [Senior Director, Commercial Finance & Performance Management (CFPM)](https://www.linkedin.com/jobs/view/4411942853/) — Finning
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Director, Commercial Finance & Performance Management (CFPM)](https://www.linkedin.com/jobs/view/4411938993/) — Finning
-- 📍 **Location:** Surrey, British Columbia, Canada
+### [Director, Strategy & Operations](https://www.linkedin.com/jobs/view/4476164787/) — Talent Mappers
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $165,000–$185,000
 - 🕒 **Posted:** 2026-10-06
