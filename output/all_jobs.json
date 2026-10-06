@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-06 12:24 UTC",
+  "updated_at": "2026-10-06 13:14 UTC",
   "jobs": [
+    {
+      "company": "Jobgether",
+      "title": "Associate Creative Director, Digital Design",
+      "location": "Canada",
+      "url": "https://jobs.lever.co/jobgether/d57f2e7c-138d-4efb-9313-419aca9008be",
+      "direct_url": "https://jobs.lever.co/jobgether/d57f2e7c-138d-4efb-9313-419aca9008be",
+      "req_id": "d57f2e7c-138d-4efb-9313-419aca9008be",
+      "date_posted": "2026-10-05",
+      "date_seen": "2026-10-06T13:02:05Z",
+      "description": "Lead the development and execution of creative concepts across digital, print, multimedia, marketing campaigns, branding initiatives, and product communications, ensuring consistently high creative standards.\n\n Own and evolve a tokenized digital web design system in Figma, maintaining alignment between design components and the underlying codebase while ensuring consistency, scalability, and usability for designers and AI-assisted tools.\n\n Prototype and build digital experiences using AI-assisted design and development tools, moving efficiently from initial concepts toward near-production-ready experiences and reducing reliance on traditional design-to-engineering handoffs.\n\n Collaborate closely with product, marketing, sales, UX, and other cross-functional teams to develop compelling visual narratives that support brand strategy, customer needs, business objectives, and growth.\n\n Bring an e-commerce and product-led-growth mindset to digital experiences, helping optimize web environments that operate as strategic, revenue-generating products rather than traditional marketing sites.\n\n Manage, mentor, and develop a team of digital designers, providing clear direction, constructive feedback, career support, and creative leadership while fostering an inclusive and high-performing culture.\n\n Oversee the creative production process from ideation through final delivery, ensuring projects meet quality standards, deadlines, budgets, and strategic objectives.\n\n Contribute to brand guidelines and ensure visual consistency across digital and creative outputs while maintaining an evocative and distinctive brand presence.\n\n Stay current with emerging design practices, technologies, AI-powered tools, motion techniques, and digital trends, incorporating relevant innovations into the creative workflow.\n\n Partner with UX teams to ensure user insights are effectively translated into intuitive, engaging, and high-impact digital experiences.\n\n Analyze creative performance across digital channels using analytics, heatmaps, A/B testing, and other relevant data to improve engagement, conversion, and customer retention.\n\n Hire, develop, and lead an inclusive, engaged, and high-performing creative team while championing customer focus, long-term thinking, growth, inclusion, and teamwork.\n\n Requirements\n\n 8+ years of professional creative experience, including at least 2 years managing people directly within a B2B SaaS, technology, or comparable high-tech environment.\n\n Advanced proficiency with design tools such as Figma and Adobe Creative Suite, including Photoshop, Illustrator, and After Effects.\n\n Hands-on experience using AI models and AI-assisted design or prototyping tools to enhance creative workflows and shorten the distance between design and development.\n\n Practical experience working with componentized or tokenized design systems in Figma, ideally with systems connected directly to a live codebase.\n\n Strong understanding of brand strategy, UX/UI principles, digital marketing, and the creation of compelling digital experiences.\n\n Ability to translate user insights, business objectives, and complex requirements into engaging and effective creative solutions.\n\n Familiarity with digital performance tools and methodologies such as Google Analytics, heatmaps, and A/B testing, with the ability to use data to optimize creative output.\n\n Basic understanding of HTML, CSS, and JavaScript, enabling effective collaboration with developers and a practical understanding of web-based technical requirements.\n\n Proven ability to manage complex cross-functional projects, coordinate multiple stakeholders, and deliver high-quality creative work under demanding timelines.\n\n Exceptional communication, storytelling, presentation, and influencing skills, with the ability to explain creative concepts clearly to both design and non-design audiences.\n\n Strong people leadership skills, including coaching, mentoring, performance management, hiring, and team development.\n\n Portfolio demonstrating a broad range of high-quality creative work, including B2B marketing campaigns, digital experiences, branding initiatives, and other relevant work.\n\n Experience with e-commerce or product-led-growth environments is highly desirable, particularly where digital experiences are closely connected to commercial growth.\n\n Experience working in-house within a fast-scaling organization is an advantage, as is agency experience.\n\n Experience structuring design systems for AI or MCP-based tooling, or connecting design systems directly to production code, is a strong plus.\n\n Additional expertise in motion design using tools such as After Effects or Premiere Pro and 3D design using Cinema 4D or Blender is desirable.\n\n Benefits\n\n Annual base salary of $125,600–$172,700 CAD.\n\n Initial Restricted Stock Unit (RSU) grant with no vesting cliff, plus potential ongoing refresh opportunities tied to performance and applicable plan terms.\n\n Competitive total compensation combining base salary, performance-based bonus or variable pay, and equity for eligible roles.\n\n Flexible, employee-led remote working model designed to support different working preferences and collaboration needs.\n\n Comprehensive health and parental leave programs.\n\n Professional development stipend to support continued learning and career growth.\n\n Opportunity to work on high-impact digital experiences within a rapidly growing technology environment.\n\n Significant creative ownership and autonomy, with opportunities to experiment with emerging AI-enabled design and development workflows.\n\n Collaborative and inclusive culture that values diverse perspectives, innovation, personal growth, and long-term impact.\n\n Opportunity to lead and develop a high-performing digital design team while influencing global brand and customer experiences.",
+      "is_remote": false,
+      "department": "Design",
+      "ats": "Lever",
+      "source": "company_portal",
+      "archetype": "D",
+      "work_arrangement": "On-site",
+      "first_seen": "2026-10-06T13:14:00Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "Square",
+      "title": "Head of Global External Workforce & Partner Strategy",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://builtintoronto.com/job/head-global-external-workforce-partner-strategy/11520404",
+      "direct_url": "https://builtintoronto.com/job/head-global-external-workforce-partner-strategy/11520404",
+      "req_id": "",
+      "date_posted": "",
+      "date_seen": "2026-10-06T13:13:54Z",
+      "description": "",
+      "is_remote": null,
+      "department": "",
+      "ats": "Builtin",
+      "source": "company_portal",
+      "archetype": "D",
+      "first_seen": "2026-10-06T13:14:00Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "RBC",
       "title": "Managing Director, Data Product Lead - COO Group",
@@ -289,7 +352,12 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.lever.co/jobgether/9172fba4-97a0-469c-b5e8-fd73f1d9370a",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://jobs.lever.co/jobgether/9172fba4-97a0-469c-b5e8-fd73f1d9370a"
+      ]
     },
     {
       "company": "Inside Edge Properties",
@@ -368,7 +436,12 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.lever.co/jobgether/864f3b2d-ee75-493e-a72e-c1f1e44ca0d1",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://jobs.lever.co/jobgether/864f3b2d-ee75-493e-a72e-c1f1e44ca0d1"
+      ]
     },
     {
       "company": "Affinity",
@@ -1585,16 +1658,16 @@
       "source": "company_portal",
       "archetype": "B",
       "first_seen": "2026-10-05T18:25:38Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -2006,16 +2079,16 @@
         "https://www.glassdoor.ca/job-listing/j?jl=1010285828461",
         "https://www.linkedin.com/jobs/view/4475826450/"
       ],
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -2333,7 +2406,12 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.lever.co/jobgether/913595a9-4703-44e9-ac50-09500e693f2a",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://jobs.lever.co/jobgether/913595a9-4703-44e9-ac50-09500e693f2a"
+      ]
     },
     {
       "company": "National Bank of Canada",
@@ -4819,7 +4897,12 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.lever.co/jobgether/c48913d1-4e2b-45b8-ad24-6411779d8105",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://jobs.lever.co/jobgether/c48913d1-4e2b-45b8-ad24-6411779d8105"
+      ]
     },
     {
       "company": "KPMG Canada",
@@ -7976,14 +8059,14 @@
       "first_seen": "2026-09-30T21:04:12Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -9073,7 +9156,12 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.lever.co/jobgether/b7acf8b7-64f2-403e-8c69-0e9c65ab82bb",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://jobs.lever.co/jobgether/b7acf8b7-64f2-403e-8c69-0e9c65ab82bb"
+      ]
     },
     {
       "company": "Bell",
@@ -26269,8 +26357,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -26401,8 +26489,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -31047,5 +31135,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 1073
 }
