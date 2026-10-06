@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 22:43 UTC",
+  "updated_at": "2026-10-06 22:44 UTC",
   "jobs": [
     {
       "company": "Canadian Medical Association",
@@ -138,7 +138,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterloo-Ontario/Director--Digital-Servicing_JR00128395",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=49ef3a3d788da4a1"
+      ]
     },
     {
       "company": "Truly Green Farms and Cedarline Greenhouses",
@@ -195,8 +201,11 @@
       "geo_version": 1,
       "direct_url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Associate-Director--Investment-Data---SLC-Management_JR00128630-2",
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=adb5556026c810f2",
         "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Associate-Director--Investment-Data---SLC-Management_JR00128630-2"
-      ]
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Mackenzie Investments",
@@ -275,7 +284,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://indeed.njoyn.com/cl3/xweb/XWeb.asp?page=jobdetails&clid=55587&JobID=J1026-0174&BRID=364100&sbdid=936",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=8013bd12760a9877"
+      ]
     },
     {
       "company": "BioScript Pharmacy Ltd.",
@@ -547,24 +562,28 @@
       "ats": "LinkedIn",
       "description": "Who We Are\n\nFor more than 130 years, The Salvation Army has served people in need in communities across Canada and Bermuda. Building on our roots as a world-wide Christian church, each year we help more than 2 million people, providing necessities such as food, clothing and shelter. In addition, we support people experiencing unemployment, addiction and family challenges. We continually adapt and innovate to meet emerging needs and live out our mission, vision and values of hope, service, dignity and stewardship. As a faith- and values-based organization, we hire and serve people of all backgrounds and walks of life - there is a place for everyone to belong here.\n\nMission Statement\n\nThe Salvation Army exists to share the love of Jesus Christ, meet human needs and be a transforming influence in the communities of our world.\n\nJob Description\n\nPosition Purpose\n\nThe role works on behalf of a program, function, department, division, or Territory independently executing a range of financial responsibilities: developing and implementing accurate, timely, and complete spreadsheets and templates, budget, and accounting documents.\n\nKey Accountabilities\n\nLead the development, monitoring, and forecasting of annual budgets for large Ministry Units (MUs) and territorial departments, ensuring alignment with organizational priorities and budgeting guidelines.\nAnalyze financial results, budget variances, and reporting packages to identify risks, trends, and key issues, providing actionable insights to senior leadership and department stakeholders.\nSupport long-term financial planning by developing forecasts, evaluating future funding requirements, and advising on financial sustainability.\nEnsure compliance of project budgets, expenditures, and financial reporting with Canada Revenue Agency (CRA) regulations and internal policies governing donor and international development funding.\nReview project progress, funding commitments, and financial performance to confirm adequate resources are available and organizational obligations are met.\nProvide financial expertise, guidance, training, and consultative support to leaders and project teams on budgeting, reporting, compliance, and financial management practices.\nCollaborate with internal departments and external stakeholders, including auditors, funders, vendors, and service providers, to gather information, resolve issues, and support financial operations.\nPrepare and oversee complex financial transactions, journal entries, payment approvals, and other financial activities to ensure accurate and timely processing.\nContribute to business process improvements and system enhancements by assessing operational requirements, documenting changes, and supporting the implementation of effective financial practices.\nSupport donor-funded initiatives through financial analysis, funding oversight, trend identification, stakeholder presentations, and participation in special projects and departmental activities.\n\nEducation And Experience Qualifications\n\nCompletion of a post-secondary degree or diploma (minimum three-year program) in Accounting, Finance, Business Administration, or a related field; an equivalent combination of education and experience may be considered.\nMinimum five (5) years of progressive experience in finance, accounting, budgeting, financial analysis, or a related field.\nDemonstrated expertise in financial reporting, budgeting, forecasting, variance analysis, and financial controls.\nStrong analytical and problem-solving skills with the ability to identify risks, evaluate options, and recommend effective solutions.\nExcellent communication and interpersonal skills with the ability to build relationships and provide consultative support to diverse stakeholders.\nProven ability to work independently and collaboratively in a team environment while managing multiple priorities and meeting deadlines.\nExceptional attention to detail, accuracy, and organizational skills, with a strong commitment to customer service and continuous improvement.\nHigh level of integrity, professionalism, and adaptability, including the ability to navigate change, exercise sound judgment, and work effectively with complex financial information and varying reporting standards.\n\nCompensation\n\nThe target hiring range for this position is $85,321.60 to $106,641.60 with a maximum of $127,982.40.\n\nPlacement in the salary range will be based on factors such as market conditions, internal equity, and candidate experience, skills, and qualifications relevant to the role.\n\nThe Salvation Army will provide reasonable accommodation upon request. Please email Recruitment.Accommodations@salvationarmy.ca\nif you have a need for any accommodation and we will be pleased to discuss this with you.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nNon-profit Organization Management",
       "first_seen": "2026-10-06T18:58:31Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/associate-director-finance/11528891",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/associate-director-finance/11528891"
-      ]
+        "https://builtintoronto.com/job/associate-director-finance/11528891",
+        "https://ca.indeed.com/viewjob?jk=aba5aa4f595804cf"
+      ],
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Petline Insurance Company",
@@ -1055,8 +1074,13 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=5382d0209a680c1a",
+        "https://ca.indeed.com/viewjob?jk=c1edd310328ef852",
         "https://www.glassdoor.ca/job-listing/j?jl=1010287398562"
-      ]
+      ],
+      "direct_url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Director--Retirement-Strategy_JR26091567-2",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "1Password",
@@ -1568,8 +1592,11 @@
       "direct_url": "https://builtintoronto.com/job/vp-strategy-and-operations/11529563",
       "duplicate_urls": [
         "https://builtintoronto.com/job/vp-strategy-and-operations/11529563",
+        "https://ca.indeed.com/viewjob?jk=c6d09536e0fba2fe",
         "https://www.glassdoor.ca/job-listing/j?jl=1010287370329"
-      ]
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Robert Half",
