@@ -1,37 +1,28 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 13:14 UTC*
+*Last updated: 2026-10-06 16:22 UTC*
 
-**7 new role(s)** since last run · 244 total in current portal openings
+**6 new role(s)** since last run · 245 total in current portal openings
 
-### [Associate Creative Director, Digital Design](https://jobs.lever.co/jobgether/d57f2e7c-138d-4efb-9313-419aca9008be) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Director of Data Engineering](https://jobs.lever.co/jobgether/913595a9-4703-44e9-ac50-09500e693f2a) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Director, CRO & Analytics](https://jobs.lever.co/jobgether/c48913d1-4e2b-45b8-ad24-6411779d8105) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Director, Media Strategy](https://jobs.lever.co/jobgether/b7acf8b7-64f2-403e-8c69-0e9c65ab82bb) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Enterprise Service Management (ESM) Transformation Director](https://jobs.lever.co/jobgether/864f3b2d-ee75-493e-a72e-c1f1e44ca0d1) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
+### [Senior Director, Product Management – Developer & AI](https://jobs.ashbyhq.com/1password/618d6f38-988d-4e1f-af12-f5fdeebf05ed) — 1Password
+- 📍 **Location:** Remote (United States | Canada)
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-06
 
-### [SDLC Transformation Director](https://jobs.lever.co/jobgether/9172fba4-97a0-469c-b5e8-fd73f1d9370a) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
+### [VP of Finance](https://ats.rippling.com/centricity-research/jobs/cc582c3a-d206-4727-8b8a-91900c5f5a42) — Centricity Research
+- 📍 **Location:** Remote - Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-19
+
+### [Associate Director, Operational Risk & Enterprise Crisis Management](https://hoopp.wd10.myworkdayjobs.com/en-US/HOOPP/job/Toronto-Ontario-Canada/Associate-Director--Operational-Risk---Enterprise-Crisis-Management_JR102593) — HOOPP
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-06
 
-### [Head of Global External Workforce & Partner Strategy](https://builtintoronto.com/job/head-global-external-workforce-partner-strategy/11520404) — Square
+### [Director, Counterparty Credit Risk Models, Global Risk Analytics](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Counterparty-Credit-Risk-Models--Global-Risk-Analytics_R-0000183401) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-10-06
+
+### [Director of Strategy and Partnerships](https://builtintoronto.com/job/director-strategy-and-partnerships/11525252) — Jumpstart Refugee Talent
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director, Financial Performance](https://builtintoronto.com/job/director/11191612) — Desjardins
 - 📍 **Location:** Toronto, Ontario, Canada
