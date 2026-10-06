@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 21:03 UTC*
+*Last updated: 2026-10-06 21:45 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 5 total in last 1h
 
-### [Director Threat Intelligence](https://www.linkedin.com/jobs/view/4476360794/) — Mackenzie Investments
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $149,500 - $192,500
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior IT Auditor, VP Finance](https://www.linkedin.com/jobs/view/4475032532/) — University of Calgary
-- 📍 **Location:** Calgary, Alberta, Canada
+### [AI and Experience Orchestration Director](https://www.linkedin.com/jobs/view/4468178008/) — Genesys
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $147,400.00 - 193,400.00
 - 🕒 **Posted:** 2026-10-06
