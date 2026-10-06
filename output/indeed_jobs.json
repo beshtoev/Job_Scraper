@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-06 10:13 UTC",
-  "total": 13,
-  "new_count": 0,
+  "scraped_at": "2026-10-06 10:48 UTC",
+  "total": 14,
+  "new_count": 1,
   "jobs": [
     {
       "company": "FORMA.AI",
@@ -292,6 +292,38 @@
       "geo_version": 1
     },
     {
+      "company": "Aon",
+      "title": "Director, PathWise Actuarial Implementation and AI-Enabled Process Transformation",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=1f6345ad1c555753",
+      "direct_url": "https://canadaenglish-careers-aon.icims.com/jobs/100536/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "company_url": "https://ca.indeed.com/cmp/Aon",
+      "date_posted": "2026-09-23",
+      "description": "Posting Description:\n**Director, PathWise Actuarial Implementation and AI\\-Enabled Process Transformation**\n--------------------------------------------------------------------------------------\n\n\nThe Life Solutions division at Aon is seeking a Director to lead large\\-scale PathWise implementation projects. This role also supports AI\\-enabled process transformation initiatives for life and annuity insurers across North America. This client\\-facing role combines actuarial expertise, implementation leadership, and technology\\-enabled transformation to help insurers modernize modelling, reporting, workflow automation, AI\\-enabled systems, and operational workflows.  \n\nThe Director will work within Aon Life Solutions, part of Aon’s Reinsurance Strategy and Technology Group to translate business needs into practical implementation plans, scalable operating models, and measurable delivery outcomes. This role will be based in Canada. **Applicants must be legally authorized to work in Canada. This role is not eligible for sponsorship, and we are unable to sponsor or take over sponsorship of an employment visa or work permit.****Aon is in the business of better decisions**\n----------------------------------------------\n\n\nAt Aon, we shape decisions for the better to protect and enrich the lives of people around the world.\nAs an organization, we are united through trust as one inclusive team and we are passionate about helping our colleagues and clients succeed.**What the day will look like**\n-------------------------------\n\n**Implementation and Client Delivery*** Lead and support large\\-scale PathWise implementation projects for life and annuity insurers across North America.\n* Handle key implementation workstreams, including model migration, data integration, testing, reconciliation, workflow design, documentation, training, and production deployment.\n* Translate client business objectives and current\\-state processes into clear delivery plans, target\\-state solutions, and implementation roadmaps.\n* Develop and migrate actuarial models and production processes for valuation, pricing, financial reporting, capital, ALM, and risk management use cases.\n* Support delivery governance, issue resolution, risk management, collaborator communication, post\\-implementation stabilization, and client knowledge transfer.\n\n**AI\\-Enabled Process Transformation and Innovation**\n-----------------------------------------------------\n\n* Identify, prioritize, and continuously refine opportunities to use automation and AI\\-enabled capabilities to improve actuarial modelling, reporting, reconciliation, documentation, and analysis processes across the PathWise lifecycle.\n* Collaborate closely with the PathWise AI and development teams to translate business difficulties into clear AI use cases, feature requests, and improvements.\n* Help clients redesign legacy actuarial workflows into more efficient, scalable, governed, and technology\\-enabled operating models.\n* Contribute to reusable implementation assets, process transformation playbooks, documentation templates, workflow designs, and AI\\-enabled delivery accelerators.\n* Lead or support pilots of new PathWise AI features, capturing user feedback and performance metrics, and consolidating insights into actionable recommendations for the PathWise AI roadmap\n* Promote responsible and controlled use of AI\\-enabled capabilities, including review, validation, traceability, documentation, and governance, and contribute to standard guidance on AI\\-enabled workflows\n\n**Business Development and Market Support**\n-------------------------------------------\n\n* Support PathWise growth in the North American life and annuity market through client solutioning, demonstrations (including AI\\-enabled capabilities), proposals, implementation estimates, and project planning.\n* Partner with senior leaders in client discussions on actuarial modernization, implementation strategy, process automation, AI\\-enabled transformation, and business value.\n* Develop proof\\-of\\-concept materials and presentations on PathWise capabilities, implementation guidelines, and emerging insurance industry issues.\n* Develop and share case studies, training materials, and thought leadership that showcase successful AI\\-enabled PathWise use cases and evolving capabilities\n\n**How this opportunity is different**\n-------------------------------------\n\n\nPathWise is Aon’s high\\-performance actuarial software platform, enabling insurers to model liabilities, assets, capital, and related business processes with speed, transparency, flexibility, and control. The platform supports modern actuarial modelling, scenario analysis, financial reporting, ALM, risk management, and enterprise\\-scale production processes.\nIn this role, you will help clients migrate models and processes into PathWise, improve actuarial production workflows, and apply automation and AI\\-enabled capabilities across requirements, model development, testing, reconciliation, documentation, workflow monitoring, and reporting. You will also help identify new AI applications within PathWise, develop improvements with the PathWise AI team, and promote adoption of emerging capabilities across client and internal teams.**Skills and experience that will lead to success**\n---------------------------------------------------\n\n* 10\\+ years of experience in life insurance, life reinsurance, actuarial consulting, financial technology, actuarial modelling, or enterprise platform implementation.\n* Experience with valuation, pricing, ALM, hedging, capital, financial reporting, risk management, model governance, or related actuarial functions.\n* Experience supporting or leading implementation, modernization, migration, or transformation projects within actuarial, finance, risk, or insurance technology environments.\n* Solid understanding of life and annuity products, reserves, capital, financial reporting, ALM, and risk management.\n* Practical experience with actuarial mode",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
       "company": "TD",
       "title": "AVP, Analytics, Insights and AI, AI Product",
       "location": "Toronto, ON, CA",
@@ -420,5 +452,38 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Aon",
+      "title": "Director, PathWise Actuarial Implementation and AI-Enabled Process Transformation",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=1f6345ad1c555753",
+      "direct_url": "https://canadaenglish-careers-aon.icims.com/jobs/100536/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "company_url": "https://ca.indeed.com/cmp/Aon",
+      "date_posted": "2026-09-23",
+      "description": "Posting Description:\n**Director, PathWise Actuarial Implementation and AI\\-Enabled Process Transformation**\n--------------------------------------------------------------------------------------\n\n\nThe Life Solutions division at Aon is seeking a Director to lead large\\-scale PathWise implementation projects. This role also supports AI\\-enabled process transformation initiatives for life and annuity insurers across North America. This client\\-facing role combines actuarial expertise, implementation leadership, and technology\\-enabled transformation to help insurers modernize modelling, reporting, workflow automation, AI\\-enabled systems, and operational workflows.  \n\nThe Director will work within Aon Life Solutions, part of Aon’s Reinsurance Strategy and Technology Group to translate business needs into practical implementation plans, scalable operating models, and measurable delivery outcomes. This role will be based in Canada. **Applicants must be legally authorized to work in Canada. This role is not eligible for sponsorship, and we are unable to sponsor or take over sponsorship of an employment visa or work permit.****Aon is in the business of better decisions**\n----------------------------------------------\n\n\nAt Aon, we shape decisions for the better to protect and enrich the lives of people around the world.\nAs an organization, we are united through trust as one inclusive team and we are passionate about helping our colleagues and clients succeed.**What the day will look like**\n-------------------------------\n\n**Implementation and Client Delivery*** Lead and support large\\-scale PathWise implementation projects for life and annuity insurers across North America.\n* Handle key implementation workstreams, including model migration, data integration, testing, reconciliation, workflow design, documentation, training, and production deployment.\n* Translate client business objectives and current\\-state processes into clear delivery plans, target\\-state solutions, and implementation roadmaps.\n* Develop and migrate actuarial models and production processes for valuation, pricing, financial reporting, capital, ALM, and risk management use cases.\n* Support delivery governance, issue resolution, risk management, collaborator communication, post\\-implementation stabilization, and client knowledge transfer.\n\n**AI\\-Enabled Process Transformation and Innovation**\n-----------------------------------------------------\n\n* Identify, prioritize, and continuously refine opportunities to use automation and AI\\-enabled capabilities to improve actuarial modelling, reporting, reconciliation, documentation, and analysis processes across the PathWise lifecycle.\n* Collaborate closely with the PathWise AI and development teams to translate business difficulties into clear AI use cases, feature requests, and improvements.\n* Help clients redesign legacy actuarial workflows into more efficient, scalable, governed, and technology\\-enabled operating models.\n* Contribute to reusable implementation assets, process transformation playbooks, documentation templates, workflow designs, and AI\\-enabled delivery accelerators.\n* Lead or support pilots of new PathWise AI features, capturing user feedback and performance metrics, and consolidating insights into actionable recommendations for the PathWise AI roadmap\n* Promote responsible and controlled use of AI\\-enabled capabilities, including review, validation, traceability, documentation, and governance, and contribute to standard guidance on AI\\-enabled workflows\n\n**Business Development and Market Support**\n-------------------------------------------\n\n* Support PathWise growth in the North American life and annuity market through client solutioning, demonstrations (including AI\\-enabled capabilities), proposals, implementation estimates, and project planning.\n* Partner with senior leaders in client discussions on actuarial modernization, implementation strategy, process automation, AI\\-enabled transformation, and business value.\n* Develop proof\\-of\\-concept materials and presentations on PathWise capabilities, implementation guidelines, and emerging insurance industry issues.\n* Develop and share case studies, training materials, and thought leadership that showcase successful AI\\-enabled PathWise use cases and evolving capabilities\n\n**How this opportunity is different**\n-------------------------------------\n\n\nPathWise is Aon’s high\\-performance actuarial software platform, enabling insurers to model liabilities, assets, capital, and related business processes with speed, transparency, flexibility, and control. The platform supports modern actuarial modelling, scenario analysis, financial reporting, ALM, risk management, and enterprise\\-scale production processes.\nIn this role, you will help clients migrate models and processes into PathWise, improve actuarial production workflows, and apply automation and AI\\-enabled capabilities across requirements, model development, testing, reconciliation, documentation, workflow monitoring, and reporting. You will also help identify new AI applications within PathWise, develop improvements with the PathWise AI team, and promote adoption of emerging capabilities across client and internal teams.**Skills and experience that will lead to success**\n---------------------------------------------------\n\n* 10\\+ years of experience in life insurance, life reinsurance, actuarial consulting, financial technology, actuarial modelling, or enterprise platform implementation.\n* Experience with valuation, pricing, ALM, hedging, capital, financial reporting, risk management, model governance, or related actuarial functions.\n* Experience supporting or leading implementation, modernization, migration, or transformation projects within actuarial, finance, risk, or insurance technology environments.\n* Solid understanding of life and annuity products, reserves, capital, financial reporting, ALM, and risk management.\n* Practical experience with actuarial mode",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
