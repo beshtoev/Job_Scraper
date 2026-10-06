@@ -367,8 +367,8 @@ def test_a_source_that_comes_due_mid_tick_runs_next_not_last(home, monkeypatch):
         "glassdoor": {"last_attempt": runner.iso(clock["now"] - timedelta(minutes=10)), "last_ok": True}}})
     runner.main(["tick"])
     # the never-run sources first by priority, then linkedin the moment it comes due,
-    # each once per tick
-    assert calls == ["ziprecruiter_email", "linkedin", "indeed", "glassdoor", "company_portals"]
+    # each once per tick. Indeed (every 2h) is not due again within this 100-minute tick.
+    assert calls == ["ziprecruiter_email", "linkedin", "glassdoor", "company_portals"]
 
 
 def test_run_one_source_by_name_runs_only_that_one(home, monkeypatch):
