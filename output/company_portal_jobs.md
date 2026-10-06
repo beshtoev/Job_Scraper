@@ -1,28 +1,20 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-05 21:38 UTC*
+*Last updated: 2026-10-06 00:39 UTC*
 
-**8 new role(s)** since last run · 237 total in current portal openings
+**5 new role(s)** since last run · 239 total in current portal openings
 
-### [Managing Director and Head, Financial Services Group](https://builtintoronto.com/job/managing-director-and-head-financial-services-group/11512909) — BMO
+### [Director, DevOps Insights](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--DevOps-Insights_R-0000186471-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-09-28
+
+### [Director, Product Automation](https://builtintoronto.com/job/director-product-automation/11515795) — Dentsu Creative
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Domain Enterprise Architect, RPA and Intelligent Automation](https://builtintoronto.com/job/director-domain-enterprise-architect-rpa-and-intelligent-automation/11512446) — Sun Life Financial, Inc.
+### [Director, Product Automation](https://builtintoronto.com/job/director-product-automation/11514892) — dentsu
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Domain Enterprise Architect, Technology Modernization and Cloudification](https://builtintoronto.com/job/director-domain-enterprise-architect-technology-modernization-and-cloudification/11512435) — Sun Life Financial, Inc.
+### [Assistant Director of Finance - Transitions & New Development](https://builtintoronto.com/job/assistant-director-finance-transitions-new-development/11514655) — Pyramid Global Hospitality
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Director, Group Product Owner - Enterprise Governance, Risk & Compliance (eGRC)](https://builtintoronto.com/job/senior-director-group-product-owner-enterprise-governance-risk-compliance-egrc/11509604) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Director of Worldwide Marketing Data Strategy and Analytics](https://builtintoronto.com/job/director-worldwide-marketing-data-strategy-and-analytics/11509442) — Autodesk
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Social Strategy Director - Bilingual](https://builtintoronto.com/job/social-strategist-bilingual/11404629) — Rethink
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Associate Director, Agriculture Finance](https://builtintoronto.com/job/associate-director-agriculture-finance/11052309) — The Nature Conservancy
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Vice President, Information Security](https://builtintoronto.com/job/vice-president-information-security/11508783) — Docebo
+### [Director of Information Security](https://builtintoronto.com/job/director-information-security/11513535) — Efficient Computer
 - 📍 **Location:** Toronto, Ontario, Canada
