@@ -1,33 +1,25 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 17:45 UTC*
+*Last updated: 2026-10-06 18:10 UTC*
 
-**7 new role(s)** since last run · 9 total in last 1h
+**5 new role(s)** since last run · 13 total in last 1h
 
-### [Vice President, Data Engineering](https://www.linkedin.com/jobs/view/4474978847/) — PICTON Investments
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-06
-
-### [Director, Marketing Technology Consulting](https://www.linkedin.com/jobs/view/4476329795/) — Bond Brand Loyalty
+### [Digital Marketing Director (Remote, Winnipeg)](https://www.linkedin.com/jobs/view/4476335776/) — Blacksmith Agency
 - 📍 **Location:** Canada
-- 💰 **Salary:** $ 135,000 to $ 185,000
 - 🕒 **Posted:** 2026-10-06
 
-### [Head of Toronto AI Center](https://www.linkedin.com/jobs/view/4456517334/) — Samsung Research America (SRA)
-- 📍 **Location:** Greater Toronto Area, Canada
+### [Director of Digital Marketing (Remote, Calgary)](https://www.linkedin.com/jobs/view/4476348274/) — Blacksmith Agency
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-10-06
 
-### [Principal & Head of Public Markets & Quant Technology](https://www.linkedin.com/jobs/view/4476351055/) — GlassRatner Canada
+### [Director, Education Design & Intelligence](https://www.linkedin.com/jobs/view/4476346521/) — TVO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000 - $130,000
+- 🕒 **Posted:** 2026-10-06
+
+### [AVP, Compliance Technology and Innovation](https://www.linkedin.com/jobs/view/4475100173/) — Sun Life
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-06
 
-### [Head of Product, Questrade Experience Platform](https://www.linkedin.com/jobs/view/4466527921/) — Questrade Financial Group
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-06
-
-### [VP of Digital Transformation](https://www.linkedin.com/jobs/view/4474984689/) — BEAMRA
-- 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-10-06
-
-### [Associate Director, Operational Risk & Enterprise Crisis Management](https://www.linkedin.com/jobs/view/4476343283/) — HOOPP (Healthcare of Ontario Pension Plan)
-- 📍 **Location:** Toronto, Ontario, Canada
+### [AVP, Compliance Technology and Innovation](https://www.linkedin.com/jobs/view/4474987654/) — Sun Life
+- 📍 **Location:** Kitchener, Ontario, Canada
 - 🕒 **Posted:** 2026-10-06
