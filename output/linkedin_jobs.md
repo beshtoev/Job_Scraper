@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-07 01:45 UTC*
+*Last updated: 2026-10-07 02:05 UTC*
 
-**0 new role(s)** since last run · 9 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-No new roles since the last run.
+### [Director, Enterprise Managed Services Sales](https://www.linkedin.com/jobs/view/4475137723/) — Jobgether
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-07
