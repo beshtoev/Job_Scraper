@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-07 03:33 UTC*
+*Last updated: 2026-10-07 04:13 UTC*
 
-**1 new role(s)** since last run · 8 total in last 1h
+**0 new role(s)** since last run · 6 total in last 1h
 
-### [Director, Deal Desk & Pricing Strategy](https://www.linkedin.com/jobs/view/4475162175/) — Varicent
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-07
+No new roles since the last run.
