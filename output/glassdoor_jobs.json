@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 14:57 UTC",
+  "scraped_at": "2026-10-07 16:01 UTC",
   "total": 56,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "TD Bank",
@@ -1464,58 +1464,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Pacific Blue Cross",
-      "title": "Director, Data and Insights",
-      "location": "Burnaby, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010285892091",
-      "date_posted": "2026-10-06",
-      "description": "Bachelor’s degree (or equivalent) with a major in Business, Data Science, Statistics, or an equivalent discipline, including or supplemented by courses in…",
-      "salary": "$122k–$184k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "Burnaby",
-      "geo_province": "BC",
-      "geo_lat": 49.2488,
-      "geo_lon": -122.9805,
-      "geo_distance_km": 3345.6,
-      "geo_rank": 433456,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Kyndryl",
-      "title": "Associate Director - Cloud Technology Advisor",
-      "location": "Calgary, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010288301167",
-      "date_posted": "2026-10-07",
-      "description": "MBA or Master's degree in Business, Technology, Engineering, or related discipline. From your very first day, you’ll dive into impactful work that powers the…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (AB)",
-      "geo_city": "Calgary",
-      "geo_province": "AB",
-      "geo_lat": 51.0447,
-      "geo_lon": -114.0719,
-      "geo_distance_km": 2706.9,
-      "geo_rank": 427069,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
