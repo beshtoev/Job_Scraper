@@ -1,9 +1,13 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-07 13:30 UTC*
+*Last updated: 2026-10-07 14:57 UTC*
 
-**1 new role(s)** since last run · 57 total in last 24h
+**2 new role(s)** since last run · 56 total in last 24h
 
-### [AI Director - Machine Learning | Fully Remote](https://www.glassdoor.ca/job-listing/j?jl=1010288135620) — Escape Velocity Entertainment Inc
-- 📍 **Location:** Remote, Canada
-- **Work mode:** Remote in-state eligible
+### [Director, Data and Insights](https://www.glassdoor.ca/job-listing/j?jl=1010285892091) — Pacific Blue Cross
+- 📍 **Location:** Burnaby, Canada
+- 💰 **Salary:** $122k–$184k/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Associate Director - Cloud Technology Advisor](https://www.glassdoor.ca/job-listing/j?jl=1010288301167) — Kyndryl
+- 📍 **Location:** Calgary, Canada
 - 🕒 **Posted:** 2026-10-07
