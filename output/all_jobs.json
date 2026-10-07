@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-07 01:05 UTC",
+  "updated_at": "2026-10-07 01:13 UTC",
   "jobs": [
+    {
+      "company": "Okanagan College",
+      "title": "Associate Director, Workforce Strategy, Inclusion and Belonging",
+      "location": "Kelowna, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010287567530",
+      "date_posted": "2026-10-07",
+      "description": "Master’s degree in human resources, organizational development, business administration, public administration or a related field.",
+      "salary": "$106k–$149k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-07T01:13:32Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Kelowna",
+      "geo_province": "BC",
+      "geo_lat": 49.888,
+      "geo_lon": -119.496,
+      "geo_distance_km": 3089.6,
+      "geo_rank": 430896,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Valtech",
       "title": "Technical Director, AI-Native Cloud & DevOps",
@@ -90,7 +117,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010287475293"
+      ]
     },
     {
       "company": "Slalom",
@@ -33168,6 +33198,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1144
+  ]
 }
