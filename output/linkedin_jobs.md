@@ -1,18 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-07 16:22 UTC*
+*Last updated: 2026-10-07 16:42 UTC*
 
-**3 new role(s)** since last run · 18 total in last 1h
+**3 new role(s)** since last run · 19 total in last 1h
 
-### [Chief Financial Officer and Vice President of Information Management and Information Technology](https://www.linkedin.com/jobs/view/4467799546/) — First Nations Health Authority
-- 📍 **Location:** Metro Vancouver A, British Columbia, Canada
-- 💰 **Salary:** $226,000- $282,000 per year
+### [Director, Digital Product Management - Medical Writing](https://www.linkedin.com/jobs/view/4474447965/) — Thermo Fisher Scientific
+- 📍 **Location:** Alberta, Canada
+- 💰 **Salary:** $185,000- $215,000 USD
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, Financial Performance](https://www.linkedin.com/jobs/view/4465929487/) — Desjardins
+### [Program Director - Transformation Initiatives, Client Segmentation](https://www.linkedin.com/jobs/view/4476786268/) — FP Inc.
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $90.00/hr - CA$102.00/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, Strategy and Audit Operations](https://www.linkedin.com/jobs/view/4458521744/) — Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $ 164092.90 to $ 205116.13
+### [Finance Director](https://www.linkedin.com/jobs/view/4475458530/) — Perennial
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000-$150,000 annually
 - 🕒 **Posted:** 2026-10-07
