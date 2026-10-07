@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-07 06:57 UTC",
+  "updated_at": "2026-10-07 07:17 UTC",
   "jobs": [
+    {
+      "company": "Atomic Sciences Inc.",
+      "title": "Chief Technology Officer",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4475131868/",
+      "date_posted": "2026-10-07",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Chief Technology Officer (CTO), LocalOne\n\nRemote,\n  any country | Full-time employee | Starting base salary US$150,000\n\nAbout LocalOne\n\nLocalOne is a technology company preparing multiple products for the North American services market. The first commercial product is a universal services marketplace. Planned capabilities also include protected buyer–seller transactions, AI that structures requests and compares providers, and LocalOne's own AI agents operating within permissions set by users.\nLocalOne is pre-launch. We have the product concept and project documentation. The technical foundation and the engineering team are still to be built, and you will lead that work from the start.\nWhat you will do\n\nLead technical architecture and engineering standards across LocalOne products.\nWork with product management to turn approved priorities into an MVP plan and sequenced engineering work, with estimates and dependencies across teams.\nWork with HR to build the engineering team: define role requirements, conduct technical interviews and assess candidates' skills and suitability. LocalOne leadership approves final hiring decisions.\nLead and coordinate specialists in backend, payments, iOS, Android, web, AI/data, DevOps/security/SRE and QA as the team grows.\nWrite and review backend code and resolve complex problems across connected systems.\nMake technical decisions on cloud services, providers and AI tools, weighing product requirements, security, integration effort and operating costs.\nOversee release readiness, reliability, incident escalation, backups and recovery.\nMaintain technical documentation, clear responsibilities and knowledge transfer.\n\nRequired experience\n\nHands-on backend development in at least one modern language, with software delivered and supported in production.\nStrong backend/API design and relational database skills, including PostgreSQL-class systems, transactions, concurrency, migrations and data integrity.\nOrder and payment state machines: durable events, idempotent operations, webhooks, retries and recovery after failures.\nPayment provider integrations (account verification, payout states, refunds, chargebacks), plus internal ledger design and reconciliation with provider records.\nLaunching a product from initial development into production, ideally a marketplace, fintech or SaaS product with orders and payments.\nManaging and mentoring engineering teams, conducting technical interviews and assessing the quality and timeliness of engineers' work.\nTurning product priorities into engineering plans and estimates, and explaining technical decisions in terms of delivery dates, costs, security and service reliability.\n\nNice to have\n\nWorking knowledge of cloud services, CI/CD, monitoring, secrets management, security controls and safe release and rollback practices.\nPractical experience with AI model integration: structured outputs, evaluations and fallbacks when a model fails.\nFamiliarity with marketplace payment flows: seller verification (KYC/KYB), holding and releasing funds.\nDesigning permissions and audit trails for AI agents that act on behalf of users, including protection against prompt injection.\n\nSuitable backgrounds include CTO, Head/VP of Engineering, or Staff/Principal Backend or Platform Engineer with engineering leadership experience.\nCompensation and start date\n\nFull-time employee role, fully remote. Candidates may be based in any country; how employment is structured in each country is agreed individually.\nExpected annual base salary for the initial full-time employment: US$150,000.\nLocalOne is pre-launch and raising financing, expected to close within three months. Paid employment begins after financing is secured and terms are agreed. Until then, the process consists of interviews and familiarization with project materials, shared under NDA. We do not ask for unpaid project work.\n\nHow to apply\n\nApply through LinkedIn. Please include:\n\nyour CV or professional profile;\nexamples of relevant products you have built or led;\nyour potential availability;\na short answer (a few sentences): what is the most difficult payment or data-consistency failure you have investigated, and how did you resolve it?\n\nApplications are treated confidentially.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "first_seen": "2026-10-07T07:17:24Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Vaco LLC",
       "title": "Director, Internal Controls & Finance Transformation",
