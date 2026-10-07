@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 06:33 UTC",
+  "updated_at": "2026-10-07 06:57 UTC",
   "jobs": [
     {
       "company": "Vaco LLC",
@@ -40,20 +40,27 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-07T06:33:43Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://www.capitalonecareers.ca/job/-/-/1733/101620646112",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=7f4ba5461bdcfcf6"
+      ]
     },
     {
       "company": "Distress Centre Calgary",
