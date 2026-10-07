@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-07 09:51 UTC",
+  "updated_at": "2026-10-07 10:34 UTC",
   "jobs": [
+    {
+      "company": "KPMG Canada",
+      "title": "Director, Finance Transformation-Banking",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4467778163/",
+      "date_posted": "2026-10-07",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Overview\n\nAt KPMG in Canada, our people bring their unique perspectives to Canada’s most important challenges. Here, you can build momentum that reaches beyond our business, develop skills for the future, and take ownership of your career with support at every stage. Join a firm where your career can make a difference.\n\nKPMG's Finance Transformation practice helps leading Canadian and global financial institutions modernize their finance functions to drive efficiency, insight, and enterprise value. We work with CFOs and finance executives across retail banking, commercial banking, capital markets, and wealth management to transform finance operating models, optimize processes, and implement enabling technologies.\n\nWe are seeking an experienced Director to lead complex client engagements, shape large-scale transformation programs, and contribute to the growth of our Financial Services consulting practice.\n\nWhat You Will Do\n\nLead large-scale Finance Transformation programs for banking clients.\nAdvise CFOs, CAOs, Controllers, and Finance leaders on finance strategy and operating model design.\nDeliver finance modernization initiatives including\nFinance Target Operating Models\nFinance Process Optimization\nFinancial Planning & Analysis Transformation\nClose & Consolidation Transformation\nRegulatory and Management Reporting\nData, Reporting & Analytics\nAI and Automation solutions\nERP and EPM implementations\n\nManage engagement teams and oversee quality delivery across multiple workstreams.\nBuild executive-level client relationships and act as a trusted advisor.\nLead business development activities, proposal development, and market pursuits.\nContribute to thought leadership within Banking and Financial Services.\nCoach and develop consultants, managers, and emerging leaders.\n\nWhat You Bring To The Role\n\n10+ years of combined consulting and industry experience.\nExperience delivering transformation initiatives within\nRetail Banking\nCommercial Banking\nCapital Markets\nWealth & Asset Management\n\nStrong understanding of banking finance functions, including\nFinancial Controllership and Reporting\nFP&A\nRegulatory Reporting\nRisk, Treasury & Finance Integration\nFinance Data Management\n\nExperience with major finance technologies such as\nSAP S/4HANA\nOracle Cloud (ERP and EPM)\nWorkday and Adaptive\nOneStream\nAnaplan\n\nProven ability to manage senior client stakeholders and large consulting teams.\nStrong business development and proposal-writing experience.\nExceptional communication and executive presentation skills.\nCPA, CFA, MBA, or equivalent designation.\nExperience leading multi-million-dollar transformation programs.\nDemonstrated track record in Financial Services consulting and practice development.\n\nProviding you with the support you need to be at your best\n\nOur Values, The KPMG Way\n\nIntegrity\n, we do what is right | Excellence\n, we never stop learning and improving | Courage\n, we think and act boldly | Together\n, we respect each other and draw strength from our differences | For Better\n, we do what matters\n\nKPMG in Canada is a proud equal opportunities employer and we are committed to creating a respectful, inclusive and barrier-free workplace that allows all of our people to reach their full potential. A diverse workforce is key to our success and we believe in bringing your whole self to work. We welcome all qualified candidates to apply and hope you will choose KPMG in Canada as your employer of choice.\n\nAdjustments and accommodations throughout the recruitment process\n\nAt KPMG, we are committed to fostering an inclusive recruitment process where all candidates can be themselves and excel. We aim to provide a positive experience and are prepared to offer adjustments or accommodations to help you perform at your best. Adjustments (informal requests), such as extra preparation time or the option for micro breaks during interviews, and accommodations (formal requests), such as accessible communication supports or technology aids, are tailored to individual needs and role requirements. You will have an opportunity to request an adjustment or accommodation at any point throughout the recruitment process. If you require support, please contact KPMG’s Employee Relations Service team by calling 1-888-466-4778.\n\nAI Usage\n\nWe embrace the use of artificial intelligence (AI) to enhance the candidate experience and streamline our recruitment processes. AI tools may help with organizing applications or surfacing relevant qualifications. However, no hiring decisions are made using AI. Every hiring decision is made by our hiring managers and recruitment professionals, who are equipped with training that empowers them to use these tools responsibly. AI technologies used in our recruitment process undergo detailed risk assessments, including security and privacy requirements, that align with KPMG’s Trusted AI framework.\n\nWe believe technology should empower human judgment, not replace it. It’s one of the many ways we’re delivering on our vision of being a technology-first, people-driven firm.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
+      "first_seen": "2026-10-07T10:34:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Thermo Fisher Scientific",
       "title": "Director, Digital Product Management - Medical Writing",
@@ -26,7 +51,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only province AB stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4475400828/"
+      ]
     },
     {
       "company": "Royal Bank of Canada",
@@ -33655,5 +33683,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 1161
 }
