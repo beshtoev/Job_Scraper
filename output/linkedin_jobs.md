@@ -1,17 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-07 21:12 UTC*
+*Last updated: 2026-10-07 21:33 UTC*
 
 **3 new role(s)** since last run · 8 total in last 1h
 
-### [Director, Product Management: AI](https://www.linkedin.com/jobs/view/4471963153/) — Plusgrade
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-07
-
-### [Executive Director, Financial Services](https://www.linkedin.com/jobs/view/4475491547/) — Government of Alberta
+### [Managing Director, Corporate Finance Group](https://www.linkedin.com/jobs/view/4476933425/) — BMO
 - 📍 **Location:** Edmonton, Alberta, Canada
-- 💰 **Salary:** $153,902.57/yr - CA$202,256.21/yr
+- 💰 **Salary:** $85,500.00 - $185,000.00
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, Digital Experience Platforms](https://www.linkedin.com/jobs/view/4476918765/) — Sobeys
-- 📍 **Location:** Mississauga, Ontario, Canada
+### [Managing Director, Corporate Finance Group](https://www.linkedin.com/jobs/view/4476921846/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-10-07
+
+### [Director Equipment Finance](https://www.linkedin.com/jobs/view/4469174728/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
 - 🕒 **Posted:** 2026-10-07
