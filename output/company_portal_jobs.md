@@ -1,14 +1,19 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-06 22:27 UTC*
+*Last updated: 2026-10-07 01:33 UTC*
 
-**3 new role(s)** since last run · 247 total in current portal openings
+**5 new role(s)** since last run · 249 total in current portal openings
 
-### [Associate Director, Investment Data - SLC Management](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Associate-Director--Investment-Data---SLC-Management_JR00128630-2) — Sun Life
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-10-06
-
-### [Director of GTM Data, Processes, and AI Enablement](https://builtintoronto.com/job/director-gtm-data-processes-and-ai-enablement/11534358) — MaintainX
+### [Senior Director Finance](https://builtintoronto.com/job/senior-director-finance/11536160) — SinaLite
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Vice President, Information Technology](https://builtintoronto.com/job/vice-president-information-technology/11019152) — RioCan Real Estate Investment Trust
+### [Associate Director, Investment Data - SLC Management](https://builtintoronto.com/job/associate-director-investment-data-slc-management/11535557) — Sun Life Financial, Inc.
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [VP, Strategic Finance Partner - Operations](https://builtintoronto.com/job/vp-strategic-finance-partner-operations/11535686) — Equinix
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [VP, Strategic Finance Partner – DIO, Product, and Corporate Functions](https://builtintoronto.com/job/vp-strategic-finance-partner-dio-product-and-corporate-functions/11535685) — Equinix
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [VP, Finance Transformation](https://builtintoronto.com/job/vp-finance-transformation/11535681) — Equinix
 - 📍 **Location:** Toronto, Ontario, Canada
