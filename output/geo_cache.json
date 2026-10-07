@@ -2,6 +2,10 @@
   "geocode": {
     "/teletravail, on, canada": null,
     "1 presidents choice circle, brampton, on, canada": null,
+    "1 york street, toronto, canada": [
+      43.6417091,
+      -79.379678
+    ],
     "10 carlson court, etobicoke, canada": [
       43.6895499,
       -79.5870297
@@ -46,6 +50,10 @@
     "2180 yonge street, toronto, canada": [
       43.7046097,
       -79.3982744
+    ],
+    "227 king street south, waterloo, canada": [
+      43.4583769,
+      -80.5162056
     ],
     "243 consumers road, toronto, canada": [
       43.770309,
