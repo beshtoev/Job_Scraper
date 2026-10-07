@@ -1,28 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-07 00:35 UTC*
+*Last updated: 2026-10-07 01:05 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**3 new role(s)** since last run · 9 total in last 1h
 
-### [Director, Digital Servicing](https://www.linkedin.com/jobs/view/4475138418/) — Sun Life
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 🕒 **Posted:** 2026-10-07
-
-### [Director, Digital Servicing](https://www.linkedin.com/jobs/view/4475126914/) — Sun Life Québec
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-07
-
-### [Director, Digital Servicing](https://www.linkedin.com/jobs/view/4475138419/) — Sun Life
+### [Senior Director, ALM Research & Analytics](https://www.linkedin.com/jobs/view/4476518502/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, Enterprise Architecture Strategy, Core Platform](https://www.linkedin.com/jobs/view/4475141334/) — Sun Life Québec
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Technical Director, AI-Native Cloud & DevOps](https://www.linkedin.com/jobs/view/4476514683/) — Valtech
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, Domain Enterprise Architect, RPA and Intelligent Automation](https://www.linkedin.com/jobs/view/4475130836/) — Sun Life Québec
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-07
-
-### [Leader Go-To-Market Enterprise – Salesforce, ServiceNow et Adobe / Enterprise Go-To-Market Montreal Leader](https://www.linkedin.com/jobs/view/4463555638/) — Slalom
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Associate Director, Financial Operations](https://www.linkedin.com/jobs/view/4474409924/) — Covenant House Toronto
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-07
