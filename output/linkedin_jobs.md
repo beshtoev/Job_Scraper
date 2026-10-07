@@ -1,8 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-07 20:51 UTC*
+*Last updated: 2026-10-07 21:12 UTC*
 
-**1 new role(s)** since last run · 9 total in last 1h
+**3 new role(s)** since last run · 8 total in last 1h
 
-### [Senior Director, Global Delivery Lead - Data Retention](https://www.linkedin.com/jobs/view/4476931197/) — Hays
-- 📍 **Location:** Waterloo, Ontario, Canada
+### [Director, Product Management: AI](https://www.linkedin.com/jobs/view/4471963153/) — Plusgrade
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-07
+
+### [Executive Director, Financial Services](https://www.linkedin.com/jobs/view/4475491547/) — Government of Alberta
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $153,902.57/yr - CA$202,256.21/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Director, Digital Experience Platforms](https://www.linkedin.com/jobs/view/4476918765/) — Sobeys
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-10-07
