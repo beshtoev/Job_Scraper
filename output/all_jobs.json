@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-08 20:43 UTC",
+  "updated_at": "2026-10-08 20:49 UTC",
   "jobs": [
+    {
+      "company": "KIK Consumer Products",
+      "title": "SVP, Information Technology",
+      "location": "Concord, ON, Canada",
+      "url": "https://ca.indeed.com/viewjob?jk=00dc65117b044f90",
+      "direct_url": "https://edwa.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/4655",
+      "company_url": "https://ca.indeed.com/cmp/Kik-Consumer-Products",
+      "date_posted": "2026-10-08",
+      "description": "**We Create Products and Brands That People Trust to Clean, Sanitize, and Protect Their Homes and Pools**\n\nWhen you join KIK Consumer Products, you’re joining a team that cares about the work we do and also about each other. We bring exceptional brands and products to consumers that help them protect the health and wellness of their families and the cleanliness of their homes and pools. We are committed to building a culture of performance driven by accountability, collaboration, and agility that enables timely fact-based decision-making and exceptional execution with unwavering ethics. As one of North America’s largest independent manufacturers of consumer products, KIK helps a large portfolio of brands and retailers bring their products to life.\n\n**Your Role at KIK**\n\nThe Senior Vice President of Information Technology will set and execute KIK's enterprise technology strategy, enabling business growth, manufacturing performance, operational excellence, and measurable value creation. This executive will lead IT operations, cybersecurity, enterprise applications, data and analytics, AI and automation, and technology supporting KIK's manufacturing network.\n\nPartnering closely with executive leadership, the VP will translate business priorities into a practical multi-year technology roadmap, modernize and simplify the technology environment, strengthen security and resilience, and build a high-performing IT organization grounded in accountability, transparency, collaboration, and business partnership.\n\n**What You’ll Do**\n\n* Set and deliver a multi-year enterprise technology and investment roadmap aligned with business and operational priorities\n* Partner with executive and operational leaders to prioritize technology investments and translate them into measurable business outcomes\n* Lead reliable, secure technology across corporate offices, manufacturing sites, warehouses, and distribution centers\n* Advance IT/OT integration, plant connectivity, automation, analytics, and digital manufacturing capabilities\n* Lead ERP, enterprise applications, data, architecture, integrations, and modernization initiatives, including SAP/S/4HANA where applicable\n* Own cybersecurity, technology risk, disaster recovery, and business continuity across IT and OT environments\n* Strengthen cloud, infrastructure, networks, end-user technology, and service delivery through clear performance measures and service levels\n* Lead technology governance, budgeting, vendor management, sourcing decisions, and value realization\n* Build and develop a high-performing IT organization and strategic partner network.\n* Communicate technology priorities, performance, risks, and investment needs with executive leadership and the Board, as appropriate\n* Support technology due diligence and integrations or separations for acquisitions, divestitures, and restructuring as needed\n* Develop, coach, and retain a high-performing IT leadership team, building the capabilities, accountability, and succession needed to support the organization’s strategic objectives.\n* Serve as a strategic business partner to executive and functional leaders, aligning technology priorities and investments with business goals, operational needs, and growth initiatives.\n* Lead the evaluation, implementation, and scaling of AI-enabled solutions that improve productivity, decision-making, operational performance, and employee or customer experience.\n* Partner cross-functionally to identify high-value AI use cases, establish appropriate governance and adoption plans, and lead change management efforts to ensure successful implementation.\n* Partner with business and commercial leaders to co-lead the development and execution of eCommerce capabilities, ensuring technology solutions support digital growth, customer experience, and evolving business needs\n\n**What You’ll Bring**\n\n* Bachelor's degree in Information Technology, Computer Science, Engineering, Business, or a related discipline required; advanced degree preferred\n* 15+ years of progressive IT leadership experience, including significant senior leadership responsibility in a complex enterprise environment\n* Experience leading technology in multi-site manufacturing, industrial, consumer products, chemical, or similarly complex operations strongly preferred\n* Demonstrated success developing and executing enterprise IT strategies and multi-year roadmaps tied to business and financial outcomes\n* Significant ERP and enterprise applications experience; major ERP transformation, upgrade, or implementation experience strongly preferred; SAP/S/4HANA experience is highly relevant\n* Strong knowledge of manufacturing technology and IT/OT environments, cybersecurity, infrastructure/cloud, data and analytics, AI/automation, and business continuity\n* Experience managing significant budgets, vendors, sourcing models, and enterprise-wide transformation in fast-paced environments\n* Executive-level communication, critical thinking, analytical capability, and the ability to build trust and influence across all levels of the organization\n\n**What You Will Get**\n\nKIK offers a competitive salary and comprehensive benefits including health, wellness, dental, vision, life, and disability insurance. You can plan for your future with KIK's retirement savings options including employer match. KIK also recognizes the importance of continuing education and offers Education Assistance to our employees to encourage continued personal development and growth.\n\nWe understand compensation is an important factor as you consider the next step in your career. This position has a base salary range of $275,000-325,000 plus eligibility for an annual incentive bonus. The actual salary may vary based upon several factors including your relevant skills and experience.\n\n**About KIK**\n\nWe create the products and brands that people trust to clean, sanitize, and protect their homes and pools. We are one of North America’s largest independent consumer product ",
+      "salary": "$275k–$325k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "CAD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-10-08T20:49:28Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Concord",
+      "geo_province": "ON",
+      "geo_lat": 43.8,
+      "geo_lon": -79.48,
+      "geo_distance_km": 12.3,
+      "geo_rank": 100123,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Equinix",
       "title": "Director, Product Software Architecture and Eng",
@@ -26,7 +59,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://careers.equinix.com/jobs/director-product-software-architecture-and-eng-redwood-city-california-united-states-amsterdam-netherlands-dallas-texas-denver-colorado-dublin-ireland-london-united-kingdom-new-york-tampa-flo",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=8bc56a1fefd3774f"
+      ]
     },
     {
       "company": "Akkodis",
