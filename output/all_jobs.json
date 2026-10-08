@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 04:28 UTC",
+  "updated_at": "2026-10-08 05:03 UTC",
   "jobs": [
     {
       "company": "EQ Bank",
@@ -402,7 +402,7 @@
       "location": "Waterloo, Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4476917385/",
       "date_posted": "2026-10-07",
-      "salary": "",
+      "salary": "$110.60–$130.55/hr",
       "ats": "LinkedIn",
       "description": "Location: Waterloo, Toronto - ON - Hybrid (Limited onsite presence required, typically 1–2 days per month (less than 1 day per week on average)\nPay Rate: $110.60/hr - $130.55/hr\nContract Length: Until December 15, 2027 with possibility for extension\n\nWe at Raise are hiring a Senior Director, Global Delivery Lead - Data Retention\nfor one of our top clients. After establishing themselves as an industry leader, they’re now expanding their team to meet rising demand. We’re hiring right now; if you’re interested, apply below for your chance to join a great place to work\n\nResponsibilities\n\nOwn integrated delivery across discovery, planning, execution and transition to sustainable business-as-usual controls.\nEstablish and run the program management office, including the integrated roadmap, and master schedule. Coordinate with regional delivery teams on their work breakdown structure, resource plan, financial controls and delivery standards.\nDesign and operate program governance, including steering committee, governance committee and working-team forums, with clear decision rights, escalation paths and accountabilities.\nLead multiple project managers, workstream leads, internal teams and external delivery partners. Set expectations, remove barriers and drive timely decisions.\nDevelop executive communication and reporting models covering progress, outcomes, milestones, dependencies, risks, issues, decisions, financials and capacity.\nCreate and maintain stakeholder, governance, communications, change and adoption plans suited to a global, federated delivery model.\nPartner with business groups to sequence work based on risk, readiness, dependencies and capacity while avoiding duplication with related initiatives.\nDrive consistent execution across data inventory, risk tiering, security controls, classification, retention, disposition and sustainment workstreams.\nEnsure delivery evidence, controls and reporting are clear, traceable and suitable for senior management, audit and regulatory review.\nManage vendors and systems integrators, including scope, deliverables, commercial performance, quality and knowledge transfer.\nMeasures of success\nA credible global roadmap, governance model and integrated delivery plan are established and actively used.\nSenior leaders have clear, concise and timely visibility into outcomes, trade-offs, risks and decisions.\nWorkstreams have accountable owners, realistic plans and disciplined execution rhythms.\nPriority data risks are addressed through a repeatable model that business groups can sustain.\n\nExperience And Expertise\n\nStakeholder leadership\n\nOperate confidently with Business Group CIOs and senior business leaders at VP and SVP levels.\nBuild alignment across Technology, Data, Cybersecurity, Enterprise Architecture, Risk, Privacy, Compliance, Legal, Records Management, Audit and business teams.\nFrame complex issues simply, present clear options and secure timely decisions without overloading leaders with detail.\nInfluence across organizational boundaries, manage competing priorities and maintain constructive challenge when commitments are at risk.\nCreate trusted relationships while preserving clear accountability for outcomes, decisions and follow-through.\n\nCritical Skills / Must-Haves\n\n10+ years of progressive experience leading large, complex enterprise programs, including global or multi-business transformation.\nDemonstrated success building and running a large program office with multiple project managers, workstreams, delivery partners and senior sponsors.\nStrong command of program governance, integrated planning, dependency management, RAID management, financial oversight, resource planning and executive reporting.\nExperience delivering programs in data governance, data management, records and information management, cybersecurity, privacy, regulatory remediation, technology risk or related domains.\nAbility to translate strategy and risk objectives into practical work packages, milestones, measures and accountable execution.\nExperience leading federated programs where central standards and governance support execution by business or regional teams.\nWorking knowledge of structured and unstructured data environments, data lifecycle practices, classification, retention and disposition concepts.\nExperience managing consulting firms, systems integrators and specialist vendors in outcome-based engagements.\n\nNice-to-Haves\n\nFinancial services, insurance or another highly regulated industry.\nEnterprise data governance, data lifecycle management, information management or data remediation.\nCyber risk reduction, privacy, audit, regulatory remediation or control transformation.\nOperating-model design, organizational change and business adoption.\nAgile and traditional delivery methods, with sound judgment on where each approach fits.\n\nEducation\n\n﻿Bachelor’s degree or equivalent experience. Program management certification is an asset.\n\nLooking for meaningful work? We can help!\n\nRaise is an established hiring firm with over 65 years of experience. We believe strongly in making the world a better place through work, which is why we’re a certified B Corporation and donate 10% of our profits to charity.\n\nWe strive to build teams that reflect the diversity of the communities we work in. We encourage all qualified applicants to apply, including people from traditionally underrepresented groups such as women, visible minorities, Indigenous peoples, people identifying as LGBTQ2SI, veterans, and people with visible/nonvisible disabilities.\n\nWe have a dedicated webpage for accommodations where you can learn more about what we offer and request accommodation: https://raise.jobs/accommodations/\n\nIn order to submit candidates for roles, our clients will sometimes require personal information to confirm the identity of applicants and their legal status to work. Raise will never ask you for personal or banking information unless you have been selected for a job. If you are ever unsure about the legitimacy of this or another job posting by Raise (or have any other questions), please contact us at +1 800-567-9675 or hello@raiserecruiting.com\n\n#FIN24\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
       "first_seen": "2026-10-07T20:27:24Z",
@@ -419,7 +419,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010288682085"
+      ]
     },
     {
       "company": "Leadership Source Inc.",
@@ -1645,16 +1648,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-07T06:33:43Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
