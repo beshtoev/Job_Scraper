@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 19:51 UTC*
+*Last updated: 2026-10-08 20:28 UTC*
 
-**1 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4452715990/) — Nordic Holdings Ltd.
-- 📍 **Location:** Edmonton, Alberta, Canada
+### [Director, Data Architecture](https://www.linkedin.com/jobs/view/4463889309/) — Akkodis
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $140,000.00/yr - CA$160,000.00/yr
 - 🕒 **Posted:** 2026-10-08
