@@ -1,17 +1,14 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 12:50 UTC*
+*Last updated: 2026-10-08 13:43 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Director, AI Strategy and Product Management](https://www.linkedin.com/jobs/view/4468332158/) — RBC
+### [Senior Director, Global Data Retention Program - Enterprise Data Governance](https://www.linkedin.com/jobs/view/4475948602/) — Recruit Action inc.
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 💰 **Salary:** $100.00/hr - CA$130.00/hr
+- 🕒 **Posted:** 2026-10-08
+
+### [Leader, Business Intelligence](https://www.linkedin.com/jobs/view/4468307031/) — Cisco
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-08
-
-### [Director, AI & Data Science](https://www.linkedin.com/jobs/view/4440037677/) — Artefact
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-08
-
-### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4471042013/) — Vaco by Highspring
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/hr - CA$85.00/hr
+- 💰 **Salary:** $117,400.00 to $172,500.00
 - 🕒 **Posted:** 2026-10-08
