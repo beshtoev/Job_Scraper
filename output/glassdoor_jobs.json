@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-08 20:42 UTC",
+  "scraped_at": "2026-10-08 21:40 UTC",
   "total": 58,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "TD Bank",
@@ -1515,32 +1515,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Equinix",
-      "title": "Director, Product Software Architecture and Eng",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010289897955",
-      "date_posted": "2026-10-08",
-      "description": "Responsible for talent development, including quarterly conversations, career pathways conversations and individual development/growth plans.",
-      "salary": "$200k–$360k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
