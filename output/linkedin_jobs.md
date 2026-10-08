@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 14:54 UTC*
+*Last updated: 2026-10-08 15:23 UTC*
 
-**1 new role(s)** since last run · 8 total in last 1h
+**2 new role(s)** since last run · 10 total in last 1h
 
-### [Director, Finance Technology & Transformation](https://www.linkedin.com/jobs/view/4462545462/) — O2E Brands
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $159,000 to $186,000 per annum
+### [Chief Technology Officer / VP of Technology](https://www.linkedin.com/jobs/view/4475960779/) — Jobgether
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-08
+
+### [Director of Finance](https://www.linkedin.com/jobs/view/4475954681/) — Pontosense
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $160,000 to $190,000
 - 🕒 **Posted:** 2026-10-08
