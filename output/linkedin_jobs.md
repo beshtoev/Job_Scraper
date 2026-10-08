@@ -1,27 +1,18 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 16:54 UTC*
+*Last updated: 2026-10-08 17:36 UTC*
 
-**5 new role(s)** since last run · 11 total in last 1h
+**3 new role(s)** since last run · 12 total in last 1h
 
-### [Director Engineering, Systems & Digital](https://www.linkedin.com/jobs/view/4474823874/) — Sedgman
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Director, Social and Creative Strategy](https://www.linkedin.com/jobs/view/4466226895/) — Salt XC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000–$160,000
-- 🕒 **Posted:** 2026-10-08
-
-### [Digital Transformation Leader](https://www.linkedin.com/jobs/view/4457702500/) — Infosys
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $160218 to $ 195822
-- 🕒 **Posted:** 2026-10-08
-
-### [Director, Advanced Network Planning](https://www.linkedin.com/jobs/view/4475983362/) — Ciena
-- 📍 **Location:** Ottawa, Ontario, Canada
+### [Director, Advanced Network Planning](https://www.linkedin.com/jobs/view/4475984311/) — Ciena
+- 📍 **Location:** Canada
 - 💰 **Salary:** $154,000.00 - $246,000.00
 - 🕒 **Posted:** 2026-10-08
 
-### [Senior Director, Energy & Power, Corporate, Infrastructure and Project Finance Group - Toronto](https://www.linkedin.com/jobs/view/4467564310/) — Fitch Ratings
+### [Associate Director, Insights & Analytics](https://www.linkedin.com/jobs/view/4468352854/) — Starcom Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $80,000- 90,000 per year
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer, Full-Stack Applications Associate Director (Ratings Technology)](https://www.linkedin.com/jobs/view/4457492925/) — Fitch Group, Inc.
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-08
