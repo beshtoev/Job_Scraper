@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 07:12 UTC*
+*Last updated: 2026-10-08 07:39 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Executive Director, Enterprise Core Services](https://www.linkedin.com/jobs/view/4477123348/) — KPMG Canada
+- 📍 **Location:** Kamloops, British Columbia, Canada
+- 💰 **Salary:** $125,000 to $175,000
+- 🕒 **Posted:** 2026-10-08
