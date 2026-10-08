@@ -416,6 +416,7 @@
     <button type="button" data-theme-mode="light" title="Use white mode">White</button>
   </div>
   <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
+  <button type="button" class="iconbtn" id="archive-btn" aria-pressed="false" title="Also show jobs first seen more than 30 days ago (output/all_jobs_archive.json). Nothing is ever deleted; older jobs are only moved to the archive.">🗄 Archive: off</button>
   <a class="iconbtn" id="clear-data-link" href="https://github.com/beshtoev/Job_Scraper/actions/workflows/clear_data.yml" target="_blank" rel="noopener" title="Clear all accumulated job data (opens Actions → Run workflow)">🗑 Clear jobs</a>
   <a class="iconbtn" id="repo-link" href="https://github.com/beshtoev/Job_Scraper" target="_blank" rel="noopener" title="View source repo">⌥ Repo</a>
 </header>
@@ -602,6 +603,11 @@
     // their latest window). Lets the Rank tab show every recently-seen role.
     { name: 'output/all_jobs.json',      src: 'Master'   },
   ];
+  // Jobs older than 30 days move from all_jobs.json to the archive (never deleted). Loading it
+  // is opt-in so the everyday view stays fast; the choice is remembered per browser.
+  const ARCHIVE_KEY = 'jobTriage:showArchive';
+  const SHOW_ARCHIVE = (() => { try { return localStorage.getItem(ARCHIVE_KEY) === '1'; } catch { return false; } })();
+  if (SHOW_ARCHIVE) SOURCES.push({ name: 'output/all_jobs_archive.json', src: 'Archive' });
 
   // Fit scores from the nightly triage agent, keyed by job URL (optional file).
   let SCORES = {};
@@ -1353,11 +1359,12 @@
       }
       okCount++;
       const d = r.value;
-      const isMaster = SOURCES[i].src === 'Master';
+      const isMaster = SOURCES[i].src === 'Master' || SOURCES[i].src === 'Archive';
+      const isArchive = SOURCES[i].src === 'Archive';
       (d.jobs || []).forEach(j => {
         if (!j || !j.url || !/^https?:\/\//i.test(j.url)) return;  // defensive URL guard
         const existing = byUrl.get(j.url);
-        if (!existing) byUrl.set(j.url, j);
+        if (!existing) byUrl.set(j.url, isArchive ? { ...j, _archive: true } : j);
         // Per-source entries win the dedupe but lack first_seen — backfill it
         // from the master so sub-day date filters have a real timestamp.
         else if (isMaster && j.first_seen && !existing.first_seen) existing.first_seen = j.first_seen;
@@ -2380,7 +2387,8 @@
   }
   function save() {
     try {
-      const slim = { ...state, jobs: state.jobs.map(slimJob) };
+      // Archive-only jobs aren't stored (localStorage is ~5 MB) unless triaged, so decisions survive.
+      const slim = { ...state, jobs: state.jobs.filter(j => !j._archive || state.triage[j.url]).map(slimJob) };
       localStorage.setItem(STORAGE_KEY, JSON.stringify(slim));
     }
     catch (e) { console.warn('[save] localStorage write failed:', e.message); }
@@ -2409,6 +2417,7 @@
       if (EXCLUDED_TITLE_RE && EXCLUDED_TITLE_RE.test(j.title || '')) return false;
       if (!isTargetLocation(j.location) || !isTargetRole(j.title)) return false;
       if (isExcludedCompany(j.company)) return false;
+      if (SHOW_ARCHIVE) return true;
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
     });
@@ -2814,6 +2823,12 @@
 
   // ---------- Refresh button + tab-focus auto-refresh ----------
   $('refresh-btn').onclick = refresh;
+  $('archive-btn').textContent = `🗄 Archive: ${SHOW_ARCHIVE ? 'on' : 'off'}`;
+  $('archive-btn').setAttribute('aria-pressed', String(SHOW_ARCHIVE));
+  $('archive-btn').onclick = () => {
+    try { localStorage.setItem(ARCHIVE_KEY, SHOW_ARCHIVE ? '0' : '1'); } catch {}
+    location.reload();
+  };
   document.addEventListener('visibilitychange', () => {
     if (!document.hidden && Date.now() - (state._lastLoaded || 0) > 5 * 60 * 1000) refresh();
   });

@@ -117,7 +117,7 @@ jobs:
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json output/scrape_state.json
+          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/all_jobs_archive.json output/notified.json output/scrape_state.json
           # geo_cache.json is only written when enrich_geography.py actually
           # changes something (see its no-op guard); a light run may not touch it.
           [ -f output/geo_cache.json ] && git add -f output/geo_cache.json || true

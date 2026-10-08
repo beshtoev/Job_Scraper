@@ -3069,10 +3069,47 @@ def _load_prev_ids(json_path: str) -> set[str]:
 
 
 ALL_JOBS_PRUNE_DAYS = 30
+# Jobs older than ALL_JOBS_PRUNE_DAYS leave all_jobs.json (which the dashboard downloads on
+# every load) but are never deleted: they move to this archive, kept forever.
+ALL_JOBS_ARCHIVE = "all_jobs_archive.json"
 # LinkedIn's guest API reliably supports ~30 days via f_TPR; use this for the
 # one-time historical backfill (--linkedin-backfill) so new users get a full
 # picture without running hourly for weeks.
 LINKEDIN_BACKFILL_DAYS = int(_cfg("freshness.backfill_days", 7))  # high-volume board: older postings are not worth applying to
+
+
+def _archive_jobs(aged: list, now: datetime) -> int:
+    """Move aged-out master entries into output/all_jobs_archive.json, kept forever.
+
+    Union by URL: an entry already archived is refreshed field by field (never with a blank)
+    and keeps its earliest first_seen. Returns the archive's total."""
+    path = os.path.join(OUTPUT_DIR, ALL_JOBS_ARCHIVE)
+    try:
+        with open(path, encoding="utf-8") as f:
+            archive = json.load(f).get("jobs", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        archive = []
+    if not aged and os.path.exists(path):
+        return len(archive)
+    by_url = {j.get("url"): j for j in archive if j.get("url")}
+    for job in aged:
+        url = job.get("url")
+        if not url:
+            continue
+        if url in by_url:
+            combined = dict(by_url[url])
+            combined.update({k: v for k, v in job.items() if v not in (None, "", [])})
+            seen = [t for t in (by_url[url].get("first_seen"), job.get("first_seen")) if t]
+            if seen:
+                combined["first_seen"] = min(seen)
+            by_url[url] = combined
+        else:
+            by_url[url] = job
+    jobs = sorted(by_url.values(), key=lambda j: j.get("first_seen", ""), reverse=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "total": len(jobs), "jobs": jobs},
+                  f, separators=(",", ":"), ensure_ascii=False)
+    return len(jobs)
 
 
 def _merge_into_all_jobs(new_jobs: list) -> int:
@@ -3081,7 +3118,8 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     scrapers surface, each stamped with first_seen. The per-source JSONs are
     rolling windows that overwrite every run (LinkedIn keeps only ~1h), so this
     master is what the triage agent and the dashboard's Rank tab read to see
-    everything from the last ALL_JOBS_PRUNE_DAYS days. Returns count added.
+    everything from the last ALL_JOBS_PRUNE_DAYS days; older entries move to
+    all_jobs_archive.json (never deleted). Returns count added.
     """
     path = os.path.join(OUTPUT_DIR, "all_jobs.json")
     try:
@@ -3128,7 +3166,9 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
 
     cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
     kept = [j for j in entries if j.get("first_seen", stamp) >= cutoff]
+    aged = [j for j in entries if j.get("first_seen", stamp) < cutoff]
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
+    archived = _archive_jobs(aged, now)
 
     with open(path, "w", encoding="utf-8") as f:
         # Compact separators: the dashboard downloads this file on every load.
@@ -3138,6 +3178,7 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
         f"all_jobs.json: +{added} new, {enriched} enriched, "
         f"{merged_existing + merged_new} duplicate(s) merged, "
         f"{len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)"
+        + (f", {len(aged)} moved to {ALL_JOBS_ARCHIVE} ({archived} archived in all)" if aged else "")
     )
 
     return added
