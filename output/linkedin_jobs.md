@@ -1,30 +1,37 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 09:23 UTC*
+*Last updated: 2026-10-08 09:54 UTC*
 
-**6 new role(s)** since last run · 8 total in last 1h
+**8 new role(s)** since last run · 15 total in last 1h
 
-### [Sr. Director, HR Technology and AI Enablement](https://www.linkedin.com/jobs/view/4457968445/) — PointClickCare
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $163,000.00/yr - CA$181,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Technology Lead, Enterprise Platforms & Operation (Director)](https://www.linkedin.com/jobs/view/4467103261/) — TMX Group
+### [Vice President, Finance Operations & Transformation](https://www.linkedin.com/jobs/view/4459626763/) — Kinaxis
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-08
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4475793075/) — Aimhire
+### [Vice President, Finance Operations & Transformation](https://www.linkedin.com/jobs/view/4459635101/) — Kinaxis
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 🕒 **Posted:** 2026-10-08
+
+### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459634725/) — Kinaxis
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-10-08
+
+### [Vice President, Finance Operations & Transformation](https://www.linkedin.com/jobs/view/4459633742/) — Kinaxis
+- 📍 **Location:** Québec, Quebec, Canada
+- 🕒 **Posted:** 2026-10-08
+
+### [Vice President, Finance Operations & Transformation](https://www.linkedin.com/jobs/view/4459615837/) — Kinaxis
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-10-08
+
+### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459618796/) — Kinaxis
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 🕒 **Posted:** 2026-10-08
+
+### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459617859/) — Kinaxis
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-08
 
-### [AI and Experience Orchestration Director](https://www.linkedin.com/jobs/view/4468178008/) — Genesys
+### [AVP, AI](https://www.linkedin.com/jobs/view/4454928265/) — Manulife
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $147,400.00 - 193,400.00
-- 🕒 **Posted:** 2026-10-08
-
-### [Leader, Governance, Risk & Compliance](https://www.linkedin.com/jobs/view/4448536906/) — Interac Corp.
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-08
-
-### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459632710/) — Kinaxis
-- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $152,900.00 USD - $283,800.00 USD
 - 🕒 **Posted:** 2026-10-08
