@@ -1,9 +1,19 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 02:57 UTC*
+*Last updated: 2026-10-08 03:58 UTC*
 
-**1 new role(s)** since last run · 68 total in last 24h
+**3 new role(s)** since last run · 70 total in last 24h
 
-### [Senior Director, Global Data Retention Program - Enterprise Data Governance](https://www.glassdoor.ca/job-listing/j?jl=1010288412579) — Recrute Action Inc.
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $100–$130/hr
-- 🕒 **Posted:** 2026-10-08
+### [Director, Data and Insights](https://www.glassdoor.ca/job-listing/j?jl=1010285892091) — Pacific Blue Cross
+- 📍 **Location:** Burnaby, Canada
+- 💰 **Salary:** $122k–$184k/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010286958221) — St. Michaels University School
+- 📍 **Location:** Victoria, Canada
+- 💰 **Salary:** $101k–$151k/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010286197201) — Backstretch
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $120k–$170k/yr
+- 🕒 **Posted:** 2026-10-06
