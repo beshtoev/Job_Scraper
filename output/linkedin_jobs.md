@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 20:28 UTC*
+*Last updated: 2026-10-08 21:21 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Data Architecture](https://www.linkedin.com/jobs/view/4463889309/) — Akkodis
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$160,000.00/yr
+### [Director, Strategy & Operations](https://www.linkedin.com/jobs/view/4477463621/) — Loblaw Companies Limited
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $128,000.00 - $176,000.00
 - 🕒 **Posted:** 2026-10-08
