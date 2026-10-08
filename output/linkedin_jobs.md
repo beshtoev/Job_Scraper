@@ -1,18 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 17:36 UTC*
+*Last updated: 2026-10-08 17:58 UTC*
 
-**3 new role(s)** since last run · 12 total in last 1h
+**3 new role(s)** since last run · 9 total in last 1h
 
-### [Director, Advanced Network Planning](https://www.linkedin.com/jobs/view/4475984311/) — Ciena
-- 📍 **Location:** Canada
-- 💰 **Salary:** $154,000.00 - $246,000.00
+### [Director, Customer Insights and Analytics](https://www.linkedin.com/jobs/view/4468283808/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-10-08
 
-### [Associate Director, Insights & Analytics](https://www.linkedin.com/jobs/view/4468352854/) — Starcom Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $80,000- 90,000 per year
+### [Director, Research Facilities & Infrastructure Strategy](https://www.linkedin.com/jobs/view/4473558491/) — Dalhousie University
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 💰 **Salary:** $82,887 - $111,181 per annum
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Full-Stack Applications Associate Director (Ratings Technology)](https://www.linkedin.com/jobs/view/4457492925/) — Fitch Group, Inc.
+### [Vice President, Data Scientist](https://www.linkedin.com/jobs/view/4410772770/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000-$150,000
 - 🕒 **Posted:** 2026-10-08
