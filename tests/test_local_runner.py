@@ -188,16 +188,26 @@ def test_a_racing_writer_loses_no_jobs(git_env, tmp_path):
 
 # --------------------------------------------------------------------------- dashboard folder
 
-def test_mirror_updates_the_dashboard_without_dropping_its_history_and_prunes_the_old(tmp_path):
+def test_mirror_updates_the_dashboard_and_archives_the_old_instead_of_deleting(tmp_path):
     fresh_repo, dash = tmp_path / "repo", tmp_path / "dash"
     write(fresh_repo / "output/all_jobs.json", {"jobs": [{"url": "new", "first_seen": "2026-09-24T11:00:00Z"}]})
+    write(fresh_repo / "output/all_jobs_archive.json", {"jobs": [{"url": "archived-on-github", "first_seen": "2026-06-01T00:00:00Z"}]})
     write(fresh_repo / "output/linkedin_jobs.json", {"jobs": [], "total": 0})
     write(dash / "output/all_jobs.json", {"jobs": [{"url": "history", "first_seen": "2026-09-10T00:00:00Z"},
                                                     {"url": "ancient", "first_seen": "2026-07-01T00:00:00Z"}]})
     message = runner.mirror(fresh_repo, str(dash), ["linkedin_jobs"], retention_days=30, now=NOW)
     jobs = json.loads((dash / "output/all_jobs.json").read_text())
+    archive = json.loads((dash / "output/all_jobs_archive.json").read_text())
     assert {j["url"] for j in jobs["jobs"]} == {"new", "history"} and jobs["total"] == 2
+    assert {j["url"] for j in archive["jobs"]} == {"ancient", "archived-on-github"} and archive["total"] == 2
     assert (dash / "output/linkedin_jobs.json").exists() and "2 jobs" in message
+
+
+def test_split_old_loses_nothing():
+    jobs = [{"url": "a", "first_seen": "2026-09-20T00:00:00Z"}, {"url": "b", "first_seen": "2026-07-01T00:00:00Z"},
+            {"url": "c"}]
+    recent, aged = runner.split_old(jobs, 30, NOW)
+    assert [j["url"] for j in recent] == ["a", "c"] and [j["url"] for j in aged] == ["b"]
 
 
 def test_mirror_is_a_noop_without_a_dashboard_folder(tmp_path):

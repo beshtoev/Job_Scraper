@@ -123,3 +123,36 @@ def test_empty_master_file(tmp_output_dir):
 
     data = json.loads((tmp_output_dir / "all_jobs.json").read_text())
     assert len(data["jobs"]) == 1
+
+
+def test_aged_jobs_move_to_the_archive_and_are_never_deleted(tmp_output_dir):
+    """Past ALL_JOBS_PRUNE_DAYS a job leaves all_jobs.json but lands in all_jobs_archive.json."""
+    (tmp_output_dir / "all_jobs.json").write_text(json.dumps({"jobs": [
+        {"url": "https://example.com/old", "title": "Director, Old", "company": "A", "first_seen": "2020-01-01T00:00:00Z"},
+        {"url": "https://example.com/new", "title": "Director, New", "company": "B", "first_seen": "2099-01-01T00:00:00Z"},
+    ]}))
+    (tmp_output_dir / "all_jobs_archive.json").write_text(json.dumps({"jobs": [
+        {"url": "https://example.com/older", "title": "Director, Older", "company": "C", "first_seen": "2019-01-01T00:00:00Z"},
+    ]}))
+    _merge_into_all_jobs([])
+    master = json.loads((tmp_output_dir / "all_jobs.json").read_text())
+    archive = json.loads((tmp_output_dir / "all_jobs_archive.json").read_text())
+    assert [j["url"] for j in master["jobs"]] == ["https://example.com/new"]
+    assert {j["url"] for j in archive["jobs"]} == {"https://example.com/old", "https://example.com/older"}
+    assert archive["total"] == 2
+
+
+def test_archiving_twice_keeps_one_copy_and_the_earliest_first_seen(tmp_output_dir):
+    from scrape_jobs import _archive_jobs
+    now = datetime(2026, 10, 7, tzinfo=timezone.utc)
+    _archive_jobs([{"url": "https://example.com/x", "first_seen": "2026-08-01T00:00:00Z", "salary": "$200k"}], now)
+    _archive_jobs([{"url": "https://example.com/x", "first_seen": "2026-08-05T00:00:00Z", "salary": ""}], now)
+    archive = json.loads((tmp_output_dir / "all_jobs_archive.json").read_text())
+    assert len(archive["jobs"]) == 1
+    assert archive["jobs"][0]["first_seen"] == "2026-08-01T00:00:00Z" and archive["jobs"][0]["salary"] == "$200k"
+
+
+def test_an_archive_file_always_exists_after_a_merge(tmp_output_dir):
+    """Workflows `git add` the archive, so it must exist even before anything has aged out."""
+    _merge_into_all_jobs([])
+    assert json.loads((tmp_output_dir / "all_jobs_archive.json").read_text())["jobs"] == []

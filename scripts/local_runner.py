@@ -54,7 +54,7 @@ DEFAULT_CONFIG = {
     "dashboard_dir": None,           # checkout whose output/ the dashboard serves
     "retry_minutes": 5,              # after a failed attempt
     "heartbeat_minutes": 30,         # publish at least this often, even with nothing new
-    "dashboard_retention_days": 30,  # same rolling window as the scrapers' master list
+    "dashboard_retention_days": 30,  # older jobs move to all_jobs_archive.json; nothing is deleted
     # priority: lower runs first when several are due in one tick, and the due list is re-read
     # after every source, so a LinkedIn slot that comes due during a 20-minute portal poll runs
     # next instead of waiting behind the rest.
@@ -91,6 +91,7 @@ DEFAULT_CONFIG = {
 }
 PUBLISH_PREFIX = "output/"
 ALL_JOBS = "output/all_jobs.json"
+ARCHIVE = "output/all_jobs_archive.json"  # jobs past the retention window, kept forever
 GEO_CACHE = "output/geo_cache.json"
 SCRAPE_STATE = "output/scrape_state.json"
 KEY_LOG_MARKERS = ("📊", "✅", "⛔", "⚠️", "🇨🇦", "🎯", "all_jobs.json:", "Saved ", "Geography:")
@@ -241,8 +242,30 @@ def jobs_digest(doc: dict | None) -> str:
 
 
 def prune_old(jobs: list[dict], days: int, now: datetime) -> list[dict]:
+    return split_old(jobs, days, now)[0]
+
+
+def split_old(jobs: list[dict], days: int, now: datetime) -> tuple[list[dict], list[dict]]:
+    """(recent, aged): aged jobs are past the window and belong in the archive, never deleted."""
     cutoff = iso(now - timedelta(days=days))
-    return [j for j in jobs if not j.get("first_seen") or j["first_seen"] >= cutoff]
+    recent = [j for j in jobs if not j.get("first_seen") or j["first_seen"] >= cutoff]
+    aged = [j for j in jobs if j.get("first_seen") and j["first_seen"] < cutoff]
+    return recent, aged
+
+
+def keep_recent_archive_rest(out: Path, merged: dict, days: int, now: datetime,
+                             extra_archive: dict | None = None) -> dict:
+    """Trim ``merged`` to the window and union the aged jobs (plus ``extra_archive``, e.g. the
+    clone's archive) into out/all_jobs_archive.json, so no job is ever lost."""
+    merged["jobs"], aged = split_old(merged["jobs"], days, now)
+    merged["total"] = len(merged["jobs"])
+    archive_path = out / Path(ARCHIVE).name
+    if aged or extra_archive or not archive_path.exists():
+        archive = union_all_jobs(read_json(archive_path), extra_archive)
+        archive = union_all_jobs(archive, {"jobs": aged})
+        archive["updated_at"] = now.strftime("%Y-%m-%d %H:%M UTC")
+        write_json_atomic(archive_path, archive)
+    return merged
 
 
 def allowed_publish(path: str) -> bool:
@@ -288,7 +311,7 @@ def rebase_onto_remote(repo: Path, paths: list[str], branch: str) -> None:
     git(repo, "clean", "-fdq")
     for path, data in ours.items():
         target = repo / path
-        if path == ALL_JOBS:
+        if path in (ALL_JOBS, ARCHIVE):
             write_json_atomic(target, union_all_jobs(read_json(target), json.loads(data)))
         elif path == GEO_CACHE:
             write_json_atomic(target, union_cache(read_json(target), json.loads(data)))
@@ -342,8 +365,8 @@ def mirror(repo: Path, dashboard_dir: str | None, basenames: list[str], retentio
             if (src / f"{base}{ext}").exists():
                 copy_atomic(src / f"{base}{ext}", out / f"{base}{ext}")
     merged = union_all_jobs(read_json(out / "all_jobs.json"), read_json(src / "all_jobs.json"))
-    merged["jobs"] = prune_old(merged["jobs"], retention_days, now or utcnow())
-    merged["total"] = len(merged["jobs"])
+    merged = keep_recent_archive_rest(out, merged, retention_days, now or utcnow(),
+                                      read_json(src / Path(ARCHIVE).name))
     write_json_atomic(out / "all_jobs.json", merged)
     if (src / "geo_cache.json").exists():
         write_json_atomic(out / "geo_cache.json", union_cache(read_json(out / "geo_cache.json"), read_json(src / "geo_cache.json")))
@@ -398,7 +421,7 @@ def run_source(name: str, cfg: dict, state: dict, now: datetime, dry_run: bool =
     changed = jobs_digest(read_json(REPO_DIR / ALL_JOBS)) != before
     last_publish = parse_iso(state.get("last_publish"))
     heartbeat_due = last_publish is None or now - last_publish >= timedelta(minutes=cfg["heartbeat_minutes"])
-    paths = [f"output/{basename}{ext}" for ext in (".json", ".md", ".html")] + [ALL_JOBS, GEO_CACHE, SCRAPE_STATE]
+    paths = [f"output/{basename}{ext}" for ext in (".json", ".md", ".html")] + [ALL_JOBS, ARCHIVE, GEO_CACHE, SCRAPE_STATE]
     paths += [p for p in spec.get("extra_outputs", []) if (REPO_DIR / p).exists()]
     outcome, dashboard_problem = "dry run: nothing pushed", None
     if not dry_run:
@@ -543,11 +566,11 @@ def cmd_sync_dashboard(args) -> int:
     backup.parent.mkdir(parents=True, exist_ok=True)
     shutil.copytree(out, backup)
     local_jobs, local_cache, local_state = read_json(out / "all_jobs.json"), read_json(out / "geo_cache.json"), read_json(out / "scrape_state.json")
+    local_archive = read_json(out / Path(ARCHIVE).name)
     git(repo, "checkout", "--", "output/")
     git(repo, "pull", "--quiet", "--ff-only", "origin", cfg["branch"])
     merged = union_all_jobs(local_jobs, read_json(out / "all_jobs.json"))      # the newest remote wins overlaps
-    merged["jobs"] = prune_old(merged["jobs"], cfg["dashboard_retention_days"], utcnow())
-    merged["total"] = len(merged["jobs"])
+    merged = keep_recent_archive_rest(out, merged, cfg["dashboard_retention_days"], utcnow(), local_archive)
     write_json_atomic(out / "all_jobs.json", merged)
     write_json_atomic(out / "geo_cache.json", union_cache(local_cache, read_json(out / "geo_cache.json")))
     write_json_atomic(out / "scrape_state.json", merge_state(local_state, read_json(out / "scrape_state.json")))
