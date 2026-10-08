@@ -1,6 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-08 01:54 UTC*
+*Last updated: 2026-10-08 02:57 UTC*
 
-**0 new role(s)** since last run · 67 total in last 24h
+**1 new role(s)** since last run · 68 total in last 24h
 
-No new roles since the last run.
+### [Senior Director, Global Data Retention Program - Enterprise Data Governance](https://www.glassdoor.ca/job-listing/j?jl=1010288412579) — Recrute Action Inc.
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $100–$130/hr
+- 🕒 **Posted:** 2026-10-08
