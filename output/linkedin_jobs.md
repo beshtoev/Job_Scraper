@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-09 00:37 UTC*
+*Last updated: 2026-10-09 01:22 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Growth Director | AI-focused Agency | Hybrid in London, ON | $110-130k + benefits](https://www.linkedin.com/jobs/view/4476241228/) — White Bay
-- 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $100,000.00/yr - CA$130,000.00/yr
+### [Director, Product Automation](https://www.linkedin.com/jobs/view/4476239477/) — Jobgether
+- 📍 **Location:** Canada
+- 💰 **Salary:** USD $110,000–$135,000
 - 🕒 **Posted:** 2026-10-09
