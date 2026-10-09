@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-09 01:22 UTC*
+*Last updated: 2026-10-09 01:46 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Director, Product Automation](https://www.linkedin.com/jobs/view/4476239477/) — Jobgether
+### [Director, AI Solutions Strategy & Planning](https://www.linkedin.com/jobs/view/4477609503/) — Instacart
 - 📍 **Location:** Canada
-- 💰 **Salary:** USD $110,000–$135,000
+- 💰 **Salary:** $234,000—$247,000
 - 🕒 **Posted:** 2026-10-09
