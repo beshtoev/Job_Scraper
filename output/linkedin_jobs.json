@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-08 23:54 UTC",
+  "scraped_at": "2026-10-09 00:15 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "MaintainX",
@@ -100,30 +100,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Atlantic Packaging Products Ltd.",
-      "title": "Director, Planning & Inventory",
-      "location": "Brampton, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4463085593/",
-      "date_posted": "2026-10-08",
-      "salary": "$134,996 - $168,745 per year",
-      "ats": "LinkedIn",
-      "description": "“Join us in\nbuilding Careers and shaping Experiences Beyond the Box”\n\nAbout Us\n\nAt Atlantic Packaging, every box tells a story and yours begins here. As a proudly Canadian-owned company with over 80 years of excellence in the corrugated packaging industry with operations within North America (Ontario, Quebec and United States), we’re committed to sustainability, customer excellence and community impact. Since 1945, we’ve supported local jobs and built a legacy of trust with our clients and team members. At Atlantic, your ideas matter, your growth is supported and your work makes a real impact.\n\nThe Opportunity\n\nThe Director of Planning & Inventory will lead the Ontario Corrugated team’s supply and inventory planning function to ensure customers receive their desired product at the service level they expect. Reporting to the Vice President of Supply Chain & Strategy, this role is critical for building organizational planning capability to support sustainable, profitable growth. It ensures alignment between business strategy and operational execution across production, procurement, and distribution.\n\nThe Director of Planning & Inventory leads a team of managers, planners and analysts with a focus on driving structure, establishing best practices for planning tools and processes, and driving continuous improvement initiatives to enhance forecast accuracy, machine utilization, inventory efficiency, and overall supply chain responsiveness.\n\nWhat You’ll Do\n\nOversee the development and execution of the Sales & Operations Planning (S&OP/IBP) process, ensuring alignment between demand, capacity, and financial plans across the organization\nDirect inventory strategy to balance customer service levels with working capital objectives, minimizing excess/obsolete stock while preventing stockouts\nOversee supply planning and production scheduling alignment, ensuring plans reflect realistic capacity, lead times, and material availability\nBuild, mentor, and develop a high-performing planning team, including senior managers, plant-floor schedulers and inventory analysts\nPartner with Sales and Business Performance teams to ensure the demand forecast can be utilized most effectively for capacity planning\nPartner cross-functionally with Operations, Finance, Mills, and Sales to resolve supply-demand imbalances and support integrated business decision-making\nEstablish and monitor key performance indicators (KPIs) — including forecast accuracy, scheduling compliance, inventory turns, fill rate, and on-time in full delivery — and drive corrective action where targets are not met\nLead continuous improvement initiatives to enhance planning maturity, process efficiency, and responsiveness to demand volatility\nProvide senior leadership with visibility into planning risks, opportunities, and trade-offs to support strategic decision-making\n\nWhat You Bring\n\nThe ideal candidate brings strong analytical and leadership skills, deep expertise in demand and supply planning methodologies, and a track record of driving results in a fast-paced manufacturing environment.\n\nRequired\n\nUndergraduate degree in Supply Chain Management, Business, Engineering, or a related field\nCertificate in Supply Chain Management considered an asset; APICS/ASCM,CPIM, CSCP or CPF\nExperience building tools in PowerBI considered an asset\n8+ years of progressive experience in demand planning, supply planning, or inventory management, including 3–5+ years in a leadership role\nStrong track-record of developing high-performing teams while overseeing day-to-day operations\nProven experience leading S&OP/IBP processes in a manufacturing environment\nProven experience in improving capacity/demand planning processes, inventory efficiency, and service levels in a complex, fast-paced environment\nDemonstrated ability to lead cross-functional teams and influence senior stakeholders without direct authority\n\nKnowledge/Skills/Abilities\n\nExcellent analytical skills with an ability to manipulate large data sets and present analyses in a clear, concise manner\nStrong communication and presentation skills, with the ability to translate data into actionable business insights for various groups of stakeholders\nDemonstrated continuous improvement mindset with the ability to identify metrics related to business processes, improving results through effective processes\nDemonstrated proficiency in time management\n\nWhat We Offer\n\nComprehensive health, dental and vision coverage (dependents included)\nTeamwork-focused culture with sustainability initiatives and social events\nA culture of appreciation through a point-based recognition\nOpportunities for advancement and internal movement\nEducation assistance for continuous skill development\nAcademic scholarships for employees’ children\nSafety equipment and PPE support program\nRetirement savings and wellness initiatives\nEmployee Assistance Program (EAP)\n\nInclusion and Accessibility\n\nAtlantic Packaging is committed to fostering an inclusive, accessible and respectful environment for all candidates. If you require accommodation during the hiring process, please contact our Talent Acquisition team—we’re here to support you.\n\nWe sincerely thank all applicants for their interest in joining Atlantic Packaging. While we appreciate the time and effort invested, only those selected for an interview will be contacted.\n\nPlease note\n\nCandidates who are 18 years or older are required to complete a criminal and background check. Details will be provided through the application process.\n\nHiring Range: $134,996 - $168,745\nper year. A candidate’s experience and knowledge may be factored into the pay a candidate receives for this position. This posting is for an existing vacancy.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nPackaging and Containers Manufacturing",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Brampton",
-      "geo_province": "ON",
-      "geo_lat": 43.7315,
-      "geo_lon": -79.7624,
-      "geo_distance_km": 29.6,
-      "geo_rank": 100296,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
