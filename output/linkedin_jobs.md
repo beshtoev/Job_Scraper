@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-09 04:56 UTC*
+*Last updated: 2026-10-09 05:35 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 1 total in last 1h
 
-### [Director AI - AdFarm](https://www.linkedin.com/jobs/view/4476263278/) — Jobgether
-- 📍 **Location:** Canada
-- 💰 **Salary:** $140,000–$165,000
-- 🕒 **Posted:** 2026-10-09
+No new roles since the last run.
