@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-09 19:59 UTC",
+  "updated_at": "2026-10-09 20:15 UTC",
   "jobs": [
+    {
+      "company": "Stacktics",
+      "title": "Head of Data Systems (Google Stack)",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4476837852/",
+      "date_posted": "2026-10-09",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "The Head of Data Systems (Google Stack) will play a key role at Stacktics, required to help create and maintain industry-leading quality and efficiency of service and software delivery.\n\nStacktics will rely on the Head of Data Systems with ownership of the Data Systems function including mentoring and support for our team of engineers, developers, marketing analysts and data scientists. The successful candidate will be expected to meet and exceed Stacktics' quality standards, while helping the organization rapidly expand into increasingly complex application development, data engineering, and related workflows.\n\nKEY RESPONSIBILITIES\n\nOwnership of Stacktics' Data Systems Business Unit\n\nBuild and grow your team's capabilities and expertise to be truly platform-agnostic, ever-adapting based on opportunity and business direction\nLead thorough audits of clients'/prospects' Data Systems, and other associated platforms and technologies as applicable including performance and cloud cost-efficiency\nProvide proactive recommendations, identifying areas of opportunity and/or improvement for clients based on their underlying business objectives and goals\nMaintain continuous focus on work output quality and reliability, acting as the champion of customer satisfaction in a proactive manner and as the final escalation point for technical and delivery issues that cannot be resolved at the Technical Lead level\nAct as Stacktics' primary Data Systems expert, ensuring to maintain and continuously grow personal expertise, and sharing information with other Stacktics team members, client stakeholders and prospects\nCollaborate with, support, and work closely with cross-functional units to ensure efficient workflow, and realize cross-functional opportunities and enhancements\nMaintain responsibility for the Business Unit's growth and success, continuously developing existing engagements, optimizing resourcing and prospecting\nBe dedicated to the success and happiness of your team members, optimizing workflow, enabling their personal growth, and acting as a strong team leader overall\n\nInstilling Development Best Practices and Skills/Procedures Advancement\n\nEstablishing, maintaining and evolving DevSecOps best practices and tools, and continuously keeping them aligned with current industry best practices and procedures\nUnderstanding, implementing and automating security controls, governance processes, and compliance validation frameworks\nContributing to deployment tooling within the Stacktics team\nContributing to version control technology frameworks and creating/implementing working processes within the Data Systems team, with tools such as Git or SVN\nOwn and continuously improve the practice's AI coding standards, the AI coding constitution (CLAUDE.md, GEMINI.md, .cursorrules), PR checklists, and slash commands keeping them current as tools, clients, and the team's needs evolve\n\nLeading in the Software 3.0 Era\n\nAI tools have changed how fast engineering work gets produced. Your job is to make sure that speed shows up as sounder architecture and higher-quality delivery — not just faster shipping of the same judgment gaps.\nRecalibrate how the team scopes and estimates work as AI tooling changes what can actually be delivered in a sprint, so timelines and resourcing plans reflect real AI-era delivery speed\nSet architecture and coding standards that assume engineers are using AI assistants daily — code review habits, eval frameworks, and quality gates sized to the failure modes of AI-assisted development, not just its speed\nContinue evolving Stacktics' AI Development Lifecycle (ADLC) — our AI-native answer to SDLC — piloting new stages against real engagements and driving adoption across the team\nBe an active daily user of AI coding assistants yourself, and bring that firsthand experience into how standards and review practices are set for the team\nLead Stacktics’ technical team members through the integration into Agentic AI-first working patterns, and beyond\n\nCode Productization\n\nMigrating the delivery of the most common/universally applicable solutions from custom projects to formally productized software solutions\nAdvocating for building repeatability, scalability and standardization into how the Stacktics Data Systems team approaches all work, in order to enable the future migration to productization as a general rule\n\nData Engineering-Specific Responsibilities\n\nParticipate in continuous delivery pipelines to fully automate deployment of the highly available cloud platform that supports multiple projects\nDesign and develop ETL workflows and datasets to be used in data visualization tools\nWrite complex SQL queries with multiple joins to automate and manipulate data extracts\nPerform end to end Data Validation to maintain accuracy of data sets\nBuild tools for deployment, monitoring and operations\nTroubleshoot and resolve issues in the development, test and production environments\nDevelop re-usable processes that can be leveraged and standardized for multiple instances\nPrepare technical specifications and documentation for projects\nStay up to date on relevant technologies, plug into user groups, understand trends and opportunities to ensure we are using the best possible techniques and tools\nUnderstand, implement, and automate security controls, governance processes, and compliance validation\n\nContribution to Corporate Strategy\n\nActively and proactively play a key role in steering Stacktics and affiliated companies, considering market developments, competitive maneuvers, unique opportunities, etc.\nYou will be expected to both bring new ideas to the table and assist other corporate leaders in vetting/developing concepts and tactics\nIdentification and tracking of performance, coaching, training needs, and motivating members of the Data Systems team — including Senior Technical Leads. Directly or indirectly responsible for hiring, terminating and owning performance evaluations for direct reports and the Data Systems group\n\nCompany-Wide Responsibilities\n\nMaintain and exceed client satisfaction with Stacktics’ deliverables, day-to-day work and overall value as a partner\nAdapt to ever-changing client needs and expectations\nMaintain dedication toward achieving excellence in Stacktics’ delivery against client needs, and overall success as an organization\nAbility to provide clear guidance and support for advanced problem solving and system design to large teams at enterprise-level client companies, aiding the evolution of their digital practices\n\nQUALIFICATIONS\n\nDeep expertise in building and managing large-scale data systems on cloud platforms, with a strong preference for Google Cloud Platform (GCP) services\nPython, SQL and Cloud Computing\n10+ years experience in Data Engineering, including 6+ years in technical leadership or management roles, with experience managing other leads (e.g., Technical Leads or engineering managers).\nStrong understanding of and direct experience with managing a team operating in a “Software 3.0” model (Agentic AI-first)\nActive user of AI coding assistants (Copilot, Cursor, Claude Code, or equivalent), and fluent in what they change about estimation, architecture, and review\nUnderstanding of digital ecosystems including online data collection, cloud systems and analytics tools (Google Stack, Facebook, Salesforce, Adobe Suite etc.) a strong asset\nStrong technical understanding of a range of marketing concepts such as cookie-based data collection, setting and leveraging audience segments, attribution modelling, AB/N & multivariate is an asset\nExcellent written & verbal communication skills are essential; candidate should be comfortable presenting and participating in group discussions of concepts with internal and external stakeholders\nCandidate must exhibit an analytical, detail-oriented approach to problem solving\nExperience with Jira / Atlassian project management tools is an asset\n\nPreferred Qualifications\n\nGoogle Cloud certifications (e.g., Professional Cloud Architect, Professional Data Engineer) are a strong plus.\nPrior experience in a consulting environment, managing and delivering projects for multiple clients concurrently.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting, Advertising Services, and Marketing Services",
+      "first_seen": "2026-10-09T20:15:34Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "HSB - Hartford Steam Boiler",
       "title": "Director, Systems & Data Transformation",
@@ -4767,16 +4792,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-07T06:33:43Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -16104,7 +16129,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010279298849"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010279298849",
+        "https://www.linkedin.com/jobs/view/4477845761/"
       ]
     },
     {
