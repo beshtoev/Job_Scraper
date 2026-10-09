@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 03:24 UTC",
+  "updated_at": "2026-10-09 03:49 UTC",
   "jobs": [
     {
       "company": "Tangerine",
@@ -305,29 +305,34 @@
       "url": "https://builtintoronto.com/job/director-financial-planning-and-analysis/11581621",
       "direct_url": "https://builtintoronto.com/job/director-financial-planning-and-analysis/11581621",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-10-01",
       "date_seen": "2026-10-08T23:20:56Z",
-      "description": "",
-      "is_remote": null,
+      "description": "Job title: Director, Financial Planning and Analysis\n\n\nReporting to: Chief Financial Officer\n\n\nYears of experience: 10\\+ years\n\n\nLocation: This role is based in Toronto and follows a hybrid work arrangement, with three days per week in the Toronto office and the remaining workdays remote.\n\n\nPosition type: Full\\-time\n\n\nWorking conditions: Regular collaboration across global time zones and international travel up to 20% of working time, are required.\n\n\n**About Raising The Village**\n\nRaising The Village's mission is to build and strengthen pathways out of ultra\\-poverty through an approach guided by data, designed with communities, and scaled by partnerships. We work with last\\-mile communities to implement solutions that raise incomes, sustain impact, and chart sustainable pathways to possibility within 24 months. To date, we have supported more than two million people in Uganda, Rwanda, and the Democratic Republic of Congo, with support from our partners and our team in North America. Find out more about our programs and impact at www.raisingthevillage.org (http://www.raisingthevillage.org/).\n\n\n**Position overview**\n\n\nThe Director, Financial Planning and Analysis (FP\\&A) will play a critical role in leading RTV's forward\\-looking finance function and serving as a strategic partner to the CFO, executive leadership, country teams, and functional leaders. The Director will own enterprise planning, rolling forecasts, performance analysis, scenario modelling, and decision support, translating financial and operational data into clear choices, risks, and actions.\n\n\nAs one of three finance pillars reporting to the CFO, the Global FP\\&A function provides a forward\\-looking planning and performance perspective alongside Controllership and Accounting. The Director will lead this function and establish consistent planning disciplines, management reporting, and business\\-partnering practices across the organization.\n\n\n**Key responsibilities**\n\n\n*Enterprise Planning, Forecasting \\& Scenario Analysis*\n\n\n* Own the annual consolidated budget, rolling forecast, multi\\-year plan, and in\\-year reforecasting cycles across countries, departments, programs, and funding sources.\n* Develop integrated financial and operational planning models that connect program reach, cost per beneficiary, staffing, capital requirements, funding, and cash needs.\n* Lead scenario and sensitivity analysis to assess growth options, funding gaps, foreign exchange exposure, cost pressures, and strategic trade\\-offs.\n* Maintain clear planning assumptions, version control, decision logs, and reconciliations to approved organizational targets.\n\n*Performance Management \\& Executive Insight*\n\n\n* Own the budget and KPI performance\\-management process, including setting review standards, monitoring results against approved targets, and driving accountability for corrective actions;\n* Lead quarterly performance reviews at the executive and country levels.\n* Translate results into concise commentary on drivers, variances, risks, opportunities, and corrective actions.\n* Develop and maintain an enterprise performance framework that integrates financial and non\\-financial indicators.\n* Prepare CFO, executive leadership, Board, and Finance/Audit/Risk Committee materials with decision\\-focused analysis and transparent supporting logic.\n\n*Strategic Business Partnering*\n\n\n* Act as the senior finance partner to organisational leaders, constructively challenging assumptions and improving the financial quality of decisions.\n* Support business cases, program design, workforce planning, country expansion, investment decisions, and resource allocation.\n* Partner with Programs, Partnerships, People, IT, Procurement, and country leadership to connect strategy, delivery plans, and financial capacity.\n* Provide financial modelling and analysis for donor proposals, cost recovery, funding sustainability, and restricted versus unrestricted resource decisions.\n\n*Cash, Funding \\& Sustainability Planning*\n\n\n* Lead forward\\-looking liquidity and cash flow forecasting in partnership with Accounting and Controllership, with clear visibility over restricted and unrestricted cash and reserve requirements.\n* Maintain funding\\-gap and runway analysis, identifying timing, concentration, and affordability risks for leadership action.\n* Ensure planning outputs reconcile to the general ledger, grant records, treasury forecasts, and approved budgets, while preserving appropriate separation between planning and accounting ownership.\n\n*Data, Systems \\& Process Improvement*\n\n\n* Own the FP\\&A reporting and analytics roadmap, including dashboards, planning models, data definitions, and management\\-reporting standards.\n* Advance the effective use of ERP (Sage Intacct/ Dynamics Business central are a plus), Power BI, Excel, and other planning or analytics tools; support finance\\-system integration and ERP improvement initiatives.\n* Improve forecast accuracy, cycle times, data quality, and self\\-service reporting through standardization, automation, and clear controls.\n* Establish a single source of truth for management reporting and ensure consistent treatment of currencies, allocations, beneficiaries, and program cost drivers.\n\n*Team Leadership \\& Capability Building*\n\n\n* Lead, coach, and develop the East Africa FP\\&A team, setting clear accountability, service standards, and development plans.\n* Build FP\\&A and financial literacy across budget owners through practical training, templates, guidance, and ongoing coaching.\n* Promote a high\\-performance culture grounded in collaboration, curiosity, accountability, inclusion, and continuous improvement.\n* Create resilient processes with appropriate documentation, cross\\-training, succession planning, and coverage for key activities.\n\n*Governance, Risk \\& Collaboration*\n\n\n* Partner with the Controller and Accounting Manager to maintain a clear operating model across planning, technical accounting, controls, reporting, treasury, and count",
+      "is_remote": true,
       "department": "",
       "ats": "Builtin",
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-10-08T23:21:11Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "job_type": "fulltime",
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=b0a6b98b7fed1b7d"
+      ]
     },
     {
       "company": "National Bank of Canada",
