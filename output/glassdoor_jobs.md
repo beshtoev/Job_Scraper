@@ -1,12 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-09 06:44 UTC*
+*Last updated: 2026-10-09 07:45 UTC*
 
-**2 new role(s)** since last run · 60 total in last 24h
+**1 new role(s)** since last run · 61 total in last 24h
 
-### [Director of Engineering and Capital Planning](https://www.glassdoor.ca/job-listing/j?jl=1010290386260) — City of Iqaluit
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-09
-
-### [Director, AI Solutions Strategy & Planning](https://www.glassdoor.ca/job-listing/j?jl=1010290352383) — Instacart
-- 📍 **Location:** Canada
+### [Director of Finance and Administration](https://www.glassdoor.ca/job-listing/j?jl=1010290006617) — Elby Professional Recruitment Inc
+- 📍 **Location:** Hamilton, Canada
+- 💰 **Salary:** $130k–$150k/yr
 - 🕒 **Posted:** 2026-10-09
