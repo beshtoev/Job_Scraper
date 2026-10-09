@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-09 15:11 UTC*
+*Last updated: 2026-10-09 15:37 UTC*
 
-**0 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-No new roles since the last run.
+### [Disaster Recovery and Technology Resilience Leader, Deloitte Global Technology](https://www.linkedin.com/jobs/view/4468812100/) — Deloitte
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $104,000 - $215,000,
+- 🕒 **Posted:** 2026-10-09
