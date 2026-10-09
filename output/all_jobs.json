@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-09 20:36 UTC",
+  "updated_at": "2026-10-09 20:37 UTC",
   "jobs": [
+    {
+      "company": "Kinross Gold Corporation",
+      "title": "Director - Geological Data & Database Management",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=fb169e1d473ba7eb",
+      "direct_url": "https://jobs.kinross.com/job/Director-Geological-Data-&-Database-Management/49726-en_US",
+      "company_url": "https://ca.indeed.com/cmp/Kinross-Gold-Corporation",
+      "date_posted": "2026-10-09",
+      "description": "**Who We Are**\n--------------\n\n  \n\nFounded in 1993, Kinross is a Canadian\\-based senior gold mining company with operations and projects in the United States, Brazil, Mauritania, Chile and Canada. Our focus on delivering value is based on our four core values of Putting People First, Outstanding Corporate Citizenship, High Performance Culture, and Rigorous Financial Discipline.\n\n  \n\nMining responsibly is a priority for Kinross, and we foster a culture that makes responsible mining and operational success inseparable. Our values\\-based approach ensures that sustainability and our environmental, social and governance commitments are a core part of our strategy and plans for future growth. In line with our values, we also aim to build meaningful partnerships with all of our stakeholders, including communities, shareholders, employees, governments and suppliers.\n\n  \n\nKinross maintains listings on the Toronto Stock Exchange (symbol: K) and the New York Stock Exchange (symbol: KGC).\n\n  \n\n**Job Summary**\n---------------\n\n  \n\nThe Director, Geological Data \\& Database Management is a senior technical leadership role accountable for designing, implementing, and governing a company\\-wide database management system across all exploration, project, and operating sites. This is a hands\\-on leadership position: the Director is responsible for maintaining and updating company standards and ensuring sites adopt/adhere to them, ensuring standardization of database software and structures across all sites, and building and managing a team of database administrators and analysts.\n\n  \n\n**Key Responsibilities**\n------------------------\n\n  \n\n* Ensure standardization of the company geologic database platform across all exploration, project, and operating sites, including migration of legacy and existing site databases where required.\n* Maintain database standards for structure, content, and required tables at each project maturity point (Setup, Initial Drilling, Infill, Scoping, PFS, FS, and Operations), and ensure sites are equipped to meet them.\n* Lead selection, configuration, and lifecycle management of database software and related tools, in partnership with IT.\n* Ensure QA/QC protocols are implemented and auditable per internal standards.\n* Establish and audit data security controls across all sites: layered/restricted access by user type, edit tracking and audit trails, and automatic, regular backups including offsite storage.\n* Define and enforce the separation between dynamic project databases and frozen, dated resource\\-model databases used for reserve/resource work.\n* Lead systematic, scheduled reviews of database quality across all sites and drive corrective action plans ahead of each project maturity point.\n* Initiate and lead internal and external audits as required.\n* Build, lead, and develop the company database management function, including hiring and mentoring site and project database administrators and analysts.\n* liase with exploration management, KTS, and site geology teams to ensure database structures support geological, resource, and reserve modelling requirements.\n* Develop and deliver training and documented procedures for database administrators, geologists, and technical staff on data entry standards, QA/QC execution, and system use.\n* Maintain and continuously improve governing documentation (standards guides, database structure references.)\n* Report on database health, compliance, and risk to senior technical and executive leadership.\n  \n**Qualifications and Skills**\n-----------------------------\n\n  \n\n**Education and Experience**\n\n\n* Bachelor's or Master's degree in Geology, Earth Sciences, Geological Engineering, or a related field.\n* 10\\+ years of progressive experience in mineral exploration or mining geology, including significant experience in geological database design, administration, or data management.\n* 5\\+ years in a senior or leadership role managing database systems, technical teams, or data governance programs across multiple sites or projects.\n* Demonstrated experience implementing or administering industry\\-standard geological database platforms (e.g., acQuire, Fusion, Datashed, or comparable systems) at a multi\\-site scale.\n  \n\n**Technical \\& Leadership Skills**\n\n\n* Deep understanding of relational database structures as applied to drill hole data (collar, survey, lithology, assay, QA/QC, geotechnical, geometallurgical, density, and related tables).\n* Strong knowledge of QA/QC protocols, chain\\-of\\-custody procedures, and data security/access\\-control best practices in a geological or mining context.\n* Proven ability to lead large\\-scale systems and change management initiatives across geographically distributed sites.\n* Excellent people\\-leadership skills, with experience building and managing teams, including remote or site\\-based staff and dotted\\-line reporting relationships.\n* Strong communication skills, able to translate technical database requirements for both site\\-level technical staff and executive leadership.\n* Willingness and ability to travel regularly to exploration, project, and operating sites, including remote locations.\n  \n**Compensation and Total Rewards**\n----------------------------------\n\n  \n\nThe base salary range for this role is $180,000 to $220,000 CAD plus a target Short\\-Term Incentive bonus of 30%, 30% (LTI) and group benefit coverage. The hiring range reflects our targeted compensation framework for the role. The actual offer will be determined through a comprehensive evaluation of each candidate’s experience, capabilities, and potential impact, along with consideration of internal equity, team structure, and benchmark market data for similar positions. In addition to base salary, Kinross offers a comprehensive total rewards package designed to support employee well\\-being, performance, and long\\-term development.\n\n  \n\n**Use of AI in Our Hiring Process**\n-----------------------------------\n\n  \n\nWe use AI\\-enabled tools to help sort a",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-10-09T20:37:35Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 300061,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Scotiabank",
       "title": "Director, Digital Product Owner, Scotia Protect Platform",
@@ -24,7 +57,12 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.scotiabank.com/job/Toronto-Director%2C-Digital-Product-Owner%2C-Scotia-Protect-Platform-ON-M5C2W1/606919917/",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=a4a776df8910db9e"
+      ]
     },
     {
       "company": "LEDPAX",
@@ -889,7 +927,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b254c6ba-5aa6-40cc-af33-07e8180d8259&ccId=19000101_000001&jobId=570414&source=IN&lang=en_CA",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=ba0a3c877dcd78df"
+      ]
     },
     {
       "company": "Scotiabank",
