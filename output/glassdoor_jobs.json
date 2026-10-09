@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-09 15:20 UTC",
+  "scraped_at": "2026-10-09 16:20 UTC",
   "total": 56,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Distress Centre Calgary",
@@ -1462,58 +1462,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Nucleus Independent Living",
-      "title": "Director of Finance",
-      "location": "Oakville, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010290822692",
-      "date_posted": "2026-10-09",
-      "description": "In conjunction with the Chief Financial Officer and Senior Leadership Team, work to design, develop, and implement strategic and operational plans, ensuring…",
-      "salary": "$100k–$115k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Oakville",
-      "geo_province": "ON",
-      "geo_lat": 43.4675,
-      "geo_lon": -79.6877,
-      "geo_distance_km": 35.6,
-      "geo_rank": 100356,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Procom",
-      "title": "Program Director - PMO Transformation Programs, Segmentation",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010288409341",
-      "date_posted": "2026-10-08",
-      "description": "10+ years of progressive experience in program management, transformation delivery, or business change leadership. Retail Banking experience an asset.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
