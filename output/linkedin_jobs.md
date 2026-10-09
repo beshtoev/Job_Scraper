@@ -1,14 +1,23 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-09 20:57 UTC*
+*Last updated: 2026-10-09 21:52 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [VP, Finance](https://www.linkedin.com/jobs/view/4476865024/) — About Staffing
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $180,000.00/yr - CA$210,000.00/yr
+### [Vice President Finance](https://www.linkedin.com/jobs/view/4476856375/) — MNP Executive Search & Professional Recruitment
+- 📍 **Location:** Burlington, Ontario, Canada
+- 💰 **Salary:** $225,000 to $275,000
 - 🕒 **Posted:** 2026-10-09
 
-### [Director - Digital Marketing](https://www.linkedin.com/jobs/view/4477852957/) — Staples Canada
-- 📍 **Location:** Richmond Hill, Ontario, Canada
-- 💰 **Salary:** $125,300.00/yr - $156,600.00/yr
+### [Executive Director - Finance](https://www.linkedin.com/jobs/view/4475751958/) — Assisted Living Alberta
+- 📍 **Location:** Alberta, Canada
+- 🕒 **Posted:** 2026-10-09
+
+### [Regional Director, High Net Worth Wealth Planning](https://www.linkedin.com/jobs/view/4469980314/) — BMO
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $110,000.00 - $200,000.00
+- 🕒 **Posted:** 2026-10-09
+
+### [Market Leader, Financial Planning](https://www.linkedin.com/jobs/view/4471122616/) — BMO
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
 - 🕒 **Posted:** 2026-10-09
