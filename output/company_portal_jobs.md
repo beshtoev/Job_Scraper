@@ -1,6 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-09 08:37 UTC*
+*Last updated: 2026-10-09 11:40 UTC*
 
-**0 new role(s)** since last run · 246 total in current portal openings
+**1 new role(s)** since last run · 247 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Head of Platform](https://builtintoronto.com/job/head-platform/11570491) — Datatonic
+- 📍 **Location:** Toronto, Ontario, Canada
