@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-10 14:21 UTC",
+  "scraped_at": "2026-10-10 15:27 UTC",
   "total": 53,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Appficiency",
@@ -1382,32 +1382,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Handy Bros. Home Comfort",
-      "title": "Director of Finance & Accounting",
-      "location": "Blenheim, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010289549829",
-      "date_posted": "2026-10-08",
-      "description": "Build budgets, forecasts, and cash flow plans that help us make timely decisions. A degree in *accounting, finance, commerce, business administration, or a…",
-      "salary": "$140k–$180k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "Blenheim",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }

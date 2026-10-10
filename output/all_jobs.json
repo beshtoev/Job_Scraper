@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 15:26 UTC",
+  "updated_at": "2026-10-10 15:27 UTC",
   "jobs": [
     {
       "company": "CAE",
@@ -1414,16 +1414,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-09T18:42:40Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
       "geo_city": "",
       "geo_province": "",
       "geo_lat": null,
       "geo_lon": null,
       "geo_distance_km": null,
-      "geo_rank": 399999,
+      "geo_rank": 599999,
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
