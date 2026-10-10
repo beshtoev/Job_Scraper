@@ -1,6 +1,13 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-10 03:20 UTC*
+*Last updated: 2026-10-10 06:22 UTC*
 
-**0 new role(s)** since last run · 245 total in current portal openings
+**3 new role(s)** since last run · 187 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Director, EAML Strategy & Reporting](https://builtintoronto.com/job/director-eaml-strategy-reporting/11471419) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Vice President of Finance](https://builtintoronto.com/job/vice-president-finance/11134397) — Orion Group
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Head of AI Safety](https://builtintoronto.com/job/head-ai-safety/10574279) — Moonshot
+- 📍 **Location:** Toronto, Ontario, Canada
