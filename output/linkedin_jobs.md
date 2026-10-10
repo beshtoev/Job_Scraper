@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-10 19:23 UTC*
+*Last updated: 2026-10-10 19:50 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**0 new role(s)** since last run · 1 total in last 1h
 
-### [Chief Developer in Data Engineering](https://www.linkedin.com/jobs/view/4475619801/) — National Bank of Canada
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-10
+No new roles since the last run.
