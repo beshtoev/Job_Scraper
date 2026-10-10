@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-10 17:02 UTC",
+  "scraped_at": "2026-10-10 19:51 UTC",
   "total": 51,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Appficiency",
@@ -1330,32 +1330,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Elby Professional Recruitment Inc",
-      "title": "Director of Finance and Administration",
-      "location": "Hamilton, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010290006617",
-      "date_posted": "2026-10-09",
-      "description": "Manage all finance entries, including granular invoice processing in Sage Simply Accounting, and develop strategic financial reports for board and audit…",
-      "salary": "$130k–$150k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "Hamilton",
-      "geo_province": "ON",
-      "geo_lat": 43.2557,
-      "geo_lon": -79.8711,
-      "geo_distance_km": 63.2,
-      "geo_rank": 200632,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
