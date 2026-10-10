@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-10 18:51 UTC",
+  "updated_at": "2026-10-10 19:22 UTC",
   "jobs": [
+    {
+      "company": "National Bank of Canada",
+      "title": "Chief Developer in Data Engineering",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4475619801/",
+      "date_posted": "2026-10-10",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "A career as\na Chief  Developer in  Data Engineering  within the Data Strategy team in the\nBusiness Performance, Evolution and Processes sector at National Bank means\nacting as an analytical data specialist. Leveraging your expertise in data\narchitecture and modeling, your experience building data pipelines, and your\nknowledge of cloud environments, you contribute directly to data enablement and\nthe transformation of Operations.\n\nYour role\n\nDefine and evolve the data\narchitecture and data models that support the sector’s analytical needs.\nDesign, develop, and maintain\nrobust data pipelines (ETL and ELT) within the Bank’s cloud environments.\nDevelop integrations and\nautomations that efficiently connect business applications and data\nplatforms.\nOptimize data processing using\nSQL and Python to improve solution performance, reliability, and\nefficiency.\nImplement data quality,\ngovernance, and control mechanisms to ensure data integrity.\nInfluence the sector’s data\nstrategy and contribute to the evolution of the data infrastructure\nthrough engineering and automation best practices.\n\nYour\nteam\n\nThe\nBusiness Performance, Evolution and Processes Vice-Presidency is made up of\nspecialists who work in an agile, proactive, and collaborative manner to seize\nopportunities, stay at the forefront of technology, and continuously improve\nprocesses.\n\nWithin the\nBusiness Performance, Evolution and Processes sector, you will be part of the\nData Strategy team, responsible for driving Operations’ enterprise-wide\ntransformation, and you will report to the Director of Analytics. You will work\nclosely with passionate data experts to accelerate the delivery of our\nstrategic initiatives.\n\nOur team\nstands out through its data engineering expertise, collaborative mindset, and\ncommitment to high-quality delivery. We aim to provide maximum flexibility to\nsupport your quality of life through a hybrid work environment and a flexible,\nadaptable schedule.\n\nThe Bank\nvalues continuous development and internal mobility. Our personalized training\nprograms, based on learning through action, enable you to master your\nprofession and develop new areas of expertise. Tools such as the Data Academy,\nlanguage training, the Harvard Learning Center, as well as coaching and\nmentoring opportunities are always available to you.\n\nRequirements\n\nBachelor’s degree in a related\nfield and five years of relevant experience, or a master’s degree in a\nrelated discipline and three years of relevant experience.\nStrong experience in data\nengineering, including ETL and ELT pipeline development, large-scale data\nmanagement, data modeling (Data Vault and dimensional modeling), and data\narchitecture.\nProficiency in SQL and Python\nfor data transformation, integration, and analytics.\nExperience with cloud\nenvironments and modern data platforms, including AWS, Snowflake,\nTerraform, as well as Git, GitHub Actions, Bitbucket, and Jira. (Asset) \nKnowledge of software\ndevelopment best practices, automated testing, and continuous integration\nand continuous delivery (CI/CD) methodologies. (Asset) \nStrong analytical thinking,\nautonomy, proactivity, collaboration and influencing skills, as well as\nthe ability to solve complex problems in a fast-paced and evolving agile\nenvironment.\n\nLanguages: French\nRequired skills: Amazon Web Services, Atlassian Jira, Bitbucket, Cloud Computing, Continuous delivery, Continuous Integration, Data Architecture, Data Conversion, Data Modeling, Data pipeline, Data Structures, Data Warehousing, Database Design, Diversity & Inclusion, Github, GitHub Actions, Incident Management, Information Analysis, Snowflake, Software Development Life Cycle, Teamwork, Terraform\n\nYour benefits\n\nIn addition to competitive compensation, upon hiring you’ll be eligible for a wide range of flexible benefits to help promote your wellbeing and that of your family such as:\n\n* Health and wellness program, including many options\n* Flexible group insurance\n* Generous pension plan\n* Employee Share Ownership Plan\n* Employee and family assistance program\n* Preferential banking services\n* Involvement in community initiatives\n* Telemedicine service\n* Virtual sleep clinic\n\nWe have an offer that keeps up with trends as well as your needs and those of your family.\n\nOur dynamic work environments and cutting-edge collaboration tools foster a positive employee experience. We value employees’ ideas. Whether through our surveys or programs, regular feedback and ongoing communication are encouraged.\n\nMaking a bold move in a people-first environment\n\nWe’re a bank on a human scale that stands out for its courage, entrepreneurial culture, and passion for people. Our mission is to have a positive impact on people’s lives. Our core values of partnership, agility, and empowerment inspire us, and inclusion is central to our commitments. We aim, wherever possible, to provide a barrier-free and accessible environment to all employees.\n\nWe strive to provide accessibility measures throughout the recruitment process within the limits of our available resources. If you require accommodations, feel free to let us know during our initial conversations. We welcome all candidates! What can you bring to our team?\n\nJoin us!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBanking",
+      "first_seen": "2026-10-10T19:22:55Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Rocket Software",
       "title": "Senior Technical Director, DataEdge Strategy & Architecture",
