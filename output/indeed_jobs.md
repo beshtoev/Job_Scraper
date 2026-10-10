@@ -1,9 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-09 22:43 UTC*
+*Last updated: 2026-10-10 00:49 UTC*
 
-**1 new role(s)** since last run · 13 total in last 24h
+**1 new role(s)** since last run · 12 total in last 24h
 
-### [AVP, Transformation Delivery, Transition and Readiness](https://ca.indeed.com/viewjob?jk=84a14a09f7db01a9) — Manulife
+### [Director, Finance](https://ca.indeed.com/viewjob?jk=7cee8b493a304304) — Amynta Group
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
