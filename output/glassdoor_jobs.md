@@ -1,18 +1,23 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-10 04:49 UTC*
+*Last updated: 2026-10-10 05:52 UTC*
 
-**3 new role(s)** since last run · 55 total in last 24h
+**4 new role(s)** since last run · 57 total in last 24h
 
-### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010291409330) — Fresh Prep Foods Inc
-- 📍 **Location:** Vancouver, Canada
-- 💰 **Salary:** $300k–$380k/yr
-- 🕒 **Posted:** 2026-10-10
+### [Director of Finance & Accounting](https://www.glassdoor.ca/job-listing/j?jl=1010289549829) — Handy Bros. Home Comfort
+- 📍 **Location:** Blenheim, Canada
+- 💰 **Salary:** $140k–$180k/yr
+- 🕒 **Posted:** 2026-10-09
 
-### [Director, Consulting Services - Growth and Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010291365228) — CGI
-- 📍 **Location:** Edmonton, Canada
-- 💰 **Salary:** $110k–$215k/yr
-- 🕒 **Posted:** 2026-10-10
+### [Head of Platform](https://www.glassdoor.ca/job-listing/j?jl=1010289714203) — Datatonic
+- 📍 **Location:** Montreal, Canada
+- 🕒 **Posted:** 2026-10-09
 
-### [Director, Governance and Controls](https://www.glassdoor.ca/job-listing/j?jl=1010291380168) — Canadian Nuclear Laboratories
-- 📍 **Location:** Chalk River, Canada
+### [Senior Director, Global Data Retention Program - Enterprise Data Governance](https://www.glassdoor.ca/job-listing/j?jl=1010288512999) — Recrute Action Inc.
+- 📍 **Location:** Waterloo, Canada
+- 💰 **Salary:** $100–$130/hr
+- 🕒 **Posted:** 2026-10-08
+
+### [Director of Financial Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010291452491) — Canada's National Ballet School
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $130k–$140k/yr
 - 🕒 **Posted:** 2026-10-10
