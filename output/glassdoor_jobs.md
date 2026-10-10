@@ -1,23 +1,18 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-10 05:52 UTC*
+*Last updated: 2026-10-10 06:54 UTC*
 
-**4 new role(s)** since last run · 57 total in last 24h
+**3 new role(s)** since last run · 58 total in last 24h
 
-### [Director of Finance & Accounting](https://www.glassdoor.ca/job-listing/j?jl=1010289549829) — Handy Bros. Home Comfort
-- 📍 **Location:** Blenheim, Canada
-- 💰 **Salary:** $140k–$180k/yr
-- 🕒 **Posted:** 2026-10-09
-
-### [Head of Platform](https://www.glassdoor.ca/job-listing/j?jl=1010289714203) — Datatonic
-- 📍 **Location:** Montreal, Canada
-- 🕒 **Posted:** 2026-10-09
-
-### [Senior Director, Global Data Retention Program - Enterprise Data Governance](https://www.glassdoor.ca/job-listing/j?jl=1010288512999) — Recrute Action Inc.
-- 📍 **Location:** Waterloo, Canada
-- 💰 **Salary:** $100–$130/hr
+### [UNPAID VOLUNTEER - Chief Technology Officer (CTO)](https://www.glassdoor.ca/job-listing/j?jl=1010288439452) — Digital Technology Institute for Development (DTID)
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-10-08
 
-### [Director of Financial Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010291452491) — Canada's National Ballet School
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $130k–$140k/yr
-- 🕒 **Posted:** 2026-10-10
+### [Director, Insights, Innovation & R&D (18-month contract)](https://www.glassdoor.ca/job-listing/j?jl=1010288473678) — Yum! Brands
+- 📍 **Location:** Vaughan, Canada
+- 💰 **Salary:** $160k–$210k/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Director of Finance and Administration](https://www.glassdoor.ca/job-listing/j?jl=1010290006617) — Elby Professional Recruitment Inc
+- 📍 **Location:** Hamilton, Canada
+- 💰 **Salary:** $130k–$150k/yr
+- 🕒 **Posted:** 2026-10-09
