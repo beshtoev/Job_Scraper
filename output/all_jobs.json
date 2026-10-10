@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-10 13:36 UTC",
+  "updated_at": "2026-10-10 14:13 UTC",
   "jobs": [
+    {
+      "company": "FTI Consulting",
+      "title": "Director , eDiscovery- Technology Consulting",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4478076004/",
+      "date_posted": "2026-10-10",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Who We Are\n\nFTI Consulting is the leading global expert firm for organizations facing crisis and transformation. We work with many of the world’s top multinational corporations, law firms, banks and private equity firms on their most important issues to deliver impact that makes a difference. From resolving disputes, navigating crises, managing risk and optimizing performance, our teams respond rapidly to dynamic and complex situations.\n\nAt FTI Consulting, you’ll work side-by side with leaders who have shaped history, helping solve the biggest challenges making headlines today. From day one, you’ll be an integral part of a focused team where you can make a real impact. You’ll be surrounded by an open, collaborative culture that embraces diversity, recognition, professional development and, most importantly, you.\n\nAre you ready to make your impact?\n\nAbout the Role\n\nThis Director position is within FTI Consulting's Technology practice. FTI Technology utilizes modern review platforms for native document review and case management. Our practice primarily provides professional consulting services to corporations and law firms for coordinating document review and production using Relativity and/or Nuix Discover. The Director will be responsible for managing multiple aspects of specific client matters.\n\nThis is an ideal opportunity for someone who:\n\nIs technically minded - all our work requires thinking in a logical, mathematical way about processes and sets of data\nWorks flexibly with a variety of team members - we work on a variety of projects at the same time, each of which can be staffed differently\nIs eager and excited to learn - a positive, open-minded attitude will ensure quality work and bodes well for long-term career development\nWorks hard - while we do innovate, everyone has regular assigned tasks that are part of the overall workflow and on which high quality client service depends\nEnjoys solving the impossible - we often receive requests that require us to consider difficult questions and develop new processes\n\nWhat You'll Do\n\nHave responsibility for day-to-day activities of projects including interaction with other consultants, supervisors, and client personnel\nApply analytical skills and leverage existing methodologies to various client situations and practice disciplines and create novel, customized solutions to meet shifting client needs\nUtilize logical reasoning skills to provide complete client service\nWork to ensure a quality product and delivery of all work within established timeframes.\nIntroduce additional FTI services to clients as needs dictate\nProvide superior client service in demanding, deadline-driven situations\nMaintain professional image within the firm and project same to those outside the firm\n\nHow You Will Grow\n\nWe are committed to investing and supporting you in your professional development and we have developed a range of programs focused on fostering leadership, growth and development opportunities. We aim to promote continuous learning and individual skills development through on-the-job learning, self-guided professional development courses and certifications. You’ll be assigned a dedicated coach to mentor, guide and support you through regular coaching sessions and serve as an advocate for your professional growth.\n\nAs you progress through your career at FTI Consulting, we offer tailored programs for critical professional milestones to ensure you are prepared and empowered to take on your next role.\n\nWhat You Will Need To Succeed\n\nBasic Qualifications\n\nBachelor’s degree required\n6+ relevant experience utilizing eDiscovery technology (Relativity, Nuix Discover, and/or Reveal)\nAbility to travel to clients and FTI office(s) as needed\nApplicants must be currently authorized to work in Canada on a full-time basis; this position does not provide visa sponsorship\n\nPreferred Qualifications\n\nStrong proficiency with Windows and related software, such as Microsoft Excel\nFamiliarity with Microsoft Access and SharePoint\nExcellent communication and client interface skills\nOutstanding client service in demanding, deadline–driven situations\nAbility to work independently in fast-paced, multi-task environment\n\nFTI Consulting is an equal opportunity employer and does not discriminate on the basis of race, color, national origin, ancestry, citizenship status, protected veteran status, religion, physical or mental disability, marital status, sex, sexual orientation, gender identity or expression, age, or any other basis protected by law, ordinance, or regulation.\n\nCompensation\n\nMinimum Pay:$125,000.00CAD\n\nMaximum Pay:$159,500.00CAD\n\nCompensation: The compensation range reflects potential base salary for the role. Actual compensation is determined based on a wide array of relevant factors including market considerations, business needs, and an individual’s location, skills, level of experience, and qualifications\n\nCompensation: L'échelle salariale reflète le salaire de base potentiel pour ce poste. La rémunération réelle est déterminée en fonction d'un large éventail de facteurs pertinents, notamment les considérations du marché, les besoins de l'entreprise et le lieu de résidence, les compétences, le niveau d'expérience et les qualifications de la personne.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
+      "first_seen": "2026-10-10T14:13:45Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "RBC",
       "title": "Senior Director, AI Research- FR",
@@ -49,7 +74,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4469212840/"
+      ]
     },
     {
       "company": "Ethos",
