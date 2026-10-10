@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 06:53 UTC",
+  "updated_at": "2026-10-10 07:00 UTC",
   "jobs": [
     {
       "company": "Canadian Nuclear Laboratories",
@@ -977,16 +977,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-09T18:42:40Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
       "geo_city": "",
       "geo_province": "",
       "geo_lat": null,
       "geo_lon": null,
       "geo_distance_km": null,
-      "geo_rank": 599999,
+      "geo_rank": 399999,
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
@@ -3346,7 +3346,8 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-finance/11575143",
-        "https://www.linkedin.com/jobs/view/4475972394/"
+        "https://www.linkedin.com/jobs/view/4475972394/",
+        "https://www.linkedin.com/jobs/view/4477207038/"
       ],
       "direct_url": "https://builtintoronto.com/job/director-finance/11575143"
     },

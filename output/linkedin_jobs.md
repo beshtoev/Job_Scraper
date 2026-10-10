@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-10 06:31 UTC*
+*Last updated: 2026-10-10 07:00 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Director of Finance](https://www.linkedin.com/jobs/view/4477207038/) — Pontosense
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $160,000 to $190,000
+- 🕒 **Posted:** 2026-10-10
