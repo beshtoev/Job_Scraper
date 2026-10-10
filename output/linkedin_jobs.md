@@ -1,17 +1,25 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-10 00:24 UTC*
+*Last updated: 2026-10-10 00:48 UTC*
 
-**3 new role(s)** since last run · 11 total in last 1h
+**5 new role(s)** since last run · 10 total in last 1h
 
-### [Director - Geological Data & Database Management](https://www.linkedin.com/jobs/view/4477889643/) — Kinross Gold Corporation
+### [Director, Health System Analytics](https://www.linkedin.com/jobs/view/4476887115/) — Ontario Health | Santé Ontario
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-10-10
+
+### [Vice President, Client Success Strategy & Programs](https://www.linkedin.com/jobs/view/4475263779/) — OpenText
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 🕒 **Posted:** 2026-10-10
+
+### [Virtual Chief Information Officer (vCIO)](https://www.linkedin.com/jobs/view/4474865422/) — Microserve
+- 📍 **Location:** British Columbia, Canada
+- 💰 **Salary:** $100,000-$120,000 annually
+- 🕒 **Posted:** 2026-10-10
+
+### [Vice President, Client Success Strategy & Programs](https://www.linkedin.com/jobs/view/4475266714/) — OpenText
+- 📍 **Location:** Richmond Hill, Ontario, Canada
+- 🕒 **Posted:** 2026-10-10
+
+### [Vice President, Client Success Strategy & Programs](https://www.linkedin.com/jobs/view/4475279114/) — OpenText
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $180,000 to $220,000
 - 🕒 **Posted:** 2026-10-10
-
-### [Artificial Intelligence Strategy Practice Leader](https://www.linkedin.com/jobs/view/4475263734/) — Desjardins
-- 📍 **Location:** Montréal-Ouest, Quebec, Canada
-- 🕒 **Posted:** 2026-10-10
-
-### [Vice President Information Technology](https://www.linkedin.com/jobs/view/4476877015/) — Executrade – Your Recruitment Specialists
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-10-09
