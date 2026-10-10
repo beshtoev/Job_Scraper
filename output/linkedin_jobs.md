@@ -1,17 +1,22 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-10 12:22 UTC*
+*Last updated: 2026-10-10 12:53 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**4 new role(s)** since last run · 8 total in last 1h
 
-### [Senior Director, Corporate Strategy & Development](https://www.linkedin.com/jobs/view/4469222192/) — Trulioo
-- 📍 **Location:** Vancouver, British Columbia, Canada
+### [Senior Director, AI Research- FR](https://www.linkedin.com/jobs/view/4468037999/) — RBC
+- 📍 **Location:** Montréal-Ouest, Quebec, Canada
 - 🕒 **Posted:** 2026-10-10
 
-### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4471042013/) — Vaco by Highspring
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/hr - CA$85.00/hr
-- 🕒 **Posted:** 2026-10-10
-
-### [Expert Opportunity - FP&A Director ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4441423983/) — Ethos
+### [Director of Marketing Technology (Multi-Solution Architect)](https://www.linkedin.com/jobs/view/4448475202/) — Bounteous
 - 📍 **Location:** Canada
+- 💰 **Salary:** $157,000 - $227,000
+- 🕒 **Posted:** 2026-10-10
+
+### [Director, Technology Product Strategy](https://www.linkedin.com/jobs/view/4469209795/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-10
+
+### [Director, Ecommerce and Marketing Analytics](https://www.linkedin.com/jobs/view/4403681948/) — Sur La Table
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $130,000 - $145,000
 - 🕒 **Posted:** 2026-10-10
