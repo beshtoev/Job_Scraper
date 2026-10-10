@@ -1,12 +1,13 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-10 09:57 UTC*
+*Last updated: 2026-10-10 10:59 UTC*
 
 **2 new role(s)** since last run · 54 total in last 24h
 
-### [Vice President, Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010291294865) — ECL Group of Companies
-- 📍 **Location:** Edmonton, Canada
+### [Director, Fraud Agentic AI](https://www.glassdoor.ca/job-listing/j?jl=1010291536353) — Royal Bank of Canada
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-10-10
 
-### [Program Director - PMO Transformation Programs, Segmentation](https://www.glassdoor.ca/job-listing/j?jl=1010288409341) — Procom
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-08
+### [Director of Finance and Administration](https://www.glassdoor.ca/job-listing/j?jl=1010290006617) — Elby Professional Recruitment Inc
+- 📍 **Location:** Hamilton, Canada
+- 💰 **Salary:** $130k–$150k/yr
+- 🕒 **Posted:** 2026-10-09
