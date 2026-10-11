@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-10 23:26 UTC",
+  "scraped_at": "2026-10-11 00:08 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Exclusive Floors Ltd",
@@ -28,30 +28,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Exclusive Floors Ltd",
-      "title": "Director of Finance",
-      "location": "Surrey, British Columbia, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4465488836/",
-      "date_posted": "2026-10-10",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Director of Finance\nStatus: Active\n\nThe Company:\n\nExclusive Floors is British Columbia’s largest provider and installer of flooring and tile and a long-standing leader in the industry, with an exceptional reputation in the market. For over 40 years, the company has served builders, developers, designers and homeowners with exceptional service, deep product expertise and industry-leading installation quality. Exclusive Floors is searching for a Director of Finance to strengthen financial leadership, provide greater insight into business performance, and help build the systems and processes needed to support continued profitable growth.\n\nThe Role:\n\nThe Director of Finance will be a visible and influential leader across the organization, with full ownership of the day-to-day finance function. As a key member of the leadership team, this person will lead and develop an experienced finance team, ensure accurate and timely reporting, and bring financial insight and sound judgment to business decisions. The Director will have a key leadership role in the implementation of NetSuite, strengthen financial processes and controls, manage risk, and provide the insight needed to support the company’s continued growth.\n\nThe Responsibilities:\n\nTake ownership of the day-to-day finance function, including financial reporting, payables, collections, cash management and financial discipline.\nEnsure accurate and timely financial reporting, including monthly statements, cash flow reporting and executive reporting.\nLead annual budgeting and forecasting, providing clear visibility into business drivers and expected results.\nDevelop meaningful financial and operating KPIs that provide leadership with timely insight into performance.\nBe a strategic finance partner to the President and leadership team, bringing financial insight and sound judgment to key business decisions.\nAnalyze profitability, costs, trends and growth opportunities, translating financial information into clear recommendations.\nPartner with sales and operations to support profitable growth while managing financial and contractual risk.\nProvide financial oversight of project-based work, including project accounting, progress billing, collections, credit risk, lien timelines and contractual obligations.\nMaintain strong internal controls and oversee audit, compliance, insurance and other financial risk-management activities.\nIdentify financial and contractual risks early and work collaboratively with the business to develop practical solutions.\nHave a key leadership role in the successful implementation of NetSuite, working with internal and external resources.\nUse NetSuite to strengthen and standardize financial processes, reporting and data quality while reducing manual work and improving scalability.\nContinuously identify opportunities to improve financial processes, controls, reporting and efficiency across the organization.\n\nThe Requirements:\n\n10+ years of progressive finance and accounting experience, including senior-level responsibility for a finance function and team.\nCPA designation preferred, combined with strong technical accounting expertise in financial reporting, controls, cash flow and risk management. Experience working in public practice is a strong asset.\nProven people leader with the ability to lead and develop an experienced finance team, build trust and create accountability.\nConstruction or closely related project-based industry experience, with practical knowledge of project accounting, contracts, credit and collections, lien timelines and financial risk.\nExcellent communication, listening and relationship-building skills, with the ability to work effectively across finance, sales, operations, senior leadership and ownership.\nA visible, approachable and collaborative leadership style, with the ability to operate independently, exercise sound judgment and take full ownership of the finance function.\nStrong strategic and critical-thinking skills, with the ability to interpret financial information, identify trends, risks and opportunities, and translate the numbers into meaningful business insight.\nSolid business judgment, with the ability to manage financial and contractual risk while working collaboratively with sales and operations to support profitable growth.\nDemonstrated experience improving financial systems, processes, controls and reporting to create greater efficiency, consistency and scalability.\nSuccessful track record leading or playing a significant role in an ERP implementation, NetSuite implementation experience is a strong asset.\nExperience supporting a business through growth and change, including organic growth, acquisitions or times of significant business evolution.\nStrong financial planning and analysis capabilities, including budgeting, forecasting, profitability analysis and performance reporting.\n\nOur goal at People First Solutions is to hire top performers for our clients. To this end, our selection process is thorough, enabling us to collect very detailed information. We base our selection process on Topgrading®, a proven method that allows our clients’ to effectively match top performing candidates to key leadership roles. As well, we integrate TalentSorter®, a behavioural science based assessment tool to help companies hire for “fit.”\nIf you possess the fundamental skills, experience and education required to be successful in this role we invite you to provide a cover letter and résumé in PDF, in confidence to either Bob Murray or Adrienne Giffen.\nBob Murray – bob@peoplefirstsolutions.com – 604.803.4377\nAdrienne Giffen – adrienne@peoplefirstsolutions.com – 604.209.8023\nWe thank all applicants for their interest in this role.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nConstruction",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "Surrey",
-      "geo_province": "BC",
-      "geo_lat": 49.1913,
-      "geo_lon": -122.849,
-      "geo_distance_km": 3336.8,
-      "geo_rank": 433368,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
