@@ -1,32 +1,7 @@
 {
-  "scraped_at": "2026-10-11 04:40 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-11 05:45 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "JobsMedia.io",
-      "title": "Accounting and financial control chief",
-      "location": "Joliette, Quebec, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4478083927/",
-      "date_posted": "2026-10-11",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Education:\nExpérience:\n\nEducation\n\nBachelor's degree\nAccounting\n\nTasks\n\nCoordinate the organization's financial operations and budget activities in order to optimize financial performance\nDirect staff\nRecommend improvements to accounting systems and management practices\nReconcile accounts\nPrepare financial statements and reports\nPrepare income tax returns from accounting records\nPlan, set up and administer accounting systems\nPerform basic bookkeeping tasks\nManage accounts payable\nManage accounts receivable\nHire and train staff\nAnalyze clients' financial records\nPrepare other statistical, financial and accounting reports\nPrepare tax returns\n\nComputer and technology knowledge\n\nMS Excel\nQuick Books\n\nExperience\n\n2 years to less than 3 years\n\nOther Benefits\n\nOther benefits\n\nSupport for newcomers and refugees\n\nRecruits newcomers and/or refugees who were displaced by a conflict or a natural disaster (for example: Ukraine, Afghanistan, etc.)\nDurée de l'emploi: Permanent\nLangue de travail: Français\nHeures de travail: 40 hours per week\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Joliette",
-      "geo_province": "QC",
-      "geo_lat": 46.02398,
-      "geo_lon": -73.44199,
-      "geo_distance_km": 535.1,
-      "geo_rank": 405351,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
