@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 341,
-    "pollable": 210,
+    "companies": 343,
+    "pollable": 212,
     "unresolved": 131
   },
   "companies": [
@@ -4518,6 +4518,32 @@
       "slug": "zafinlabsamericasinc",
       "careers_url": "https://job-boards.greenhouse.io/zafinlabsamericasinc",
       "source": "browser-history",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "11x.ai",
+      "archetype": "D",
+      "ats": "gem",
+      "slug": "11x-ai",
+      "careers_url": "https://jobs.gem.com/11x-ai",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "S&P Global",
+      "archetype": "E",
+      "ats": "workday",
+      "slug": "",
+      "careers_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
+      "source": "manual",
       "include": [],
       "exclude": [],
       "searches": [],
