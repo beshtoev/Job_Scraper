@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-11 16:24 UTC*
+*Last updated: 2026-10-11 17:48 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Director, Data Governance](https://www.linkedin.com/jobs/view/4469554352/) — McKesson
-- 📍 **Location:** Mississauga, Ontario, Canada
+### [Director of Digital Marketing (Remote, Kitchener)](https://www.linkedin.com/jobs/view/4478333567/) — Blacksmith Agency
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-10-11
