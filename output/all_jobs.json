@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-11 19:00 UTC",
+  "updated_at": "2026-10-11 19:20 UTC",
   "jobs": [
+    {
+      "company": "National Bank of Canada",
+      "title": "Senior Director, Sanctions Screening Analytics",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4475674187/",
+      "date_posted": "2026-10-11",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "A career as a Senior Director, Screening Analytics within the AML/ATF Risk Management – Models, Technology and Transformation team at National Bank means playing a strategic leadership role in the transformation of both the team and the sector. In this role, you will be responsible for leading and developing a team of experts while advancing analytics and model governance practices. You will act as a trusted partner to process owners, business domain leaders, IT delivery teams, and business partners to ensure alignment of model practices and transform processes to maximize the value of analytics.\n\nThis position offers an opportunity to leverage your leadership, strategic vision, and talent development capabilities while contributing actively to screening processes.\n\nYour Role\n\nLead, develop, and support a team of experts by fostering collaboration, engagement, skills development, and excellence in practices.\nOversee screening models and activities, as well as team capacity and performance, while ensuring the quality of deliverables and achievement of strategic objectives.\nAct as a strategic partner to business leaders by identifying opportunities for transformation, automation, and simplification that contribute to operational excellence.\nEnsure the governance and ongoing evolution of practices surrounding screening model processes by establishing methodologies, maintaining high-quality standards, and promoting the adoption of best practices.\nLead change management initiatives by engaging stakeholders, facilitating the adoption of new ways of working, and ensuring the realization of the expected benefits of transformation efforts.\n\nYour Team\n\nWithin the Compliance sector, you will be part of a team of approximately 20 colleagues and report to the Senior Director, AML/ATF Risk Management. Our team stands out for its expertise, collaborative spirit, creativity, and passion for combating money laundering.\nWe support your ongoing development through a variety of continuous learning opportunities, including hands-on learning, access to training content, and collaboration with colleagues from diverse backgrounds and areas of expertise.\n\nPrerequisites\n\nUniversity degree in a related field and significant experience managing teams or programs in a transformational environment.\nKnowledge of screening activities related to international sanctions or a related field within risk management and compliance.\nExperience in model governance, analytics, or modeling.\nExperience leading end-to-end business process transformation and optimization initiatives.\nExperience managing change and deploying large-scale strategic initiatives.\nStrong leadership skills combined with strategic vision and excellent analytical, synthesis, and communication abilities.\n\nLanguages: French, English\nReason to require this language: you will need to discuss frequently with our service providers or partners who speak a language other than French.\nRequired skills: Critical Thinking, Data-Driven Decision-Making, Decision Making, Emotional Intelligence, Leadership, Managerial Courage, Mobilization, Resiliency, Risk Management, Strategic Vision, Stress Management, Talent Development, Team Alignment\n\nYour benefits\n\nIn addition to competitive compensation, upon hiring you’ll be eligible for a wide range of flexible benefits to help promote your wellbeing and that of your family such as:\n\n* Health and wellness program, including many options\n* Flexible group insurance\n* Generous pension plan\n* Employee Share Ownership Plan\n* Employee and family assistance program\n* Preferential banking services\n* Involvement in community initiatives\n* Telemedicine service\n* Virtual sleep clinic\n\nWe have an offer that keeps up with trends as well as your needs and those of your family.\n\nOur dynamic work environments and cutting-edge collaboration tools foster a positive employee experience. We value employees’ ideas. Whether through our surveys or programs, regular feedback and ongoing communication are encouraged.\n\nMaking a bold move in a people-first environment\n\nWe’re a bank on a human scale that stands out for its courage, entrepreneurial culture, and passion for people. Our mission is to have a positive impact on people’s lives. Our core values of partnership, agility, and empowerment inspire us, and inclusion is central to our commitments. We aim, wherever possible, to provide a barrier-free and accessible environment to all employees.\n\nWe strive to provide accessibility measures throughout the recruitment process within the limits of our available resources. If you require accommodations, feel free to let us know during our initial conversations. We welcome all candidates! What can you bring to our team?\n\nJoin us!\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBanking",
+      "first_seen": "2026-10-11T19:20:10Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Deloitte",
       "title": "Frontier and Platform Development Leader",
@@ -35838,7 +35863,11 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$121,000 - $170,000",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4393965325/"
+      ]
     },
     {
       "company": "PointClickCare",
