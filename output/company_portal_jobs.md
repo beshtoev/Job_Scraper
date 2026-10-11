@@ -1,7 +1,6 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-11 10:19 UTC*
+*Last updated: 2026-10-11 13:37 UTC*
 
-**1 new role(s)** since last run · 245 total in current portal openings
+**0 new role(s)** since last run · 244 total in current portal openings
 
-### [VP, Media Strategy and Planning](https://builtintoronto.com/job/vp-media-strategy-and-planning/11121660) — Klick Health
-- 📍 **Location:** Toronto, Ontario, Canada
+No matching roles found in today's company-portal run.
