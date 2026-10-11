@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-11 09:46 UTC",
+  "scraped_at": "2026-10-11 11:47 UTC",
   "total": 40,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Schuyler Farms Limited",
@@ -1044,32 +1044,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Kings Regional Service Commission",
-      "title": "Director of Planning & Development Services",
-      "location": "Sussex, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010289634439",
-      "date_posted": "2026-10-09",
-      "description": "Valid driver’s license and capability to travel consistently across the Kings region. Promote solutions that support sustainable growth, housing development,…",
-      "salary": "$105k–$125k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "Sussex",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
