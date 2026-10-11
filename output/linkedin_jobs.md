@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-11 09:19 UTC*
+*Last updated: 2026-10-11 09:38 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Director of Engineering, Data](https://www.linkedin.com/jobs/view/4410304909/) — Xsolla
-- 📍 **Location:** Canada
-- 💰 **Salary:** $120,000 - $160,000
+### [Senior Director, Enterprise Data & Governance](https://www.linkedin.com/jobs/view/4438757963/) — Lightspeed Commerce
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-11
