@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-12 13:48 UTC*
+*Last updated: 2026-10-12 14:20 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4471042013/) — Vaco by Highspring
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/hr - CA$85.00/hr
+### [Director of Finance](https://www.linkedin.com/jobs/view/4477572928/) — Robert Half
+- 📍 **Location:** Red Deer, Alberta, Canada
 - 🕒 **Posted:** 2026-10-12
