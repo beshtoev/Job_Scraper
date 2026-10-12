@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-12 15:01 UTC",
+  "scraped_at": "2026-10-12 16:08 UTC",
   "total": 23,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "ECL Group of Companies",
@@ -87,7 +87,7 @@
       "location": "Toronto, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291452491",
       "date_posted": "2026-10-10",
-      "description": "Cross-Organizational Partnership: Collaborate with HR, payroll, compensation, benefits, pensions, student financial aid, and operations on integrated planning…",
+      "description": "Canada’s National Ballet School (NBS) is a leading arts and education institution dedicated to excellence in dance training, community programming, and health…",
       "salary": "$130k–$140k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
@@ -219,6 +219,32 @@
       "date_posted": "2026-10-12",
       "description": "An undergraduate degree in Computer Science, Engineering, Information Technology, or a related field, or equivalent experience.",
       "salary": "$128k–$176k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Kinross Gold Corporation",
+      "title": "Director - Geological Data & Database Management",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291118654",
+      "date_posted": "2026-10-10",
+      "description": "The Director, Geological Data & Database Management is a senior technical leadership role accountable for designing, implementing, and governing a company-wide…",
+      "salary": "$180k–$220k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
@@ -524,32 +550,6 @@
       "geo_version": 1
     },
     {
-      "company": "Kinross Gold Corporation",
-      "title": "Director - Geological Data & Database Management",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291118654",
-      "date_posted": "2026-10-10",
-      "description": "Bachelor's or Master's degree in Geology, Earth Sciences, Geological Engineering, or a related field. The Director, Geological Data & Database Management is a…",
-      "salary": "$180k–$220k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
       "company": "FTI Consulting",
       "title": "Director , eDiscovery- Technology Consulting",
       "location": "Toronto, Canada",
@@ -602,32 +602,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Kinross Gold Corporation",
-      "title": "Director - Geological Data & Database Management",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291118654",
-      "date_posted": "2026-10-10",
-      "description": "Bachelor's or Master's degree in Geology, Earth Sciences, Geological Engineering, or a related field. The Director, Geological Data & Database Management is a…",
-      "salary": "$180k–$220k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
