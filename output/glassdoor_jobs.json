@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-12 13:34 UTC",
+  "scraped_at": "2026-10-12 15:01 UTC",
   "total": 23,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "ECL Group of Companies",
@@ -78,32 +78,6 @@
       "geo_rank": 599999,
       "geo_source": "inferred",
       "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Nucleus Independent Living",
-      "title": "Director of Finance",
-      "location": "Oakville, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010290822692",
-      "date_posted": "2026-10-10",
-      "description": "In conjunction with the Chief Financial Officer and Senior Leadership Team, work to design, develop, and implement strategic and operational plans, ensuring…",
-      "salary": "$100k–$115k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Oakville",
-      "geo_province": "ON",
-      "geo_lat": 43.4675,
-      "geo_lon": -79.6877,
-      "geo_distance_km": 35.6,
-      "geo_rank": 100356,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1
     },
@@ -477,7 +451,7 @@
       "location": "Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010290950821",
       "date_posted": "2026-10-10",
-      "description": "Experian is proud to be an Equal Opportunity Employer for all groups protected under applicable federal, state and local law, including protected veterans and…",
+      "description": "Reporting to the EVP Global Technology Operations, the Execution Strategy & Operational Delivery Leader, you will lead a team and you will implement strategic…",
       "salary": "",
       "salary_source": "",
       "salary_currency": "CAD",
@@ -550,6 +524,32 @@
       "geo_version": 1
     },
     {
+      "company": "Kinross Gold Corporation",
+      "title": "Director - Geological Data & Database Management",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291118654",
+      "date_posted": "2026-10-10",
+      "description": "Bachelor's or Master's degree in Geology, Earth Sciences, Geological Engineering, or a related field. The Director, Geological Data & Database Management is a…",
+      "salary": "$180k–$220k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
       "company": "FTI Consulting",
       "title": "Director , eDiscovery- Technology Consulting",
       "location": "Toronto, Canada",
@@ -602,5 +602,32 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Kinross Gold Corporation",
+      "title": "Director - Geological Data & Database Management",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291118654",
+      "date_posted": "2026-10-10",
+      "description": "Bachelor's or Master's degree in Geology, Earth Sciences, Geological Engineering, or a related field. The Director, Geological Data & Database Management is a…",
+      "salary": "$180k–$220k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
