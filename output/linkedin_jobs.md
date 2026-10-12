@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-12 15:46 UTC*
+*Last updated: 2026-10-12 16:46 UTC*
 
-**1 new role(s)** since last run · 6 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Data & Analytics Leader- Consulting/Managing Partner) (CDO Like )  : Toronto, ON : Hybrid](https://www.linkedin.com/jobs/view/4477576984/) — AceStack
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130.00/yr - CA$150.00/yr
+### [Directeur Mondial, Analyses et perspectives/ Global Insights & Analytics Director](https://www.linkedin.com/jobs/view/4476016999/) — Michelin
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-12
+
+### [Senior Director, Raw Materials Innovation - Materials & Technology](https://www.linkedin.com/jobs/view/4476035174/) — lululemon
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $225,800 - $296,300
 - 🕒 **Posted:** 2026-10-12
