@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-12 22:39 UTC",
+  "scraped_at": "2026-10-12 23:27 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Grifols",
@@ -28,30 +28,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Grifols",
-      "title": "Director, Strategy & Transformation",
-      "location": "Mississauga, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4478705496/",
-      "date_posted": "2026-10-12",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Souhaitez-vous rejoindre une équipe internationale qui travaille à l'amélioration des soins de santé ? Voulez-vous améliorer la vie de millions de personnes ? Grifols est une entreprise mondiale de soins de santé qui, depuis 1909, travaille à l'amélioration de la santé et du bien-être des personnes dans le monde entier. Nous sommes leaders dans le domaine des médicaments dérivés du plasma et de la médecine transfusionnelle et nous développons, produisons et commercialisons des médicaments, des solutions et des services innovants dans plus de 110 pays et régions.\n\nWould you like to join an international team working to improve the future of healthcare? Do you want to enhance the lives of millions of people? Grifols is a global healthcare company that since 1909 has been working to improve the health and well-being of people around the world. We are leaders in plasma-derived medicines and transfusion medicine and develop, produce and market innovative medicines, solutions and services in more than 110 countries and regions.\n\nPosition title:\nDirector, Strategy & Transformation\n\nReports to:\nVP, Canada Self Sufficiency Project\n\nSummary\n\nThe Director, Strategy & Transformation\nis responsible for leading strategic initiatives, operational excellence, and business transformation programs that support the Canadian self-sufficiency strategy. Working closely with the Managing Director and business leaders, the role drives execution of key priorities, improves organizational performance, and enables sustainable growth across the Canadian organization. The Director leads the Business Optimization function, including Operational Excellence, Continuous Improvement, Project Management, and Device Management.\n\nPrimary Responsibilities For Role\n\nStrategy & Transformation\n\nTranslate business priorities into actionable plans, measurable outcomes, and sustainable improvements.\nLead the planning, prioritization, and execution of strategic and transformation initiatives across Canada.\nPartner with functional leaders to drive change management and successful adoption of key initiatives.\n\nOperational Excellence\n\nLead Business Optimization, Operational Excellence, Continuous Improvement, Project Management, and Device Management functions.\nIdentify opportunities to improve efficiency, effectiveness, and scalability across the organization.\nDrive continuous improvement initiatives that deliver measurable operational and business results.\n\nGovernance & Performance\n\nEstablish governance processes to monitor strategic initiatives and business performance.\nDevelop performance measures, dashboards, and reporting to support informed decision-making.\nTrack risks, dependencies, and progress to ensure successful execution of key priorities.\n\nLeadership & Collaboration\n\nLead, coach, and develop the Strategy & Transformation team.\nBuild strong partnerships across Operations, Manufacturing, Commercial, Finance, HR, IT, Quality, Medical, and Corporate Affairs.\nFoster a culture of accountability, collaboration, innovation, and continuous improvement.\n\nQualifications\n\nBachelor's degree required; Master's degree preferred (MBA or equivalent).\n8-10 years of progressive leadership experience in Strategy, Transformation, Operational Excellence, Consulting, or related disciplines. Demonstrated success leading complex cross-functional initiatives and organizational change.\nStrong business acumen, analytical thinking, project leadership, and stakeholder management skills.\nExperience working within matrixed organizations and influencing senior leaders.\nFluency in English required; French is considered an asset.\n\nPolitique de confidentialité de Canada - Careers\n\nCanada Careers Privacy Notice\n\nLocation: NORTH AMERICA : Canada : Mississauga:CATORONT - Canada Headquarters - Toronto\n\nLearn more about Grifols\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nPharmaceutical Manufacturing and Medical Equipment Manufacturing",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Mississauga",
-      "geo_province": "ON",
-      "geo_lat": 43.589,
-      "geo_lon": -79.6441,
-      "geo_distance_km": 23.9,
-      "geo_rank": 100239,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
