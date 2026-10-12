@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12 05:54 UTC",
-  "total": 27,
+  "scraped_at": "2026-10-12 07:01 UTC",
+  "total": 26,
   "new_count": 0,
   "jobs": [
     {
@@ -628,38 +628,12 @@
       "geo_version": 1
     },
     {
-      "company": "Unica College",
-      "title": "Directeur(trice) technique (contrat) / Technical Director – Audio & AI-Native School",
-      "location": "Westmount, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291829756",
-      "date_posted": "2026-10-12",
-      "description": "Co-construire avec le président une école native IA : intégrer l'IA aux cours, aux studios, à l'évaluation et au suivi des étudiants.",
-      "salary": "$35k–$75k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "Westmount",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
       "company": "FTI Consulting",
       "title": "Director , eDiscovery- Technology Consulting",
       "location": "Toronto, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291706010",
       "date_posted": "2026-10-11",
-      "description": "Enjoys solving the impossible - we often receive requests that require us to consider difficult questions and develop new processes.",
+      "description": "La rémunération réelle est déterminée en fonction d'un large éventail de facteurs pertinents, notamment les considérations du marché, les besoins de…",
       "salary": "$125k–$160k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
