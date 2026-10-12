@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-12 21:20 UTC",
+  "updated_at": "2026-10-12 21:27 UTC",
   "jobs": [
+    {
+      "company": "Dielden",
+      "title": "Chief Financial Officer",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292931977",
+      "date_posted": "2026-10-12",
+      "description": "Drive business development efforts by analyzing market trends, identifying new revenue opportunities, and fostering strategic partnerships.",
+      "salary": "$125k–$158k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-12T21:27:39Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "BGBx",
       "title": "VP, Engagement Strategy",
@@ -65,7 +92,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010292905258"
+      ]
     },
     {
       "company": "Unknown",
