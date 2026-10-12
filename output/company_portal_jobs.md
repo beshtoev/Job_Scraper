@@ -1,7 +1,8 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-12 11:12 UTC*
+*Last updated: 2026-10-12 14:15 UTC*
 
-**1 new role(s)** since last run · 242 total in current portal openings
+**1 new role(s)** since last run · 243 total in current portal openings
 
-### [Director of Strategy and Partnerships](https://builtintoronto.com/job/director-strategy-and-partnerships/11525252) — Jumpstart Refugee Talent
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, Enterprise Sales, Public Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8882379002) — Databricks
+- 📍 **Location:** Ottawa, Canada
+- 🕒 **Posted:** 2026-10-12
