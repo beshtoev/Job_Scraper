@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-13 06:53 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-10-13 09:58 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Sienna Senior Living",
@@ -24,6 +24,32 @@
       "geo_lon": -79.337,
       "geo_distance_km": 17.2,
       "geo_rank": 100172,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Yukon Government",
+      "title": "Director, Business Transformation",
+      "location": "Whitehorse, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010293562141",
+      "date_posted": "2026-10-13",
+      "description": "A bachelor's or master's degree in computer science, business administration, commerce or engineering. Project Management Professional (PMP) certification is an…",
+      "salary": "$107k–$149k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (YT)",
+      "geo_city": "Whitehorse",
+      "geo_province": "YT",
+      "geo_lat": 60.7212,
+      "geo_lon": -135.0568,
+      "geo_distance_km": 4077.1,
+      "geo_rank": 440771,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -87,7 +113,7 @@
       "location": "Toronto, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292103656",
       "date_posted": "2026-10-12",
-      "description": "An undergraduate degree in Computer Science, Engineering, Information Technology, or a related field, or equivalent experience.",
+      "description": "/ L’expérience et les connaissances d’un candidat ainsi que la région géographique dans laquelle le poste est situé peuvent être prises en compte dans la…",
       "salary": "$128k–$176k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
@@ -139,7 +165,7 @@
       "location": "Vancouver, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292683621",
       "date_posted": "2026-10-13",
-      "description": "Recruit, train, coach, and develop lab technicians, interns, specialists, and external experts who can support specialized machinery and trial development.",
+      "description": "As part of our total rewards offering, permanent employees in this position may be eligible for our competitive annual bonus program and equity offerings,…",
       "salary": "$226k–$296k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
@@ -264,5 +290,32 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Yukon Government",
+      "title": "Director, Business Transformation",
+      "location": "Whitehorse, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010293562141",
+      "date_posted": "2026-10-13",
+      "description": "A bachelor's or master's degree in computer science, business administration, commerce or engineering. Project Management Professional (PMP) certification is an…",
+      "salary": "$107k–$149k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (YT)",
+      "geo_city": "Whitehorse",
+      "geo_province": "YT",
+      "geo_lat": 60.7212,
+      "geo_lon": -135.0568,
+      "geo_distance_km": 4077.1,
+      "geo_rank": 440771,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
