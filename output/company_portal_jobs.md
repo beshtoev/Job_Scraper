@@ -1,9 +1,9 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-13 06:47 UTC*
+*Last updated: 2026-10-13 09:52 UTC*
 
-**1 new role(s)** since last run · 235 total in current portal openings
+**1 new role(s)** since last run · 236 total in current portal openings
 
-### [Director, Financial Planning and Analysis](https://jobs.lever.co/jobgether/6e21d24e-2d14-4b67-905d-0434cfdf2994) — Jobgether
+### [Data Center Operations Director](https://jobs.lever.co/jobgether/3cd23602-cf15-4b90-80f0-608b0f77974d) — Jobgether
 - 📍 **Location:** Canada
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-13
