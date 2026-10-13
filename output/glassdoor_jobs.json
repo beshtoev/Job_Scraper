@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-13 01:12 UTC",
-  "total": 14,
-  "new_count": 1,
+  "scraped_at": "2026-10-13 02:31 UTC",
+  "total": 13,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Sienna Senior Living",
@@ -30,14 +30,14 @@
       "geo_version": 1
     },
     {
-      "company": "Future Secure AI",
-      "title": "Head of Enterprise Infrastructure",
+      "company": "Slalom",
+      "title": "PMO AI Leader",
       "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292847305",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010293124642",
       "date_posted": "2026-10-13",
-      "description": "We are hiring a Head of Enterprise Infrastructure to own the internal cloud environments that host Atlas, our proprietary platform for building and testing the…",
-      "salary": "",
-      "salary_source": "",
+      "description": "You will combine program leadership, product delivery, governance, change enablement, and hands-on solution shaping to move clients from current-state…",
+      "salary": "$135k–$160k/yr",
+      "salary_source": "employer",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "work_mode": "",
@@ -56,14 +56,14 @@
       "geo_version": 1
     },
     {
-      "company": "Slalom",
-      "title": "PMO AI Leader",
+      "company": "Future Secure AI",
+      "title": "Head of Enterprise Infrastructure",
       "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010293124642",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292847305",
       "date_posted": "2026-10-13",
-      "description": "You will combine program leadership, product delivery, governance, change enablement, and hands-on solution shaping to move clients from current-state…",
-      "salary": "$135k–$160k/yr",
-      "salary_source": "employer",
+      "description": "We are hiring a Head of Enterprise Infrastructure to own the internal cloud environments that host Atlas, our proprietary platform for building and testing the…",
+      "salary": "",
+      "salary_source": "",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "work_mode": "",
@@ -212,32 +212,6 @@
       "geo_version": 1
     },
     {
-      "company": "CGI",
-      "title": "Director, Consulting Services - Growth and Strategy",
-      "location": "Edmonton, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291365228",
-      "date_posted": "2026-10-11",
-      "description": "CGI offers a competitive total rewards package that includes a share purchase program, profit sharing, professional development programs and flexible work…",
-      "salary": "$110k–$215k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (AB)",
-      "geo_city": "Edmonton",
-      "geo_province": "AB",
-      "geo_lat": 53.5461,
-      "geo_lon": -113.4938,
-      "geo_distance_km": 2701.3,
-      "geo_rank": 427013,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
       "company": "Dielden",
       "title": "Chief Financial Officer",
       "location": "Toronto, Canada",
@@ -368,32 +342,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Slalom",
-      "title": "PMO AI Leader",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010293124642",
-      "date_posted": "2026-10-13",
-      "description": "You will combine program leadership, product delivery, governance, change enablement, and hands-on solution shaping to move clients from current-state…",
-      "salary": "$135k–$160k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
