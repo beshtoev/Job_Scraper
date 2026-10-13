@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-13 11:46 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-10-13 14:52 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Sienna Senior Living",
@@ -108,6 +108,32 @@
       "geo_version": 1
     },
     {
+      "company": "University of Ottawa Heart Institute",
+      "title": "Executive Director - Chief Data Officer",
+      "location": "Ottawa, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010293942481",
+      "date_posted": "2026-10-13",
+      "description": "As Chief Data Officer, you will work closely with executive leaders, clinicians, researchers and technology partners to develop and implement an enterprise data…",
+      "salary": "$158k–$193k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
       "company": "Specialty Health Network Inc.",
       "title": "Director, Virtual Care Technology Applications",
       "location": "Toronto, Canada",
@@ -191,7 +217,7 @@
       "location": "Mississauga, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292905258",
       "date_posted": "2026-10-13",
-      "description": "Nous sommes leaders dans le domaine des médicaments dérivés du plasma et de la médecine transfusionnelle et nous développons, produisons et commercialisons des…",
+      "description": "Bachelor's degree required; Master's degree preferred (MBA or equivalent). Strong business acumen, analytical thinking, project leadership, and stakeholder…",
       "salary": "",
       "salary_source": "",
       "salary_currency": "CAD",
@@ -217,7 +243,7 @@
       "location": "Westmount, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291829756",
       "date_posted": "2026-10-11",
-      "description": "Co-construire avec le président une école native IA : intégrer l'IA aux cours, aux studios, à l'évaluation et au suivi des étudiants.",
+      "description": "Soutenir les programmes d'audio et de production musicale : configuration des studios, horaires d'utilisation, qualité technique des cours et des projets.",
       "salary": "$35k–$75k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
@@ -243,7 +269,7 @@
       "location": "Toronto, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010291706010",
       "date_posted": "2026-10-11",
-      "description": "La rémunération réelle est déterminée en fonction d'un large éventail de facteurs pertinents, notamment les considérations du marché, les besoins de…",
+      "description": "Enjoys solving the impossible - we often receive requests that require us to consider difficult questions and develop new processes.",
       "salary": "$125k–$160k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
@@ -264,5 +290,32 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "University of Ottawa Heart Institute",
+      "title": "Executive Director - Chief Data Officer",
+      "location": "Ottawa, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010293942481",
+      "date_posted": "2026-10-13",
+      "description": "As Chief Data Officer, you will work closely with executive leaders, clinicians, researchers and technology partners to develop and implement an enterprise data…",
+      "salary": "$158k–$193k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
