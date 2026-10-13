@@ -1,9 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-13 17:50 UTC*
+*Last updated: 2026-10-13 19:55 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-### [VP, Engagement Strategy](https://ca.indeed.com/viewjob?jk=4d67da1e639e2b97) — BGBx
-- 📍 **Location:** Mississauga, ON, CA
+### [Director of Finance](https://ca.indeed.com/viewjob?jk=c3f05762728867a9) — Kitchener Housing INc.
+- 📍 **Location:** Kitchener, ON, CA
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-12
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-10-13
