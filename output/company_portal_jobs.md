@@ -1,6 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-12 21:05 UTC*
+*Last updated: 2026-10-13 00:26 UTC*
 
-**0 new role(s)** since last run · 237 total in current portal openings
+**1 new role(s)** since last run · 238 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [VP of AI Engineering](https://builtintoronto.com/job/vp-ai-engineering/11624842) — Wonderly
+- 📍 **Location:** Toronto, Ontario, Canada
