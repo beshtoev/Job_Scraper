@@ -1,25 +1,18 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-13 19:54 UTC*
+*Last updated: 2026-10-13 23:10 UTC*
 
-**7 new role(s)** since last run · 235 total in current portal openings
+**4 new role(s)** since last run · 233 total in current portal openings
 
-### [Director of Digital](https://builtintoronto.com/job/director-digital/11653848) — ACAMS
+### [Associate Director, GRA - Market Risk Analytics](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Associate-Director--GRA---Market-Risk-Analytics_R-0000188248-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-10-13
+
+### [Director, Wealth Management Strategy](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Wealth-Management-Strategy_R-0000190257) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-10-13
+
+### [Head of Product, Questrade Experience Platform](https://builtintoronto.com/job/head-product-questrade-experience-platform/11667214) — Questrade Financial Group (QFG)
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, People and Culture Strategy](https://builtintoronto.com/job/director-people-and-culture-strategy/11653235) — Alcohol and Gaming Commission of Ontario (AGCO)
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Director, Canada Strategy](https://builtintoronto.com/job/director-canada-strategy/11645938) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Senior Director, Strategy & Growth - Cheese](https://builtintoronto.com/job/senior-director-strategy-growth-cheese/11642394) — Gay Lea Foods Co-operative Ltd.
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Sr Director, Operations Finance](https://builtintoronto.com/job/sr-director-operations-finance/11642402) — Gay Lea Foods Co-operative Ltd.
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Assistant Vice President, Information Security](https://builtintoronto.com/job/assistant-vice-president-information-security/11649832) — First National Financial LP
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Vice President, Business Finance](https://builtintoronto.com/job/vice-president-business-finance/11642326) — Gay Lea Foods Co-operative Ltd.
+### [Head of Product & Technology (Questbank)](https://builtintoronto.com/job/head-product-technology-questbank/11667174) — Questrade Financial Group (QFG)
 - 📍 **Location:** Toronto, Ontario, Canada
