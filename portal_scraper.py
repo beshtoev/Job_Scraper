@@ -335,6 +335,33 @@ def fetch_gem(entry: dict) -> list[dict]:
             for item in rows]
 
 
+def fetch_freshteam(entry: dict) -> list[dict]:
+    """Freshteam boards (<slug>.freshteam.com/jobs) serve every open job, with its full
+    description, at /hire/widgets/jobs.json. A job's location is its branch (office)
+    unless it is remote. Added 2026-10-14 for Stacktics."""
+    data = http_json(f"https://{entry['slug']}.freshteam.com/hire/widgets/jobs.json")
+    if not isinstance(data, dict) or not isinstance(data.get("jobs"), list):
+        raise SourceFailure("missing jobs array in widget feed")
+    branches = {b.get("id"): b for b in data.get("branches") or []}
+    roles = {r.get("id"): r.get("name", "") for r in data.get("job_roles") or []}
+    out = []
+    for item in data["jobs"]:
+        if item.get("deleted"):
+            continue
+        branch = branches.get(item.get("branch_id")) or {}
+        office = ", ".join(x for x in (branch.get("city"), branch.get("state"), branch.get("country_code")) if x)
+        remote = bool(item.get("remote"))
+        where = (item.get("preferred_remote_job_locations") or "").strip()
+        title = item.get("title", "")
+        out.append(posting(entry, title=title,
+                           url=item.get("url") or f"https://{entry['slug']}.freshteam.com/jobs/{item.get('unique_id', '')}",
+                           location=("Remote" + (f" ({where})" if where else "")) if remote else office,
+                           req_id=str(item.get("id", "")), date_posted=item.get("created_at") or "",
+                           description=strip_html(item.get("description", "")) if _title_relevant(title) else "",
+                           remote=remote, department=roles.get(item.get("job_role_id"), "")))
+    return out
+
+
 def _jsonld_nodes(value):
     if isinstance(value, list):
         for item in value:
@@ -383,6 +410,7 @@ FETCHERS = {
     "personio": fetch_personio,
     "workday": fetch_workday,
     "gem": fetch_gem,
+    "freshteam": fetch_freshteam,
 }
 
 
