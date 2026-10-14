@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-14 22:40 UTC",
+  "updated_at": "2026-10-14 22:53 UTC",
   "jobs": [
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Director, Wealth Management Strategy",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010295884118",
+      "date_posted": "2026-10-14",
+      "description": "Partner closely with senior leaders, strategists, functions and cross-functional project teams to drive strategic reviews of BU strategies, client segments and…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-14T22:53:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Associate Director, GRA - Market Risk Analytics",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010295884111",
+      "date_posted": "2026-10-14",
+      "description": "This includes working with the business and the broader risk teams to develop Value-at-Risk (VaR) models, which facilitates the bank’s effective risk management…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-14T22:53:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Vectaur",
+      "title": "CFO/VP Finance",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010295907194",
+      "date_posted": "2026-10-14",
+      "description": "Ensure facilities remain safe, functional, attractive, and supportive of teaching, learning, student engagement, and community use.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-14T22:53:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "Town of Vermilion",
+      "title": "Director of Infrastructure & Planning",
+      "location": "Vermilion, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010295775865",
+      "date_posted": "2026-10-14",
+      "description": "Build and maintain positive working relationships with residents, developers, business owners, contractors, government agencies, regional partners, and…",
+      "salary": "$132k–$142k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-14T22:53:49Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Vermilion",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Beacon Holdings",
       "title": "Strategic Finance Director",
@@ -32,7 +140,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010295799819"
+      ]
     },
     {
       "company": "Modular Solutions ltd",
@@ -65,7 +176,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010295833599"
+      ]
     },
     {
       "company": "Mastercard",
@@ -460,7 +574,8 @@
       "first_seen": "2026-10-14T18:15:43Z",
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-fraud-analytics-risk-management/11681808",
-        "https://ca.indeed.com/viewjob?jk=2be938f8946c0b3a"
+        "https://ca.indeed.com/viewjob?jk=2be938f8946c0b3a",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010295807122"
       ],
       "work_mode": "Hybrid",
       "work_mode_evidence": "description",
@@ -477,7 +592,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "job_type": "fulltime",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "salary": "$93k–$143k/yr"
     },
     {
       "company": "Hudson's Bay Company",
