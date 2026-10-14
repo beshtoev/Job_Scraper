@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-14 02:18 UTC",
+  "updated_at": "2026-10-14 02:26 UTC",
   "jobs": [
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Director ALM Analytics and Applied Research",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010294696203",
+      "date_posted": "2026-10-14",
+      "description": "Responsibilities include applied research relating to behavioural options in retail banking, risk and simulation model development, design input and output…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-14T02:26:28Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Bureau Veritas",
       "title": "Enterprise AI Architecture Director",
@@ -57,7 +84,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010294656196"
+      ]
     },
     {
       "company": "Solink",
@@ -84,7 +114,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010294611838"
+      ]
     },
     {
       "company": "Masco Canada",
