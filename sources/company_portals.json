@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 344,
-    "pollable": 213,
+    "companies": 345,
+    "pollable": 214,
     "unresolved": 131
   },
   "companies": [
@@ -4556,6 +4556,19 @@
       "ats": "greenhouse",
       "slug": "cleargov",
       "careers_url": "https://job-boards.greenhouse.io/cleargov",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Stacktics",
+      "archetype": "D",
+      "ats": "freshteam",
+      "slug": "stacktics",
+      "careers_url": "https://stacktics.freshteam.com/jobs",
       "source": "manual",
       "include": [],
       "exclude": [],
