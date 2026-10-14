@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 343,
-    "pollable": 212,
+    "companies": 344,
+    "pollable": 213,
     "unresolved": 131
   },
   "companies": [
@@ -4543,6 +4543,19 @@
       "ats": "workday",
       "slug": "",
       "careers_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "ClearGov",
+      "archetype": "A",
+      "ats": "greenhouse",
+      "slug": "cleargov",
+      "careers_url": "https://job-boards.greenhouse.io/cleargov",
       "source": "manual",
       "include": [],
       "exclude": [],
