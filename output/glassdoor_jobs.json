@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-14 05:34 UTC",
+  "scraped_at": "2026-10-14 08:42 UTC",
   "total": 23,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "National Bank of Canada",
@@ -217,7 +217,7 @@
       "location": "Toronto, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010294260732",
       "date_posted": "2026-10-14",
-      "description": "Community Engagement - no matter where you choose to work from; we offer opportunities for community engagement & belonging with our various programs such as…",
+      "description": "A degree in Engineering, Computer Science, or a related field and/or work experience. Lead with Vision: Provide technical leadership and governance across…",
       "salary": "",
       "salary_source": "",
       "salary_currency": "CAD",
@@ -243,7 +243,7 @@
       "location": "Toronto, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292103656",
       "date_posted": "2026-10-12",
-      "description": "/ L’expérience et les connaissances d’un candidat ainsi que la région géographique dans laquelle le poste est situé peuvent être prises en compte dans la…",
+      "description": "An undergraduate degree in Computer Science, Engineering, Information Technology, or a related field, or equivalent experience.",
       "salary": "$128k–$176k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
@@ -316,13 +316,13 @@
       "geo_version": 1
     },
     {
-      "company": "Aritzia",
-      "title": "Strategy & Insights - Director / Senior Director, Research & Insights",
+      "company": "Lululemon",
+      "title": "Senior Director, Raw Materials Innovation - Materials & Technology",
       "location": "Vancouver, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010294402487",
-      "date_posted": "2026-10-14",
-      "description": "Bachelor’s degree in marketing, business, strategy, or a related field; MBA or advanced degree preferred. Proven experience in market research, insights, or a…",
-      "salary": "$200k–$400k/yr",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292683621",
+      "date_posted": "2026-10-13",
+      "description": "Recruit, train, coach, and develop lab technicians, interns, specialists, and external experts who can support specialized machinery and trial development.",
+      "salary": "$226k–$296k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
@@ -342,13 +342,13 @@
       "geo_version": 1
     },
     {
-      "company": "Lululemon",
-      "title": "Senior Director, Raw Materials Innovation - Materials & Technology",
+      "company": "Aritzia",
+      "title": "Strategy & Insights - Director / Senior Director, Research & Insights",
       "location": "Vancouver, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010292683621",
-      "date_posted": "2026-10-13",
-      "description": "Recruit, train, coach, and develop lab technicians, interns, specialists, and external experts who can support specialized machinery and trial development.",
-      "salary": "$226k–$296k/yr",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010294402487",
+      "date_posted": "2026-10-14",
+      "description": "Bachelor’s degree in marketing, business, strategy, or a related field; MBA or advanced degree preferred. Proven experience in market research, insights, or a…",
+      "salary": "$200k–$400k/yr",
       "salary_source": "employer",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
@@ -602,32 +602,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Backstretch",
-      "title": "Director of Finance",
-      "location": "Vancouver, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010294157499",
-      "date_posted": "2026-10-14",
-      "description": "Bachelor’s degree in Finance, Accounting, Business Administration, or a related field. Establish clear goals, performance expectations, and professional…",
-      "salary": "$120k–$170k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "Vancouver",
-      "geo_province": "BC",
-      "geo_lat": 49.2827,
-      "geo_lon": -123.1207,
-      "geo_distance_km": 3355.3,
-      "geo_rank": 433553,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
