@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-14 19:33 UTC",
+  "updated_at": "2026-10-14 20:40 UTC",
   "jobs": [
+    {
+      "company": "UNFI",
+      "title": "Director Commercial Pricing and Data Governance",
+      "location": "Concord, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=f87e4f163d60d06c",
+      "direct_url": "https://jobs.unfi.com/job/15853/director-commercial-pricing-and-data-governance-finance-ca-on-concord/",
+      "company_url": "https://ca.indeed.com/cmp/Unfi-2ef5913e",
+      "date_posted": "2026-10-14",
+      "description": "Purpose:\n\n\nAs the Director of Commercial Pricing and Data Governance at UNFI, you are responsible for developing and executing the company's enterprise\\-wide pricing strategy while leading the Data Governance function. Your role is critical in driving commercial excellence, ensuring data integrity, and enabling informed business decisions across the organization.\n\n\n\nIn the area of pricing, your scope includes building and leading a centralized pricing department that will define, govern, and continuously improve UNFI Canada’s brand and customer pricing strategy. This role will move the organization toward a more disciplined pricing model, shifting pricing ownership away from Sales over time so that Sales can remain focused on customer relationships, execution of brand strategies, and commercial growth. You will immediately assume leadership of pricing activities currently managed within SRM and RGM, while developing the structure, tools, processes, resource requirements, governance model, and transition plan required to bring Sales pricing responsibilities into the pricing organization in the medium term. You will establish clear decision\\-making protocols, pricing guardrails, escalation processes, analytical capabilities, and best practices to support consistent, data\\-driven pricing decisions that improve margin performance, strengthen customer and supplier strategies, and deliver both immediate and long\\-term revenue value.\n\n\n\nIn the area of Data Governance, you will lead the Retalix Pricing, Retalix Maintenance, and MCB teams. You are accountable for ensuring data quality, governance, and integrity across Supplier Services, including pricing updates, GS1 data management, new brand onboarding information, and system master data maintenance. Your leadership will ensure that core data processes are effectively managed and aligned with business and operational requirements.\n\n\n\nBy partnering closely with cross\\-functional teams and senior leaders, you will enable the successful execution of UNFI's strategic priorities through the effective use of data and analytics. You will foster a culture of accountability, agility, and data\\-driven decision\\-making while ensuring alignment with UNFI's vision and objectives. Ultimately, your role is to drive sustainable revenue growth, improve profitability, and maximize the value of data as a strategic asset across the organization.\n\n\n\nJob Responsibilities:\n\n\n\nLead Pricing Strategy (50%)\n\n\n* Develop the brand and customer pricing strategy for UNFI Canada\n* Review and optimize our current pricing tools and governance\n* Immediately take on SRM/RGM pricing and bring forward the recommendation (inclusive of tools and resources) to take pricing on from the sales team\n* Establish and enforce guardrails, policies, and pricing strategies to ensure adherence to revenue targets, margin optimization, and overall revenue growth.\n* Serve as a subject matter expert and provide deep understanding of customer economics, supplier dynamics, and market sensitivities to enable win\\-win pricing and solution proposals.\n* Collaborate with cross\\-functional teams, including Sales, Supplier Services, Marketing, Operations, Supply Chain, Legal, Finance, and IT, to address executional barriers, develop innovative pricing solutions, and align strategies with organizational objectives and initiatives.\n* Collect and communicate IT business requirements and play key role in deployment of technical and system enhancements to ensure minimal risk to internal and external customers\n\n\nData Governance (30%)\n\n\n* Drive the implementation of data governance practices and ensure effective utilization of data analytics for prescriptive insights across all teams, supporting data\\-driven decision\\-making processes\n* Conduct continuous reviews of revenue strategies, team processes, and systems to identify areas for improvement, scalability, and efficiency gains.\n* Drive pricing research projects, evaluate competitive pricing strategies, and analyze market impacts to provide actionable recommendations for business growth and revenue optimization.\n* Lead the data team that is responsible for Retalix Maintenance, Retalix pricing, MCB and GS1 inputs\n* Develop plans for the department that optimize, simplify and automate daily pricing routines.\n* Automate and simplify our MCB processes\n* Lead out Debit balance meeting and process\n\n\nLeadership and Coaching (20%)\n\n\n* Conduct continuous reviews of revenue strategies, team processes, and systems to identify areas for improvement, scalability, and efficiency gains.\n* Drive pricing research projects, evaluate competitive pricing strategies, and analyze market impacts to provide actionable recommendations for business growth and revenue optimization.\n* Lead the development of pricing tools and materials for use in different department inclusive of training\n* Partner with sales leadership to ensure RGM principles are applied in annual planning process\n* Performs other duties and projects as assigned\n* Leads and supports teams’ daily activities in review growth strategy execution\n\n\nJob Requirements:\n\n\n\nEducation:\n\n\n* Bachelor’s degree in finance, marketing, business, or equivalent experience.\n\n\n\nExperience:\n\n\n* 12\\+ years’ experience, preferably with background in financial and analytical customer/client facing roles\n* Financial modeling experience\n* Customer\\-facing experience\n* Experience with SQL; Power BI preferred\n\n\nKnowledge/Skills/ Abilities:\n\n\n* Excellent organizational and relationship skills\n* Managing complexity\n* Strong work ethic with positive, proactive, and flexible attitude\n* Must be self\\-driven and very motivated.\n* Ability to work under pressure and time constraints as well as handling several tasks simultaneously required.\n* Manage a team; Supervise and provide guidance to all direct reports including approving staffing, budgets, and work performed.\n* Strong Strategic Planning, Financial and Operations / Business Background. Not purely fin",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-10-14T20:40:01Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
+      "geo_city": "Concord",
+      "geo_province": "ON",
+      "geo_lat": 43.8,
+      "geo_lon": -79.48,
+      "geo_distance_km": 12.3,
+      "geo_rank": 300123,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Confidential",
       "title": "Head of AI",
@@ -313,8 +346,11 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=337ee7260f186fd9",
         "https://www.glassdoor.ca/job-listing/j?jl=1010295718620"
-      ]
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "BMO Financial Group",
