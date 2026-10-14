@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-14 18:16 UTC",
+  "updated_at": "2026-10-14 18:30 UTC",
   "jobs": [
+    {
+      "company": "National Bank of Canada",
+      "title": "Regional Vice-President - Equipment Finance, Western Canada",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010294548455",
+      "date_posted": "2026-10-14",
+      "description": "Bachelor's degree in business, finance, commerce or a related field, or equivalent combination of education and senior leadership experience.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-14T18:30:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Time Doctor",
+      "title": "Director of AI Content Systems, Marketing",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010295616285",
+      "date_posted": "2026-10-14",
+      "description": "You'll build and manage: content development, technical SEO/GEO implementation, and visual design. You won't write most of our content, you'll design, build,…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-14T18:30:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "National Bank of Canada",
       "title": "Vice President, Fund Finance, Global Credit Markets",
@@ -32,7 +86,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010295621831"
+      ]
     },
     {
       "company": "BMO",
@@ -83,7 +140,8 @@
       "first_seen": "2026-10-14T18:15:43Z",
       "duplicate_urls": [
         "https://builtintoronto.com/job/senior-director-chapter-lead-insurance-analytics/11680206",
-        "https://ca.indeed.com/viewjob?jk=30b12023812df288"
+        "https://ca.indeed.com/viewjob?jk=30b12023812df288",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010295629606"
       ],
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
