@@ -163,12 +163,38 @@ def load_state(path: Path | None = None) -> dict:
 
 
 def is_due(source_cfg: dict, source_state: dict, now: datetime, retry_minutes: int = 5) -> bool:
-    """Start-to-start cadence; a failed attempt is retried sooner than a normal one."""
+    """Start-to-start cadence; a failed attempt is retried sooner than a normal one, except
+    while a rate-limit cooldown is running (see RATE_LIMIT_BACKOFF_MINUTES)."""
+    cooldown = parse_iso(source_state.get("cooldown_until"))
+    if cooldown is not None and now < cooldown:
+        return False
     last = parse_iso(source_state.get("last_attempt"))
     if last is None:
         return True
     wait = retry_minutes if source_state.get("last_ok") is False else source_cfg["every_minutes"]
     return now - last >= timedelta(minutes=wait)
+
+
+# Rate limiting, 2026-10-13: LinkedIn began refusing this connection (HTTP 429) at 22:25 and
+# the runner retried every 5 minutes, each attempt a 45-minute timeout with a wider catch-up
+# window, so the block never got a chance to lift (0 successes in 31 hours). A refused run now
+# starts a cooldown that doubles on each consecutive refusal and clears on the first success.
+RATE_LIMIT_BACKOFF_MINUTES = (60, 120, 240, 360)
+RATE_LIMIT_MARKERS = ("Rate-limited (429)", "HTTP 429", "(likely blocked)")
+
+
+class RateLimited(RuntimeError):
+    """The source refused us (429s, or the timeout they cause); back off instead of retrying."""
+
+
+def rate_limit_cooldown(streak: int) -> timedelta:
+    """Cooldown after the ``streak``-th consecutive refused run (1-based)."""
+    steps = RATE_LIMIT_BACKOFF_MINUTES
+    return timedelta(minutes=steps[min(max(streak, 1), len(steps)) - 1])
+
+
+def looks_rate_limited(rc: int, lines: list[str]) -> bool:
+    return any(m in ln for ln in lines for m in RATE_LIMIT_MARKERS) and rc != 0
 
 
 # --------------------------------------------------------------------------- #
@@ -408,6 +434,8 @@ def run_source(name: str, cfg: dict, state: dict, now: datetime, dry_run: bool =
     if rc != 0:
         for ln in lines[-12:]:
             log(f"  | {ln}")
+        if looks_rate_limited(rc, lines):
+            raise RateLimited(f"{name} scraper exited with code {rc} after being rate-limited")
         raise RuntimeError(f"{name} scraper exited with code {rc}")
     mark_success(REPO_DIR, name, now)
 
@@ -512,7 +540,15 @@ def cmd_tick(args) -> int:
             try:
                 result = run_source(name, cfg, state, utcnow(), dry_run=getattr(args, "dry_run", False))
                 entry.update(last_ok=True, last_success=iso(utcnow()), last_message=json.dumps(result))
+                entry.pop("cooldown_until", None)
+                entry.pop("rate_limited_streak", None)
                 log(f"{name}: done ({result['total']} in window, {result['new']} new)")
+            except RateLimited as exc:
+                streak = int(entry.get("rate_limited_streak") or 0) + 1
+                until = utcnow() + rate_limit_cooldown(streak)
+                entry.update(last_ok=False, rate_limited_streak=streak, cooldown_until=iso(until),
+                             last_message=f"RateLimited: {exc}"[:300])
+                log(f"{name}: RATE-LIMITED ({streak} in a row) - backing off until {iso(until)}")
             except Exception as exc:  # never let one source stop the others or the job itself
                 entry.update(last_ok=False, last_message=f"{type(exc).__name__}: {exc}"[:300])
                 log(f"{name}: FAILED - {exc}")
@@ -535,6 +571,8 @@ def cmd_status(_args) -> int:
         last = parse_iso(entry.get("last_attempt"))
         ago = f"{int((now - last).total_seconds() // 60)} min ago" if last else "never"
         due = "due now" if is_due(spec, entry, now, cfg["retry_minutes"]) else "waiting"
+        if entry.get("cooldown_until") and parse_iso(entry["cooldown_until"]) > now:
+            due = f"rate-limit cooldown until {entry['cooldown_until']}"
         ok = {True: "ok", False: "FAILED", None: "-"}[entry.get("last_ok")]
         print(f"\n{name}: every {spec['every_minutes']} min | last attempt {ago} ({ok}) | {due}")
         if entry.get("last_message"):

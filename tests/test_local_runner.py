@@ -39,6 +39,24 @@ def test_a_failed_attempt_is_retried_sooner_than_a_normal_cadence():
     assert runner.is_due(LINKEDIN, failed(6), NOW, retry_minutes=5)
 
 
+def test_a_rate_limit_cooldown_holds_off_retries_until_it_ends():
+    cooling = {"last_attempt": runner.iso(NOW - timedelta(minutes=30)), "last_ok": False,
+               "cooldown_until": runner.iso(NOW + timedelta(minutes=30))}
+    assert not runner.is_due(LINKEDIN, cooling, NOW, retry_minutes=5)
+    assert runner.is_due(LINKEDIN, cooling, NOW + timedelta(minutes=31), retry_minutes=5)
+
+
+def test_the_cooldown_doubles_per_consecutive_refusal_and_is_capped():
+    assert [runner.rate_limit_cooldown(n) for n in (1, 2, 3, 4, 9)] == [
+        timedelta(minutes=m) for m in (60, 120, 240, 360, 360)]
+
+
+def test_only_a_failed_run_with_rate_limit_signs_counts_as_rate_limited():
+    assert runner.looks_rate_limited(124, ["  ⏳ Rate-limited (429) on attempt 2/5", "timed out after 45 min"])
+    assert not runner.looks_rate_limited(124, ["timed out after 45 min"])
+    assert not runner.looks_rate_limited(0, ["  ⏳ Rate-limited (429) on attempt 1/5"])
+
+
 def test_user_config_overrides_defaults_without_dropping_other_sources(tmp_path):
     cfg_file = tmp_path / "config.json"
     cfg_file.write_text(json.dumps({"sources": {"linkedin": {"every_minutes": 15}}, "dashboard_dir": "/x"}))
@@ -322,6 +340,16 @@ def test_a_failing_scraper_is_reported_and_publishes_nothing(stubbed):
     assert remote_json(remote, tmp_path, "output/all_jobs.json")["jobs"] == []
 
 
+def test_a_rate_limited_scraper_raises_rate_limited(stubbed):
+    remote, cfg, dash, tmp_path = stubbed
+    seed = tmp_path / "seed"
+    (seed / "scrape_jobs.py").write_text("import sys; print('  ⏳ Rate-limited (429) on attempt 1/5'); sys.exit(1)")
+    sh("git", "commit", "-qam", "429", cwd=seed)
+    sh("git", "push", "-q", "origin", "HEAD:main", cwd=seed)
+    with pytest.raises(runner.RateLimited):
+        runner.run_source("linkedin", cfg, {"sources": {}}, NOW)
+
+
 # --------------------------------------------------------------------------- tick
 
 @pytest.fixture
@@ -342,6 +370,32 @@ def test_one_failing_source_does_not_stop_the_others_and_is_retried_soon(home, m
     state = runner.load_state(runner.STATE_PATH)["sources"]
     assert state["linkedin"]["last_ok"] is False and "blocked" in state["linkedin"]["last_message"]
     assert state["glassdoor"]["last_ok"] is True
+
+
+def test_a_rate_limited_source_backs_off_doubling_and_clears_on_success(home, monkeypatch):
+    clock = {"now": NOW}
+    outcome = {"linkedin": "limited"}
+    def fake_run(name, cfg, state, now, dry_run=False):
+        if name == "linkedin" and outcome["linkedin"] == "limited":
+            raise runner.RateLimited("429s")
+        return {"total": 1, "new": 0}
+    monkeypatch.setattr(runner, "run_source", fake_run)
+    monkeypatch.setattr(runner, "utcnow", lambda: clock["now"])
+    assert runner.main(["tick"]) == 0
+    li = runner.load_state(runner.STATE_PATH)["sources"]["linkedin"]
+    assert li["rate_limited_streak"] == 1 and li["cooldown_until"] == runner.iso(NOW + timedelta(minutes=60))
+    clock["now"] = NOW + timedelta(minutes=30)          # still cooling down: not retried
+    runner.main(["tick"])
+    assert runner.load_state(runner.STATE_PATH)["sources"]["linkedin"]["rate_limited_streak"] == 1
+    clock["now"] = NOW + timedelta(minutes=61)          # retried, refused again: 2h now
+    runner.main(["tick"])
+    li = runner.load_state(runner.STATE_PATH)["sources"]["linkedin"]
+    assert li["rate_limited_streak"] == 2 and li["cooldown_until"] == runner.iso(clock["now"] + timedelta(minutes=120))
+    outcome["linkedin"] = "ok"
+    clock["now"] += timedelta(minutes=121)
+    runner.main(["tick"])
+    li = runner.load_state(runner.STATE_PATH)["sources"]["linkedin"]
+    assert li["last_ok"] is True and "cooldown_until" not in li and "rate_limited_streak" not in li
 
 
 def test_sources_that_are_not_due_are_left_alone(home, monkeypatch):
