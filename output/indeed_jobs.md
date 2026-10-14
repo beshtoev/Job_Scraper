@@ -1,16 +1,28 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-14 20:40 UTC*
+*Last updated: 2026-10-14 22:40 UTC*
 
-**2 new role(s)** since last run · 11 total in last 24h
+**4 new role(s)** since last run · 12 total in last 24h
 
-### [VP, Digital](https://ca.indeed.com/viewjob?jk=337ee7260f186fd9) — Canadian Tire Corporation, Ltd.
+### [Director, Fraud Analytics & Risk Management](https://ca.indeed.com/viewjob?jk=2be938f8946c0b3a) — Manulife
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
 
-### [Director Commercial Pricing and Data Governance](https://ca.indeed.com/viewjob?jk=f87e4f163d60d06c) — UNFI
-- 📍 **Location:** Concord, ON, CA
+### [Strategic Finance Director](https://ca.indeed.com/viewjob?jk=9aef0e6941a72b9b) — Beacon Holdings
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Wealth Management Strategy](https://ca.indeed.com/viewjob?jk=d5a0a676205be902) — RBC
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-14
+
+### [Director of Data and Analytics](https://ca.indeed.com/viewjob?jk=add371c647abdebb) — Modular Solutions ltd
+- 📍 **Location:** Calgary, AB, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
