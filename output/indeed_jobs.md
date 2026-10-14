@@ -1,22 +1,21 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-14 16:04 UTC*
+*Last updated: 2026-10-14 18:17 UTC*
 
-**3 new role(s)** since last run · 8 total in last 24h
+**3 new role(s)** since last run · 11 total in last 24h
 
-### [Director, Group Benefits Data Services](https://ca.indeed.com/viewjob?jk=c9b5d82aa6bbac44) — Manulife
+### [Senior Director, Chapter Lead, Insurance Analytics](https://ca.indeed.com/viewjob?jk=30b12023812df288) — CIBC
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-14
+
+### [Vice President, AI Strategy & Product Management](https://ca.indeed.com/viewjob?jk=a469d1f3d72bcca7) — BMO Financial Group
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-13
+- 🕒 **Posted:** 2026-10-14
 
-### [Director, Canada Strategy](https://ca.indeed.com/viewjob?jk=2a43459d08332bab) — Manulife
+### [Vice President, Fund Finance, Global Credit Markets](https://ca.indeed.com/viewjob?jk=5bef1bab73313883) — National Bank of Canada
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-12
-
-### [Director of Financial Services](https://ca.indeed.com/viewjob?jk=75b7822fee437659) — Sunbeam Community & Developmental Services
-- 📍 **Location:** Kitchener, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
