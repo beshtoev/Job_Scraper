@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 18:36 UTC",
+  "updated_at": "2026-10-15 19:03 UTC",
   "jobs": [
     {
       "company": "Mastercard",
@@ -107,24 +107,28 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-15T18:14:02Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/director-chapter-lead-media-analytics/11701874",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-chapter-lead-media-analytics/11701874"
-      ]
+        "https://builtintoronto.com/job/director-chapter-lead-media-analytics/11701874",
+        "https://ca.indeed.com/viewjob?jk=fdb0a9dcae56285d"
+      ],
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "CIBC",
