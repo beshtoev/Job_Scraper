@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 347,
-    "pollable": 216,
+    "companies": 348,
+    "pollable": 217,
     "unresolved": 131
   },
   "companies": [
@@ -4595,6 +4595,19 @@
       "ats": "opencats",
       "slug": "",
       "careers_url": "https://vectaur.com/ats/careers/index.php?m=careers&p=showAll",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Honeycomb",
+      "archetype": "D",
+      "ats": "greenhouse",
+      "slug": "honeycomb",
+      "careers_url": "https://job-boards.greenhouse.io/honeycomb",
       "source": "manual",
       "include": [],
       "exclude": [],
