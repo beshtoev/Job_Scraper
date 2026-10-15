@@ -1,24 +1,17 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-14 21:17 UTC*
+*Last updated: 2026-10-15 00:19 UTC*
 
-**5 new role(s)** since last run · 232 total in current portal openings
+**4 new role(s)** since last run · 234 total in current portal openings
 
-### [Director, Data Engineering](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Director--Data-Engineering_R-293539) — Mastercard
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, Delivery CX AI](https://jobs.ashbyhq.com/telus-digital/a948ceb0-7565-4b68-b866-5f9841b42276) — TELUS Digital
+### [Vice-President, Brand, Client Experience and Insights](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Vice-President--Brand--Client-Experience-and-Insights_2621117) — CIBC
 - 📍 **Location:** Toronto, ON
-- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-14
 
-### [VP, Financial Planning & Analysis](https://job-boards.greenhouse.io/cleargov/jobs/4401863009) — ClearGov
-- 📍 **Location:** Canada, Remote; United States, Remote
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-14
-
-### [Issuer Services Technology Senior Developer - Vice President](https://builtintoronto.com/job/issuer-services-technology-senior-developer-vice-president/11685867) — Citi
+### [Senior Director of Design, Enterprise](https://builtintoronto.com/job/senior-director-design-enterprise/11689617) — Toast
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [VP, Head of Policy & Data Operations (remote)](https://builtintoronto.com/job/vp-head-policy-data-operations-remote/9480962) — Broadridge
+### [Director, Analytics & Insights](https://builtintoronto.com/job/director-analytics-insights/11379960) — Securian Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Vice-President, Brand, Client Experience and Insights](https://builtintoronto.com/job/vice-president-brand-client-experience-and-insights/11689292) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
