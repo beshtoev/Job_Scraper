@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-15 12:34 UTC",
+  "updated_at": "2026-10-15 12:48 UTC",
   "jobs": [
+    {
+      "company": "Toronto Metropolitan University",
+      "title": "Finance Director",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010296595385",
+      "date_posted": "2026-10-15",
+      "description": "Completion of a university degree program in finance, accounting, business or public administration, or a relevant field.",
+      "salary": "$98k–$127k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-15T12:48:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "PwC Canada",
       "title": "Valuations Financial Instruments, Director",
@@ -43270,5 +43297,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 1495
 }
