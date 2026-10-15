@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-15 01:25 UTC",
+  "updated_at": "2026-10-15 01:33 UTC",
   "jobs": [
+    {
+      "company": "Long View Systems",
+      "title": "Director, Information Technology",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010295968137",
+      "date_posted": "2026-10-15",
+      "description": "Support compliance with Long View’s security program, including ISO, SOC, and PCI requirements; ensure audit readiness within corporate IT scope.",
+      "salary": "$141k–$185k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-15T01:33:40Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "WSP",
+      "title": "Director, Project Governance",
+      "location": "British Columbia, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010295985822",
+      "date_posted": "2026-10-15",
+      "description": "Professional certification or designation such as PMP, PgMP, PRINCE2 Practitioner or equivalent project governance, risk, or program management credentials…",
+      "salary": "$160k–$234k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-15T01:33:40Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "",
+      "geo_province": "BC",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 499999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only province BC stated",
+      "geo_version": 1
+    },
     {
       "company": "Vectaur",
       "title": "CFO/VP Finance",
@@ -43,7 +97,7 @@
       "company_url": "https://ca.indeed.com/cmp/Telus-3",
       "date_posted": "2026-10-14",
       "description": "**Director, CX AI Delivery**\n============================\n\n**Who We Are**\n--------------\n\n\nWelcome to TELUS Digital — where innovation drives impact at a global scale. As an award\\-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting\\-edge technology, agile thinking, and a people\\-first culture\n\n\nWith a global team across North America, South America, Central America, Europe, Africa, and APAC, we offer end\\-to\\-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data \\& AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA \\& Test Engineering.\n\n\nFrom mobile apps and websites to voice UI, chatbots, AI, customer service, and in\\-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi\\-billion\\-dollar parent company.\n\n**Location \\& Flexibility**\n---------------------------\n\n\nThis role will operate remotely in the **United States** or **Canada** OR be based out of one of our major North American office locations \\- Charlottesville, VA, Durham, NC, Columbus, OH, Boston, MA, Toronto, ON, or Vancouver, BC.\n\n\nThis role may involve travel of up to 25% to contact center and client locations.\n\n**The Opportunity**\n-------------------\n\n\nWe are seeking a **Director, CX AI Delivery**: a consultant and delivery expert who can turn complex contact center and AI programs into predictable, measurable outcomes. You will lead delivery across our CX AI portfolio, spanning Contact Center as a Service (CCaaS) platforms, conversational and agentic AI, agent assist, and CX intelligence, and serve as a trusted advisor to client executives. You will manage a portfolio of client engagements (generally \\~$15–20M in revenue), directly lead delivery, product, and engineering leaders, and step in to stabilize and recover programs when needed.\n\n\nThis is a delivery\\-first leadership role with an AI lens. You will bring the rigor of a seasoned delivery executive together with a working command of how AI is changing CX: from AI\\-driven routing and virtual agents to copilots, knowledge, and agentic automation. You will help clients adopt these capabilities responsibly, at scale, and in iterative releases that get value into production quickly. You will also help evaluate vendor and partner solutions and decide how and when new tools enter the ecosystem.\n\n\nThis position reports to the Managing Director, CX AI Delivery and typically manages 8–12 direct reports, including senior managers, managers, and principal\\-level delivery and technical leaders. It is primarily evaluated on delivery success, client and team feedback, forecast accuracy, portfolio profitability, and growth of key accounts. This is an opportunistically billable position.\n\n**Responsibilities**\n--------------------\n\n### **Strategic Account Governance \\& Growth**\n\n* **Be the executive partner.** Act as the primary escalation point and strategic advisor for client executives, ensuring TELUS Digital is viewed as a “Doctor” (consultative partner), not a “Waiter” (order taker).\n* **Run portfolio health.** Drive the commercial success of a \\~$15–20M portfolio, leading Quarterly Business Reviews that connect delivery progress to the client’s long\\-term CX and business goals.\n* **Grow organically.** Identify expansion opportunities in existing accounts by understanding client pain points and bringing a relevant point of view on CX and AI. Support renewals, upsell, and expansion in partnership with strategic sales and customer success teams.\n* **Extend into managed services and advisory** as the practice matures: shape Day 2 support models, operational readiness, and advisory engagements that keep clients engaged after go\\-live.\n\n### **Delivery Excellence \\& Risk Mitigation**\n\n* **Lead a global, multidisciplinary team** across multiple concurrent workstreams, ensuring product, engineering, and delivery leaders operate as a cohesive unit to deliver measurable outcomes.\n* **Manage risk proactively.** Identify “red” and “yellow” programs early; step into recovery situations to provide clarity, reset expectations, and stabilize teams and client relationships.\n* **Push for iterative delivery.** Favor smaller releases and faster cycles over big\\-bang launches, especially for AI capabilities where learning in production is essential.\n* **Optimize delivery models,** balancing onshore/offshore teams, automation, and repeatable assets to improve margins and scalability.\n* **Manage vendor and partner ecosystems.** Work with CCaaS and AI platform partners (e.g., Genesys, Google, AWS, Zendesk, Five9, ElevenLabs, Cresta, Parloa) to deliver joint solutions as well as surrounding services in the client ecosystem.\n* **Partner on pre\\-sales**. Support the commercial team to shape innovative solutions and lead scoping, estimation, and handoffs into delivery so engagements start with clear requirements and goals.\n\n### **Leadership \\& Talent Development**\n\n* **Coach and mentor** delivery, product, and engineering leaders on leading their own teams and navigating complex client dynamics.\n* **Build a high\\-performance culture** with regular 1:1s and performance reviews grounded in radical candor and growth, delivering feedback upward, across, and down with grace and clarity.\n* **Raise the bar on talent.** Participate in senior\\-level hiring, contribute to the Delivery Playbook, and build career paths and skill development (including AI and platform certification pipelines).\n\n### **Operational \\& Financial Stewardship**\n\n* **Own portfolio financials:** gross margin, utilization, and effective billable rates.\n* **Forecast accurately.** Maintain precise revenue and resource forecasts so the business can plan h",
-      "salary": "",
+      "salary": "$150k–$190k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -65,7 +119,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010295979771"
+      ]
     },
     {
       "company": "Toast",
@@ -491,8 +548,10 @@
       "geo_version": 1,
       "job_type": "fulltime",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=b80a4b8187d5e108"
-      ]
+        "https://ca.indeed.com/viewjob?jk=b80a4b8187d5e108",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010295979774"
+      ],
+      "salary": "$150k–$190k/yr"
     },
     {
       "company": "ClearGov",

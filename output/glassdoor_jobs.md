@@ -1,25 +1,24 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-14 23:57 UTC*
+*Last updated: 2026-10-15 01:33 UTC*
 
-**5 new role(s)** since last run · 41 total in last 24h
+**4 new role(s)** since last run · 43 total in last 24h
 
-### [Vice President, Data and AI Foundations](https://www.glassdoor.ca/job-listing/j?jl=1010295927186) — SE Health
-- 📍 **Location:** Markham, Canada
-- 🕒 **Posted:** 2026-10-14
+### [Director, Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010295968137) — Long View Systems
+- 📍 **Location:** Calgary, Canada
+- 💰 **Salary:** $141k–$185k/yr
+- 🕒 **Posted:** 2026-10-15
 
-### [Vice-President, Brand, Client Experience and Insights](https://www.glassdoor.ca/job-listing/j?jl=1010295933710) — CIBC
+### [Director, Delivery CX AI](https://www.glassdoor.ca/job-listing/j?jl=1010295979774) — TELUS Digital
 - 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-14
+- 💰 **Salary:** $150k–$190k/yr
+- 🕒 **Posted:** 2026-10-15
 
-### [Regional Sales Director Equipment Finance](https://www.glassdoor.ca/job-listing/j?jl=1010295927848) — National Bank of Canada
-- 📍 **Location:** Montreal, Canada
-- 🕒 **Posted:** 2026-10-14
+### [Director, Project Governance](https://www.glassdoor.ca/job-listing/j?jl=1010295985822) — WSP
+- 📍 **Location:** British Columbia, Canada
+- 💰 **Salary:** $160k–$234k/yr
+- 🕒 **Posted:** 2026-10-15
 
-### [Director, Legal Counsel, Data & Privacy](https://www.glassdoor.ca/job-listing/j?jl=1010295935301) — Loblaw Companies Limited
-- 📍 **Location:** Brampton, Canada
-- 💰 **Salary:** $170k–$220k/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Center Director [#4997]](https://www.glassdoor.ca/job-listing/j?jl=1010295930311) — Alteo
-- 📍 **Location:** Victoriaville, Canada
-- 🕒 **Posted:** 2026-10-14
+### [Director, Delivery CX AI](https://www.glassdoor.ca/job-listing/j?jl=1010295979771) — TELUS Digital
+- 📍 **Location:** Calgary, Canada
+- 💰 **Salary:** $150k–$190k/yr
+- 🕒 **Posted:** 2026-10-15
