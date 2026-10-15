@@ -1,12 +1,19 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-15 13:52 UTC*
+*Last updated: 2026-10-15 15:07 UTC*
 
-**2 new role(s)** since last run · 49 total in last 24h
+**3 new role(s)** since last run · 50 total in last 24h
 
-### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010294077694) — ECL Group of Companies
-- 📍 **Location:** Edmonton, Canada
-- 🕒 **Posted:** 2026-10-14
+### [Director Financial Reporting (Mat Leave Coverage)](https://www.glassdoor.ca/job-listing/j?jl=1010296713179) — Varicent
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $138k–$181k/yr
+- 🕒 **Posted:** 2026-10-15
 
-### [Finance Director](https://www.glassdoor.ca/job-listing/j?jl=1010294144184) — Aim Land Services Ltd
-- 📍 **Location:** Calgary, Canada
-- 🕒 **Posted:** 2026-10-14
+### [Director - Financial Reporting & Controllership](https://www.glassdoor.ca/job-listing/j?jl=1010296687221) — The Mason Group - Strategic Search Partners
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $165k–$180k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, OCX Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010296691499) — Syneos Health Commercial Solutions
+- 📍 **Location:** Remote, Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-15
