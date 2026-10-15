@@ -433,6 +433,38 @@ def fetch_jazzhr(entry: dict) -> list[dict]:
             for r in rows]
 
 
+_OPENCATS_ROW = re.compile(r'(?is)<tr[^>]*>\s*<td>\s*<a href="([^"]*p=showJob[^"]*)"[^>]*>(.*?)</a>\s*</td>\s*<td>(.*?)</td>')
+
+
+def fetch_opencats(entry: dict) -> list[dict]:
+    """OpenCATS, the self-hosted open-source ATS (.../careers/index.php?m=careers&p=showAll):
+    a plain table of title links and locations; each job page states the description inline
+    after "Description:". Added 2026-10-14 for Vectaur (a recruiting agency)."""
+    url = entry.get("careers_url", "")
+    base = url.split("index.php")[0] if "index.php" in url else url.rstrip("/") + "/"
+    page = http_text(base + "index.php?m=careers&p=showAll")
+    out = []
+    for href, title, loc in _OPENCATS_ROW.findall(page):
+        title = strip_html(title)
+        if not title or title.lower().startswith("upload resume"):
+            continue
+        job_url = base + html.unescape(href).lstrip("/")
+        rid = re.search(r"ID=(\d+)", job_url)
+        description = ""
+        if _title_relevant(title):
+            try:
+                text = strip_html(http_text(job_url))
+                i = text.find("Description:")
+                description = text[i + len("Description:"):].strip() if i >= 0 else text
+            except SourceFailure:
+                pass
+        out.append(posting(entry, title=title, url=job_url, location=strip_html(loc),
+                           req_id=rid.group(1) if rid else "", description=description))
+    if not out and "showJob" not in page:
+        raise SourceFailure("no job table on the OpenCATS careers page")
+    return out
+
+
 def _jsonld_nodes(value):
     if isinstance(value, list):
         for item in value:
@@ -483,6 +515,7 @@ FETCHERS = {
     "gem": fetch_gem,
     "freshteam": fetch_freshteam,
     "jazzhr": fetch_jazzhr,
+    "opencats": fetch_opencats,
 }
 
 
