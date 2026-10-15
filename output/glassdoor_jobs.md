@@ -1,23 +1,26 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-15 18:14 UTC*
+*Last updated: 2026-10-15 19:17 UTC*
 
-**4 new role(s)** since last run · 50 total in last 24h
+**5 new role(s)** since last run · 51 total in last 24h
 
-### [Director, Chapter Lead, Media Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010296860189) — CIBC
+### [Vice President - Finance](https://www.glassdoor.ca/job-listing/j?jl=1010296921876) — Wabi Iron & Steel Corp.
+- 📍 **Location:** New Liskeard, Canada
+- 💰 **Salary:** $120k–$170k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Web & Digital Marketing Director](https://www.glassdoor.ca/job-listing/j?jl=1010296944861) — Conexiom
+- 📍 **Location:** Vancouver, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Director - Financial Reporting & Controllership](https://www.glassdoor.ca/job-listing/j?jl=1010296687221) — The Mason Group - Strategic Search Partners
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $165k–$180k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, AI Business Solutions, International Wealth Management](https://www.glassdoor.ca/job-listing/j?jl=1010296960550) — Scotiabank
 - 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-10-15
 
-### [Director, Delivery CX AI](https://www.glassdoor.ca/job-listing/j?jl=1010295979771) — TELUS Digital
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $150k–$190k/yr
+### [Managing Director, Strategy & Transformation, Global Wealth Solutions](https://www.glassdoor.ca/job-listing/j?jl=1010296960559) — Scotiabank
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-10-15
-
-### [CFO/ Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010294547836) — W3Global Canada, Inc
-- 📍 **Location:** North York, Canada
-- 💰 **Salary:** $150k–$200k/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, Enterprise Software Solutions](https://www.glassdoor.ca/job-listing/j?jl=1010294304097) — Seneca Polytechnic
-- 📍 **Location:** North York, Canada
-- 💰 **Salary:** $156k–$218k/yr
-- 🕒 **Posted:** 2026-10-14
