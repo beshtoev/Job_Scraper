@@ -362,6 +362,77 @@ def fetch_freshteam(entry: dict) -> list[dict]:
     return out
 
 
+_JAZZ_ITEM = re.compile(r"<li class=\"list-group-item\">(.*?)</li>\s*(?=<li class=\"list-group-item\">|</ul>)", re.I | re.S)
+_JAZZ_LINK = re.compile(r"<a\s+href=\"(https?://[^\"]*?/apply/[^\"]+)\"[^>]*>(.*?)</a>", re.I | re.S)
+_JAZZ_LOC = re.compile(r"fa-map-marker'?\"?></i>\s*([^<]{2,90})", re.I)
+# applytojobs.ca, JazzHR's Canadian product, is a different page (rows are <article class="job-posting">).
+_JAZZ_CA_ITEM = re.compile(r"<article class=\"job-posting.*?</article>", re.I | re.S)
+_JAZZ_CA_LINK = re.compile(r"<a class=\"text-lg[^\"]*\"\s*href=\"([^\"]+)\"[^>]*>(.*?)</a>", re.I | re.S)
+_JAZZ_CA_META = re.compile(r"<div class=\"text-xs[^\"]*\">(.*?)</div>", re.I | re.S)
+_JAZZ_CA_BADGE = re.compile(r"rounded-full[^>]*>\s*([a-z -]{3,20})\s*</span>", re.I)
+
+
+def _jazzhr_description(url: str) -> str:
+    try:
+        page = http_text(url)
+    except SourceFailure:
+        return ""
+    # JazzHR posting pages carry the text in schema.org JobPosting JSON-LD.
+    for raw in re.findall(r"(?is)<script[^>]+application/ld\+json[^>]*>(.*?)</script>", page):
+        try:
+            data = json.loads(raw.strip())
+        except json.JSONDecodeError:
+            continue
+        for node in _jsonld_nodes(data):
+            if node.get("@type") == "JobPosting" and node.get("description"):
+                return strip_html(node["description"])
+    m = re.search(r"(?is)<div[^>]+class=\"[^\"]*job-description[^\"]*\"[^>]*>(.*?)</div>\s*<", page)
+    return strip_html(m.group(1)) if m else ""
+
+
+def fetch_jazzhr(entry: dict) -> list[dict]:
+    """JazzHR boards (<slug>.applytojob.com/apply/, or the Canadian <slug>.applytojobs.ca/).
+    No public JSON feed, so the board page is parsed; descriptions come from each posting
+    page, fetched only for titles that pass the title check. Ported 2026-10-14 from
+    job-capture's ats.JazzHR (added there 2026-09-28 for Mevotech)."""
+    slug = (entry.get("slug") or "").strip().strip("/")
+    host = urllib.parse.urlsplit(slug).netloc if slug.startswith("http") else (slug if "." in slug else f"{slug}.applytojob.com")
+    board = f"https://{host}/" if host.endswith(".applytojobs.ca") else f"https://{host}/apply/"
+    page = http_text(board)
+    rows = []
+    for chunk in _JAZZ_CA_ITEM.findall(page):
+        m = _JAZZ_CA_LINK.search(chunk)
+        if not m or not strip_html(m.group(2)):
+            continue
+        path, title = m.group(1).strip(), strip_html(m.group(2))
+        badge = (_JAZZ_CA_BADGE.search(chunk).group(1).strip().lower() if _JAZZ_CA_BADGE.search(chunk) else "")
+        meta = _JAZZ_CA_META.search(chunk)
+        text = strip_html(meta.group(1)) if meta else ""
+        if badge and text.lower().startswith(badge):
+            text = text[len(badge):].strip()
+        bits = [x.strip() for x in text.split(".") if x.strip()]
+        rid = re.search(r"/(\d{3,})\s*$", path)
+        rows.append(dict(title=title, url=f"https://{host}{path}" if path.startswith("/") else path,
+                         location=bits[0] if bits else "", date_posted=bits[-1] if len(bits) >= 3 else "",
+                         req_id=rid.group(1) if rid else "", remote=True if "remote" in badge else None))
+    if not rows:
+        for chunk in _JAZZ_ITEM.findall(page):
+            m = _JAZZ_LINK.search(chunk)
+            if not m or not strip_html(m.group(2)):
+                continue
+            url, title = m.group(1).strip(), strip_html(m.group(2))
+            loc = _JAZZ_LOC.search(chunk)
+            rid = re.search(r"/apply/([A-Za-z0-9]{6,})/", url)
+            rows.append(dict(title=title, url=url, location=html.unescape(loc.group(1)).strip() if loc else "",
+                             date_posted="", req_id=rid.group(1) if rid else "", remote=None))
+    if not rows:
+        raise SourceFailure("no openings parsed from the JazzHR board page")
+    return [posting(entry, title=r["title"], url=r["url"], location=r["location"], req_id=r["req_id"],
+                    date_posted=r["date_posted"], remote=r["remote"],
+                    description=_jazzhr_description(r["url"]) if _title_relevant(r["title"]) else "")
+            for r in rows]
+
+
 def _jsonld_nodes(value):
     if isinstance(value, list):
         for item in value:
@@ -411,6 +482,7 @@ FETCHERS = {
     "workday": fetch_workday,
     "gem": fetch_gem,
     "freshteam": fetch_freshteam,
+    "jazzhr": fetch_jazzhr,
 }
 
 

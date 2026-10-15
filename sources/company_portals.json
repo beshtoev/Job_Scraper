@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 345,
-    "pollable": 214,
+    "companies": 346,
+    "pollable": 215,
     "unresolved": 131
   },
   "companies": [
@@ -4569,6 +4569,19 @@
       "ats": "freshteam",
       "slug": "stacktics",
       "careers_url": "https://stacktics.freshteam.com/jobs",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Mevotech",
+      "archetype": "A",
+      "ats": "jazzhr",
+      "slug": "mevotech",
+      "careers_url": "https://mevotech.applytojob.com/apply/",
       "source": "manual",
       "include": [],
       "exclude": [],
