@@ -1,9 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-16 18:07 UTC*
+*Last updated: 2026-10-16 20:07 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-### [Director, Site Finance - U.S. Operations](https://ca.indeed.com/viewjob?jk=2bf4919842ab41b1) — New Gold
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+### [Director of Financial Planning and Analysis](https://ca.indeed.com/viewjob?jk=82006b323ae8ecde) — Craft Property Group
+- 📍 **Location:** Burlington, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-16
