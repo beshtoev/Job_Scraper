@@ -1,7 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-16 07:54 UTC*
+*Last updated: 2026-10-16 11:47 UTC*
 
-**1 new role(s)** since last run · 234 total in current portal openings
+**1 new role(s)** since last run · 233 total in current portal openings
 
-### [VP, Head of Policy & Data Operations (remote)](https://builtintoronto.com/job/vp-head-policy-data-operations-remote/9480962) — Broadridge
+### [Senior Director Finance](https://builtintoronto.com/job/senior-director-finance/11536160) — SinaLite
 - 📍 **Location:** Toronto, Ontario, Canada
