@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-16 06:43 UTC",
+  "scraped_at": "2026-10-16 07:56 UTC",
   "total": 59,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "SE Health",
@@ -1541,32 +1541,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ECL Group of Companies",
-      "title": "Chief Financial Officer",
-      "location": "Edmonton, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010294077694",
-      "date_posted": "2026-10-14",
-      "description": "Participate in strategic business, financial, and human resource planning, coordinating the preparation of budgets for the organization and commercial bank.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (AB)",
-      "geo_city": "Edmonton",
-      "geo_province": "AB",
-      "geo_lat": 53.5461,
-      "geo_lon": -113.4938,
-      "geo_distance_km": 2701.3,
-      "geo_rank": 427013,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
