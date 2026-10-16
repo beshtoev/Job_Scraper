@@ -1,11 +1,26 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-16 14:52 UTC*
+*Last updated: 2026-10-16 18:30 UTC*
 
-**2 new role(s)** since last run · 233 total in current portal openings
+**6 new role(s)** since last run · 230 total in current portal openings
 
-### [Vice President, Data Scientist](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Vice-President--Data-Scientist_R250030938) — BMO
-- 📍 **Location:** Toronto, ON, CAN
+### [Regional Director, Digital Assets Sales & Commercialization, North America](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Regional-Director--Digital-Assets-Sales---Commercialization--North-America_R-293895) — Mastercard
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-10-16
 
-### [Vice President, Data Scientist](https://builtintoronto.com/job/vice-president-data-scientist/9254365) — BMO
+### [Senior Director, AI Product Management](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--AI-Product-Management_R-0000182550-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [VP, Business Group Chief Information Security Officer, Canada](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/VP--Business-Group-Chief-Information-Security-Officer--Canada_JR00128919-1) — Sun Life
+- 📍 **Location:** Toronto, Ontario
+- 🕒 **Posted:** 2026-10-16
+
+### [VP, Business Group Chief Information Security Officer, SLAM](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/VP--Business-Group-Chief-Information-Security-Officer--SLAM_JR00128920-1) — Sun Life
+- 📍 **Location:** Toronto, Ontario
+- 🕒 **Posted:** 2026-10-16
+
+### [Associate Director, Finance](https://builtintoronto.com/job/associate-director-finance/11720893) — Sun Life Financial, Inc.
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Lead Software Engineer – Margin Technology - VP](https://builtintoronto.com/job/lead-software-engineer-margin-technology-vp/11722084) — Citi
 - 📍 **Location:** Toronto, Ontario, Canada
