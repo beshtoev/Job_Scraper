@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 19:20 UTC",
+  "updated_at": "2026-10-16 19:21 UTC",
   "jobs": [
     {
       "company": "Scotiabank",
@@ -939,14 +939,14 @@
       "first_seen": "2026-10-15T19:16:58Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (BC)",
       "geo_city": "Vancouver",
       "geo_province": "BC",
       "geo_lat": 49.2827,
       "geo_lon": -123.1207,
       "geo_distance_km": 3355.3,
-      "geo_rank": 433553,
+      "geo_rank": 333553,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -1132,14 +1132,14 @@
       "first_seen": "2026-10-15T18:14:02Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -39769,8 +39769,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -39901,8 +39901,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -44612,6 +44612,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1538
+  ]
 }
