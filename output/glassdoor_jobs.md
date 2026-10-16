@@ -1,5 +1,5 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-16 21:32 UTC*
+*Last updated: 2026-10-16 22:35 UTC*
 
 **0 new role(s)** since last run · 62 total in last 24h
 
