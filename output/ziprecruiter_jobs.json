@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-17 16:17 UTC",
+  "scraped_at": "2026-10-17 16:46 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Aston Carter",
@@ -51,27 +51,22 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
-      "ats": "ZipRecruiter"
+      "ats": "ZipRecruiter",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "On •",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Aston Carter",
-      "title": "Finance Director",
-      "location": "Toronto, ON • On-site",
-      "url": "https://www.ziprecruiter.com/km/AAG2iqW3q2akeQSTZb8fosBmIzaBWcQd?tsid=111000275",
-      "direct_url": "",
-      "company_url": "",
-      "date_posted": "",
-      "description": "",
-      "salary": "",
-      "salary_source": "alert email",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "ZipRecruiter"
-    }
-  ]
+  "new_jobs": []
 }
