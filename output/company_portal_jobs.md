@@ -1,10 +1,11 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-17 01:25 UTC*
+*Last updated: 2026-10-17 04:26 UTC*
 
-**2 new role(s)** since last run · 233 total in current portal openings
+**2 new role(s)** since last run · 222 total in current portal openings
 
-### [Director, Customer Success, Enterprise Account Management](https://builtintoronto.com/job/director-customer-success-enterprise-account-management/9685804) — Dialogue
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, Data Foundations, Automation & Infrastructure](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Data-Foundations--Automation---Infrastructure_R260027782) — BMO
+- 📍 **Location:** Toronto, ON, CAN
+- 🕒 **Posted:** 2026-10-16
 
-### [Head of Frontier AI](https://builtintoronto.com/job/head-frontier-ai/11735328) — Invisible Technologies
+### [Director, Data Foundations, Automation & Infrastructure](https://builtintoronto.com/job/director-data-foundations-automation-infrastructure/11735968) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
