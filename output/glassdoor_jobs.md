@@ -1,14 +1,14 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-17 12:05 UTC*
+*Last updated: 2026-10-17 13:09 UTC*
 
-**2 new role(s)** since last run · 75 total in last 24h
+**2 new role(s)** since last run · 73 total in last 24h
 
-### [Director, Global Business Services Finance and Controlling - Toronto](https://www.glassdoor.ca/job-listing/j?jl=1010297801034) — Randstad
+### [VP, Business Group Chief Information Security Officer, Canada](https://www.glassdoor.ca/job-listing/j?jl=1010298286972) — Sun Life
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $140k–$160k/yr
-- 🕒 **Posted:** 2026-10-16
+- 💰 **Salary:** $195k–$270k/yr
+- 🕒 **Posted:** 2026-10-17
 
-### [Director of Finance ( LTC )](https://www.glassdoor.ca/job-listing/j?jl=1010296980901) — MedMatch Recruitment
-- 📍 **Location:** Scarborough, Canada
-- 💰 **Salary:** $130k–$160k/yr
-- 🕒 **Posted:** 2026-10-16
+### [Valuations Financial Instruments, Director](https://www.glassdoor.ca/job-listing/j?jl=1010296148816) — Pwc Canada
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $147k–$197k/yr
+- 🕒 **Posted:** 2026-10-15
