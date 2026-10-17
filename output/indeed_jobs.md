@@ -1,6 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-17 11:51 UTC*
+*Last updated: 2026-10-17 14:30 UTC*
 
-**0 new role(s)** since last run · 15 total in last 24h
+**1 new role(s)** since last run · 15 total in last 24h
 
-No new roles since the last run.
+### [VP, Business Group Chief Information Security Officer, Canada](https://ca.indeed.com/viewjob?jk=3eb84b9cc35511dc) — Sun Life
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-16
