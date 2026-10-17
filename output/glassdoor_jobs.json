@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-17 22:44 UTC",
+  "scraped_at": "2026-10-17 23:27 UTC",
   "total": 36,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "SE Health",
@@ -941,32 +941,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Hatfield Consultants",
-      "title": "Leader of Finance",
-      "location": "North Vancouver, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1009974372997",
-      "date_posted": "2026-10-16",
-      "description": "CPA designation and a bachelor’s degree in accounting, finance, or related field. Experience in a project-based professional services firm, ideally…",
-      "salary": "$150k–$175k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "North Vancouver",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
