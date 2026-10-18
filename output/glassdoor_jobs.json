@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-18 11:04 UTC",
+  "scraped_at": "2026-10-18 12:01 UTC",
   "total": 48,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Seneca Polytechnic",
@@ -1253,58 +1253,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Dialogue",
-      "title": "Director, Customer Success, Enterprise Account Management",
-      "location": "Montreal, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010298412732",
-      "date_posted": "2026-10-17",
-      "description": "Demonstrated ability to think strategically and critically, assessing opportunities and risks to develop relevant strategies. Work abroad up to 4 weeks/year.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Montreal",
-      "geo_province": "QC",
-      "geo_lat": 45.5019,
-      "geo_lon": -73.5674,
-      "geo_distance_km": 502.6,
-      "geo_rank": 405026,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "The Mason Group - Strategic Search Partners",
-      "title": "Director - Financial Reporting & Controllership",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010296687221",
-      "date_posted": "2026-10-16",
-      "description": "Partner with senior leadership on financial reporting, strategic initiatives and future business growth. Lead, mentor and develop a growing finance team.",
-      "salary": "$165k–$180k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
