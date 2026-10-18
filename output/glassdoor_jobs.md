@@ -1,9 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-18 13:11 UTC*
+*Last updated: 2026-10-18 14:15 UTC*
 
-**1 new role(s)** since last run · 48 total in last 24h
+**1 new role(s)** since last run · 47 total in last 24h
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010298489376) — Kaishin Search
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $145k–$160k/yr
+### [Cloud Architecture & Engineering, Director](https://www.glassdoor.ca/job-listing/j?jl=1010298317908) — Pwc Canada
+- 📍 **Location:** Ottawa, Canada
+- 💰 **Salary:** $197k–$247k/yr
 - 🕒 **Posted:** 2026-10-17
