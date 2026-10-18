@@ -39,6 +39,15 @@ def test_a_failed_attempt_is_retried_sooner_than_a_normal_cadence():
     assert runner.is_due(LINKEDIN, failed(6), NOW, retry_minutes=5)
 
 
+def test_the_runner_does_not_close_a_window_the_scraper_left_partial(tmp_path):
+    out = tmp_path / "output"; out.mkdir()
+    (out / "scrape_state.json").write_text(json.dumps({"linkedin_cursor": {"partial": True, "next_term": 4}}))
+    runner.mark_success(tmp_path, "linkedin", NOW)
+    assert "linkedin" not in json.loads((out / "scrape_state.json").read_text())
+    runner.mark_success(tmp_path, "indeed", NOW)
+    assert json.loads((out / "scrape_state.json").read_text())["indeed"]["last_success"] == runner.iso(NOW)
+
+
 def test_a_rate_limit_cooldown_holds_off_retries_until_it_ends():
     cooling = {"last_attempt": runner.iso(NOW - timedelta(minutes=30)), "last_ok": False,
                "cooldown_until": runner.iso(NOW + timedelta(minutes=30))}
