@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-18 02:40 UTC",
+  "scraped_at": "2026-10-18 04:07 UTC",
   "total": 51,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Seneca Polytechnic",
@@ -1332,32 +1332,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "MedMatch Recruitment",
-      "title": "Director of Finance ( LTC )",
-      "location": "Scarborough, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010296980901",
-      "date_posted": "2026-10-16",
-      "description": "Provide leadership and mentorship to the finance and administrative team. Minimum 5 years of progressive senior financial leadership experience.",
-      "salary": "$130k–$160k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Scarborough",
-      "geo_province": "ON",
-      "geo_lat": 43.7764,
-      "geo_lon": -79.2318,
-      "geo_distance_km": 15.3,
-      "geo_rank": 153,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
