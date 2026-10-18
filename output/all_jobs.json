@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 16:17 UTC",
+  "updated_at": "2026-10-18 16:32 UTC",
   "jobs": [
     {
       "company": "Hatfield Consultants",
@@ -95,7 +95,8 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://www.ziprecruiter.com/km/AAG2iqW3q2akeQSTZb8fosBmIzaBWcQd?tsid=111000275",
-        "https://www.ziprecruiter.com/km/AAG2iqW3q2akeQSTZb8fosBmIzaBWcQd_WK9_e9eH9fVe2iNONDcRuN3w3ZDQU_1n7tgVzu9ARHCW_Q7Xb2EKmB8_TuglFJ_RKokQoSYO3s0LW8eQ2sFDzMe41zJttgHUDdMm_anWo0zyb2-gc-Hd49kiUMQ4f9Gwfe69S-zEwlVW3VFwH2lD1s8GvHG9RIfjdbUQLwZTE1Q5rfgaO2QVo9KsbwdhNEj9fmtW2mQK9NMVvD9rYWnYhGyject7rQhRqeJ118IMjfhzpX2EJDrIpXTmnAvPG7vx4AdHrfxd2HN2EFVbXXtJg7bB6Kc1nve-HSX_46lS-OGp1oYAmINpYFoJ8oeZ3IxAWWdy4dC6SXSWRNUUILQ7y0_1RwJAwW0Mv2CiR-Hh311xp8?tsid=111000275&auth_token=5_1792242744_fg3SyT7FMSUR4c7BDLxmPXYK1bN0shxtmlGShID7oGI&contact_id=69ca2cc3&expires=1792588344"
+        "https://www.ziprecruiter.com/km/AAG2iqW3q2akeQSTZb8fosBmIzaBWcQd_WK9_e9eH9fVe2iNONDcRuN3w3ZDQU_1n7tgVzu9ARHCW_Q7Xb2EKmB8_TuglFJ_RKokQoSYO3s0LW8eQ2sFDzMe41zJttgHUDdMm_anWo0zyb2-gc-Hd49kiUMQ4f9Gwfe69S-zEwlVW3VFwH2lD1s8GvHG9RIfjdbUQLwZTE1Q5rfgaO2QVo9KsbwdhNEj9fmtW2mQK9NMVvD9rYWnYhGyject7rQhRqeJ118IMjfhzpX2EJDrIpXTmnAvPG7vx4AdHrfxd2HN2EFVbXXtJg7bB6Kc1nve-HSX_46lS-OGp1oYAmINpYFoJ8oeZ3IxAWWdy4dC6SXSWRNUUILQ7y0_1RwJAwW0Mv2CiR-Hh311xp8?tsid=111000275&auth_token=5_1792242744_fg3SyT7FMSUR4c7BDLxmPXYK1bN0shxtmlGShID7oGI&contact_id=69ca2cc3&expires=1792588344",
+        "https://www.ziprecruiter.com/km/AAG2iqW3q2akeQSTZb8fosBmIzaBWcQd_aston?tsid=111000275"
       ]
     },
     {
@@ -532,14 +533,14 @@
       ],
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -617,14 +618,14 @@
       "first_seen": "2026-10-16T23:48:18Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -1859,14 +1860,14 @@
       "first_seen": "2026-10-15T19:16:58Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (BC)",
       "geo_city": "Vancouver",
       "geo_province": "BC",
       "geo_lat": 49.2827,
       "geo_lon": -123.1207,
       "geo_distance_km": 3355.3,
-      "geo_rank": 433553,
+      "geo_rank": 333553,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -2053,14 +2054,14 @@
       "first_seen": "2026-10-15T18:14:02Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -45535,6 +45536,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1567
+  ]
 }
