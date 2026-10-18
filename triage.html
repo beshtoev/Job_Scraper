@@ -424,7 +424,7 @@
 <div class="kpis">
   <div class="kpi"><div class="num" id="kpi-total">0</div><div class="lbl">Total</div></div>
   <div class="kpi" title="Roles first found today (since midnight), after your location, title and employer filters"><div class="num" id="kpi-new">0</div><div class="lbl">New today</div></div>
-  <div class="kpi" title="Roles first found in the last 7 days, after your location, title and employer filters"><div class="num" id="kpi-week">0</div><div class="lbl">New 7 days</div></div>
+  <div class="kpi" title="Roles first found in the last 7 days (same as the Week filter), after your location, title and employer filters"><div class="num" id="kpi-week">0</div><div class="lbl">New this week</div></div>
   <div class="kpi saved"><div class="num" id="kpi-saved">0</div><div class="lbl">Saved</div></div>
   <div class="kpi applied"><div class="num" id="kpi-applied">0</div><div class="lbl">Applied</div></div>
   <div class="kpi interview"><div class="num" id="kpi-interview">0</div><div class="lbl">Interview</div></div>
@@ -1507,8 +1507,8 @@
       if (!filters.state.has(st)) return false;
     }
     if (except !== 'days' && filters.days != null) {
-      const t = filters.days < 1 ? jobFreshMs(j) : jobDateMs(j);
-      if (t == null || t < Date.now() - filters.days * 86400000) return false;
+      const t = jobFreshMs(j);
+      if (t == null || t < sinceMs(filters.days)) return false;
     }
     if (except !== 'salary' && filters.salMin > 0) {
       if (j._salMax == null) { if (!filters.salUnknown) return false; }
@@ -1637,6 +1637,14 @@
     });
   }
 
+  // Time filters count from when the scraper FOUND a role (first_seen; the posting date only
+  // when that is missing), the same basis as the New today / New 7 days tiles. "Today" is since
+  // local midnight. Before 2026-10-18, "Last hour" used first_seen but "Today" and longer used the
+  // posting date, so a catch-up that found older postings showed Last hour 17 but Today 4.
+  function sinceMs(days) {
+    if (days === 1) { const m = new Date(); m.setHours(0, 0, 0, 0); return m.getTime(); }
+    return Date.now() - days * 86400000;
+  }
   function renderDateFilter() {
     const el = $('filter-date');
     el.innerHTML = '';
@@ -1653,8 +1661,8 @@
       const ct = VIEW.filter(j => {
         if (!matchesFilters(j, 'days')) return false;   // honor Source/Role/Seniority/Show/search
         if (days == null) return true;
-        const t = days < 1 ? jobFreshMs(j) : jobDateMs(j);
-        return t != null && t >= Date.now() - days * 86400000;
+        const t = jobFreshMs(j);
+        return t != null && t >= sinceMs(days);
       }).length;
       const active = filters.days === days;
       const p = document.createElement('button');
@@ -1705,10 +1713,10 @@
     // Counted from first_seen (when the scraper first found the role), not from the latest run of
     // each source: "New this run" reset on every run, so it fell from 40-odd to 1 within one day
     // while nothing had been lost (2026-10-18).
-    const midnight = new Date(); midnight.setHours(0, 0, 0, 0);
-    const firstSeen = j => (j.first_seen ? Date.parse(j.first_seen) : NaN);
-    $('kpi-new').textContent = VIEW.filter(j => firstSeen(j) >= midnight.getTime()).length;
-    $('kpi-week').textContent = VIEW.filter(j => firstSeen(j) >= midnight.getTime() - 6 * 86400000).length;
+    // Same basis as the time filters (sinceMs): Today = since midnight, Week = last 7 days.
+    const found = j => jobFreshMs(j);
+    $('kpi-new').textContent = VIEW.filter(j => { const t = found(j); return t != null && t >= sinceMs(1); }).length;
+    $('kpi-week').textContent = VIEW.filter(j => { const t = found(j); return t != null && t >= sinceMs(7); }).length;
     const saved = VIEW.filter(j => state.triage[j.url] === 'saved').length;
     const applied = VIEW.filter(j => state.triage[j.url] === 'applied').length;
     const interview = VIEW.filter(j => state.triage[j.url] === 'interview').length;
