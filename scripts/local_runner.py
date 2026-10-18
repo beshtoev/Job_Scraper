@@ -208,6 +208,8 @@ def mark_success(repo: Path, name: str, started: datetime) -> None:
     window from it."""
     path = repo / SCRAPE_STATE
     doc = read_json(path, {}) or {}
+    if (doc.get(f"{name}_cursor") or {}).get("partial"):
+        return      # the scraper saved a partial pass; its window must stay open (LinkedIn)
     have = parse_iso((doc.get(name) or {}).get("last_success"))
     if have is None or have < started:
         doc.setdefault(name, {})["last_success"] = iso(started)

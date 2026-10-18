@@ -749,7 +749,8 @@ def _linkedin_geo_tree(geos: list[dict]) -> tuple[list[dict], dict[int, list[dic
 
 def _linkedin_search(terms: list[str], lookback_seconds: int,
                      geos: list[dict] | None = None,
-                     max_results: int = 500) -> tuple[list[dict], int]:
+                     max_results: int = 500,
+                     deadline: float | None = None) -> tuple[list[dict], int]:
     """
     Per-geo, per-term, paginated LinkedIn guest-endpoint search. Dedupes by job
     ID across every geography and sorts by recency. Used by both the general
@@ -774,7 +775,8 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     is also empty. A module-level _RATE_LIMITED flag dynamically increases the
     inter-request delay when 429s have been seen.
     """
-    global _RATE_LIMITED
+    global _RATE_LIMITED, _LINKEDIN_OUT_OF_TIME
+    _LINKEDIN_OUT_OF_TIME = False
     if geos is None:
         geos = LINKEDIN_GEOS
     jobs_by_id: dict[str, dict] = {}
@@ -796,6 +798,10 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
         geo_param = f"&geoId={geo['geoId']}" if geo.get("geoId") else ""
         capped = False
         for start in range(0, max_results, LINKEDIN_PAGE_SIZE):
+            if deadline is not None and time.monotonic() > deadline:
+                _LINKEDIN_OUT_OF_TIME = True    # stop cleanly; the caller keeps what was found
+                queue.clear()
+                break
             # Dynamic delay: increase when we've been rate-limited
             delay = LINKEDIN_REQUEST_DELAY + random.uniform(0, 2)
             if _RATE_LIMITED:
@@ -856,6 +862,8 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
                 break
         else:
             capped = True     # every page was full up to max_results: results may be cut off
+        if _LINKEDIN_OUT_OF_TIME:
+            break
         if capped and children.get(id(geo)):
             drilled += len(children[id(geo)])
             queue[0:0] = [(term, child) for child in children[id(geo)]]
@@ -1057,13 +1065,17 @@ def _linkedin_posting_salary(job_id: str) -> str:
     return salary
 
 
-def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
+def _enrich_linkedin_postings(jobs: list, deadline: float | None = None) -> tuple[int, int]:
     """Backfill salary and description on LinkedIn jobs from posting pages.
-    No cap — enriches every job. Failed fetches get one retry pass.
+    Enriches every job until ``deadline`` (time.monotonic()); a job left without a
+    description is still saved. Failed fetches get one retry pass if time allows.
     Returns (salary_filled, description_filled)."""
     salary_filled = desc_filled = fetched = 0
     failed: list[dict] = []
     for job in jobs:
+        if deadline is not None and time.monotonic() > deadline:
+            print("  ⏱  Out of time for posting details; the rest are saved without a description")
+            break
         if job.get("ats") != "LinkedIn":
             continue
         if job.get("salary") and job.get("description"):
@@ -1088,7 +1100,7 @@ def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
             failed.append(job)
 
     # Retry pass for failed enrichments
-    if failed:
+    if failed and (deadline is None or time.monotonic() + 120 < deadline):
         wait = 60 + random.uniform(0, 30)
         print(f"  ⏸  {len(failed)} enrichment(s) failed; pausing {wait:.0f}s before retry…")
         time.sleep(wait)
@@ -1176,25 +1188,105 @@ def _describe_window(seconds: int) -> str:
     return f"{seconds / 3600:.1f}h".replace(".0h", "h")
 
 
+# Partial progress, 2026-10-18. After LinkedIn throttled this connection on 10-13, every run had
+# to catch up the whole gap, ran 170+ pages into the runner's 45-minute kill and lost everything
+# it had found (100 relevant jobs on the last attempt), so the next gap was longer still: 17
+# failed runs in 5 days. Now a run stops itself inside a time budget and saves what it found;
+# a cursor in scrape_state.json remembers the next search term, so the following run resumes
+# there, and the window is only marked caught up once a full pass over the terms completes.
+LINKEDIN_SEARCH_BUDGET_SECONDS = int(os.environ.get("LINKEDIN_SEARCH_BUDGET_SECONDS", 28 * 60))
+LINKEDIN_ENRICH_BUDGET_SECONDS = int(os.environ.get("LINKEDIN_ENRICH_BUDGET_SECONDS", 37 * 60))
+LINKEDIN_CATCHUP_MAX_DAYS = 3          # an older posting is rarely worth applying to
+LINKEDIN_CURSOR_KEY = "linkedin_cursor"
+_LINKEDIN_OUT_OF_TIME = False
+_LINKEDIN_STAMP: datetime | None = None
+
+
+def _write_linkedin_cursor(next_term: int, cycle_started: str | None, partial: bool) -> None:
+    state = _read_scrape_state()
+    state[LINKEDIN_CURSOR_KEY] = {
+        "last_success": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "next_term": next_term, "cycle_started": cycle_started, "partial": partial}
+    tmp = SCRAPE_STATE_PATH + ".tmp"
+    os.makedirs(os.path.dirname(SCRAPE_STATE_PATH), exist_ok=True)
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=2, sort_keys=True)
+        f.write("\n")
+    os.replace(tmp, SCRAPE_STATE_PATH)
+
+
+def _fill_from_master(jobs: list) -> int:
+    """Copy description and salary already held in all_jobs.json, so known postings are not
+    fetched again (fewer requests, less throttling)."""
+    try:
+        with open(os.path.join(OUTPUT_DIR, "all_jobs.json"), encoding="utf-8") as f:
+            known = {j.get("url"): j for j in json.load(f).get("jobs", [])}
+    except (OSError, ValueError):
+        return 0
+    filled = 0
+    for job in jobs:
+        prev = known.get(job.get("url")) or {}
+        if prev.get("description") and not job.get("description"):
+            job["description"] = prev["description"]
+            filled += 1
+        if prev.get("salary") and not job.get("salary"):
+            job["salary"] = prev["salary"]
+    return filled
+
+
 def scrape_linkedin_recent() -> list:
-    lookback = _linkedin_lookback_seconds()
-    print(f"🔎 Scraping LinkedIn (last {_describe_window(lookback)})...")
+    global _LINKEDIN_STAMP
+    t0 = time.monotonic()
+    lookback = min(_linkedin_lookback_seconds(), LINKEDIN_CATCHUP_MAX_DAYS * 86400)
+    terms = list(LINKEDIN_SEARCH_TERMS)
+    cursor = _read_scrape_state().get(LINKEDIN_CURSOR_KEY) or {}
+    first = int(cursor.get("next_term") or 0)
+    if not 0 <= first < len(terms):
+        first = 0
+    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    cycle_started = (cursor.get("cycle_started") if first else None) or now_iso
+    print(f"🔎 Scraping LinkedIn (last {_describe_window(lookback)}; "
+          f"terms {first + 1}-{len(terms)} of {len(terms)})...")
     _SCRAPE_OK["linkedin"] = False
-    jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, lookback, max_results=100)
-    # Block guard (mirrors Indeed's): zero raw cards across every term means
-    # LinkedIn gave us nothing — rate-limited or blocked, not a quiet hour.
-    # Reuse the previous results so we don't clobber the dedupe baseline.
+    _LINKEDIN_STAMP = None
+    by_url: dict[str, dict] = {}
+    raw_cards, covered = 0, first
+    for i in range(first, len(terms)):
+        found, raw = _linkedin_search([terms[i]], lookback, max_results=100,
+                                      deadline=t0 + LINKEDIN_SEARCH_BUDGET_SECONDS)
+        raw_cards += raw
+        for j in found:
+            by_url.setdefault(j["url"], j)
+        if _LINKEDIN_OUT_OF_TIME:
+            # A term cut short is repeated next run, except the run's first term: moving past
+            # it guarantees progress even if one term alone outlasts the budget.
+            if i == first:
+                covered = i + 1
+            break
+        covered = i + 1
+    complete = covered >= len(terms)
+    # Block guard (mirrors Indeed's): zero raw cards means LinkedIn gave us nothing,
+    # rate-limited or blocked, not a quiet hour. Keep the previous results.
     if raw_cards == 0:
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "linkedin_jobs.json"))
         print(f"  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               f"preserving previous {len(prev)} result(s)")
+        _write_linkedin_cursor(first, cursor.get("cycle_started"), partial=True)
         return prev
+    jobs = sorted(by_url.values(), key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
     before = len(jobs)
     jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
     print(f"  📍 Location filter: {before} → {len(jobs)} roles")
-    print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
-    _enrich_linkedin_postings(jobs)
-    _SCRAPE_OK["linkedin"] = True   # confirmed only once save_linkedin_results has persisted it
+    print(f"  ✅ LinkedIn: {len(jobs)} role(s); {_fill_from_master(jobs)} already had details on file")
+    _enrich_linkedin_postings(jobs, deadline=t0 + LINKEDIN_ENRICH_BUDGET_SECONDS)
+    if complete:
+        _write_linkedin_cursor(0, None, partial=False)
+        _LINKEDIN_STAMP = datetime.strptime(cycle_started, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+        _SCRAPE_OK["linkedin"] = True   # confirmed only once save_linkedin_results has persisted it
+    else:
+        _write_linkedin_cursor(covered, cycle_started, partial=True)
+        print(f"  ⏸  Partial run: saved {len(jobs)} role(s); terms {covered + 1}-{len(terms)} "
+              f"next run (the window stays open until a full pass completes)")
     return jobs
 
 
@@ -3285,7 +3377,8 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
 def save_linkedin_results(jobs: list):
     _save_linkedin_snapshot(jobs)
     if _SCRAPE_OK.pop("linkedin", False):
-        _mark_scrape_success("linkedin")
+        # A pass over all terms covers the window from when that pass began.
+        _mark_scrape_success("linkedin", _LINKEDIN_STAMP)
 
 
 def _save_linkedin_snapshot(jobs: list):
