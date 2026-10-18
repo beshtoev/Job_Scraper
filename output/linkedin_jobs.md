@@ -1,175 +1,197 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-18 21:09 UTC*
+*Last updated: 2026-10-18 22:31 UTC*
 
-**39 new role(s)** since last run · 75 total in last 1h
+**44 new role(s)** since last run · 115 total in last 1h
 
-### [Vice President, Data and AI Foundations](https://www.linkedin.com/jobs/view/4479751525/) — SE Health
-- 📍 **Location:** Markham, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
+### [Director, Planning & Allocations - North America](https://www.linkedin.com/jobs/view/4463395948/) — Arc'teryx Equipment
+- 📍 **Location:** North Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-18
 
-### [Head of Global HR Analytics & Data Office](https://www.linkedin.com/jobs/view/4469608310/) — Scotiabank
+### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4467275360/) — BDO Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-18
 
-### [Associate Partner – (Re)insurance Head of Data & AI](https://www.linkedin.com/jobs/view/4443386270/) — Synpulse
+### [Cloud Architecture & Engineering, Director](https://www.linkedin.com/jobs/view/4480578483/) — PwC Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $197,000 - $247,000
+- 🕒 **Posted:** 2026-10-17
 
-### [Senior Director, AI and Data & Integration Platforms](https://www.linkedin.com/jobs/view/4471167225/) — RBC
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
-
-### [Director, Public & Alternative Investments, Data Platforms](https://www.linkedin.com/jobs/view/4477310078/) — CPP Investments | Investissements RPC
+### [Senior Director, AI Business Enablement](https://www.linkedin.com/jobs/view/4454046075/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-17
 
-### [Director, Data Engineering](https://www.linkedin.com/jobs/view/4477060084/) — Mastercard
+### [Director, Wealth Digital AI Platforms & Technology Delivery](https://www.linkedin.com/jobs/view/4472200079/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $154,000 - $247,000
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $140,000.00 - $240,000.00
+- 🕒 **Posted:** 2026-10-17
 
-### [Director, Data Platform Engineering](https://www.linkedin.com/jobs/view/4457802237/) — TD
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $165,000 - $200,000
-- 🕒 **Posted:** 2026-10-15
-
-### [Director, Data Governance](https://www.linkedin.com/jobs/view/4477303376/) — Nutrien
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-10-15
-
-### [Director, Chapter Lead, Media Analytics](https://www.linkedin.com/jobs/view/4479893328/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Director of Planning and Allocation](https://www.linkedin.com/jobs/view/4471140044/) — Psycho Bunny
+### [Director, AI & Agentic Engineering](https://www.linkedin.com/jobs/view/4480826553/) — Artefact
 - 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-17
 
-### [Directeur.trice technique - Capture de données de jeu / Technical Director - Game Data Capture](https://www.linkedin.com/jobs/view/4469642279/) — Electronic Arts (EA)
+### [Director AI Engineering](https://www.linkedin.com/jobs/view/4472238663/) — CGI
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $145,000–$195,000
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Developer Platform & Experience](https://www.linkedin.com/jobs/view/4450813601/) — Motive
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $169,500 - $242,600
-- 🕒 **Posted:** 2026-10-15
+- 💰 **Salary:** $238,000—$300,000
+- 🕒 **Posted:** 2026-10-17
 
-### [Directeur.trice technique - Capture de données de jeu / Technical Director - Game Data Capture](https://www.linkedin.com/jobs/view/4469642280/) — Electronic Arts (EA)
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $169,500 - $242,600
-- 🕒 **Posted:** 2026-10-15
+### [Senior Director, Solutions Architecture — Americas](https://www.linkedin.com/jobs/view/4443165890/) — Cohere
+- 📍 **Location:** Canada
+- 💰 **Salary:** $270,000 - $539,750
+- 🕒 **Posted:** 2026-10-17
 
-### [Senior Director, Products & Platform Management](https://www.linkedin.com/jobs/view/4460462101/) — Lifemark Health Group
-- 📍 **Location:** Brampton, Ontario, Canada
+### [Director, Enterprise Business Applications](https://www.linkedin.com/jobs/view/4413345016/) — Hammond Power Solutions
+- 📍 **Location:** Guelph, Ontario, Canada
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Corporate Underwriting Analytics and Digital Risk](https://www.linkedin.com/jobs/view/4470367807/) — Sunlife
+- 📍 **Location:** Fairview, Alberta, Canada
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Corporate Underwriting Analytics and Digital Risk](https://www.linkedin.com/jobs/view/4470387181/) — Sun Life Québec
+- 📍 **Location:** Québec, Quebec, Canada
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Collections Strategy & Performance](https://www.linkedin.com/jobs/view/4441557606/) — goeasy Ltd.
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Pricing Strategy and Operations](https://www.linkedin.com/jobs/view/4470715300/) — Varicent
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, AI Delivery](https://www.linkedin.com/jobs/view/4473804104/) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Director Technical Solutions - Digital](https://www.linkedin.com/jobs/view/4479637225/) — Canada Life
+- 📍 **Location:** London, Ontario, Canada
+- 💰 **Salary:** $149,000 - $199,000 annually
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, AI Engineering](https://www.linkedin.com/jobs/view/4480334466/) — KPMG Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Data & AI Solution Leader](https://www.linkedin.com/jobs/view/4480198060/) — Beyond Data Group
+- 📍 **Location:** Leader, Saskatchewan, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Head of Artificial Intelligence](https://www.linkedin.com/jobs/view/4479611693/) — Red Rover Recruitment
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00/yr - CA$200,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, AI Engineering, Principal Product Scaler](https://www.linkedin.com/jobs/view/4473385776/) — CIBC
+- 📍 **Location:** Greater Toronto Area, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, FP&A, R&D](https://www.linkedin.com/jobs/view/4469789939/) — EvenUp
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $176,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Growth Director | AI-focused Agency | Hybrid in London, ON | $110-130k + benefits](https://www.linkedin.com/jobs/view/4476241228/) — White Bay
+- 📍 **Location:** London, Ontario, Canada
+- 💰 **Salary:** $100,000.00/yr - CA$130,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, Strategy, Planning & Performance](https://www.linkedin.com/jobs/view/4479369314/) — Federated Co-operatives Limited
+- 📍 **Location:** Regina, Saskatchewan, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, Insights](https://www.linkedin.com/jobs/view/4477727018/) — Dig Insights
+- 📍 **Location:** Greater Toronto Area, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, Supply Chain & Operations Finance](https://www.linkedin.com/jobs/view/4452996915/) — Arterra Wines Canada
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $126,111.00 – $173,403.00
+- 🕒 **Posted:** 2026-10-16
+
+### [Senior Director, Products & Platform Management](https://www.linkedin.com/jobs/view/4460453144/) — Lifemark Health Group
+- 📍 **Location:** North York, Ontario, Canada
 - 💰 **Salary:** $180,000.00/yr - CA$200,000.00/yr
 - 🕒 **Posted:** 2026-10-15
 
-### [Senior Director, Business Solutions, Technology & Operations](https://www.linkedin.com/jobs/view/4428294585/) — Go2STAFFING
+### [Vice President, Product Management, Platform & Innovation](https://www.linkedin.com/jobs/view/4464923076/) — Appfire
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-15
 
-### [Data & Analytics leader](https://www.linkedin.com/jobs/view/4479567057/) — HRConnects
+### [VP Product — Software Platform / VP Produit — Plateforme Logicielle](https://www.linkedin.com/jobs/view/4460066614/) — Vention
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, Delivery CX AI](https://www.linkedin.com/jobs/view/4478823320/) — TELUS Digital
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$190,000.00/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Director, AI Transformation](https://www.linkedin.com/jobs/view/4460629177/) — Powerfleet
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $185,000-215,000
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, AI Technology Delivery](https://www.linkedin.com/jobs/view/4471134149/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000.00 - $240,000.00
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Director, Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4470974620/) — EQ Bank
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Director, Strategy & Business Management – Digital Market Infrastructure](https://www.linkedin.com/jobs/view/4461258298/) — BNY
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-14
 
-### [Senior Director, Data Platform](https://www.linkedin.com/jobs/view/4461510975/) — Zynga
+### [Senior Director, Information Technology (Transformation, AI & Enterprise Systems)](https://www.linkedin.com/jobs/view/4479551516/) — Quantum Technology Recruiting Inc. (QTR)
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$160,000.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [Director of Silicon Engineering, AI-Native Chip Design](https://www.linkedin.com/jobs/view/4467404340/) — Cognichip
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $270,000.00/yr - CA$300,000.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [Lead Python AI Principal Engineer (Hands-On), SVP](https://www.linkedin.com/jobs/view/4405393340/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $145,100.00 - $217,700.00
+- 🕒 **Posted:** 2026-10-14
+
+### [Director of AI Content Systems, Marketing](https://www.linkedin.com/jobs/view/4479547437/) — Time Doctor
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Vice President, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4459235443/) — O2E Brands
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Vice-President, Brand, Client Experience and Insights](https://www.linkedin.com/jobs/view/4479725238/) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-14
 
-### [Senior Director, Chapter Lead, Insurance Analytics](https://www.linkedin.com/jobs/view/4479566236/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, Analytics & Insights](https://www.linkedin.com/jobs/view/4478497723/) — Securian Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000.00/yr - CA$170,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Vice President, AI Strategy & Product Management](https://www.linkedin.com/jobs/view/4479554306/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000-$150,000
-- 🕒 **Posted:** 2026-10-14
-
-### [VP, Digital](https://www.linkedin.com/jobs/view/4479567682/) — Canadian Tire Corporation
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, Group Benefits Data Services](https://www.linkedin.com/jobs/view/4478459938/) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, Fraud Analytics & Risk Management](https://www.linkedin.com/jobs/view/4478823000/) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Director Commercial Pricing and Data Governance](https://www.linkedin.com/jobs/view/4479702471/) — UNFI
-- 📍 **Location:** Concord, Ontario, Canada
-- 💰 **Salary:** $119,100.00/yr - $193,600.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, Data Science](https://www.linkedin.com/jobs/view/4440179675/) — Mastercard
-- 📍 **Location:** North York, Ontario, Canada
-- 💰 **Salary:** $154,000 - $247,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, Enterprise Data Governance](https://www.linkedin.com/jobs/view/4461548368/) — QuadReal Property Group
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $155,000 – $175,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Senior Vice President (SVP)-  Toronto Financial Services](https://www.linkedin.com/jobs/view/4441909830/) — CGI
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Associate Director, IOCC Transformation & Innovation](https://www.linkedin.com/jobs/view/4478455882/) — Toronto Pearson International Airport
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Vice President – Governance & Reporting, Internal Audit / Vice-président – Gouvernance et production de rapports, Audit interne](https://www.linkedin.com/jobs/view/4479550583/) — Maples Group
+### [Head of Planning and Management Control](https://www.linkedin.com/jobs/view/4479268186/) — Crédit Agricole CIB
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-14
 
-### [Head of Marketing Strategy & Insights](https://www.linkedin.com/jobs/view/4478469236/) — Vocare Union
-- 📍 **Location:** Canada
-- 💰 **Salary:** $105,000 to $130,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Vice President, Finance & Administration](https://www.linkedin.com/jobs/view/4479526817/) — BoomerangFX
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $190,000.00/yr - CA$230,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Sr. Director, AI Development](https://www.linkedin.com/jobs/view/4467895655/) — OpenText
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Data & Analytics leader](https://www.linkedin.com/jobs/view/4478124761/) — Tata Consultancy Services
+### [Technology Director (Customer Experience Solutions)](https://www.linkedin.com/jobs/view/4468173041/) — APPLY
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-13
 
-### [Data & Analytics Leader - BFSI, AI Transformation](https://www.linkedin.com/jobs/view/4478168812/) — Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!
+### [Director, Product and Design – Enterprise AI](https://www.linkedin.com/jobs/view/4469941644/) — Intact
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-13
+
+### [Chief of Staff, Enterprise AI](https://www.linkedin.com/jobs/view/4468162710/) — Equinix
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-13
 
-### [Data & Analytics Leader/Architect](https://www.linkedin.com/jobs/view/4479203147/) — Epsilon Solutions Ltd.
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-13
-
-### [Vice President, Financial Services and Systems (Regulated Utility)](https://www.linkedin.com/jobs/view/4477581734/) — Liberty
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $225,000.00/yr - CA$300,000.00/yr
-- 🕒 **Posted:** 2026-10-13
-
-### [Associate Director, Group Lead, Data Management Reporting and Analytics](https://www.linkedin.com/jobs/view/4479041425/) — Pfizer
-- 📍 **Location:** Kirkland, Quebec, Canada
-- 💰 **Salary:** $124,400.00 to $207,400.00
-- 🕒 **Posted:** 2026-10-13
-
-### [Sr. Director, AI Architect](https://www.linkedin.com/jobs/view/4477951319/) — Patra Corporation
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-13
-
-### [Director, Intelligent Enterprise Transformation Leader - Finance](https://www.linkedin.com/jobs/view/4478154216/) — RSM Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000 - $238,700
-- 🕒 **Posted:** 2026-10-13
-
-### [Director ALM Analytics and Applied Research](https://www.linkedin.com/jobs/view/4479073369/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Vice President Finance](https://www.linkedin.com/jobs/view/4467632626/) — RECRUITMENT PARTNERS INC.
+- 📍 **Location:** Edmonton, Alberta, Canada
 - 🕒 **Posted:** 2026-10-13
