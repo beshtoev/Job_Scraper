@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 348,
-    "pollable": 217,
+    "companies": 349,
+    "pollable": 218,
     "unresolved": 131
   },
   "companies": [
@@ -4608,6 +4608,19 @@
       "ats": "greenhouse",
       "slug": "honeycomb",
       "careers_url": "https://job-boards.greenhouse.io/honeycomb",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Modern Campus",
+      "archetype": "D",
+      "ats": "rippling",
+      "slug": "moderncampus",
+      "careers_url": "https://ats.rippling.com/moderncampus/jobs",
       "source": "manual",
       "include": [],
       "exclude": [],
