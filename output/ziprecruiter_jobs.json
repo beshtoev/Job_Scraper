@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-18 00:56 UTC",
+  "scraped_at": "2026-10-18 01:17 UTC",
   "total": 2,
   "new_count": 0,
   "jobs": [
@@ -19,21 +19,7 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
-      "ats": "ZipRecruiter",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "On •",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
+      "ats": "ZipRecruiter"
     },
     {
       "company": "Aston Carter",
