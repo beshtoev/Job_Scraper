@@ -1,6 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-18 12:01 UTC*
+*Last updated: 2026-10-18 13:11 UTC*
 
-**0 new role(s)** since last run · 48 total in last 24h
+**1 new role(s)** since last run · 48 total in last 24h
 
-No new roles since the last run.
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010298489376) — Kaishin Search
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $145k–$160k/yr
+- 🕒 **Posted:** 2026-10-17
