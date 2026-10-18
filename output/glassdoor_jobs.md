@@ -1,14 +1,13 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-18 20:31 UTC*
+*Last updated: 2026-10-18 21:47 UTC*
 
-**2 new role(s)** since last run · 41 total in last 24h
+**2 new role(s)** since last run · 38 total in last 24h
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010298489376) — Kaishin Search
+### [Associate Director, Enterprise Control Testing](https://www.glassdoor.ca/job-listing/j?jl=1010297095131) — Royal Bank of Canada
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $145k–$160k/yr
-- 🕒 **Posted:** 2026-10-17
+- 🕒 **Posted:** 2026-10-16
 
-### [Associate Director, Commercial Banking (Corporate Finance Group)](https://www.glassdoor.ca/job-listing/j?jl=1010298409802) — BMO Financial Group
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $70k–$150k/yr
+### [Enterprise Account Director](https://www.glassdoor.ca/job-listing/j?jl=1010298809467) — TC Transcontinental
+- 📍 **Location:** Vaughan, Canada
+- 💰 **Salary:** $125k–$135k/yr
 - 🕒 **Posted:** 2026-10-17
