@@ -1,6 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-18 04:07 UTC*
+*Last updated: 2026-10-18 05:17 UTC*
 
-**0 new role(s)** since last run · 51 total in last 24h
+**1 new role(s)** since last run · 49 total in last 24h
 
-No new roles since the last run.
+### [Cloud Architecture & Engineering, Director](https://www.glassdoor.ca/job-listing/j?jl=1010298317908) — Pwc Canada
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $197k–$247k/yr
+- 🕒 **Posted:** 2026-10-17
