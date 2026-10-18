@@ -78,15 +78,15 @@ def test_known_postings_reuse_details_on_file(env, monkeypatch):
     assert on_file["description"] == "on file" and on_file["salary"] == "$1"
 
 
-def test_the_catch_up_window_is_capped_at_three_days(env, monkeypatch):
+def test_the_catch_up_window_is_capped_at_six_days(env, monkeypatch):
     windows = []
-    monkeypatch.setattr(s, "_linkedin_lookback_seconds", lambda now=None: 6 * 86400)
+    monkeypatch.setattr(s, "_linkedin_lookback_seconds", lambda now=None: 9 * 86400)
     def search(terms, lookback, max_results=100, deadline=None, geos=None):
         windows.append(lookback)
         return fake_search()(terms, lookback)
     monkeypatch.setattr(s, "_linkedin_search", search)
     s.scrape_linkedin_recent()
-    assert set(windows) == {3 * 86400}
+    assert set(windows) == {6 * 86400}
 
 
 def test_a_run_always_moves_past_its_first_term(env, monkeypatch):

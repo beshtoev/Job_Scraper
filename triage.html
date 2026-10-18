@@ -101,7 +101,7 @@
   .theme-toggle button.on { background: var(--panel); color: var(--ink); box-shadow: var(--shadow); }
 
   /* KPI cards */
-  .kpis { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; margin: 20px 0 18px; }
+  .kpis { display: grid; grid-template-columns: repeat(7, 1fr); gap: 12px; margin: 20px 0 18px; }
   .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 14px 16px; box-shadow: var(--shadow); }
   .kpi .num { font-size: 26px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.1; }
@@ -423,7 +423,8 @@
 
 <div class="kpis">
   <div class="kpi"><div class="num" id="kpi-total">0</div><div class="lbl">Total</div></div>
-  <div class="kpi"><div class="num" id="kpi-new">0</div><div class="lbl">New this run</div></div>
+  <div class="kpi" title="Roles first found today (since midnight), after your location, title and employer filters"><div class="num" id="kpi-new">0</div><div class="lbl">New today</div></div>
+  <div class="kpi" title="Roles first found in the last 7 days, after your location, title and employer filters"><div class="num" id="kpi-week">0</div><div class="lbl">New 7 days</div></div>
   <div class="kpi saved"><div class="num" id="kpi-saved">0</div><div class="lbl">Saved</div></div>
   <div class="kpi applied"><div class="num" id="kpi-applied">0</div><div class="lbl">Applied</div></div>
   <div class="kpi interview"><div class="num" id="kpi-interview">0</div><div class="lbl">Interview</div></div>
@@ -1701,7 +1702,13 @@
 
   function renderKpis() {
     $('kpi-total').textContent = VIEW.length;
-    $('kpi-new').textContent = (SEED.new_jobs || []).length || SEED.new_count || 0;
+    // Counted from first_seen (when the scraper first found the role), not from the latest run of
+    // each source: "New this run" reset on every run, so it fell from 40-odd to 1 within one day
+    // while nothing had been lost (2026-10-18).
+    const midnight = new Date(); midnight.setHours(0, 0, 0, 0);
+    const firstSeen = j => (j.first_seen ? Date.parse(j.first_seen) : NaN);
+    $('kpi-new').textContent = VIEW.filter(j => firstSeen(j) >= midnight.getTime()).length;
+    $('kpi-week').textContent = VIEW.filter(j => firstSeen(j) >= midnight.getTime() - 6 * 86400000).length;
     const saved = VIEW.filter(j => state.triage[j.url] === 'saved').length;
     const applied = VIEW.filter(j => state.triage[j.url] === 'applied').length;
     const interview = VIEW.filter(j => state.triage[j.url] === 'interview').length;

@@ -1196,7 +1196,7 @@ def _describe_window(seconds: int) -> str:
 # there, and the window is only marked caught up once a full pass over the terms completes.
 LINKEDIN_SEARCH_BUDGET_SECONDS = int(os.environ.get("LINKEDIN_SEARCH_BUDGET_SECONDS", 28 * 60))
 LINKEDIN_ENRICH_BUDGET_SECONDS = int(os.environ.get("LINKEDIN_ENRICH_BUDGET_SECONDS", 37 * 60))
-LINKEDIN_CATCHUP_MAX_DAYS = 3          # an older posting is rarely worth applying to
+LINKEDIN_CATCHUP_MAX_DAYS = 6          # within the 7-day freshness rule; 3 lost Oct 13-15 after a 5-day outage
 LINKEDIN_CURSOR_KEY = "linkedin_cursor"
 _LINKEDIN_OUT_OF_TIME = False
 _LINKEDIN_STAMP: datetime | None = None
