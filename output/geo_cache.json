@@ -376,7 +376,35 @@
       43.5665497,
       -80.4995154
     ],
-    "1 presidents choice circle, north york, on, canada": null
+    "1 presidents choice circle, north york, on, canada": null,
+    "addison, on, canada": [
+      44.6612481,
+      -75.883781
+    ],
+    "bolton, on, canada": [
+      43.879548,
+      -79.73826
+    ],
+    "high level, ab, canada": [
+      58.5115361,
+      -117.1438756
+    ],
+    "iqaluit, nu, canada": [
+      63.7492738,
+      -68.5213763
+    ],
+    "new westminster, bc, canada": [
+      49.2067726,
+      -122.9108818
+    ],
+    "st thomas, on, canada": [
+      42.779022,
+      -81.1929882
+    ],
+    "st-georges, qc, canada": [
+      46.122987,
+      -70.671959
+    ]
   },
   "research": {}
 }
