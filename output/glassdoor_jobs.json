@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-19 14:41 UTC",
+  "scraped_at": "2026-10-19 15:40 UTC",
   "total": 31,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Lifemark Health Group",
@@ -811,58 +811,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Scotiabank",
-      "title": "Director, AI Business Solutions, Canadian Wealth Management",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010299841704",
-      "date_posted": "2026-10-19",
-      "description": "Regularly report progress on key initiatives and program outcomes to CWM leadership team, providing insights and strategic recommendations to inform-decision…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Canadian Nuclear Laboratories",
-      "title": "Director, Governance and Controls",
-      "location": "Chalk River, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010299852318",
-      "date_posted": "2026-10-19",
-      "description": "Ability to develop and execute strategic plans that align organizational priorities with corporate objectives while providing leadership in governance,…",
-      "salary": "$153k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "Chalk River",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
