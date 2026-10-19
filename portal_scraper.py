@@ -545,6 +545,47 @@ def fetch_ultipro(entry: dict) -> list[dict]:
     return out
 
 
+EPAM_API = "https://careers.epam.com/api/jobs/v2/search/careers-i18n"
+EPAM_CANADA = "4000741400000172696"
+
+
+def fetch_epam(entry: dict) -> list[dict]:
+    """EPAM Systems' own careers platform. Its jobs API's "careers-i18n" listing spans every
+    role; facets=country=<id> keeps Canada (51 roles on 2026-10-19). Records carry full text,
+    cities and created_at. Ported 2026-10-19 from job-capture's ats.Epam."""
+    def as_list(v):
+        if isinstance(v, str):
+            try:
+                v = json.loads(v)
+            except ValueError:
+                return []
+        return v if isinstance(v, list) else []
+    out, frm, total = [], 0, None
+    while True:
+        query = urllib.parse.urlencode({"lang": "en", "size": "50", "from": str(frm),
+                                        "facets": f"country={EPAM_CANADA}"})
+        data = (http_json(f"{EPAM_API}?{query}") or {}).get("data")
+        if not isinstance(data, dict) or not isinstance(data.get("jobs"), list):
+            raise SourceFailure("missing jobs array from careers.epam.com")
+        total = data.get("total") or 0 if total is None else total
+        for item in data["jobs"]:
+            cities = [c.get("name", "") for c in as_list(item.get("city")) if isinstance(c, dict)]
+            vtype = (item.get("vacancy_type") or "").strip()
+            loc = ", ".join([c for c in cities if c] + ["Canada"])
+            seo = item.get("seo")
+            seo = json.loads(seo) if isinstance(seo, str) else (seo or {})
+            out.append(posting(entry, title=item.get("name", ""),
+                               url="https://careers.epam.com" + (seo.get("url") or ""),
+                               location=f"{loc} ({vtype})" if vtype else loc,
+                               req_id=str(item.get("uid") or ""), date_posted=item.get("created_at") or "",
+                               description=item.get("text") or "", remote=vtype.lower() == "remote",
+                               department=", ".join(str(x) for x in as_list(item.get("job_specialization")))))
+        frm += len(data["jobs"])
+        if not data["jobs"] or frm >= total:
+            break
+    return out
+
+
 def _jsonld_nodes(value):
     if isinstance(value, list):
         for item in value:
@@ -597,6 +638,7 @@ FETCHERS = {
     "jazzhr": fetch_jazzhr,
     "opencats": fetch_opencats,
     "ultipro": fetch_ultipro,
+    "epam": fetch_epam,
 }
 
 
