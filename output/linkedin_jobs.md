@@ -1,46 +1,28 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-19 19:13 UTC*
+*Last updated: 2026-10-19 19:39 UTC*
 
-**9 new role(s)** since last run · 13 total in last 1h
+**5 new role(s)** since last run · 13 total in last 1h
 
-### [Principal Enterprise Architect (Director)](https://www.linkedin.com/jobs/view/4481248362/) — OLG
+### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4479310058/) — Root Financial
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $138,400.00 - $188,400.00
+- 💰 **Salary:** $140,000–$165,000
 - 🕒 **Posted:** 2026-10-19
 
-### [Director Information Management](https://www.linkedin.com/jobs/view/4480268167/) — Turner & Townsend
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-19
-
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4466343685/) — MoversSuite
+### [Fractional Chief AI Officer](https://www.linkedin.com/jobs/view/4480272275/) — Axial Search
 - 📍 **Location:** Canada
-- 💰 **Salary:** $160,000 – $175,000
+- 💰 **Salary:** $110.00/hr - CA$200.00/hr
 - 🕒 **Posted:** 2026-10-19
 
-### [Vice President, Technology and Transformation Risk](https://www.linkedin.com/jobs/view/4471514639/) — Aviva Canada
+### [Director, Revenue Operations, Enterprise](https://www.linkedin.com/jobs/view/4480260697/) — Clio
+- 📍 **Location:** Canada
+- 💰 **Salary:** $220,400 to $330,600
+- 🕒 **Posted:** 2026-10-19
+
+### [Vice President of Finance And Operations](https://www.linkedin.com/jobs/view/4480279114/) — Ontario Brain Institute
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-19
 
-### [VP Product — Software Platform / VP Produit — Plateforme Logicielle](https://www.linkedin.com/jobs/view/4460066614/) — Vention
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-19
-
-### [Principal Enterprise Architect (Director)](https://www.linkedin.com/jobs/view/4481243565/) — OLG
-- 📍 **Location:** Sault Ste. Marie, Ontario, Canada
-- 💰 **Salary:** $138,400.00 - $188,400.00
-- 🕒 **Posted:** 2026-10-19
-
-### [Director, Revenue Operations, Enterprise](https://www.linkedin.com/jobs/view/4480265467/) — Clio
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $220,400 to $330,600
-- 🕒 **Posted:** 2026-10-19
-
-### [Director, Revenue Operations, Enterprise](https://www.linkedin.com/jobs/view/4480267390/) — Clio
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $220,400 to $330,600
-- 🕒 **Posted:** 2026-10-19
-
-### [Director, Revenue Operations, Enterprise](https://www.linkedin.com/jobs/view/4480261726/) — Clio
+### [Director, Financial Reporting and Analysis , Global FP&A](https://www.linkedin.com/jobs/view/4481262049/) — KPMG Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $220,400 to $330,600
+- 💰 **Salary:** $125,000 to $175,000
 - 🕒 **Posted:** 2026-10-19
