@@ -1,180 +1,266 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-19 02:18 UTC*
+*Last updated: 2026-10-19 03:16 UTC*
 
-**39 new role(s)** since last run · 78 total in last 1h
+**60 new role(s)** since last run · 125 total in last 1h
 
-### [Director, Finance (Hybrid)](https://www.linkedin.com/jobs/view/4433125742/) — Arch Insurance Group Inc.
+### [Director, Derivatives Post Trade Technology](https://www.linkedin.com/jobs/view/4416323503/) — Scotiabank
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-10-18
 
-### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4478110031/) — Vaco by Highspring
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/hr - CA$85.00/hr
+### [Director, Securities Post Trade Technology](https://www.linkedin.com/jobs/view/4396362111/) — Scotiabank
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-18
 
-### [Director, Planning & Allocations - North America](https://www.linkedin.com/jobs/view/4463395948/) — Arc'teryx Equipment
-- 📍 **Location:** North Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-10-18
-
-### [Director of Finance](https://www.linkedin.com/jobs/view/4480595468/) — Enersul
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-10-17
-
-### [Associate Director, Supply Chain Finance - Canada](https://www.linkedin.com/jobs/view/4461407584/) — Kraft Heinz
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $181,000.00 - $210,000.00
-- 🕒 **Posted:** 2026-10-17
-
-### [Finance Director](https://www.linkedin.com/jobs/view/4477747327/) — Aston Carter
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $70.00/hr - CA$75.00/hr
-- 🕒 **Posted:** 2026-10-17
-
-### [Deals Value Creation Analytics Director](https://www.linkedin.com/jobs/view/4454572173/) — PwC Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $175,000 - $225,000
-- 🕒 **Posted:** 2026-10-17
-
-### [Director, FP&A, R&D](https://www.linkedin.com/jobs/view/4469789939/) — EvenUp
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $176,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Director, Supply Chain & Operations Finance](https://www.linkedin.com/jobs/view/4452996915/) — Arterra Wines Canada
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $126,111.00 – $173,403.00
-- 🕒 **Posted:** 2026-10-16
-
-### [Director of Finance](https://www.linkedin.com/jobs/view/4480501412/) — Other.™
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$175,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4431877573/) — UpCounting
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-16
-
-### [Directeur.trice - Information Financière [Hybride] | Director - Financial Reporting [Hybrid] - FR](https://www.linkedin.com/jobs/view/4462892977/) — EDF power solutions North America
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-16
-
-### [Director, Strategy, Planning & Performance](https://www.linkedin.com/jobs/view/4479369314/) — Federated Co-operatives Limited
-- 📍 **Location:** Regina, Saskatchewan, Canada
-- 🕒 **Posted:** 2026-10-16
-
-### [Head of Strategy & Operations](https://www.linkedin.com/jobs/view/4461336792/) — Midnite
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-16
-
-### [(CAN) Senior Director, Business Intelligence Strategy & Media Insights – Walmart Connect](https://www.linkedin.com/jobs/view/4443971423/) — Walmart Canada
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-10-16
-
-### [Director Finance, Fabrication Operations](https://www.linkedin.com/jobs/view/4459563352/) — Jack Morton Worldwide
-- 📍 **Location:** Addison, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
-
-### [Finance Director](https://www.linkedin.com/jobs/view/4477026422/) — Toronto Metropolitan University
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $97,655 - $155,994
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Director, Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4470974620/) — EQ Bank
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
-
-### [Director Financial Reporting (Mat Leave Coverage)](https://www.linkedin.com/jobs/view/4479120972/) — Varicent
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $138,200.00 - $181,400.00
-- 🕒 **Posted:** 2026-10-15
-
-### [Director, Corporate Financial Reporting - ICOFR | Great West](https://www.linkedin.com/jobs/view/4469495827/) — Canada Life
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $128,200.00 - $178,200.00 annually
-- 🕒 **Posted:** 2026-10-15
-
-### [Director, Financial Reporting & Controllership](https://www.linkedin.com/jobs/view/4477091428/) — The Mason Group - Strategic Search Partners
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $165,000.00/yr - CA$180,000.00/yr
-- 🕒 **Posted:** 2026-10-15
-
-### [Director, Finance](https://www.linkedin.com/jobs/view/4479138294/) — Thorek/Scott and Partners
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-15
-
-### [Director, Corporate Financial Reporting - ICOFR | Great West](https://www.linkedin.com/jobs/view/4469499725/) — Canada Life
-- 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $128,200.00 - $178,200.00 annually
-- 🕒 **Posted:** 2026-10-15
-
-### [Director of Finance](https://www.linkedin.com/jobs/view/4406273026/) — MNP Executive Search & Professional Recruitment
-- 📍 **Location:** Brandon, Manitoba, Canada
-- 🕒 **Posted:** 2026-10-15
-
-### [Senior Director of Planning and Allocation](https://www.linkedin.com/jobs/view/4471140044/) — Psycho Bunny
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-15
-
-### [Director of Finance And Administration](https://www.linkedin.com/jobs/view/4478471694/) — Winchesters
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $200,000.00/yr - CA$250,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Chief Financial Officer Western Ontario](https://www.linkedin.com/jobs/view/4479593109/) — The CFO Centre Canada
-- 📍 **Location:** Hamilton, Ontario, Canada
-- 💰 **Salary:** $2-$100
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, Print & Post Operations & Financial Management](https://www.linkedin.com/jobs/view/4460077714/) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, FP&A - Site Operations](https://www.linkedin.com/jobs/view/4470200767/) — Compass Minerals
-- 📍 **Location:** Goderich, Ontario, Canada
-- 💰 **Salary:** $150,000 - $187,500 per year
-- 🕒 **Posted:** 2026-10-14
-
-### [Director, FP&A and Commercial Controlling](https://www.linkedin.com/jobs/view/4479240195/) — Masco Canada
-- 📍 **Location:** St Thomas, Ontario, Canada
-- 💰 **Salary:** $136,500.00 - $186,450.00
-- 🕒 **Posted:** 2026-10-14
-
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4479246149/) — Solink
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-14
-
-### [Director - Financial Planning](https://www.linkedin.com/jobs/view/4478480222/) — Acute Care Alberta
-- 📍 **Location:** Alberta, Canada
-- 💰 **Salary:** $57.07 - $100.39
-- 🕒 **Posted:** 2026-10-14
-
-### [Vice President, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4459235443/) — O2E Brands
+### [Senior Director of Data](https://www.linkedin.com/jobs/view/4463670856/) — Cover Genius
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-18
 
-### [Head of Planning and Management Control](https://www.linkedin.com/jobs/view/4479268186/) — Crédit Agricole CIB
+### [Director, Google Gemini Enterprise - Data & AI](https://www.linkedin.com/jobs/view/4427931137/) — KPMG Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $147,000 to $192,000
+- 🕒 **Posted:** 2026-10-18
+
+### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4467275360/) — BDO Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-18
+
+### [Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4444347373/) — MNP
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $90,000–$140,000
+- 🕒 **Posted:** 2026-10-18
+
+### [Digital Consulting Director-Oracle EPM Planning (Bilingual French and English)](https://www.linkedin.com/jobs/view/4423616636/) — Huron
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $165,000-$225,000
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Enterprise Business Applications](https://www.linkedin.com/jobs/view/4413345016/) — Hammond Power Solutions
+- 📍 **Location:** Guelph, Ontario, Canada
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Wealth Digital AI Platforms & Technology Delivery](https://www.linkedin.com/jobs/view/4472200079/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000.00 - $240,000.00
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Data Foundations, Automation & Infrastructure](https://www.linkedin.com/jobs/view/4480816226/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-10-17
+
+### [Vice President, Global Consumer Data & Insights](https://www.linkedin.com/jobs/view/4472211704/) — Arc'teryx Equipment
+- 📍 **Location:** North Vancouver, British Columbia, Canada
+- 💰 **Salary:** USD$224,000 - USD$336,000
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Collections Strategy & Performance](https://www.linkedin.com/jobs/view/4441557606/) — goeasy Ltd.
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-10-17
+
+### [Director, Enterprise Solutions – Finance and Operations](https://www.linkedin.com/jobs/view/4477729802/) — Pomerleau
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, Enterprise Solutions – Finance and Operations](https://www.linkedin.com/jobs/view/4477732516/) — Pomerleau
+- 📍 **Location:** St-Georges, Quebec, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, Artificial Intelligence, Finance](https://www.linkedin.com/jobs/view/4480529745/) — AtkinsRéalis
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Directeur(trice) Principal(e) de la Technologie et de l'Innovation | Director of Software Technology and Innovation](https://www.linkedin.com/jobs/view/4454053997/) — Crowe BGK
+- 📍 **Location:** Westmount, Quebec, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Regional Director, Data & AI](https://www.linkedin.com/jobs/view/4474819980/) — Royal Victoria Regional Health Centre
+- 📍 **Location:** Barrie, Ontario, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Director, HR Transformation, Systems and Analytics](https://www.linkedin.com/jobs/view/4477707798/) — Lifemark Health Group
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00/yr - CA$145,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Data & AI Solution Leader](https://www.linkedin.com/jobs/view/4480198060/) — Beyond Data Group
+- 📍 **Location:** Leader, Saskatchewan, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [VP - Distribution Performance and Planning](https://www.linkedin.com/jobs/view/4479541768/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $70,000.00 - $150,000.00
+- 🕒 **Posted:** 2026-10-16
+
+### [Director of Clinical Informatics – Enterprise EHR/CIS Implementation](https://www.linkedin.com/jobs/view/4479617945/) — SereneAid
+- 📍 **Location:** Fredericton, New Brunswick, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [Vice President, Portfolio Analytics](https://www.linkedin.com/jobs/view/4470102200/) — The Citco Group Limited
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $115,000 - 155,000
+- 🕒 **Posted:** 2026-10-16
+
+### [Associate Director, Analytics](https://www.linkedin.com/jobs/view/4464450778/) — Monks
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000—$150,000
+- 🕒 **Posted:** 2026-10-16
+
+### [Managing Director, Data, AI, & Cloud](https://www.linkedin.com/jobs/view/4479192714/) — TELUS Digital
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $236,000.00/yr - $310,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Director Corporate Development & Strategy](https://www.linkedin.com/jobs/view/4480500384/) — ETG Commodities Inc.
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-10-16
+
+### [IT Operations & Platform Director](https://www.linkedin.com/jobs/view/4479843386/) — GRAITEC GROUP
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Director, Business Solutions, Technology & Operations](https://www.linkedin.com/jobs/view/4428294585/) — Go2STAFFING
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Head of Global HR Analytics & Data Office](https://www.linkedin.com/jobs/view/4469608310/) — Scotiabank
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, Chapter Lead, Media Analytics](https://www.linkedin.com/jobs/view/4479893328/) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Senior Director, AI and Data & Integration Platforms](https://www.linkedin.com/jobs/view/4471167225/) — RBC
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, AI Business Solutions, International Wealth Management](https://www.linkedin.com/jobs/view/4479167445/) — Scotia Wealth Management
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, Data Engineering](https://www.linkedin.com/jobs/view/4477060084/) — Mastercard
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $154,000 - $247,000
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, Public & Alternative Investments, Data Platforms](https://www.linkedin.com/jobs/view/4477310078/) — CPP Investments | Investissements RPC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Vice President, Data and AI Foundations](https://www.linkedin.com/jobs/view/4479751525/) — SE Health
+- 📍 **Location:** Markham, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Associate Partner – (Re)insurance Head of Data & AI](https://www.linkedin.com/jobs/view/4443386270/) — Synpulse
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, Data Governance](https://www.linkedin.com/jobs/view/4477303376/) — Nutrien
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-10-15
+
+### [Director, Indigenous Partnerships, Data and Analytic Services](https://www.linkedin.com/jobs/view/4479107635/) — ICES
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000 - $155,000
+- 🕒 **Posted:** 2026-10-15
+
+### [Director ERP Program Delivery******Directeur du programme PRE](https://www.linkedin.com/jobs/view/4479256735/) — IPEX by Aliaxis
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-14
 
-### [Director of Finance, FP&A](https://www.linkedin.com/jobs/view/4478754582/) — Kassen Recruitment
-- 📍 **Location:** Burlington, Ontario, Canada
+### [Senior Director, Information Technology (Transformation, AI & Enterprise Systems)](https://www.linkedin.com/jobs/view/4479551516/) — Quantum Technology Recruiting Inc. (QTR)
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$160,000.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [Director Commercial Pricing and Data Governance](https://www.linkedin.com/jobs/view/4479702471/) — UNFI
+- 📍 **Location:** Concord, Ontario, Canada
+- 💰 **Salary:** $119,100.00/yr - $193,600.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Director, Strategy & Business Management – Digital Market Infrastructure](https://www.linkedin.com/jobs/view/4461258298/) — BNY
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Investment Product Platform](https://www.linkedin.com/jobs/view/4473532959/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $110,250.00 - $160,250.00
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Analytics & Insights](https://www.linkedin.com/jobs/view/4478497723/) — Securian Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $130,000.00/yr - CA$170,000.00/yr
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Group Benefits Data Services](https://www.linkedin.com/jobs/view/4478459938/) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Fraud Analytics & Risk Management](https://www.linkedin.com/jobs/view/4478823000/) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Data & Analytics leader](https://www.linkedin.com/jobs/view/4479567057/) — HRConnects
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Director, Chapter Lead, Insurance Analytics](https://www.linkedin.com/jobs/view/4479566236/) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Senior Director, Data Platform](https://www.linkedin.com/jobs/view/4461510975/) — Zynga
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Enterprise Data Governance](https://www.linkedin.com/jobs/view/4461548368/) — QuadReal Property Group
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $155,000 – $175,000
+- 🕒 **Posted:** 2026-10-14
+
+### [Associate Director, IOCC Transformation & Innovation](https://www.linkedin.com/jobs/view/4478455882/) — Toronto Pearson International Airport
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Vice President – Governance & Reporting, Internal Audit / Vice-président – Gouvernance et production de rapports, Audit interne](https://www.linkedin.com/jobs/view/4479550583/) — Maples Group
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Data Science](https://www.linkedin.com/jobs/view/4440179675/) — Mastercard
+- 📍 **Location:** North York, Ontario, Canada
+- 💰 **Salary:** $154,000 - $247,000
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Wealth Management Strategy](https://www.linkedin.com/jobs/view/4479266879/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, Enterprise Software Solutions](https://www.linkedin.com/jobs/view/4479205097/) — Seneca Polytechnic
+- 📍 **Location:** North York, Ontario, Canada
+- 💰 **Salary:** $155,875 - $218,223
 - 🕒 **Posted:** 2026-10-13
 
-### [Vice President, Financial Services and Systems (Regulated Utility)](https://www.linkedin.com/jobs/view/4477581734/) — Liberty
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $225,000.00/yr - CA$300,000.00/yr
+### [Data & Analytics Leader - BFSI, AI Transformation](https://www.linkedin.com/jobs/view/4478168812/) — Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-13
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4384641072/) — MNP Executive Search & Professional Recruitment
-- 📍 **Location:** Kingston, Ontario, Canada
+### [Data & Analytics Leader/Architect](https://www.linkedin.com/jobs/view/4479203147/) — Epsilon Solutions Ltd.
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-13
 
-### [Director of Finance - Global Services & Aftermarket](https://www.linkedin.com/jobs/view/4478171262/) — Telescope Recruitment
-- 📍 **Location:** Bolton, Ontario, Canada
-- 💰 **Salary:** $200,000.00/yr - CA$230,000.00/yr
+### [Data & Analytics leader](https://www.linkedin.com/jobs/view/4478124761/) — Tata Consultancy Services
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-13
 
-### [Director, Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4477958883/) — Jobgether
-- 📍 **Location:** Canada
+### [Associate Director, Group Lead, Data Management Reporting and Analytics](https://www.linkedin.com/jobs/view/4479041425/) — Pfizer
+- 📍 **Location:** Kirkland, Quebec, Canada
+- 💰 **Salary:** $124,400.00 to $207,400.00
+- 🕒 **Posted:** 2026-10-13
+
+### [Director, Canada Strategy](https://www.linkedin.com/jobs/view/4478181189/) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-13
+
+### [Vice President, US Financial Consulting](https://www.linkedin.com/jobs/view/4479083936/) — Richter
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-13
