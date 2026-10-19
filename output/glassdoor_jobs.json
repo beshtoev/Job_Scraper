@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-19 08:14 UTC",
+  "scraped_at": "2026-10-19 09:16 UTC",
   "total": 34,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Seneca Polytechnic",
@@ -888,32 +888,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Sun Life",
-      "title": "VP, Business Group Chief Information Security Officer, Canada",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010298286972",
-      "date_posted": "2026-10-17",
-      "description": "Chaque jour, vous aurez de nouvelles et passionnantes occasions de rendre la vie plus brillante pour nos Clients – qui sont au cœur de tout ce que nous faisons.",
-      "salary": "$195k–$270k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
