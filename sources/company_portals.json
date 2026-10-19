@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 349,
-    "pollable": 218,
+    "companies": 350,
+    "pollable": 219,
     "unresolved": 131
   },
   "companies": [
@@ -4621,6 +4621,19 @@
       "ats": "rippling",
       "slug": "moderncampus",
       "careers_url": "https://ats.rippling.com/moderncampus/jobs",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Kimberly-Clark",
+      "archetype": "D",
+      "ats": "workday",
+      "slug": "",
+      "careers_url": "https://kimberlyclark.wd1.myworkdayjobs.com/SeniorLeaders",
       "source": "manual",
       "include": [],
       "exclude": [],
