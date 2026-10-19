@@ -134,6 +134,11 @@
       49.2861912,
       -123.1199006
     ],
+    "70 foster drive, sault ste. marie, on, canada": [
+      46.5093014,
+      -84.335297
+    ],
+    "70 foster drive, toronto, on, canada": null,
     "750 main street, moncton, canada": [
       46.0881352,
       -64.7766355
@@ -352,6 +357,10 @@
     "sainte-anne-de-bellevue, qc, canada": [
       45.4038563,
       -73.9523976
+    ],
+    "sault ste. marie, on, canada": [
+      46.5126554,
+      -84.3330301
     ],
     "sherbrooke, qc, canada": [
       45.403271,
