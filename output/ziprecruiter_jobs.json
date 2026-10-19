@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-18 22:52 UTC",
+  "scraped_at": "2026-10-19 00:17 UTC",
   "total": 4,
   "new_count": 0,
   "jobs": [
@@ -7,7 +7,7 @@
       "company": "Aston Carter",
       "title": "Finance Director",
       "location": "Toronto, ON • On-site",
-      "url": "https://www.ziprecruiter.com/km/AAG2iqW3q2akeQSTZb8fosBmIzaBWcQd_WK9_e9eH9fVe2iNONDcRuN3w3ZDQU_1n7tgVzu9ARHCW_Q7Xb2EKmB8_TuglFJ_RKokQoSYO3s0LW8eQ2sFDzMe41zJttgHUDdMm_anWo0zyb2-gc-Hd49kiUMQ4f9Gwfe69S-zEwlVW3VFwH2lD1s8GvHG9RIfjdbUQLwZTE1Q5rfgaO2QVo9KsbwdhNEj9fmtW2mQK9NMVvD9rYWnYhGyject7rQhRqeJ118IMjfhzpX2EJDrIpXTmnAvPG7vx4AdHrfxd2HN2EFVbXXtJg7bB6Kc1nve-HSX_46lS-OGp1oYAmINpYFoJ8oeZ3IxAWWdy4dC6SXSWRNUUILQ7y0_1RwJAwW0Mv2CiR-Hh311xp8?tsid=111000275",
+      "url": "https://www.ziprecruiter.com/km/AAG2iqW3q2akeQSTZb8fosBmIzaBWcQd_WK9_e9eH9fVe2iNONDcRuN3w3ZDQU_1n7tgVzu9ARHCW_Q7Xb2EKmB8_TuglFJ_RKokQoSYO3s0LW8eQ2sFDzMe41zJttgHUDdMm_anWo0zyb2-gc-Hd49kiUMQ4f9Gwfe69S-zEwlVW3VFwH2lD1s8GvHG9RIfjdbUQLwZTE1Q5rfgaO2QVo9KsbwdhNEj9fmtW2mQK9NMVvD9rYWnYhGyject7rQhRqeJ118IMjfhzpX2EJDrIpXTmnAvPG7vx4AdHrfxd2HN2EFVbXXtJg7bB6Kc1nve-HSX_46lS-OGp1oYAmINpYFoJ8oeZ3IxAWWdy4dC6SXSWRNUUILQ7y0_1RwJAwW0Mv2CiR-Hh311xp8?tsid=111000275&auth_token=5_1792242744_fg3SyT7FMSUR4c7BDLxmPXYK1bN0shxtmlGShID7oGI&contact_id=69ca2cc3&expires=1792588344",
       "direct_url": "",
       "company_url": "",
       "date_posted": "",
@@ -19,21 +19,7 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
-      "ats": "ZipRecruiter",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "On •",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
+      "ats": "ZipRecruiter"
     },
     {
       "company": "Aston Carter",
