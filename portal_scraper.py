@@ -465,6 +465,86 @@ def fetch_opencats(entry: dict) -> list[dict]:
     return out
 
 
+def _ultipro_board(host: str, tenant: str) -> str:
+    """UKG/UltiPro: the board GUID appears only in the redirect from the tenant root."""
+    req = urllib.request.Request(f"https://{host}/{tenant}/", headers={
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,*/*", "Accept-Language": "en-CA,en;q=0.9"})
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+            final = resp.geturl()
+    except Exception:  # noqa: BLE001
+        return ""
+    m = re.search(r"/JobBoard/([0-9a-fA-F-]{36})", final or "")
+    return m.group(1) if m else ""
+
+
+def _ultipro_description(url: str) -> str:
+    """The requisition text is in the detail page's embedded `var opportunity = {...}`
+    (the list call's BriefDescription is a company blurb, identical on every posting)."""
+    try:
+        body = http_text(url)
+    except SourceFailure:
+        return ""
+    m = re.search(r"var\s+opportunity\s*=\s*", body)
+    if not m or "{" not in body[m.end():]:
+        return ""
+    start = body.index("{", m.end())
+    try:
+        model, _ = json.JSONDecoder().raw_decode(body[start:])
+    except ValueError:
+        return ""
+    return strip_html(model.get("Description") or "")
+
+
+def fetch_ultipro(entry: dict) -> list[dict]:
+    """UKG/UltiPro boards (recruiting.ultipro.com/<TENANT> or the Canadian recruiting.ultipro.ca).
+    A tenant with no board on .com is retried on .ca: Canadian tenants live only there.
+    Ported 2026-10-19 from job-capture's ats.UltiPro."""
+    parts = urllib.parse.urlsplit(entry.get("careers_url", ""))
+    host = parts.netloc or "recruiting.ultipro.com"
+    tenant = (parts.path.strip("/").split("/") or [""])[0] or entry.get("slug", "")
+    guid = _ultipro_board(host, tenant)
+    if not guid and host.endswith(".com"):
+        host = "recruiting.ultipro.ca"
+        guid = _ultipro_board(host, tenant)
+    if not guid:
+        raise SourceFailure("no board GUID in the UltiPro redirect")
+    api = f"https://{host}/{tenant}/JobBoard/{guid}/JobBoardView/LoadSearchResults"
+    out, skip, total = [], 0, None
+    while True:
+        data = http_json(api, {"opportunitySearch": {"Top": 100, "Skip": skip, "QueryString": "",
+                                                      "OrderBy": [{"Value": "postedDateDesc"}], "Filters": []}})
+        if not isinstance(data, dict) or "opportunities" not in data:
+            raise SourceFailure("missing opportunities array")
+        batch = data.get("opportunities") or []
+        total = data.get("totalCount") or len(batch) if total is None else total
+        for item in batch:
+            places = []
+            for loc in item.get("Locations") or []:
+                addr = loc.get("Address") or {}
+                bits = [loc.get("LocalizedDescription") or loc.get("LocalizedName") or "", addr.get("City") or "",
+                        (addr.get("State") or {}).get("Name") or "", (addr.get("Country") or {}).get("Name") or ""]
+                seen, keep = set(), []
+                for b in (x.strip() for x in bits):
+                    if b and b.lower() not in seen:
+                        seen.add(b.lower()); keep.append(b)
+                if keep:
+                    places.append(", ".join(keep))
+            home = any((loc.get("LocalizedDescription") or "").strip().lower().startswith("home")
+                       for loc in item.get("Locations") or [])
+            title = item.get("Title", "")
+            url = f"https://{host}/{tenant}/JobBoard/{guid}/OpportunityDetail?opportunityId={item.get('Id', '')}"
+            out.append(posting(entry, title=title, url=url, location="; ".join(places),
+                               req_id=str(item.get("RequisitionNumber") or item.get("Id") or ""),
+                               date_posted=item.get("PostedDate") or "", remote=True if home else None,
+                               description=_ultipro_description(url) if _title_relevant(title) else ""))
+        skip += len(batch)
+        if not batch or skip >= (total or 0):
+            break
+    return out
+
+
 def _jsonld_nodes(value):
     if isinstance(value, list):
         for item in value:
@@ -516,6 +596,7 @@ FETCHERS = {
     "freshteam": fetch_freshteam,
     "jazzhr": fetch_jazzhr,
     "opencats": fetch_opencats,
+    "ultipro": fetch_ultipro,
 }
 
 

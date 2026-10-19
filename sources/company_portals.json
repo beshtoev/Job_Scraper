@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 350,
-    "pollable": 219,
+    "companies": 354,
+    "pollable": 223,
     "unresolved": 131
   },
   "companies": [
@@ -4634,6 +4634,58 @@
       "ats": "workday",
       "slug": "",
       "careers_url": "https://kimberlyclark.wd1.myworkdayjobs.com/SeniorLeaders",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Atlantic Packaging Products",
+      "archetype": "D",
+      "ats": "ultipro",
+      "slug": "ATL5003ALPK",
+      "careers_url": "https://recruiting.ultipro.ca/ATL5003ALPK",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "BioScript Solutions",
+      "archetype": "D",
+      "ats": "ultipro",
+      "slug": "BIO5000BIOS",
+      "careers_url": "https://recruiting.ultipro.ca/BIO5000BIOS",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Goway Travel Limited",
+      "archetype": "D",
+      "ats": "ultipro",
+      "slug": "GOW5000GOWT",
+      "careers_url": "https://recruiting.ultipro.ca/GOW5000GOWT",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Top Aces",
+      "archetype": "D",
+      "ats": "ultipro",
+      "slug": "TOP5000TACI",
+      "careers_url": "https://recruiting.ultipro.com/TOP5000TACI",
       "source": "manual",
       "include": [],
       "exclude": [],
