@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-19 15:50 UTC*
+*Last updated: 2026-10-19 16:36 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4481200865/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
-- 🕒 **Posted:** 2026-10-19
-
-### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4481202657/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4481203731/) — Michael Page
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $225,000.00/yr - CA$300,000.00/yr
 - 🕒 **Posted:** 2026-10-19
