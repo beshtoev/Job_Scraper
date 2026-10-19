@@ -3,6 +3,7 @@
     "/teletravail, on, canada": null,
     "000 what you'll do drive, montreal, qc, canada": null,
     "1 presidents choice circle, brampton, on, canada": null,
+    "1 presidents choice circle, north york, on, canada": null,
     "1 york street, toronto, canada": [
       43.6417091,
       -79.379678
@@ -109,6 +110,10 @@
       43.8217487,
       -79.3418229
     ],
+    "37955 second avenue, squamish, bc, canada": [
+      49.6980971,
+      -123.1557038
+    ],
     "390 bay st, toronto, on, canada": [
       43.6513398,
       -79.3817763
@@ -151,6 +156,10 @@
       49.0521162,
       -122.329479
     ],
+    "addison, on, canada": [
+      44.6612481,
+      -75.883781
+    ],
     "baie-d’urfé, qc, canada": [
       45.4174258,
       -73.9153643
@@ -158,6 +167,10 @@
     "bedford, ns, canada": [
       44.7303901,
       -63.6582365
+    ],
+    "bolton, on, canada": [
+      43.879548,
+      -79.73826
     ],
     "boucherville, qc, canada": [
       45.6050197,
@@ -175,6 +188,10 @@
     "can - 9200 des générations blvd, qc, canada": [
       45.6375411,
       -73.5587317
+    ],
+    "charlo, nb, canada": [
+      47.9944898,
+      -66.3055996
     ],
     "chiasson office, nb, canada": [
       47.733005,
@@ -216,6 +233,10 @@
       46.4487505,
       -67.6194239
     ],
+    "gatineau, qc, canada": [
+      45.4277659,
+      -75.710976
+    ],
     "goderich, on, canada": [
       43.7430924,
       -81.7110949
@@ -224,9 +245,17 @@
       45.3990409,
       -72.721834
     ],
+    "high level, ab, canada": [
+      58.5115361,
+      -117.1438756
+    ],
     "huntsville, on, canada": [
       45.3263919,
       -79.218434
+    ],
+    "iqaluit, nu, canada": [
+      63.7492738,
+      -68.5213763
     ],
     "joliette, qc, canada": [
       46.0239798,
@@ -280,6 +309,10 @@
       49.163877,
       -123.938122
     ],
+    "new westminster, bc, canada": [
+      49.2067726,
+      -122.9108818
+    ],
     "north vancouver, bc, canada": [
       49.3206294,
       -123.0737925
@@ -320,6 +353,10 @@
       45.403271,
       -71.889038
     ],
+    "squamish, bc, canada": [
+      49.6980743,
+      -123.155861
+    ],
     "st albert, ab, canada": [
       53.633239,
       -113.628845
@@ -327,6 +364,14 @@
     "st john’s, nl, canada": [
       47.5646794,
       -52.7066964
+    ],
+    "st thomas, on, canada": [
+      42.779022,
+      -81.1929882
+    ],
+    "st-georges, qc, canada": [
+      46.122987,
+      -70.671959
     ],
     "st.-paul, nb, canada": [
       46.3364875,
@@ -375,47 +420,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "1 presidents choice circle, north york, on, canada": null,
-    "addison, on, canada": [
-      44.6612481,
-      -75.883781
-    ],
-    "bolton, on, canada": [
-      43.879548,
-      -79.73826
-    ],
-    "high level, ab, canada": [
-      58.5115361,
-      -117.1438756
-    ],
-    "iqaluit, nu, canada": [
-      63.7492738,
-      -68.5213763
-    ],
-    "new westminster, bc, canada": [
-      49.2067726,
-      -122.9108818
-    ],
-    "st thomas, on, canada": [
-      42.779022,
-      -81.1929882
-    ],
-    "st-georges, qc, canada": [
-      46.122987,
-      -70.671959
-    ],
-    "37955 second avenue, squamish, bc, canada": [
-      49.6980971,
-      -123.1557038
-    ],
-    "gatineau, qc, canada": [
-      45.4277659,
-      -75.710976
-    ],
-    "squamish, bc, canada": [
-      49.6980743,
-      -123.155861
     ]
   },
   "research": {}
