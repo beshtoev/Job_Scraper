@@ -1,18 +1,17 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-20 02:21 UTC*
+*Last updated: 2026-10-20 05:20 UTC*
 
-**4 new role(s)** since last run · 235 total in current portal openings
+**4 new role(s)** since last run · 236 total in current portal openings
 
-### [Director, Engineering, Platform/Services](https://jobs.lever.co/jobgether/c5049a0c-c0ff-46bb-8d42-bc435f26894a) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-20
+### [Director, Product Strategy & Roadmap](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Product-Strategy---Roadmap_R-0000182552) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-10-16
 
-### [Director, Digital Storefront Performance & Insights](https://builtintoronto.com/job/digital-analytics-manager/11411699) — Manulife
+### [Director, Engineering, AI](https://builtintoronto.com/job/director-engineering-ai/11762034) — Thomson Reuters
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Associate Director, Data Centres](https://builtintoronto.com/job/associate-director-data-centres/9556098) — Turner & Townsend
+### [Director of Product Management, Strategy & Monetization](https://builtintoronto.com/job/director-product-management-ecosystem-integrations/11065970) — Cyberhaven
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Head of Platform (Infrastructure & DevOps)](https://builtintoronto.com/job/head-platform-infrastructure-devops/11761024) — Mimica
+### [Director, Sales Compensation Strategy](https://builtintoronto.com/job/director-sales-compensation-strategy/11762399) — Workday
 - 📍 **Location:** Toronto, Ontario, Canada
