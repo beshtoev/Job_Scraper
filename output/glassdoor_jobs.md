@@ -1,9 +1,8 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-19 23:21 UTC*
+*Last updated: 2026-10-20 00:23 UTC*
 
-**1 new role(s)** since last run · 27 total in last 24h
+**1 new role(s)** since last run · 28 total in last 24h
 
-### [Director Application, Data & Integration](https://www.glassdoor.ca/job-listing/j?jl=1010300446096) — Smythe LLP
-- 📍 **Location:** Vancouver, Canada
-- 💰 **Salary:** $159k–$215k/yr
-- 🕒 **Posted:** 2026-10-19
+### [Director of AI Applications Development](https://www.glassdoor.ca/job-listing/j?jl=1010300463289) — CIBC
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-20
