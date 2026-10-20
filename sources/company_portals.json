@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 355,
-    "pollable": 224,
+    "companies": 356,
+    "pollable": 225,
     "unresolved": 131
   },
   "companies": [
@@ -4699,6 +4699,19 @@
       "ats": "epam",
       "slug": "epam",
       "careers_url": "https://careers.epam.com/en/jobs/canada",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Mimica",
+      "archetype": "A",
+      "ats": "ashby",
+      "slug": "mimica",
+      "careers_url": "https://jobs.ashbyhq.com/mimica",
       "source": "manual",
       "include": [],
       "exclude": [],
