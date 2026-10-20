@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-20 07:44 UTC*
+*Last updated: 2026-10-20 08:49 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Director, Engineering, AI](https://www.linkedin.com/jobs/view/4480454302/) — Thomson Reuters
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $158,900 USD - $295,100 USD
+- 🕒 **Posted:** 2026-10-20
