@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-20 21:52 UTC",
+  "updated_at": "2026-10-20 22:09 UTC",
   "jobs": [
+    {
+      "company": "Autodesk",
+      "title": "Head of Engineering, ML, Forma Generative AI",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4480735116/",
+      "date_posted": "2026-10-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Job Requisition ID #\n\n26WD101528\n\nPosition Overview\n\nAutodesk is transforming how the AEC industry designs and builds through integration of Artificial Intelligence (AI) and Machine Learning (ML) across its products, including AutoCAD, Revit, and Forma.\n\nAs Head of Engineering, ML for Forma Generative AI, you will lead the ML Engineering organization responsible for computational design and data representations, applied ML model development, and ML infrastructure and operations. You will lead through three engineering managers, setting the ML strategy for the team, defining the technical and organizational standards across the discipline, and shaping how teams build, deploy, and operate production ML systems.\n\nYou will partner closely with Architecture, Software Engineering, Research, Product, and other senior leaders to define technical direction, resolve cross-organizational trade-offs, and ensure the organization can move from promising ML research to reliable product capabilities at scale.\n\nReport:\nYou will report to the Director, Forma Generative AI.\n\nLocation:\nWe support hybrid work, and you work near our Toronto, Canada office. This role requires the ability to travel to team meetings, offsites, and conferences in the USA, Canada, and Europe.\n\nResponsibilities\n\nDefine and uphold ML engineering strategy, standards, and expectations across the organization, including how ML systems are designed, tested, reviewed, deployed, evaluated, and operated in production\nLead and develop the engineering managers responsible for Computational Design & Data Representations, Applied ML, and ML Infrastructure and Operations. Own the evolution of the ML engineering organization, including team structure, boundaries, hiring, succession, and organizational design\nPartner with Architecture and peer engineering leaders to establish shared ML architectures, reusable components, and engineering practices that enable teams to move quickly without compromising quality or consistency\nPartner with Research, Product, and Engineering leaders to balance long-term ML research and platform investments with iterative product delivery; align priorities, staffing, and capacity across the ML organization; surface constraints early and resolve cross-team trade-offs to keep critical work moving\nRepresent ML engineering in organizational planning, resourcing, escalations, and major technical decisions, serving as the discipline’s leadership voice across Forma Generative AI\nBuild a high-trust engineering culture that develops strong technical leaders, encourages knowledge sharing, and raises the quality of engineering judgement across the organization\n\nMinimum Qualifications\n\nBS or MS in Computer Science, Machine Learning, or a related field, or equivalent experience\n8+ years of software/ML engineering experience, including 4+ years of engineering management experience and demonstrated experience managing engineering managers or leading multiple engineering teams\nTrack record building and operating production ML systems at scale across training, deployment, inference, monitoring, and evaluation\nExperience establishing engineering standards and technical direction across multiple teams without centralizing every decision\nDemonstrated success hiring, developing, and retaining engineering managers and senior technical leads, with strong communication and influence across senior stakeholders\n\nPreferred Qualifications\n\nExperience leading engineering organizations responsible for large-scale ML or foundation-model systems\nDeep technical familiarity with modern ML engineering and production infrastructure, including ML frameworks (e.g. PyTorch), distributed training and inference, cloud infrastructure, observability, CI/CD, Infrastructure-as-Code, and production automation\nExperience designing or leading development of foundation-model and agentic systems, including evaluation harnesses, tool-use/orchestration patterns, and other production scaffolding around models\nExperience partnering with peer engineering, architecture, research, and product leaders in a matrixed organization\nExperience in the AEC industry, Autodesk products, or another technically complex design/engineering domain\nExperience applying rapidly evolving foundation-model and agentic-system technologies in production environments\n\nThe Ideal Candidate\n\nYou know the difference between managing a team and leading an organization; you develop strong managers, create clear ownership, and scale through others\nYou can establish a technical bar and make it stick through standards, coaching, and strong engineering judgement rather than personal gatekeeping\nYou build trust with senior peers across architecture, research, product, and engineering, and can navigate disagreement and ambiguity while keeping the organization moving\nYou communicate effectively across disciplines and levels, adapting your approach to build shared understanding with technical, product, research, and executive audiences\n\nLearn More\n\nAbout Autodesk\n\nWelcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.\n\nWe take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.\n\nWhen you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!\n\nSalary transparency\n\nSalary is one part of Autodesk’s competitive compensation package. For Canada based roles, we expect a starting base salary between $156,000 and $228,800. Offers are based on the candidate’s experience and geographic location, and may exceed this range. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package.\n\nBelonging\n\nWe take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/global-belonging\n\nIn-Person Onboarding and Identity Verification\n\nThis role may require in-person onboarding and/or in-person ID verification.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development, Design Services, and IT Services and IT Consulting",
+      "first_seen": "2026-10-20T22:09:40Z",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4480718713/"
+      ],
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "iA Groupe financier / iA Financial Group",
       "title": "Director, Business Intelligence and Advanced Analytics",
@@ -4866,7 +4894,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -38479,7 +38507,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4480729245/"
+      ]
     },
     {
       "company": "Thorek/Scott and Partners",
