@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-20 14:13 UTC*
+*Last updated: 2026-10-20 14:51 UTC*
 
-**1 new role(s)** since last run · 7 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Director of Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4480458893/) — Allied Properties REIT
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $145,000.00/yr - CA$170,000.00/yr
+### [Director, Platform Systems](https://www.linkedin.com/jobs/view/4442879013/) — OpenText
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-10-20
+
+### [Director of Finance | Hotel PUR, Quebec, A Tribute Portfolio Hotel](https://www.linkedin.com/jobs/view/4478691608/) — Crescent Hotels & Resorts
+- 📍 **Location:** Québec, Quebec, Canada
 - 🕒 **Posted:** 2026-10-20
