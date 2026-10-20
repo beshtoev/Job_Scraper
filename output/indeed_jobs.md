@@ -1,22 +1,22 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-20 02:25 UTC*
+*Last updated: 2026-10-20 04:29 UTC*
 
-**3 new role(s)** since last run · 9 total in last 24h
+**3 new role(s)** since last run · 12 total in last 24h
 
-### [Director, Revenue Operations, Enterprise](https://ca.indeed.com/viewjob?jk=4b2e077fd94c4307) — Clio
+### [Director, Digital Storefront Performance & Insights](https://ca.indeed.com/viewjob?jk=971bf49f86f924f4) — Manulife
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-18
 
-### [Head of Platform (Infrastructure & DevOps)](https://ca.indeed.com/viewjob?jk=d56990b58d03ea4c) — Mimica
+### [Director, Sponsor Analytics](https://ca.indeed.com/viewjob?jk=4029124cbb61ff84) — Manulife
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-18
 
-### [Director of AI Applications Development](https://ca.indeed.com/viewjob?jk=cab1f25b4eeaf0d2) — CIBC
+### [Vice President, Finance and Operations](https://ca.indeed.com/viewjob?jk=b1329eebc6511660) — Ontario Brain Institute
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-14
