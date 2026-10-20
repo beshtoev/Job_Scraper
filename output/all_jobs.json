@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 22:09 UTC",
+  "updated_at": "2026-10-20 22:16 UTC",
   "jobs": [
     {
       "company": "Autodesk",
@@ -66,23 +66,28 @@
       "ats": "LinkedIn",
       "description": "Location: Remote\n\nEmployment Type: Full-Time\n\nJob ID: 00070923031\n\nAssociate Director, Generative AI and Agentic AI Architecture\n\nAbout The Role\n\nAs an Associate Director, Generative AI and Agentic AI Architecture, you will make an impact by shaping and delivering enterprise-scale Generative AI and Agentic AI solutions across strategic client accounts. You will be a valued member of Cognizant’s AI leadership team and work collaboratively with client executives, Sales, Presales, Delivery, Engineering, and Data Science teams.\n\nIn this highly visible role, you will combine hands-on AI architecture expertise with executive advisory, solution delivery, practice development, and technical leadership.\n\nIn This Role, You Will\n\nLead the strategy, architecture, and delivery of enterprise-grade Generative AI, retrieval-augmented generation, and multi-agent AI solutions across multiple client engagements.\nAdvise CXO-level stakeholders, facilitate executive workshops and AI maturity assessments, and translate complex AI capabilities into measurable business outcomes and adoption roadmaps.\nDefine scalable reference architectures, technical standards, evaluation frameworks, guardrails, observability, and governance for production AI systems integrated with enterprise applications, data platforms, and cloud environments.\nDevelop repeatable AI offerings, accelerators, reusable components, and intellectual property while supporting proposals, RFPs, solution estimates, and account growth opportunities.\nBuild and mentor high-performing teams of AI architects, engineers, and data scientists while promoting responsible AI, technical excellence, innovation, and continuous learning.\n\nWork model\n\nWe strive to provide flexibility wherever possible. Based on this role’s business requirements, this is a remote position open to qualified applicants in Canada. Regardless of your working arrangement, we are here to support a healthy work-life balance through our various wellbeing programs.\n\nThe working arrangements for this role are accurate as of the date of posting. This may change based on the project you are engaged in, as well as business and client requirements. Rest assured, we will always be clear about role expectations.\n\nWhat You Need To Have To Be Considered\n\nA bachelor’s or master’s degree in Computer Science, Artificial Intelligence, Data Science, Engineering, or a related discipline, combined with extensive progressive experience in AI/ML architecture, consulting, and delivery leadership.\nProven experience architecting and delivering production-grade Generative AI, retrieval-augmented generation, and Agentic AI solutions using large language models, small language models, and orchestration frameworks.\nHands-on expertise with Python, model APIs, prompt engineering, structured outputs, function calling, agentic workflows, embedding models, vector databases, reranking, hybrid search, and retrieval architectures.\nExperience integrating AI solutions with AWS, Microsoft Azure, or Google Cloud, along with containerization, Kubernetes, CI/CD, MLOps, LLMOps, security, monitoring, and enterprise governance practices.\nStrong client-facing leadership and executive communication skills, including experience advising senior stakeholders, leading complex AI engagements, developing proposals and statements of work, and managing globally distributed teams.\n\nThese will help you stand out\n\nA PhD, MBA, or advanced credential in Artificial Intelligence, Computer Science, Data Science, Engineering, or business management.\nPublished research, patents, open-source contributions, conference presentations, or recognized thought leadership in Generative AI, Agentic AI, natural language processing, or LLMOps.\nExperience with agentic frameworks such as LangGraph, CrewAI, AutoGen, or Google Agent Development Kit, as well as AgentOps, model evaluation, and AI observability platforms.\nKnowledge of responsible AI, enterprise data governance, the NIST AI Risk Management Framework, the EU AI Act, and emerging AI regulatory requirements.\nConsulting experience within Financial Services, Healthcare, Life Sciences, Retail, Manufacturing, or Technology.\n\nSalary And Other Compensation\n\nApplicants will be accepted till 11/15/2026\n\nCognizant will only consider applicants for this position who are legally authorized to work in the United States without company sponsorship.\n\nPlease note, this role cannot offer visa transfer or sponsorship now or in the future*\n\nThe annual salary for this position will be in the range of $152,000 - $170,000 CAD depending on experience and other qualifications of the successful candidate.\n\nThis position is also eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to the terms of Cognizant’s applicable plans.\n\nBenefits:\nCognizant offers the following benefits for this position, subject to applicable eligibility requirements:\n\nMedical/Dental/Vision/Life Insurance\nPaid holidays plus Paid Time Off\n401(k) plan and contributions\nLong-term/Short-term Disability\nPaid Parental Leave\nEmployee Stock Purchase Plan\n\nDisclaimer:\nThe salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law.\n\nOur strength is built on our ability to work together. Our diverse backgrounds offer different perspectives and new ways of thinking. It encourages lively discussions, creativity, productivity, and helps us build better solutions for our clients. We want someone who thrives in this setting and is inspired to craft meaningful solutions through true collaboration.\n\nIf you are content with ambiguity, excited by change, and excel through autonomy, we’d love to hear from you!\n\nApply Now!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting and Business Consulting and Services",
       "first_seen": "2026-10-20T20:52:24Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Mississauga",
       "geo_province": "ON",
       "geo_lat": 43.589,
       "geo_lon": -79.6441,
       "geo_distance_km": 23.9,
-      "geo_rank": 100239,
+      "geo_rank": 300239,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=78f943786e1a7518",
         "https://www.glassdoor.ca/job-listing/j?jl=1010301584445"
-      ]
+      ],
+      "direct_url": "https://careers.cognizant.com/global-en/jobs/00070923031/associate-director-generative-ai-and-agentic-ai-architecture/",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "SaskTel",
