@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-20 15:37 UTC",
+  "updated_at": "2026-10-20 16:13 UTC",
   "jobs": [
+    {
+      "company": "Liteline",
+      "title": "Director of Business Technology",
+      "location": "Richmond Hill, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4481703203/",
+      "date_posted": "2026-10-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Liteline Corporation is a privately held Canadian commercial lighting manufacturer with more than 160 employees, selling across Canada and the United States. We are adding a Director of Business Technology to our leadership team, a senior, hands-on role with ownership of technology across the business.\n\nThe role has two halves. The first is the job every growing company needs: keep our technology running, secure and recoverable across roughly 130 computers, Microsoft 365, our server cluster and our network. The second is newer. Our own people, from the three Co-Presidents to staff in Finance, Product Development, Engineering and Customer Service, now build software tools with AI assistants. The Director of Business Technology will give that work a professional backbone: version control, permissions, backups and fast recovery.\n\nThis is an enabling role as much as a technical one. We want our people to keep building quickly. The person in this position will make sure what they build is safe, recoverable and well looked after, without slowing anyone down.\n\nThis is a build role. Liteline’s people are already creating their own tools with AI. We are looking for a leader who can keep the core IT environment solid, put the right platforms and guardrails under home-built software, and teach non-programmers to work safely.\n\nKEY RESPONSIBILITIES\n\nKeep Things Running\n\nOwn day-to-day IT across the business: computers, email, servers, networking, security and backups.\nRun Microsoft 365, including sign-in, multi-factor authentication (MFA), user access and licensing.\nLook after our on-premises server cluster, storage and network infrastructure.\nOversee security monitoring and incident response together with our security monitoring partner.\nMaintain tested backups and the ability to restore systems and data quickly.\nLead the help desk and set the service standards the business is held to.\n\nOwn the Platforms\n\nSet up and run, hands-on, the platforms our home-built tools live on.\nOwn Liteline’s company GitHub organization, where code is saved with full history, including structure, permissions, single sign-on (SSO) and branch protection.\nAdminister hosted databases (Supabase / Postgres), including access control, backups and recovery.\nManage website and application hosting (Netlify), including deployments, domains and environments.\nMaintain a clear inventory of the tools in use, who owns each one and where it runs.\n\nGovern and Teach\n\nDecide what AI assistants can access and set sensible guardrails for company data and credentials.\nSet light, practical rules that protect the business without getting in the way of the people building.\nDecide which home-built tools are business-critical and what level of protection each one needs.\nRun and rehearse restores so that recovery is proven, not assumed.\nTeach staff who are not programmers to work safely, for example explaining version control to someone in purchasing.\nRun training, enablement and “lunch and learn” sessions across the business.\n\nTeam and Partners\n\nLead two on-site IT staff.\nManage our outside partners for managed services, security monitoring and backup.\nOwn the technology budget, licensing and vendor relationships, and bring forward stronger options as the market moves.\n\nWHAT WE ARE LOOKING FOR\n\nWe are looking for a hands-on technology leader who is equally comfortable running core IT and building platforms that sit under modern, AI-assisted development.\n\nThe successful candidate will understand infrastructure, identity and security, and will also understand how software is built, saved, deployed and recovered. Just as importantly, you will be able to explain those ideas in plain language to people who have never written code and help them adopt habits that last.\n\nStrong candidates will bring:\n\nHands-on experience setting up or administering a GitHub organization, including SSO and branch protection.\nExperience running a Microsoft Power Platform Centre of Excellence, citizen-developer or low-code programme.\nHands-on experience running Supabase, Postgres, Netlify, Vercel or similar platforms.\nSolid Microsoft 365, identity, MFA, endpoint and security fundamentals.\nA track record of training and enabling non-technical staff, such as “lunch and learn” or enablement programmes.\nExperience building a function or process from scratch at a growing company.\nClear communication and sound judgment about when rules help and when they get in the way.\n\nThere is no single path to this role. You might be:\nAn IT lead at a 100-to-500-person manufacturer or distributor who personally ran a Power Platform governance programme, a low-code programme or the company’s GitHub organization.\nA developer or DevOps engineer who moved into an IT management role at a small or mid-sized company.\nA solutions architect or senior consultant at a managed services provider (MSP) serving small and mid-sized businesses, ready to go in-house.\nThe “first IT hire” at a startup who set up sign-in, devices and GitHub from scratch, then moved to a mid-sized company.\nExperience in mid-sized manufacturing, distribution or wholesale is helpful but not required.\n\nREPORTING AND WORKING RELATIONSHIPS\n\nThis position reports to the VP of Operations.\n\nYou will work closely with Liteline’s three Co-Presidents, who are technically capable and build their own tools, and with Finance, Product Development, Engineering and Customer Service. You will be a partner to the people building, not a gatekeeper.\n\nLOCATION AND WORKING ARRANGEMENT\n\nThis position is based at Liteline's Richmond Hill head office and is on-site five days per week with regular presence at our distribution facilities.\n\nThe successful candidate should expect to be highly engaged with the business and to spend real time understanding how departments and facilities actually operate.\n\nTHE OPPORTUNITY\n\nThis is a rare chance to shape how an established Canadian manufacturer builds and runs its technology at a moment when AI is changing who can create software.\n\nLiteline is privately held, decisions are made without layers of approval, and good ideas get backed. Our leaders build with technology themselves and value this work. The Director of Business Technology will define the platforms, guardrails and habits that let the whole company build with confidence.\n\nWHAT WE OFFER\n\nLiteline offers a comprehensive benefits package including medical, dental and life insurance following three months of service, and a group RRSP with partial company match.\n\nTO APPLY\n\nQualified candidates are invited to apply directly through this posting.\n\nLiteline Corporation is an equal opportunity employer that values the unique skills and experiences of every candidate. We are committed to accommodating people with disabilities throughout the recruitment and hiring process. To request accommodation, please contact Human Resources with the position title in the subject line.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBuilding Materials",
+      "first_seen": "2026-10-20T16:13:41Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Richmond Hill",
+      "geo_province": "ON",
+      "geo_lat": 43.8828,
+      "geo_lon": -79.4403,
+      "geo_distance_km": 19.8,
+      "geo_rank": 100198,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "BoomerangFX",
       "title": "Director of Operations - Business Operations & Strategy",
@@ -6228,7 +6253,8 @@
       "geo_version": 1,
       "salary": "$120,800.00 - $170,800.00",
       "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4479642236/"
+        "https://www.linkedin.com/jobs/view/4479642236/",
+        "https://www.linkedin.com/jobs/view/4480486551/"
       ]
     },
     {
@@ -21235,7 +21261,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4480490466/"
+      ]
     },
     {
       "company": "Davie",
@@ -24178,7 +24207,7 @@
       "company_url": "https://ca.indeed.com/cmp/Citi",
       "date_posted": "2026-10-01",
       "description": "**Discover your future at Citi**\n--------------------------------\n\n\nWorking at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n\n**Job Overview**\n----------------\n\n\nCiti is looking for a hands on Technical Lead to shape the engineering foundation of its Services AI Platform a multi\\-tenant, production\\-grade ecosystem where agentic AI meets enterprise scale. In this player\\-coach role, you will write production code and set the technical direction for the platform, ensuring it is built on principles of trust, operational resilience, and scalability. You will translate complex enterprise workflows into intelligent, automated systems that deliver measurable business impact across Citi's global operations.\n\n\n**Responsibilities**\n\n\n* Architect and build full\\-stack AI platform components using Python and Angular, including internal large language model fine\\-tuning interfaces and experiment tracking dashboards.\n* Design and optimize multi\\-tenant intelligent agents using modular orchestration patterns — including ReAct and ReWOO — to power scalable, production\\-ready agentic workflows.\n* Build Model Context Protocol servers that enforce clean, decoupled communication layers, ensuring agents interact exclusively through defined API boundaries without direct database access.\n* Develop next\\-generation retrieval\\-augmented generation pipelines, including Knowledge Graph RAG, LightRAG, and RAPTOR hierarchical summary architectures, to enable sophisticated enterprise data retrieval.\n* Integrate vector and graph databases — such as Neo4j and pgvector — to support complex, thematic data retrieval at platform scale.\n* Design precise prompt and intent classification logic that prevents workflow collisions and ensures each agent instruction is handled with high accuracy.\n* Partner directly with subject matter experts to translate deep domain knowledge into automated, agent\\-driven solutions, and collaborate with UI and API teams to deliver seamless end\\-to\\-end integrations.\n\n**Required Qualifications \\& Skills**\n\n\n* 10 or more years of software engineering experience, with at least 5 years focused on AI and machine learning solutions delivered in production environments.\n* 2 or more years of hands\\-on experience in Generative AI, including large language model development, retrieval\\-augmented generation, and prompt engineering.\n* 3 or more years leading technical teams and owning delivery of complex software or AI platforms end to end.\n* Deep practical experience with AWS infrastructure and services for AI and machine learning workloads.\n* A demonstrated portfolio of AI solutions successfully deployed into live business environments, evidencing both technical depth and delivery ownership.\n* Bachelor's or Master's degree in Computer Science, Data Science, Artificial Intelligence, or a closely related field.\n  \n\n  \n\n**Education**\n\n\n* Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or a related field\n\n**What We Offer**\n\n\nAt Citi, you will work at the forefront of enterprise AI engineering within a global platform team that values technical excellence, collaboration, and meaningful business impact. This is a role where your code ships to production, your architectural decisions shape the platform, and your leadership directly influences the capability and performance of the team around you.\n\n\n* Hybrid working model with 3 days in the office and 2 days working remotely, giving you structure alongside genuine flexibility.\n* Access to cutting\\-edge AI infrastructure, tools, and frameworks that keep you at the leading edge of the field.\n* Continuous learning and development support, including access to technical training, industry conferences, and structured career growth pathways.\n* The opportunity to lead high\\-impact engineering at global scale, with your work directly influencing how Citi builds and deploys intelligent automation across the enterprise.\n* Competitive compensation and a comprehensive financial wellbeing package reflective of a Vice President\\-level position at a leading global institution.\n* Wellbeing support programs that help you maintain balance and perform at your best over the long term.\n\nBuild the AI platform that powers Citi's next generation of intelligent automation — apply now and bring your engineering leadership to one of the most technically ambitious platforms in global financial services.\n\n  \n\n  \n\n\\#LI\\-MB1\n\n\n\\-\n\n\n**Job Family Group:**\n---------------------\n\nTechnology\n\\-\n\n\n**Job Family:**\n---------------\n\n\nApplications Development\n\\-\n\n\n**Time Type:**\n--------------\n\n\nFull time\n\\-\n\n\n**Primary Location Full Time Salary Range:**\n--------------------------------------------\n\n\n$120,800\\.00 \\- $170,800\\.00\n\\-\n\n\n**Most Relevant Skills**\n------------------------\n\nPlease see the requirements listed above.\n\\-\n\n\n**Other Relevant Skills**\n-------------------------\n\nFor complementary skills, please see above and/or contact the recruiter.\n\\-\n\n\n**Automated Processing and AI**\n-------------------------------\n\n\nWe use automated processing, including artificial intelligence, for our legitimate business interests (or our reasonable and appropriate business purposes) to identify and align the candidate's skills and abilities with a specific job opening. Additionally, if you so choose, or consent, we can match your skills and abilities to other suitable roles at Citi.\n\n\nImportantly, all our hiring processes and decisions, including determining your suitability for a role, are conducted, checked, and decided by individuals. Our automated processing and AI do not involve relying on automatic or autonomous decision\\-making. Please refer to any Jurisdictional Considerations, with specific provisions for your country (where relevant) for further details.\n\n\n\\-\n\n\n*This job opening is ",
-      "salary": "",
+      "salary": "$120,800.00 - $170,800.00",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -24200,7 +24229,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4480488533/"
+      ]
     },
     {
       "company": "Business Development Bank of Canada",
@@ -24728,7 +24760,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4480487483/"
+      ]
     },
     {
       "company": "State Street",
@@ -26780,7 +26815,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4480497226/"
+      ]
     },
     {
       "company": "Citi",
@@ -29135,7 +29173,8 @@
       "geo_version": 1,
       "salary": "$120,800.00 - $170,800.00",
       "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4467882550/"
+        "https://www.linkedin.com/jobs/view/4467882550/",
+        "https://www.linkedin.com/jobs/view/4480488609/"
       ]
     },
     {
@@ -30883,8 +30922,10 @@
       "geo_detail": "100 King Street West",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://builtintoronto.com/job/managing-director-cybersecurity-core-technology-audit/11408209"
-      ]
+        "https://builtintoronto.com/job/managing-director-cybersecurity-core-technology-audit/11408209",
+        "https://www.linkedin.com/jobs/view/4473017488/"
+      ],
+      "salary": "$160k-$215k"
     },
     {
       "company": "RBC",
@@ -31410,9 +31451,9 @@
       "url": "https://builtintoronto.com/job/director-platform-engineering/11398870",
       "direct_url": "https://builtintoronto.com/job/director-platform-engineering/11398870",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-10-20",
       "date_seen": "2026-09-28T16:29:24Z",
-      "description": "",
+      "description": "Blackpoint Cyber is the leading provider of world-class cybersecurity threat hunting, detection and remediation technology. Founded by former National Security Agency (NSA) cyber operations experts who applied their learnings to bring national security-grade technology solutions to commercial customers around the world, Blackpoint Cyber is in hyper-growth mode, fueled by a recent $190m series C round.\n\nCompany Culture\n\nAt Blackpoint Cyber, we value high-quality execution, ownership, and strong morals. Our principles are never tested, and we are proud to always do right by our customers. We are an energetic and collaborative team that maintains a high-performance culture and enables growth by overcoming challenges in the modern cyber threat landscape. If you are a driven professional with a passion for learning and contributing at a high level, Blackpoint Cyber welcomes you.\n\nPosition Overview\n\nBlackpoint Cyber is seeking a strategic and visionary Director of Platform Engineering to lead the development and execution of its Unified Security Posture data platform, which powers the company’s data-centric cybersecurity solutions. This leader will serve as the single-threaded owner for the roadmap and operations of the cloud-based platform, including vendor integrations, developer and data tooling, identity, authentication, tenant management, and other core services.\n\nThis role will drive vision and execution across multiple engineering teams, working cross-functionally with internal stakeholders, product leaders, and site reliability engineering partners. The Director of Platform Engineering will translate business and technical needs into clear strategies, oversee roadmap execution and service quality, and build a high-performing organization through strong hiring, mentorship, and technical leadership. As a highly visible leader, this person will also help establish company-wide operational excellence practices for instrumentation, incident response, root cause analysis, and remediation.\n\nKey Responsibilities\n\nDefine and drive the platform roadmap aligned with product and business goals.\nPartner across the Product organization and SRE team to ensure platform security, reliability, and scalability.\nLead the development of the data pipeline, integrating with Blackpoint’s endpoint agent and vendor data, including storage, tiered access, and query capabilities.\nDeliver platform services and public APIs supporting core functions such as tenant management, identity, and role-based access control.\nLead platform tooling and APIs that accelerate AI/ML and business intelligence initiatives.\nOversee developer productivity tooling, including CI/CD systems.\nDefine the long-term vision for the data platform by implementing best practices in data architecture, modeling, and governance, while staying current on emerging technologies and trends.\nBuild strong relationships with internal stakeholders and partners.\nFoster excellence in platform reliability, scalability, security, and software quality.\nHire, develop, and grow a high-caliber team of platform and data engineers, scaling the team and organizational structure as needed.\nDrive the adoption of AI across the development lifecycle (AI DLC) to increase engineering productivity, accelerate delivery, improve software quality, and enable teams to build and deliver high-quality products more efficiently\n\nQualifications\n\n15+ years of experience in software development, preferably in cybersecurity, including at least 5 years of people management experience leading multiple teams.\nProven experience leading a Platform Engineering function at the Director level.\n5+ years of experience working with large-scale AWS cloud solutions and technologies such as Postgres, Elastic, Redis, streaming data platforms, and ETL processes.\nHands-on experience architecting and building complex data platforms and service integrations.\nDeep knowledge of CI/CD, production deployment at scale, and data pipeline orchestration.\nDemonstrated ability to drive high-impact initiatives and long-term strategic goals.\nStrong leadership, communication, and cross-functional collaboration skills.\nB.S. or M.S. in Computer Science, Engineering, or a related field, or equivalent practical experience.\n\nWhy Join Blackpoint Cyber\n\nIf you are passionate about cybersecurity and have a proven track record of leading and managing software engineering teams, we encourage you to apply for this exciting opportunity. Blackpoint Cyber offers competitive compensation, comprehensive benefits, and a dynamic work environment where you can make a real impact in the field of cybersecurity.\n\nBlackpoint Cyber welcomes and encourages applications from qualified individuals of all races, colors, religions, sex, sexual orientation, gender identity or expression, national origin, age, marital status, or any other legally protected status. We are committed to equality of opportunity in all aspects of employment.\n\nFor eligible employees in the US, Blackpoint offers competitive Health, Vision, Dental, and Life Insurance plans, a robust 401k plan, Discretionary Time Off, and other minor perks. International employees receive competitive benefits in accordance with local market standards and applicable country requirements.\n\nBlackpoint believes all employees should share in the company’s success – equity participation is available to employees globally, with program details varying by location and employment structure.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nComputer and Network Security",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -31432,7 +31473,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4471552459/"
+      ]
     },
     {
       "company": "TD",
@@ -32077,7 +32121,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4480488487/"
+      ]
     },
     {
       "company": "BiblioCommons",
@@ -35054,7 +35101,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4480487532/"
+      ]
     },
     {
       "company": "Daily tous les jours",
@@ -48354,7 +48404,8 @@
       "geo_version": 1,
       "salary": "$94,300.00 - $141,500.00",
       "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4468096425/"
+        "https://www.linkedin.com/jobs/view/4468096425/",
+        "https://www.linkedin.com/jobs/view/4480492290/"
       ]
     },
     {
@@ -49074,7 +49125,8 @@
       "geo_version": 1,
       "salary": "$120,800.00 - $170,800.00",
       "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4429632936/"
+        "https://www.linkedin.com/jobs/view/4429632936/",
+        "https://www.linkedin.com/jobs/view/4480494235/"
       ]
     },
     {

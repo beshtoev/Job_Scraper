@@ -1,28 +1,76 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-20 15:37 UTC*
+*Last updated: 2026-10-20 16:14 UTC*
 
-**5 new role(s)** since last run · 11 total in last 1h
+**15 new role(s)** since last run · 18 total in last 1h
 
-### [Director of Operations - Business Operations & Strategy](https://www.linkedin.com/jobs/view/4481587906/) — BoomerangFX
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $100,000.00/yr - CA$120,000.00/yr
+### [Data Scientist - Applied AI, VP Development and Alumni](https://www.linkedin.com/jobs/view/4480422309/) — University of Calgary
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-10-20
 
-### [Director, Business Intelligence](https://www.linkedin.com/jobs/view/4387620028/) — Viral Nation
+### [Director of Platform Engineering](https://www.linkedin.com/jobs/view/4471552459/) — Blackpoint Cyber
 - 📍 **Location:** Canada
-- 💰 **Salary:** $140,000 - $160,000
 - 🕒 **Posted:** 2026-10-20
 
-### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4478110031/) — Vaco by Highspring
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/hr - CA$85.00/hr
-- 🕒 **Posted:** 2026-10-20
-
-### [Director, Payroll Transformation](https://www.linkedin.com/jobs/view/4427220336/) — Scotiabank
+### [Managing Director - Cybersecurity & Core Technology Audit](https://www.linkedin.com/jobs/view/4473017488/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $160k-$215k
 - 🕒 **Posted:** 2026-10-20
 
-### [Chief Technology and Information Officer](https://www.linkedin.com/jobs/view/4481586944/) — The Salvation Army in Canada
-- 📍 **Location:** Canada
-- 💰 **Salary:** $244,046.40 to $305,052.80
+### [Sr. Director, Digital Technology  Commercial Transformation](https://www.linkedin.com/jobs/view/4361635173/) — McCain Foods
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $146,200.00 - $195,000.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Agentic AI Lead Engineer - Vice President](https://www.linkedin.com/jobs/view/4480488533/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Generative AI Engineer -Vice President](https://www.linkedin.com/jobs/view/4480494235/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Director of Business Technology](https://www.linkedin.com/jobs/view/4481703203/) — Liteline
+- 📍 **Location:** Richmond Hill, Ontario, Canada
+- 🕒 **Posted:** 2026-10-20
+
+### [VP Senior Applied AI Full-Stack Engineer](https://www.linkedin.com/jobs/view/4480488487/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Senior Software Engineer, Java and AI Development - Vice President](https://www.linkedin.com/jobs/view/4480487483/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Lead Python and Generative AI Engineer- Vice President](https://www.linkedin.com/jobs/view/4480490466/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Lead AI/ML Data Scientist - VP](https://www.linkedin.com/jobs/view/4480486551/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-10-20
+
+### [Full Stack Technology Lead - Vice President](https://www.linkedin.com/jobs/view/4480487532/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-10-20
+
+### [(Python) AI Engineer - Vice President](https://www.linkedin.com/jobs/view/4480488609/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-10-20
+
+### [ETL Data Engineer - Assistant Vice President](https://www.linkedin.com/jobs/view/4480492290/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $94,300.00 - $141,500.00
+- 🕒 **Posted:** 2026-10-20
+
+### [AI Engineer - Assistant Vice President](https://www.linkedin.com/jobs/view/4480497226/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $94,300.00 - $141,500.00
 - 🕒 **Posted:** 2026-10-20
