@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-20 00:23 UTC",
+  "scraped_at": "2026-10-20 01:32 UTC",
   "total": 28,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Goway Travel Limited",
@@ -734,32 +734,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "CIBC",
-      "title": "Director of AI Applications Development",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010300463289",
-      "date_posted": "2026-10-20",
-      "description": "We work to recognize you in meaningful, personalized ways including a competitive salary, incentive pay, banking benefits, a benefits program*, defined benefit…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
