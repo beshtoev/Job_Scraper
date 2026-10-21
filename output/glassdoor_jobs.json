@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-21 17:51 UTC",
+  "scraped_at": "2026-10-21 18:56 UTC",
   "total": 50,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "The University of Calgary",
@@ -1307,32 +1307,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "National Bank of Canada",
-      "title": "Senior Director, IT Delivery and Technology Platforms",
-      "location": "Montreal, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010301379130",
-      "date_posted": "2026-10-20",
-      "description": "Bachelor’s degree in computer science, engineering or a related field and at least 10 years of relevant experience, or a related master’s degree and at least 8…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Montreal",
-      "geo_province": "QC",
-      "geo_lat": 45.5019,
-      "geo_lon": -73.5674,
-      "geo_distance_km": 502.6,
-      "geo_rank": 405026,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
