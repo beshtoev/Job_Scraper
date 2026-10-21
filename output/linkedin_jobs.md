@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 09:42 UTC*
+*Last updated: 2026-10-21 10:27 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Director of Analytics Engineering](https://www.linkedin.com/jobs/view/4471976811/) — Scribd, Inc.
+### [Director, Digital Storefront Performance & Insights](https://www.linkedin.com/jobs/view/4473232222/) — Manulife
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-21
 
-### [Director of Analytics Engineering](https://www.linkedin.com/jobs/view/4471977784/) — Scribd, Inc.
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-10-21
-
-### [Director, Finance Business Partnering, GTS](https://www.linkedin.com/jobs/view/4464670723/) — TMX Group
-- 📍 **Location:** Toronto, Ontario, Canada
+### [(CAN) Senior Director, Digital Strategy and Media](https://www.linkedin.com/jobs/view/4473291894/) — Walmart Canada
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-10-21
