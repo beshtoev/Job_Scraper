@@ -1,9 +1,21 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 12:23 UTC*
+*Last updated: 2026-10-21 13:16 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Group Finance Director](https://www.linkedin.com/jobs/view/4479411179/) — isgSearch
-- 📍 **Location:** Windsor, Ontario, Canada
-- 💰 **Salary:** $160,000.00/yr - CA$180,000.00/yr
+### [AI/ML Technical Practice Leader/Director](https://www.linkedin.com/jobs/view/4479417193/) — Quantiphi
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-21
+
+### [Director, Global Strategy - Enterprise Planning](https://www.linkedin.com/jobs/view/4473541654/) — Arc'teryx Equipment
+- 📍 **Location:** North Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-21
+
+### [Finance Director (6 month contract)](https://www.linkedin.com/jobs/view/4478110031/) — Vaco by Highspring
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $75.00/hr - CA$85.00/hr
+- 🕒 **Posted:** 2026-10-21
+
+### [Director, Product Strategy & Roadmap](https://www.linkedin.com/jobs/view/4455995366/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-21
