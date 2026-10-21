@@ -1,18 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 20:34 UTC*
+*Last updated: 2026-10-21 21:07 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**3 new role(s)** since last run · 6 total in last 1h
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4481159294/) — Pontosense
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000 to $190,000
-- 🕒 **Posted:** 2026-10-21
-
-### [Director, Application Development - Customer Digital](https://www.linkedin.com/jobs/view/4478917584/) — Air Canada
+### [Senior Director AI, Chief Revenue Organization](https://www.linkedin.com/jobs/view/4479441788/) — Equinix
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-21
 
-### [Director, Cloud Platform Services](https://www.linkedin.com/jobs/view/4481161372/) — Government of Alberta
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 💰 **Salary:** $5,139.30 to $6,526.16 /bi
+### [Head of Creative Strategy](https://www.linkedin.com/jobs/view/4481148841/) — Clever Digital Marketing
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-21
+
+### [Strategy Director, Performance & Creative Integration](https://www.linkedin.com/jobs/view/4469464880/) — McCANN Canada
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-10-21
