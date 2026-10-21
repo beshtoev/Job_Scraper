@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 21:55 UTC",
+  "updated_at": "2026-10-21 21:57 UTC",
   "jobs": [
     {
       "company": "Top Aces",
@@ -180,24 +180,28 @@
       "first_seen": "2026-10-21T19:52:06Z",
       "duplicate_urls": [
         "https://builtintoronto.com/job/regional-sales-director-platform-canada/11793723",
+        "https://ca.indeed.com/viewjob?jk=93c16d0859e670b0",
         "https://www.glassdoor.ca/job-listing/j?jl=1010302861104",
         "https://www.linkedin.com/jobs/view/4479442462/"
       ],
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (BC)",
       "geo_city": "Vancouver",
       "geo_province": "BC",
       "geo_lat": 49.2827,
       "geo_lon": -123.1207,
       "geo_distance_km": 3355.3,
-      "geo_rank": 433553,
+      "geo_rank": 333553,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
-      "direct_url": "https://builtintoronto.com/job/regional-sales-director-platform-canada/11793723"
+      "direct_url": "https://builtintoronto.com/job/regional-sales-director-platform-canada/11793723",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Connexall",
