@@ -1,14 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 16:08 UTC*
+*Last updated: 2026-10-21 16:31 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**1 new role(s)** since last run · 9 total in last 1h
 
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4482130330/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
-- 🕒 **Posted:** 2026-10-21
-
-### [Director of Finance](https://www.linkedin.com/jobs/view/4481127626/) — Stevenson & White
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $175,000.00/yr - CA$185,000.00/yr
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4482128565/) — Serv Recruitment
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 💰 **Salary:** $150,000- $250,000
 - 🕒 **Posted:** 2026-10-21
