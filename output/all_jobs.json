@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 17:41 UTC",
+  "updated_at": "2026-10-21 17:42 UTC",
   "jobs": [
     {
       "company": "Salient Energy",
@@ -275,8 +275,12 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=349eca0a796eb9e9",
         "https://www.glassdoor.ca/job-listing/j?jl=1010302388111"
-      ]
+      ],
+      "direct_url": "http://ca.indeed.com/job/director-finance-and-administration-349eca0a796eb9e9",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "La Vie En Rose",
@@ -46735,8 +46739,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -46867,8 +46871,8 @@
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-09-22T12:47:23Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "GTA",
       "geo_label": "GTA",
       "geo_city": "Mississauga",
@@ -51591,6 +51595,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1779
+  ]
 }
