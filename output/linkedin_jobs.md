@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 03:24 UTC*
+*Last updated: 2026-10-21 03:33 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Regional Digital B&P Leader](https://www.linkedin.com/jobs/view/4482031494/) — ABB
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-21
