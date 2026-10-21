@@ -1,8 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 01:45 UTC*
+*Last updated: 2026-10-21 02:50 UTC*
 
-**1 new role(s)** since last run · 43 total in last 24h
+**1 new role(s)** since last run · 41 total in last 24h
 
-### [Associate Director, Pension Data Operations & Governance](https://www.glassdoor.ca/job-listing/j?jl=1010301773039) — University Pension Plan
-- 📍 **Location:** Toronto, Canada
+### [Director, Digital Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010301817266) — Dentsu
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $100k–$115k/yr
 - 🕒 **Posted:** 2026-10-21
