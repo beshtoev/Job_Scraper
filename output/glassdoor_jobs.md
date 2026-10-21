@@ -1,14 +1,17 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 15:33 UTC*
+*Last updated: 2026-10-21 16:41 UTC*
 
-**2 new role(s)** since last run · 49 total in last 24h
+**3 new role(s)** since last run · 51 total in last 24h
 
-### [Senior Director, Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010302413094) — University of Waterloo
-- 📍 **Location:** Waterloo, Canada
-- 💰 **Salary:** $148k–$185k/yr
+### [VP Finance](https://www.glassdoor.ca/job-listing/j?jl=1010301657266) — Recruiting in Motion
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-10-21
 
-### [Director of Finance and Administration](https://www.glassdoor.ca/job-listing/j?jl=1010302388111) — Martin Luther University College
-- 📍 **Location:** Waterloo, Canada
-- 💰 **Salary:** $90k–$120k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010302436742) — Algonquin Resort
+- 📍 **Location:** Saint Andrews, Canada
+- 🕒 **Posted:** 2026-10-21
+
+### [Sales Director – Automotive Finance](https://www.glassdoor.ca/job-listing/j?jl=1010302443580) — OCAL Financial
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $70k–$150k/yr
 - 🕒 **Posted:** 2026-10-21
