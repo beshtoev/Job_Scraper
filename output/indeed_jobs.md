@@ -1,10 +1,15 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-20 22:17 UTC*
+*Last updated: 2026-10-21 00:27 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**2 new role(s)** since last run · 9 total in last 24h
 
-### [Associate Director, Generative AI and Agentic AI Architecture](https://ca.indeed.com/viewjob?jk=78f943786e1a7518) — Cognizant
-- 📍 **Location:** Mississauga, ON, CA
-- **Work mode:** Remote in-state eligible
+### [Head of Engineering, ML, Forma Generative AI](https://ca.indeed.com/viewjob?jk=b3c8cb52785ce4f8) — Autodesk
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-20
+
+### [Director, Application Development - Customer Digital](https://ca.indeed.com/viewjob?jk=f648dff24a2c2293) — Air Canada
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-20
