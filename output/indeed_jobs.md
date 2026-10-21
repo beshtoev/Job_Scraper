@@ -1,10 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 02:28 UTC*
+*Last updated: 2026-10-21 06:40 UTC*
 
 **1 new role(s)** since last run · 8 total in last 24h
 
-### [Associate Director, Pension Data Operations & Governance](https://ca.indeed.com/viewjob?jk=faf39d101546155f) — University Pension Plan Ontario
+### [Director, Corporate Client Group Finance](https://ca.indeed.com/viewjob?jk=fb245a48b70dc99d) — RBC
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-20
+- 🕒 **Posted:** 2026-10-21
