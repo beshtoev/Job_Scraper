@@ -1,18 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 14:22 UTC*
+*Last updated: 2026-10-21 14:58 UTC*
 
-**3 new role(s)** since last run · 7 total in last 1h
+**3 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Enterprise Account Management](https://www.linkedin.com/jobs/view/4426094813/) — Dialogue
+### [Director, Internal Audit Analytics & Artificial Intelligence](https://www.linkedin.com/jobs/view/4445928962/) — Brookfield
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-21
 
-### [Head of Planning and Management Control](https://www.linkedin.com/jobs/view/4482106116/) — PlanIT Search
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $180,000.00/yr - CA$200,000.00/yr
+### [Director, Platform Systems](https://www.linkedin.com/jobs/view/4442877059/) — OpenText
+- 📍 **Location:** Richmond Hill, Ontario, Canada
 - 🕒 **Posted:** 2026-10-21
 
-### [Director of Financial Reporting](https://www.linkedin.com/jobs/view/4481119393/) — Vaco by Highspring
-- 📍 **Location:** North York, Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
+### [Director, Development Finance & Accounting](https://www.linkedin.com/jobs/view/4481126387/) — Cortel Group
+- 📍 **Location:** Vaughan, Ontario, Canada
 - 🕒 **Posted:** 2026-10-21
