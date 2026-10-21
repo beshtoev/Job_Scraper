@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-21 18:20 UTC",
+  "updated_at": "2026-10-21 18:54 UTC",
   "jobs": [
+    {
+      "company": "Government of Prince Edward Island",
+      "title": "Director of Finance",
+      "location": "Charlottetown, Prince Edward Island, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4479433722/",
+      "date_posted": "2026-10-21",
+      "salary": "$114,758.00/yr - CA$141,824.00/yr",
+      "ats": "LinkedIn",
+      "description": "Job ID: #175355\n\nDirector of Finance\n\nTreasury Board Secretariat\n\nFull-time/Permanent\n\nCharlottetown, Prince Edward Island\n2 Positions available\nExpires on: November 4, 2026\n\nThe Treasury Board Secretariat is committed to Equity, Diversity, Inclusion and Accessibility. Our goal is to build a public sector workforce that reflects the diverse communities we serve and to promote welcoming, diverse, inclusive, respectful workplaces that are accessible to all. We welcome all interested individuals including Indigenous People, persons with disabilities, Black, racialized, ethnic and culturally diverse groups, as well as people regardless of their sexual orientation, gender identities, and gender expressions. Those looking for more information are invited to visit our Equity, Diversity, and Inclusion Policy.\n\nThe Director of Finance is a senior management position assigned to either the Department of Justice & Public Safety or the Departments of Economic Development, Trade & Artificial Intelligence/Workforce and Advanced Learning and is responsible to advise and support the Minister and Deputy Ministers. The Director provides senior management leadership in the financial administration of the Department, and provides oversight, direction and advice to maintain financial accountability for the Department.\n\nThe Director is responsible for all aspects of the Department’s financial and corporate management, including budgeting and financial planning, forecasting and financial reporting, internal controls, contracts and contribution agreements, compliance with Treasury Board Policies & Procedures, and Executive Council / Treasury Board Memoranda.\n\nThe Director provides advice to the Ministers, Deputy Ministers and Directors of the Department on all initiatives, programs and activities.\n\nThe Director and other staff assigned to the Department will provide financial support for capital projects and contract negotiations.\n\nDuties will include but are not limited to:\n\nProvide overall direction and leadership on the financial administration of the Department;\nDirect the budget planning, forecasting and reporting processes, and provide leadership in setting financial objectives for the Department;\nAdvise and assist directors and managers in quarterly forecasting and annual budget preparations;\nDevelop annual departmental Operating and Capital Budgets;\nDevelop and monitor an appropriate system of internal controls to help safeguard the department and further its objectives. An effective system of internal controls function to minimize risks and protect assets, ensure accuracy of records, promote operational efficiency, and encourage adherence to policies, regulations, and legislation;\nProvide high quality advice, assistance, and information to the Minister, Deputy Minister, and Department Divisions pertaining to the financial implications on strategic and operational planning;\nProvide expert, contextualized advice on the financial implications for current policy and legislation and provide leadership and direction to planning, policy analysis and development, and legislative initiatives;\nProvide overall direction and leadership to the financial administration of Capital projects;\nAssist in negotiating federal cost shared agreements and administer specified financial responsibilities with respect to these agreements, including: coordinating claims, maintaining prescribed accountability measures, and managing audit processes;\nDirecting work plans and managing performance;\nOther related duties.\n\nMinimum Qualifications:\n\nApplicants must have a Degree in Business Administration or related field, and a Professional Accounting Designation.\nExtensive experience in leadership and financial management at a senior level, preferably management within the Public Service.\nRequires extensive knowledge of enterprise-wide financial information systems or similar financial system.\nMust have sound knowledge of accounting and audit principles.\nRequires excellent organizational and communication skills, strong interpersonal, leadership, conflict resolution, and collaborative skills and the ability to plan and think strategically.\nExcellent written/verbal communication skills are required.\nStrong knowledge of Oracle, PeopleSoft, and internal computer applications (i.e. Excel, etc.) would be considered beneficial.\nDemonstrated problem solving ability with the ability to negotiate with and motivate others.\n\nBenefits:\n\n4 weeks paid vacation annually, as per the Terms and Conditions for Excluded Employees\nUp to $2,500 annual training funds\nHybrid options within PEI\nFlexible working hours\nEmployee assistance program\nPension Plan\nEmployer-paid health and dental benefits\n\nThis competition may be used to fill future job vacancies.\n\nPlease Note: Please ensure the application clearly demonstrates how you meet the noted qualifications as applicants will be screened based on the information provided. We would like to thank all applicants for their interest; however, only those who are selected for an interview will be contacted.\n\nWhere possible, submitting an electronic resume or job application is preferred. Otherwise, please return forms to PEI Public Service Commission, P.O. Box 2000, Charlottetown, Prince Edward Island, C1A 7N8.\n\nIT IS THE RESPONSIBILITY OF THE APPLICANT TO CONFIRM RECEIPT OF THE APPLICATION, BY TELEPHONE OR IN PERSON PRIOR TO THE CLOSING DATE.\n\nPlease ensure that the appropriate Posting ID number is stated on all application forms.\n\nVoted as one of Forbes’ top 45 Best Employers in Canada for 2026\n\nThe Public Service is inspired to make a positive impact and proud to shape the future of our Island Community.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nGovernment Administration",
+      "first_seen": "2026-10-21T18:54:59Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (PE)",
+      "geo_city": "Charlottetown",
+      "geo_province": "PE",
+      "geo_lat": 46.2382,
+      "geo_lon": -63.1311,
+      "geo_distance_km": 1307.5,
+      "geo_rank": 413075,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Affinity",
       "title": "Director, Applications, Data & Integration",
@@ -51620,6 +51645,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1780
+  ]
 }

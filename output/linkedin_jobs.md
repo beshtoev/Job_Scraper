@@ -1,22 +1,23 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-21 18:20 UTC*
+*Last updated: 2026-10-21 18:55 UTC*
 
 **4 new role(s)** since last run · 8 total in last 1h
 
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4478013010/) — City of Ottawa / Ville d’Ottawa
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $174,164.90 - $220,256.40 annually
+### [Director, Finance Technology & Transformation](https://www.linkedin.com/jobs/view/4462545462/) — O2E Brands
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $159,000 to $186,000 per annum
 - 🕒 **Posted:** 2026-10-21
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4482128565/) — Serv Recruitment
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 💰 **Salary:** $150,000- $250,000
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4466343685/) — MoversSuite
+- 📍 **Location:** Canada
+- 💰 **Salary:** $160,000 – $175,000
 - 🕒 **Posted:** 2026-10-21
 
-### [Director, Applications, Data & Integration](https://www.linkedin.com/jobs/view/4481129901/) — Affinity
-- 📍 **Location:** British Columbia, Canada
+### [Leader principal ou leader principale, Oracle EPM Planning](https://www.linkedin.com/jobs/view/4463835058/) — Deloitte
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-21
 
-### [Chief Courts Information Officer](https://www.linkedin.com/jobs/view/4456289878/) — Affinity
-- 📍 **Location:** Winnipeg, Manitoba, Canada
+### [Director of Finance](https://www.linkedin.com/jobs/view/4479433722/) — Government of Prince Edward Island
+- 📍 **Location:** Charlottetown, Prince Edward Island, Canada
+- 💰 **Salary:** $114,758.00/yr - CA$141,824.00/yr
 - 🕒 **Posted:** 2026-10-21
