@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 03:24 UTC",
+  "updated_at": "2026-10-22 03:49 UTC",
   "jobs": [
     {
       "company": "University of Northern British Columbia",
@@ -6355,7 +6355,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -52103,6 +52103,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1796
+  ]
 }
