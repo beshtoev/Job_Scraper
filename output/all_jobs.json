@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-22 10:50 UTC",
+  "updated_at": "2026-10-22 11:07 UTC",
   "jobs": [
+    {
+      "company": "The City of Maple Ridge",
+      "title": "26-171 Deputy Director of Finance (RFT)",
+      "location": "Maple Ridge, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010303327622",
+      "date_posted": "2026-10-22",
+      "description": "Experience leading or participating in the implementation, upgrade, or optimization of enterprise resource planning (ERP), financial, accounting, payroll, human…",
+      "salary": "$163k–$194k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-22T11:07:04Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Maple Ridge",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "BuildOps",
       "title": "Director of Engineering, Data",
@@ -35,6 +62,7 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-engineering-data/11805760",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010303237346",
         "https://www.linkedin.com/jobs/view/4481319260/"
       ]
     },
@@ -232,8 +260,10 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010303356119",
         "https://www.linkedin.com/jobs/view/4481164546/"
-      ]
+      ],
+      "salary": "$125k–$175k/yr"
     },
     {
       "company": "Manulife",
