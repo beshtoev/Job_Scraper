@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-22 17:55 UTC",
+  "updated_at": "2026-10-22 18:16 UTC",
   "jobs": [
+    {
+      "company": "Bruyère Health",
+      "title": "Director, Strategy, Process Improvement and Project Management Office",
+      "location": "Ottawa, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010303676815",
+      "date_posted": "2026-10-22",
+      "description": "The incumbent will lead the development and implementation of a comprehensive continuous improvement program, driving large-scale process transformation…",
+      "salary": "$148k–$180k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-22T18:16:31Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "NuEnergy.ai",
       "title": "Vice President, Finance and Administration",
@@ -880,7 +907,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010303745512"
+      ]
     },
     {
       "company": "Colliers",
