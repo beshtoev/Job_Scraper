@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 18:55 UTC*
+*Last updated: 2026-10-22 19:19 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**2 new role(s)** since last run · 7 total in last 1h
 
-### [Director, Finance](https://www.linkedin.com/jobs/view/4480717303/) — Provident10
-- 📍 **Location:** St John’s, Newfoundland and Labrador, Canada
+### [Senior Director AI and Transformation](https://www.linkedin.com/jobs/view/4480081123/) — National Bank of Canada
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-22
 
-### [Director, Business Services and Corporate Governance](https://www.linkedin.com/jobs/view/4481387501/) — The Alberta School Employee Benefit Plan (ASEBP)
-- 📍 **Location:** Edmonton, Alberta, Canada
+### [Senior Director, Financial Reporting](https://www.linkedin.com/jobs/view/4479710063/) — GlassRatner Canada
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-22
