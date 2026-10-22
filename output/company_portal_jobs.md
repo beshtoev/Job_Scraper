@@ -1,7 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 05:36 UTC*
+*Last updated: 2026-10-22 08:36 UTC*
 
 **1 new role(s)** since last run · 225 total in current portal openings
 
-### [Senior Director, Chapter Lead, Insurance Analytics](https://builtintoronto.com/job/senior-director-chapter-lead-insurance-analytics/11680206) — CIBC
+### [Director of Engineering, Data](https://builtintoronto.com/job/director-engineering-data/11805760) — BuildOps
 - 📍 **Location:** Toronto, Ontario, Canada
