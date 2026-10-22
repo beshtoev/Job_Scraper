@@ -1,6 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 06:06 UTC*
+*Last updated: 2026-10-22 08:09 UTC*
 
-**0 new role(s)** since last run · 5 total in last 24h
+**1 new role(s)** since last run · 6 total in last 24h
 
-No new roles since the last run.
+### [Director of Engineering, Data](https://ca.indeed.com/viewjob?jk=c4cfbc2e370b8f9c) — BuildOps
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-22

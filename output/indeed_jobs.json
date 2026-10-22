@@ -1,8 +1,40 @@
 {
-  "scraped_at": "2026-10-22 06:06 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-10-22 08:09 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "BuildOps",
+      "title": "Director of Engineering, Data",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=c4cfbc2e370b8f9c",
+      "direct_url": "https://grnh.se/noozc55m4us",
+      "company_url": "https://ca.indeed.com/cmp/Buildops",
+      "date_posted": "2026-10-22",
+      "description": "At BuildOps, we build software for modern commercial contractors, from service management through project delivery. We care deeply about the mission and look for people who are driven, self motivated, and excited by fast moving, high ownership environments.\n\n\n\nData sits at the center of BuildOps' AI first strategy. The operational data our customers generate on BuildOps is a long term advantage, but only if it is clean, reliable, and well governed. As Director of Engineering, Data, you will build and lead our unified Data \\& AI engineering function. You will own the platforms, pipelines, quality standards, and operating discipline that power AI and ML products and help customers trust BuildOps as their system of record.\n\n\n\nReporting to the VP of Engineering, you will help define BuildOps' data strategy over the next three to five years and shape how we build data powered products. This is a foundational leadership role for someone who can think long term about architecture while staying close to the work. You have built and scaled data organizations before and know how to take a team from early stage scrappiness to operational excellence.\n\n\n**What You'll Do**\n\n\n* Own BuildOps' data platform and architecture end to end, including ingestion, transformation, orchestration, and an ML and streaming strategy that evolves with the business and scales efficiently\n* Build scalable, repeatable customer and partner data onboarding capabilities that bring data into BuildOps quickly and reliably, reducing time to first value\n* Run data systems with production grade discipline, including monitoring, alerting, SLAs, incident response, lineage, freshness, and clear ownership for critical datasets\n* Create the data foundation required for AI and ML products, with accurate, well documented inputs today and the right training, inference, and feature infrastructure as those products mature\n* Establish governance that supports speed, including access controls, data classification, audit trails, PII handling, and practical data contracts that teams can depend on\n* Hire, develop, and lead a strong data engineering team, and establish the right operating rhythms across planning, on call, and stakeholder intake\n\n\n**What We Look For**\n\n\n* 10\\+ years in data or software engineering, including experience building and scaling teams of 10\\+ engineers, with a track record of hiring well, growing leaders, and leading through managers as well as individual contributors\n* Deep hands on experience with modern data platforms, including a cloud warehouse or lakehouse such as Snowflake or Databricks, dbt and ELT patterns, orchestration tools like Airflow, and streaming technologies such as Kafka or Kinesis, with AWS experience strongly preferred\n* Direct experience building data systems that support production ML use cases, not just analytics, with an understanding of feature stores, training data, real time inference, and the tradeoffs involved in building versus buying ML platform capabilities\n* A track record of operational excellence in data, including monitoring, SLAs, incident response, and data quality practices applied with the same rigor as customer facing systems\n* Experience delivering customer facing data products such as reporting, analytics, or APIs in B2B SaaS environments where performance, reliability, and trust matter\n* Strong architectural judgment, including when to build, when to buy, how to design for change, and how to sequence investments behind validated needs instead of overbuilding\n* A pragmatic approach to governance, with security and compliance built in, documentation and contracts that stay current, and access models that balance control with self service\n* Early stage or scale up experience in Series B through D companies is a plus, and experience in vertical SaaS or construction tech is helpful but not required\n\n\n**Who You Are**\n\n\n* A builder who is comfortable with ambiguity and greenfield work, and can move quickly, ship an MVP, and still make sound decisions for long term scale\n* Both hands on and strategic, willing to write code, debug issues, and carry operational responsibility when needed while maintaining a clear multi year vision\n* You know how to influence across Product, Engineering, GTM, Finance, and the executive team, build trust, communicate clearly, and push back when priorities are misaligned\n* Able to translate technical decisions into business impact and business goals into technical direction\n* You have seen this stage of growth before and know what good looks like in a high growth data organization\n\n\n**Compensation**\n\n\n* $176,000 \\- $235,000 base salary range \\+ annual bonus \\+ meaningful equity\n\n**What we offer:**\n* Generous equity grant, become an owner in our company!\n* A comprehensive benefits package\n* Flexible PTO and hybrid work schedules\n* One\\-time work\\-from\\-home allowance\n* Hubs in Los Angeles, San Francisco, Toronto, and Raleigh with hybrid work schedules and lunch provided for in\\-office days\n* Company events and team\\-building activities, both in\\-person and virtual\n* Fast\\-paced, collaborative, and dynamic work environment\n* Opportunities for growth and career advancement\n* Chance to work with cutting\\-edge technology and innovative solutions\n* The chance to get in on the ground floor and build something truly groundbreaking for ourselves and our amazing customers\n\n\n*We welcome applicants from across the U.S. where we are registered to do business and able to support employment. Currently, this excludes the following states: Alaska, Hawaii, Kentucky, Mississippi, Nebraska, New Mexico, North Dakota, Rhode Island, South Dakota, West Virginia, and Wyoming. This list is based solely on operational and compliance considerations and is reviewed from time to time as our footprint grows.*\n\n\n#### **About BuildOps**\n\n\n\nJoin BuildOps, the largest commercial trade platform in the country, as we transform the multi\\-billion dollar commercial contracting industry!\n\n\n\nWe",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "fraud@buildops.com",
+      "ats": "Indeed",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Live Nation",
       "title": "Senior Director, Operations Finance",
@@ -164,5 +196,38 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "BuildOps",
+      "title": "Director of Engineering, Data",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=c4cfbc2e370b8f9c",
+      "direct_url": "https://grnh.se/noozc55m4us",
+      "company_url": "https://ca.indeed.com/cmp/Buildops",
+      "date_posted": "2026-10-22",
+      "description": "At BuildOps, we build software for modern commercial contractors, from service management through project delivery. We care deeply about the mission and look for people who are driven, self motivated, and excited by fast moving, high ownership environments.\n\n\n\nData sits at the center of BuildOps' AI first strategy. The operational data our customers generate on BuildOps is a long term advantage, but only if it is clean, reliable, and well governed. As Director of Engineering, Data, you will build and lead our unified Data \\& AI engineering function. You will own the platforms, pipelines, quality standards, and operating discipline that power AI and ML products and help customers trust BuildOps as their system of record.\n\n\n\nReporting to the VP of Engineering, you will help define BuildOps' data strategy over the next three to five years and shape how we build data powered products. This is a foundational leadership role for someone who can think long term about architecture while staying close to the work. You have built and scaled data organizations before and know how to take a team from early stage scrappiness to operational excellence.\n\n\n**What You'll Do**\n\n\n* Own BuildOps' data platform and architecture end to end, including ingestion, transformation, orchestration, and an ML and streaming strategy that evolves with the business and scales efficiently\n* Build scalable, repeatable customer and partner data onboarding capabilities that bring data into BuildOps quickly and reliably, reducing time to first value\n* Run data systems with production grade discipline, including monitoring, alerting, SLAs, incident response, lineage, freshness, and clear ownership for critical datasets\n* Create the data foundation required for AI and ML products, with accurate, well documented inputs today and the right training, inference, and feature infrastructure as those products mature\n* Establish governance that supports speed, including access controls, data classification, audit trails, PII handling, and practical data contracts that teams can depend on\n* Hire, develop, and lead a strong data engineering team, and establish the right operating rhythms across planning, on call, and stakeholder intake\n\n\n**What We Look For**\n\n\n* 10\\+ years in data or software engineering, including experience building and scaling teams of 10\\+ engineers, with a track record of hiring well, growing leaders, and leading through managers as well as individual contributors\n* Deep hands on experience with modern data platforms, including a cloud warehouse or lakehouse such as Snowflake or Databricks, dbt and ELT patterns, orchestration tools like Airflow, and streaming technologies such as Kafka or Kinesis, with AWS experience strongly preferred\n* Direct experience building data systems that support production ML use cases, not just analytics, with an understanding of feature stores, training data, real time inference, and the tradeoffs involved in building versus buying ML platform capabilities\n* A track record of operational excellence in data, including monitoring, SLAs, incident response, and data quality practices applied with the same rigor as customer facing systems\n* Experience delivering customer facing data products such as reporting, analytics, or APIs in B2B SaaS environments where performance, reliability, and trust matter\n* Strong architectural judgment, including when to build, when to buy, how to design for change, and how to sequence investments behind validated needs instead of overbuilding\n* A pragmatic approach to governance, with security and compliance built in, documentation and contracts that stay current, and access models that balance control with self service\n* Early stage or scale up experience in Series B through D companies is a plus, and experience in vertical SaaS or construction tech is helpful but not required\n\n\n**Who You Are**\n\n\n* A builder who is comfortable with ambiguity and greenfield work, and can move quickly, ship an MVP, and still make sound decisions for long term scale\n* Both hands on and strategic, willing to write code, debug issues, and carry operational responsibility when needed while maintaining a clear multi year vision\n* You know how to influence across Product, Engineering, GTM, Finance, and the executive team, build trust, communicate clearly, and push back when priorities are misaligned\n* Able to translate technical decisions into business impact and business goals into technical direction\n* You have seen this stage of growth before and know what good looks like in a high growth data organization\n\n\n**Compensation**\n\n\n* $176,000 \\- $235,000 base salary range \\+ annual bonus \\+ meaningful equity\n\n**What we offer:**\n* Generous equity grant, become an owner in our company!\n* A comprehensive benefits package\n* Flexible PTO and hybrid work schedules\n* One\\-time work\\-from\\-home allowance\n* Hubs in Los Angeles, San Francisco, Toronto, and Raleigh with hybrid work schedules and lunch provided for in\\-office days\n* Company events and team\\-building activities, both in\\-person and virtual\n* Fast\\-paced, collaborative, and dynamic work environment\n* Opportunities for growth and career advancement\n* Chance to work with cutting\\-edge technology and innovative solutions\n* The chance to get in on the ground floor and build something truly groundbreaking for ourselves and our amazing customers\n\n\n*We welcome applicants from across the U.S. where we are registered to do business and able to support employment. Currently, this excludes the following states: Alaska, Hawaii, Kentucky, Mississippi, Nebraska, New Mexico, North Dakota, Rhode Island, South Dakota, West Virginia, and Wyoming. This list is based solely on operational and compliance considerations and is reviewed from time to time as our footprint grows.*\n\n\n#### **About BuildOps**\n\n\n\nJoin BuildOps, the largest commercial trade platform in the country, as we transform the multi\\-billion dollar commercial contracting industry!\n\n\n\nWe",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "fraud@buildops.com",
+      "ats": "Indeed",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
