@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 02:49 UTC*
+*Last updated: 2026-10-22 03:15 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Head of Digital Marketing, Vanguard Canada](https://www.linkedin.com/jobs/view/4482403928/) — Vanguard
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $118k-$216k
+- 🕒 **Posted:** 2026-10-22

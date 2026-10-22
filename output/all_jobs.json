@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 02:48 UTC",
+  "updated_at": "2026-10-22 03:15 UTC",
   "jobs": [
     {
       "company": "Live Nation",
@@ -323,17 +323,17 @@
       "url": "https://builtintoronto.com/job/head-digital-marketing-vanguard-canada/11794269",
       "direct_url": "https://builtintoronto.com/job/head-digital-marketing-vanguard-canada/11794269",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-10-22",
       "date_seen": "2026-10-21T20:16:06Z",
-      "description": "",
+      "description": "Head of Digital Marketing – Vanguard Canada\n\nThe Head of Digital Marketing for Canada will shape and lead the digital strategy that connects investors and advisors to Vanguard's products, insights, and thought leadership. This leader will play a critical role in advancing Vanguard's mission to give clients the best chance for investment success by creating meaningful, data-driven digital experiences that drive engagement, acquisition, and retention.\n\nThe ideal candidate will bring extensive experience leading digital marketing organizations within the financial services industry, with a strong understanding of investor and advisor audiences, financial products, regulatory considerations, and the unique dynamics of the wealth and asset management landscape. They will combine strategic vision with hands-on digital marketing expertise to deliver measurable business outcomes and elevate Vanguard's digital capabilities.\n\nResponsibilities:\n\nDevelop and execute a comprehensive digital marketing strategy across paid, owned, and earned channels to support Vanguard Canada's growth objectives.\nEstablish leading digital marketing practices, optimize performance across the customer journey, and improve return on investment for key business partners.\nBuild and maintain a best-in-class digital marketing ecosystem that supports personalized, connected experiences for both advisor and investor audiences.\nLead the evolution of content and digital engagement strategies, ensuring communications are timely, relevant, compliant, and personalized across all channels.\nManage the paid media budget across campaign-based and always-on programs, maximizing efficiency and business impact.\nDefine analytics and measurement frameworks that provide clear attribution, actionable insights, and a comprehensive view of marketing performance.\nLeverage customer, campaign, and market data to inform strategy, improve targeting, and deepen customer engagement.\nPartner with Marketing Technology, Data, and IT teams to develop an integrated marketing technology architecture aligned with Vanguard's global design standards and future-state vision.\nEvaluate emerging digital marketing and marketing technology solutions, including customer data platforms, artificial intelligence, and machine learning capabilities, to continuously enhance Vanguard's digital marketing effectiveness.\nLead, coach, and develop a high-performing team of digital marketing professionals while fostering a collaborative and inclusive team culture.\nManage agency and vendor partnerships to ensure strong performance, accountability, innovation, and alignment with business goals.\n\nEducation & Experience:\n\n10+ years of progressive marketing leadership experience, including significant digital marketing leadership experience within financial services, asset management, wealth management, banking, insurance, or a related financial institution.\nDemonstrated success developing and executing large-scale digital marketing strategies that drive measurable business outcomes, customer acquisition, engagement, and retention.\nDeep expertise across digital marketing disciplines, including paid media, digital acquisition, customer journey optimization, marketing automation, personalization, analytics, and marketing technology.\nStrong understanding of advisor and investor audiences, financial products, and the regulatory environment governing financial services marketing.\nProven experience managing substantial digital marketing budgets and external agency/vendor relationships.\nExperience operating in complex, global, matrixed organizations and influencing senior stakeholders across functions and geographies.\nUndergraduate degree required; MBA or other advanced degree preferred.\nProficiency in English required; French language skills are an asset.\nRelevant digital marketing credentials and certifications (e.g., analytics, Martech, digital strategy, performance marketing) are a must.\n\nKey Candidate Profile:\n\nRecognized digital marketing leader with a track record of transforming digital capabilities and driving growth within the financial services industry.\nStrategic thinker with strong analytical, commercial, and execution skills.\nPassion for leveraging data, technology, and innovation to enhance the customer experience and business outcomes.\nEffective people leader with experience building and developing high-performing teams.\n\nPay Transparency\n\nExpected Salary Range:\nC$118k-$216k plus bonuses\n\nRole status:\nNew Role\n\nOur compensation ranges are based on role, level, and local market. Individual pay within the range is determined by factors such as job-related skills, experience, and relevant education or training. For part-time roles, pay will be pro-rated based on regularly scheduled hours.\n\nIn addition to the range above, Vanguard’s total compensation package may include performance-based incentives, discretionary bonuses, and other perks. We also offer comprehensive benefits such as health insurance, accident and life insurance, and retirement savings plans. Your recruiter will be able to provide additional details on the total compensation offering during the hiring process.\n\nAI Disclosure Statement\n\nVanguard does not use artificial intelligence (AI) or automated decision-making tools in its recruitment process. All application reviews and hiring decisions are made by our recruitment team.\n\nAccommodations\n\nVanguard is committed to fostering an accessible and inclusive workplace. We are committed to providing barrier-free and accessible employment practices in compliance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code. If you require accommodation at any stage of the recruitment process, please inform us. We will work with you to meet your needs and you can reach us at  americas_crewcentral@vanguardhr.com, quoting the  job ID\n and  job title\n.\n\nHow We Work\n\nVanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-10-21T20:16:12Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -345,7 +345,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$118k-$216k",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4482403928/"
+      ]
     },
     {
       "company": "Workday",
