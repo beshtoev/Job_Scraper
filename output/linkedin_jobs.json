@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-22 04:50 UTC",
+  "scraped_at": "2026-10-22 05:14 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "AARUNI Inc.",
@@ -28,30 +28,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "AARUNI Inc.",
-      "title": "Director of Ethics, Governance & Organizational Strategy",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4481185772/",
-      "date_posted": "2026-10-22",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Director of Ethics, Governance & Organizational Strategy\n\nAARUNI Inc. · Toronto, Ontario, Canada · Hybrid · Full-time\n\nAbout the Opportunity\nAARUNI Inc. is a Canadian advisory firm focused on ethical leadership, corporate governance, regulatory compliance, and organizational accountability. We help organizations strengthen decision-making, improve governance practices, and address complex ethical and operational challenges.\nWe are seeking a Director of Ethics, Governance & Organizational Strategy to contribute to the development of our advisory practice, advance strategic initiatives, cultivate professional relationships, and support the firm's long-term growth.\n\nKey Responsibilities\nContribute to the development and execution of organizational strategy and business priorities.\nResearch emerging developments in business ethics, corporate governance, compliance, and organizational accountability.\nDevelop recommendations and advisory approaches addressing ethical risks and governance challenges.\nSupport the creation and refinement of policies, internal controls, governance frameworks, and operating standards.\nIdentify opportunities to expand advisory services and establish relationships with prospective clients and strategic partners.\nEvaluate organizational challenges and recommend practical, principled approaches to decision-making.\nContribute to business development, service innovation, and the firm's professional positioning.\nExercise sound judgment when handling sensitive matters and confidential business information.\n\nQualifications & Experience\nStrong analytical thinking, strategic judgment, and problem-solving capabilities.\nExcellent written communication, research, and professional presentation skills.\nDemonstrated interest or experience in ethics, corporate governance, compliance, risk management, consulting, or organizational strategy.\nAbility to work independently, assess complex situations, and formulate well-reasoned recommendations.\nStrong organizational skills and the ability to manage competing priorities.\nA bachelor's degree from a recognized, accredited university is required.\nA postgraduate qualification in business, governance, law, or a related discipline is an asset but not required.\n\nWhat AARUNI Offers\nAn opportunity to contribute to the development of a Canadian ethics advisory firm.\nInvolvement in strategic planning, advisory services, and organizational development.\nA flexible working environment.\nOpportunities to contribute ideas, develop professional relationships, and shape the firm's service offerings.\n\nApplication Process\nApplicants are invited to submit a résumé outlining their qualifications, relevant experience, and suitability for the position.\n\nAs part of the application, candidates are kindly requested to include a brief example in their résumé of an ethical dilemma they encountered and how they navigated or resolved it. The example should demonstrate ethical reasoning, sound judgment, and decision-making.\n\nAARUNI Inc. is committed to professional and fair recruitment practices. Applicant information will be handled confidentially and used for recruitment purposes.\n\nJoin AARUNI Inc. in advancing ethical leadership, effective governance, and organizational accountability.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
