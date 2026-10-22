@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 05:14 UTC*
+*Last updated: 2026-10-22 07:04 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Director, Operations Finance](https://www.linkedin.com/jobs/view/4482438447/) — Live Nation Entertainment
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $156,000-195,000
+- 🕒 **Posted:** 2026-10-22
