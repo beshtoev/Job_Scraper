@@ -1,12 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 17:14 UTC*
+*Last updated: 2026-10-22 17:56 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Directeur Financier | Finance Director](https://www.linkedin.com/jobs/view/4369717622/) — Manos Software Group
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Chief Courts Information Officer](https://www.linkedin.com/jobs/view/4456289878/) — Affinity
+- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 🕒 **Posted:** 2026-10-22
 
-### [Senior Director, Data & Analytics](https://www.linkedin.com/jobs/view/4472346061/) — University Pension Plan Ontario
+### [Vice President, Finance and Administration](https://www.linkedin.com/jobs/view/4481396066/) — NuEnergy.ai
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-10-22
+
+### [Director of Finance And Operations](https://www.linkedin.com/jobs/view/4481391532/) — Vaco by Highspring
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $160,000.00/yr - CA$180,000.00/yr
 - 🕒 **Posted:** 2026-10-22
