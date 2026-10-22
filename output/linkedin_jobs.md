@@ -1,13 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 19:39 UTC*
+*Last updated: 2026-10-22 20:24 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Director, Strategic Finance - Remote in Canada](https://www.linkedin.com/jobs/view/4480069672/) — GoodLife Fitness
-- 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $146,000 - $196,000
+### [Associate Director, Privacy, Data Protection and Information Governance](https://www.linkedin.com/jobs/view/4480088043/) — EY
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-22
 
-### [Director of Finance / Controller](https://www.linkedin.com/jobs/view/4469063928/) — Litco LSO
-- 📍 **Location:** Calgary, Alberta, Canada
+### [Chief Financial Officer - Permanent - 19222](https://www.linkedin.com/jobs/view/4430637490/) — LRO Staffing
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-22
+
+### [Director, Strategy & Planning, GTB (12-month Contract)](https://www.linkedin.com/jobs/view/4481615129/) — Scotiabank
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-22
