@@ -1,22 +1,10 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 20:52 UTC*
+*Last updated: 2026-10-22 23:59 UTC*
 
-**5 new role(s)** since last run · 229 total in current portal openings
+**2 new role(s)** since last run · 230 total in current portal openings
 
-### [Associate Director, Investment Platform (Contract)](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Associate-Director--Investment-Platform--Contract-_R260020316) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-10-22
-
-### [Director, Investment Product Platform](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Investment-Product-Platform_R260027789) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-10-22
-
-### [Director, Digital Investing Product Management](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Digital-Investing-Product-Management_R260026126) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-10-22
-
-### [Director, Enterprise Process & Business Readiness *** Directeur(ice), Processus d'entreprise et préparation opérationnelle](https://builtintoronto.com/job/director-enterprise-process-business-readiness-directeur-ice-processus-d-entreprise-et-pr-paration-op-rationnelle/11821523) — Aliaxis
+### [Director of Digital Products, Ad Experiences and Audience Activation (Hybrid/Telework)](https://builtintoronto.com/job/director-digital-products-ad-experiences-and-audience-activation-hybrid-telework/11822454) — CBC/Radio-Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Digital Investing Product Management](https://builtintoronto.com/job/director-digital-investing-product-management/11366118) — BMO
+### [Assistant Vice President, Information Security](https://builtintoronto.com/job/assistant-vice-president-information-security/11649832) — First National Financial LP
 - 📍 **Location:** Toronto, Ontario, Canada
