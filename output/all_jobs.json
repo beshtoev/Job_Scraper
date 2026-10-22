@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 18:30 UTC",
+  "updated_at": "2026-10-22 18:31 UTC",
   "jobs": [
     {
       "company": "Sunlife",
@@ -938,29 +938,32 @@
       "date_posted": "2026-10-22",
       "date_seen": "2026-10-22T14:26:07Z",
       "description": "We’re building a relationship-oriented bank for the modern world. We need talented, passionate professionals who are dedicated to doing what’s right for our clients. \n\n At CIBC, we embrace your strengths and your ambitions, so you are empowered at work. Our team members have what they need to make a meaningful impact and are truly valued for who they are and what they contribute. \n\n To learn more about CIBC, please visit CIBC.com \n\n What You’ll Be Doing \n\n As the Director, Transformation & AI Delivery, you will be reporting to the Senior Director, Strategy, Business Management and Effectiveness in Transaction Banking. In this role you will lead Transaction Banking’s transformation and AI agenda by overseeing the full portfolio of process transformation and AI initiatives while directly owning and delivering a significant portion of them. You will be establishing governance frameworks, maintaining clear visibility into progress, risks, dependencies, and resourcing, as well as preparing updates for leadership and steering committees. You will also be identifying and prioritizing new transformation and AI opportunities, leading initiatives from idea through design, build, launch, and adoption, and ensuring measurable business outcomes are defined and realized. \n\n At CIBC we enable the work environment most optimal for you to thrive in your role. Details on your work arrangement (proportion of on-site and remote work) will be discussed at the time of your interview. \n\n How You'll Succeed \n\n PMO and Governance - Establish and run a single framework for intake, prioritization, stage gates, status reporting, and benefits tracking. Maintain a current view of initiative status, risks, dependencies, and resourcing. Run weekly workstream check-ins and bi-weekly portfolio working sessions. Prepare monthly status reports for TB leadership and quarterly steering committee and benefits reviews. Represent TB in enterprise transformation and AI governance forums. \n\n Initiative Identification and Delivery - Build a structured pipeline to find, assess, and prioritize process transformation and AI opportunities. Lead owned initiatives from ideation and solution design through build, launch, and adoption. Define benefits at the outset (efficiency, cost, revenue, risk) and report realized outcomes after launch. \n\n Stakeholder Leadership - Align Technology, Data and AI, Operations, Product, Risk, Compliance, Model Risk, and Finance on priorities and decisions. Mobilize and direct matrixed resources, and escalate risks and decisions early. Drive change management and adoption so results are sustained. \n\n Success Outcomes - Success will be demonstrated by strong transformation governance across the portfolio, clear and current visibility for senior leadership, end-to-end delivery of owned initiatives with measurable impact, and a repeatable pipeline of process transformation and AI opportunities. It will also include benefits that are clearly defined, tracked, and realized, as well as strong stakeholder alignment and sustained adoption. \n\n Collaboration & Culture - Foster a culture of collaboration and innovation within the team and across partner groups, including Commercial Banking and Transaction Banking teams. \n\n Who You Are \n\n You can demonstrate 8-10 years of experience in banking, financial services, or consulting, with exposure to payments or transaction banking or cash management as well as hands-on AI/GenAI transformation or delivery experience. It is an asset if you have PMO or portfolio governance experience and benefits realization experience.\n Your influence makes a difference. You have a proven track record leading complex, cross-functional programs through influence, with strong executive communication.\n You look beyond the moment. You know what you do will make a difference today and tomorrow. You look for new opportunities to define what's possible. Change management and adoption experience would be an asset.\n You embrace and advocate for change. You have experience building an idea or opportunity pipeline, including process transformation or automation.\n You live your values. You bring high standards, genuine care to your relationships, and want to grow with an employer that shares your values and brings out your best.\n #LI-TA\n\n What CIBC Offers \n\n At CIBC, your goals are a priority. We start with your strengths and ambitions as an employee and strive to create opportunities to tap into your potential. We aspire to give you a career, rather than just a paycheck.\n We work to recognize you in meaningful, personalized ways including a competitive salary, incentive pay, banking benefits, a benefits program*, defined benefit pension plan*, an employee share purchase plan, a vacation offering, wellbeing support, and MomentMakers, our social, points-based recognition program.\n\n Our spaces and technological toolkit will make it simple to bring together great minds to create innovative solutions that make a difference for our clients.\n\n We cultivate a culture where you can express your ambition through initiatives like Purpose Day; a paid day off dedicated for you to use to invest in your growth and development.\n\n *Subject to plan and program terms and conditions\n\n What you need to know \n CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applicants with a wide range of abilities and we provide an accessible candidate experience. If you need accommodation, please contact Mailbox.careers-carrieres@cibc.com \n\n CIBC is committed to clarity in our hiring process. All roles posted are opportunities we’re actively recruiting for, unless stated otherwise.\n\n You need to be legally eligible to work at the location(s) specified above and, where applicable, must have a valid work or study permit.\n\n We may ask you to complete an attribute-based assessment and other skills test (such as simulation, coding, French proficiency). \n\n We use artificial intelligence tools during the recruitment process. Our goal for the application process is to get to know more about you, all that you have to offer, and give you the opportunity to learn more about us. \n\n Job Location \nToronto-81 Bay, 12th Floor \n Employment Type \nRegular \n Weekly Hours \n37.5 \n Skills \nAnalytical Thinking, Business Growth, Business Objectives, Client Service, Communication, Customer Experience (CX), Detail-Oriented, Leadership, People Management",
-      "is_remote": null,
+      "is_remote": true,
       "department": "",
       "ats": "Workday",
       "source": "company_portal",
       "archetype": "B",
       "first_seen": "2026-10-22T14:45:19Z",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=9293e70e4f39343c",
         "https://www.glassdoor.ca/job-listing/j?jl=1010303745512"
-      ]
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Colliers",
