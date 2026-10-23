@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-23 04:17 UTC",
+  "updated_at": "2026-10-23 04:42 UTC",
   "jobs": [
+    {
+      "company": "Ascot Capital Group",
+      "title": "Directeur financer / Director of finance",
+      "location": "Remote, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010303938642",
+      "date_posted": "2026-10-23",
+      "description": "Diriger et gérer l’équipe finance, encadrer les employés sous sa responsabilité et superviser le personnel en comptabilité et en finance;",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_arrangement": "Remote in-state eligible",
+      "first_seen": "2026-10-23T04:42:17Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "McGill University",
       "title": "Associate Director, Financial Reporting and Unrestricted Accounting",
@@ -521,6 +549,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010303650193",
         "https://www.glassdoor.ca/job-listing/j?jl=1010303927331"
       ]
     },
@@ -10486,7 +10515,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
