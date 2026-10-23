@@ -1,9 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 11:56 UTC*
+*Last updated: 2026-10-23 14:05 UTC*
 
-**1 new role(s)** since last run · 50 total in last 24h
+**1 new role(s)** since last run · 49 total in last 24h
 
-### [Director of Finance and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010304584794) — Blyth Group Inc.
-- 📍 **Location:** Uxbridge, Canada
-- 💰 **Salary:** $110k–$120k/yr
+### [Director/Senior Director Technology Audit and Advisory Services](https://www.glassdoor.ca/job-listing/j?jl=1010303650193) — Manulife
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $113k–$210k/yr
 - 🕒 **Posted:** 2026-10-23
