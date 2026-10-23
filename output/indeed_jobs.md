@@ -1,16 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 05:15 UTC*
+*Last updated: 2026-10-23 07:19 UTC*
 
-**2 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 10 total in last 24h
 
-### [Director/Senior Director Technology Audit and Advisory Services](https://ca.indeed.com/viewjob?jk=2a9b6bfbd10eb04a) — Manulife
+### [Director, Product & Strategy](https://ca.indeed.com/viewjob?jk=abcc795777d6e565) — Fulfillment IQ
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** 2026-10-22
 
-### [Director, Treasury Finance](https://ca.indeed.com/viewjob?jk=ca8ec51f55812424) — Manulife
+### [Director of Digital Products, Ad Experiences and Audience Activation (Hybrid/Telework)](https://ca.indeed.com/viewjob?jk=51bf781071155e00) — CBC/Radio-Canada
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-20
+- 🕒 **Posted:** 2026-10-22
