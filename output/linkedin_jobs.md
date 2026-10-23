@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 13:54 UTC*
+*Last updated: 2026-10-23 14:13 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4473355145/) — Pivotal Integrated HR Solutions
-- 📍 **Location:** Greater Toronto Area, Canada
-- 🕒 **Posted:** 2026-10-23
-
-### [Head of Data Systems (Google Stack)](https://www.linkedin.com/jobs/view/4481689578/) — Stacktics
+### [Finance Process Improvement Leader](https://www.linkedin.com/jobs/view/4479032713/) — Engage Recruitment
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00/yr - CA$150,000.00/yr
 - 🕒 **Posted:** 2026-10-23
