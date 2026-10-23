@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 16:36 UTC*
+*Last updated: 2026-10-23 17:23 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Senior Director, Product Management, AEC Data](https://www.linkedin.com/jobs/view/4481914159/) — Autodesk
-- 📍 **Location:** Greater Toronto Area, Canada
+### [Assistant Vice President, Data Transformation](https://www.linkedin.com/jobs/view/4472988393/) — The Citco Group Limited
+- 📍 **Location:** Nova Scotia, Canada
 - 🕒 **Posted:** 2026-10-23
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4481903780/) — Robertson & Company Ltd.
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Head of Product & Technology (Questbank)](https://www.linkedin.com/jobs/view/4443632577/) — Questrade Financial Group
+- 📍 **Location:** North York, Ontario, Canada
 - 🕒 **Posted:** 2026-10-23
