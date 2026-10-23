@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 10:48 UTC",
+  "updated_at": "2026-10-23 10:49 UTC",
   "jobs": [
     {
       "company": "KPMG Canada",
@@ -5350,8 +5350,8 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-21T05:42:20Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
       "geo_category": "Ontario",
       "geo_label": "Ontario",
       "geo_city": "Waterloo",
@@ -10582,7 +10582,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
