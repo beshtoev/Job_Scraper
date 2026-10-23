@@ -1,10 +1,15 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 18:23 UTC*
+*Last updated: 2026-10-23 20:43 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [Director, Global Business Services Finance & Controlling](https://ca.indeed.com/viewjob?jk=d88507f5ef6e158e) — Magna International
-- 📍 **Location:** Aurora, ON, CA
+### [Part-Time Chief Financial Officer (CFO)](https://ca.indeed.com/viewjob?jk=20987d514cd82000) — NIACON LIMITED
+- 📍 **Location:** Niagara Falls, ON, CA
 - **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** parttime
 - 🕒 **Posted:** 2026-10-23
+
+### [Grimsby Power Director Of Finance](https://ca.indeed.com/viewjob?jk=2ce27297e672373f) — The MEARIE Group
+- 📍 **Location:** Grimsby, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-22
