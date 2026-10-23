@@ -1,13 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 15:50 UTC*
+*Last updated: 2026-10-23 16:36 UTC*
 
-**2 new role(s)** since last run · 6 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Finance](https://www.linkedin.com/jobs/view/4464652836/) — HighlightTA
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 💰 **Salary:** $180,000.00/yr - CA$200,000.00/yr
+### [Senior Director, Product Management, AEC Data](https://www.linkedin.com/jobs/view/4481914159/) — Autodesk
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-10-23
 
-### [Vice President, Strategy & Innovation](https://www.linkedin.com/jobs/view/4474396426/) — HSB - Hartford Steam Boiler
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4481903780/) — Robertson & Company Ltd.
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-23
