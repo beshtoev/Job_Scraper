@@ -1,13 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 20:19 UTC*
+*Last updated: 2026-10-23 21:20 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**3 new role(s)** since last run · 11 total in last 1h
 
-### [Canada Impact+ Emerging Leader in AI-integrated Biomedical Devices](https://www.linkedin.com/jobs/view/4481947204/) — UVic Engineering and Computer Science
-- 📍 **Location:** Victoria, British Columbia, Canada
-- 💰 **Salary:** $120,000 - $150,000
+### [Director of Information Technology](https://www.linkedin.com/jobs/view/4483149373/) — CarltonOne
+- 📍 **Location:** Markham, Ontario, Canada
+- 💰 **Salary:** $115,000 to $135,000
 - 🕒 **Posted:** 2026-10-23
 
-### [Director, PMO Transformation Programs, Segmentation](https://www.linkedin.com/jobs/view/4483142630/) — TekStaff IT Solutions
+### [Director, Analytics & Insights](https://www.linkedin.com/jobs/view/4481967015/) — Securian Canada
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $130,000.00/yr - CA$170,000.00/yr
+- 🕒 **Posted:** 2026-10-23
+
+### [AVP, Regulatory Issues Management, Governance and Control, TD Securities](https://www.linkedin.com/jobs/view/4483157337/) — TD Securities
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $155,000 - $215,000
 - 🕒 **Posted:** 2026-10-23
