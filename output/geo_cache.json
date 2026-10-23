@@ -54,6 +54,10 @@
       43.74458,
       -79.4047
     ],
+    "205 wellington st. w., toronto, canada": [
+      43.64527,
+      -79.38807
+    ],
     "2180 yonge street, toronto, canada": [
       43.7046097,
       -79.3982744
@@ -221,6 +225,10 @@
     "cranbrook, bc, canada": [
       49.5107477,
       -115.7672772
+    ],
+    "dartmouth, ns, canada": [
+      44.6799707,
+      -63.5720232
     ],
     "dieppe, nb, canada": [
       46.0966797,
@@ -441,10 +449,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "dartmouth, ns, canada": [
-      44.6799707,
-      -63.5720232
     ]
   },
   "research": {}
