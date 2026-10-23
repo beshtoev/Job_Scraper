@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-23 09:48 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-10-23 10:09 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Marsh",
@@ -50,7 +50,56 @@
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1
+    },
+    {
+      "company": "Lumentum",
+      "title": "Director, AI Engineering – Enterprise AI",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4452861832/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "It's fun to work in a company where people truly BELIEVE in what they're doing!\n\nWe're committed to bringing passion and customer focus to the business.\n\nIf you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!\n\nLumentum Canada was awarded the 2022 National Capital Region’s Top Employers for the 6th consecutive year and the 2022 Career Directory Canada’s Best Employers for Recent Graduates for the 5th consecutive year .\n\nRole Summary\n\nWe are seeking an experienced Director of AI Engineering to build and lead a world-class AI engineering team. This is a critical leadership role responsible for designing and delivering enterprise-grade AI applications that drive business value across Marketing, Finance, Legal, Enterprise Search, and R&D workflows. You will combine deep technical expertise with strong people leadership skills to grow the team, mentor engineers, establish best practices, and scale our AI capabilities across a globally distributed organization.\n\nKey Responsibilities\n\nLead and grow an AI engineering team, recruiting top talent and building a high-performing culture focused on technical excellence\nDesign and oversee the delivery of enterprise AI applications across multiple business functions (Marketing, Finance, Legal, Search, R&D)\nEstablish technical standards, architecture patterns, and code review practices that ensure software engineering excellence and maintainability\nMentor engineers in modern AI/ML systems design, cloud infrastructure, production deployment, and operational excellence\nCollaborate with product, data science, and business stakeholders to translate requirements into robust technical solutions\nDrive technology decisions around AI frameworks, cloud platforms, and infrastructure to optimize for cost, performance, and reliability\nBuild and maintain systems for data pipelines, model serving, monitoring, and continuous improvement of AI applications\nLead technical strategy for scaling AI capabilities, including considerations for enterprise security, compliance, and governance\n\nRequired Qualifications\n\n15+ years of professional software engineering experience with demonstrated progression to senior/leadership roles\n3+ years of experience with AI/ML systems (including LLMs, generative AI, RAG architectures, or similar modern AI applications) in production environments\n3+ years of technical leadership experience managing and mentoring engineering teams\nDeep hands-on experience with cloud platforms (AWS, Azure, or GCP), containerization (Docker/Kubernetes), and modern deployment practices\nStrong expertise in Python and/or other languages commonly used for AI/ML applications\nProven ability to work effectively in globally distributed teams with experience managing across time zones\nStrong understanding of software engineering best practices: version control, testing, code review, CI/CD, observability\nTrack record of shipping production systems at scale with focus on reliability, performance, and maintainability\nExcellent communication skills; ability to articulate technical concepts to both technical and non-technical stakeholders\n\nPreferred Qualifications\n\nExperience in manufacturing, industrial, or enterprise software environments\nFamiliarity with enterprise systems (ERP, CRM, workflow automation) and integration patterns\nBackground in developing retrieval-augmented generation (RAG) systems or knowledge management applications\nExperience with MLOps, model monitoring, and LLM evaluation frameworks\nExpertise in establishing and scaling engineering culture, documentation, and knowledge sharing practices\nExperience with enterprise security, compliance, and data governance requirements\nTrack record of building systems that integrate with modern API ecosystems and third-party AI services\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSemiconductor Manufacturing",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Lumentum",
+      "title": "Director, AI Engineering – Enterprise AI",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4452861832/",
+      "date_posted": "2026-10-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "It's fun to work in a company where people truly BELIEVE in what they're doing!\n\nWe're committed to bringing passion and customer focus to the business.\n\nIf you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!\n\nLumentum Canada was awarded the 2022 National Capital Region’s Top Employers for the 6th consecutive year and the 2022 Career Directory Canada’s Best Employers for Recent Graduates for the 5th consecutive year .\n\nRole Summary\n\nWe are seeking an experienced Director of AI Engineering to build and lead a world-class AI engineering team. This is a critical leadership role responsible for designing and delivering enterprise-grade AI applications that drive business value across Marketing, Finance, Legal, Enterprise Search, and R&D workflows. You will combine deep technical expertise with strong people leadership skills to grow the team, mentor engineers, establish best practices, and scale our AI capabilities across a globally distributed organization.\n\nKey Responsibilities\n\nLead and grow an AI engineering team, recruiting top talent and building a high-performing culture focused on technical excellence\nDesign and oversee the delivery of enterprise AI applications across multiple business functions (Marketing, Finance, Legal, Search, R&D)\nEstablish technical standards, architecture patterns, and code review practices that ensure software engineering excellence and maintainability\nMentor engineers in modern AI/ML systems design, cloud infrastructure, production deployment, and operational excellence\nCollaborate with product, data science, and business stakeholders to translate requirements into robust technical solutions\nDrive technology decisions around AI frameworks, cloud platforms, and infrastructure to optimize for cost, performance, and reliability\nBuild and maintain systems for data pipelines, model serving, monitoring, and continuous improvement of AI applications\nLead technical strategy for scaling AI capabilities, including considerations for enterprise security, compliance, and governance\n\nRequired Qualifications\n\n15+ years of professional software engineering experience with demonstrated progression to senior/leadership roles\n3+ years of experience with AI/ML systems (including LLMs, generative AI, RAG architectures, or similar modern AI applications) in production environments\n3+ years of technical leadership experience managing and mentoring engineering teams\nDeep hands-on experience with cloud platforms (AWS, Azure, or GCP), containerization (Docker/Kubernetes), and modern deployment practices\nStrong expertise in Python and/or other languages commonly used for AI/ML applications\nProven ability to work effectively in globally distributed teams with experience managing across time zones\nStrong understanding of software engineering best practices: version control, testing, code review, CI/CD, observability\nTrack record of shipping production systems at scale with focus on reliability, performance, and maintainability\nExcellent communication skills; ability to articulate technical concepts to both technical and non-technical stakeholders\n\nPreferred Qualifications\n\nExperience in manufacturing, industrial, or enterprise software environments\nFamiliarity with enterprise systems (ERP, CRM, workflow automation) and integration patterns\nBackground in developing retrieval-augmented generation (RAG) systems or knowledge management applications\nExperience with MLOps, model monitoring, and LLM evaluation frameworks\nExpertise in establishing and scaling engineering culture, documentation, and knowledge sharing practices\nExperience with enterprise security, compliance, and data governance requirements\nTrack record of building systems that integrate with modern API ecosystems and third-party AI services\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSemiconductor Manufacturing",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
