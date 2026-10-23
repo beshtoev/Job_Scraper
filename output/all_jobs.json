@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-23 06:50 UTC",
+  "updated_at": "2026-10-23 06:59 UTC",
   "jobs": [
+    {
+      "company": "Algonquin College",
+      "title": "Associate Director, Academic Planning and Strategic Initiatives",
+      "location": "Ottawa, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010304178550",
+      "date_posted": "2026-10-23",
+      "description": "The role provides leadership across the lifecycle of strategic academic initiatives and partnerships, from initial opportunity assessment and due diligence…",
+      "salary": "$120k–$160k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-23T06:59:44Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Ascot Capital Group",
       "title": "Directeur financer / Director of finance",
@@ -115,8 +142,10 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-product-strategy/11826102"
-      ]
+        "https://builtintoronto.com/job/director-product-strategy/11826102",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010304152826"
+      ],
+      "salary": "$140k–$160k/yr"
     },
     {
       "company": "Morson Talent (Canada & USA)",
@@ -1029,7 +1058,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$165k–$235k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010303955712"
+      ]
     },
     {
       "company": "City of Calgary",
@@ -5287,8 +5320,8 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-21T05:42:20Z",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
+      "work_mode": "",
+      "work_mode_evidence": "",
       "geo_category": "Ontario",
       "geo_label": "Ontario",
       "geo_city": "Waterloo",
