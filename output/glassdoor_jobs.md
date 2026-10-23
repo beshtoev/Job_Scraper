@@ -1,92 +1,127 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-22 22:29 UTC*
+*Last updated: 2026-10-23 01:41 UTC*
 
-**19 new role(s)** since last run · 25 total in last 24h
+**26 new role(s)** since last run · 48 total in last 24h
 
-### [QA Automation Developer - Assistant Vice President](https://www.glassdoor.ca/job-listing/j?jl=1010303109308) — Citi
-- 📍 **Location:** Mississauga, Canada
-- 💰 **Salary:** $94k–$142k/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Director, AI Centre of Excellence](https://www.glassdoor.ca/job-listing/j?jl=1010301185418) — Cenovus Energy
+### [Data Scientist - Applied AI, VP Development and Alumni](https://www.glassdoor.ca/job-listing/j?jl=1010300587244) — The University of Calgary
 - 📍 **Location:** Calgary, Canada
-- 🕒 **Posted:** 2026-10-20
-
-### [VP Finance](https://www.glassdoor.ca/job-listing/j?jl=1010301657266) — Recruiting in Motion
-- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $86k/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Vice President, Finance and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010300622195) — Ontario Brain Institute
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $150k–$180k/yr
-- 🕒 **Posted:** 2026-10-20
+### [Sr Director, Business Strategy and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010304043648) — Gilead Sciences
+- 📍 **Location:** Edmonton, Canada
+- 🕒 **Posted:** 2026-10-23
 
-### [Vice-President, Finance](https://www.glassdoor.ca/job-listing/j?jl=1010303606445) — Oceanex
-- 📍 **Location:** St. John's, Canada
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010302436742) — Algonquin Resort
+- 📍 **Location:** Saint Andrews, Canada
 - 🕒 **Posted:** 2026-10-22
 
-### [Director, Strategy, Process Improvement and Project Management Office](https://www.glassdoor.ca/job-listing/j?jl=1010303676815) — Bruyère Health
-- 📍 **Location:** Ottawa, Canada
-- 💰 **Salary:** $148k–$180k/yr
-- 🕒 **Posted:** 2026-10-22
+### [Director, Finance and Health Records (Full Time)](https://www.glassdoor.ca/job-listing/j?jl=1010304040979) — Headwaters Health Care Centre
+- 📍 **Location:** Orangeville, Canada
+- 💰 **Salary:** $161k–$189k/yr
+- 🕒 **Posted:** 2026-10-23
 
-### [Head of Platform (Infrastructure & DevOps)](https://www.glassdoor.ca/job-listing/j?jl=1010300504648) — Mimica
+### [Chief Revenue Officer (CRO) & Co-founder - AI for Small Law Firms](https://www.glassdoor.ca/job-listing/j?jl=1010304042791) — FutureSight Ventures
 - 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-20
+- 🕒 **Posted:** 2026-10-23
 
-### [Chief Technology Officer](https://www.glassdoor.ca/job-listing/j?jl=1010301833119) — Martell Ventures
-- 📍 **Location:** Waterloo, Canada
-- 💰 **Salary:** $150k–$250k/yr
-- 🕒 **Posted:** 2026-10-21
+### [Chief Revenue Officer (CRO) & Co-founder - AI for Small Law Firms](https://www.glassdoor.ca/job-listing/j?jl=1010304042745) — FutureSight Ventures
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-23
 
-### [Director of Finance and Administration](https://www.glassdoor.ca/job-listing/j?jl=1010302388111) — Martin Luther University College
-- 📍 **Location:** Waterloo, Canada
-- 💰 **Salary:** $90k–$120k/yr
-- 🕒 **Posted:** 2026-10-21
-
-### [Director of Finance and Administration](https://www.glassdoor.ca/job-listing/j?jl=1010302830273) — Wilfrid Laurier University
-- 📍 **Location:** Waterloo, Canada
-- 💰 **Salary:** $90k–$120k/yr
-- 🕒 **Posted:** 2026-10-21
-
-### [Head of Engineering, ML, Forma Generative AI](https://www.glassdoor.ca/job-listing/j?jl=1010301682299) — Autodesk
+### [Director of Digital Products, Ad Experiences and Audience Activation (Hybrid/Telework)](https://www.glassdoor.ca/job-listing/j?jl=1010304008878) — CBC/Radio-Canada
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $156k–$229k/yr
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** 2026-10-23
 
-### [Director, Application Development - Customer Digital](https://www.glassdoor.ca/job-listing/j?jl=1010301670083) — Air Canada
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-21
-
-### [Director, Corporate Client Group Finance](https://www.glassdoor.ca/job-listing/j?jl=1010302028267) — Royal Bank of Canada
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-21
-
-### [Director of Financial Services](https://www.glassdoor.ca/job-listing/j?jl=1010303087075) — University of Northern British Columbia
-- 📍 **Location:** Prince George, Canada
-- 💰 **Salary:** $129k–$152k/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Canada SE Strategy & Planning Leader](https://www.glassdoor.ca/job-listing/j?jl=1010303854491) — Cisco Systems
+### [Senior Director, IT Delivery and Technology Platforms](https://www.glassdoor.ca/job-listing/j?jl=1010301379130) — National Bank of Canada
 - 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $172k–$324k/yr
-- 🕒 **Posted:** 2026-10-22
-
-### [Director, Financial Reporting](https://www.glassdoor.ca/job-listing/j?jl=1010301973016) — Vaco LLC
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $150k–$170k/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Director/Senior Director Technology Audit and Advisory Services](https://www.glassdoor.ca/job-listing/j?jl=1010303927331) — Manulife
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $113k–$210k/yr
+### [Director, Digital Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010301817266) — Dentsu
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $100k–$115k/yr
 - 🕒 **Posted:** 2026-10-22
 
-### [Director of AI Applications Development](https://www.glassdoor.ca/job-listing/j?jl=1010300463289) — CIBC
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-20
+### [Event Planning Director](https://www.glassdoor.ca/job-listing/j?jl=1010303902336) — Marriott International, Inc
+- 📍 **Location:** Montreal, Canada
+- 💰 **Salary:** $104k–$138k/yr
+- 🕒 **Posted:** 2026-10-23
 
-### [Director of Business Technology](https://www.glassdoor.ca/job-listing/j?jl=1010301506290) — Liteline Corporation
-- 📍 **Location:** Richmond Hill, Canada
-- 💰 **Salary:** $120k/yr
-- 🕒 **Posted:** 2026-10-20
+### [Director, Financial Reporting and Analysis , Global FP&A](https://www.glassdoor.ca/job-listing/j?jl=1010300936890) — KPMG
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $150k–$175k/yr
+- 🕒 **Posted:** 2026-10-21
+
+### [Director, Non-Financial Risk, Canadian Banking](https://www.glassdoor.ca/job-listing/j?jl=1010303848750) — Scotiabank
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-23
+
+### [Director, Finance and Facilities](https://www.glassdoor.ca/job-listing/j?jl=1010301354259) — Cambridge Public Library
+- 📍 **Location:** Cambridge, Canada
+- 💰 **Salary:** $134k–$157k/yr
+- 🕒 **Posted:** 2026-10-21
+
+### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010304098285) — Arenes Construction
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $97k–$130k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-23
+
+### [Sales Director – Automotive Finance](https://www.glassdoor.ca/job-listing/j?jl=1010302443580) — OCAL Financial
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $70k–$150k/yr
+- 🕒 **Posted:** 2026-10-22
+
+### [Director of Finance & Accounting Market](https://www.glassdoor.ca/job-listing/j?jl=1010303902293) — Marriott International, Inc
+- 📍 **Location:** Saskatoon, Canada
+- 💰 **Salary:** $149k–$193k/yr
+- 🕒 **Posted:** 2026-10-23
+
+### [Treasurer/Financial Director](https://www.glassdoor.ca/job-listing/j?jl=1010301662076) — Presbytery of Waterloo-Wellington, Presbyterian Church in Canada
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $13k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-21
+
+### [26-171 Deputy Director of Finance (RFT)](https://www.glassdoor.ca/job-listing/j?jl=1010303327622) — The City of Maple Ridge
+- 📍 **Location:** Maple Ridge, Canada
+- 💰 **Salary:** $163k–$194k/yr
+- 🕒 **Posted:** 2026-10-23
+
+### [175355 - (2) Director of Finance - Treasury Board Secretariat - Permanent](https://www.glassdoor.ca/job-listing/j?jl=1010301360135) — Government of PEI
+- 📍 **Location:** Charlottetown, Canada
+- 💰 **Salary:** $115k–$142k/yr
+- 🕒 **Posted:** 2026-10-21
+
+### [Senior Director, Contact Centre Operations & Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010302953650) — Vancouver City Savings Credit Union
+- 📍 **Location:** Surrey, Canada
+- 💰 **Salary:** $166k–$204k/yr
+- 🕒 **Posted:** 2026-10-22
+
+### [Senior Director, Planning & Allocations](https://www.glassdoor.ca/job-listing/j?jl=1010303957903) — Hillberg & Berk
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $140k–$160k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-23
+
+### [Director of Engineering, Data](https://www.glassdoor.ca/job-listing/j?jl=1010303237346) — BuildOps
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $176k–$235k/yr
+- 🕒 **Posted:** 2026-10-23
+
+### [DATA AND ANALYTICS DIRECTOR](https://www.glassdoor.ca/job-listing/j?jl=1010302337198) — La Vie en Rose
+- 📍 **Location:** Montreal, Canada
+- 🕒 **Posted:** 2026-10-22
+
+### [Director, Business Intelligence and Advanced Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010301592943) — iA Groupe financier / iA Financial Group
+- 📍 **Location:** Quebec, Canada
+- 🕒 **Posted:** 2026-10-21
+
+### [Director, Strategy & Planning, GTB (12-month Contract)](https://www.glassdoor.ca/job-listing/j?jl=1010303848678) — Scotiabank
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-23
+
+### [Director, Enterprise Financial Performance](https://www.glassdoor.ca/job-listing/j?jl=1010300889262) — SaskEnergy
+- 📍 **Location:** Regina, Canada
+- 💰 **Salary:** $135k–$194k/yr
+- 🕒 **Posted:** 2026-10-21
