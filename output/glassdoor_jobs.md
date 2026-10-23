@@ -1,19 +1,13 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 15:13 UTC*
+*Last updated: 2026-10-23 16:46 UTC*
 
-**3 new role(s)** since last run · 51 total in last 24h
+**2 new role(s)** since last run · 50 total in last 24h
 
-### [VP Finance](https://www.glassdoor.ca/job-listing/j?jl=1010301657266) — Recruiting in Motion
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-21
-
-### [Associate Director, Strategy (Ecommerce) (Performance Marketing) (Canada)](https://www.glassdoor.ca/job-listing/j?jl=1010304771463) — Thrive Digital
-- 📍 **Location:** Remote, Canada
-- 💰 **Salary:** $112k–$151k/yr
-- **Work mode:** Remote in-state eligible
+### [Director of Treasury & External Financial Reporting](https://www.glassdoor.ca/job-listing/j?jl=1010304806017) — Mercer Bradley
+- 📍 **Location:** Winnipeg, Canada
+- 💰 **Salary:** $125k–$140k/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [175355 - (2) Director of Finance - Treasury Board Secretariat - Permanent](https://www.glassdoor.ca/job-listing/j?jl=1010301360135) — Government of PEI
-- 📍 **Location:** Charlottetown, Canada
-- 💰 **Salary:** $115k–$142k/yr
-- 🕒 **Posted:** 2026-10-21
+### [Program Director, PMO Transformation Programs/ Segmentation](https://www.glassdoor.ca/job-listing/j?jl=1010304848732) — Procom
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-23

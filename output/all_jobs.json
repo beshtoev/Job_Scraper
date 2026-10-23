@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-23 16:36 UTC",
+  "updated_at": "2026-10-23 16:46 UTC",
   "jobs": [
+    {
+      "company": "Mercer Bradley",
+      "title": "Director of Treasury & External Financial Reporting",
+      "location": "Winnipeg, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010304806017",
+      "date_posted": "2026-10-23",
+      "description": "Lead cash forecasting, liquidity management and capital funding. Expertise in debt and equity financing, cash forecasting and lender covenants.",
+      "salary": "$125k–$140k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-23T16:46:18Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (MB)",
+      "geo_city": "Winnipeg",
+      "geo_province": "MB",
+      "geo_lat": 49.8951,
+      "geo_lon": -97.1384,
+      "geo_distance_km": 1510.5,
+      "geo_rank": 415105,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Autodesk",
       "title": "Senior Director, Product Management, AEC Data",
@@ -21014,7 +21041,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010304848732"
+      ]
     },
     {
       "company": "Schneider Electric",
