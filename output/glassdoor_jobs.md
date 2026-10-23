@@ -1,6 +1,8 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 09:27 UTC*
+*Last updated: 2026-10-23 10:48 UTC*
 
-**0 new role(s)** since last run · 51 total in last 24h
+**1 new role(s)** since last run · 50 total in last 24h
 
-No new roles since the last run.
+### [VP Finance](https://www.glassdoor.ca/job-listing/j?jl=1010301657266) — Recruiting in Motion
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-21
