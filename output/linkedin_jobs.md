@@ -1,22 +1,20 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 22:30 UTC*
+*Last updated: 2026-10-23 23:11 UTC*
 
-**4 new role(s)** since last run · 9 total in last 1h
+**4 new role(s)** since last run · 11 total in last 1h
 
-### [Head of Finance](https://www.linkedin.com/jobs/view/4481949614/) — Winchesters
+### [Director, Strategy & Transformation](https://www.linkedin.com/jobs/view/4481973373/) — Manulife
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $200,000.00/yr - CA$250,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [Director of Finance and Administration](https://www.linkedin.com/jobs/view/4481974173/) — Scout Talent
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
+### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4467281277/) — BDO Canada
+- 📍 **Location:** Oakville, Ontario, Canada
 - 🕒 **Posted:** 2026-10-23
 
-### [Director – Financial Reporting and Optimization](https://www.linkedin.com/jobs/view/4480687822/) — Air Transat
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director, PMO Transformation Programs, Segmentation](https://www.linkedin.com/jobs/view/4483142630/) — TekStaff IT Solutions
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-23
 
-### [Directeur(trice) Financier(ière) - Toyota de Boucherville - Financial Director](https://www.linkedin.com/jobs/view/4481957936/) — Action Grenier Autogroupe
-- 📍 **Location:** Boucherville, Quebec, Canada
+### [Director, Data Platform Governance](https://www.linkedin.com/jobs/view/4483170194/) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-23
