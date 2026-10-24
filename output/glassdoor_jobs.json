@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-24 12:14 UTC",
+  "scraped_at": "2026-10-24 15:47 UTC",
   "total": 48,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Gilead Sciences",
@@ -1256,32 +1256,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "University of Northern British Columbia",
-      "title": "Director of Financial Services",
-      "location": "Prince George, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010303087075",
-      "date_posted": "2026-10-22",
-      "description": "The successful candidate will be a senior-level finance with an undergraduate degree in a relevant field. Collaborating with other senior leaders to design and…",
-      "salary": "$129k–$152k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "Prince George",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
