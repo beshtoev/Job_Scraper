@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-24 09:30 UTC*
+*Last updated: 2026-10-24 10:32 UTC*
 
 **0 new role(s)** since last run · 6 total in last 24h
 
