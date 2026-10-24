@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 09:29 UTC",
+  "updated_at": "2026-10-24 10:05 UTC",
   "jobs": [
     {
       "company": "Slalom",
@@ -834,7 +834,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4481918279/"
+      ]
     },
     {
       "company": "Interpublic",
@@ -3486,7 +3489,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4465817532/"
+      ]
     },
     {
       "company": "Extremenetworks",
@@ -3845,7 +3851,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4453919027/"
+      ]
     },
     {
       "company": "Mckesson",
@@ -11891,7 +11900,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
