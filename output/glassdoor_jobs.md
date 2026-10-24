@@ -1,6 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-24 10:31 UTC*
+*Last updated: 2026-10-24 12:14 UTC*
 
-**0 new role(s)** since last run · 49 total in last 24h
+**1 new role(s)** since last run · 48 total in last 24h
 
-No new roles since the last run.
+### [Director of Financial Services](https://www.glassdoor.ca/job-listing/j?jl=1010303087075) — University of Northern British Columbia
+- 📍 **Location:** Prince George, Canada
+- 💰 **Salary:** $129k–$152k/yr
+- 🕒 **Posted:** 2026-10-22
