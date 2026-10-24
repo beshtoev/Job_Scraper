@@ -1,5 +1,5 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-24 14:00 UTC*
+*Last updated: 2026-10-24 17:18 UTC*
 
 **0 new role(s)** since last run · 233 total in current portal openings
 
