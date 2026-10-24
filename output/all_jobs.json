@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 00:34 UTC",
+  "updated_at": "2026-10-24 00:35 UTC",
   "jobs": [
     {
       "company": "State Street",
@@ -11623,7 +11623,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -48413,6 +48413,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1695
+  ]
 }
