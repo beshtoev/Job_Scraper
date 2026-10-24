@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-24 17:49 UTC*
+*Last updated: 2026-10-24 18:16 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Data Governance](https://www.linkedin.com/jobs/view/4466381418/) — McCain Foods
+### [Director, Data Science](https://www.linkedin.com/jobs/view/4426887429/) — Mastercard
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $146,200.00 - $195,000.00
+- 💰 **Salary:** $154,000 - $247,000
+- 🕒 **Posted:** 2026-10-24
+
+### [Associate Director, Commercial Data Operations](https://www.linkedin.com/jobs/view/4483354022/) — Alexion Pharmaceuticals, Inc.
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-10-24
