@@ -1,13 +1,14 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-24 18:36 UTC*
+*Last updated: 2026-10-24 18:55 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [AI Learning Associate Director - Learning and Development (18-month contract)](https://www.linkedin.com/jobs/view/4454652824/) — EY
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $126,800 to $211,300
+### [Director, Data Science](https://www.linkedin.com/jobs/view/4426880532/) — Mastercard
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $154,000 - $247,000
 - 🕒 **Posted:** 2026-10-24
 
-### [Director of Digital Marketing (Remote, Winnipeg)](https://www.linkedin.com/jobs/view/4483330984/) — Blacksmith Agency
-- 📍 **Location:** Canada
+### [Associate Director, Technology Enablement](https://www.linkedin.com/jobs/view/4456236443/) — Klick
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $110,000 - $130,000
 - 🕒 **Posted:** 2026-10-24
