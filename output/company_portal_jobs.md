@@ -1,17 +1,13 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-23 21:53 UTC*
+*Last updated: 2026-10-24 00:58 UTC*
 
-**4 new role(s)** since last run · 236 total in current portal openings
+**3 new role(s)** since last run · 238 total in current portal openings
 
-### [Director, Data Platform Governance](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Director--Data-Platform-Governance_2616666) — CIBC
-- 📍 **Location:** Toronto, ON
-- 🕒 **Posted:** 2026-10-23
-
-### [Director, Data Platform Governance](https://builtintoronto.com/job/director-data-platform-governance/11849041) — CIBC
+### [Director, Strategic Deal Finance](https://builtintoronto.com/job/director-strategic-deal-finance/11851922) — Liftoff
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Strategy & Transformation](https://builtintoronto.com/job/director-strategy-transformation/11847540) — Manulife
+### [Senior Director, Product Management, AEC Data](https://builtintoronto.com/job/senior-director-product-management-aec-data/11853854) — Autodesk
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Head of Talent Planning](https://builtintoronto.com/job/head-talent-planning/11848136) — Citi
+### [Director, Analytics & Insights](https://builtintoronto.com/job/director-analytics-insights/11379960) — Securian Canada
 - 📍 **Location:** Toronto, Ontario, Canada
