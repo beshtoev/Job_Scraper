@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-24 03:31 UTC",
+  "updated_at": "2026-10-24 03:34 UTC",
   "jobs": [
+    {
+      "company": "AstraZeneca",
+      "title": "Associate Director, Commercial Data Operations",
+      "location": "Mississauga, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=6aa3894cfa846461",
+      "direct_url": "https://careers.astrazeneca.com/job/mississauga/associate-director-commercial-data-operations/43991/102348478160",
+      "company_url": "https://ca.indeed.com/cmp/Astrazeneca",
+      "date_posted": "2026-10-23",
+      "description": "**Location** Mississauga, Ontario, Canada **Job ID** R\\-262602 **Date posted** 22/10/2026\n  \nWhen we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life\\-changing medicines. In\\-person working gives us the platform to connect, work at pace and challenge perceptions. That’s why we work, on average, a minimum of three days per week from the office. But that doesn’t mean we’re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.\n\n\nThe Associate Director, Commercial Data Operations leads the delivery and reliability of data that supports US Commercial decisions, operations, reporting and advanced analytics at Alexion, AstraZeneca Rare Disease. You will set priorities and operating standards across commercial data assets, partner with technology teams to deliver governed data products, and lead the response to material data issues. The role spans specialty pharmacy and distribution, patient services, claims, customer and product master data, customer engagement and performance data.\n\n\n**Accountabilities:**\n\n\n* Portfolio Leadership: Set and sequence priorities across new data sources, product launches, enhancements, and production support; translate business needs into a clear roadmap, delivery plans, and decisions on scope, timing, and dependencies.\n* Data Product Ownership: Define business outcomes, common definitions, ownership, and acceptance criteria for reusable commercial data products; partner with engineering on models, lineage, access, testing, and transition from build to sustained operations.\n* Source Onboarding and Integration: Assess internal and vendor data, contracts, and file specifications; coordinate design, historical loads, validation, and downstream readiness for reporting, Decision Science, CRM, and other consumers.\n* Launch Readiness: Map the end\\-to\\-end flow—from source and master data through ingestion, data products, CRM alignment, reporting, and alerts; confirm dependencies, testing, and cutover plans; ensure downstream consumers are ready before launch.\n* Production Reliability: Establish service expectations, monitoring, incident response, and escalation for critical feeds and pipelines; analyze recurring failures, drive corrective action with IT and vendors, and communicate business impact and recovery plans.\n* Architecture, MDM, and Change Stewardship: Review designs and source\\-to\\-target mappings for scalability, maintainability, and downstream impact; partner on HCP, HCO, and product identity, affiliations, hierarchies, and cross\\-system keys; align with enterprise standards while protecting US Commercial requirements.\n* Leadership of Partners and Teams: Direct internal team members and external partners; clarify accountabilities, coach strong technical and business judgment, and hold vendors accountable for quality, schedules, and issue resolution.\n* Stakeholder Engagement: Partner with Trade and Distribution, Patient Services, Market Access, Commercial Operations, Reporting and Insights, Decision Science, and IT; resolve competing priorities and provide concise updates on risks, decisions, and delivery status.\n* Data Quality and Controls: Define critical data elements, thresholds, and controls across freshness, completeness, accuracy, consistency, and reconciliation; sponsor automated checks, dashboards, exception ownership, and alerting; require evidence for validation and regression testing; maintain lineage, documentation, and issue history so consumers understand data limits and changes.\n\n**Essential Skills/Experience:**\n\n\n* Education and experience: Bachelor’s degree in a relevant field or equivalent experience, with 8 or more years in pharmaceutical or healthcare commercial data management, operations or engineering, including leadership of complex initiatives.\n* Commercial data and MDM expertise: Strong knowledge of pharmaceutical commercial data across specialty pharmacy or patient services, claims, CRM and performance. Understanding of HCP, HCO and product mastering, matching, affiliations and hierarchies, and their effect on downstream data products.\n* Technical judgment: Advanced SQL and practical Snowflake experience for profiling, reconciliation and root cause analysis. Ability to review data models, pipeline designs, transformations and architecture with engineering teams; working knowledge of Python and orchestration or transformation tools.\n* Data product and quality leadership: Experience defining reusable datasets, business rules, ownership, lineage, quality controls and release acceptance criteria across multiple data sources and consumers.\n* Delivery leadership: Proven ability to run a portfolio of concurrent requests, incidents and launches; prioritize by business impact; lead testing, cutovers and operational handover; and manage vendors and delivery partners.\n* Communication and influence: Ability to challenge ambiguous requirements, make tradeoffs clear, develop colleagues and influence senior business and technology stakeholders without relying on direct authority.\n\n**Desirable Skills/Experience:**\n\n\n* Rare disease and vendor knowledge: Experience with specialty pharmacy and distribution feeds, including patient status, dispense, inventory and shipment data; familiarity with Veeva, IQVIA, Komodo or similar sources.\n* Modern data platform delivery: Experience with Snowflake, Airflow, dbt, S3, secure sharing, Git based releases and data product frameworks across raw, staging and curated layers.\n* AI and Decision Science enablement: Experience applying AI or advanced analytics to data operations or quality monitoring, such as anomaly detection and investigation. Understanding of model inputs, scores and outputs used for field alerts, including validation, refresh timing and production support with Decision Science teams.\n* People and change leadership: Experience coaching data teams, managing extern",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-10-24T03:34:26Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Liftoff",
       "title": "Director, Strategic Deal Finance",
@@ -57,7 +90,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://app.workwolf.com/pipelineLink/JUXF2YVJ?utm_source=indeed",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=e0ff4031fa5677d5"
+      ]
     },
     {
       "company": "Liftoff",
@@ -11720,7 +11759,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
