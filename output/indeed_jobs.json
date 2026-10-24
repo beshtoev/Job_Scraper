@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-24 05:37 UTC",
+  "scraped_at": "2026-10-24 07:49 UTC",
   "total": 8,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Magna International",
@@ -260,70 +260,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Alexion Pharmaceuticals",
-      "title": "Associate Director, Commercial Data Operations",
-      "location": "Mississauga, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=38b85a0e2b55f289",
-      "direct_url": "https://careers.alexion.com/job/mississauga/associate-director-commercial-data-operations/43991/102348478160",
-      "company_url": "https://ca.indeed.com/cmp/Alexion-Pharmaceuticals-9",
-      "date_posted": "2026-10-23",
-      "description": "Location: Mississauga, Canada Job reference: R\\-262602 Date posted: 10/23/2026\nWhen we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life\\-changing medicines. In\\-person working gives us the platform to connect, work at pace and challenge perceptions. That’s why we work, on average, a minimum of three days per week from the office. But that doesn’t mean we’re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.\n\n\nThe Associate Director, Commercial Data Operations leads the delivery and reliability of data that supports US Commercial decisions, operations, reporting and advanced analytics at Alexion, AstraZeneca Rare Disease. You will set priorities and operating standards across commercial data assets, partner with technology teams to deliver governed data products, and lead the response to material data issues. The role spans specialty pharmacy and distribution, patient services, claims, customer and product master data, customer engagement and performance data.\n\n\n**Accountabilities:**\n\n\n* Portfolio Leadership: Set and sequence priorities across new data sources, product launches, enhancements, and production support; translate business needs into a clear roadmap, delivery plans, and decisions on scope, timing, and dependencies.\n* Data Product Ownership: Define business outcomes, common definitions, ownership, and acceptance criteria for reusable commercial data products; partner with engineering on models, lineage, access, testing, and transition from build to sustained operations.\n* Source Onboarding and Integration: Assess internal and vendor data, contracts, and file specifications; coordinate design, historical loads, validation, and downstream readiness for reporting, Decision Science, CRM, and other consumers.\n* Launch Readiness: Map the end\\-to\\-end flow—from source and master data through ingestion, data products, CRM alignment, reporting, and alerts; confirm dependencies, testing, and cutover plans; ensure downstream consumers are ready before launch.\n* Production Reliability: Establish service expectations, monitoring, incident response, and escalation for critical feeds and pipelines; analyze recurring failures, drive corrective action with IT and vendors, and communicate business impact and recovery plans.\n* Architecture, MDM, and Change Stewardship: Review designs and source\\-to\\-target mappings for scalability, maintainability, and downstream impact; partner on HCP, HCO, and product identity, affiliations, hierarchies, and cross\\-system keys; align with enterprise standards while protecting US Commercial requirements.\n* Leadership of Partners and Teams: Direct internal team members and external partners; clarify accountabilities, coach strong technical and business judgment, and hold vendors accountable for quality, schedules, and issue resolution.\n* Stakeholder Engagement: Partner with Trade and Distribution, Patient Services, Market Access, Commercial Operations, Reporting and Insights, Decision Science, and IT; resolve competing priorities and provide concise updates on risks, decisions, and delivery status.\n* Data Quality and Controls: Define critical data elements, thresholds, and controls across freshness, completeness, accuracy, consistency, and reconciliation; sponsor automated checks, dashboards, exception ownership, and alerting; require evidence for validation and regression testing; maintain lineage, documentation, and issue history so consumers understand data limits and changes.\n\n**Essential Skills/Experience:**\n\n\n* Education and experience: Bachelor’s degree in a relevant field or equivalent experience, with 8 or more years in pharmaceutical or healthcare commercial data management, operations or engineering, including leadership of complex initiatives.\n* Commercial data and MDM expertise: Strong knowledge of pharmaceutical commercial data across specialty pharmacy or patient services, claims, CRM and performance. Understanding of HCP, HCO and product mastering, matching, affiliations and hierarchies, and their effect on downstream data products.\n* Technical judgment: Advanced SQL and practical Snowflake experience for profiling, reconciliation and root cause analysis. Ability to review data models, pipeline designs, transformations and architecture with engineering teams; working knowledge of Python and orchestration or transformation tools.\n* Data product and quality leadership: Experience defining reusable datasets, business rules, ownership, lineage, quality controls and release acceptance criteria across multiple data sources and consumers.\n* Delivery leadership: Proven ability to run a portfolio of concurrent requests, incidents and launches; prioritize by business impact; lead testing, cutovers and operational handover; and manage vendors and delivery partners.\n* Communication and influence: Ability to challenge ambiguous requirements, make tradeoffs clear, develop colleagues and influence senior business and technology stakeholders without relying on direct authority.\n\n**Desirable Skills/Experience:**\n\n\n* Rare disease and vendor knowledge: Experience with specialty pharmacy and distribution feeds, including patient status, dispense, inventory and shipment data; familiarity with Veeva, IQVIA, Komodo or similar sources.\n* Modern data platform delivery: Experience with Snowflake, Airflow, dbt, S3, secure sharing, Git based releases and data product frameworks across raw, staging and curated layers.\n* AI and Decision Science enablement: Experience applying AI or advanced analytics to data operations or quality monitoring, such as anomaly detection and investigation. Understanding of model inputs, scores and outputs used for field alerts, including validation, refresh timing and production support with Decision Science teams.\n* People and change leadership: Experience coaching data teams, managing external partners an",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Mississauga",
-      "geo_province": "ON",
-      "geo_lat": 43.589,
-      "geo_lon": -79.6441,
-      "geo_distance_km": 23.9,
-      "geo_rank": 100239,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Manulife",
-      "title": "Director, Strategy & Transformation",
-      "location": "Toronto, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=3230c498e2635172",
-      "direct_url": "https://careers.manulife.com/global/en/job/JR26101013/Director-Strategy-Transformation",
-      "company_url": "https://ca.indeed.com/cmp/Manulife",
-      "date_posted": "2026-10-22",
-      "description": "The Canada Segment manages a significant portfolio of strategic investments and transformation initiatives. This role will help strengthen enterprise governance, portfolio oversight, and execution discipline to ensure investments are aligned to business priorities and deliver measurable outcomes.\n\n  \n\n  \n\nThe Director, Strategy \\& Transformation, will help build and evolve these capabilities, strengthening how investments are prioritized, governed, and delivered and providing greater transparency and decision support across the portfolio.\n\n  \n\n  \n\nThe selected candidate will be a rigorous, hands\\-on builder and self\\-starter with strong program governance and delivery discipline, analytical capabilities, and sound business judgment. They will bring fresh perspectives, challenge assumptions, and turn ideas into action, while navigating complex, cross\\-functional transformations and partnering with senior leaders to drive accountability and outcomes.\n\n  \n\n  \n\n  \n\n**Key Responsibilities:**\n\n  \n\n  \n\nTransformation Portfolio Governance (75%)\n\n  \n\n  \n\n* Lead and evolve portfolio governance and management practices, including prioritization, investment planning, delivery oversight, dependencies, and executive decision support.\n* Help build the Canada Segment’s next\\-generation transformation and portfolio management capability, including the evolution of broader PMO capabilities.\n* Lead annual and multi\\-year portfolio planning, partnering with Finance, business leaders and functional partners to assess investments, challenge business cases, and align resources to strategic priorities.\n* Provide senior leaders with clear portfolio insights, recommendations, and trade\\-offs, supported by consistent standards for reporting, benefits realization, and delivery performance.\n* Build strong cross\\-functional partnerships to surface risks and dependencies early, strengthen accountability, and continuously improve how the portfolio is governed and delivered.\n\n  \n\nEnterprise Visibility and Strategic Initiatives (25%)\n\n  \n\n  \n\n* Support high\\-profile strategy and enterprise exercises, translating complex business issues into clear perspectives, recommendations, and executive narratives.\n* Develop compelling materials for Canada Segment and Enterprise Leadership Teams, the Board of Directors, Rating Agencies, and other senior stakeholders.\n* Partner across the organization to synthesize strategic, financial, and business perspectives and ensure senior leaders are well equipped for key discussions and decisions.\n\n  \n\n**Required** **Qualifications:**\n\n  \n\n  \n\n* 10\\+ years of experience in transformation, program/portfolio management, strategy, governance, or complex project delivery, with experience supporting senior\\-level decisions and priorities.\n* Strong executive communication and presentation skills, with demonstrated experience developing clear, compelling materials and recommendations for senior executives, ELT, and Board\\-level audiences.\n* Strong business and analytical judgment, with the ability to assess business cases, challenge assumptions, identify risks and dependencies, and support informed trade\\-offs.\n* Proven ability to translate complex strategy and delivery information into clear, executive\\-ready insights and recommendations.\n* Exceptional relationship\\-building and influencing skills, with the confidence to challenge constructively and mobilize cross\\-functional teams in a complex organization.\n* Bilingualism (English and French) is a strong asset. If the successful candidate is in Québec, proficiency in both languages will be required to support clients from various provinces outside of Quebec\n  \n\n  \n\n**When you join our team:**\n\n  \n\n  \n\n* We’ll empower you to learn and grow the career you want.\n* We’ll recognize and support you in a flexible environment where well\\-being and inclusion are more than just words.\n* As part of our global team, we’ll support you in shaping the future you want to see.\n\n  \n\n  \n\n  \n\n  \n\nThe role being advertised is an existing vacancy.\n\n\n**About Manulife and John Hancock**\n\n\nManulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our\\-story.html.\n\n\n**Manulife is an Equal Opportunity Employer**\n\n\nAt Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy\\-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.\n\n\nIt is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact hr@manulife.com.\n\n\n**Referenced Salary Location**\n\n\nToronto, Ontario\n**Working Arrangement**\n\n\nHybrid\n**Salary range is expected to be between**\n\n\n$145,130\\.00 CAD \\- $195,130\\.00 CAD\nEmployees also have the opportunity to participate in incentive programs and earn incentive compensation tied to business and individual performance. The actual salary will vary depending on local market conditions,",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "hr@manulife.com, hr@manulife.com, hr@manulife.com",
-      "ats": "Indeed",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
