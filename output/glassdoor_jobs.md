@@ -1,6 +1,13 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-25 04:49 UTC*
+*Last updated: 2026-10-25 05:50 UTC*
 
-**0 new role(s)** since last run · 46 total in last 24h
+**2 new role(s)** since last run · 48 total in last 24h
 
-No new roles since the last run.
+### [Vice President, Strategy & Advisory - Volunteer](https://www.glassdoor.ca/job-listing/j?jl=1010305802207) — Canadian Christian Recreational Association
+- 📍 **Location:** Remote, Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-25
+
+### [Program Director, PMO Transformation Programs/ Segmentation](https://www.glassdoor.ca/job-listing/j?jl=1010304848732) — Procom
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-24
