@@ -12337,7 +12337,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -44938,6 +44938,5 @@
         "https://www.linkedin.com/jobs/view/4469796674/"
       ]
     }
-  ],
-  "total": 1569
+  ]
 }
