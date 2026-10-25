@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-25 19:13 UTC*
+*Last updated: 2026-10-25 20:21 UTC*
 
-**0 new role(s)** since last run · 7 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Director of Finance and Operations](https://www.linkedin.com/jobs/view/4482900415/) — Les écoles Azrieli Schools Talmud Torah | Herzliah
+- 📍 **Location:** Urban agglomeration of Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-25
