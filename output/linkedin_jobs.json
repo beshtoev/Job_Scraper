@@ -1,32 +1,7 @@
 {
-  "scraped_at": "2026-10-25 01:13 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-25 01:35 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Total Life",
-      "title": "Head of Digital Marketing",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4483340958/",
-      "date_posted": "2026-10-25",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Total Life\n\nVancouver· Full-time\n\nMost marketers pick one side: creative or analytical. We need someone who refuses to choose.\n\nTotal Life is a national behavioral health telehealth company built for adults in their later years. We offer therapy in all 50 states and DC through 200+ licensed clinicians, and we accept Medicare and most major insurance plans, so care is affordable for the people who need it most. We're adding psychiatry, longevity, and weight-loss services state by state. Our audience is one of the most underserved, and most overlooked, in digital marketing. Whoever learns to reach them well will build something few people have.\n\nWe're hiring our Head of Digital Marketing to own paid acquisition end to end: strategy, creative, launch, optimization, and reporting. You'll work directly with the leadership and have real authority over budget, tools, and direction.\n\nWhat You'll Own\n\nPaid and organic acquisition across Meta, Google, and TikTok. You'll plan, build, launch, and scale campaigns, deciding where every dollar goes and defending those calls with data\nThe full funnel, from first impression to booked appointment. Landing pages, intake flows, retargeting, and email and SMS nurture are all yours to test and rebuild. You know the ad is only half the job\nAn AI-powered creative engine. You'll use AI tools to generate, version, and test ad creative and copy at volume, and you'll build a system that keeps every asset organized and findable so the library becomes a compounding advantage\nReporting the team actually uses. You'll build clean dashboards and weekly reports that tie spend to cost per booked patient and patient value, not just clicks and impressions\nA testing culture. You'll run a steady pipeline of experiments on audiences, hooks, offers, and pages, document what works, and kill what doesn't quickly\nStaying ahead of the platforms. Algorithms, ad policies, and tools change monthly. You'll know before your competitors do and adjust before performance slips\n\nRequirements\n\nYou're the person we're looking for if\n\nYou've personally run and scaled paid campaigns on Meta, Google, and TikTok, and you can show us results with real numbers\nYou get as excited about a beautiful ad as about a 20% drop in cost per acquisition, and you think the two are connected\nYou live in the data: attribution, cohorts, funnel conversion rates, and the story behind a spreadsheet\nYou already use AI tools daily for creative, copy, analysis, or automation, and you're always trying new ones\nYou tinker. You've built a landing page, rigged a tracking setup, or automated a workflow because you wanted to see whether you could\nYou know what changed on each platform in the last 90 days without having to look it up\nYou can work independently with high ownership and low ego. You'd rather show results than talk about them\n\nBonus points\n\nExperience marketing in healthcare, telehealth, or another regulated category, including HIPAA-safe tracking and health ad policies on Meta and Google\nExperience reaching older adults or their adult children\nComfort with landing-page builders, WordPress, HubSpot or similar CRMs, GHL, and analytics tools such as GA4 and Looker Studio\n\nBenefits\n\nWhy join us\n\nYour work gets older adults to mental health care they'd otherwise go without, and you'll see the impact in patients booked\nYou'll have real ownership: your strategy, your stack, your tests\nYour playbook will shape the company as we expand into new services and states\nCompetitive compensation with salary, performance bonus and equity!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "Vancouver",
-      "geo_province": "BC",
-      "geo_lat": 49.2827,
-      "geo_lon": -123.1207,
-      "geo_distance_km": 3355.3,
-      "geo_rank": 433553,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
