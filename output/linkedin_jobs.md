@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-26 18:53 UTC*
+*Last updated: 2026-10-26 19:30 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**1 new role(s)** since last run · 7 total in last 1h
 
-### [Vice President, Analytics & Health Outcomes](https://www.linkedin.com/jobs/view/4483731146/) — GreenShield
+### [Director, Enterprise Strategy](https://www.linkedin.com/jobs/view/4477133405/) — Robertson & Company Ltd.
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Chief Courts Information Officer](https://www.linkedin.com/jobs/view/4456289878/) — Affinity
-- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 💰 **Salary:** $140,000 – $155,000
 - 🕒 **Posted:** 2026-10-26
