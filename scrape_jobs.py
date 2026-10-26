@@ -173,6 +173,30 @@ _SR_MGR_RE = re.compile(
 _HEAD_OF_RE = re.compile(r"\bhead\s+of\b", re.IGNORECASE)
 
 
+# TIER ZERO (doctrine, 2026-10-25): Anthropic and OpenAI only. Any role there is a step
+# forward, so no title, level or domain gate; the Canada location gate still applies.
+# Only clearly junior or non-career postings are left out. Same list as job-capture's
+# scraper_intake.TIER_ZERO_EMPLOYERS.
+TIER_ZERO_EMPLOYERS = ("anthropic", "openai")
+_TIER_ZERO_JUNK_RE = re.compile(
+    r"\b(?:student|intern(?:ship)?|co-?op|apprentice|summer|campus|new grad|graduate program"
+    r"|part[- ]time|casual|temporary|seasonal|volunteer)\b",
+    re.IGNORECASE,
+)
+
+
+_CANADA_NAMED_RE = re.compile(
+    r"\b(?:canada|canadian|can|ontario|on|toronto|gta|mississauga|markham|waterloo|ottawa|montr[eé]al"
+    r"|qu[eé]bec|qc|vancouver|british columbia|bc|calgary|edmonton|alberta|ab|winnipeg|halifax)\b",
+    re.IGNORECASE,
+)
+
+
+def is_tier_zero(company: str) -> bool:
+    name = re.sub(r"[^a-z0-9]", "", (company or "").lower())
+    return any(name.startswith(t) for t in TIER_ZERO_EMPLOYERS)
+
+
 def role_is_relevant(title: str, company: str = "") -> bool:
     """Check whether a job title is relevant to the configured search.
 
@@ -188,6 +212,8 @@ def role_is_relevant(title: str, company: str = "") -> bool:
     """
     if not title:
         return False
+    if is_tier_zero(company):
+        return not _TIER_ZERO_JUNK_RE.search(title)
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
     if not _FUZZY_ENABLED:
@@ -3290,6 +3316,9 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
     if len(jobs) < before:
         print(f"  🇨🇦 Dropped {before - len(jobs)} non-Canadian role(s)")
+    # Tier zero must name Canada: "Bangalore - Remote" passes the general remote rule.
+    jobs = [j for j in jobs
+            if not is_tier_zero(j.get("company", "")) or _CANADA_NAMED_RE.search(j.get("location", ""))]
     before = len(jobs)
     jobs = [
         j for j in jobs
