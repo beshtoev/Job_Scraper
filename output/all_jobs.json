@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 23:27 UTC",
+  "updated_at": "2026-10-26 23:28 UTC",
   "jobs": [
     {
       "company": "RBC",
@@ -291,8 +291,11 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/canadian-financial-and-regulatory-reporting-vp/11892289",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/canadian-financial-and-regulatory-reporting-vp/11892289"
-      ]
+        "https://builtintoronto.com/job/canadian-financial-and-regulatory-reporting-vp/11892289",
+        "https://ca.indeed.com/viewjob?jk=3c8c0243a701bcea"
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Morson Talent (Canada & USA)",
@@ -505,8 +508,11 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=cfd2baaa0e2632d2",
         "https://www.glassdoor.ca/job-listing/j?jl=1010307002064"
-      ]
+      ],
+      "direct_url": "https://careers.core-mark.com/job/regional-finance-director/toronto-ontario/156377BR/",
+      "work_arrangement": "On-site"
     },
     {
       "company": "CAE",
@@ -969,10 +975,13 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=a3a25365bffe2470",
         "https://www.glassdoor.ca/job-listing/j?jl=1010307083752",
         "https://www.linkedin.com/jobs/view/4483225638/"
       ],
-      "salary": "$130k–$241k/yr"
+      "salary": "$130k–$241k/yr",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Mars",
@@ -1241,6 +1250,7 @@
       "ats": "Glassdoor",
       "first_seen": "2026-10-26T14:40:17Z",
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=6ae6717c17e20018",
         "https://ca.indeed.com/viewjob?jk=e8f22763fdc212cd",
         "https://www.glassdoor.ca/job-listing/j?jl=1010306648512",
         "https://www.glassdoor.ca/job-listing/j?jl=1010306648513",
@@ -3012,14 +3022,14 @@
       "first_seen": "2026-10-24T00:57:58Z",
       "work_mode": "Remote",
       "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -4243,16 +4253,16 @@
       "archetype": "D",
       "work_arrangement": "On-site",
       "first_seen": "2026-10-23T03:02:08Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -4568,12 +4578,12 @@
       "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
+      "geo_lat": 43.64527,
+      "geo_lon": -79.38807,
+      "geo_distance_km": 6.9,
+      "geo_rank": 69,
+      "geo_source": "posting-address",
+      "geo_confidence": "high",
       "geo_detail": "205 Wellington St. W., Toronto",
       "geo_version": 1,
       "duplicate_urls": [
@@ -5984,16 +5994,16 @@
       "source": "company_portal",
       "archetype": "B",
       "first_seen": "2026-10-22T14:45:19Z",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -11145,16 +11155,16 @@
         "https://www.glassdoor.ca/job-listing/j?jl=1010300463289",
         "https://www.linkedin.com/jobs/view/4481501131/"
       ],
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -17903,16 +17913,16 @@
         "https://www.glassdoor.ca/job-listing/j?jl=1010295629606",
         "https://www.linkedin.com/jobs/view/4479566236/"
       ],
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -37181,14 +37191,14 @@
       "first_seen": "2026-09-30T21:04:12Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -42967,6 +42977,5 @@
       "geo_detail": "centre of Greater Toronto Area",
       "geo_version": 1
     }
-  ],
-  "total": 1494
+  ]
 }
