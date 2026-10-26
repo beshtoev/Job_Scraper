@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-26 20:31 UTC",
+  "updated_at": "2026-10-26 21:04 UTC",
   "jobs": [
+    {
+      "company": "Apptoza Inc.",
+      "title": "Data & Analytics leader",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4481485658/",
+      "date_posted": "2026-10-26",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Data & Analytics leader\n\nToronto, ON - Hybrid (4 Days WFO) (Full-time)\n\nThe opportunity\nWe are seeking an experienced Data & Analytics Leader to help shape and grow enterprise transformation programs across the Banking, Financial Services, and Insurance sector. This role brings together data strategy, analytics, AI, consulting, business development, executive advisory, and delivery leadership. You will work with senior client stakeholders to define transformation priorities, shape large-scale opportunities, and guide teams from strategy through measurable value realization.\nWhat you will do\n• Build trusted relationships with CDOs, CIOs, CAIOs, business executives, and senior technology leaders.\n• Advise BFSI clients on enterprise data strategy, analytics transformation, AI adoption, governance, modernization, and operating models.\n• Translate complex business challenges into practical transformation roadmaps, investment priorities, and measurable outcomes.\n• Lead executive workshops, discovery sessions, steering committee discussions, and strategic client conversations.\n• Drive growth for Data, Analytics, and AI services from opportunity identification and qualification through proposal, negotiation, and closure.\n• Shape large consulting and transformation engagements, including solution direction, value proposition, commercial approach, and delivery roadmap.\n• Lead RFPs and proactive proposals, ensuring solutions are differentiated, feasible, and focused on business outcomes.\n• Build joint opportunities with account teams, alliance partners, technology providers, and consulting practices.\n• Define target-state strategies across cloud data platforms, data products, analytics, AI/ML, GenAI, governance, and responsible AI.\n• Provide executive oversight from opportunity shaping and mobilization through delivery, governance, and value realization.\n• Lead and mentor consulting, architecture, engineering, analytics, and AI teams across locations.\n• Develop reusable offerings, reference architectures, case studies, estimators, executive narratives, and delivery playbooks.\nWhat you bring\n• 18+ years of experience across data, analytics, AI, consulting, and enterprise transformation, including leadership of large-scale programs.\n• Deep expertise in enterprise data strategy, data architecture, governance, operating models, data products, and data modernization.\n• Strong understanding of data engineering, including ETL/ELT, integration, APIs, orchestration, data quality, observability, DataOps, and platform engineering.\n• Experience leading analytics and BI initiatives, including enterprise reporting, self-service analytics, semantic layers, advanced analytics, and decision intelligence.\n• Knowledge of AI, machine learning, Generative AI, Agentic AI, MLOps/LLMOps, responsible AI, and AI-led business transformation.\n• Experience defining enterprise solutions across Azure, AWS, GCP, Databricks, Snowflake, and other modern data platforms.\n• Strong knowledge of BFSI requirements, including regulatory compliance, privacy, security, resilience, auditability, and risk management.\n• Proven success in consulting, business development, presales, solutioning, opportunity qualification, proposals, pricing support, and executive stakeholder management.\n• Ability to lead global, cross-functional teams and engage effectively with CXOs and senior business leaders.\n• Bachelor's degree in a relevant discipline. A master's degree, MBA, and relevant cloud, architecture, data, analytics, AI, or program certifications are preferred.\n\nThanks & regards,\nLakshmi Bhavani ,\n\nApptoza Inc.\n\nPhone: 678-392-3978 Ext 4640\n\nPhone: 437-291-3224 Ext 1105\nMail id : Lakshmi.bhavani@apptoza.com\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nIT Services and IT Consulting",
+      "first_seen": "2026-10-26T21:04:05Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Morson Edge (Canada)",
       "title": "Chief Financial Officer (Construction & Manufacturing)",
@@ -42574,6 +42599,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1481
+  ]
 }
