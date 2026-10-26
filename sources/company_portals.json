@@ -154,13 +154,13 @@
       "archetype": "D",
       "ats": "greenhouse",
       "slug": "affirm",
-      "careers_url": "",
+      "careers_url": "https://job-boards.greenhouse.io/affirm",
       "source": "harvest:jobsinpython 2026-09-01",
       "include": [],
       "exclude": [],
       "searches": [],
-      "enabled": false,
-      "resolution_status": "unresolved"
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "AIG",
@@ -258,13 +258,13 @@
       "archetype": "S",
       "ats": "greenhouse",
       "slug": "anthropic",
-      "careers_url": "",
+      "careers_url": "https://job-boards.greenhouse.io/anthropic",
       "source": "seed:frontier",
       "include": [],
       "exclude": [],
       "searches": [],
-      "enabled": false,
-      "resolution_status": "unresolved"
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "Anysphere",
@@ -1396,13 +1396,13 @@
       "archetype": "D",
       "ats": "greenhouse",
       "slug": "dropbox",
-      "careers_url": "",
+      "careers_url": "https://job-boards.greenhouse.io/dropbox",
       "source": "harvest:jobsinpython 2026-09-01",
       "include": [],
       "exclude": [],
       "searches": [],
-      "enabled": false,
-      "resolution_status": "unresolved"
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "ecobee",
@@ -2813,13 +2813,13 @@
       "archetype": "D",
       "ats": "greenhouse",
       "slug": "mozilla",
-      "careers_url": "",
+      "careers_url": "https://job-boards.greenhouse.io/mozilla",
       "source": "harvest:jobsinpython 2026-09-01",
       "include": [],
       "exclude": [],
       "searches": [],
-      "enabled": false,
-      "resolution_status": "unresolved"
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "Mufgub",
@@ -3125,13 +3125,13 @@
       "archetype": "S",
       "ats": "ashby",
       "slug": "openai",
-      "careers_url": "",
+      "careers_url": "https://jobs.ashbyhq.com/openai",
       "source": "seed:frontier",
       "include": [],
       "exclude": [],
       "searches": [],
-      "enabled": false,
-      "resolution_status": "unresolved"
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "OpenText",
@@ -4334,13 +4334,13 @@
       "archetype": "D",
       "ats": "lever",
       "slug": "voltus",
-      "careers_url": "",
+      "careers_url": "https://jobs.lever.co/voltus",
       "source": "harvest:jobsinpython 2026-09-01",
       "include": [],
       "exclude": [],
       "searches": [],
-      "enabled": false,
-      "resolution_status": "unresolved"
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "Waabi",
