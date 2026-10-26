@@ -132,3 +132,17 @@ def test_notification_module_has_no_example_profile_fallback():
     assert "config_example_path" not in source
     assert "toxicolog" not in source
     assert "microplastic" not in source
+
+
+def test_tier_zero_skips_title_gate_but_not_junk():
+    assert scrape_jobs.role_is_relevant("Transaction Manager", "Anthropic")
+    assert scrape_jobs.role_is_relevant("Member of Technical Staff", "OpenAI")
+    assert not scrape_jobs.role_is_relevant("Transaction Manager", "Acme Corp")
+    assert not scrape_jobs.role_is_relevant("Research Intern", "Anthropic")
+    assert not scrape_jobs.role_is_relevant("", "Anthropic")
+
+
+def test_tier_zero_location_must_name_canada():
+    assert scrape_jobs._CANADA_NAMED_RE.search("Ontario - Remote")
+    assert scrape_jobs._CANADA_NAMED_RE.search("Remote-Friendly (Travel Required) | Canada")
+    assert not scrape_jobs._CANADA_NAMED_RE.search("Bangalore - Remote")
