@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-26 05:16 UTC",
+  "scraped_at": "2026-10-26 05:49 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Aston Carter",
@@ -211,27 +211,22 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
-      "ats": "ZipRecruiter"
+      "ats": "ZipRecruiter",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "On •",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "MCKESSON",
-      "title": "Directeur(trice), Gouvernance des données / Director, Data Governance",
-      "location": "Mississauga, ON • On-site",
-      "url": "https://www.ziprecruiter.com/ekm/AAHl02GDkk3JUiu1F8Mt5ytF1GFZZTvKCigI8hkLA4zu1cVfG7fK27FE8n1Rw9C2Ux2i7Nnmx3GJX6gvmlaZ3gBVGlwhUA2k75N4wGVl2sOJIDCsUoibkO213kqtC98sFoB-ip6NrrKEEBgccTmU0sKC_sqLNt3u04OYcqNAEr4jSYK6fa9Rp7hWuvVQsjqfULKJnJhpCcUA2WtZXH4P5dfBDM6jCtDWGvWaVyWy2gDav2UWJjtI5Zv37pqnnQeOxeY68IRloLIbdjq5_wOS3SA0Hpp3ut-173pEb3HFpRqI1hzYxd7U2WMF0JKa-RZTAjfjx5oPAgd09iuNpdJ7m051mQnQIEj6Q5R5Eo9MTQLJKXdMaZ8XWXhofuOHEBN3pBrHy4VqhRvVqrtPU16sVWR3jjY?tsid=111000278",
-      "direct_url": "",
-      "company_url": "",
-      "date_posted": "",
-      "description": "",
-      "salary": "",
-      "salary_source": "alert email",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "ZipRecruiter"
-    }
-  ]
+  "new_jobs": []
 }
