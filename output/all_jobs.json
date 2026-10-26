@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 22:36 UTC",
+  "updated_at": "2026-10-26 23:03 UTC",
   "jobs": [
     {
       "company": "RBC",
@@ -184,7 +184,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4483256946/"
+      ]
     },
     {
       "company": "Confidential",
@@ -14538,7 +14541,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
