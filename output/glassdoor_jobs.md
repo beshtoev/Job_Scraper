@@ -1,33 +1,18 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-26 14:40 UTC*
+*Last updated: 2026-10-26 15:48 UTC*
 
-**7 new role(s)** since last run · 31 total in last 24h
+**3 new role(s)** since last run · 29 total in last 24h
 
-### [Marketing Campaign & Strategy Leader](https://www.glassdoor.ca/job-listing/j?jl=1010306618930) — AlgaeCal
-- 📍 **Location:** Toronto, Canada
+### [Marketing Campaign & Strategy Leader](https://www.glassdoor.ca/job-listing/j?jl=1010306618925) — AlgaeCal
+- 📍 **Location:** Vancouver, Canada
 - 🕒 **Posted:** 2026-10-26
 
-### [Marketing Campaign & Strategy Leader](https://www.glassdoor.ca/job-listing/j?jl=1010306618938) — AlgaeCal
-- 📍 **Location:** Ottawa, Canada
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010306735999) — RICHMOND CHRISTIAN SCHOOL
+- 📍 **Location:** Richmond, Canada
+- 💰 **Salary:** $111k–$145k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Director of AI Delivery](https://www.glassdoor.ca/job-listing/j?jl=1010306648608) — Nesto Cloud
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Director of AI Delivery](https://www.glassdoor.ca/job-listing/j?jl=1010306648512) — nesto
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Director of AI Delivery](https://www.glassdoor.ca/job-listing/j?jl=1010306648513) — nesto
-- 📍 **Location:** Montreal, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Director of AI Delivery](https://www.glassdoor.ca/job-listing/j?jl=1010306648610) — Nesto Cloud
-- 📍 **Location:** Montreal, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Assistant Director of Finance & Administration](https://www.glassdoor.ca/job-listing/j?jl=1010306612983) — City of Corner Brook
-- 📍 **Location:** Corner Brook, Canada
-- 💰 **Salary:** $98k–$130k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010306687298) — Roma Moulding Inc.
+- 📍 **Location:** Vaughan, Canada
+- 💰 **Salary:** $160k–$190k/yr
 - 🕒 **Posted:** 2026-10-26
