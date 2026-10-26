@@ -9,6 +9,7 @@ import http.client
 import json
 import random
 import re
+import ssl
 import sys
 import time
 import urllib.error
@@ -25,6 +26,13 @@ STATUS_PATH = ROOT / "output" / "company_portal_status.json"
 USER_AGENT = "Mozilla/5.0 (compatible; MuratJobDiscovery/1.0; +https://github.com/beshtoev/Job_Scraper)"
 TIMEOUT = 20
 WORKDAY_TERMS = ("data", "artificial intelligence", "analytics", "transformation", "FP&A", "automation", "governance", "technology")
+
+
+try:  # the python.org build's default store misses some issuers (Munich Re: CERTIFICATE_VERIFY_FAILED)
+    import certifi
+    SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
+except ImportError:
+    SSL_CONTEXT = ssl.create_default_context()
 
 
 class SourceFailure(RuntimeError):
@@ -48,7 +56,7 @@ def _request(url: str, payload: dict | list | None = None, retries: int = 2) -> 
     for attempt in range(retries + 1):
         req = urllib.request.Request(url, data=data, headers=headers, method="POST" if data is not None else "GET")
         try:
-            with urllib.request.urlopen(req, timeout=TIMEOUT) as response:
+            with urllib.request.urlopen(req, timeout=TIMEOUT, context=SSL_CONTEXT) as response:
                 return response.read()
         except (urllib.error.URLError, TimeoutError, OSError, http.client.HTTPException) as exc:
             if attempt == retries:
@@ -471,7 +479,7 @@ def _ultipro_board(host: str, tenant: str) -> str:
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,*/*", "Accept-Language": "en-CA,en;q=0.9"})
     try:
-        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+        with urllib.request.urlopen(req, timeout=TIMEOUT, context=SSL_CONTEXT) as resp:
             final = resp.geturl()
     except Exception:  # noqa: BLE001
         return ""
