@@ -1,7 +1,10 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 05:57 UTC*
+*Last updated: 2026-10-27 08:58 UTC*
 
-**1 new role(s)** since last run · 240 total in current portal openings
+**2 new role(s)** since last run · 239 total in current portal openings
 
-### [Senior Director, GTM AI Product Leader](https://builtintoronto.com/job/senior-director-gtm-ai-product-leader/11902762) — Thomson Reuters
+### [Associate Director, Data Centres](https://builtintoronto.com/job/associate-director-data-centres/9556098) — Turner & Townsend
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Sales Director for Cloud & AI](https://builtintoronto.com/job/sales-director-cloud-ai/11844785) — Microsoft
 - 📍 **Location:** Toronto, Ontario, Canada
