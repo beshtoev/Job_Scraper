@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 04:32 UTC*
+*Last updated: 2026-10-27 04:53 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Senior Director, GTM AI Product Leader](https://www.linkedin.com/jobs/view/4483290793/) — Thomson Reuters
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-27
