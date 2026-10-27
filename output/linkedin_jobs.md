@@ -1,39 +1,54 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 22:39 UTC*
+*Last updated: 2026-10-27 23:34 UTC*
 
-**8 new role(s)** since last run · 9 total in last 1h
+**11 new role(s)** since last run · 17 total in last 1h
 
-### [Senior Director, Data Architecture](https://www.linkedin.com/jobs/view/4484241769/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director of Pricing and Business Analytics](https://www.linkedin.com/jobs/view/4484268454/) — GFL Environmental Inc.
+- 📍 **Location:** Vaughan, Ontario, Canada
 - 🕒 **Posted:** 2026-10-27
 
-### [Director, Strategic Planning & Operations](https://www.linkedin.com/jobs/view/4484239949/) — The University of British Columbia
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $8,810.92 - $13,202.50
+### [Director, AI Wealth Enablement](https://www.linkedin.com/jobs/view/4483695807/) — Canada Life
+- 📍 **Location:** London, Ontario, Canada
+- 💰 **Salary:** $128,200 - $178,200 annually
 - 🕒 **Posted:** 2026-10-27
 
-### [Senior Director, AI Architecture](https://www.linkedin.com/jobs/view/4484232949/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [VP Finance](https://www.linkedin.com/jobs/view/4484268241/) — Michael Page
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $170,000.00/yr - CA$190,000.00/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Director, Enterprise Applications](https://www.linkedin.com/jobs/view/4483697737/) — Region of Peel
-- 📍 **Location:** Brampton, Ontario, Canada
-- 💰 **Salary:** $162,893 - $183,255
-- 🕒 **Posted:** 2026-10-27
-
-### [Director, Enterprise Risk Management](https://www.linkedin.com/jobs/view/4482239836/) — goeasy Ltd.
+### [Director, AI Wealth Enablement](https://www.linkedin.com/jobs/view/4483815267/) — Canada Life
 - 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $128,200 - $178,200 annually
 - 🕒 **Posted:** 2026-10-27
 
-### [Director, Capital Markets Finance](https://www.linkedin.com/jobs/view/4484210809/) — CIBC
+### [Director, AI Wealth Enablement](https://www.linkedin.com/jobs/view/4483810438/) — Canada Life
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $128,200 - $178,200 annually
 - 🕒 **Posted:** 2026-10-27
 
-### [Senior Director, Mid-Market Leveraged Finance](https://www.linkedin.com/jobs/view/4484233973/) — RBC
+### [Director of Digital](https://www.linkedin.com/jobs/view/4483679101/) — ACAMS
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $130,000.00/yr - CA$160,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Director, Finance](https://www.linkedin.com/jobs/view/4479623836/) — Government of Nunavut
+- 📍 **Location:** Iqaluit, Nunavut, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Director, Information Technology](https://www.linkedin.com/jobs/view/4483807303/) — YWCA BC
 - 📍 **Location:** Vancouver, British Columbia, Canada
 - 🕒 **Posted:** 2026-10-27
 
-### [Vice President, Global Investment Banking (Syndicated & Leveraged Finance)](https://www.linkedin.com/jobs/view/4484248410/) — RBC
+### [Senior Director, Product & Platform Trust](https://www.linkedin.com/jobs/view/4483813454/) — Autodesk
+- 📍 **Location:** Greater Toronto Area, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [AVP, Regulatory Issues Management, Governance and Control, TD Securities](https://www.linkedin.com/jobs/view/4483157337/) — TD Securities
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $115,000.00 - $165,000.00
+- 💰 **Salary:** $155,000 - $215,000
+- 🕒 **Posted:** 2026-10-27
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4483809531/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-10-27
