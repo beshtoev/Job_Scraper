@@ -1,21 +1,22 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 18:55 UTC*
+*Last updated: 2026-10-27 22:12 UTC*
 
-**5 new role(s)** since last run · 243 total in current portal openings
+**5 new role(s)** since last run · 240 total in current portal openings
 
-### [Director, Wealth Digital AI Platforms & Technology Delivery](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Wealth-Digital-AI-Platforms---Technology-Delivery_R260025430) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior Director, Data Architecture](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--Data-Architecture_R-0000191160) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
+### [Executive Assistant, Chief Technology, Data & AI Officer](https://hoopp.wd10.myworkdayjobs.com/en-US/HOOPP/job/Toronto-Ontario-Canada/Executive-Assistant--Chief-Technology--Data---AI-Officer_JR102617) — HOOPP
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-27
 
-### [Director of Pricing and Business Analytics](https://builtintoronto.com/job/director-pricing-and-business-analytics/11921407) — GFL Environmental Inc.
+### [Associate Creative Director - Creative Technology](https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/job/Calgary-Alberta-Canada/Associate-Creative-Director_R13519) — Interpublic
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Director, Strategy Risk Business Operations and Shared Services](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director-of-Strategy-Risk-Business-Operations-and-Shared-Services_R-0000183300-2) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-10-19
+
+### [Director, Enterprise Applications](https://builtintoronto.com/job/director-enterprise-applications/11924521) — Peel Region
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director of Digital](https://builtintoronto.com/job/director-digital/11916446) — ACAMS
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Head of YouTube (Strategy, Scripting & Team Lead)](https://builtintoronto.com/job/head-youtube-strategy-scripting-team-lead/11920150) — Impact Clients
+### [Vice President, Technology Enablement](https://builtintoronto.com/job/vice-president-technology-enablement/11921957) — Klick Health
 - 📍 **Location:** Toronto, Ontario, Canada
