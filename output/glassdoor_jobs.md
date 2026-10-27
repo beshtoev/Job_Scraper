@@ -1,27 +1,28 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 00:11 UTC*
+*Last updated: 2026-10-27 01:30 UTC*
 
-**5 new role(s)** since last run · 35 total in last 24h
+**5 new role(s)** since last run · 34 total in last 24h
 
-### [Vice President, Global Core Trade Finance, TD Securities, Global Transaction Banking](https://www.glassdoor.ca/job-listing/j?jl=1010307168335) — TD Bank
+### [Digital Consulting Director, Oracle Technical](https://www.glassdoor.ca/job-listing/j?jl=1010307231873) — Huron Consulting Services LLC
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $150k–$160k/yr
+- 💰 **Salary:** $175k–$304k/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Director, Workplace Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010307167798) — CIBC
+### [Director of Finance & Capital Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010307012442) — Morson Talent (Canada & USA)
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $185k–$200k/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Regional Finance Director](https://www.glassdoor.ca/job-listing/j?jl=1010306953892) — Core-Mark Canada
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $175k–$200k/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Director of Finance - Manufacturing](https://www.glassdoor.ca/job-listing/j?jl=1010307175515) — Pinnacle Search Group
-- 📍 **Location:** Brampton, Canada
-- 💰 **Salary:** $170k–$185k/yr
-- 🕒 **Posted:** 2026-10-27
-
-### [Finance Director](https://www.glassdoor.ca/job-listing/j?jl=1010307037338) — Executive Solutions Ltd.
+### [Finance Director](https://www.glassdoor.ca/job-listing/j?jl=1010307207502) — Executive Solutions Ltd.
 - 📍 **Location:** Calgary, Canada
 - 🕒 **Posted:** 2026-10-27
 
-### [Chief Financial and Corporate Services Officer - Permanent, Full-Time](https://www.glassdoor.ca/job-listing/j?jl=1010307180747) — Atikokan Health and Community Services
-- 📍 **Location:** Atikokan, Canada
-- 💰 **Salary:** $120k–$130k/yr
+### [Chief Financial Officer (CFO)](https://www.glassdoor.ca/job-listing/j?jl=1010307044527) — Confidential
+- 📍 **Location:** Calgary, Canada
+- 💰 **Salary:** $200k–$300k/yr
 - 🕒 **Posted:** 2026-10-27

@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-27 01:21 UTC",
+  "updated_at": "2026-10-27 01:30 UTC",
   "jobs": [
+    {
+      "company": "Morson Talent (Canada & USA)",
+      "title": "Director of Finance & Capital Strategy",
+      "location": "Vancouver, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010307012442",
+      "date_posted": "2026-10-27",
+      "description": "Act as a strategic finance partner to operations, manufacturing, sales, business development, and executive leadership. Reports To:* CEO / Managing Director.",
+      "salary": "$185k–$200k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-27T01:30:03Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Ontario Health | Santé Ontario",
       "title": "Director, System Strategy, Planning, Design & Implementation",
@@ -103,7 +130,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010307207502"
+      ]
     },
     {
       "company": "Atikokan Health and Community Services",
@@ -310,9 +340,9 @@
       "url": "https://builtintoronto.com/job/digital-consulting-director-oracle-technical/11898466",
       "direct_url": "https://builtintoronto.com/job/digital-consulting-director-oracle-technical/11898466",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-10-27",
       "date_seen": "2026-10-26T23:27:02Z",
-      "description": "",
+      "description": "They provide client engagement delivery oversight, team leadership and program management. This job is also eligible to participate in Huron’s annual incentive…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -332,7 +362,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$175k–$304k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010307231873"
+      ]
     },
     {
       "company": "AstraZeneca PLC",
@@ -43144,6 +43178,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1500
+  ]
 }
