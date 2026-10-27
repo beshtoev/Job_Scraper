@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-27 12:43 UTC",
+  "updated_at": "2026-10-27 12:50 UTC",
   "jobs": [
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Senior Director, DevOps Product Management and Strategy",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010307521537",
+      "date_posted": "2026-10-27",
+      "description": "Develop strategic partnerships with technology vendors, industry groups, and external advisors to accelerate capability development.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-27T12:50:54Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Robert Half",
       "title": "Director of Finance",
@@ -161,7 +188,8 @@
       "direct_url": "https://jobs.scotiabank.com/job/Toronto-Director-Mobile-Engineering%2C-Wealth-Technology-ON-M5H1H1/607384417/",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=dbec13dfa28b4fa3"
+        "https://ca.indeed.com/viewjob?jk=dbec13dfa28b4fa3",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010307488686"
       ]
     },
     {
@@ -312,7 +340,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010307343054"
+      ]
     },
     {
       "company": "Toast",
@@ -43349,31 +43380,6 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Ethos",
-      "title": "Expert Opportunity - VP of Finance ($100/hr, up to $2,000/week)",
-      "location": "Canada",
-      "url": "https://www.linkedin.com/jobs/view/4455138560/",
-      "date_posted": "2026-09-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "About This Opportunity\n\nWe're working with a leading foundational AI lab to find experienced vps of finance who can help train their latest language model on professional document, spreadsheet, and slide deck tasks.\n\nWe're looking for vps of finance with 5+ years in FP&A or corporate finance roles building forecasts and financial models to create, evaluate, and refine AI-generated documents, spreadsheets, and slide decks across core workflows: rolling forecast models, variance bridge decks, driver-based operating models, board-ready p&l decks, monthly flux commentary memos, and scenario sensitivity models.\n\nCompensation:\n$100/hour\n\nCommitment:\nFlexible, 5-20 hours per week (or more if desired)\n\nLocation:\nFully remote, work on your own schedule\n\nStart date:\nASAP\n\nQualifications\n\n5+ years in FP&A or corporate finance building rolling forecasts, variance bridges, and driver-based operating models for a growing company\nTrack record of producing board-ready p&l decks and monthly flux commentary memos that finance leadership can present without rework\nExpert-level document, spreadsheet, and slide craftsmanship, with excellent written communication and attention to detail\n\nAbout Ethos\n\nEthos is a new expert network built by a McKinsey/SoftBank/DeepMind team and backed by world-leading investors like General Catalyst. We connect experts with investors and consultancies for paid expert calls, speaking engagements, and advisory opportunities.\n\nKey Requirements\n\n5+ years in FP&A or corporate finance building rolling forecasts, variance bridges, and driver-based operating models for a growing company\nTrack record of producing board-ready p&l decks and monthly flux commentary memos that finance leadership can present without rework\nExpert-level document, spreadsheet, and slide craftsmanship, with excellent written communication and attention to detail\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nPart-time\n\nJob function\n\nFinance and Sales\n\nIndustries\n\nTechnology, Information and Internet",
-      "first_seen": "2026-09-27T12:48:10Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
-      "geo_city": "",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 399999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only country stated",
       "geo_version": 1
     }
   ]
