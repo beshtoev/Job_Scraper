@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-27 05:34 UTC",
+  "updated_at": "2026-10-27 05:35 UTC",
   "jobs": [
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Director, Clinical Development Change & Transformation Lead",
+      "location": "Mississauga, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=cfe5cb488afb1210",
+      "direct_url": "https://careers.astrazeneca.com/job/mississauga/senior-director-clinical-development-change-and-transformation-lead/7684/102481027856",
+      "company_url": "https://ca.indeed.com/cmp/Astrazeneca",
+      "date_posted": "2026-10-26",
+      "description": "**Location** Mississauga, Ontario, Canada **Job ID** R\\-262384 **Date posted** 25/10/2026\n  \nEvinova is a health\\-tech business within the AstraZeneca Group, created to accelerate better health outcomes by driving digital transformation across the life sciences sector. We bring together science\\-based expertise, evidence\\-led rigor, and deep human insight to design digital solutions that help healthcare work better for everyone. Operating at the intersection of healthcare, technology, data, and analytics, we are changing how clinical research is conducted, how care is delivered, and how patients experience it, with solutions built to scale and to deliver better outcomes for patients worldwide.\n\n\nWe are driven by a shared purpose: to transform health through data and digital innovation. Our teams collaborate across disciplines to solve complex problems, continuously learning and evolving in a fast\\-paced, high\\-impact environment.\n\n\nWe are seeking a Director, Clinical Development Change \\& Transformation Lead to drive the change management and adoption work that turns Evinova's solutions into new ways of working across clinical development. Working within the transformation strategy and roadmap set by Evinova's Clinical Development Digital Innovation \\& Transformation leadership, you will lead the day\\-to\\-day delivery: redesigning processes with functional owners, preparing and equipping the workforce for change, and building the working relationships with Therapeutic Areas and Clinical Operations that turn deployment into real adoption and captured benefit.\n\n\nYou will be a visible, trusted presence on the ground in Mississauga — understanding the stakeholder landscape, running rollout and readiness activities, keeping communication and governance cadences moving, and channelling frontline insight and new ideas back to our product teams. As our solutions mature, you will help turn what works into repeatable playbooks and deliverables that support external customers on their own change journeys.\n\n\nThis is a hands\\-on leadership role for an experienced change practitioner who combines clinical development fluency with practical transformation delivery — organized, independent amid ambiguity, credible with senior customers, and energized by turning bold technology into real\\-world change.\n\n\n**Responsibilities**\n\nChange \\& Adoption Delivery: Lead the delivery of change management and adoption plans for Evinova's AI\\-enabled solutions across clinical development, translating the transformation strategy and roadmap into actionable workstream plans, turning points, and deliverables.\n\n\n**Stakeholder Engagement \\& Relationships:** Build and maintain working relationships across Therapeutic Areas, Clinical Operations, and enabling functions (e.g., Biometrics, Regulatory, Medical Writing, Quality). Maintain the stakeholder landscape map, act as a day\\-to\\-day point of contact for adoption, and prepare and support senior\\-level engagement where needed.\n\n\n**Process Redesign:** Lead process redesign workshops with functional and process owners: document current\\-state workflows, co\\-design AI\\-enabled future\\-state ways of working, and drive the actions needed to transition, including inputs to the controlled procedure and training updates that a regulated environment requires.\n\n\n**Workforce Readiness \\& Capability Building:** Deliver role and skills impact assessments, develop and run training and upskilling programs, and help embed responsible, compliant use of AI into daily work.\n\n\n**Rollout Execution:** Manage rollout execution in partnership with Product, Delivery, and customer teams — wave plans, readiness assessments, training logistics, hypercare, and post\\-launch support — and track issues and risks through to closure.\n\n\n**Communications \\& Governance:** Develop and run communication plans and engagement cadences across functions and sites, prepare executive updates and governance materials, and facilitate working groups and change forums.\n\n\n**Adoption Measurement \\& Benefits Tracking:** Track adoption and value measures — utilization, cycle\\-time and effort reduction, time\\-to\\-value, and user satisfaction — build the associated reporting and dashboards, and contribute to benefits validation with Finance against the argument.\n\n\nFeedback Channels \\& Product Input: Run structured feedback channels — user advisory groups, voice\\-of\\-customer sessions, and adoption analytics — synthesize insight into prioritized recommendations and new ideas for Product, and support pilots and user validation of improvements before scaling.\n\n\nPlaybooks \\& External Customer Support: Contribute to and maintain transformation playbooks, toolkits, and deliverables, and support Commercial and Delivery teams in deploying them with external sponsors and CROs on their change journeys.\n\n\nChange Champion Network: Build and coach the change champion and practitioner network across the portfolio, and lead the matrixed or small\\-team resources assigned to change workstreams \\[confirm team scope with Talent Acquisition].\n\n\n**Qualifications**\n\n**Required (Must\\-Have)**\n\n* Significant experience delivering change management, transformation, or technology adoption programs within pharmaceutical R\\&D, biotech, or health technology.\n* Strong understanding of clinical development and Clinical Operations processes, roles, and pain points — from protocol design through study conduct and close\\-out.\n* Hands\\-on experience implementing AI or digital solutions into ways of working, including impact assessments, process redesign, and training and capability building.\n* Strong stakeholder management: credibility with Director\\- and Senior Director\\-level stakeholders and the ability to influence across a matrixed, global organization.\n* Practical process redesign and facilitation skills (e.g., Lean, design thinking, or service design methodologies), with the ability to run workshops and produce clear current\\-state and future\\-state deliv",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-10-27T05:35:43Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Scotiabank",
       "title": "Director - Mobile Engineering, Wealth Technology",
@@ -51,8 +84,12 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=87fb983c5df3dad2",
         "https://www.glassdoor.ca/job-listing/j?jl=1010307392632"
-      ]
+      ],
+      "direct_url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Director--GTM-AI-Product-Leader_JREQ204770",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "OpenAI",
@@ -420,10 +457,13 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=fe6d1ee9167ca70c",
         "https://www.glassdoor.ca/job-listing/j?jl=1010307337507",
         "https://www.linkedin.com/jobs/view/4483276226/"
       ],
-      "salary": "$125k–$175k/yr"
+      "salary": "$125k–$175k/yr",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Manulife",
@@ -724,9 +764,12 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-financial-reporting/11894710",
+        "https://ca.indeed.com/viewjob?jk=fced1334d4cea1f8",
         "https://www.linkedin.com/jobs/view/4483256946/"
       ],
-      "direct_url": "https://builtintoronto.com/job/director-financial-reporting/11894710"
+      "direct_url": "https://builtintoronto.com/job/director-financial-reporting/11894710",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Confidential",
@@ -880,11 +923,13 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=93fdc3eedecbf991",
         "https://ca.indeed.com/viewjob?jk=cfd2baaa0e2632d2",
         "https://www.glassdoor.ca/job-listing/j?jl=1010307002064"
       ],
       "direct_url": "https://careers.core-mark.com/job/regional-finance-director/toronto-ontario/156377BR/",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "job_type": "fulltime"
     },
     {
       "company": "CAE",
@@ -946,31 +991,34 @@
       "date_posted": "2026-10-26",
       "date_seen": "2026-10-26T19:42:11Z",
       "description": "We’re building a relationship-oriented bank for the modern world. We need talented, passionate professionals who are dedicated to doing what’s right for our clients. \n\n At CIBC, we embrace your strengths and your ambitions, so you are empowered at work. Our team members have what they need to make a meaningful impact and are truly valued for who they are and what they contribute. \n\n To learn more about CIBC, please visit CIBC.com \n\n What you’ll be doing \n\n As a member of the Enterprise Real Estate and Workplace Experience team, you’ll help shape a modern, connected, inclusive, and high-performing workplace experience across CIBC’s real estate portfolio, including flagship and enterprise environments. As a Director, Workplace Strategy, you’ll lead the evolution, translation, and implementation of CIBC’s Global Workplace Experience Strategy across workplace transformation projects. You’ll provide strategic advice, develop workplace standards and enablement approaches, and use research, data, and team member feedback to help reimagine how we work. You’ll partner with leaders across Real Estate, Human Resources, Design, Technology, and other key functions to align workplace strategy with business priorities, future workforce needs, and enterprise transformation goals. You’ll also prepare clear recommendations and insights for senior leaders to support decision-making and the delivery of CIBC’s future workplace strategy. \n\n At CIBC we enable the work environment most optimal for you to thrive in your role. You’ll have the flexibility to manage your work activities within a hybrid work arrangement where you’ll spend 1-3 days per week on-site, while other days will be remote. Details on your work arrangement will be discussed at the time of your interview. \n\n How you’ll succeed \n Lead workplace strategy execution – Translate CIBC’s Global Workplace Experience Strategy into practical design strategies, standards and enablement approaches for real estate transformation projects across the portfolio. \n Provide strategic advice – Partner with leaders and project teams to apply workplace experience principles, align initiatives to enterprise priorities, and recommend solutions that improve the workplace experience and support the future of work. \n Use insights to inform decisions – Conduct market research, evaluate internal and external trends, and use employee feedback and workplace data to identify opportunities, inform recommendations, and strengthen strategic planning. \n Support change and enablement – Develop materials, approaches, and change tactics that help leaders and team members adapt to evolving workplace environments and new ways of working. \n Build strong partnerships – Work closely with partners across Enterprise Real Estate, Human Resources, Design, Technology, Corporate Security, Events, Retail, and Facilities Management to support coordinated planning and successful implementation. \n Present to senior leadership – Prepare clear, compelling findings, business cases, and recommendations for senior leaders and executive forums, highlighting benefits, risks, dependencies, and considerations for decision-making. \n\n Who you are \n You can demonstrate 10 years of experience in workplace strategy, strategic planning and real estate transformation, and change enablement. You have experience in workplace design, employee experience, operating model change, or enterprise transformation in a large, complex organization. \n You have a degree or diploma in a relevant field. It’s an asset if you have education or experience related to workplace strategy, business strategy, design, organizational change, or real estate. \n You’re future focused. You look beyond the moment and help shape strategies that will make a difference today and tomorrow. You identify opportunities to evolve the workplace in support of business and workforce priorities. \n You’re analytical. You give meaning to data and research. You enjoy investigating complicated problems, identifying trends, and turning insights into clear, practical recommendations. You have well-developed communication and presentation skills, both written and verbal. \n You’re influential. Your influence makes a difference. You build credibility with senior leaders and partners and help bring about change by sharing your expertise and recommendations in a clear and thoughtful way. \n You’re collaborative. You’re motivated by collective success and work effectively across functions to bring people together, align priorities, and deliver shared outcomes. \n You’re a caring and accountable leader. You have experience developing strategic team goals, creating clarity around priorities and ways of working, and coaching others to support strong performance and growth. \n You live your values. You bring high standards, genuine care to your relationships, and want to grow with an employer that shares your values and brings out your best \n\n What CIBC Offers \n\n At CIBC, your goals are a priority. We start with your strengths and ambitions as an employee and strive to create opportunities to tap into your potential. We aspire to give you a career, rather than just a paycheck.\n We work to recognize you in meaningful, personalized ways including a competitive salary, incentive pay, banking benefits, a benefits program*, defined benefit pension plan*, an employee share purchase plan, a vacation offering, wellbeing support, and MomentMakers, our social, points-based recognition program.\n\n Our spaces and technological toolkit will make it simple to bring together great minds to create innovative solutions that make a difference for our clients.\n\n We cultivate a culture where you can express your ambition through initiatives like Purpose Day; a paid day off dedicated for you to use to invest in your growth and development.\n\n *Subject to plan and program terms and conditions\n\n What you need to know \n CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applicants with a wide range of abilities and we provide an accessible candidate experience. If you need accommodation, please contact Mailbox.careers-carrieres@cibc.com \n\n CIBC is committed to clarity in our hiring process. All roles posted are opportunities we’re actively recruiting for, unless stated otherwise.\n\n You need to be legally eligible to work at the location(s) specified above and, where applicable, must have a valid work or study permit.\n\n We may ask you to complete an attribute-based assessment and other skills test (such as simulation, coding, French proficiency). \n\n We use artificial intelligence tools during the recruitment process. Our goal for the application process is to get to know more about you, all that you have to offer, and give you the opportunity to learn more about us. \n\n Job Location \nToronto-81 Bay, 33rd Floor \n Employment Type \nRegular \n Weekly Hours \n37.5 \n Skills \nAnalytical Thinking, Budget Processes, Client Service, Contract Performance Management, Innovation Strategies, Leadership, People Management, Procurement Services, Strategic Objectives, Vendor Contract Negotiations",
-      "is_remote": null,
+      "is_remote": true,
       "department": "",
       "ats": "Workday",
       "source": "company_portal",
       "archetype": "B",
       "first_seen": "2026-10-26T20:02:08Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-workplace-strategy/11894556",
+        "https://ca.indeed.com/viewjob?jk=53f116724d24758e",
         "https://www.glassdoor.ca/job-listing/j?jl=1010307167798",
         "https://www.linkedin.com/jobs/view/4483756990/"
-      ]
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Athabasca Tribal Council",
@@ -43291,6 +43339,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1504
+  ]
 }
