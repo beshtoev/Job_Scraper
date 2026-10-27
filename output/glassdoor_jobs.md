@@ -1,18 +1,29 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 16:34 UTC*
+*Last updated: 2026-10-27 19:05 UTC*
 
-**3 new role(s)** since last run · 34 total in last 24h
+**6 new role(s)** since last run · 37 total in last 24h
 
-### [Director of Finance & Capital Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010307012442) — Morson Talent (Canada & USA)
+### [Senior Director AI and Operations Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010308045544) — National Bank of Canada
+- 📍 **Location:** Montreal, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Director, Capital Markets Finance](https://www.glassdoor.ca/job-listing/j?jl=1010308053493) — CIBC
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Head of YouTube (Strategy, Scripting & Team Lead)](https://www.glassdoor.ca/job-listing/j?jl=1010308058933) — Impact Clients
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Managing Director, FP&A and Strategic Support](https://www.glassdoor.ca/job-listing/j?jl=1010308040556) — Questrade Financial Group
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Chief Financial Officer (CFO)](https://www.glassdoor.ca/job-listing/j?jl=1010308051122) — Asikiw Mostos O'pikinawasiwin Society
+- 📍 **Location:** Hobbema, Canada
+- 💰 **Salary:** $100k/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Director, DevOps & Platform Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010308040559) — Questrade Financial Group
 - 📍 **Location:** Vancouver, Canada
-- 💰 **Salary:** $185k–$200k/yr
-- 🕒 **Posted:** 2026-10-27
-
-### [Financial Director](https://www.glassdoor.ca/job-listing/j?jl=1010307951939) — Paramount Fine Foods
-- 📍 **Location:** Etobicoke, Canada
-- 💰 **Salary:** $90k–$110k/yr
-- 🕒 **Posted:** 2026-10-27
-
-### [Finance Director](https://www.glassdoor.ca/job-listing/j?jl=1010307207502) — Executive Solutions Ltd.
-- 📍 **Location:** Calgary, Canada
 - 🕒 **Posted:** 2026-10-27

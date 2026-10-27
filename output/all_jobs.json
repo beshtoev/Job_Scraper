@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-27 18:57 UTC",
+  "updated_at": "2026-10-27 19:05 UTC",
   "jobs": [
+    {
+      "company": "National Bank of Canada",
+      "title": "Senior Director AI and Operations Engineering",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010308045544",
+      "date_posted": "2026-10-27",
+      "description": "Bachelor's degree in computer science, software engineering, artificial intelligence, data science or related technology field or any other combination of…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-27T19:05:02Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Asikiw Mostos O'pikinawasiwin Society",
+      "title": "Chief Financial Officer (CFO)",
+      "location": "Hobbema, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010308051122",
+      "date_posted": "2026-10-27",
+      "description": "Must submit a driver’s abstract,. Lead, influence and collaborate with Finance team to use AMO resources in the forecasting, long range planning, and decision-…",
+      "salary": "$100k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-27T19:05:02Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Hobbema",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Klick Health",
       "title": "Vice President, Technology Enablement",
@@ -167,9 +221,9 @@
       "url": "https://builtintoronto.com/job/head-youtube-strategy-scripting-team-lead/11920150",
       "direct_url": "https://builtintoronto.com/job/head-youtube-strategy-scripting-team-lead/11920150",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-10-27",
       "date_seen": "2026-10-27T18:55:32Z",
-      "description": "",
+      "description": "Ability and willingness to write complete first-person, talking-head scripts and improve another writer's work. Ownership of goals, metrics and KPIs.",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -189,7 +243,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010308058933"
+      ]
     },
     {
       "company": "Questrade Financial Group",
@@ -214,7 +271,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only province MB stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010308040559"
+      ]
     },
     {
       "company": "KidSport Canada/SportJeunesse",
@@ -350,6 +410,7 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=b81aa27051aa98ca",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010308040556",
         "https://www.linkedin.com/jobs/view/4484206442/"
       ],
       "job_type": "fulltime",
@@ -449,6 +510,7 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=163589648c01eb30",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010308053493",
         "https://www.linkedin.com/jobs/view/4484210809/"
       ],
       "job_type": "fulltime",
