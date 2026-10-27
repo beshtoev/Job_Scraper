@@ -1,21 +1,32 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 13:28 UTC*
+*Last updated: 2026-10-27 13:53 UTC*
 
-**4 new role(s)** since last run · 10 total in last 1h
+**6 new role(s)** since last run · 15 total in last 1h
 
-### [Director, Domain Enterprise Architect, Technology Modernization and Cloudification](https://www.linkedin.com/jobs/view/4474644462/) — Sunlife
+### [Technology and Innovation - Associate Director (NetSuite)](https://www.linkedin.com/jobs/view/4410863809/) — Riveron
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $162,000.00/yr - CA$190,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Director of Finance And Operations](https://www.linkedin.com/jobs/view/4483635949/) — Axxel HR
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Director of Finance](https://www.linkedin.com/jobs/view/4483625882/) — Robert Half
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $140,000.00/yr - CA$150,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Agency Chief Financial Officer](https://www.linkedin.com/jobs/view/4481885418/) — Minnesota Direct Care and Treatment
+- 📍 **Location:** St.-Paul, New Brunswick, Canada
+- 💰 **Salary:** $53.66 - $76.98
+- 🕒 **Posted:** 2026-10-27
+
+### [Director, Enterprise Architecture Strategy, Core Platform](https://www.linkedin.com/jobs/view/4474640700/) — Sunlife
 - 📍 **Location:** Waterloo, Ontario, Canada
 - 🕒 **Posted:** 2026-10-27
 
-### [Director, Enterprise Architecture Strategy, Core Platform](https://www.linkedin.com/jobs/view/4474651356/) — Sunlife
+### [Canadian Financial and Regulatory Reporting, VP](https://www.linkedin.com/jobs/view/4483631383/) — Citi
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-27
-
-### [Interim CFO / Director of Finance](https://www.linkedin.com/jobs/view/4483643487/) — Robert Half
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75.00/hr - CA$90.00/hr
-- 🕒 **Posted:** 2026-10-27
-
-### [Director, Domain Enterprise Architect, Technology Modernization and Cloudification](https://www.linkedin.com/jobs/view/4474644463/) — Sunlife
-- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $111,600.00 - $161,600.00
 - 🕒 **Posted:** 2026-10-27
