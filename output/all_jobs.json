@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-27 19:30 UTC",
+  "updated_at": "2026-10-27 19:44 UTC",
   "jobs": [
+    {
+      "company": "Cascadia Credit Union",
+      "title": "Chief Technology & Strategy Officer",
+      "location": "Revelstoke, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4483687425/",
+      "date_posted": "2026-10-27",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Job Purpose\n\nThe Chief Technology & Strategy Officer (CTSO) participates in the development and execution of corporate strategy as part of Cascadia Credit Union’s (CCU) executive team in accordance with policies, goals, and objectives established by the CEO and the Board of Directors. Overseeing and Leading CCU's corporate planning, strategic initiatives, and technology functions, the CTSO works collaboratively across the organization to identify opportunities for growth, operational excellence, organizational effectiveness, and enhanced member value.\n\nThis position provides direction, communication, and leadership in strategic planning, organizational transformation, and enterprise-wide initiatives, ensuring organizational priorities are translated into measurable outcomes and supporting the overall and long-term business strategy of CCU. The CTSO facilitates the corporate planning process, guides the delivery of key strategic initiatives, and promotes innovation that strengthens CCU's sustainability and competitive position.\n\nThis position role model’s leadership, promoting and living CCU values, and fostering a culture where members are at the centre of our decision making, employees are knowledgeable, and CCU is recognized as a committed community partner.\n\nKey Duties & Responsibilities\n\n·        Fosters relationships through service excellence and knowledge to support staff and provide leadership in the development and execution of corporate strategy and organization priorities.\n·        Collaborates with executive leadership to develop corporate strategies and policies; identifies and meets short and long-term objectives and areas of information systems and technology.\n·        Leads the development, facilitation, and monitoring of CCU's corporate strategic planning process and associated business plans.\n·        Oversees the successful delivery of enterprise-wide strategic initiatives and transformational projects, ensuring alignment with organizational goals.\n·        Develops frameworks and reporting mechanisms to measure progress against strategic objectives and key performance indicators.\n·        Identifies emerging trends, opportunities, and risks that may impact CCU's long-term success and recommends strategic responses.\n·        Promotes innovation, continuous improvement, and organizational effectiveness across the credit union.\n·        Directs and leads the credit union's information systems, programming, cyber-security, and IT operations functions and seeks innovative strategies to ensure optimum integration of the enterprise technology framework.\n·        Utilizes data and promote the use of data to support organization effectiveness and the delivery of proactive needs-based advice.\n·        Manages key relationships to ensure compliance with any legislation, regulation, and/or suitable guidelines based on the size and complexity of the credit union.\n·        Provides overall management and direction of information technology and related policies, procedures, and objectives.\n·        Implements functional risk management tools and mechanisms to effectively secure and safe - guard the credit union’s IT infrastructure.                              \n·        Supports employees' development through a demonstrated commitment to coaching and other development activities.\n·        Builds and leads a high performing team to execute on strategies and to meet current needs and future demands.\n·        Promotes CCU in the community through active participation in community events and professional associations.\n\nSkills & Attributes\n\n·        Demonstrates strong strategic thinking skills and the ability to translate vision into measurable organizational outcomes.\n·        Demonstrated ability to lead strategic planning, organizational transformation, and enterprise-wide initiatives.\n·        Demonstrated commitment to applying relevant and applicable policies and procedures in the day-to-day performance of the functions of this position.\n·        Committed to personal growth and development; responsible for ensuring skills and knowledge are up to date to meet industry and position requirements.\n·        Takes a proactive and respectful approach in addressing problems, issues, or conflict with a positive view to reaching new and better solutions.\n·        Gains the confidence and trust of others through honesty, integrity, and thoughtful, clear, and open communication.\n·        Team player, driven to ensure that the whole team is successful in meeting organizational needs.\n·        Strong leadership, analytical, and problem-solving skills.\n·        Demonstrates strong attention to detail and accuracy in completing work and providing information.\n·        Demonstrates strong interpersonal skills and the ability to communicate effectively both verbally and in writing.\n·        Exceptional time management & organizational skills.\n\nQualifications\n\n·        Minimum four (4) years post-secondary education; diploma or degree in Business Administration, Commerce, Leadership, Strategy, Finance, Economics, or a related field preferred.\n·        Minimum of five (5) years’ experience in management or leadership role.\n·        Combined experience and post-secondary education in the areas that directly relate to the financial industry and IT will be considered.\n·        Demonstrates relevant knowledge and understanding of the external credit union environment.\n·        Demonstrate an exceptional understanding of information systems and technology.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
+      "first_seen": "2026-10-27T19:44:39Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Revelstoke",
+      "geo_province": "BC",
+      "geo_lat": 50.99804,
+      "geo_lon": -118.19567,
+      "geo_distance_km": 2994.9,
+      "geo_rank": 429949,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Aviva Canada",
       "title": "AVP, Data Science & Price Modelling",
@@ -10185,7 +10210,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4483681772/"
+      ]
     },
     {
       "company": "Nova Scotia Nursing and Midwifery Regulator",
