@@ -327,6 +327,10 @@
       46.8033114,
       -71.1778792
     ],
+    "maskwacis, ab, canada": [
+      52.8345485,
+      -113.450681
+    ],
     "metro vancouver a, bc, canada": [
       49.2650436,
       -123.2446879
@@ -346,6 +350,10 @@
     "new westminster, bc, canada": [
       49.2067726,
       -122.9108818
+    ],
+    "north bay, on, canada": [
+      46.3092115,
+      -79.4607617
     ],
     "north vancouver, bc, canada": [
       49.3206294,
@@ -470,10 +478,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "north bay, on, canada": [
-      46.3092115,
-      -79.4607617
     ]
   },
   "research": {}
