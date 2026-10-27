@@ -1,22 +1,21 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 15:46 UTC*
+*Last updated: 2026-10-27 18:55 UTC*
 
-**6 new role(s)** since last run · 242 total in current portal openings
+**5 new role(s)** since last run · 243 total in current portal openings
 
-### [Managing Director, FP&A and Strategic Support](https://builtintoronto.com/job/managing-director-fp-and-strategic-support/11913786) — Questrade Financial Group (QFG)
+### [Director, Wealth Digital AI Platforms & Technology Delivery](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Wealth-Digital-AI-Platforms---Technology-Delivery_R260025430) — BMO
+- 📍 **Location:** Toronto, ON, CAN
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Director, Data Architecture](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--Data-Architecture_R-0000191160) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Director of Pricing and Business Analytics](https://builtintoronto.com/job/director-pricing-and-business-analytics/11921407) — GFL Environmental Inc.
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Digital Investment & Activation](https://builtintoronto.com/job/director-digital-investment-activation/11909489) — Horizon Media
+### [Director of Digital](https://builtintoronto.com/job/director-digital/11916446) — ACAMS
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director – Financial Modeling, Infrastructure, Renewables and Energy Transition (Toronto/Montreal, Canada)](https://builtintoronto.com/job/director-financial-modeling-infrastructure-renewables-and-energy-transition-toronto-montreal-canada/11908523) — Leo Berwick
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Director, Capital Markets Finance](https://builtintoronto.com/job/director-capital-markets-finance/11907894) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Vice President – Financial Modeling (Toronto/Montreal, Canada)](https://builtintoronto.com/job/vice-president-financial-modeling-toronto-montreal-canada/11908519) — Leo Berwick
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [VP, Finance Transformation](https://builtintoronto.com/job/vp-finance-transformation/11535681) — Equinix
+### [Head of YouTube (Strategy, Scripting & Team Lead)](https://builtintoronto.com/job/head-youtube-strategy-scripting-team-lead/11920150) — Impact Clients
 - 📍 **Location:** Toronto, Ontario, Canada
