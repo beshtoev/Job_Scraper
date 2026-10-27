@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 15:13 UTC*
+*Last updated: 2026-10-27 15:59 UTC*
 
-**0 new role(s)** since last run · 8 total in last 1h
+**2 new role(s)** since last run · 9 total in last 1h
 
-No new roles since the last run.
+### [Director of Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4483644772/) — Ashbury College
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Director, Financial Reporting](https://www.linkedin.com/jobs/view/4479710063/) — GlassRatner Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-27
