@@ -1,22 +1,31 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-28 17:17 UTC*
+*Last updated: 2026-10-28 17:33 UTC*
 
-**4 new role(s)** since last run · 5 total in last 1h
+**6 new role(s)** since last run · 11 total in last 1h
 
-### [Data & AI Transformation Director](https://www.linkedin.com/jobs/view/4465337880/) — PwC Canada
+### [Director, Enterprise Applications](https://www.linkedin.com/jobs/view/4482543390/) — Associated Engineering
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $160,000-$200,00
+- 🕒 **Posted:** 2026-10-28
+
+### [PLM/MES Business Transformation Director](https://www.linkedin.com/jobs/view/4484102546/) — MDA Space
+- 📍 **Location:** Brampton, Ontario, Canada
+- 🕒 **Posted:** 2026-10-28
+
+### [PLM/MES Business Transformation Director](https://www.linkedin.com/jobs/view/4484112288/) — MDA Space
+- 📍 **Location:** Sainte-Anne-de-Bellevue, Quebec, Canada
+- 🕒 **Posted:** 2026-10-28
+
+### [Associate Director, Investment Platform (Contract)](https://www.linkedin.com/jobs/view/4440588023/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $191,200 - $241,200
+- 💰 **Salary:** $70,000.00 - $150,000.00
 - 🕒 **Posted:** 2026-10-28
 
-### [Vice President Finance, Americas](https://www.linkedin.com/jobs/view/4484485647/) — Future Electronics
-- 📍 **Location:** Kirkland, Quebec, Canada
-- 🕒 **Posted:** 2026-10-28
-
-### [Director of Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4483891658/) — Vaco by Highspring
+### [Director, General Operations, Structured Finance](https://www.linkedin.com/jobs/view/4465556641/) — Reinsurance Group of America, Incorporated
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000.00/yr - CA$180,000.00/yr
+- 💰 **Salary:** $107,060.00 - $144,820.00
 - 🕒 **Posted:** 2026-10-28
 
-### [Director, Digital Safety](https://www.linkedin.com/jobs/view/4484705116/) — Canadian Nuclear Laboratories
-- 📍 **Location:** Chalk River, Ontario, Canada
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4483896704/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-10-28
