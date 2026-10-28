@@ -12,6 +12,10 @@
       43.6895499,
       -79.5870297
     ],
+    "10 peel centre drive, brampton, canada": [
+      43.7195411,
+      -79.7219291
+    ],
     "100 adelaide st w, toronto - 100 adelaide st w, on, canada": null,
     "100 adelaide st w, toronto, on, canada": [
       43.649652,
@@ -211,6 +215,10 @@
       -73.5587317
     ],
     "can |  -friendly, ab, canada": null,
+    "chalk river, on, canada": [
+      46.064161,
+      -77.5665566
+    ],
     "charlo, nb, canada": [
       47.9944898,
       -66.3055996
@@ -486,10 +494,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "10 peel centre drive, brampton, canada": [
-      43.7195411,
-      -79.7219291
     ]
   },
   "research": {}
