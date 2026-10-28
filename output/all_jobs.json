@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 07:38 UTC",
+  "updated_at": "2026-10-28 08:06 UTC",
   "jobs": [
     {
       "company": "AGCO Corporation",
@@ -16943,7 +16943,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -28335,7 +28335,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4484424670/"
+      ]
     },
     {
       "company": "Scotiabank",
@@ -44782,31 +44785,6 @@
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
       "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "XTronica",
-      "title": "Chief Technology Officer",
-      "location": "Burnaby, British Columbia, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4470834624/",
-      "date_posted": "2026-09-28",
-      "salary": "$100,000.00/yr - CA$150,000.00/yr",
-      "ats": "LinkedIn",
-      "description": "POSITION OVERVIEW\n\nReporting directly to the CEO, the CTO will lead the company’s technology strategy, engineering organization, product development, and adoption of engineering automation and applied AI. The role combines executive technology leadership with strong hands-on engineering judgement across software, embedded systems, electronics and hardware/software integration. The CTO will establish the company’s technical architecture and roadmap, maintain a sustainable engineering foundation and technology capability, lead complex international programs, and support demanding customers and manufacturing activities.\n\nKEY RESPONSIBILITIES\n\nDefine and maintain the company’s technology architecture, product roadmap and engineering priorities with the CEO; lead technology-selection decisions, establish technical standards, prepare engineering resource and budget plans, and manage approved resources within delegated authority.\nLead and develop the existing engineering organization, including recruitment as required, technical ownership, people development, performance management and resource allocation; maintain a scalable technical foundation and organizational capability to support current products and future growth.\nLead complex software, electronics and embedded-product programs across distributed and cross-functional teams, covering product definition, feasibility, architecture, development, integration, validation, release, manufacturing support and lifecycle maintenance.\nProvide technical leadership for embedded and hardware/software co-development, including STM32 and comparable MCUs, FPGA-based systems, ARM/SoC platforms, board-level design and integration, component and peripheral selection, low-level software, device drivers/HAL, system bring-up, debugging and production issue resolution.\nLead sustained technical engagement with Mandarin-speaking customers, manufacturing operations and engineering partners, including requirements analysis, design reviews, tailored solution development, factory and system integration, project coordination, technical escalation and major issue resolution.\nLead engineering automation and applied-AI initiatives that improve development efficiency, quality and product value, including evaluation and integration of modern AI/agent technologies with appropriate validation, security, reliability controls and human oversight.\nEstablish project-management, development-process, quality-control and technical-risk practices appropriate for complex commercial products; monitor delivery commitments and report progress, significant risks, resource requirements and technology investment needs to the CEO.\nParticipate in international customer, partner, factory and project-site activities as required, including technical assessment, integration, project delivery and support.\n\nREQUIRED QUALIFICATIONS\n\nA master’s degree in Electrical or Electronic Engineering, Computer Engineering, Computer Science, Automation, Artificial Intelligence, or a closely related engineering or technical discipline.\nAt least 15 years of technology and product-development experience in software, embedded systems, semiconductors, intelligent systems, industrial technology, automotive electronics, mobile platforms or related fields, including substantial responsibility in large-scale, cross-functional and internationally distributed R&D environments.\nAt least 6 years of technology-management experience with responsibility for multidisciplinary engineering teams. Demonstrated experience building or substantially scaling an engineering organization and establishing effective technical ownership, people-development, accountability and resource-management mechanisms.\nA sustained record of leading large and technically complex programs across countries, time zones and engineering disciplines, with responsibility for architecture, delivery, quality and technical risk.\nStrong embedded and systems-engineering background, including Linux, processor/SoC/MCU platforms, hardware/software integration, low-level interfaces, device drivers/HAL and system debugging; ability to lead architecture reviews and make sound trade-offs across performance, reliability, cost and maintainability.\nExperience delivering and supporting demanding international customer programs, translating complex requirements into practical and customized technical solutions, and leading major technical issue resolution; strong understanding of mature project-management, development-process, quality-control and release practices.\nPractical experience applying modern AI-assisted development and/or agent technologies to real engineering or product-development workflows, including integration, validation, effectiveness assessment and appropriate human oversight.\nAdvanced professional English sufficient to independently lead international technical and business meetings, architecture and solution discussions, customer coordination and professional documentation; approximately CEFR C1 level or equivalent.\nProfessional working proficiency in Mandarin sufficient to independently conduct technical requirements discussions, design reviews, project coordination, factory/system integration, technical escalation and complex issue resolution with Mandarin-speaking customers, manufacturing operations and engineering partners.\n\nPREFERRED QUALIFICATIONS\n\nInterdisciplinary expertise combining electrical/electronic engineering with intelligent systems, automation, computing or AI.\nBroad hands-on embedded/software experience involving ARM platforms, STM32 or comparable MCUs, FPGA-based systems, board/peripheral integration, JTAG/SWD, TRACE32 or comparable professional embedded-debug environments, together with experience integrating and maintaining open-source or third-party software in commercial products.\nExperience in automotive electronics, mobile computing, semiconductor platforms, industrial/manufacturing systems or marine-related technologies; multimedia, audio/video, DSP or graphics expertise is an advantage.\nAdvanced AI engineering experience involving coding agents, engineering toolchain/workflow integration, reliability and security controls, performance optimization and organization-wide adoption.\nEngineering-management experience in a large international technology company, with exposure to mature global project-management, quality-control and customer-delivery practices.\n\nHOW TO APPLY\n\nSubmit your résumé to： jessicaqu@xtronica.net\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nAppliances, Electrical, and Electronics Manufacturing and Manufacturing",
-      "first_seen": "2026-09-28T07:41:54Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "Burnaby",
-      "geo_province": "BC",
-      "geo_lat": 49.2488,
-      "geo_lon": -122.9805,
-      "geo_distance_km": 3345.6,
-      "geo_rank": 433456,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
