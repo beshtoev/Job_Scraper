@@ -1,18 +1,16 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-28 20:04 UTC*
+*Last updated: 2026-10-28 23:09 UTC*
 
-**4 new role(s)** since last run · 237 total in current portal openings
+**4 new role(s)** since last run · 236 total in current portal openings
 
-### [Managing Director - Cybersecurity & Core Technology Audit](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Managing-Director---Cybersecurity---Core-Technology-Audit_R260027832-1) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-10-28
-
-### [Senior Director, Data Architecture & Engineering](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--Data-Architecture_R-0000191160) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-10-28
-
-### [VP, Operations & Transformation](https://builtintoronto.com/job/vp-operations-transformation/11939106) — Big Viking Games
+### [Director, GH&B AI-Ready Data Foundation & Governance](https://builtintoronto.com/job/director-gh-b-ai-ready-data-foundation-governance/11941385) — Pfizer
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Head of Finance, Canada](https://builtintoronto.com/job/accounting-and-regulatory-reporting-manager-canada/9670618) — Coinbase
+### [Director, Partnerships Strategy & Corporate Development](https://builtintoronto.com/job/director-partnerships-strategy-corporate-development/11943650) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Senior Transformation Director](https://builtintoronto.com/job/senior-transformation-director/11940762) — D2L
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [VP Enterprise Technology,  Finance, Legal, & Risk](https://builtintoronto.com/job/vp-enterprise-technology-finance-legal-risk/11232068) — Mars
 - 📍 **Location:** Toronto, Ontario, Canada
