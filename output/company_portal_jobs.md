@@ -1,6 +1,8 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-28 01:12 UTC*
+*Last updated: 2026-10-28 04:12 UTC*
 
-**0 new role(s)** since last run · 238 total in current portal openings
+**1 new role(s)** since last run · 237 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Director, Financial Crimes Risk Assessment](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Financial-Crimes-Risk-Assessment_R-0000184783-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-10-26
