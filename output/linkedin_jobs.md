@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-28 12:37 UTC*
+*Last updated: 2026-10-28 13:01 UTC*
 
-**0 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 5 total in last 1h
 
-No new roles since the last run.
+### [Consulting Director, Financial Reporting (Workiva)](https://www.linkedin.com/jobs/view/4467905373/) — Clearsulting
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $185,000-$246,000
+- 🕒 **Posted:** 2026-10-28
