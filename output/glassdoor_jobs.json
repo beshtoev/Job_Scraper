@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-28 00:07 UTC",
+  "scraped_at": "2026-10-28 00:49 UTC",
   "total": 16,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Green Shield",
@@ -421,58 +421,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "GFL Environmental",
-      "title": "Director of Pricing and Business Analytics",
-      "location": "Vaughan, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010308408245",
-      "date_posted": "2026-10-27",
-      "description": "Bachelor’s degree in Engineering, Finance, Economics, Statistics, or Computer Science required; Master’s degree in a quantitative field highly preferred.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Vaughan",
-      "geo_province": "ON",
-      "geo_lat": 43.8372,
-      "geo_lon": -79.5083,
-      "geo_distance_km": 17.0,
-      "geo_rank": 100170,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "TD Bank",
-      "title": "Vice President, Global Core Trade Finance, TD Securities, Global Transaction Banking",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010307168335",
-      "date_posted": "2026-10-26",
-      "description": "Strong knowledge and practical expertise across traditional trade finance products such as standby letters of credit, bank guarantees, and documentary letters…",
-      "salary": "$150k–$160k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
