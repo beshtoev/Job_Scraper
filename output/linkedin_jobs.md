@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-28 21:47 UTC*
+*Last updated: 2026-10-28 22:12 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4484724828/) — Cressey Development Group
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$160,000.00/yr
+### [Director, Finance Data Strategy & Stewardship](https://www.linkedin.com/jobs/view/4484746079/) — Salesforce Partner Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-28
+
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4484729815/) — WinePOS by Innovative Computer Solutions
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-10-28
