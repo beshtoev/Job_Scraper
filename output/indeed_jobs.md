@@ -1,9 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-27 22:59 UTC*
+*Last updated: 2026-10-28 01:14 UTC*
 
 **1 new role(s)** since last run · 10 total in last 24h
 
-### [Director, Enterprise Risk Management](https://ca.indeed.com/viewjob?jk=52ea8901bde54cea) — goeasy
-- 📍 **Location:** Mississauga, ON, CA
+### [Director of Pricing and Business Analytics](https://ca.indeed.com/viewjob?jk=b4c73bdffea10f52) — GFL Environmental
+- 📍 **Location:** Vaughan, ON, CA
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-26
+- 🕒 **Posted:** 2026-10-27
