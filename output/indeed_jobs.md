@@ -1,28 +1,30 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-28 15:49 UTC*
+*Last updated: 2026-10-28 18:17 UTC*
 
-**4 new role(s)** since last run · 15 total in last 24h
+**5 new role(s)** since last run · 16 total in last 24h
 
-### [Capital Projects and Infrastructure, Infrastructure Project Finance, Director](https://ca.indeed.com/viewjob?jk=75d595a80e2b0c94) — PwC Canada
+### [PLM/MES Business Transformation Director](https://ca.indeed.com/viewjob?jk=640f154f892c826b) — MDA
+- 📍 **Location:** Brampton, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Vice President, Capital Markets, Investments & Project Finance - DG Solar Company](https://ca.indeed.com/viewjob?jk=c7022c0812695c8b) — J&T Business Consulting
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Vice President, Capital Markets Project Finance - DG Solar Company](https://ca.indeed.com/viewjob?jk=671c1f81c12bf65d) — J&T Business Consulting
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-28
+
+### [Senior Director, Mid-Market Leveraged Finance](https://ca.indeed.com/viewjob?jk=f6b3b8ebd16285e9) — RBC
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [Executive Assistant, Chief Technology, Data & AI Officer](https://ca.indeed.com/viewjob?jk=38b77cd9aa8560a4) — HOOPP
-- 📍 **Location:** Toronto, ON, CA
+### [Senior Transformation Director](https://ca.indeed.com/viewjob?jk=3d25e3d6ad3d389f) — D2L
+- 📍 **Location:** Kitchener, ON, CA
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-27
-
-### [VP, Operations & Transformation](https://ca.indeed.com/viewjob?jk=e55b7f67a98c6ea0) — Big Viking Games
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-28
-
-### [Director, Digital Safety](https://ca.indeed.com/viewjob?jk=4702dfd17586aefd) — Canadian Nuclear Laboratories
-- 📍 **Location:** Chalk River, ON, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
