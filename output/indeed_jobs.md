@@ -1,9 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 02:31 UTC*
+*Last updated: 2026-10-29 04:38 UTC*
 
-**1 new role(s)** since last run · 17 total in last 24h
+**2 new role(s)** since last run · 17 total in last 24h
 
-### [Director & Head, Global Capital Markets (GCM) Product, GCM Transformation - Toronto, ON](https://ca.indeed.com/viewjob?jk=4d14ba545ed40ae1) — Scotiabank
+### [Director, Marketing Strategy and Business Management](https://ca.indeed.com/viewjob?jk=8f26f13030ad00ae) — Manulife
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-28
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
+
+### [Director, Partnerships Strategy & Corporate Development](https://ca.indeed.com/viewjob?jk=73c4c2ada55c418f) — Manulife
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-27
