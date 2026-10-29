@@ -1,13 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 17:01 UTC*
+*Last updated: 2026-10-29 17:26 UTC*
 
-**2 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 7 total in last 1h
 
-### [Director, Engineering and Procurement, AI Fabric](https://www.linkedin.com/jobs/view/4468262175/) — Bell
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-10-29
-
-### [Chief Financial Officer and Vice President of Information Management and Information Technology](https://www.linkedin.com/jobs/view/4467799546/) — First Nations Health Authority
-- 📍 **Location:** Metro Vancouver A, British Columbia, Canada
-- 💰 **Salary:** $226,000- $282,000 per year
+### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4484995511/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
 - 🕒 **Posted:** 2026-10-29
