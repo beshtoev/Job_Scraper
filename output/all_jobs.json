@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-29 20:18 UTC",
+  "updated_at": "2026-10-29 20:28 UTC",
   "jobs": [
+    {
+      "company": "IFDS Group",
+      "title": "Director - Governance & Client Account Management",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010310707251",
+      "date_posted": "2026-10-29",
+      "description": "Oversees and provides the team guidance and direction with new opportunities with the development and discussion of operational enhancements to improve the…",
+      "salary": "$126k–$159k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-29T20:28:34Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Conexus Credit Union",
+      "title": "Director, Dealer Finance Operations",
+      "location": "Regina, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010310702880",
+      "date_posted": "2026-10-29",
+      "description": "Supporting the development, implementation, and enhancement of dealer finance programs and products. As Director you will play a key role in operationalizing…",
+      "salary": "$101k–$145k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-29T20:28:34Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (SK)",
+      "geo_city": "Regina",
+      "geo_province": "SK",
+      "geo_lat": 50.4452,
+      "geo_lon": -104.6189,
+      "geo_distance_km": 2039.4,
+      "geo_rank": 420394,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Deloitte",
       "title": "Director, Financial Crime",
@@ -43549,6 +43603,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1503
+  ]
 }
