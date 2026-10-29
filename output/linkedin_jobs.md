@@ -1,8 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 00:05 UTC*
+*Last updated: 2026-10-29 00:49 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Engineering and Procurement, AI Fabric](https://www.linkedin.com/jobs/view/4468262175/) — Bell
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-10-28
+### [Quality - Standards and Governance Leader](https://www.linkedin.com/jobs/view/4484760969/) — GE Vernova
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-10-29
+
+### [Quality - Standards and Governance Leader](https://www.linkedin.com/jobs/view/4484770526/) — GE Vernova
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-10-29
+
+### [Quality - Standards and Governance Leader](https://www.linkedin.com/jobs/view/4484769545/) — GE Vernova
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-10-29
