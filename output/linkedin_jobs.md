@@ -1,22 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 13:23 UTC*
+*Last updated: 2026-10-29 14:23 UTC*
 
-**4 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Senior Director, Product - Threat Intelligence & Detections](https://www.linkedin.com/jobs/view/4466578766/) — Arctic Wolf
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-29
-
-### [VP, AI/Multitech](https://www.linkedin.com/jobs/view/4475465306/) — Appficiency Inc.
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $220k–$250k/yr
-- 🕒 **Posted:** 2026-10-29
-
-### [VP Consulting Services, Banking & Financial Services](https://www.linkedin.com/jobs/view/4436459762/) — CGI
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-10-29
-
-### [Global Treasury and Finance Audit, AVP](https://www.linkedin.com/jobs/view/4481728753/) — State Street
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $80,000 - $140,000
+### [Director of Financial Reporting](https://www.linkedin.com/jobs/view/4481119393/) — Vaco by Highspring
+- 📍 **Location:** North York, Ontario, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
 - 🕒 **Posted:** 2026-10-29
