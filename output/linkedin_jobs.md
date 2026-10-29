@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 14:23 UTC*
+*Last updated: 2026-10-29 15:11 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Director of Financial Reporting](https://www.linkedin.com/jobs/view/4481119393/) — Vaco by Highspring
-- 📍 **Location:** North York, Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
+### [Senior Director, Finance Transformation-EN](https://www.linkedin.com/jobs/view/4456528399/) — CAE
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-29
+
+### [Director, Strategy and Audit Operations](https://www.linkedin.com/jobs/view/4458521744/) — Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $ 164092.90 to $ 205116.13
 - 🕒 **Posted:** 2026-10-29
