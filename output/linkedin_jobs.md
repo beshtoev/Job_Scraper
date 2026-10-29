@@ -1,17 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 16:17 UTC*
+*Last updated: 2026-10-29 17:01 UTC*
 
-**3 new role(s)** since last run · 7 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Associate Director, Market Access & Reimbursement Strategy Speciality Portfolio](https://www.linkedin.com/jobs/view/4476981421/) — Eli Lilly and Company
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $124,500 - $182,600
-- 🕒 **Posted:** 2026-10-29
-
-### [Director, Data Centres and New Large Loads - Power Market](https://www.linkedin.com/jobs/view/4476904977/) — BBA Consultants
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-10-29
-
-### [Program Director, Bell AI Fabric](https://www.linkedin.com/jobs/view/4467922003/) — Bell
+### [Director, Engineering and Procurement, AI Fabric](https://www.linkedin.com/jobs/view/4468262175/) — Bell
 - 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-10-29
+
+### [Chief Financial Officer and Vice President of Information Management and Information Technology](https://www.linkedin.com/jobs/view/4467799546/) — First Nations Health Authority
+- 📍 **Location:** Metro Vancouver A, British Columbia, Canada
+- 💰 **Salary:** $226,000- $282,000 per year
 - 🕒 **Posted:** 2026-10-29
