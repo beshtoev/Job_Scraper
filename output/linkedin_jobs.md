@@ -1,13 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 15:56 UTC*
+*Last updated: 2026-10-29 16:17 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 7 total in last 1h
 
-### [Leader Amélioration de la Donnée / Data Improvement Lead](https://www.linkedin.com/jobs/view/4438816526/) — Airbus
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Associate Director, Market Access & Reimbursement Strategy Speciality Portfolio](https://www.linkedin.com/jobs/view/4476981421/) — Eli Lilly and Company
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $124,500 - $182,600
 - 🕒 **Posted:** 2026-10-29
 
-### [Director of Finance and Administration](https://www.linkedin.com/jobs/view/4481974173/) — Scout Talent
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
+### [Director, Data Centres and New Large Loads - Power Market](https://www.linkedin.com/jobs/view/4476904977/) — BBA Consultants
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-29
+
+### [Program Director, Bell AI Fabric](https://www.linkedin.com/jobs/view/4467922003/) — Bell
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-10-29
