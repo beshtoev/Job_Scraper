@@ -1,18 +1,14 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 18:17 UTC*
+*Last updated: 2026-10-29 19:28 UTC*
 
-**3 new role(s)** since last run · 61 total in last 24h
+**2 new role(s)** since last run · 57 total in last 24h
 
-### [Senior Director AI and Operations Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010308205601) — National Bank of Canada
-- 📍 **Location:** Montreal, Canada
-- 🕒 **Posted:** 2026-10-28
+### [Senior Director, Software Engineering - Contract Intelligence](https://www.glassdoor.ca/job-listing/j?jl=1010310644288) — Agiloft
+- 📍 **Location:** Remote, Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-29
 
-### [Senior Vice President, Capital Markets, Investments & Project Finance - DG Solar Company](https://www.glassdoor.ca/job-listing/j?jl=1010308700598) — J&T Business Consulting
+### [Director, Financial Crime](https://www.glassdoor.ca/job-listing/j?jl=1010310636115) — Deloitte
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $240k–$260k/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [Director, Pharmacy Experience and Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010310595905) — Shoppers Drug Mart / Pharmaprix
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $128k–$176k/yr
+- 💰 **Salary:** $157k–$293k/yr
 - 🕒 **Posted:** 2026-10-29
