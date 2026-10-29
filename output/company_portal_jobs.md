@@ -1,16 +1,20 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-28 23:09 UTC*
+*Last updated: 2026-10-29 02:10 UTC*
 
-**4 new role(s)** since last run · 236 total in current portal openings
+**5 new role(s)** since last run · 232 total in current portal openings
 
-### [Director, GH&B AI-Ready Data Foundation & Governance](https://builtintoronto.com/job/director-gh-b-ai-ready-data-foundation-governance/11941385) — Pfizer
+### [Senior Credit Officer, Director - Financial Institutions](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Credit-Officer--Director---Financial-Institutions_R260027658) — BMO
+- 📍 **Location:** Toronto, ON, CAN
+- 🕒 **Posted:** 2026-10-28
+
+### [Director, Marketing Strategy and Business Management](https://builtintoronto.com/job/director-marketing-strategy-and-business-management/11951676) — Manulife
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Partnerships Strategy & Corporate Development](https://builtintoronto.com/job/director-partnerships-strategy-corporate-development/11943650) — Manulife
+### [Vice President, Portfolio Analytics](https://builtintoronto.com/job/vice-president-portfolio-analytics/11952329) — The Citco Group Limited
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Transformation Director](https://builtintoronto.com/job/senior-transformation-director/11940762) — D2L
+### [Vice President, Client Experience Platform (Hedge Funds)](https://builtintoronto.com/job/vice-president-client-experience-platform-hedge-funds/11952085) — The Citco Group Limited
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [VP Enterprise Technology,  Finance, Legal, & Risk](https://builtintoronto.com/job/vp-enterprise-technology-finance-legal-risk/11232068) — Mars
+### [Head, Strategy & Performance NA](https://builtintoronto.com/job/head-strategy-performance-na/11406596) — Mars
 - 📍 **Location:** Toronto, Ontario, Canada
