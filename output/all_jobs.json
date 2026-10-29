@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 03:20 UTC",
+  "updated_at": "2026-10-29 03:38 UTC",
   "jobs": [
     {
       "company": "サイネオス・ヘルス",
@@ -18571,7 +18571,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -44611,6 +44611,5 @@
         "https://www.glassdoor.ca/job-listing/j?jl=1010277122440"
       ]
     }
-  ],
-  "total": 1542
+  ]
 }
