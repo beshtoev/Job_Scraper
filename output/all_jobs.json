@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-29 17:50 UTC",
+  "updated_at": "2026-10-29 18:06 UTC",
   "jobs": [
+    {
+      "company": "Ignite Technical Resources",
+      "title": "Director of Applications, Data & Integration",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4485202474/",
+      "date_posted": "2026-10-29",
+      "salary": "$180,000.00/yr - CA$200,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "On behalf of our Professional Services Client, Ignite Technical Resources is recruiting for a Director, Applications & Data Engineering: AI & Integration\nto join our Client’s team on a full-time permanent basis. This role is Hybrid\nand the Client is based in Vancouver, BC.\n\nSummary of the Role\n\nThe Director, Applications & Data Engineering will lead enterprise application architecture, software engineering, data management, and integration capabilities. This role focuses on modernizing application development through AI-assisted engineering, DevOps, automation, and secure development practices.\n\nResponsibilities include establishing enterprise integration standards, advancing data engineering and analytics, overseeing Microsoft Dynamics 365 initiatives, and developing technical capabilities that support digital transformation, operational efficiency, and scalable technology delivery.\n\nDuties & Responsibilities\n\nLead enterprise application architecture, software engineering, integration, data engineering, and analytics functions.\nEstablish application development standards, architecture frameworks, and application lifecycle management practices.\nImplement DevOps capabilities, including CI/CD pipelines, automated testing, source control, code reviews, and release management.\nDrive adoption of AI-assisted development tools to improve engineering productivity, software quality, and delivery efficiency.\nDefine integration architecture, API standards, and secure system-to-system data exchange practices.\nProvide technical oversight for Microsoft Dynamics 365 Project Operations implementations, integrations, and platform enhancements.\nDevelop enterprise data architecture, data engineering pipelines, data quality standards, and governance controls.\nEstablish scalable reporting, analytics, and business intelligence capabilities.\nEmbed security-by-design, application monitoring, access controls, and data protection into engineering practices.\nManage multidisciplinary technical teams, implementation partners, and third-party development resources.\nEstablish engineering performance measures and continuously improve development processes and technical capabilities.\n\nCore Requirements\n\nProgressive technology leadership experience across enterprise applications, software engineering, systems integration, and data engineering.\nDemonstrated experience establishing or maturing software engineering, DevOps, CI/CD, automated testing, and application lifecycle management practices.\nStrong technical experience with enterprise application architecture, APIs, cloud platforms, integration patterns, and secure software development.\nExperience implementing AI-assisted development tools, automation, and modern engineering practices to improve software delivery and productivity.\nExperience overseeing data architecture, data engineering, analytics, and multidisciplinary technical teams, including external implementation partners.\n\nDesired Skills & Experience\n\nExperience with Microsoft Dynamics 365, particularly Dynamics 365 Project Operations, and enterprise Microsoft technology platforms.\nKnowledge of enterprise data management, master data, data quality, lineage, governance, and business intelligence technologies.\nExperience designing and implementing secure, scalable integration architectures, APIs, and enterprise application interfaces.\nExperience with AI-assisted coding tools, automated quality assurance, DevSecOps, and cloud-native application development.\nExperience establishing engineering standards, application security controls, performance monitoring, and enterprise technology modernization practices.\n\nTerms\n\nThis is a full-time permanent opportunity based in Vancouver, BC, with a hybrid work arrangement requiring 2 days per week onsite. The position includes RRSP matching of up to 3%, extended medical and dental coverage, and long-term and short-term disability benefits through a cost-shared program. A discretionary annual bonus of up to 10% is also available. Standard pre-employment and offer requirements may apply.\n\nAbout Ignite Technical:\nBased in Vancouver and proudly Canadian, Ignite Technical Resources has been providing Top Technical Talent to organizations across Canada since 2005.\n\nEqual Opportunity Employer\n: Ignite Technical is an equal opportunity employer and is committed to providing equal employment opportunities to all individuals regardless of race, color, religion, sex, sexual orientation, disability, gender identity, national origin, or age.\n\nWork Permits:\nPlease note that Ignite’s Clients require all interested candidates to obtain the necessary work permits from the Government of Canada prior to submitting an application. This position is open exclusively to individuals residing in Canada and legally authorized to work in Canada. Applications not meeting these criteria will not be considered.\n\nFurther Consideration:\nWe receive a high volume of applications and are only able to contact candidates who are selected for further consideration.\n\nFollow Us\n: Check us out on LinkedIn and follow us on Twitter and Threads for company updates and job postings!\n\nIgnite. Wired for People.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "first_seen": "2026-10-29T18:06:49Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Quadient",
       "title": "Director of Product & Strategy, CXM Flex",
@@ -1651,7 +1676,8 @@
       "salary": "$127k–$169k/yr",
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=bec6c0fc90a4b38d",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010309595989"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010309595989",
+        "https://www.linkedin.com/jobs/view/4485205811/"
       ],
       "work_arrangement": "On-site"
     },
@@ -9806,7 +9832,8 @@
       "archetype": "B",
       "first_seen": "2026-10-22T14:45:19Z",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/vice-president-data-scientist/9254365"
+        "https://builtintoronto.com/job/vice-president-data-scientist/9254365",
+        "https://www.linkedin.com/jobs/view/4410772770/"
       ],
       "work_mode": "",
       "work_mode_evidence": "",
@@ -9821,7 +9848,8 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "100 King Street West",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$120,000-$150,000"
     },
     {
       "company": "Bounteous",
@@ -40656,7 +40684,8 @@
         "https://www.linkedin.com/jobs/view/4482130330/",
         "https://www.linkedin.com/jobs/view/4483196517/",
         "https://www.linkedin.com/jobs/view/4483709147/",
-        "https://www.linkedin.com/jobs/view/4484204354/"
+        "https://www.linkedin.com/jobs/view/4484204354/",
+        "https://www.linkedin.com/jobs/view/4484994875/"
       ]
     },
     {
