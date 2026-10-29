@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-29 00:57 UTC",
+  "scraped_at": "2026-10-29 02:12 UTC",
   "total": 55,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Green Shield",
@@ -1434,58 +1434,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "British Columbia Investment Management Corporation (BCI)",
-      "title": "Vice President, Technology Operations",
-      "location": "Vancouver, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010309715561",
-      "date_posted": "2026-10-29",
-      "description": "We aim for actual pay to be around the median of the market for target or expected levels of performance, and around the upper quartile of the market for…",
-      "salary": "$190k–$240k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "Vancouver",
-      "geo_province": "BC",
-      "geo_lat": 49.2827,
-      "geo_lon": -123.1207,
-      "geo_distance_km": 3355.3,
-      "geo_rank": 433553,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Highbridge Human Capital",
-      "title": "Director of Strategy and Partnerships",
-      "location": "Ottawa, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010309699468",
-      "date_posted": "2026-10-29",
-      "description": "Reporting to the Chief Strategy Officer, the position will provide strategic and operational leadership across strategic planning, risk management, partnership…",
-      "salary": "$143k–$153k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "Ottawa",
-      "geo_province": "ON",
-      "geo_lat": 45.4215,
-      "geo_lon": -75.6972,
-      "geo_distance_km": 349.5,
-      "geo_rank": 203495,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
