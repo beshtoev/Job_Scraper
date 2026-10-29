@@ -1,18 +1,19 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-29 17:49 UTC*
+*Last updated: 2026-10-29 20:52 UTC*
 
-**4 new role(s)** since last run · 227 total in current portal openings
+**4 new role(s)** since last run · 226 total in current portal openings
 
-### [AI Product Scaling Director](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/AI-Product-Scaling-Director_2620358) — CIBC
-- 📍 **Location:** Toronto, ON
+### [AVP, AI](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/AVP--AI_JR26060736) — Manulife
+- 📍 **Location:** Toronto, Ontario
 - 🕒 **Posted:** 2026-10-29
 
-### [Executive Assistant, Chief Technology, Data & AI Officer](https://hoopp.wd10.myworkdayjobs.com/en-US/HOOPP/job/Toronto-Ontario-Canada/Executive-Assistant--Chief-Technology--Data---AI-Officer_JR102620) — HOOPP
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Associate Vice President, Wealth Advice, Analytics, Insights & Artificial Intelligence](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Vice-President--Wealth-Advice--Analytics--Insights---Artificial-Intelligence_R_1493746-1) — TD
+- 📍 **Location:** Toronto, Ontario
 - 🕒 **Posted:** 2026-10-29
 
-### [Director of Product & Strategy, CXM Flex](https://builtintoronto.com/job/director-product-strategy-cxm-flex/11966559) — Quadient
-- 📍 **Location:** Toronto, Ontario, Canada
+### [VP,  Advanced Client Analytics](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/VP---Client-Experience--Advanced-Insights-and-Value_R_1503928-1) — TD
+- 📍 **Location:** Toronto, Ontario
+- 🕒 **Posted:** 2026-10-29
 
-### [AI Product Scaling Director](https://builtintoronto.com/job/ai-product-scaling-director/11503060) — CIBC
+### [Associate Vice President, Wealth Advice, Analytics, Insights & Artificial Intelligence](https://builtintoronto.com/job/associate-vice-president-wealth-advice-analytics-insights-artificial-intelligence/11971045) — TD Bank
 - 📍 **Location:** Toronto, Ontario, Canada
