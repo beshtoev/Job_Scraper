@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-30 20:18 UTC",
+  "updated_at": "2026-10-30 20:39 UTC",
   "jobs": [
+    {
+      "company": "Clario",
+      "title": "Associate Director, Data Engineering & Analytics",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4485612371/",
+      "date_posted": "2026-10-30",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Clario's data platforms power the clinical trial data our customers rely on. As Associate Director, Data Engineering & Analytics, you'll lead the global team responsible for building, operating, and modernizing our enterprise data platforms. You'll ensure production reliability, drive engineering excellence, and support modernization aligned with Clario's NxT.Lumen strategy while working closely with Product, Architecture, Data Governance, Quality, and customer-facing teams.\n\nWhat You'll Do\n\nLead enterprise data engineering, integration, warehouse, analytics engineering, and API services.\nOwn end-to-end engineering delivery, including development, testing, validation, deployment, and production support.\nSet technical direction and engineering standards with Architecture and Data & Analytics leadership.\nModernize legacy platforms, reduce technical debt, and drive migration and retirement plans aligned with NxT.Lumen.\nEnsure production reliability through monitoring, SLAs, incident management, root-cause analysis, and continuous improvement.\nLead technical responses to critical production and customer-impacting issues.\nEstablish standards for data modeling, CI/CD, automated testing, release management, observability, and documentation.\nPartner with Data Quality on testing, reconciliation, and release readiness.\nEnsure compliance with Clario SOPs, SDLC, validation requirements, and audit remediation.\nImplement data governance, lineage, MDM, and security standards with Data Governance.\nTranslate product roadmaps and customer needs into scalable engineering solutions.\nOwn budgets, resource plans, delivery commitments, vendors, and global delivery capacity.\nTrack delivery, reliability, and quality metrics while proactively managing risks.\nBuild and develop a high-performing global team with clear ownership and knowledge transfer.\nRepresent the team in architecture, customer, and executive forums.\n\nWhat You'll Bring\n\n10+ years in enterprise data engineering, software engineering, integration, or data warehousing.\n5+ years leading engineering teams, including distributed or global teams.\nStrong technical experience with Databricks, Snowflake, AWS, Talend, Airflow, Python, SQL, APIs, and ETL/ELT.\nExperience managing end-to-end engineering delivery, enterprise production platforms, and legacy modernization.\nExperience establishing CI/CD, automated testing, release management, and engineering standards.\nExperience managing technical roadmaps, budgets, resources, and vendors.\nWorking knowledge of data privacy, security, and technology risk.\nExperience with regulated SDLC, computer-system validation (CSV), SOPs, and audit readiness.\nSAFe or scaled-agile experience.\nAI-enabled engineering and automation experience.\nBachelor's degree in Computer Science, Engineering, or a related field, or equivalent experience.\n\nNice to Have\n\nLife sciences, clinical research, pharma, CRO, or healthcare experience.\nKnowledge of clinical data transfer and integration standards.\nDatabricks Lakehouse/Unity Catalog and modern DataOps experience.\nLegacy data warehouse and ETL modernization experience.\nCustomer-facing SaaS experience.\n\nAt Clario, a part of Thermo Fisher Scientific, a part of Thermo Fisher Scientific, our purpose is to transform lives by unlocking better evidence. It’s a cause that unites and inspires us. It’s why we come to work—and how we empower our people to make a positive impact every day. Whether you're advancing clinical science, building innovative technology, or supporting our global teams, your work helps bring life-changing therapies to patients faster.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBiotechnology Research",
+      "first_seen": "2026-10-30T20:39:43Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "CPA Western School of Business",
       "title": "Director, Education Technology",
