@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-30 02:00 UTC",
+  "updated_at": "2026-10-30 02:25 UTC",
   "jobs": [
+    {
+      "company": "Altis",
+      "title": "Director of Finance",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4484593726/",
+      "date_posted": "2026-10-30",
+      "salary": "$130,000.00/yr - CA$155,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Director of Finance\n\nLocation:\nToronto, Ontario -onsite\nLanguage:\nStrong written and spoken English communication skills required\nEmployment Type:\nPermanent, Full-Time\n\nAbout the Opportunity\n\nAre you a strategic finance leader who wants to make a meaningful impact? Our client, a well-established organization in the long-term care and non-profit sector, is seeking a Director of Finance\nto join its Senior Leadership Team. This is an opportunity to shape financial strategy while supporting quality care and services for seniors.\n\nReporting to the CEO, you'll oversee financial operations, guide organizational planning, and collaborate with leadership, employees, and the Board of Directors. Your expertise will help strengthen financial sustainability and support a workplace where people come first.\n\nWhat's in it for You\n\nA purpose-driven environment where your work supports community well-being.\nA collaborative leadership team that values thoughtful decision-making.\nOpportunities to influence financial strategy and organizational growth.\nExposure to finance, human resources, governance, and long-term care operations.\n\nYour Responsibilities\n\nYou'll lead financial operations, ensuring accurate reporting, strong financial controls, and regulatory compliance.\nYou'll oversee payroll, benefits, and financial administration for unionized and non-unionized employees.\nYou'll collaborate with the CEO, Board, and departmental leaders on budgeting, forecasting, audits, and financial planning.\nYou'll manage government funding requirements, charitable compliance, and financial reporting.\nYou'll provide oversight of HR administration, WSIB, return-to-work programs, and organizational risk management.\nYou'll enhance financial systems, policies, and processes to support operational efficiency.\n\nSkills and Qualifications\n\n5+ years of progressive financial administration experience, including senior-level responsibilities.\nProfessional accounting designation (CPA or recognized legacy designation).\nStrong knowledge of financial reporting, budgeting, payroll, and regulatory compliance.\nExperience in non-profit, healthcare, long-term care, or government-funded environments preferred.\nFamiliarity with Microsoft Great Plains and QHR payroll systems considered an asset.\nExcellent leadership, communication, relationship-building, and negotiation skills.\n\nNote from the Hiring Manager\n\n\"We're looking for a collaborative financial leader who understands that strong financial decisions help us deliver exceptional care and build a stronger organization.\"\n\nWhy Partner with Altis\n\nIf you’ve never worked with a staffing agency before, we make it easy. We work with top employers across Canada who have great jobs to fill, each vetted and verified by our team. When you apply for a job with Altis, we get to know you as a candidate and learn what your strengths are. Then, if you’re a solid match, we handle all the logistics, advocating for you as a candidate for the role, providing access to coaching and connecting you directly with the hiring manager. And rest assured, all our services are free of cost for candidates.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
+      "first_seen": "2026-10-30T02:25:08Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Uyir Lab",
       "title": "Head of Machine Learning",
@@ -323,7 +348,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4484592757/"
+      ]
     },
     {
       "company": "Trademark Group of Companies",
