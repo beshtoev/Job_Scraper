@@ -1,23 +1,36 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-30 23:05 UTC*
+*Last updated: 2026-10-30 23:37 UTC*
 
-**4 new role(s)** since last run · 9 total in last 1h
+**7 new role(s)** since last run · 15 total in last 1h
 
-### [Director, Information Technology & Enterprise Systems](https://www.linkedin.com/jobs/view/4485629256/) — International Business University
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000 - $150,000 annually
+### [Lead Data Scientist / VP](https://www.linkedin.com/jobs/view/4485100634/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $111,600.00 - $161,600.00
 - 🕒 **Posted:** 2026-10-30
 
-### [Chief Financial and Operating Officer – Casey House](https://www.linkedin.com/jobs/view/4485112473/) — Canadian College of Health Leaders - Northwestern Ontario Chapter
+### [AVP Business Operations - BWI Technology](https://www.linkedin.com/jobs/view/4485637254/) — TD
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $160,000 - $200,000
 - 🕒 **Posted:** 2026-10-30
 
-### [Sales Leader, Enterprise - Americas](https://www.linkedin.com/jobs/view/4485124357/) — Ashby
+### [Lead Data Scientist / VP](https://www.linkedin.com/jobs/view/4485104590/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $111,600.00 - $161,600.00
+- 🕒 **Posted:** 2026-10-30
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4485106615/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-10-30
+
+### [Director, FP&A (Revenue)](https://www.linkedin.com/jobs/view/4485104617/) — Benevity
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-10-30
+
+### [Director, FP&A (Revenue)](https://www.linkedin.com/jobs/view/4485102663/) — Benevity
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $320,000.00/yr - $407,500.00/yr
 - 🕒 **Posted:** 2026-10-30
 
-### [Sales Leader, Enterprise - Americas](https://www.linkedin.com/jobs/view/4485124369/) — Ashby
-- 📍 **Location:** Canada
-- 💰 **Salary:** $320,000.00/yr - $407,500.00/yr
+### [Director, FP&A (Revenue)](https://www.linkedin.com/jobs/view/4485108608/) — Benevity
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $156,800.00/yr - CA$206,750.00/yr
 - 🕒 **Posted:** 2026-10-30
