@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 21:02 UTC",
+  "updated_at": "2026-10-30 21:08 UTC",
   "jobs": [
     {
       "company": "Oakbridge Search Partners",
@@ -343,16 +343,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-30T17:42:01Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Barrie",
       "geo_province": "ON",
       "geo_lat": 44.3894,
       "geo_lon": -79.6903,
       "geo_distance_km": 79.4,
-      "geo_rank": 200794,
+      "geo_rank": 300794,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -20844,7 +20844,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -43336,45 +43336,6 @@
         "https://www.glassdoor.ca/job-listing/j?jl=1010279554834",
         "https://www.glassdoor.ca/job-listing/j?jl=1010279554838"
       ]
-    },
-    {
-      "company": "Northland Power Inc.",
-      "title": "Head of Market Intelligence & Analytics",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://builtintoronto.com/job/head-market-intelligence-analytics/11446071",
-      "direct_url": "https://builtintoronto.com/job/head-market-intelligence-analytics/11446071",
-      "req_id": "",
-      "date_posted": "2026-09-30",
-      "date_seen": "2026-09-30T21:04:06Z",
-      "description": "Who We Are\n\nAt Northland, we’re enablers of change, united by our journey to transform the energy sector into the foundation for a sustainable future.\n\nSince our inception, we’ve been early movers in the energy industry, adopting new initiatives that pave the way for communities across the globe and helping forge their path towards a carbon-neutral landscape.\n\nWe’re a different kind of independent power producer. As developers, owners and operators who are at the forefront of the energy transition, we’re uniquely positioned to leave a lasting impact in the regions where we operate. We’ve expanded our business across Canada, the United States, Latin America, Europe and Asia to become a global leader, all by bringing together industry experts to find solutions with an entrepreneurial mindset.\n\nWhile our work powers communities across the globe, Northland is powered by our people.\n\nWhat You’ll Do\n\nThe Head of Market Intelligence & Analytics is accountable for building and leading Northland’s enterprise market intelligence and analytics capabilities. The role establishes independent, decision-ready views of wholesale power and related commodity markets, translates those views into consistent commercial assumptions, and ensures those insights are applied across strategy, development, M&A, financing, market operations, asset management and portfolio optimization.\n\nEstablish scalable in-house forecasting and modelling capabilities, guide market analysts and technical resources, and determine where external specialists remain appropriate. The successful candidate combines deep electricity-market judgment, strong quantitative fluency, practical model-development oversight and the ability to communicate complex market dynamics to executive and investment audiences.\n\nBuild a global centre of expertise that protects, optimizes and sustainably grows the commercial value of Northland’s contracted and merchant portfolio, while underpinning new development opportunities with rigorous market intelligence, forward curves, fundamental analysis, scenario modelling and asset-level commercial insight. The initial priority is to establish repeatable capabilities for core markets and then scale them across Northland’s broader international portfolio.\n\nThe role is required to work in the Toronto office 4 days per week with one flexible day to work from home.\n\nKey Responsibilities\n\nMarket Intelligence\n\nWorking with the Director of Regulatory & Market Affairs, lead the development of Northland’s wholesale market strategy across relevant jurisdictions, identifying long-term trends, structural opportunities, downside risks and implications for capital allocation.\nDevelop and maintain internal views on supply and demand evolution, market design, natural gas, carbon, capacity, ancillary services, environmental attributes and other material value drivers.\nCreate a consistent market-outlook and assumption-setting process for use across business cases, investment decisions, budgets, forecasts and commercial strategies.\nWorking with the Director of Regulatory & Market Affairs, translate market, policy and regulatory developments into alerts and actionable recommendations for internal stakeholders.\n\nForecasting, Modelling and Analytics\n\nOwn the roadmap and delivery of internal forward curves (short and long term), market-level fundamental models and supporting analytical tools, beginning with priority markets and scaling as business needs and capability mature.\nSet modelling architecture, scenarios, input assumptions and quality standards; provide sufficient technical depth to review, challenge and guide Python-based and commercial-platform model development.\nDevelop scenario and sensitivity analysis covering load growth, generation additions and retirements, fuel and carbon prices, weather, transmission build-out, policy, technology costs, capture rates and operating constraints.\nBuild dashboards and repeatable reporting that make market views, assumptions, risks and forecast changes transparent and accessible to decision-makers.\n\nAsset, Portfolio and Transaction Decision Support\n\nLead market analysis supporting development, acquisitions, divestitures, financing, budgeting and optimization of operating assets, including merchant revenue forecasts and high-level asset valuations.\nProvide dispatch, capture-price, congestion, basis, curtailment, ancillary-service and other commercial analyses appropriate to each market, technology and contract structure.\nSupport hedging decisions, PPA and offtake strategy, competitive bid and RFP analysis, route-to-market decisions, commercial operating strategies and portfolio risk discussions.\nPartner with Finance and transaction teams on lender, sale and investment processes, using independent third-party forecasts where external validation is required while maintaining a clear Northland view.\n\nCapability, Data and Model Governance\n\nEstablish a practical build-versus-buy strategy for data, tools, modelling platforms and external advisory support, with clear accountabilities, budgets and service standards.\nImplement model governance covering documentation, version control, assumption ownership, change management, validation, back-testing [CS3.1]and independent challenge proportionate to the decision being supported.\nDefine data requirements and partner with Technical Performance Management, Data, Digital and IT teams to develop reliable and scalable market-data infrastructure.\nManage relationships with market-data providers, modelling vendors and consultants; reduce avoidable external dependence while retaining specialist support where it adds value or is required by third parties.\n\nLeadership and Stakeholder Partnerships\n\nBuild, lead and develop a high-performing market intelligence and analytics team, setting priorities and balancing recurring market coverage with transaction and asset-specific demands.\nAct as a senior thought partner to Development, Regulatory & Market Affairs, Government Affairs, Asset Management, Risk, Finance and executive leadership.\nPresent complex market conclusions, model limitations and key uncertainties in a clear, decision-oriented manner for investment committees, senior leaders and boards.\n\nWho You Are\n\nA strategic market leader: You possess deep expertise in wholesale power and commodity markets and can translate market trends, risks and opportunities into commercial strategy, investment decisions and portfolio outcomes. \nAn analytical and technically credible expert: You combine strong quantitative capabilities with hands-on experience in market modelling, forecasting and data analytics, bringing the ability to challenge assumptions, interrogate models and drive rigorous decision-making. \nA builder of capabilities: You thrive in creating and scaling new functions, frameworks and governance models, balancing internal capability development with the strategic use of external tools, data and advisory support. \nA trusted advisor and communicator: You can distill complex market dynamics, forecasts and uncertainties into clear, actionable insights that influence executives, investment committees and boards. \nA collaborative and inspiring leader: You build high-performing teams, foster technical excellence and partner effectively across functions, geographies and stakeholder groups to deliver business value. \n\nQualifications And Experience\n\nBachelor’s degree in economics, engineering, mathematics, statistics, finance, computer science or a related discipline; a relevant master’s degree or MBA is an asset.\n10 or more years of progressive experience in wholesale power markets, energy-market analytics, fundamental forecasting, commercial strategy or a closely related field, including leadership of people or major analytical programs.\nDemonstrated experience developing or directing power-market forecasts, fundamental models, dispatch and revenue analysis, scenario frameworks and asset-valuation inputs.\nDeep understanding of electricity-market design and commercial drivers; experience across more than one ISO/RTO or international market is strongly preferred.\nExperience across a diverse technology portfolio, such as wind, solar, storage and gas-fired generation, and with contracted and merchant revenue structures.\nProven ability to influence senior stakeholders, manage external advisors and convert complex analytical work into clear commercial decisions.\n\nWhat’s In It for You:\n\nOur employees are the driving force behind our achievements. We are unwavering in our commitment to not only recognise your contributions but also to empower\nyou to excel in every aspect of your life. Here's a glimpse of why Northland is the place where you'll truly thrive: \n\nThoughtful benefits – A competitive RRSP matching scheme of 8%; extended health, dental and vision benefits for yourself and your immediate family from day one; paid parental leave; Accident and Life Insurance and disability benefits are just a few of the benefits you’ll be able to access. \nWellbeing first – Staying true to our taking care of ourselves and each other value, you will have access to our global Wellness Program and Employee Assistance Program, including access to mental health resources. \nFloating days and Birthdays off – As part of our commitment to promoting a healthy work-life balance, you will get your birthday off so you can celebrate however you choose! You will also receive three additional days off annually to observe any other events that are important to you.\n\nWe hire talented and passionate people from different backgrounds. If you’re excited about a role but your past experience doesn’t align perfectly with this job description, we still encourage you to apply. Learn more about our diversity, inclusion and belonging commitments.\n\nPay Range\n\n$173,600.00 - $217,000.00\n\nThis document is a guide. The duties, responsibilities, and requirements of the jobs as described herein are not inclusive and are subject to change.\n\nNorthland Power is an equal opportunity employer and we are committed to creating a fair, inclusive and accessible environment. As part of our commitment we work to ensure our application process is accessible to all candidates. If you require special assistance or accommodation during the hiring process, please notify a member of the HR Department.\n\nWe use AI‑enabled tools to help identify applications that meet job‑related criteria. All applications are reviewed and decisions are made by people.\n\nThis is a new position.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nBusiness Development and Sales\n\nIndustries\n\nRenewable Energy Power Generation",
-      "is_remote": true,
-      "department": "",
-      "ats": "Builtin",
-      "source": "company_portal",
-      "archetype": "D",
-      "first_seen": "2026-09-30T21:04:12Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 300061,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "salary": "$173,600.00 - $217,000.00",
-      "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=d0d68ef907c8b7ef",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010280367413",
-        "https://www.linkedin.com/jobs/view/4473968093/"
-      ],
-      "job_type": "fulltime",
-      "work_arrangement": "Remote in-state eligible"
     }
   ]
 }
