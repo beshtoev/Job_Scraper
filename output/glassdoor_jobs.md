@@ -1,18 +1,24 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-30 02:55 UTC*
+*Last updated: 2026-10-30 04:00 UTC*
 
-**3 new role(s)** since last run · 62 total in last 24h
+**4 new role(s)** since last run · 63 total in last 24h
 
-### [Director of Technology & Innovation](https://www.glassdoor.ca/job-listing/j?jl=1010311025561) — Calgary French & International School
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $125k–$135k/yr
+### [Director, Stations, Planning and Asset Optimization](https://www.glassdoor.ca/job-listing/j?jl=1010311054482) — InnPower
+- 📍 **Location:** Innisfil, Canada
+- 💰 **Salary:** $145k–$170k/yr
 - 🕒 **Posted:** 2026-10-30
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010311025562) — Calgary French & International School
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $160k–$180k/yr
+### [Director, Enterprise Technology Architecture](https://www.glassdoor.ca/job-listing/j?jl=1010311050578) — McGill University
+- 📍 **Location:** Sherbrooke, Canada
+- 💰 **Salary:** $129k–$199k/yr
 - 🕒 **Posted:** 2026-10-30
 
-### [Documentation & Compliance Specialist, Office of the VP (Finance and Services) and CFO](https://www.glassdoor.ca/job-listing/j?jl=1010311006153) — The University of Calgary
-- 📍 **Location:** Calgary, Canada
+### [Chief Financial Officer - Controller](https://www.glassdoor.ca/job-listing/j?jl=1010310776271) — Trademark Group of Companies
+- 📍 **Location:** Markham, Canada
+- 💰 **Salary:** $80k–$130k/yr
 - 🕒 **Posted:** 2026-10-30
+
+### [Director, AI Enablement](https://www.glassdoor.ca/job-listing/j?jl=1010309659572) — ZeroKey
+- 📍 **Location:** Calgary, Canada
+- 💰 **Salary:** $120k–$150k/yr
+- 🕒 **Posted:** 2026-10-29
