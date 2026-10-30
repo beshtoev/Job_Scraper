@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-30 20:05 UTC",
+  "updated_at": "2026-10-30 20:18 UTC",
   "jobs": [
+    {
+      "company": "CPA Western School of Business",
+      "title": "Director, Education Technology",
+      "location": "Edmonton, Alberta, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4484884899/",
+      "date_posted": "2026-10-30",
+      "salary": "$121,700 to $182,500,",
+      "ats": "LinkedIn",
+      "description": "At CPA Western School of Business (CPAWSB), we are committed to delivering innovative, high-quality education that prepares learners for a rapidly evolving profession.\n\nReporting to the Executive Vice President, Learning & Innovation, the Director, Education Technology provides strategic leadership and operational oversight for CPAWSB's learning technologies, digital assessment platforms, system integrations, and emerging educational technology initiatives. You will lead the development and execution of a future-focused education technology strategy that supports teaching, learning, assessment, and learner success across the organization.\n\nWorking closely with leaders across Learning & Innovation, Information Services, and other departments, you will ensure CPAWSB's educational technology environment remains innovative, reliable, secure, and aligned with organizational priorities.\n\nDuties and Responsibilities\n\nStrategic Leadership\n\nDevelop and execute CPAWSB's education technology strategy.\nProvide strategic advice to senior leadership on technology-enabled learning, assessment, and student support.\nEstablish governance frameworks, policies, standards, and best practices for educational technology.\nLead strategic initiatives that enhance the learner, educator, and staff experience.\nManage operational and capital budgets and ensure investments deliver measurable value.\n\nEducational Technology Management\n\nProvide leadership and oversight of CPAWSB's educational technology ecosystem, including Canvas, assessment platforms, integrations, and related technologies.\nEnsure high-quality, responsive support services for students, staff, and contractors.\nMonitor system performance and key metrics to drive continuous improvement.\nLead quality assurance, testing, documentation, and governance activities.\nManage vendor relationships, contracts, and service level agreements.\nEnsure compliance with privacy, security, accessibility, and data governance requirements.\n\nInnovation & Digital Learning\n\nMonitor emerging trends in educational technology, artificial intelligence, learning analytics, and digital learning.\nEvaluate, pilot, and implement innovative technologies that improve teaching, learning, assessment, and learner support.\nDevelop business cases and recommendations for technology investments.\nLead vendor evaluations, procurement processes, and implementation planning.\nChampion innovation and foster a culture of continuous improvement across the organization.\n\nLeadership & Team Development\n\nLead, mentor, and develop a high-performing education technology team.\nFoster collaboration across academic, operational, and technology functions.\nSupport organizational change initiatives related to technology adoption.\nBuild strong relationships with internal stakeholders, external partners, and peer institutions.\nModel CPAWSB's values and commitment to learner success.\n\nQualifications\n\nEducation and Experience\n\nMaster's degree in Education, Educational Technology, Instructional Design, Information Technology, Business Administration, Learning Sciences, or a related discipline. Equivalent combinations of education and experience may be considered.\nCPA designation or accounting education experience is considered an asset.\n7-10 years of progressive leadership experience in educational technology, digital learning, instructional technology, or a related field.\nMinimum three years of teaching experience.\nDemonstrated success leading complex technology initiatives, organizational change, and cross-functional teams.\nExperience managing learning management systems, digital learning ecosystems, and education technology platforms.\nExperience managing budgets, vendors, and strategic technology investments.\n\nKnowledge and Skills\n\nDeep understanding of learning management systems (Canvas preferred), digital assessment tools, system integrations, learning analytics, and AI-enabled educational technologies.\nKnowledge of educational technology architecture, governance, privacy, accessibility, and information security principles.\nStrong strategic thinking, financial acumen, and project leadership skills.\nAbility to communicate complex technical concepts to diverse audiences.\nExceptional relationship-building, influencing, and change leadership capabilities.\nCuriosity, innovation, and a commitment to continuous improvement.\n\nThis role is eligible for hybrid work. The CPAWSB is based primarily in Edmonton, Calgary, and Vancouver. If based outside of these centers, the successful candidate may be required to travel to a CPAWSB office from time to time, or as required. \n\nThe salary range for this role is $121,700 to $182,500, depending on qualifications, experience and internal equity. Along with a comprehensive benefits package, CPAWSB offers an exciting and challenging work environment, as well as a company culture that values: Excellence, Integrity, Collaboration, Innovation, Responsiveness, and Equity, Diversity, and Inclusion.\n\nHow to Apply\n\nIf you're excited about the opportunity to reimagine learning through technology and lead innovative initiatives that support learner success, we'd love to hear from you.\n\nPlease submit your resume and cover letter by November 13, 2026,\nto humanresources@cpawsb.ca. We thank all candidates for their applications, only those candidates considered for this position will be contacted directly. \n\nCPAWSB is committed to fostering an inclusive and accessible workplace. Accommodations are available throughout the recruitment process upon request.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHigher Education",
+      "first_seen": "2026-10-30T20:18:55Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Bell",
       "title": "Production Automation Director (PAD), Bell Media",
@@ -20678,7 +20703,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -43270,7 +43295,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "centre of Greater Toronto Area",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4485619149/"
+      ]
     }
   ]
 }
