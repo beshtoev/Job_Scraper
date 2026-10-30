@@ -1,18 +1,21 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-30 15:19 UTC*
+*Last updated: 2026-10-30 16:03 UTC*
 
-**3 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 10 total in last 1h
 
-### [Leader Amélioration de la Donnée / Data Improvement Lead](https://www.linkedin.com/jobs/view/4435960284/) — Airbus Aircraft
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director of Product, AI Growth](https://www.linkedin.com/jobs/view/4477477460/) — 1Password
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-10-30
 
-### [Data & Analytics Leader – BFSI](https://www.linkedin.com/jobs/view/4484872249/) — PeoplePilot
+### [Director, Internal Controls & Finance Transformation](https://www.linkedin.com/jobs/view/4484851342/) — Neo Performance Materials
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $170–$200
 - 🕒 **Posted:** 2026-10-30
 
-### [Program Director , Real Estate Transformation](https://www.linkedin.com/jobs/view/4485357124/) — Bevertec
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 💰 **Salary:** $115.00/hr - CA$125.00/hr
+### [Senior Director, Social and Creative Strategy](https://www.linkedin.com/jobs/view/4466226895/) — Salt XC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000–$160,000
+- 🕒 **Posted:** 2026-10-30
+
+### [Director Infrastructure Strategy & Architecture](https://www.linkedin.com/jobs/view/4431431282/) — Scotiabank
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-30
