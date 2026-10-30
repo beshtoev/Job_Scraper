@@ -1,10 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-30 18:50 UTC*
+*Last updated: 2026-10-30 20:51 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-### [Director Digital Solutions & Business Growth](https://ca.indeed.com/viewjob?jk=2dbfea92473b6ac3) — Empower Simcoe
-- 📍 **Location:** Barrie, ON, CA
-- **Work mode:** Remote in-state eligible
+### [Data & Analytics Leader – Consulting / Managing Partner](https://ca.indeed.com/viewjob?jk=495cb12a7d7e4499) — N2P Systems
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-30
+
+### [AVP, CXO Strategy & Transformation](https://ca.indeed.com/viewjob?jk=40a4b3163ac77075) — Sunlife
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
