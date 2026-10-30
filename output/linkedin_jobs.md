@@ -1,12 +1,16 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-30 10:06 UTC*
+*Last updated: 2026-10-30 10:51 UTC*
 
-**2 new role(s)** since last run · 7 total in last 1h
+**3 new role(s)** since last run · 4 total in last 1h
 
-### [Director of Engineering, Exchange Platform](https://www.linkedin.com/jobs/view/4439914023/) — Index Exchange
+### [Vice President, Finance](https://www.linkedin.com/jobs/view/4485308823/) — Brookfield
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-30
 
-### [Vice President, Finance Operations & Transformation](https://www.linkedin.com/jobs/view/4459626763/) — Kinaxis
+### [Director, Finance](https://www.linkedin.com/jobs/view/4485324415/) — Brookfield
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-30
+
+### [Associate Director / Director, Financial Advisory](https://www.linkedin.com/jobs/view/4485309830/) — Teneo
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-30
