@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-30 13:49 UTC",
+  "updated_at": "2026-10-30 13:58 UTC",
   "jobs": [
+    {
+      "company": "The MEARIE Group",
+      "title": "Inn Power Director , Stations, Planning and Asset Optimization",
+      "location": "Innisfil, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010311564504",
+      "date_posted": "2026-10-30",
+      "description": "A valid Ontario Class 'G' drivers' license. We serve our community as the local hydro utility - looking after the distribution (\"wires\") business - with…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-10-30T13:58:22Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Innisfil",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Gore Mutual Insurance",
       "title": "Director, Data Science",
@@ -1258,7 +1285,8 @@
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010309953461",
         "https://www.glassdoor.ca/job-listing/j?jl=1010309953463",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010309953472"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010309953472",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010309953474"
       ],
       "work_mode": "",
       "work_mode_evidence": "",
@@ -4356,7 +4384,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010308058933"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010308058933",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010308058946"
       ]
     },
     {
