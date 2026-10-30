@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 09:39 UTC",
+  "updated_at": "2026-10-30 10:05 UTC",
   "jobs": [
     {
       "company": "Brookfield",
@@ -1306,6 +1306,7 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://www.linkedin.com/jobs/view/4459615837/",
+        "https://www.linkedin.com/jobs/view/4459626763/",
         "https://www.linkedin.com/jobs/view/4459631738/",
         "https://www.linkedin.com/jobs/view/4459635101/"
       ]
@@ -19976,7 +19977,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
