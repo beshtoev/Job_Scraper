@@ -1,17 +1,22 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-31 01:52 UTC*
+*Last updated: 2026-10-31 02:56 UTC*
 
-**3 new role(s)** since last run · 63 total in last 24h
+**4 new role(s)** since last run · 67 total in last 24h
 
-### [Sales Leader, Enterprise - Americas](https://www.glassdoor.ca/job-listing/j?jl=1009919798034) — Ashby
-- 📍 **Location:** Canada
-- 💰 **Salary:** $320k–$408k/yr
+### [Director, AI, Data and Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010312137315) — City of North Vancouver
+- 📍 **Location:** North Vancouver, Canada
+- 💰 **Salary:** $156k–$182k/yr
 - 🕒 **Posted:** 2026-10-31
 
-### [Director, Transformation & Regulatory Modernization](https://www.glassdoor.ca/job-listing/j?jl=1010312087186) — Financial Services Regulatory Authority of Ontario (FSRA)
+### [Managing Director, Finance & Operations](https://www.glassdoor.ca/job-listing/j?jl=1010312152622) — Credit Union Deposit Guarantee Corporation
+- 📍 **Location:** Edmonton, Canada
+- 🕒 **Posted:** 2026-10-31
+
+### [Director SMB Digital Growth - B2B Payments](https://www.glassdoor.ca/job-listing/j?jl=1010312147507) — Xe
 - 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-10-31
 
-### [Chief Data Engineering Developer](https://www.glassdoor.ca/job-listing/j?jl=1010312112728) — National Bank of Canada
-- 📍 **Location:** Montreal, Canada
+### [Director SMB Digital Growth - B2B Payments](https://www.glassdoor.ca/job-listing/j?jl=1010312147522) — Xe
+- 📍 **Location:** Remote, Canada
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-31
