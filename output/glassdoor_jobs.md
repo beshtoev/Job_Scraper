@@ -1,6 +1,13 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-31 10:15 UTC*
+*Last updated: 2026-10-31 11:25 UTC*
 
-**0 new role(s)** since last run · 65 total in last 24h
+**2 new role(s)** since last run · 64 total in last 24h
 
-No new roles since the last run.
+### [Chief Data Engineering Developer](https://www.glassdoor.ca/job-listing/j?jl=1010312112728) — National Bank of Canada
+- 📍 **Location:** Montreal, Canada
+- 🕒 **Posted:** 2026-10-31
+
+### [Director, Finance](https://www.glassdoor.ca/job-listing/j?jl=1010309344475) — Kraken Robotics
+- 📍 **Location:** Dartmouth, Canada
+- 💰 **Salary:** $120k–$140k/yr
+- 🕒 **Posted:** 2026-10-29
