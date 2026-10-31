@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-31 20:16 UTC*
+*Last updated: 2026-10-31 20:48 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Director, Business Technology and AI](https://www.linkedin.com/jobs/view/4450335353/) — The North West Company
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 🕒 **Posted:** 2026-10-31
