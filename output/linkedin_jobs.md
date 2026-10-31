@@ -1,13 +1,22 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-31 11:40 UTC*
+*Last updated: 2026-10-31 12:23 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**4 new role(s)** since last run · 6 total in last 1h
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4485163077/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Senior Director, Analytics and Data Science, Core Product & Growth](https://www.linkedin.com/jobs/view/4459388621/) — Life360
+- 📍 **Location:** Canada
+- 💰 **Salary:** $247,000 to $366,000 USD
 - 🕒 **Posted:** 2026-10-31
 
-### [Associate Director, Commercial Banking (Corporate Finance Group)](https://www.linkedin.com/jobs/view/4480558798/) — BMO
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $70,000.00 - $150,000.00
+### [Senior Director, AI Research- EN](https://www.linkedin.com/jobs/view/4469266819/) — RBC
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-31
+
+### [Director, Consulting Services - Growth and Strategy](https://www.linkedin.com/jobs/view/4478023187/) — CGI
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $110,000 - $215,000
+- 🕒 **Posted:** 2026-10-31
+
+### [Director Data Center Engineering](https://www.linkedin.com/jobs/view/4468675985/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-10-31
