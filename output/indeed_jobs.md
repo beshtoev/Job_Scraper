@@ -1,10 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-31 11:26 UTC*
+*Last updated: 2026-10-31 19:44 UTC*
 
-**1 new role(s)** since last run · 14 total in last 24h
+**2 new role(s)** since last run · 11 total in last 24h
 
-### [Lead Data Scientist / VP](https://ca.indeed.com/viewjob?jk=efe96da2ab629a58) — Citi
-- 📍 **Location:** Mississauga, ON, CA
+### [Director, Global Technology & Operations Strategy & Transformation](https://ca.indeed.com/viewjob?jk=a07484a52d101dae) — Manulife
+- 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-30
+- 🕒 **Posted:** 2026-10-29
+
+### [Director of Marketing & Digital Commerce](https://ca.indeed.com/viewjob?jk=30a5003ecef29a88) — Barbecues Galore, Canada
+- 📍 **Location:** Burlington, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-31
