@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 05:18 UTC",
+  "updated_at": "2026-10-31 05:37 UTC",
   "jobs": [
     {
       "company": "Xe.com",
@@ -7685,7 +7685,8 @@
         "https://www.linkedin.com/jobs/view/4484792962/",
         "https://www.linkedin.com/jobs/view/4484803953/",
         "https://www.linkedin.com/jobs/view/4484861929/",
-        "https://www.linkedin.com/jobs/view/4485106615/"
+        "https://www.linkedin.com/jobs/view/4485106615/",
+        "https://www.linkedin.com/jobs/view/4485130495/"
       ]
     },
     {
@@ -21586,7 +21587,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -43617,33 +43618,6 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
-    },
-    {
-      "company": "Broadcast Management Group",
-      "title": "Director, Enterprise Managed Services Sales",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010280890768",
-      "date_posted": "2026-10-01",
-      "description": "Fluency across broadcast and digital: live production, studio operations, content workflows, cloud and remote production, and distribution to TV, streaming, and…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-01T05:30:56Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
       "geo_version": 1
     }
   ]
