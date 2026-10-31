@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 04:57 UTC",
+  "updated_at": "2026-10-31 05:15 UTC",
   "jobs": [
     {
       "company": "Xe.com",
@@ -99,16 +99,16 @@
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010312147522"
       ],
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -168,7 +168,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$170,000 - $215,000",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4485673416/"
+      ]
     },
     {
       "company": "Sunlife",
@@ -1065,16 +1069,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-30T17:42:01Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Barrie",
       "geo_province": "ON",
       "geo_lat": 44.3894,
       "geo_lon": -79.6903,
       "geo_distance_km": 79.4,
-      "geo_rank": 200794,
+      "geo_rank": 300794,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",

@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-31 04:51 UTC*
+*Last updated: 2026-10-31 05:16 UTC*
 
-**0 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-No new roles since the last run.
+### [AVP, Technology Portfolio Management, Transaction Banking & Payments, TD Securities](https://www.linkedin.com/jobs/view/4485673416/) — TD
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $170,000 - $215,000
+- 🕒 **Posted:** 2026-10-31
