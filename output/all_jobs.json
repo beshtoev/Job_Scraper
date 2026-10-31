@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 16:53 UTC",
+  "updated_at": "2026-10-31 17:08 UTC",
   "jobs": [
     {
       "company": "Axial Search",
@@ -21793,7 +21793,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -42780,37 +42780,6 @@
         "https://www.glassdoor.ca/job-listing/j?jl=1010308935192",
         "https://www.linkedin.com/jobs/view/4474378691/"
       ]
-    },
-    {
-      "company": "K2Services",
-      "title": "VP, Financial Planning & Analysis",
-      "location": "CAN-Toronto-ON",
-      "url": "https://k2services.wd503.myworkdayjobs.com/en-US/Opensity/job/CAN-Toronto-ON/VP--Finance--Planning---Analysis_R-01943",
-      "direct_url": "https://k2services.wd503.myworkdayjobs.com/en-US/Opensity/job/CAN-Toronto-ON/VP--Finance--Planning---Analysis_R-01943",
-      "req_id": "R-01943",
-      "date_posted": "2026-10-01",
-      "date_seen": "2026-10-01T16:46:12Z",
-      "description": "About Us: \n\nOpensity Solutions is the largest tech‑enabled managed services organization serving leading law firms, financial institutions and professional services firms. At Opensity, we provide integrated operational platforms, automation and advisory services that enable clients to modernize operating models, reduce cost and accelerate growth. Our capabilities include IT and technology solutions, document processing and administrative support, marketing and communications, billing and AP/AR services, records and information governance, workflow automation, consulting and hospitality and facilities services. \n\n Our Mission: \n\n Our mission is to provide modernized technology platforms, elevated technology support, and valuable insights, empowering our clients to excel in what they do best.\n\n Who We Are \n Opensity Solutions is the largest end-to-end, tech-enabled managed services organization focused on serving leading law firms, financial institutions and professional services firms.\n\n Launched in 2026 through the combination of K2 Services, Epiq GBTS and Forrest Solutions, Opensity brings together more than 4,500 professionals, 500+ clients and over $400 million in combined annual revenue, with operations across the United States, Canada, India and the Philippines.\n\n Our mission is to provide modernized technology platforms, elevated technology support and valuable insights, empowering our clients to excel in what they do best.\n\n Opensity is backed by Renovus Capital Partners, a leading private equity sponsor with deep experience investing in and scaling technology-enabled services businesses.\n\n For more information, visit  opensitysolutions.com.\n\n The Opportunity \n We are seeking a  Vice President, Financial Planning & Analysis  to lead enterprise-wide planning, forecasting, management reporting and business performance analytics. Reporting to the  Chief Financial Officer, this role will be a key partner to executive leadership, business unit leaders and our private equity sponsor. The VP, FP&A will help build a scalable, data-driven FP&A function and play an important role in Opensity's continued growth, M&A activity and long-term value creation.\n\n Key Responsibilities \n Lead annual budgeting, forecasting and long-range planning across the organization.\n Own monthly and quarterly management reporting, variance analysis and executive performance reviews.\n Develop actionable financial and operational KPIs across revenue, margin, headcount, productivity, cash flow and profitability.\n Build robust recurring revenue analytics, including bookings, backlog, retention, churn, expansion and customer-level performance.\n Partner with business leaders to improve forecast accuracy, financial accountability and operating performance.\n Lead customer, service-line and business-unit profitability analysis to support pricing, investment and resource allocation decisions.\n Drive automation and modernization of FP&A, including dashboards, reporting, forecasting and data analysis.\n Support the CFO with Board, lender and private equity sponsor reporting.\n Support M&A diligence, integration, synergy tracking and post-acquisition performance management.\n Help maintain a strong, diligence-ready Finance organization and support future refinancing, recapitalization or exit processes.\n Lead and develop the FP&A team.\n\n Qualifications \n Bachelor's degree in finance, Accounting, Economics or a related field.\n 10+ years of progressive Finance experience, including significant FP&A leadership experience.\n Private equity-backed company experience required.\n Experience working through a private equity exit, sale process, recapitalization or similar transaction strongly preferred.\n Strong experience with recurring revenue businesses and associated KPIs and analytics.\n Meaningful M&A and post-acquisition integration experience required.\n Strong data analytics capabilities with demonstrated experience automating financial reporting and analysis.\n Experience in technology-enabled services, managed services, professional services, business services or SaaS strongly preferred.\n Strong financial modeling, forecasting and executive presentation skills.\n Experience working with Boards, senior executives and private equity sponsors.\n Experience with planning, ERP and BI tools such as Sage Intacct, Adaptive, Anaplan, OneStream, Power BI or similar platforms.\n CPA, CFA or MBA preferred but not required.\n Strong leadership, communication and business-partnering skills.\n\n What We Offer \n Competitive compensation and performance-based annual bonus.\n Comprehensive health and wellness benefits.\n Remote-first flexibility.\n Significant exposure to executive leadership, the Board and private equity sponsor.\n Meaningful involvement in M&A, integrations and strategic value-creation initiatives.\n The opportunity to help build the Finance function of a large, newly formed and growing organization.\n #LI-ML2 \n Opensity is committed to fostering an inclusive, equitable, and accessible workplace. We believe diverse perspectives strengthen our teams and the work we do for our clients.  \n\nOpensity provides equal employment opportunities to all applicants and employees and does not discriminate on the basis of race, colour, religion or creed, sex, sexual orientation, gender identity or expression, age, national or ethnic origin, ancestry, citizenship, disability, family status, marital status, source of income, record of offences, or any other characteristic protected under applicable federal or provincial human rights legislation.  \n\nWe are committed to fair and barrier free recruitment, selection, and employment practices, and to providing reasonable accommodation throughout the hiring process and employment lifecycle, in accordance with applicable human rights legislation.  \n\nCandidates who require accommodation during any stage of the recruitment process are encouraged to advise our Talent team so appropriate support can be provided.",
-      "is_remote": null,
-      "department": "",
-      "ats": "Workday",
-      "source": "company_portal",
-      "archetype": "D",
-      "first_seen": "2026-10-01T16:57:27Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
-      "geo_city": "Can-Toronto-On",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 399999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
     }
   ]
 }
