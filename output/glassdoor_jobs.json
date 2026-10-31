@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-31 09:16 UTC",
+  "scraped_at": "2026-10-31 10:15 UTC",
   "total": 65,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Citi",
@@ -1699,58 +1699,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Reinsurance Group of America",
-      "title": "Executive Director, Enterprise Regional Enablement",
-      "location": "Ontario, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010312266186",
-      "date_posted": "2026-10-31",
-      "description": "Oversee first-line business unit regional control monitoring, control testing, and control-effectiveness evaluation; track control gaps and remediation in-…",
-      "salary": "$127k–$189k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "",
-      "geo_province": "ON",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 299999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only province ON stated",
-      "geo_version": 1
-    },
-    {
-      "company": "Curve Lake First Nation",
-      "title": "Director of Finance and Administration - $150K-$180K/yr in Curve Lake, ON!",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010309953470",
-      "date_posted": "2026-10-29",
-      "description": "Take on a senior leadership role that builds lasting financial stability and strong systems for the Curve Lake First Nation community.",
-      "salary": "$150k–$180k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
