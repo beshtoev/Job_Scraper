@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-31 16:01 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-10-31 16:24 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
     {
       "company": "HSB - Hartford Steam Boiler",
@@ -73,6 +73,30 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Axial Search",
+      "title": "Chief AI Officer",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4485170422/",
+      "date_posted": "2026-10-31",
+      "salary": "$180,000.00/yr - CA$330,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Axial Search is a specialist executive search firm built for one kind of hire: leaders who help organizations navigate AI transformation. Apply today to express your interest in roles like this one.\n\nVisit our website to learn more about our process and explore free tools for your job search, including our live job market dashboard with salary, skills and hiring trend data from thousands of AI transformation roles.\n\nWhat The Market Looks Like\n\nChief AI Officer roles in Canada remain sparse but growing—we've tracked 9 executive-level AI strategy postings across the country over the last six months, concentrated in Ontario, Quebec, and British Columbia. Technology, financial services, and professional services firms are leading hires. Compensation for this cohort ranges from $180k to $330k annually. The strongest candidates combine deep technical fluency with board-level communication skills, proven experience scaling AI initiatives across large organizations, and the ability to translate business strategy into executable AI roadmaps.\n\nJob Responsibilities\n\nOwn the development and execution of the organization's AI strategy, including technology roadmap, capability building, and integration across business units\nLead the assessment, evaluation, and deployment of AI tools and platforms to drive competitive advantage and operational efficiency\nBuild and scale high-performing teams—data scientists, ML engineers, and AI specialists—while fostering a culture of experimentation and continuous learning\nPartner with C-suite and board members to translate AI opportunities into business outcomes, manage risk, and secure investment and resources\nDrive cross-functional collaboration to identify use cases, pilot programs, and full-scale implementations across the enterprise\nEstablish governance frameworks, ethical guardrails, and compliance standards for responsible AI deployment\nRepresent the organization externally—engage with industry peers, vendors, and thought leaders to stay ahead of market trends\n\nCandidate Requirements\n\n12+ years of experience building and scaling AI, machine learning, or data science capabilities, with at least 5 years in a leadership or executive role\nProven track record taking AI initiatives from strategy through implementation and measuring business impact at scale\nStrong technical foundation—hands-on knowledge of ML/AI architectures, generative AI, and modern data platforms; you don't need to code daily, but you speak the language fluently\nExperience leading and recruiting technical talent, building organizational structures, and embedding AI literacy across non-technical teams\nDemonstrated ability to communicate complex AI concepts to non-technical audiences and influence executive and board-level decision-making\nUnderstanding of AI governance, ethics, risk, and compliance in regulated or risk-sensitive industries\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
       "geo_version": 1
     },
     {
@@ -148,5 +172,30 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Axial Search",
+      "title": "Chief AI Officer",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4485170422/",
+      "date_posted": "2026-10-31",
+      "salary": "$180,000.00/yr - CA$330,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Axial Search is a specialist executive search firm built for one kind of hire: leaders who help organizations navigate AI transformation. Apply today to express your interest in roles like this one.\n\nVisit our website to learn more about our process and explore free tools for your job search, including our live job market dashboard with salary, skills and hiring trend data from thousands of AI transformation roles.\n\nWhat The Market Looks Like\n\nChief AI Officer roles in Canada remain sparse but growing—we've tracked 9 executive-level AI strategy postings across the country over the last six months, concentrated in Ontario, Quebec, and British Columbia. Technology, financial services, and professional services firms are leading hires. Compensation for this cohort ranges from $180k to $330k annually. The strongest candidates combine deep technical fluency with board-level communication skills, proven experience scaling AI initiatives across large organizations, and the ability to translate business strategy into executable AI roadmaps.\n\nJob Responsibilities\n\nOwn the development and execution of the organization's AI strategy, including technology roadmap, capability building, and integration across business units\nLead the assessment, evaluation, and deployment of AI tools and platforms to drive competitive advantage and operational efficiency\nBuild and scale high-performing teams—data scientists, ML engineers, and AI specialists—while fostering a culture of experimentation and continuous learning\nPartner with C-suite and board members to translate AI opportunities into business outcomes, manage risk, and secure investment and resources\nDrive cross-functional collaboration to identify use cases, pilot programs, and full-scale implementations across the enterprise\nEstablish governance frameworks, ethical guardrails, and compliance standards for responsible AI deployment\nRepresent the organization externally—engage with industry peers, vendors, and thought leaders to stay ahead of market trends\n\nCandidate Requirements\n\n12+ years of experience building and scaling AI, machine learning, or data science capabilities, with at least 5 years in a leadership or executive role\nProven track record taking AI initiatives from strategy through implementation and measuring business impact at scale\nStrong technical foundation—hands-on knowledge of ML/AI architectures, generative AI, and modern data platforms; you don't need to code daily, but you speak the language fluently\nExperience leading and recruiting technical talent, building organizational structures, and embedding AI literacy across non-technical teams\nDemonstrated ability to communicate complex AI concepts to non-technical audiences and influence executive and board-level decision-making\nUnderstanding of AI governance, ethics, risk, and compliance in regulated or risk-sensitive industries\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    }
+  ]
 }
