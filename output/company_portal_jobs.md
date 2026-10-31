@@ -1,6 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-31 17:29 UTC*
+*Last updated: 2026-10-31 20:37 UTC*
 
-**0 new role(s)** since last run · 231 total in current portal openings
+**1 new role(s)** since last run · 232 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Director, QSEO AI Transformation Lead](https://builtintoronto.com/job/director-qseo-ai-transformation-lead/12002618) — Pfizer
+- 📍 **Location:** Toronto, Ontario, Canada
