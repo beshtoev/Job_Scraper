@@ -1,14 +1,23 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-10-31 20:05 UTC*
+*Last updated: 2026-10-31 21:07 UTC*
 
-**2 new role(s)** since last run · 53 total in last 24h
+**4 new role(s)** since last run · 54 total in last 24h
 
-### [Director of Finance and Administration - $150K-$180K/yr in Curve Lake, ON!](https://www.glassdoor.ca/job-listing/j?jl=1010309953461) — Curve Lake First Nation
-- 📍 **Location:** Ontario, Canada
+### [Sales Leader, Enterprise - Americas](https://www.glassdoor.ca/job-listing/j?jl=1009919798034) — Ashby
+- 📍 **Location:** Canada
+- 💰 **Salary:** $320k–$408k/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Director of Finance and Administration - $150K-$180K/yr in Curve Lake, ON!](https://www.glassdoor.ca/job-listing/j?jl=1010309953463) — Curve Lake First Nation
+- 📍 **Location:** Alberta, Canada
 - 💰 **Salary:** $150k–$180k/yr
 - 🕒 **Posted:** 2026-10-29
 
-### [Director of Marketing & Digital Commerce](https://www.glassdoor.ca/job-listing/j?jl=1010312625217) — Barbecues Galore
-- 📍 **Location:** Burlington, Canada
-- 💰 **Salary:** $110k–$150k/yr
-- 🕒 **Posted:** 2026-10-31
+### [Director of Finance and Administration - $150K-$180K/yr in Curve Lake, ON!](https://www.glassdoor.ca/job-listing/j?jl=1010309953472) — Curve Lake First Nation
+- 📍 **Location:** Manitoba, Canada
+- 💰 **Salary:** $150k–$180k/yr
+- 🕒 **Posted:** 2026-10-29
+
+### [Inn Power Director , Stations, Planning and Asset Optimization](https://www.glassdoor.ca/job-listing/j?jl=1010311564504) — The MEARIE Group
+- 📍 **Location:** Innisfil, Canada
+- 🕒 **Posted:** 2026-10-30
