@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-01 09:28 UTC*
+*Last updated: 2026-11-01 09:56 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [VP, Product Delivery & Growth - AI](https://www.linkedin.com/jobs/view/4467853910/) — PointClickCare
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-01
-
-### [Director, Commercial FP&A](https://www.linkedin.com/jobs/view/4426638345/) — PointClickCare
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $162,000.00/yr - CA$180,000.00/yr
+### [Director of Engineering, Data](https://www.linkedin.com/jobs/view/4410304909/) — Xsolla
+- 📍 **Location:** Canada
+- 💰 **Salary:** $120,000 - $160,000
 - 🕒 **Posted:** 2026-11-01
