@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 13:40 UTC",
+  "updated_at": "2026-11-01 14:25 UTC",
   "jobs": [
     {
       "company": "Lakeshore Human Capital Inc.",
@@ -1583,16 +1583,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-10-30T17:42:01Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
       "geo_city": "Barrie",
       "geo_province": "ON",
       "geo_lat": 44.3894,
       "geo_lon": -79.6903,
       "geo_distance_km": 79.4,
-      "geo_rank": 300794,
+      "geo_rank": 200794,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -41295,31 +41295,6 @@
       "duplicate_urls": [
         "https://www.linkedin.com/jobs/view/4473808173/"
       ]
-    },
-    {
-      "company": "Pivotal Integrated HR Solutions",
-      "title": "Director of Finance And Accounting",
-      "location": "Greater Toronto Area, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4473355145/",
-      "date_posted": "2026-10-02",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Director of Finance – 3PL / Distribution\n\nLocation:\nGreater Toronto Area\nWork Environment:\nOn-site\nIndustry:\nThird-Party Logistics (3PL) / Transportation / Distribution\n\nThe Opportunity\nOur client, an established and growing third-party logistics organization in the Greater Toronto Area, is looking for an experienced Director of Finance\nto join its leadership team.\nThis is a hands-on senior finance position for someone who enjoys being close to the business. In addition to leading the accounting and finance function, the Director of Finance will work closely with operations, transportation, sales, and senior leadership to improve financial performance, strengthen reporting, and provide greater visibility into costs and profitability.\nThe successful candidate will bring strong financial leadership along with an understanding of the operational side of a logistics, transportation, or distribution business.\n\nKey Responsibilities\nFinancial Leadership & Reporting\nLead the day-to-day accounting and finance function and provide direction to the finance team.\nOversee financial reporting, general ledger activities, accounts payable, accounts receivable, payroll, and period-end closing.\nDeliver timely and accurate monthly, quarterly, and annual financial reporting.\nLead the budgeting and forecasting process and maintain ongoing cash flow projections.\nAnalyze business performance, operating expenses, customer profitability, and gross margins.\nProvide senior leadership with meaningful financial analysis to support business decisions.\nMaintain appropriate financial controls, policies, and processes.\nManage relationships with external auditors, financial institutions, tax professionals, and other external partners.\n\nCommercial Finance & Profitability\nWork closely with operational and commercial teams to understand the financial performance of customers, lanes, services, and contracts.\nProvide financial oversight related to transportation costs, pricing, and margin performance.\nReview costing information and identify areas where profitability can be improved.\nSupport pricing decisions, customer proposals, bids, and contract renewals.\nDevelop reporting that provides greater visibility into customer and operational profitability.\nHelp establish consistent processes for reviewing pricing, costs, and margins.\n\nBusiness & Operational Partnership\nPartner with Operations and Transportation leaders to ensure financial information accurately reflects business activity.\nProvide financial guidance on operational decisions, service costs, and customer requirements.\nWork with Sales on the financial components of new business opportunities and customer agreements.\nDevelop and monitor KPIs related to financial and operational performance.\nIdentify trends, risks, and opportunities and translate financial data into practical recommendations for the leadership team.\n\nPayroll, Compliance & Risk\nProvide oversight of payroll administration and related reporting requirements.\nEnsure appropriate remittances, tax filings, and regulatory requirements are completed accurately and on time.\nMaintain strong financial documentation and ensure the organization remains audit-ready.\nMonitor areas of financial and operational risk and ensure appropriate controls are in place.\n\nLeadership & Continuous Improvement\nCoach, develop, and support members of the finance team.\nEvaluate existing financial processes and identify opportunities to improve efficiency, accuracy, and reporting.\nSupport improvements to accounting, transportation, and business systems.\nParticipate in system implementations and integrations, with a focus on data integrity and effective financial reporting.\nIntroduce tools, reporting, and automation that provide leadership with better and faster business information.\n\nQualifications\nBachelor’s degree in Accounting, Finance, Business, or a related discipline.\nCPA designation strongly preferred.\n\nProgressive experience in accounting and financial leadership within 3PL, transportation, logistics, distribution, or a similar operational environment\n.\nStrong understanding of financial reporting, budgeting, forecasting, cash flow, and internal controls.\nExperience analyzing costing, margins, pricing, and profitability\nwithin an operational business.\nPrevious experience leading and developing a finance or accounting team.\nStrong Excel skills and experience working with accounting and ERP systems.\nExposure to transportation management systems (TMS) or other logistics technology is considered an asset.\nExperience supporting system implementations, integrations, or finance process improvements is an asset.\nStrong analytical, leadership, and communication skills with the ability to work effectively across multiple departments.\n\nThe Ideal Candidate\nYou are a finance leader who wants to understand why the numbers look the way they do\n, not simply report them.\n\nYou are comfortable moving between financial statements and operational conversations and can work collaboratively with Operations, Sales, and senior leadership. You understand the importance of costing and margin visibility in a high-volume logistics environment and can turn financial information into practical business decisions.\n\nThis opportunity is well suited to someone who has built their career within a 3PL, transportation, logistics, distribution, or similarly fast-paced operational business\nand is looking for a role where Finance has a meaningful seat at the table.\n\nEmployment Equity & Accessibility\nOur client is committed to providing an inclusive and accessible recruitment process. We welcome applications from all qualified individuals and are committed to employment practices that are free from discrimination and harassment.\nAccommodations are available upon request for candidates taking part in all aspects of the recruitment and selection process, in accordance with the Accessibility for Ontarians with Disabilities Act (AODA)\nand the Ontario Human Rights Code\n.\nIn accordance with Ontario employment legislation, applicants are advised that artificial intelligence (AI) may be used during the recruitment and selection process to assist with screening or assessing applications\n.\nWe thank all applicants for their interest; however, only those selected for an interview will be contacted.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHuman Resources Services",
-      "first_seen": "2026-10-02T14:18:56Z",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Greater Toronto Area",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 100061,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "centre of Greater Toronto Area",
-      "geo_version": 1
     }
   ]
 }
