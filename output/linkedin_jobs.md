@@ -1,13 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-01 13:41 UTC*
+*Last updated: 2026-11-01 14:53 UTC*
 
 **2 new role(s)** since last run · 3 total in last 1h
 
-### [Director of Infrastructure Solution Architecture](https://www.linkedin.com/jobs/view/4432697350/) — Scotiabank
+### [Senior Director, Corporate Strategy & Development](https://www.linkedin.com/jobs/view/4469212840/) — Trulioo
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-01
 
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4485420171/) — Lakeshore Human Capital Inc.
-- 📍 **Location:** Brampton, Ontario, Canada
-- 💰 **Salary:** $150,000 to $200,000
+### [Project Finance Director](https://www.linkedin.com/jobs/view/4430858811/) — Aecon Group Inc.
+- 📍 **Location:** Bowmanville, Ontario, Canada
+- 💰 **Salary:** $150,000 - $170,000
 - 🕒 **Posted:** 2026-11-01
