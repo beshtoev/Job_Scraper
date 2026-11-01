@@ -12,10 +12,10 @@
     "last_success": "2026-11-01T14:31:41Z"
   },
   "linkedin_cursor": {
-    "cycle_started": null,
-    "last_success": "2026-11-01T14:52:56Z",
-    "next_term": 0,
-    "partial": false
+    "cycle_started": "2026-11-01T15:21:48Z",
+    "last_success": "2026-11-01T15:49:57Z",
+    "next_term": 20,
+    "partial": true
   },
   "ziprecruiter_email": {
     "last_success": "2026-11-01T14:26:11Z"
