@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-01 01:27 UTC",
+  "scraped_at": "2026-11-01 02:11 UTC",
   "total": 47,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Citi",
@@ -1231,58 +1231,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Curve Lake First Nation",
-      "title": "Director of Finance and Administration - $150K-$180K/yr in Curve Lake, ON!",
-      "location": "Ontario, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010309953461",
-      "date_posted": "2026-10-30",
-      "description": "Take on a senior leadership role that builds lasting financial stability and strong systems for the Curve Lake First Nation community.",
-      "salary": "$150k–$180k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "",
-      "geo_province": "ON",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 299999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only province ON stated",
-      "geo_version": 1
-    },
-    {
-      "company": "KPMG",
-      "title": "Director - Technology",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010310153469",
-      "date_posted": "2026-10-30",
-      "description": "Education: University degree in technology, computer science, engineering, business, or a related discipline, or equivalent relevant professional experience.",
-      "salary": "$117k–$196k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
