@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 03:18 UTC",
+  "updated_at": "2026-11-01 03:31 UTC",
   "jobs": [
     {
       "company": "Mckesson",
@@ -1508,14 +1508,14 @@
       "first_seen": "2026-10-30T17:42:01Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Barrie",
       "geo_province": "ON",
       "geo_lat": 44.3894,
       "geo_lon": -79.6903,
       "geo_distance_km": 79.4,
-      "geo_rank": 200794,
+      "geo_rank": 300794,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -41650,6 +41650,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 1432
+  ]
 }
