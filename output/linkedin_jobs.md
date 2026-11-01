@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-01 17:23 UTC*
+*Last updated: 2026-11-01 18:00 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4485414522/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Directeur(trice), Gouvernance des données / Director, Data Governance](https://www.linkedin.com/jobs/view/4469200141/) — McKesson
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $120,800 - $201,400
 - 🕒 **Posted:** 2026-11-01
