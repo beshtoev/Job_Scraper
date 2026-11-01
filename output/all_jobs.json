@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 12:11 UTC",
+  "updated_at": "2026-11-01 12:33 UTC",
   "jobs": [
     {
       "company": "FED Finance",
@@ -8188,7 +8188,8 @@
         "https://www.linkedin.com/jobs/view/4485161853/",
         "https://www.linkedin.com/jobs/view/4485162613/",
         "https://www.linkedin.com/jobs/view/4485163077/",
-        "https://www.linkedin.com/jobs/view/4485199078/"
+        "https://www.linkedin.com/jobs/view/4485199078/",
+        "https://www.linkedin.com/jobs/view/4485412072/"
       ]
     },
     {
@@ -13020,7 +13021,11 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$157,000 - $227,000",
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4448475202/"
+      ]
     },
     {
       "company": "Brookfield",
@@ -22106,7 +22111,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
