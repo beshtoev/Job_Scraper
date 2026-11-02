@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-02 03:13 UTC*
+*Last updated: 2026-11-02 03:28 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Executive Director, Enterprise Regional Enablement](https://www.linkedin.com/jobs/view/4485426794/) — Jobgether
+- 📍 **Location:** Canada
+- 💰 **Salary:** $126,710–$188,840,
+- 🕒 **Posted:** 2026-11-02
