@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 01:26 UTC",
+  "updated_at": "2026-11-02 01:28 UTC",
   "jobs": [
     {
       "company": "BMO",
@@ -1672,14 +1672,14 @@
       "first_seen": "2026-10-30T17:42:01Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Barrie",
       "geo_province": "ON",
       "geo_lat": 44.3894,
       "geo_lon": -79.6903,
       "geo_distance_km": 79.4,
-      "geo_rank": 200794,
+      "geo_rank": 300794,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -40198,6 +40198,5 @@
         "https://www.linkedin.com/jobs/view/4482900415/"
       ]
     }
-  ],
-  "total": 1380
+  ]
 }
