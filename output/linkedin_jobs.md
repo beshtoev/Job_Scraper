@@ -1,22 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-02 18:32 UTC*
+*Last updated: 2026-11-02 18:48 UTC*
 
-**4 new role(s)** since last run · 12 total in last 1h
+**3 new role(s)** since last run · 8 total in last 1h
 
-### [Sr. Director Platform Services](https://www.linkedin.com/jobs/view/4486411882/) — CIBC
+### [Managing Director, Financial Services, Private Capital](https://www.linkedin.com/jobs/view/4414951561/) — Ontario Teachers' Pension Plan
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-02
 
-### [Managing Director, Technology Architecture & Governance](https://www.linkedin.com/jobs/view/4411549338/) — CPP Investments | Investissements RPC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [SVP, Chief Strategy and Corporate Affairs Officer](https://www.linkedin.com/jobs/view/4485742667/) — Saskatchewan Blue Cross
+- 📍 **Location:** Saskatchewan, Canada
 - 🕒 **Posted:** 2026-11-02
 
-### [Director, Quantitative Data Products](https://www.linkedin.com/jobs/view/4393965325/) — Nasdaq
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $121,000 - $170,000
-- 🕒 **Posted:** 2026-11-02
-
-### [Director, Business Advisory & Succession Planning](https://www.linkedin.com/jobs/view/4481273507/) — BMO
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $85,000.00 - $175,000.00
+### [Chief Strategy & Enrolment Officer](https://www.linkedin.com/jobs/view/4485744823/) — Glenlyon Norfolk School
+- 📍 **Location:** Victoria, British Columbia, Canada
+- 💰 **Salary:** $140,000.00/yr - CA$165,000.00/yr
 - 🕒 **Posted:** 2026-11-02
