@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 23:01 UTC",
+  "updated_at": "2026-11-02 23:15 UTC",
   "jobs": [
     {
       "company": "Big Al's",
@@ -1820,16 +1820,16 @@
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010312147522"
       ],
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -6628,7 +6628,9 @@
         "https://ca.indeed.com/viewjob?jk=c7022c0812695c8b",
         "https://www.glassdoor.ca/job-listing/j?jl=1010308700598",
         "https://www.glassdoor.ca/job-listing/j?jl=1010309382968",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010309382975"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010309382975",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315042812",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315042834"
       ]
     },
     {
