@@ -1,17 +1,25 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-02 18:48 UTC*
+*Last updated: 2026-11-02 19:30 UTC*
 
-**3 new role(s)** since last run · 8 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Managing Director, Financial Services, Private Capital](https://www.linkedin.com/jobs/view/4414951561/) — Ontario Teachers' Pension Plan
+### [Director Marketing Technology Analytics & Digital Platforms](https://www.linkedin.com/jobs/view/4485757629/) — Intact
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-02
+
+### [Director, Quantitative Data Products](https://www.linkedin.com/jobs/view/4393965325/) — Nasdaq
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $121,000 - $170,000
+- 🕒 **Posted:** 2026-11-02
+
+### [Managing Director, Technology Architecture & Governance](https://www.linkedin.com/jobs/view/4411549338/) — CPP Investments | Investissements RPC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-02
 
-### [SVP, Chief Strategy and Corporate Affairs Officer](https://www.linkedin.com/jobs/view/4485742667/) — Saskatchewan Blue Cross
-- 📍 **Location:** Saskatchewan, Canada
+### [Vice President (Head) of Finance](https://www.linkedin.com/jobs/view/4477856728/) — GlassRatner Canada
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-02
 
-### [Chief Strategy & Enrolment Officer](https://www.linkedin.com/jobs/view/4485744823/) — Glenlyon Norfolk School
-- 📍 **Location:** Victoria, British Columbia, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$165,000.00/yr
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4486426921/) — Ari Agency Executive Search & Digital Recruitment
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-02
