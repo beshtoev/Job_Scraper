@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-02 05:06 UTC*
+*Last updated: 2026-11-02 05:23 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4485446626/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-11-02
