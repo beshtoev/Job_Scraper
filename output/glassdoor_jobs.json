@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-02 11:15 UTC",
+  "scraped_at": "2026-11-02 12:34 UTC",
   "total": 29,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Citi",
@@ -190,7 +190,7 @@
       "title": "Executive Director, Enterprise Regional Enablement",
       "location": "Ontario, Canada",
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010312266186",
-      "date_posted": "2026-11-01",
+      "date_posted": "2026-10-31",
       "description": "Oversee first-line business unit regional control monitoring, control testing, and control-effectiveness evaluation; track control gaps and remediation in-…",
       "salary": "$127k–$189k/yr",
       "salary_source": "employer",
@@ -336,32 +336,6 @@
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
       "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Manulife",
-      "title": "Director, Information Risk Management Strategy and Insights",
-      "location": "Waterloo, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010311348029",
-      "date_posted": "2026-10-31",
-      "description": "Support IRM senior leadership in building roadmaps and implement processes, tooling, and reporting to deliver on IRM’s multi-year strategy, ensuring alignment…",
-      "salary": "$113k–$210k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "Waterloo",
-      "geo_province": "ON",
-      "geo_lat": 43.4643,
-      "geo_lon": -80.5204,
-      "geo_distance_km": 94.5,
-      "geo_rank": 200945,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -577,6 +551,32 @@
       "geo_version": 1
     },
     {
+      "company": "Credit Union Deposit Guarantee Corporation",
+      "title": "Managing Director, Finance & Operations",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010312152622",
+      "date_posted": "2026-10-31",
+      "description": "In accordance with provincial legislation, accommodation will be provided by Mullen and CUDGC throughout the recruitment, selection and/or assessment process,…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
       "company": "The MEARIE Group",
       "title": "Inn Power Director , Stations, Planning and Asset Optimization",
       "location": "Innisfil, Canada",
@@ -760,5 +760,32 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Credit Union Deposit Guarantee Corporation",
+      "title": "Managing Director, Finance & Operations",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010312152622",
+      "date_posted": "2026-10-31",
+      "description": "In accordance with provincial legislation, accommodation will be provided by Mullen and CUDGC throughout the recruitment, selection and/or assessment process,…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }
