@@ -1,6 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-02 21:22 UTC*
+*Last updated: 2026-11-02 21:55 UTC*
 
-**0 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-No new roles since the last run.
+### [Director, Internal Audit (Information Technology)](https://www.linkedin.com/jobs/view/4486444415/) — EQ Bank
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-02
+
+### [Finance Director](https://www.linkedin.com/jobs/view/4485779095/) — Pollin
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000-$160,000 annually
+- 🕒 **Posted:** 2026-11-02
