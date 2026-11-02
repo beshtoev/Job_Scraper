@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-02 12:34 UTC",
+  "scraped_at": "2026-11-02 13:50 UTC",
   "total": 29,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Citi",
@@ -760,32 +760,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Credit Union Deposit Guarantee Corporation",
-      "title": "Managing Director, Finance & Operations",
-      "location": "Edmonton, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010312152622",
-      "date_posted": "2026-10-31",
-      "description": "In accordance with provincial legislation, accommodation will be provided by Mullen and CUDGC throughout the recruitment, selection and/or assessment process,…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (AB)",
-      "geo_city": "Edmonton",
-      "geo_province": "AB",
-      "geo_lat": 53.5461,
-      "geo_lon": -113.4938,
-      "geo_distance_km": 2701.3,
-      "geo_rank": 427013,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
