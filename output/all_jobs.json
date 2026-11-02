@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-02 20:46 UTC",
+  "updated_at": "2026-11-02 20:59 UTC",
   "jobs": [
+    {
+      "company": "Leadership Source Inc.",
+      "title": "Chief Information Officer",
+      "location": "Regina, Saskatchewan, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4485760827/",
+      "date_posted": "2026-11-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "SaskTel is entering a defining period of change. As the organization accelerates its transformation into a modern tech forward communications leader, we are seeking a Chief Information Officer (CIO) who can bring clarity, courage and conviction to a division that sits at the centre of SaskTel’s future. This is a role for a leader who thrives in complexity, sees opportunity in legacy, and understands how to evolve a technology function into a true strategic engine for the business.\n\nThe Opportunity\n\nReporting to the President & CEO, the CIO is accountable for SaskTel’s enterprise technology strategy, digital modernization, cybersecurity posture, data governance, and the delivery of reliable, secure, and efficient technology services. The CIO also serves as SaskTel’s Chief Security Officer and holds enterprise accountability for data governance.\nThis leader will oversee a large, diverse team responsible for enterprise applications, infrastructure, cloud services, cybersecurity, architecture, and service delivery. This role requires a leader who can modernize a complex, legacy heavy environment and ensure they have a high-performing team who is willing and welcoming of the new technology horizon SaskTel is entering into.\n\nThe Mandate\n\nFor SaskTel, the role goes beyond providing telecommunications services. Technology connects Saskatchewan, strengthen communities, enables businesses and support the province’s economic growth. As technology continues to reshape how we live and work, it is increasingly central to Saskatchewan’s future.\nThis is not a caretaker role. It is a once in a career mandate to modernize, simplify, and elevate a technology environment that underpins every connection SaskTel delivers.\n\nThe Ideal Candidate\n\nAs the ideal candidate, you are a seasoned technology executive with a proven record of leading large, complex organizations through meaningful modernization. You bring deep expertise in enterprise systems, cloud transformation, cybersecurity, and data governance, paired with the leadership presence and elevate information services as a true strategic partner.\nYou have assembled 15+ years of progressive technology leadership experience, including significant time at the senior executive level, and a history of modernizing legacy environments, improving delivery performance, and driving cultural change. You understand how to strengthen execution, introduce modern development practices, and lead teams through ambiguity with clarity and confidence.\nAcademically grounded with a bachelor’s degree in a relevant field, such as business, technology, or a related discipline and you are comfortable operating in regulated or public sector environments. Experience with large scale enterprise transformations, including OSS/BSS, CRM, ERP, or cloud native modernization, is highly valued.\nAbove all, you are courageous, collaborative, and forward looking. You bring the courage to challenge entrenched norms, the backbone to make risk based decisions, and the leadership maturity to reset a long standing operating model. You build trust quickly, communicate with executive presence, and bring the mindset and energy required to help SaskTel evolve.\nIf you are energized by meaningful transformation, if you thrive in environments where change is both necessary and possible, and if you want your work to matter beyond the balance sheet, this role offers a rare platform to make a lasting impact.\n\nTo Apply\n\nFor additional information or a confidential discussion, contact Leadership Source at 306-543-1666 or search@leadershipsource.ca.\n\nEarly applications are encouraged. The search may advance as strong candidates are identified.\n\nAt SaskTel, we believe in fostering a diverse and inclusive workforce that reflects the customers and communities we serve. We strive to create an environment where all employees feel empowered to contribute their unique perspectives, driving innovation and creativity, while advancing our efforts as Saskatchewan’s leading Information and Communications Technology provider.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
+      "first_seen": "2026-11-02T20:59:08Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (SK)",
+      "geo_city": "Regina",
+      "geo_province": "SK",
+      "geo_lat": 50.4452,
+      "geo_lon": -104.6189,
+      "geo_distance_km": 2039.4,
+      "geo_rank": 420394,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "RBC",
       "title": "Senior Director, AI Business Enablement",
@@ -17542,7 +17567,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4479643201/"
+      ]
     },
     {
       "company": "PlanIT Search",
@@ -20468,7 +20496,10 @@
       "geo_source": "description",
       "geo_confidence": "medium",
       "geo_detail": "description names Burlington",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4486438608/"
+      ]
     },
     {
       "company": "Superside",
