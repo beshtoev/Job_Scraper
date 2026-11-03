@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-03 22:34 UTC",
+  "updated_at": "2026-11-03 22:43 UTC",
   "jobs": [
+    {
+      "company": "Network Innovations (NI)",
+      "title": "Chief Financial Officer",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010315890642",
+      "date_posted": "2026-11-03",
+      "description": "CPA designation and a bachelor's degree in accounting, finance, business administration or a related field. A valid passport without restrictions; domestic and…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-03T22:43:23Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Sunlife",
       "title": "Director, Security Architecture",
@@ -43,7 +70,7 @@
       "company_url": "https://ca.indeed.com/cmp/Secure-Shield-Security",
       "date_posted": "2026-11-03",
       "description": "**Pay:** CA$40\\.95\\-CA$55\\.75 per hour\n\nJob Description:\n\n**!!! Now Hiring !!!**\n\n**(Finance and Administration Director)**\n\nWe are looking for a dedicated and experienced Finance and Administration Director for Secure Shield Security, located at 100 Matheson Blvd EON suite Unit 102, Mississauga, ON L4Z 3P8, Ontario\n\n**Job Description**\n\n* Develop, implement, and oversee the organization's financial and administrative strategies to support the delivery and expansion of security guard, mobile patrol, concierge, and specialized security services across Ontario.\n* Direct the preparation, management, and monitoring of operating budgets, financial forecasts, cash flow, and expenditure controls to ensure the organization's financial sustainability and profitability.\n* Establish and maintain financial policies, internal controls, and administrative procedures to ensure compliance with applicable accounting standards, tax legislation, payroll requirements, and regulatory obligations.\n* Lead the preparation and analysis of financial statements, management reports, operational performance metrics, and strategic recommendations to support executive decision\\-making and business growth.\n* Direct financial planning for security service contracts by evaluating pricing models, contract profitability, labour costs, equipment expenditures, and resource allocation to optimize operational efficiency.\n* Oversee the administration of payroll, accounts payable, accounts receivable, procurement, insurance, vendor contracts, and office administration to ensure accurate and efficient business operations.\n* Manage and provide leadership to finance and administrative staff by establishing performance objectives, coordinating workflow, implementing best practices, and ensuring compliance with company policies and legislative requirements.\n* Collaborate with senior management to develop long\\-term business plans, evaluate investment opportunities, implement financial risk management strategies, and support the company's expansion through effective financial and administrative governance.\n\n**Benefits**\n\n**Health benefits**\n\n* Dental plan\n* Disability benefits\n* Health care plan\n* Paramedical services coverage\n* Vision care benefits\n\n**Other benefits**\n\n* Free parking available\n\n**Employment Terms**\n\nPermanent Employment\n\n**Education Requirement**\n\nCollege, CEGEP or other non\\-university certificate or diploma from a program of 1 year to 2 years (or equivalent experience)\n\n**Experience Requirement**\n\n5 years or more\n\n**Language Requirement**\n\nEnglish\n\n**Target Groups**\n\nMature workers, Newcomers, Indigenous people are encouraged to apply.\n\n**Work Hours Per Week**\n\n30\\-40 hours week\n\nBenefits:\n\n* Dental care\n* Disability insurance\n* Extended health care\n* On\\-site parking\n* Vision care\n\nWork Location: In person\n\nPay: $40\\.95\\-$55\\.75 per hour\n\nExpected hours: 40\\.0 per week\n\nBenefits:\n\n* Dental care\n* Disability insurance\n* Extended health care\n* On\\-site parking\n* Vision care\n\nWork Location: In person",
-      "salary": "",
+      "salary": "$40.95–$55.75/hr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -65,7 +92,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "100 Matheson Blvd",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315889977"
+      ]
     },
     {
       "company": "Workplace Safety & Prevention Services",
@@ -330,7 +360,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315903841"
+      ]
     },
     {
       "company": "D&J Career Pathways",
