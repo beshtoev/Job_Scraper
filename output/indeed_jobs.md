@@ -1,22 +1,22 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-03 20:06 UTC*
+*Last updated: 2026-11-03 22:35 UTC*
 
-**3 new role(s)** since last run · 12 total in last 24h
+**3 new role(s)** since last run · 14 total in last 24h
 
-### [Director - Finance, Data & Analytics](https://ca.indeed.com/viewjob?jk=ab4d092c63ffefed) — Unity Health Toronto
+### [Director, Security Architecture](https://ca.indeed.com/viewjob?jk=268bea7d77328951) — Sunlife
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-03
 
-### [Senior Director, Finance Shared Services](https://ca.indeed.com/viewjob?jk=db94e4cd6fe70ca9) — Sofina Foods
-- 📍 **Location:** Brampton, ON, CA
-- **Work mode:** On-site
+### [Director, Corporate Compliance & Enterprise Risk](https://ca.indeed.com/viewjob?jk=f788a99a69177f29) — Toronto Community Housing
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-03
+- 🕒 **Posted:** 2026-11-02
 
-### [Director, Enterprise Procurement and Third-Party Management](https://ca.indeed.com/viewjob?jk=f6c2f43284ea1e5e) — Equitable
-- 📍 **Location:** Waterloo, ON, CA
+### [Finance and Administration Director](https://ca.indeed.com/viewjob?jk=c90568a2345fa14c) — Secure Shield Security
+- 📍 **Location:** Mississauga, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-03
