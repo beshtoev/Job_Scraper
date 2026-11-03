@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 01:04 UTC",
+  "updated_at": "2026-11-03 01:35 UTC",
   "jobs": [
     {
       "company": "Unknown",
@@ -646,7 +646,8 @@
       "work_arrangement": "On-site",
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-internal-audit-information-technology/12022129",
-        "https://jobs.lever.co/eqbank/367d0016-6a34-4a2d-b277-62a490233833"
+        "https://jobs.lever.co/eqbank/367d0016-6a34-4a2d-b277-62a490233833",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315096645"
       ]
     },
     {
@@ -2230,16 +2231,16 @@
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010312147522"
       ],
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
