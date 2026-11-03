@@ -1,28 +1,27 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-03 17:35 UTC*
+*Last updated: 2026-11-03 20:04 UTC*
 
-**5 new role(s)** since last run · 32 total in last 24h
+**5 new role(s)** since last run · 35 total in last 24h
 
-### [Senior Vice President, Capital Markets, Investments & Project Finance - DG Solar Company](https://www.glassdoor.ca/job-listing/j?jl=1010315042813) — J&T Business Consulting
+### [Director, Enterprise Procurement and Third-Party Management](https://www.glassdoor.ca/job-listing/j?jl=1010315725220) — Equitable CA
+- 📍 **Location:** Waterloo, Canada
+- 💰 **Salary:** $100k–$140k/yr
+- 🕒 **Posted:** 2026-11-03
+
+### [Senior Director, Finance Shared Services](https://www.glassdoor.ca/job-listing/j?jl=1010315733814) — Sofina Foods Inc
+- 📍 **Location:** Brampton, Canada
+- 💰 **Salary:** $120k–$170k/yr
+- 🕒 **Posted:** 2026-11-03
+
+### [Chief Revenue Officer (CRO) & Co-founder - AI for Small Law Firms](https://www.glassdoor.ca/job-listing/j?jl=1010315720242) — FutureSight Ventures
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $240k–$260k/yr
 - 🕒 **Posted:** 2026-11-03
 
-### [Director, Payments & Financial Services](https://www.glassdoor.ca/job-listing/j?jl=1010314537061) — FreshBooks
+### [Director - Finance, Data & Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010315756129) — Unity Health Toronto
 - 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-02
-
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010315652721) — Abadi Eighty-Six Interactive
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $169k–$186k/yr
 - 🕒 **Posted:** 2026-11-03
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010315561927) — Wolastoqey Nation in New Brunswick and Tribal Council
-- 📍 **Location:** Fredericton, Canada
-- 💰 **Salary:** $80k–$100k/yr
-- 🕒 **Posted:** 2026-11-03
-
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010315691912) — The Northern Rockies Regional Municipality
-- 📍 **Location:** Fort Nelson, Canada
-- 💰 **Salary:** $129k–$173k/yr
+### [Director Marketing Technology Analytics & Digital Platforms](https://www.glassdoor.ca/job-listing/j?jl=1010315041209) — Intact
+- 📍 **Location:** Montreal, Canada
+- 💰 **Salary:** $162k–$198k/yr
 - 🕒 **Posted:** 2026-11-03

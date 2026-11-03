@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-03 19:55 UTC",
+  "updated_at": "2026-11-03 20:03 UTC",
   "jobs": [
+    {
+      "company": "Unity Health Toronto",
+      "title": "Director - Finance, Data & Analytics",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010315756129",
+      "date_posted": "2026-11-03",
+      "description": "Provide analysis to support resource allocation, staffing decisions, event and program performance, fundraising investments and operational planning.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-03T20:03:51Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Elmwood Community Resource Centre",
       "title": "Assistant to the Director of Finance (Part Time),  Diocese of Rupert’s Land",
@@ -99,7 +126,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315733814"
+      ]
     },
     {
       "company": "Sunlife",
@@ -178,7 +208,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315725220"
+      ]
     },
     {
       "company": "Deel",
@@ -1802,7 +1835,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010314910081"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010314910081",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315041209"
       ]
     },
     {
@@ -14226,7 +14260,8 @@
       "ats": "Glassdoor",
       "first_seen": "2026-10-23T01:40:51Z",
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010304042745"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010304042745",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010315720242"
       ],
       "work_mode": "",
       "work_mode_evidence": "",
