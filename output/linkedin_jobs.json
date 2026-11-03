@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-03 10:44 UTC",
+  "scraped_at": "2026-11-03 11:06 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Salesforce Partner Canada",
@@ -52,30 +52,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Databricks",
-      "title": "Director, Enterprise Sales, Public Sector",
-      "location": "Ottawa, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4476027131/",
-      "date_posted": "2026-11-03",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "SLSQ427R938\n\nWhile candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.\n\nDo you want to help solve the world's toughest business problems with Data and AI? This is what we do every day at Databricks.\n\nWe are looking for an Enterprise Sales Director to lead our growing Public Sector business in Ottawa. Leading a team of Enterprise Named and Strategic Account Executives, you will be measured by achieving your team's overall quota and growing Databricks' consumption. This is a team of account executives that are passionate about building a data ecosystem, technically knowledgeable, and have a strong desire to drive value for our customers.\n\nYou will oversee the sales team, implementing sales plans, expanding existing business and delivering accurate sales forecasting and reporting.\n\nThis is a fantastic opportunity to build upon a highly successful team achieving significant year on year growth, in a fast growing business which is a hugely impactful part of the Canadian sales organization. We are looking for owners, who will go the extra mile and want to be the very best at what they do.\n\nThe Impact You Will Have\n\nLead a team of account executives, ensuring you coach them to develop the skills and behaviors they will need to succeed\nEstablish company territory plans, team structure, individual quotas and patches for your team, including investment capacity requirements\nReport on revenue forecast and strategic GTM programs\nPartner with cross-functional teams to manage a complete revenue and customer success process\nInspire a culture of teamwork, leading with value and achieving desired customers outcomes\nDevelop trust-based relationships with customers and partners to ensure long-term success\nEncourage learning and ongoing understanding of technical product details and our future product roadmap\nEstablish a revenue growth and investment plan in the first 90 days\nDeliver our strategic growth plans, in collaboration with the other function leaders across Canada, ensure forecast accuracy and a predictable, high-growth business\n\nWhat We Look For\n\nExperience as a high-growth enterprise software sales leader with experience leading sales teams serving Named and Strategic customers within the Data, AI, Cloud, or SaaS Sales Industry, specifically within the Public Sector space.\nHistory of exceeding sales quotas in similar high-growth technology companies\nAbility to engage with and hire sales talent in the market\nFocus and emphasis on methodology-based sales coaching, MEDDPIC and a Challenger mentality\nExperience of value-based sales with both the business and IT stakeholders including C suite\nExperience in leadership roles focused on managing sales organisations to influence, develop, and achieve objectives within Data, AI, Cloud, or SaaS sales\nExtended Executive relationship network with key customers.\nKnowledge of the partner ecosystem to help grow Enterprise strategic territories\nSuccess implementing strategies for consumption and commitment-based sales revenue models.\n\nAbout Databricks\n\nDatabricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn, X, YouTube, and Instagram.\n\nBenefits\n\nAt Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here.\n\nOur Commitment to Diversity and Inclusion\n\nAt Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.\n\nCompliance\n\nIf access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "Ottawa",
-      "geo_province": "ON",
-      "geo_lat": 45.4215,
-      "geo_lon": -75.6972,
-      "geo_distance_km": 349.5,
-      "geo_rank": 203495,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
