@@ -1,22 +1,15 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-03 00:15 UTC*
+*Last updated: 2026-11-03 03:17 UTC*
 
-**5 new role(s)** since last run · 225 total in current portal openings
+**3 new role(s)** since last run · 224 total in current portal openings
 
-### [Director, Internal Audit (Information Technology)](https://jobs.lever.co/eqbank/367d0016-6a34-4a2d-b277-62a490233833) — EQ Bank
-- 📍 **Location:** Toronto
+### [Sales Leader, Enterprise](https://jobs.lever.co/jobgether/e5c20027-1c6a-43da-bef1-2240c0e1eae6) — Jobgether
+- 📍 **Location:** Canada
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-11-03
 
-### [Senior Director, Technology Infrastructure Operations & Resiliency](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--Technology-Infrastructure-Operations---Resiliency_R-0000191597) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-11-02
-
-### [Director, Internal Audit (Information Technology)](https://builtintoronto.com/job/director-internal-audit-information-technology/12022129) — EQ Bank | Equitable Bank
+### [Sales Director for Cloud & AI](https://builtintoronto.com/job/sales-director-cloud-ai/11844785) — Microsoft
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Chapter Lead, Media Analytics](https://builtintoronto.com/job/director-chapter-lead-media-analytics/11701874) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Head of Advisor Technology - Americas](https://builtintoronto.com/job/head-advisor-technology-americas/12019821) — Vanguard
+### [Director Credit Execution, Commercial National Accounts, Financial Institutions Group](https://builtintoronto.com/job/director-credit-execution-commercial-national-accounts-financial-institutions-group/12023764) — TD Bank
 - 📍 **Location:** Toronto, Ontario, Canada
