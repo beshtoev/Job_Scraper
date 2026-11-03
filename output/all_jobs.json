@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 04:26 UTC",
+  "updated_at": "2026-11-03 05:00 UTC",
   "jobs": [
     {
       "company": "TCHC",
@@ -380,17 +380,17 @@
       "url": "https://builtintoronto.com/job/head-advisor-technology-americas/12019821",
       "direct_url": "https://builtintoronto.com/job/head-advisor-technology-americas/12019821",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-11-03",
       "date_seen": "2026-11-03T00:14:13Z",
-      "description": "",
+      "description": "Provides the strategic direction, oversees and leads a team of technical support staff who design, develop, test, implement and monitor software and tools. Acts as a subject matter expert and thought leader, and manages the implementation of divisional products. Manages Leads the evaluation and selection of IT vendor products. Partners with leaders to strategize and effectively shape IT demand that will deliver business impact.\n\nProvides the strategic direction, oversees and leads a team of technical support staff who design, develop, test, implement and monitor software and tools. Acts as a subject matter expert and thought leader, and manages the implementation of divisional products. Manages Leads the evaluation and selection of IT vendor products. Partners with leaders to strategize and effectively shape IT demand that will deliver business impact.\n\nCore Responsibilities\n\nHires, evaluates, and supervises crew. Provides guidance and training as necessary to develop crew. Sets performance standards, reviews performance, and makes informed compensation decisions in accordance with all applicable Human Resources policies and procedures.\nProvides full strategic ownership for delivering software releases relating to the product for the business units, managing the testing, evaluation, and selection of IT vendor products. Works with business clients to determine scope, and develops and implements environmental requirements for each project.\nDevelops and implements staffing and operational plans. Effectively leverages various staffing options and manages a global workforce. Develops and implements short and long term department goals and ensures alignment with the overall strategy. Monitors service delivery metrics and overall performance.\nDevelops and implements changes to department policies and procedures to meet changing business needs and to achieve department objectives. Identifies opportunities for continuous improvement and implements appropriate strategies and technologies for building products and delivering services.\nLeads quality initiatives to improve the delivery of service levels. Plans, develops, and executes short and long range goals to ensure divisional success.\nDevelops and maintains relationships with key stakeholders to provide long-term collaborations and deliver successful business outcomes.\nReviews expenses and ensures department operates within budgetary guidelines. Leads the strategy and execution to build, buy, and integrate business technology solutions.\nEnsures staff complies with information technology and information security policies and procedures, and verifies that deliverables meet requirements.\nParticipates in special projects and performs other duties as assigned.\n\nQualifications\n\nMinimum of ten years related work experience, with at least five years of project management experience.\nUndergraduate degree or equivalent combination of training and experience. Graduate degree preferred.\n\nHow We Work\n\nVanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-11-03T00:14:18Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
       "geo_category": "Toronto",
       "geo_label": "Toronto",
       "geo_city": "Toronto",
@@ -402,7 +402,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4486800943/"
+      ]
     },
     {
       "company": "Lacroix Médecine Privée",
@@ -23899,7 +23902,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
