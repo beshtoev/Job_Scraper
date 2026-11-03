@@ -1,6 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-03 09:29 UTC*
+*Last updated: 2026-11-03 12:43 UTC*
 
-**0 new role(s)** since last run · 223 total in current portal openings
+**1 new role(s)** since last run · 223 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Associate/Assistant Vice President - Credit Underwriting and Portfolio Management – Financial Institutions Group (FIG)](https://builtintoronto.com/job/associate-assistant-vice-president-credit-underwriting-and-portfolio-management-financial-institutions-group-fig/11341474) — MUFG
+- 📍 **Location:** Toronto, Ontario, Canada
