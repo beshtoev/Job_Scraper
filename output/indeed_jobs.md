@@ -1,16 +1,28 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-03 03:22 UTC*
+*Last updated: 2026-11-03 05:24 UTC*
 
-**2 new role(s)** since last run · 12 total in last 24h
+**4 new role(s)** since last run · 15 total in last 24h
 
-### [Director, Corporate Compliance & Enterprise Risk](https://ca.indeed.com/viewjob?jk=d6fc7006a34c3f10) — TCHC
+### [Toronto Internal Audit & Financial Advisory (Financial Services) Associate Director](https://ca.indeed.com/viewjob?jk=a815f9922ddb9e2c) — Protiviti
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-02
 
-### [Director, Corporate Compliance & Enterprise Risk](https://ca.indeed.com/viewjob?jk=f788a99a69177f29) — TCHC
+### [Toronto Internal Audit & Financial Advisory (Financial Services) Associate Director](https://ca.indeed.com/viewjob?jk=c27345a244b75c6f) — Protiviti
 - 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-02
+
+### [Director, Payments & Financial Services](https://ca.indeed.com/viewjob?jk=5e18760e22060dd1) — FreshBooks
+- 📍 **Location:** Kitchener, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-02
+
+### [Director, Payments & Financial Services](https://ca.indeed.com/viewjob?jk=48619b7e408da9ba) — FreshBooks
+- 📍 **Location:** Calgary, AB, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-02
