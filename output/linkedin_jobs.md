@@ -1,31 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-03 18:53 UTC*
+*Last updated: 2026-11-03 19:28 UTC*
 
-**6 new role(s)** since last run · 10 total in last 1h
+**3 new role(s)** since last run · 7 total in last 1h
 
-### [Senior Director, Finance Shared Services](https://www.linkedin.com/jobs/view/4487025723/) — Sofina Foods Canada
-- 📍 **Location:** Brampton, Ontario, Canada
-- 💰 **Salary:** $120,100 - $170,100
+### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4485001847/) — Torus Talent
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $150,000 to $210,000
 - 🕒 **Posted:** 2026-11-03
 
-### [Director, Security Architecture](https://www.linkedin.com/jobs/view/4486082414/) — Sunlife
-- 📍 **Location:** Kitchener, Ontario, Canada
+### [Director of finance](https://www.linkedin.com/jobs/view/4486093354/) — Calgary French & International School
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $160,000 to $180,000
 - 🕒 **Posted:** 2026-11-03
 
-### [Director, Analytics Engineering](https://www.linkedin.com/jobs/view/4487031404/) — GitLab
-- 📍 **Location:** Canada
-- 💰 **Salary:** $139,200—$285,600 USD
-- 🕒 **Posted:** 2026-11-03
-
-### [Director, Security Architecture](https://www.linkedin.com/jobs/view/4486087388/) — Sunlife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-03
-
-### [Director, Security Architecture](https://www.linkedin.com/jobs/view/4486077683/) — Sunlife
-- 📍 **Location:** Greater Toronto Area, Canada
-- 🕒 **Posted:** 2026-11-03
-
-### [Director, Enterprise Procurement and Third-Party Management](https://www.linkedin.com/jobs/view/4485011475/) — Equitable
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 💰 **Salary:** $100,000.00/yr - CA$140,000.00/yr
+### [Associate Director, Commercial Banking (Corporate Finance Group)](https://www.linkedin.com/jobs/view/4480558798/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $70,000.00 - $150,000.00
 - 🕒 **Posted:** 2026-11-03
