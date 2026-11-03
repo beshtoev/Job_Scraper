@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 16:41 UTC",
+  "updated_at": "2026-11-03 17:05 UTC",
   "jobs": [
     {
       "company": "St. Joseph's Health Centre, Toronto",
@@ -29078,16 +29078,16 @@
         "https://www.linkedin.com/jobs/view/4478584608/",
         "https://www.linkedin.com/jobs/view/4478599033/"
       ],
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Ottawa",
       "geo_province": "ON",
       "geo_lat": 45.4215,
       "geo_lon": -75.6972,
       "geo_distance_km": 349.5,
-      "geo_rank": 203495,
+      "geo_rank": 303495,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
