@@ -146,6 +146,14 @@
       43.6460763,
       -79.3887574
     ],
+    "55 john street, toronto, on, canada": [
+      43.6460763,
+      -79.3887574
+    ],
+    "550 west hastings street, vancouver, canada": [
+      49.2841528,
+      -123.1126616
+    ],
     "595 burrard street, vancouver, bc, canada": [
       49.2861912,
       -123.1199006
@@ -159,6 +167,10 @@
       -84.335297
     ],
     "70 foster drive, toronto, on, canada": null,
+    "729 petrolia road, toronto, on, canada": [
+      43.7781747,
+      -79.4882021
+    ],
     "750 main street, moncton, canada": [
       46.0881352,
       -64.7766355

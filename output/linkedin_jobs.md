@@ -1,61 +1,44 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-02 23:51 UTC*
+*Last updated: 2026-11-03 01:03 UTC*
 
-**13 new role(s)** since last run · 14 total in last 1h
+**9 new role(s)** since last run · 17 total in last 1h
 
-### [Data & Analytics Consulting Leader](https://www.linkedin.com/jobs/view/4484867577/) — N2P Systems
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-02
-
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4486476114/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
-- 🕒 **Posted:** 2026-11-02
-
-### [Vice President, Technology Operations](https://www.linkedin.com/jobs/view/4485789065/) — BCI
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $190,000.00/yr - CA$240,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Toronto Internal Audit & Financial Advisory (Financial Services) Associate Director](https://www.linkedin.com/jobs/view/4486465460/) — Protiviti
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-02
-
-### [Director, Citizen Development & Employee Technology Experience Pod Owner](https://www.linkedin.com/jobs/view/4486449777/) — Mackenzie Investments
-- 📍 **Location:** Greater Toronto Area, Canada
+### [Director, Citizen Development & Employee Technology Experience Pod Owner](https://www.linkedin.com/jobs/view/4486487166/) — IG Wealth Management
+- 📍 **Location:** Manitoba, Canada
 - 💰 **Salary:** $149,500 - $192,500
-- 🕒 **Posted:** 2026-11-02
+- 🕒 **Posted:** 2026-11-03
 
-### [Compute Country Lead, Canada](https://www.linkedin.com/jobs/view/4485792426/) — Anthropic
-- 📍 **Location:** Greater Toronto Area, Canada
-- 🕒 **Posted:** 2026-11-02
-
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4485783607/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 🕒 **Posted:** 2026-11-02
-
-### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4486458905/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 🕒 **Posted:** 2026-11-02
-
-### [Staff + Senior Software Engineer, Inference](https://www.linkedin.com/jobs/view/4485799146/) — Anthropic
+### [Director, Citizen Development & Employee Technology Experience Pod Owner](https://www.linkedin.com/jobs/view/4486487165/) — IG Wealth Management
 - 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-11-02
+- 💰 **Salary:** $149,500 - $192,500
+- 🕒 **Posted:** 2026-11-03
 
-### [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://www.linkedin.com/jobs/view/4485788501/) — Anthropic
-- 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-11-02
+### [Director, Corporate Compliance & Enterprise Risk](https://www.linkedin.com/jobs/view/4486000336/) — Toronto Community Housing
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $165,001.67 - $198,002.01
+- 🕒 **Posted:** 2026-11-03
 
-### [Anthropic Fellows Program, AI Safety & Security](https://www.linkedin.com/jobs/view/4485781632/) — Anthropic
-- 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-11-02
+### [Technical Director / AI Lead](https://www.linkedin.com/jobs/view/4484360987/) — SILENT GOD Apparel
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-03
 
-### [Sales Lead, Canada Public Sector](https://www.linkedin.com/jobs/view/4485780785/) — Anthropic
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $420,000—$495,000
-- 🕒 **Posted:** 2026-11-02
+### [Chef de la Planification Budgétaire et de la Gouvernance / Head of Business Planning & Governance](https://www.linkedin.com/jobs/view/4484626262/) — Airbus Aircraft
+- 📍 **Location:** Mirabel, Quebec, Canada
+- 🕒 **Posted:** 2026-11-03
 
-### [Director, Business Advisory & Succession Planning](https://www.linkedin.com/jobs/view/4481273507/) — BMO
+### [Assistant Director of Finance and Accounting](https://www.linkedin.com/jobs/view/4486484857/) — Delta Hotels and Resorts®
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $85,000.00 - $175,000.00
+- 💰 **Salary:** $68,000-$86,000 Annually
+- 🕒 **Posted:** 2026-11-03
+
+### [Vice President - Technology](https://www.linkedin.com/jobs/view/4486475278/) — Cinareo
+- 📍 **Location:** Oshawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-02
+
+### [Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)](https://www.linkedin.com/jobs/view/4485798270/) — Anthropic
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-11-02
+
+### [Director of Sales, Enterprise](https://www.linkedin.com/jobs/view/4485787646/) — Dot Compliance
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-02
