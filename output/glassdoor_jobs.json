@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-03 01:36 UTC",
+  "scraped_at": "2026-11-03 02:51 UTC",
   "total": 30,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "BC Housing",
@@ -787,59 +787,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "EQ Bank | Canada's Challenger Bank",
-      "title": "Director, Internal Audit (Information Technology)",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010315096645",
-      "date_posted": "2026-11-03",
-      "description": "Responsible for executing the end-to-end audit engagement process: commences with the development of an audit plan, followed by identification of risks,…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Xe",
-      "title": "Director SMB Digital Growth - B2B Payments",
-      "location": "Remote, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010312147522",
-      "date_posted": "2026-11-01",
-      "description": "In addition, Xe offers a wide range of best-in-class, comprehensive and inclusive employee benefits for this role, including healthcare, dental and vision…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_arrangement": "Remote in-state eligible",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
-      "geo_city": "",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 399999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only country stated",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
