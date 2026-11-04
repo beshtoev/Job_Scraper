@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-04 13:20 UTC",
+  "scraped_at": "2026-11-04 13:43 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Trulioo",
@@ -76,30 +76,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "LHH Knightsbridge",
-      "title": "Interim Vice President, Finance / Controller",
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4486393093/",
-      "date_posted": "2026-11-04",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "IMMEDIATE INTERIM OPPORTUNITY\n\nInterim Vice President, Finance / Controller\n\nDuration: 3 Months – ideally temporary to permanent\n\nReports: Chief Financial Officer\n\nLocation: Downtown Toronto (Hybrid)\n\nOur client is a large, complex Canadian organization with significant operations across Canada and the United States. They are seeking an experienced Interim Vice President, Finance / Controller to provide strong financial leadership during an important period of transition.\n\nThis is an excellent opportunity for a highly accomplished CPA and technical accounting leader who can quickly establish credibility, bring calm and assured leadership to the finance function, and provide trusted support to the CFO.\n\nThe successful candidate will lead a team of approximately 35 finance professionals, ensure continuity of critical financial reporting responsibilities while keeping the team engaged, motivated and focused through change.\n\nKey Priorities -\n\nProvide leadership and stability to a talented finance team during a period of organizational transition.\nLead and oversee month-end, quarter-end and year-end close and reporting.\nMaintain a high standard of financial reporting, controls, governance and technical accounting.\nCoach, engage and develop the finance team, with a strong focus on retention, accountability and performance.\nEnsure the finance function continues to deliver meaningful value to the broader organization.\nPartner closely with the CFO, providing both technical expertise and experienced leadership.\nProvide leadership and oversight of the Treasury function, ensuring effective cash management, liquidity planning and related treasury activities.\nSupport accounting associated with acquisitions, including purchase price accounting and integration-related financial reporting.\nQuickly assess priorities, identify risks and establish confidence across the finance function and senior leadership team.\n\nThe Ideal Candidate\n\nThe successful candidate will be a seasoned finance executive who combines strong technical accounting expertise with mature, people-focused leadership.\n\nThey will ideally bring:\n\nCPA designation is required.\nSignificant experience as a Controller, VP Finance or senior financial reporting leader within a large, complex organization.\nStrong IFRS technical accounting and financial reporting expertise.\nExperience working within multi-site and multi-entity environments.\nExperience with acquisition accounting and purchase price accounting.\nExperience operating across Canada and the United States would be highly valuable.\nA track record of leading sizable professional finance teams through periods of change or transition.\nThe ability to quickly establish credibility and become a trusted partner to the CFO.\nA leadership style that is calm, confident, engaging and appropriately assertive.\nThe maturity to balance hands-on technical leadership with broader organizational and people priorities.\n\nWhy This Assignment?\n\nThis is more than a traditional interim Controller mandate. The organization needs an experienced finance leader who can step into a complex environment, provide immediate stability and help a strong team successfully navigate a period of change.\n\nFor the right individual, the assignment offers the opportunity to make an immediate and visible impact within a significant North American organization. There is also the potential for the role to transition into a permanent leadership opportunity based on performance and mutual fit.\n\nPLEASE SEND YOUR CV (AS A WORD DOC) TO:\nInterim.Applications@LHHknightsbridge.com (Subject: Job Title)\n\nLHH Knightsbridge Interim Management\nis a service to help our clients address a wide range of scenarios including leadership support due to sudden departures, driving key change initiatives or leading transformation projects. Our interim executives step in with minimal downtime to meet specific objectives and deliver results. All have held senior positions in the past and have now chosen to offer their unique depth and breadth of experience to organizations on a limited engagement basis.\n\nFollow the LHH Knightsbridge LinkedIn page and set up a job alert to learn about new Executive Interim opportunities.\n\nLee Hecht Harrison Knightsbridge Corp. is committed to providing equitable treatment and accommodation to ensure a barrier-free recruitment process. In accordance with the Ontario Human Rights Code, Accessibility for Ontarians with Disabilities Act and our AODA policy, a request for accommodation will be accepted as part of the hiring process. If you require accommodation to apply or if selected to participate in an assessment process, please provide your accommodation needs in advance to the Recruitment Lead for this opportunity.\n\nWe thank all interested candidates in advance; however, only individuals selected for interviews will be contacted.\n\nNovember 2026\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nContract\n\nIndustries\n\nStaffing and Recruiting",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
