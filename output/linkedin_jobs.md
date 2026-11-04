@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 00:21 UTC*
+*Last updated: 2026-11-04 00:46 UTC*
 
-**0 new role(s)** since last run · 9 total in last 1h
+**1 new role(s)** since last run · 9 total in last 1h
 
-No new roles since the last run.
+### [AVP, Delivery Excellence & Transformation](https://www.linkedin.com/jobs/view/4487081871/) — Canadian Tire Corporation
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-04
