@@ -1,6 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 12:16 UTC*
+*Last updated: 2026-11-04 12:58 UTC*
 
-**0 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Senior Director, Global Privacy & Data Protection](https://www.linkedin.com/jobs/view/4469941942/) — Trulioo
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-04
+
+### [Director of Finance](https://www.linkedin.com/jobs/view/4486380233/) — Pontosense
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $160,000 to $190,000
+- 🕒 **Posted:** 2026-11-04
