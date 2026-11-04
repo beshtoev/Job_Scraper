@@ -1,6 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 07:03 UTC*
+*Last updated: 2026-11-04 09:06 UTC*
 
-**0 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 9 total in last 24h
 
-No new roles since the last run.
+### [Director, Financial Accounting and Systems Integration](https://ca.indeed.com/viewjob?jk=18be39e7d9d54d3c) — BAYCREST HOSPITAL
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-03
