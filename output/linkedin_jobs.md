@@ -1,18 +1,21 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 16:39 UTC*
+*Last updated: 2026-11-04 17:07 UTC*
 
-**3 new role(s)** since last run · 12 total in last 1h
+**4 new role(s)** since last run · 10 total in last 1h
 
-### [Chief AI Officer](https://www.linkedin.com/jobs/view/4486385759/) — Axial Search
-- 📍 **Location:** Canada
-- 💰 **Salary:** $180,000.00/yr - CA$330,000.00/yr
+### [Frontier and Platform Development Leader](https://www.linkedin.com/jobs/view/4460505255/) — Deloitte
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $104,000 - $215,000,
 - 🕒 **Posted:** 2026-11-04
 
-### [Directeur(trice) de l’analytique marketing / Director of Marketing Analytics](https://www.linkedin.com/jobs/view/4487500089/) — Manmade
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4487511076/) — BDO Canada
+- 📍 **Location:** Oakville, Ontario, Canada
 - 🕒 **Posted:** 2026-11-04
 
-### [Director, Equipment Planning and Biomedical Services](https://www.linkedin.com/jobs/view/4485614665/) — Mackenzie Health
-- 📍 **Location:** Richmond Hill, Ontario, Canada
-- 💰 **Salary:** $137,748.00/yr - CA$175,793.00/yr
+### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4487502473/) — BDO Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-04
+
+### [Director, Financial Planning & Analysis and Capital Investment - International Division](https://www.linkedin.com/jobs/view/4482173789/) — Top Aces
+- 📍 **Location:** Dorval, Quebec, Canada
 - 🕒 **Posted:** 2026-11-04
