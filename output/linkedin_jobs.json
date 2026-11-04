@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-04 07:38 UTC",
+  "scraped_at": "2026-11-04 08:10 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Jobgether",
@@ -28,30 +28,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jobgether",
-      "title": "Principal Creative Director, AI Video",
-      "location": "Canada",
-      "url": "https://www.linkedin.com/jobs/view/4486351396/",
-      "date_posted": "2026-11-04",
-      "salary": "USD $170,000–$225,000,",
-      "ats": "LinkedIn",
-      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Principal Creative Director, AI Video based in Canada.\n\nThe Principal Creative Director will shape the future of AI-native creative production, combining advanced generative technologies with exceptional storytelling and visual craft. This hands-on leadership role will define how AI is integrated into video, motion, and design, while setting a high creative standard through original work and experimentation. You will develop innovative brand films, campaigns, and product storytelling that bring together traditional production techniques and generative AI. Beyond individual projects, you will establish the tools, workflows, and creative principles that enable a broader studio team to produce outstanding work consistently. Working alongside creative leadership, video and motion specialists, and brand designers, you will help build a distinctive creative practice at the intersection of technology and design.\n\nAccountabilities\n\nDefine and lead the creative direction of AI-native video, motion, and design projects, setting a high standard for originality, quality, and storytelling.\nPersonally develop and produce creative work that demonstrates how generative AI can deliver compelling results beyond technical experimentation.\nCreate brand films, campaign assets, and product storytelling that combine traditional production methods with AI-led workflows.\nEstablish the creative technology stack, selecting and applying generative AI tools while defining when traditional methods are more appropriate.\nDesign repeatable workflows, production methods, and creative principles that enable the wider team to adopt AI capabilities effectively.\nIdentify the strengths and limitations of emerging AI tools and translate them into practical creative production approaches.\nCollaborate with the Creative Director, video and motion teams, and brand designers to integrate AI-native practices into the studio's work.\nChampion responsible AI creative practices, including clear principles around likeness, disclosure, and content provenance.\nRaise the quality and ambition of creative output through hands-on experimentation, direction, and production.\n\nRequirements\n\nAt least 10 years of experience across video, motion, or design, combining creative direction with hands-on production.\nRecent experience creating or directing work using generative AI, with a portfolio demonstrating strong creative quality and storytelling.\nDeep knowledge of current generative AI tools and production technologies, including their capabilities, limitations, and practical applications.\nDemonstrated ability to build repeatable AI-powered creative workflows that other team members can adopt and use effectively.\nStrong creative judgment and the ability to balance technical innovation with brand quality, originality, and audience impact.\nA clear perspective on responsible AI use, particularly regarding likeness rights, disclosure, and content provenance.\nAdditional assets: A diverse portfolio or showreel spanning live-action, motion, and generative work.\nExperience establishing and developing an AI creative practice within an existing studio or creative team.\nA public point of view, published work, or demonstrated thought leadership on the role of AI in creative production.\nStrong collaboration and communication skills, with the ability to influence creative direction while remaining actively involved in making the work.\n\nBenefits\n\nAnnual gross base salary range of USD $170,000–$225,000, with final compensation localized according to the candidate's country, experience, skills, and location.\nPotential stock grant opportunities, depending on role, employment status, and location.\nFlexible paid time off.\nOptional flexible coworking office membership through IWG.\nAdditional perks and benefits based on employment status and country.\nAccess to a globally distributed, remote-first working environment.\nOpportunities to collaborate with creative professionals across international teams.\n\nHow Jobgether Works\n\nWe use an AI-powered matching process\nto ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\n\nWhy Apply Through Jobgether?\n\nData Privacy Notice:\nBy submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInternet Marketplace Platforms",
-      "work_mode": "Remote",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
-      "geo_city": "",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 399999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only country stated",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
