@@ -9,13 +9,13 @@
     "last_success": "2026-11-04T17:42:23Z"
   },
   "linkedin": {
-    "last_success": "2026-11-04T16:44:57Z"
+    "last_success": "2026-11-04T18:33:46Z"
   },
   "linkedin_cursor": {
-    "cycle_started": "2026-11-04T17:49:04Z",
-    "last_success": "2026-11-04T18:17:58Z",
-    "next_term": 16,
-    "partial": true
+    "cycle_started": null,
+    "last_success": "2026-11-04T18:49:57Z",
+    "next_term": 0,
+    "partial": false
   },
   "ziprecruiter_email": {
     "last_success": "2026-11-04T18:27:52Z"
