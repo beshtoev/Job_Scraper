@@ -1,10 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 09:06 UTC*
+*Last updated: 2026-11-04 11:18 UTC*
 
-**1 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 10 total in last 24h
 
-### [Director, Financial Accounting and Systems Integration](https://ca.indeed.com/viewjob?jk=18be39e7d9d54d3c) — BAYCREST HOSPITAL
+### [AVP Retirement & Wealth Strategy](https://ca.indeed.com/viewjob?jk=2fd8e3386eea87fc) — Manulife
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-03
+- 🕒 **Posted:** 2026-11-02
+
+### [AVP Strategy - Intermediary, Product, Institutional](https://ca.indeed.com/viewjob?jk=cb6bd8a8156c48fe) — Manulife
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-02
