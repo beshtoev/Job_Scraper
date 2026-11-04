@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 22:07 UTC",
+  "updated_at": "2026-11-04 22:22 UTC",
   "jobs": [
     {
       "company": "AtkinsRéalis",
@@ -27367,7 +27367,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -42531,63 +42531,6 @@
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010286152568"
       ]
-    },
-    {
-      "company": "SickKids Foundation",
-      "title": "Associate Director, Data Engineer",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286046845",
-      "date_posted": "2026-10-05",
-      "description": "Stay current with developments in cloud data platforms, AI, and emerging engineering practices, bringing relevant advancements into the platform roadmap and…",
-      "salary": "$99k–$143k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-05T22:07:36Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4475884777/"
-      ]
-    },
-    {
-      "company": "Firefly Solar Inc.",
-      "title": "Chief Financial Officer (CFO) – Controller Experience Required",
-      "location": "Calgary, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286089081",
-      "date_posted": "2026-10-05",
-      "description": "Lead budgeting, forecasting, cash-flow planning and financial analysis. Partner closely with the Accounting & Finance Lead and senior leadership on financial…",
-      "salary": "$175k–$200k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-05T22:07:36Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (AB)",
-      "geo_city": "Calgary",
-      "geo_province": "AB",
-      "geo_lat": 51.0447,
-      "geo_lon": -114.0719,
-      "geo_distance_km": 2706.9,
-      "geo_rank": 427069,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
     }
   ]
 }
