@@ -1,19 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 20:11 UTC*
+*Last updated: 2026-11-04 20:30 UTC*
 
-**3 new role(s)** since last run · 7 total in last 1h
+**3 new role(s)** since last run · 6 total in last 1h
 
-### [Associate Director, Portfolio Governance and Value Realization](https://www.linkedin.com/jobs/view/4484725074/) — Canadian Blood Services
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $132,300 - $155,600
+### [Chief Information Officer](https://www.linkedin.com/jobs/view/4486527295/) — SaskTel
+- 📍 **Location:** Regina, Saskatchewan, Canada
 - 🕒 **Posted:** 2026-11-04
 
-### [Director, AI, Data & Analytics](https://www.linkedin.com/jobs/view/4486506981/) — City of North Vancouver
-- 📍 **Location:** North Vancouver, British Columbia, Canada
-- 💰 **Salary:** $156,156.00/yr - CA$181,632.00/yr
+### [Director of Finance](https://www.linkedin.com/jobs/view/4487521971/) — Lopes Limited
+- 📍 **Location:** Sudbury, Ontario, Canada
+- 💰 **Salary:** $90,000 - $150,000
 - 🕒 **Posted:** 2026-11-04
 
-### [Director, General Operations, Structured Finance](https://www.linkedin.com/jobs/view/4465556641/) — Reinsurance Group of America, Incorporated
+### [Associate Director Finance](https://www.linkedin.com/jobs/view/4486531050/) — Recruiting in Motion
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $107,060.00 - $144,820.00
 - 🕒 **Posted:** 2026-11-04
