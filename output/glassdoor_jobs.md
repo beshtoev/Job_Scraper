@@ -1,39 +1,37 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 21:05 UTC*
+*Last updated: 2026-11-04 23:28 UTC*
 
-**7 new role(s)** since last run · 54 total in last 24h
+**7 new role(s)** since last run · 60 total in last 24h
 
-### [Director - Quality & Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010316974687) — St. Joseph's Care Group
-- 📍 **Location:** Thunder Bay, Canada
-- 💰 **Salary:** $138k–$173k/yr
-- 🕒 **Posted:** 2026-11-04
-
-### [Head of AI Ecosystem & Growth](https://www.glassdoor.ca/job-listing/j?jl=1010316974884) — Snaplii
-- 📍 **Location:** Remote, Canada
-- 💰 **Salary:** $150k–$300k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-04
-
-### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010316997633) — The Pod Group
+### [Director, Digital & Information Management](https://www.glassdoor.ca/job-listing/j?jl=1010317114510) — AtkinsRéalis
 - 📍 **Location:** Mississauga, Canada
-- 💰 **Salary:** $105k–$120k/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Chief Financial Officer (Not-For-Profit)](https://www.glassdoor.ca/job-listing/j?jl=1010316998871) — The Pod Group
+### [Applications Development AI Developer, Assistant Vice President](https://www.glassdoor.ca/job-listing/j?jl=1010317027401) — Citi
 - 📍 **Location:** Mississauga, Canada
-- 💰 **Salary:** $105k–$120k/yr
+- 💰 **Salary:** $94k–$142k/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010315740693) — Robert Half
-- 📍 **Location:** Selkirk, Canada
-- 💰 **Salary:** $140k–$155k/yr
-- 🕒 **Posted:** 2026-11-03
-
-### [Associate Director Medical Information - Canada](https://www.glassdoor.ca/job-listing/j?jl=1010316972144) — Regeneron
+### [VP of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010317117143) — Snaplii
 - 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $143k–$193k/yr
+- 💰 **Salary:** $300k/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Director of Change Management & AI Transformation](https://www.glassdoor.ca/job-listing/j?jl=1010317000670) — CGI
-- 📍 **Location:** Montreal, Canada
+### [Head of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010317049116) — Entertainment Partners
+- 📍 **Location:** Burnaby, Canada
+- 💰 **Salary:** $150k–$180k/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [Director, Global Network Services, Deloitte Global Technology](https://www.glassdoor.ca/job-listing/j?jl=1010317114478) — Deloitte
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $140k–$260k/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [Senior Director, Brand & Cultural Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010317037298) — Proof Strategies
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $150k–$160k/yr
+- 🕒 **Posted:** 2026-11-04
+
+### [Director, Digital & Information Management](https://www.glassdoor.ca/job-listing/j?jl=1010317114400) — AtkinsRéalis
+- 📍 **Location:** Mississauga, Canada
 - 🕒 **Posted:** 2026-11-04

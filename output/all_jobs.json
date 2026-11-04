@@ -1,13 +1,40 @@
 {
-  "updated_at": "2026-11-04 23:11 UTC",
+  "updated_at": "2026-11-04 23:27 UTC",
   "jobs": [
+    {
+      "company": "Entertainment Partners",
+      "title": "Head of Finance",
+      "location": "Burnaby, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010317049116",
+      "date_posted": "2026-11-04",
+      "description": "Oversee the local cash management function including maintaining Canadian banking relationships; monitor corporate cash flows, fraud detection, vendor credit…",
+      "salary": "$150k–$180k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-04T23:27:55Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Burnaby",
+      "geo_province": "BC",
+      "geo_lat": 49.2488,
+      "geo_lon": -122.9805,
+      "geo_distance_km": 3345.6,
+      "geo_rank": 433456,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Snaplii",
       "title": "VP of Finance",
       "location": "Etobicoke, Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4487574034/",
       "date_posted": "2026-11-04",
-      "salary": "",
+      "salary": "$300k/yr",
       "ats": "LinkedIn",
       "description": "Snaplii is hiring a VP of Finance in Toronto who can manage the books, the money, the transactions and the systems together, and who still digs in personally when something breaks.\n\nAbout Snaplii\n\nSnaplii is a profitable North American wallet and payments platform for people and their AI agents, with offices in Toronto and Silicon Valley.\n\n400K+ users and about US$150M in annual payment volume\n500+ brand partners, including Costco, Walmart and Uber\nNow building financial infrastructure for people and their AI agents: Snaplii is already live on Muse, with about 2,000 AI agents running on it\n\nWhat You'll Do\n\nYou report to the CEO and lead the finance organization, including our Financial Controller. In priority order:\n\nFinance and controls. Own month-end close, financial reporting, external audit and internal controls across our Canada and US entities.\nPayments finance operations. You don't reconcile every transaction yourself, but you own the whole mechanism and the outcome of every exception:\nEnd-to-end reconciliation across internal transaction records, the user balance ledger, payment processor records and bank statements\nSettlement and payouts: correct amounts, timing, receiving entities and approval authority\nExceptions such as missing orders, duplicate payments, delayed settlements, fee differences and refunds not received, traced and closed out\nClear accounting and control boundaries between company operating funds, user funds and settlement funds\nTreasury and liquidity: funds kept safe, liquidity sufficient and settlements accurate, with strong bank and payment-processor relationships\n\nDigital transformation. Find the manual, error-prone steps in finance and payment operations, then work with product and engineering to automate them and to monitor for fund discrepancies, late settlements and unusual transactions.\nTeam. Lead, coach and grow the finance team, starting with the Financial Controller.\nFundraising and investments. Partner with the CEO on fundraising, board and investor materials and the numbers behind major decisions; oversee corporate investments.\nCompliance, over time. Work with our compliance lead on fund controls, audit evidence and bank requirements, with room to take on more compliance responsibility as you grow into the role.\n\nHow You'll Work\n\nThis is a startup seat: you manage the team and do the work yourself.\n\nWhile the team is still being built, you dig into the books, chase discrepancies and deal with banks and payment processors yourself\nYou make sound calls with incomplete information, and bring risks and proposed fixes to the CEO early\nWhen you find a cross-team problem, you push it through to resolution instead of only reporting it\nYou keep daily money movement and finance running while you build the systems underneath\n\nWhat You Bring\n\nCPA designation, with a strong accounting and Controller foundation\nExperience leading a full finance function and managing a team\nEnd-to-end ownership of month-end close, financial statements, external audit and internal controls\nHands-on experience with payment or transaction fund flows: reconciliation, settlement, payouts and refunds\nYou have led at least one digital transformation of a finance or payment-operations process and can explain the results before and after. You don't need to write code, but you can read a process, define the rules and verify the outcome\nReal banking and payment-processor relationship experience you can walk us through with examples\nProfessional working proficiency in both English and Mandarin\nBased in the Greater Toronto Area and able to work from our Toronto office\n\nThe strongest fit has grown from Controller or finance operations at a payments, wallet, fintech or high-volume platform company, rebuilt systems hands-on and led a small team. Big-company titles count less than having managed the books, the funds and the transaction flows together.\n\nNice to have\n\nExperience in payments, fintech or other regulated businesses, working with compliance on fund controls, audit evidence and bank requirements\nSQL, BI or API data experience (real implementations matter more than tool names)\nMulti-entity finance across Canada and the US\nFundraising, bank credit facilities, data rooms, or investor and board communication\nBusiness analytics: runway, unit economics and operating KPIs\n\nCompensation and location\n\nThe role offers an annual compensation package of up to CAD $300,000, including base salary and a performance-based bonus, depending on experience.\n\nBased in our Toronto office. Our team works in both English and Mandarin.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
       "first_seen": "2026-11-04T23:11:54Z",
@@ -24,7 +51,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317117143"
+      ]
     },
     {
       "company": "Scotiabank",
@@ -99,7 +129,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317114478"
+      ]
     },
     {
       "company": "AtkinsRéalis",
@@ -112,6 +145,8 @@
       "description": "Overview\n\nDirector, Digital & Information Management is a leadership role responsible for developing and implementing the digital strategy and information management framework for one of our major new build projects. The role is responsible for developing and implementing the digital strategy and information management framework for this project. The Director reports functionally to the Vice-President, Digital Solutions and operationally to the Project Director.\n\nThis Director ensures that all project data, documentation, and digital systems are integrated, secure, and aligned with company standards, regulatory requirements, industry standards, and project objectives. The position drives digital transformation to enable efficient collaboration, lifecycle data management, and regulatory compliance across engineering, procurement, construction, and commissioning phases.\n\nKey responsibilities include leading project teams, developing work execution plans, recruiting and assigning team members, managing project deliverables, organizational structure, budget, schedule, risk management, and overseeing people forecasting and levelling for the project.\n\nYour role\n\nLead the development and execution of the Digital and Information Management strategy for a large-scale nuclear new build project.\nAlign digital initiatives with project objectives, corporate standards, regulatory requirements, and long-term asset lifecycle management.\nChampion digital transformation through BIM, digital twins, data analytics, advanced collaboration platforms, and emerging technologies.\nEstablish and govern enterprise-wide information management frameworks, including data governance, metadata standards, and document control processes.\nEnsure compliance with nuclear industry regulations, cybersecurity standards, and industry best practices such as ISO 19650 and IEC 62645.\nImplement and manage integrated digital systems, including BIM, EDMS, project controls, scheduling, cost management, ERP, and asset information platforms.\nLead the deployment of Common Data Environments (CDE) and Advanced Work Packaging (AWP) solutions across EPCM partners, suppliers, and stakeholders.\nOversee project-wide BIM execution, ensuring cross-disciplinary integration, interoperability, data quality, and a single source of truth for project information.\nEstablish robust cybersecurity, digital safety, training, and corrective action programs to protect critical systems and ensure regulatory compliance.\nMonitor digital performance, drive stakeholder adoption, report on system effectiveness and data integrity, and identify opportunities for continuous improvement and cost optimization.\n\nAbout You\n\nMinimum 10 years of leadership experience in digital transformation, information management, or IT management within large infrastructure, engineering, energy, or industrial projects.\nStrong expertise with BIM, Common Data Environments (CDE), Electronic Document Management Systems (EDMS), and project controls platforms.\nExperience with integrated 3D engineering design technologies such as Hexagon SmartPlant/Smart 3D, AVEVA, or comparable plant design systems.\nKnowledge of nuclear new build projects, reactor design, construction execution, and nuclear industry operating practices is preferred.\nProven ability to lead teams, manage direct reports, and support project delivery organizations through complex digital initiatives.\nSolid understanding of Advanced Work Packaging (AWP), engineering, procurement, and construction workflows within large capital projects.\nFamiliarity with ISO 19650 information management standards, cybersecurity frameworks, and nuclear regulatory compliance requirements.\nStrong commitment to nuclear safety culture, industrial safety programs, quality assurance standards, and continuous regulatory compliance.\nDemonstrated leadership, stakeholder engagement, communication, customer relationship, and organizational management skills with the ability to drive change.\nProven ability to exercise sound judgment, accountability, teamwork, delegation, problem-solving, and decision-making while performing effectively in high-pressure environments.\n\nRewards & benefits\n\nExplore the rewards and benefits that help you thrive – at every stage of your life and your career at AtkinsRéalis in Canada.\n\nEnjoy competitive compensation, employee recognition, and a brilliant range of flexible benefits you can tailor to your health, wellbeing, financial and lifestyle needs.\n\nMake the most of diverse opportunities for training and professional development to grow your skills and expertise.\n\nAnd take advantage of our hybrid working culture and generous time-off policies to balance a fulfilling career with your personal life.\n\nBe rewarded. Find out more.\n\nAbout AtkinsRéalis\n\nWe're AtkinsRéalis, a world-class engineering services and nuclear organization. We connect people, data and technology to transform the world's'infrastructure and energy systems. Together, with our industry partners and clients, and our global team of consultants, designers, engineers and project managers, we can change the world. We're committed to leading our clients across our various end markets to engineer a better future for our planet and its people.\n\nFind out more.\n\nAdditional information\n\nAtkinsRéalis cares about your privacy. AtkinsRéalis and other subsidiary or affiliated companies of AtkinsRéalis (referred to throughout as \"AtkinsRéalis\") are committed to protecting your privacy. Please consult our Privacy Notice on our Careers site to know more about how we collect, use, and transfer your Personal Data.\n\nBy submitting your personal information to AtkinsRéalis, you confirm that you have read and accept our Privacy Notice.\n\nAppropriate accommodation will be provided upon request throughout the recruitment and hiring process as required by Company policy and the Accessibility for Ontarians with Disabilities Act (AODA).\n\nSuccessful applicants will be notified about AtkinsRéalis' accommodation policies at the time the employment offer is extended, and the information will be shared with new personnel during the onboarding process.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nEngineering Services",
       "first_seen": "2026-11-04T21:59:08Z",
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317114400",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317114510",
         "https://www.linkedin.com/jobs/view/4487534739/"
       ],
       "work_mode": "Hybrid",
@@ -163,7 +198,7 @@
       "company_url": "https://ca.indeed.com/cmp/Proof-Inc.-1",
       "date_posted": "2026-11-04",
       "description": "Proof Strategies is an independent, Canadian‑owned strategic communications agency that charts its own path. Built on a simple philosophy – that you can do great work with great people and be a great place to work – Proof has grown into an award‑winning agency where curiosity, integrity, and collaboration are deeply valued. Today, we are proud to be one of Canada’s leading communications agencies, partnering with some of the world’s most respected brands and trusted organizations.\n\n\n\nGuided by this foundation and a belief in the power of strong human relationships, we are on a mission to help our clients capture attention, earn trust, and move people to action. To support us on this journey, we’re hiring a Senior Director, Brand Strategy, who’s excited to build with us and help shape the agency’s next chapter.\n\n\n### **The opportunity**\n\n\n\nProof is seeking a Senior Director, Brand Strategy to lead strategic thinking across the agency, elevate the quality and effectiveness of our client work, and help define the next generation of communications planning.\n\n\n\nThis role combines audience insight, cultural strategy, trend identification, communications planning, and creative inspiration. You will uncover emerging signals, identify shifts in audience behaviour and culture, and translate those insights into powerful communications strategies, earned\\-first ideas, brand platforms, campaigns, and stakeholder engagement programs that connect to clear client objectives and create meaningful impact.\n\n\n\nYou will work closely with client teams, creatives, integrated planners, and research partners to ensure our work is rooted in insight and connected to what matters most to people. You will help teams turn strategic thinking into clear direction, stronger ideas and excellent client initiatives from opportunity and brief through development, execution and evaluation.\n\n\n\nBeyond client work, you will help build and grow the agency’s strategic planning capability by evolving our methodologies, integrating AI and new technologies into our process, mentoring talent, and supporting business development efforts and identifying opportunities to strengthen client relationships and agency growth.\n\n\n\nOur strategists are active partners to our clients, not behind\\-the\\-scenes strategists. This role requires someone who can lead and present strategic thinking with confidence, build trusted client relationships, and stay close to the work from insight through execution. You’ll be expected to bring strategic perspective into client conversations, shape the work alongside creative and account teams, and help ensure strategy translates into ideas and outcomes that deliver for our clients.\n\n\n### **Key responsibilities**\n\n\n#### **Audience, Cultural \\& Market Intelligence**\n\n\n* Lead primary and secondary research to uncover audience insights, behaviours, motivations, barriers, and opportunities.\n* Identify emerging cultural shifts, market signals, risks, and opportunities before competitors.\n* Monitor social, economic, technological, media, and consumer trends to inform client strategies and agency thinking.\n* Apply AI\\-enabled research, intelligence, listening, and forecasting tools to accelerate insight generation and strategic planning.\n* Transform complex research findings into compelling narratives and actionable recommendations that inform decisions, shape strategy and identify opportunities for client impact.\n\n#### **Strategic Planning**\n\n\n* Write insightful and inspiring creative briefs that spark breakthrough ideas.\n* Develop strategies that connect business objectives, brand, audience insight, culture, and communications.\n* Define clear measures of success and guide teams on performance evaluation and learning.\n* Partner with creative, digital, content, and communications teams to develop earned\\-first ideas capable of competing with both communications and advertising agencies.\n* Lead strategic thinking throughout the development of major client initiatives, ensuring insight, strategy, creative ideas and execution remain connected to the client’s objectives.\n* Raise the strategic quality and effectiveness of client work by challenging and strengthening ideas, recommendations and approaches.\n* Ensure creative territories and execution remain aligned with audience insight, strategic objectives, and brand positioning.\n* Bring cultural relevance and audience understanding into every stage of campaign development.\n* Define what success looks like at the outset of an initiative and use insights, data and results to evaluate impact and strengthen future work.\n* Translate strategic thinking into clear direction that enables client and agency teams to make strong decisions and move work forward.\n\n#### **Agency Strategy Leadership**\n\n\n* Define and evolve Proof’s strategic planning offering and point of view.\n* Build tools, frameworks, processes, and best practices that strengthen strategic thinking across the agency.\n* Champion the adoption of audience\\-first and insight\\-led planning methodologies.\n* Establish Proof as a recognized leader in communications strategy, audience intelligence, and cultural insight.\n* Contribute thought leadership, speaking opportunities, articles, and agency marketing initiatives.\n\n#### **Growth \\& Business Development**\n\n\n* Provide strategic leadership in new business opportunities and agency growth.\n* Lead strategic discovery, audits, workshops, and planning sessions with prospective clients.\n* Contribute to pitch strategy, insight development, positioning, and presentation storytelling.\n* Identify and develop new strategic products, services, and opportunities that create value for clients and support agency growth.\n\n#### **Team Development \\& Collaboration**\n\n\n* Mentor teams across the agency, including client leads, and emerging talent.\n* Foster a culture of curiosity, learning, experimentation, and innovation.\n* Collaborate across practices and disciplines to elevate strategic thinking",
-      "salary": "",
+      "salary": "$150k–$160k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -185,7 +220,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317037298"
+      ]
     },
     {
       "company": "Citi",
@@ -2510,6 +2548,7 @@
       "duplicate_urls": [
         "https://builtintoronto.com/job/applications-development-ai-developer-assistant-vice-president/12042325",
         "https://ca.indeed.com/viewjob?jk=ca5fcadf9670b6de",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317027401",
         "https://www.linkedin.com/jobs/view/4486511281/"
       ],
       "work_mode": "Remote",
@@ -42516,39 +42555,6 @@
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1
-    },
-    {
-      "company": "BMO Financial Group",
-      "title": "Managing Director and Head, Financial Services Group",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010286194110",
-      "date_posted": "2026-10-05",
-      "description": "Bachelor’s degree required, Master’s degree preferred, CPA certification preferred; Business Administration, Finance and Accounting preferred.",
-      "salary": "$120k–$215k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-05T23:13:16Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "direct_url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Managing-Director-and-Head--Financial-Services-Group_R260028308",
-      "job_type": "fulltime",
-      "work_arrangement": "On-site",
-      "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=51a4a38d8f1fcc1d"
-      ]
     }
   ]
 }
