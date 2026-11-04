@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 02:56 UTC",
+  "updated_at": "2026-11-04 02:58 UTC",
   "jobs": [
     {
       "company": "Jobgether",
@@ -36,30 +36,33 @@
       "date_posted": "2026-11-04",
       "date_seen": "2026-11-04T01:29:31Z",
       "description": "Work with other Loopio leaders to monitor trends in customers, market, and competitive landscape. Lead from the Front: Roll up your sleeves to actively coach…",
-      "is_remote": null,
+      "is_remote": true,
       "department": "",
       "ats": "Builtin",
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-11-04T01:29:44Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
       "salary": "$288k–$324k/yr",
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=5c5e8d4db5e6f683",
         "https://www.glassdoor.ca/job-listing/j?jl=1010316028220"
-      ]
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "RSM US LLP",
@@ -508,7 +511,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/AVP--Delivery-Excellence---Transformation_JR167376",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=1c78e242b1188e55"
+      ]
     },
     {
       "company": "National Bank of Canada",
