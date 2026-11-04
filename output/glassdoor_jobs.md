@@ -1,14 +1,14 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 13:52 UTC*
+*Last updated: 2026-11-04 16:14 UTC*
 
-**2 new role(s)** since last run · 52 total in last 24h
+**2 new role(s)** since last run · 51 total in last 24h
 
-### [Vice President, Enterprise Services](https://www.glassdoor.ca/job-listing/j?jl=1010316066108) — WorkforceNL
-- 📍 **Location:** St. John's, Canada
-- 💰 **Salary:** $126k–$164k/yr
-- 🕒 **Posted:** 2026-11-04
+### [Chief Information Officer](https://www.glassdoor.ca/job-listing/j?jl=1010314925773) — SaskTel
+- 📍 **Location:** Regina, Canada
+- 💰 **Salary:** $227k/yr
+- 🕒 **Posted:** 2026-11-03
 
-### [Head of AI](https://www.glassdoor.ca/job-listing/j?jl=1010316640411) — Symoda
-- 📍 **Location:** Ottawa, Canada
-- 💰 **Salary:** $90k–$130k/yr
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010315740693) — Robert Half
+- 📍 **Location:** Selkirk, Canada
+- 💰 **Salary:** $140k–$155k/yr
 - 🕒 **Posted:** 2026-11-04
