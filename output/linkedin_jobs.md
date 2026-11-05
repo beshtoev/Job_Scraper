@@ -1,12 +1,20 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 00:59 UTC*
+*Last updated: 2026-11-05 01:25 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**4 new role(s)** since last run · 12 total in last 1h
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4487593196/) — JMC HR Consulting
-- 📍 **Location:** Moncton, New Brunswick, Canada
+### [VP of Digital Marketing (Remote, Quebec City)](https://www.linkedin.com/jobs/view/4487590112/) — Blacksmith Agency
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-05
 
-### [AVP, CTR Promo Strategy & Programs](https://www.linkedin.com/jobs/view/4487580403/) — Canadian Tire Corporation
-- 📍 **Location:** Toronto, Ontario, Canada
+### [VP of Digital Marketing (Remote, Vancouver)](https://www.linkedin.com/jobs/view/4487581196/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-05
+
+### [VP of Digital Marketing (Remote, Toronto)](https://www.linkedin.com/jobs/view/4487573651/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-05
+
+### [VP of Digital Marketing (Remote, London)](https://www.linkedin.com/jobs/view/4487587061/) — Blacksmith Agency
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-05
