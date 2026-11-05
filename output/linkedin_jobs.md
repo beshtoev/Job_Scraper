@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 13:17 UTC*
+*Last updated: 2026-11-05 13:40 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 5 total in last 1h
 
-### [Director, FP&A - Site Operations](https://www.linkedin.com/jobs/view/4470200767/) — Compass Minerals
-- 📍 **Location:** Goderich, Ontario, Canada
-- 💰 **Salary:** $150,000 - $187,500 per year
+### [Canada Transformation Office Leader](https://www.linkedin.com/jobs/view/4486766097/) — Marsh Agency
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-05
