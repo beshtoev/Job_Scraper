@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 13:40 UTC*
+*Last updated: 2026-11-05 14:01 UTC*
 
-**1 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 6 total in last 1h
 
-### [Canada Transformation Office Leader](https://www.linkedin.com/jobs/view/4486766097/) — Marsh Agency
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director of Finance](https://www.linkedin.com/jobs/view/4487521971/) — Lopes Limited
+- 📍 **Location:** Sudbury, Ontario, Canada
+- 💰 **Salary:** $90,000 - $150,000
 - 🕒 **Posted:** 2026-11-05
