@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-05 02:14 UTC",
+  "updated_at": "2026-11-05 02:47 UTC",
   "jobs": [
+    {
+      "company": "The IPO Center",
+      "title": "Chief Financial Officer",
+      "location": "Sidney, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4486517728/",
+      "date_posted": "2026-11-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "CFO part time for Exciting New AI corp\n0.25% – 1.0%\nRole Title: Fractional CFO / Strategic Advisory Partner (Equity)\nType: Part-Time (1 hrs/week) | Remote | Equity-Only\nAbout Nexuslayer.io: Position Type: Part-Time (1 hr/week) | Remote | Equity-Only\nAbout Nexus AI Foundation (nexuslayer.io) Nexus AI Foundation is a Wyoming-based nonprofit organization established to advance decentralized infrastructure for autonomous artificial intelligence systems.\nTHE BIG IDEAEvery Technology Revolution Requires New Infrastructure:\nThe Internet connected people.\nCloud computing connected applications.\nBlockchain connected value.\nArtificial Intelligence is creating autonomous economic actors.\nFor the first time in history, software is evolving beyond tools into active participants in the global economy. AI agents will increasingly execute operations, coordinate workflows, negotiate transactions, purchase services, manage resources, and operate continuously.\nNexus is building the foundational infrastructure layer to power this emerging machine economy.\nLeadership & Team Structure Nexus is led by a team focused on building and scaling foundational infrastructure for autonomous AI commerce:\nRick Plotnikoff – Founder & Chief Executive Officer (Corporate strategy, ecosystem development, capital formation)\n\nChief Technology Officer – Leading software & blockchain architecture and engineering strategy\nThe Role: Fractional CFO / Strategic Advisor We are seeking a senior finance leader or experienced CFO to partner with our executive team in a lightweight, high-impact capacity as we approach our upcoming fundraise.\nCommitment: 1 hour per week (Fully remote & flexible schedule)\nCore Responsibility: Participating in select strategic investor calls, validating high-level financial models, and providing institutional financial credibility.\nCompensation: Equity / Token Allocation Grant (0.25% – 1.%, subject to standard vesting/milestone terms).\nRequirements 5+ years in tech corporate finance, Web3/crypto metrics, VC fundraising, or advisory.\nDeep understanding of early-stage cap tables, valuation models, and investor communications.\nAbility to join 1–2 key investor calls per month to represent our financial strategy.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time",
+      "first_seen": "2026-11-05T02:47:08Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (BC)",
+      "geo_city": "Sidney",
+      "geo_province": "BC",
+      "geo_lat": 48.65058,
+      "geo_lon": -123.39832,
+      "geo_distance_km": 3383.9,
+      "geo_rank": 333839,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "BDO",
       "title": "Director, Talent Management & Workforce Insights",

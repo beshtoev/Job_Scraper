@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 02:03 UTC*
+*Last updated: 2026-11-05 02:48 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Director, Governance, Risk & Compliance (GRC)](https://www.linkedin.com/jobs/view/4486557388/) — Robertson & Company Ltd.
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4486517728/) — The IPO Center
+- 📍 **Location:** Sidney, British Columbia, Canada
 - 🕒 **Posted:** 2026-11-05
