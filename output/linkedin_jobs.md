@@ -1,12 +1,18 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 17:39 UTC*
+*Last updated: 2026-11-05 18:16 UTC*
 
-**2 new role(s)** since last run · 11 total in last 1h
+**3 new role(s)** since last run · 14 total in last 1h
 
-### [Vice President of Finance](https://www.linkedin.com/jobs/view/4485833974/) — Rothenbury Group
-- 📍 **Location:** Vaughan, Ontario, Canada
+### [Director, Project Governance](https://www.linkedin.com/jobs/view/4477026494/) — WSP in Canada
+- 📍 **Location:** British Columbia, Canada
+- 💰 **Salary:** $177,000 - $234,000
 - 🕒 **Posted:** 2026-11-05
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4486782226/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Director of Finance, CPA](https://www.linkedin.com/jobs/view/4488005733/) — JobsMedia.io
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-05
+
+### [Financial Director](https://www.linkedin.com/jobs/view/4488001853/) — Hays
+- 📍 **Location:** Scarborough, Ontario, Canada
+- 💰 **Salary:** $160,000.00/yr - CA$180,000.00/yr
 - 🕒 **Posted:** 2026-11-05
