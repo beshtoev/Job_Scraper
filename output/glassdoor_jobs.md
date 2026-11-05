@@ -1,24 +1,23 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 22:27 UTC*
+*Last updated: 2026-11-05 23:45 UTC*
 
-**4 new role(s)** since last run · 62 total in last 24h
+**4 new role(s)** since last run · 64 total in last 24h
 
-### [VP of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010318355258) — Infinite Outsourcing Solutions
-- 📍 **Location:** Oakville, Canada
-- 💰 **Salary:** $200k–$225k/yr
+### [VP, Strategy and Performance Management, Capital Markets](https://www.glassdoor.ca/job-listing/j?jl=1010318467687) — BMO Financial Group
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $86k–$185k/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [AVP Retirement & Wealth Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010316159628) — Manulife
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $157k–$291k/yr
+### [Vice President, Finance](https://www.glassdoor.ca/job-listing/j?jl=1010318218232) — Sun Peaks Resort LLP
+- 📍 **Location:** Sun Peaks, Canada
+- 💰 **Salary:** $145k–$155k/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010317133361) — Aplin
+- 📍 **Location:** Saskatoon, Canada
 - 🕒 **Posted:** 2026-11-04
 
-### [1245 Director of Finance - Full Time](https://www.glassdoor.ca/job-listing/j?jl=1010318415933) — YORK REGION CHILDREN'S AID SOCIETY
-- 📍 **Location:** Newmarket, Canada
-- 💰 **Salary:** $133k–$169k/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Chief Financial Officer - Controller](https://www.glassdoor.ca/job-listing/j?jl=1010318422983) — Trademark Group of Companies
-- 📍 **Location:** Markham, Canada
-- 💰 **Salary:** $80k–$130k/yr
+### [Director Technology Transformation Stores](https://www.glassdoor.ca/job-listing/j?jl=1010317271757) — Sobeys
+- 📍 **Location:** Stellarton, Canada
+- 💰 **Salary:** $122k–$168k/yr
 - 🕒 **Posted:** 2026-11-05
