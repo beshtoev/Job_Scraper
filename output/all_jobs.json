@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-11-05 01:24 UTC",
+  "updated_at": "2026-11-05 01:53 UTC",
   "jobs": [
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Vice President Commercial Financial Services",
+      "location": "St. John's, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010317165708",
+      "date_posted": "2026-11-05",
+      "description": "You will be responsible to lead the implementation of strategic initiatives and market opportunities to profile RBC with government, specific industry segments…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-05T01:53:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (NL)",
+      "geo_city": "St. John'S",
+      "geo_province": "NL",
+      "geo_lat": 47.5615,
+      "geo_lon": -52.7126,
+      "geo_distance_km": 2107.4,
+      "geo_rank": 421074,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Yard Dawgs",
+      "title": "Head of Technology",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010317169674",
+      "date_posted": "2026-11-05",
+      "description": "You've built a CRM or field service platform for a trades, home services or blue-collar business (new and existing customers, payments, scheduling and dispatch)…",
+      "salary": "$180k–$200k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-05T01:53:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Senior Director, People Risk Governance, Policy and Practice Lead",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010317165723",
+      "date_posted": "2026-11-05",
+      "description": "Providing independent and objective risk management insights, trends, analysis, and perspectives on emerging risks to enable well-informed senior leadership…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-05T01:53:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Blacksmith Agency",
       "title": "VP of Digital Marketing (Remote, Quebec City)",
@@ -274,6 +355,7 @@
       "work_arrangement": "On-site",
       "duplicate_urls": [
         "https://jobs.workable.com/view/1QMq2gxJcUuFMJ7pCT1NnG/director-of-finance-in-vancouver-at-form",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317151330",
         "https://www.linkedin.com/jobs/view/4487571624/"
       ]
     },
@@ -355,7 +437,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317207946"
+      ]
     },
     {
       "company": "MUFG",
@@ -383,7 +468,8 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/technology-program-management-vice-president/12084934",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/technology-program-management-vice-president/12084934"
+        "https://builtintoronto.com/job/technology-program-management-vice-president/12084934",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010317172329"
       ]
     },
     {
