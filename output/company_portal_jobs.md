@@ -1,17 +1,12 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 19:08 UTC*
+*Last updated: 2026-11-05 22:09 UTC*
 
-**4 new role(s)** since last run · 221 total in current portal openings
+**2 new role(s)** since last run · 222 total in current portal openings
 
-### [VP, Strategy and Performance Management, Capital Markets](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/VP--Strategy-and-Performance-Management--Capital-Markets_R260030457) — BMO
-- 📍 **Location:** Toronto, ON, CAN
+### [Director, AI Business Enablement](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--AI-Business-Enablement_R-0000177672-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
 - 🕒 **Posted:** 2026-11-05
 
-### [Associate Director, Scientific Strategy](https://builtintoronto.com/job/associate-director-scientific-strategy/12098199) — Klick Health
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Director, Information Security, Ongoing Monitoring](https://builtintoronto.com/job/director-information-security-ongoing-monitoring/12097341) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Vice President, Portfolio Analytics](https://builtintoronto.com/job/vice-president-portfolio-analytics/11952329) — The Citco Group Limited
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, Enterprise Performance Management](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Enterprise-Performance-Management_R-0000176993-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-11-05
