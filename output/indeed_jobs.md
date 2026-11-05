@@ -1,20 +1,38 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 00:10 UTC*
+*Last updated: 2026-11-05 02:15 UTC*
 
-**3 new role(s)** since last run · 11 total in last 24h
+**6 new role(s)** since last run · 15 total in last 24h
 
-### [VP of Finance](https://ca.indeed.com/viewjob?jk=121d9b46eea10068) — Snaplii
+### [Senior Director, Technology Risk Assessments](https://ca.indeed.com/viewjob?jk=d1e8ea933d5c7a9d) — Scotiabank
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-04
+
+### [Director, Talent Management & Workforce Insights](https://ca.indeed.com/viewjob?jk=a56207db4e7deac8) — BDO
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-04
 
-### [Director, Global Network Services, Deloitte Global Technology](https://ca.indeed.com/viewjob?jk=5b21f10b731284db) — Deloitte
+### [AVP, CTR Promo Strategy & Programs](https://ca.indeed.com/viewjob?jk=78666c09c64fe5f9) — Canadian Tire Corporation, Ltd.
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-04
 
-### [Director, Digital & Information Management](https://ca.indeed.com/viewjob?jk=f80efae76aa0930e) — AtkinsRéalis
+### [Technology Program Management, Vice President](https://ca.indeed.com/viewjob?jk=c326b1c3f0425afa) — MUFG
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-04
+
+### [Applications Development AI Developer, Assistant Vice President](https://ca.indeed.com/viewjob?jk=ca5fcadf9670b6de) — Citi
+- 📍 **Location:** Mississauga, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-03
+
+### [Director, Digital & Information Management](https://ca.indeed.com/viewjob?jk=9dcabd828acbc9f8) — AtkinsRéalis
 - 📍 **Location:** Mississauga, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
