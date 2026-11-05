@@ -1,6 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 20:56 UTC*
+*Last updated: 2026-11-05 21:12 UTC*
 
-**0 new role(s)** since last run · 6 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-No new roles since the last run.
+### [Director, Financial Operations](https://www.linkedin.com/jobs/view/4486787752/) — Athabasca University
+- 📍 **Location:** Alberta, Canada
+- 🕒 **Posted:** 2026-11-05
+
+### [Head of Finance](https://www.linkedin.com/jobs/view/4486785998/) — Entertainment Partners
+- 📍 **Location:** Burnaby, British Columbia, Canada
+- 💰 **Salary:** $150,000–$180,000
+- 🕒 **Posted:** 2026-11-05
