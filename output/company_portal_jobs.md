@@ -1,24 +1,22 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-04 20:53 UTC*
+*Last updated: 2026-11-05 00:08 UTC*
 
-**6 new role(s)** since last run · 219 total in current portal openings
+**5 new role(s)** since last run · 221 total in current portal openings
 
-### [Senior Director, Data Architecture & Engineering](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--Data-Architecture_R-0000191160) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
+### [Technology Program Management, Vice President](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Toronto-ON/Technology-Program-Management--Vice-President_10080539-WD) — Mufgub
+- 📍 **Location:** Toronto, ON
 - 🕒 **Posted:** 2026-11-04
 
-### [Director, Enterprise Integration Services – OneRBC: CNB Integration](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Enterprise-Integration-Services---OneRBC--CNB-Integration_R-0000191648) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-10-30
+### [Director of Finance](https://jobs.workable.com/view/1QMq2gxJcUuFMJ7pCT1NnG/director-of-finance-in-vancouver-at-form) — FORM
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-05
 
-### [Director Financial Risk](https://builtintoronto.com/job/director-financial-risk/12079304) — Manulife
+### [Technology Program Management, Vice President](https://builtintoronto.com/job/technology-program-management-vice-president/12084934) — MUFG
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director of Finance](https://builtintoronto.com/job/director-finance/12077135) — Search Atlas
+### [Issuer Services Technology Senior Developer - Vice President](https://builtintoronto.com/job/issuer-services-technology-senior-developer-vice-president/12084249) — Citigroup
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Capital Management Technology Engineering Lead - SVP](https://builtintoronto.com/job/capital-management-technology-engineering-lead-svp/12077847) — Citigroup
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Capital Management Technology Engineering Lead - SVP](https://builtintoronto.com/job/capital-management-technology-engineering-lead-svp/12076853) — Citi
+### [Issuer Services Technology Senior Developer - Vice President](https://builtintoronto.com/job/issuer-services-technology-senior-developer-vice-president/11685867) — Citi
 - 📍 **Location:** Toronto, Ontario, Canada
