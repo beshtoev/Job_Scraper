@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 05:49 UTC*
+*Last updated: 2026-11-05 06:32 UTC*
 
-**0 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 6 total in last 1h
 
-No new roles since the last run.
+### [Regional Financial Director, FP&A](https://www.linkedin.com/jobs/view/4487715567/) — O'Dell HVAC Group
+- 📍 **Location:** Burlington, Ontario, Canada
+- 🕒 **Posted:** 2026-11-05
