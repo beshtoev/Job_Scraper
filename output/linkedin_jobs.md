@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 14:57 UTC*
+*Last updated: 2026-11-05 15:20 UTC*
 
-**0 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 7 total in last 1h
 
-No new roles since the last run.
+### [DIVISION CHIEF (Data Analytics and Decision Support)](https://www.linkedin.com/jobs/view/4486758558/) — City of Toronto
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-05
