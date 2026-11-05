@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-05 11:34 UTC*
+*Last updated: 2026-11-05 11:58 UTC*
 
-**3 new role(s)** since last run · 10 total in last 1h
+**2 new role(s)** since last run · 11 total in last 1h
 
-### [Director, Wealth Management Strategy](https://www.linkedin.com/jobs/view/4479266879/) — RBC
+### [Senior Vice President (SVP)-  Toronto Financial Services](https://www.linkedin.com/jobs/view/4441909830/) — CGI
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-05
 
-### [Sr Director, Finance Systems (NetSuite, NSPB focus)](https://www.linkedin.com/jobs/view/4459865709/) — Avid
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-05
-
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4486703300/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Director, Governance and Controls](https://www.linkedin.com/jobs/view/4477856994/) — Canadian Nuclear Laboratories
+- 📍 **Location:** Chalk River, Ontario, Canada
 - 🕒 **Posted:** 2026-11-05
