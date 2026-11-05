@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-05 22:18 UTC",
+  "updated_at": "2026-11-05 22:27 UTC",
   "jobs": [
+    {
+      "company": "Infinite Outsourcing Solutions",
+      "title": "VP of Finance",
+      "location": "Oakville, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010318355258",
+      "date_posted": "2026-11-05",
+      "description": "Bachelor's degree in Finance, Accounting, Commerce, or related discipline. Develop strategies to improve cash generation and capital efficiency.",
+      "salary": "$200k–$225k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-05T22:27:29Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Oakville",
+      "geo_province": "ON",
+      "geo_lat": 43.4675,
+      "geo_lon": -79.6877,
+      "geo_distance_km": 35.6,
+      "geo_rank": 100356,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "YORK REGION CHILDREN'S AID SOCIETY",
+      "title": "1245 Director of Finance - Full Time",
+      "location": "Newmarket, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010318415933",
+      "date_posted": "2026-11-05",
+      "description": "Work with the Senior Leadership Team to develop and implement service-level agreements with key stakeholders and community partners to provide operational…",
+      "salary": "$133k–$169k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-05T22:27:29Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Newmarket",
+      "geo_province": "ON",
+      "geo_lat": 44.0592,
+      "geo_lon": -79.4613,
+      "geo_distance_km": 39.5,
+      "geo_rank": 100395,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Government of Nova Scotia",
       "title": "Director, Finance Operations",
@@ -9992,7 +10046,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010318422983"
+      ]
     },
     {
       "company": "Datatonic",
