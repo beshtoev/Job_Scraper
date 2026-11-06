@@ -1,10 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 18:45 UTC*
+*Last updated: 2026-11-06 20:57 UTC*
 
-**1 new role(s)** since last run · 14 total in last 24h
+**2 new role(s)** since last run · 14 total in last 24h
 
-### [Director of Finance and Operations](https://ca.indeed.com/viewjob?jk=84c63311f7af43c5) — Canadian Aboriginal and Minority Supplier Council
+### [Head of Domain, Technology Development](https://ca.indeed.com/viewjob?jk=76e343af488acf53) — Geotab
+- 📍 **Location:** Oakville, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-06
+
+### [AVP, Promo Operations, Planning & Integration](https://ca.indeed.com/viewjob?jk=9f3a2483274042ef) — Canadian Tire Corporation, Ltd.
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-06
