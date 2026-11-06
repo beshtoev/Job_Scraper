@@ -1,17 +1,21 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 17:04 UTC*
+*Last updated: 2026-11-06 17:27 UTC*
 
-**3 new role(s)** since last run · 19 total in last 1h
+**4 new role(s)** since last run · 23 total in last 1h
 
-### [Senior Director of Planning and Allocation](https://www.linkedin.com/jobs/view/4471140044/) — Psycho Bunny
+### [Vice President, Portfolio Analytics](https://www.linkedin.com/jobs/view/4470102200/) — The Citco Group Limited
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $115,000 - 155,000
+- 🕒 **Posted:** 2026-11-06
+
+### [Head of Domain, Technology Development](https://www.linkedin.com/jobs/view/4488188536/) — Geotab
+- 📍 **Location:** Oakville, Ontario, Canada
+- 🕒 **Posted:** 2026-11-06
+
+### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488181720/) — ABB
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-06
 
-### [Directeur.trice - Information Financière [Hybride] | Director - Financial Reporting [Hybrid] - FR](https://www.linkedin.com/jobs/view/4462892977/) — EDF power solutions North America
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-06
-
-### [Senior Director Finance](https://www.linkedin.com/jobs/view/4488193242/) — Nelson/Kraft and Associates
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $125,000-$130,000
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4487312697/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-06
