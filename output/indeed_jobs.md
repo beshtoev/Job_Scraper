@@ -1,16 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 10:13 UTC*
+*Last updated: 2026-11-06 12:32 UTC*
 
-**2 new role(s)** since last run · 13 total in last 24h
+**2 new role(s)** since last run · 15 total in last 24h
 
-### [Director, Product Analytics](https://ca.indeed.com/viewjob?jk=cbdb115bafc02d85) — Manulife
+### [Director, Enterprise Performance Management](https://ca.indeed.com/viewjob?jk=cade703570de47fa) — RBC
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-04
+- 🕒 **Posted:** 2026-11-06
 
-### [Director of Finance](https://ca.indeed.com/viewjob?jk=16e0efc9a0e02e07) — Unknown
+### [Director, Distribution Strategy & Financial Management](https://ca.indeed.com/viewjob?jk=5c7c3ad17b42b594) — CIBC
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
+- 🕒 **Posted:** 2026-11-06
