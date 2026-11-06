@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 07:14 UTC*
+*Last updated: 2026-11-06 07:47 UTC*
 
-**1 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4466372928/) — BDO Canada
-- 📍 **Location:** Toronto, Ontario, Canada
+### [chief technology officer (CTO)](https://www.linkedin.com/jobs/view/4488124376/) — IMDS Software
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-06
