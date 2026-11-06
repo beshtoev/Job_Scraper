@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-06 07:47 UTC",
+  "scraped_at": "2026-11-06 08:08 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "BDO Canada",
@@ -100,30 +100,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "IMDS Software",
-      "title": "chief technology officer (CTO)",
-      "location": "Montreal, Quebec, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4488124376/",
-      "date_posted": "2026-11-06",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Overview\n\nLanguages\n\nBilingual\n\nEducation\n\nMaster's degree\nComputer science\nComputer software engineering\n\nExperience\n\n5 years or more\n\nOn site\n\nWork must be completed at the physical location. There is no option to work remotely.\n\nResponsibilities\n\nTasks\n\nPrepare bids\nCo-ordinate project\nAnalyze user's requirements, and design and develop system architecture and specifications\n\nSupervision\n\n5-10 people\n\nExperience and specialization\n\nComputer and technology knowledge\n\nJira\nVisual C++ / MFC\nOracle\nMS SQL Server\nJava\nImage processing software\nSoftware development\nC#\nPython\nReact.js\nMicrosoft Visual Studio\n\nEquipment and machinery experience\n\nStudio image processing system\n\nArea of work experience\n\nProject coordination\n\nAdditional information\n\nTransportation/travel information\n\nValid driver's licence\nWilling to travel\nWilling to travel internationally\n\nWork conditions and physical capabilities\n\nAttention to detail\n\nPersonal suitability\n\nExcellent oral communication\nExcellent written communication\nOrganized\n\nBenefits\n\nHealth benefits\n\nDental plan\nDisability benefits\nHealth care plan\n\nFinancial benefits\n\nGroup insurance benefits\nLife insurance\nRegistered Retirement Savings Plan (RRSP)\n\nLong term benefits\n\nLong-term care insurance\n\nOther Benefits\n\nTravel insurance\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Montreal",
-      "geo_province": "QC",
-      "geo_lat": 45.5019,
-      "geo_lon": -73.5674,
-      "geo_distance_km": 502.6,
-      "geo_rank": 405026,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
