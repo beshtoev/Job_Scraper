@@ -2,6 +2,10 @@
   "geocode": {
     "/teletravail, on, canada": null,
     "000 what you'll do drive, montreal, qc, canada": null,
+    "1 dundas st west, toronto, on, canada": [
+      43.6557937,
+      -79.3816775
+    ],
     "1 presidents choice circle, brampton, on, canada": null,
     "1 presidents choice circle, north york, on, canada": null,
     "1 york street, toronto, canada": [
