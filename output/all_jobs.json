@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-11-06 17:25 UTC",
+  "updated_at": "2026-11-06 17:35 UTC",
   "jobs": [
+    {
+      "company": "The University of Calgary",
+      "title": "Communications Specialist, Office of the VP (Finance and Services) and CFO",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010318949529",
+      "date_posted": "2026-11-06",
+      "description": "Experience developing content for websites, social media, email campaigns, newsletters, presentations, media materials, and other digital platforms.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-06T17:35:37Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "ABB Canada Inc",
+      "title": "Director, International Business Transformation & Strategy Execution (flexible location)",
+      "location": "Saint-Laurent, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010319268896",
+      "date_posted": "2026-11-06",
+      "description": "Prendre en charge et piloter la feuille de route de transformation de NEMA International, en cohérence avec le parcours Stabiliser-Optimiser-Déployer à grande…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-06T17:35:37Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Saint-Laurent",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Director, Enterprise Performance Management",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010174767533",
+      "date_posted": "2026-11-06",
+      "description": "Synthesize enterprise performance data, strategic insights, competitive intelligence, and market intelligence into strategic briefs and deep dives for senior…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-06T17:35:37Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Kab Search",
+      "title": "Director of Finance",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010318957558",
+      "date_posted": "2026-11-06",
+      "description": "The Director of Finance plays a key leadership role in overseeing the financial operations of this large public funded institution.",
+      "salary": "$135k–$169k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-06T17:35:37Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Geotab",
       "title": "Head of Domain, Technology Development",
@@ -107,7 +215,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010319278556"
+      ]
     },
     {
       "company": "DLL",
@@ -132,7 +243,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010319372386"
+      ]
     },
     {
       "company": "Fidelity Canada",
@@ -723,7 +837,8 @@
       "direct_url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Director--Distribution-Strategy---Financial-Management_2622623-1",
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=5c7c3ad17b42b594",
-        "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Director--Distribution-Strategy---Financial-Management_2622623-1"
+        "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Director--Distribution-Strategy---Financial-Management_2622623-1",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010319079127"
       ],
       "job_type": "fulltime",
       "is_remote": true,
@@ -963,7 +1078,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4486905914/",
       "date_posted": "2026-11-05",
-      "salary": "",
+      "salary": "$113k–$210k/yr",
       "ats": "LinkedIn",
       "description": "The Director, Product Analytics will lead the Product Analytics function within Group Benefits, with primary accountability for using data and analytics to deepen understanding of our products, customers and members and to support better product and business decisions.\n\nThe incumbent will shape the strategy and evolution of Product Analytics, partnering closely with Product, Distribution and other business leaders to provide trusted, relevant and actionable insights across the product lifecycle. The role will help identify emerging trends, understand product performance and customer needs, evaluate opportunities and support decisions that strengthen our Group Benefits products and the value they provide to Canadians.\n\nThrough better use of data and insights, the Director will help connect product decisions to customer and member outcomes, supporting the broader ambition of improving the health and well-being of Canadians.\n\nIn addition to Product Analytics, the Director will contribute to and lead broader analytics initiatives across Group Benefits where the team's capabilities, data and expertise can create value. This may include customer and member analytics, portfolio insights, operational analytics, strategic business priorities and emerging analytical needs.\n\nWorking closely with Product, Distribution, Operations, Data and Technology partners, the Director will lead the development and evolution of analytical capabilities, including advanced analytics, dashboards and reporting, self-service analytics, data products and strategic insights. The role will balance immediate business needs with scalable analytical solutions, strong data governance, appropriate data protection and a clear focus on business and customer value.\n\nThe Director will also lead and develop a high-performing analytics team, establishing clear priorities, strengthening analytical capabilities and building a culture focused on curiosity, partnership and measurable business outcomes.\n\nPosition Responsibilities\n\nLead the Product Analytics function and team. Establish priorities and a clear analytics roadmap aligned with Group Benefits' product and business strategies. Coach and develop employees while fostering a collaborative, accountable and high-performing team.\nPartner closely with Product leaders and teams. Understand strategic priorities, opportunities and business questions and translate them into meaningful analytics, insights and recommendations.\nAdvance the Product Analytics strategy. Evolve the organization beyond traditional reporting toward proactive, insight-driven analytics that influence product strategy, development and ongoing management.\nDeepen understanding of product performance and customer needs. Use data to identify trends, opportunities, emerging issues and areas where products or customer experiences can be improved.\nSupport decisions across the product lifecycle. Bring analytical perspectives to product development, enhancements, portfolio management, customer adoption and ongoing product performance.\nUse analytics to improve outcomes for customers and members. Identify insights that enable better product and business decisions and contribute to improving the health and well-being of Canadians.\nDevelop and evolve Product Analytics capabilities. Advance dashboards, recurring reporting, exploratory analytics, self-service capabilities, data products and more sophisticated analytical approaches.\nEnable data and analytics for AI adoption. Partner with Data and Technology teams to improve the quality, structure, accessibility and governance of data so it is appropriately prepared for use in AI and advanced analytics, helping unlock new Product Analytics and broader Group Benefits use cases.\nSupport broader Group Benefits analytics priorities. Apply the team's analytical expertise to strategic business questions beyond Product Analytics where appropriate, including customer, member, sponsor, portfolio and operational analytics.\nIdentify emerging analytical opportunities. Partner with business leaders to frame complex or ambiguous questions, assess available data, develop analytical approaches and translate findings into actionable recommendations.\nStrengthen data storytelling. Translate complex information into clear, relevant and actionable insights for Product partners, senior leaders and other business stakeholders.\nDrive consistency, efficiency and automation. Reduce manual effort and create reusable analytical capabilities that can be leveraged across products and other areas of Group Benefits.\nAdvance the analytics data ecosystem. Partner with Data and Technology teams to establish the data, platforms and capabilities required for reliable, timely and increasingly sophisticated product and business analytics.\nChampion data quality, governance and protection. Ensure analytical products and insights are based on trusted data and adhere to enterprise governance, privacy and data protection standards.\nEstablish measures of success. Define and monitor business impact, stakeholder value, adoption, analytical effectiveness and continued advancement of capabilities.\nDrive innovation and continuous improvement. Assess emerging technologies, including AI and advanced analytics, and identify practical opportunities to strengthen Product Analytics, improve analytical efficiency and create value across Group Benefits.\nRepresent Product Analytics in cross-functional initiatives. Ensure analytical needs and opportunities are appropriately considered in Group Benefits product, data, technology and business decisions.\n\nRequired Qualifications\n\nUniversity degree in business, finance, analytics, technology, mathematics, engineering or another quantitative field. An advanced degree is considered an asset.\nSignificant leadership experience within analytics, business intelligence, product analytics or a related data function, with demonstrated experience leading teams through change and transformation.\nStrong experience using data and analytics to support product, customer or business decision-making, with an ability to translate complex information into meaningful insights and recommendations.\nDemonstrated ability to apply analytics to a range of business problems, moving comfortably between recurring reporting, exploratory analysis, strategic insights and scalable analytical solutions.\nStrong understanding of the Group Benefits business and product landscape, including the needs of customers, members, Distribution partners and internal business stakeholders.\nDemonstrated experience developing and executing an analytics strategy and roadmap that balances immediate stakeholder needs with longer-term opportunities and scalable capabilities.\nExperience partnering with Product and business teams to assess opportunities, understand performance and use data to influence strategic and tactical decisions.\nStrong ability to use data visualization and storytelling to communicate insights and recommendations to technical and non-technical audiences.\nExperience with modern analytics, business intelligence and data technologies, including dashboards, automated reporting and self-service analytical capabilities.\nUnderstanding of the data foundations required to support AI and advanced analytics, including data quality, structure, governance, accessibility and responsible use.\nAbility to identify analytical opportunities, structure ambiguous business questions and translate data into recommendations and measurable business outcomes.\nStrong understanding of data management principles, including data quality, governance, privacy and protection.\nDemonstrated ability to challenge business requests appropriately and prioritize analytical work based on customer value, business value, strategic alignment and organizational capacity.\nStrong executive communication and stakeholder management skills, with demonstrated ability to establish credibility with senior leaders and cross-functional partners.\nAbility to operate effectively across a complex, matrixed organization and bring together Product, business, Data and Technology partners around shared objectives.\nCurious, pragmatic and outcome-oriented, with a passion for using data and analytics to improve products, customer experiences and the health and well-being of Canadians.\n\nPreferred Qualifications\n\nBilingualism (English and French) is an asset. If the successful candidate is in Québec, proficiency in both languages will be required to support clients from various provinces outside of Quebec.\n\nWhen You Join Our Team\n\nWe’ll empower you to learn and grow the career you want.\nWe’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words.\nAs part of our global team, we’ll support you in shaping the future you want to see.\n\nThe role being advertised is an existing vacancy.\n\nAbout Manulife And John Hancock\n\nManulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html.\n\nManulife is an Equal Opportunity Employer\n\nAt Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.\n\nIt is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact hr@manulife.com.\n\nReferenced Salary Location\n\nToronto, Ontario\n\nWorking Arrangement\n\nHybrid\n\nSalary range is expected to be between\n\n$113,260.00 CAD - $210,340.00 CAD\n\nEmployees also have the opportunity to participate in incentive programs and earn incentive compensation tied to business and individual performance. The actual salary will vary depending on local market conditions, geography and relevant job-related factors such as knowledge, skills, qualifications, experience, and education/training. If you are applying for this role outside of the primary location, please contact hr@manulife.com for the salary range for your location.\n\nManulife offers eligible employees a wide array of customizable benefits, including health, dental, mental health, vision, short- and long-term disability, life and AD&D insurance coverage, adoption/surrogacy and wellness benefits, and employee/family assistance plans. We also offer eligible employees various retirement savings plans (including pension and a global share ownership plan with employer matching contributions) and financial education and counseling resources. Our generous paid time off program in Canada includes holidays, vacation, personal, and sick days, and we offer the full range of statutory leaves of absence. If you are applying for this role in the U.S., please contact hr@manulife.com for more information about U.S.-specific paid time off provisions.\n\nWe use data and analytics technologies, such as artificial intelligence (AI), and automated processing tools, to analyze and proces",
       "first_seen": "2026-11-06T00:10:00Z",
@@ -985,7 +1100,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=cbdb115bafc02d85"
+        "https://ca.indeed.com/viewjob?jk=cbdb115bafc02d85",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010318980158"
       ]
     },
     {
@@ -41922,38 +42038,6 @@
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1
-    },
-    {
-      "company": "Appficiency Inc.",
-      "title": "VP, AI/Multitech",
-      "location": "Mississauga, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4475465306/",
-      "date_posted": "2026-10-07",
-      "salary": "$220k–$250k/yr",
-      "ats": "LinkedIn",
-      "description": "About Us\n\nAppficiency is a global technology and professional services firm that solves complex business challenges through the intelligent application of enterprise software, automation, and AI. We're a proud Oracle NetSuite Alliance Partner; Salesforce Crest Partner; Microsoft Gold Certified Partner, and much more: our evolution has taken us well beyond a single platform, making us a multi-technology advisory and implementation partner across ERP, CRM, cloud platforms, and AI-driven solutions. What sets us apart is a \"technical-first\" approach, teams who understand both business logic and deep system architecture paired with a genuine belief that our people are our greatest strength, and that's who we invest in first.\n\nThe Opportunity\n\nAs Vice President, AI & Multitech, you'll position yourself and your team as the technology leaders clients turn to across Appficiency's full platform portfolio - spanning ERP, CRM, AI, and beyond. This is a role built for someone who thinks in ecosystems, not single platforms: you'll build and coach a team fluent across multiple technologies, shape long-term account strategy in step with our sales targets, and push AI-driven delivery efficiency to new heights. You'll work hand-in-hand with Sales to shape regional strategy, ensuring the team you build reflects where the business is headed next.\n\nWhat You’ll Do\n\nEstablish yourself and your team as unbiased, platform-agnostic technology leaders - the people clients trust to recommend the right solution, not just the one you know best\nChampion delivery excellence across AI and multitech engagements, ensuring every project lands within scope, on time, on budget, and to the highest quality standard\nBuild, train, and coach a team that's genuinely fluent across multiple technology platforms, developing depth and breadth rather than single-platform specialists\nMake team development a core measure of your own success, growing a bench of multitech-capable practitioners who can flex across ERP, CRM, and AI engagements\nShape your team's structure and capacity in step with the company's regional sales strategy, building capability where the business is headed next - not where it's been\nCultivate senior-level relationships with key stakeholders across your most strategic accounts\nOwn the long-term account strategy for key customers, aligning phased delivery plans with Sales' targets and the client's evolving needs\nPartner closely with Sales as a true co-owner of account growth - this is one of the most important relationships you'll build in this role\nPush AI-driven delivery efficiency forward, keeping performance at or above the firm's defined benchmark.\n\nWhat You’ll Bring\n\nA genuine technologist at heart - deep, hands-on fluency across ERP and CRM platforms such as NetSuite and Salesforce, with no particular allegiance to either; what matters is credibility across the ecosystem, not expertise in a single tool\nDirect, applied experience with AI and automation technologies - generative AI tooling, workflow automation platforms, or AI-driven analytics\nComfort operating across multiple technical domains simultaneously: ERP, CRM, AI/ML tooling, and productivity platforms, with credibility to speak to each without defaulting to a single specialty\nA degree in Computer Science, Information Systems, Engineering, or a related technical field preferred; relevant technical certifications (cloud platforms, AI/automation tools, or ERP/CRM-specific credentials) are a strong plus\n10+ years in Professional Services leadership, with 7-8 of those years hands-on in systems implementation, integration, or automation-driven process re-engineering\nA track record of managing distributed, cross-platform delivery teams across multiple regions on concurrent projects\nStrong command of business analytics, BI, and financial performance management, including fluency in reading and acting on P&L statements\nWillingness to travel up to 25% of your time, with flexibility for specific client and regional needs\n\nWhat Will Set You Apart\n\nA genuine track record of building multitech delivery teams from the ground up, not just managing existing specialists\nDemonstrated success leading AI-driven efficiency initiatives with measurable, provable results\nStrong executive presence and credible technical authority that holds up in front of C-suite stakeholders and skeptical technical audiences alike\nExperience aligning delivery capability with regional sales strategy, building teams ahead of where the business needs them to be\nA career built on breadth across platforms rather than depth in just one - genuinely multitech, not multitech-adjacent\n\nWhat Success Looks Like\n\nAI delivery efficiency consistently meets or exceeds the firm's benchmark, with gains visible in client outcomes, not just internal metrics\nYour team is recognized internally and externally as genuinely multitech - capable across platforms, not siloed by specialty\nRegional team structure evolves in lockstep with the sales vision, so capability is never the bottleneck to growth\nYour partnership with Sales is cited as a model for how Delivery and Sales should work together, with account plans consistently aligned to phased delivery and targets\nClients see you and your team as the unbiased technology authority they can trust, regardless of which platform the conversation starts with\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
-      "first_seen": "2026-10-07T17:29:31Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Mississauga",
-      "geo_province": "ON",
-      "geo_lat": 43.589,
-      "geo_lon": -79.6441,
-      "geo_distance_km": 23.9,
-      "geo_rank": 100239,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=1072c7295dc1feb1",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010288699532"
-      ],
-      "direct_url": "https://appficiency.bamboohr.com/careers/114?source=indeed&src=indeed&postedDate=2026-10-07",
-      "job_type": "fulltime",
-      "work_arrangement": "On-site"
     }
   ]
 }
