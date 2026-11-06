@@ -1,17 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 19:31 UTC*
+*Last updated: 2026-11-06 20:02 UTC*
 
-**3 new role(s)** since last run · 12 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488181720/) — ABB
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-06
-
-### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4488189609/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 🕒 **Posted:** 2026-11-06
-
-### [Chief Financial Officer - Highly Engineered Design/Manufacturing- Private Equity, 79074](https://www.linkedin.com/jobs/view/4487347338/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Richmond, British Columbia, Canada
-- 💰 **Salary:** $250K - $300K
+### [Head of Customer Strategy - North America](https://www.linkedin.com/jobs/view/4488415482/) — Osara Health
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-06
