@@ -1,28 +1,32 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 21:09 UTC*
+*Last updated: 2026-11-06 22:37 UTC*
 
-**5 new role(s)** since last run · 69 total in last 24h
+**6 new role(s)** since last run · 69 total in last 24h
 
-### [Head of Platform & Infrastructure Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010319552662) — Ashby
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $475k–$550k/yr
-- 🕒 **Posted:** 2026-11-06
+### [VP of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010318355258) — Infinite Outsourcing Solutions
+- 📍 **Location:** Oakville, Canada
+- 💰 **Salary:** $200k–$225k/yr
+- 🕒 **Posted:** 2026-11-05
 
-### [AVP Retirement & Wealth Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010316159628) — Manulife
+### [AVP Strategy - Intermediary, Product, Institutional](https://www.glassdoor.ca/job-listing/j?jl=1010316159633) — Manulife
 - 📍 **Location:** Toronto, Canada
 - 💰 **Salary:** $157k–$291k/yr
 - 🕒 **Posted:** 2026-11-04
 
-### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010317133309) — Aplin
-- 📍 **Location:** Alberta, Canada
-- 🕒 **Posted:** 2026-11-05
-
-### [Head of Platform & Infrastructure Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010319552661) — Ashby
-- 📍 **Location:** Canada
-- 💰 **Salary:** $475k–$550k/yr
+### [Director, AI Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010319614500) — Sun Life
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $135k–$195k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Director, Finance Operations](https://www.glassdoor.ca/job-listing/j?jl=1010318685997) — Province of Nova Scotia
-- 📍 **Location:** Halifax, Canada
-- 💰 **Salary:** $4754.33–$5942.92/mo
+### [Director of Information Technology](https://www.glassdoor.ca/job-listing/j?jl=1010319643864) — The Corporation of the City of St Thomas
+- 📍 **Location:** Saint Thomas, Canada
+- 💰 **Salary:** $168k–$204k/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Director, Digital Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010319607878) — Accessible Media Inc.
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-11-06
+
+### [Director, Digital Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010319607877) — Accessible Media Inc.
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-11-06
