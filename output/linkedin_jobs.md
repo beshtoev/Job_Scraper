@@ -1,64 +1,49 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 18:34 UTC*
+*Last updated: 2026-11-06 19:22 UTC*
 
-**13 new role(s)** since last run · 17 total in last 1h
+**11 new role(s)** since last run · 20 total in last 1h
 
-### [AVP, Financial Crimes Risk Management, Data Management, Canada](https://www.linkedin.com/jobs/view/4488188745/) — TD
+### [Director - Governance & Client Account Management](https://www.linkedin.com/jobs/view/4485223044/) — International Financial Data Services (IFDS)
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-06
 
-### [Directeur.trice technique - Capture de données de jeu / Technical Director - Game Data Capture](https://www.linkedin.com/jobs/view/4469642280/) — Electronic Arts (EA)
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $169,500 - $242,600
-- 🕒 **Posted:** 2026-11-06
-
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4488403076/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
-- 🕒 **Posted:** 2026-11-06
-
-### [Director, Content Strategy](https://www.linkedin.com/jobs/view/4488188857/) — Havas CX Canada
+### [Director, Global AI Thought Leadership](https://www.linkedin.com/jobs/view/4477330646/) — Mastercard
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000 to $170,000,
+- 💰 **Salary:** $138,000 - $221,000
 - 🕒 **Posted:** 2026-11-06
 
-### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4488189609/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 🕒 **Posted:** 2026-11-06
-
-### [Director, Restaurant Technology Deployment & Operations, Tim Hortons](https://www.linkedin.com/jobs/view/4480302094/) — Restaurant Brands International
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-06
-
-### [Director, Technology Architecture & Engineering](https://www.linkedin.com/jobs/view/4487321362/) — Toronto Pearson International Airport
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-06
-
-### [Accounts Payable Specialist, VP Finance](https://www.linkedin.com/jobs/view/4488199161/) — University of Calgary
+### [AI-Native VP of Software Engineering, Canada-based (CAD $260,000/year)](https://www.linkedin.com/jobs/view/4488413576/) — CXT Software
 - 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-11-06
 
-### [Associate Director, Portfolio Governance and Value Realization](https://www.linkedin.com/jobs/view/4484722267/) — Canadian Blood Services
+### [AI-Native VP of Software Engineering, Canada-based (CAD $260,000/year)](https://www.linkedin.com/jobs/view/4488416328/) — CXT Software
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 🕒 **Posted:** 2026-11-06
+
+### [AI-Native VP of Software Engineering, Canada-based (CAD $260,000/year)](https://www.linkedin.com/jobs/view/4488412494/) — CXT Software
 - 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $132,300 - $155,600
 - 🕒 **Posted:** 2026-11-06
 
-### [Associate Director, Portfolio Governance and Value Realization](https://www.linkedin.com/jobs/view/4484725074/) — Canadian Blood Services
+### [AI-Native VP of Software Engineering, Canada-based (CAD $260,000/year)](https://www.linkedin.com/jobs/view/4488410588/) — CXT Software
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-06
+
+### [AI-Native VP of Software Engineering, Canada-based (CAD $260,000/year)](https://www.linkedin.com/jobs/view/4488406808/) — CXT Software
+- 📍 **Location:** Kitchener, Ontario, Canada
+- 🕒 **Posted:** 2026-11-06
+
+### [AI-Native VP of Software Engineering, Canada-based (CAD $260,000/year)](https://www.linkedin.com/jobs/view/4488411519/) — CXT Software
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $132,300 - $155,600
 - 🕒 **Posted:** 2026-11-06
 
-### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4488406382/) — Canadian Blood Services
-- 📍 **Location:** Brampton, Ontario, Canada
-- 💰 **Salary:** $152,500 - $197,340
+### [Vice President (Head) of Finance](https://www.linkedin.com/jobs/view/4477856728/) — GlassRatner Canada
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-06
 
-### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4488192891/) — Canadian Blood Services
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $152,500 - $197,340
+### [Vice President of Finance and Administration](https://www.linkedin.com/jobs/view/4484501737/) — Slemon Park Corporation
+- 📍 **Location:** Slemon Park, Prince Edward Island, Canada
 - 🕒 **Posted:** 2026-11-06
 
-### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4488197835/) — Canadian Blood Services
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $152,500 - $197,340
+### [Program Director, Bell AI Fabric](https://www.linkedin.com/jobs/view/4488402876/) — Bell
+- 📍 **Location:** Regina, Saskatchewan, Canada
 - 🕒 **Posted:** 2026-11-06
