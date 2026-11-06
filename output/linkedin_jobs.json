@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-06 20:19 UTC",
-  "total": 5,
-  "new_count": 1,
+  "scraped_at": "2026-11-06 20:53 UTC",
+  "total": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "International Financial Data Services (IFDS)",
@@ -76,30 +76,6 @@
       "geo_version": 1
     },
     {
-      "company": "UP Vertical Farms",
-      "title": "Director of Finance",
-      "location": "British Columbia, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4487327955/",
-      "date_posted": "2026-11-06",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Job description:\n\nJob Overview\nWe are seeking a dynamic and strategic Director of Finance to lead our financial operations and drive fiscal excellence across the organization. In this pivotal role, you will oversee all aspects of financial planning, reporting, and analysis, ensuring the company’s financial health and supporting sustainable growth. Your leadership will empower teams to excel in managing budgets, optimizing costs, and mitigating financial risks. This role offers an exciting opportunity to shape financial strategies that propel the organization forward with confidence and clarity.\nResponsibilities\nDevelop and implement comprehensive financial strategies aligned with organizational goals to foster growth and stability.\nOversee full-cycle accounting and payroll functions to ensure accuracy and compliance.\nLead budgeting efforts by preparing detailed financial forecasts, monitoring variances, and recommending corrective actions.\nConduct risk analysis and develop risk management strategies to safeguard assets and ensure regulatory compliance.\nManage investment activities, evaluating opportunities for business development and expansion while maintaining prudent risk controls.\nProvide leadership to finance teams, fostering a culture of continuous improvement, accountability, and professional development.\nCollaborate with executive leadership on strategic initiatives, offering insights on financial implications and investment opportunities.\n\nRequirements\nProven experience in corporate finance, financial services, or related fields with a strong background in accounting principles.\nDemonstrated leadership skills with the ability to manage cross-functional teams effectively.\nExpertise in budgeting, cost management, risk analysis, and risk management practices.\nProficiency in account reconciliation, bookkeeping software, and financial management tools.\nStrong understanding of investment strategies and business development processes.\nExcellent analytical skills with keen attention to detail and problem-solving capabilities.\nBachelor’s degree in Finance, Accounting or a related discipline;\nAdvanced certification such as CPA or CFA are preferred.\n\nJoin us as our Director of Finance, where your expertise will shape our financial future! Bring your energy, strategic mindset, and passion for excellence to a role that challenges you to lead with confidence while making a tangible impact on our organization’s success.\nBenefits:\nDental care\nExtended health care\nLife insurance\nOn-site parking\nWork Location: In person\n\nPay: CA$150,000.00 - CA$165,000.00 per year\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFood and Beverage Manufacturing",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "",
-      "geo_province": "BC",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 499999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only province BC stated",
-      "geo_version": 1
-    },
-    {
       "company": "Osara Health",
       "title": "Head of Customer Strategy - North America",
       "location": "Canada",
@@ -124,30 +100,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "UP Vertical Farms",
-      "title": "Director of Finance",
-      "location": "British Columbia, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4487327955/",
-      "date_posted": "2026-11-06",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Job description:\n\nJob Overview\nWe are seeking a dynamic and strategic Director of Finance to lead our financial operations and drive fiscal excellence across the organization. In this pivotal role, you will oversee all aspects of financial planning, reporting, and analysis, ensuring the company’s financial health and supporting sustainable growth. Your leadership will empower teams to excel in managing budgets, optimizing costs, and mitigating financial risks. This role offers an exciting opportunity to shape financial strategies that propel the organization forward with confidence and clarity.\nResponsibilities\nDevelop and implement comprehensive financial strategies aligned with organizational goals to foster growth and stability.\nOversee full-cycle accounting and payroll functions to ensure accuracy and compliance.\nLead budgeting efforts by preparing detailed financial forecasts, monitoring variances, and recommending corrective actions.\nConduct risk analysis and develop risk management strategies to safeguard assets and ensure regulatory compliance.\nManage investment activities, evaluating opportunities for business development and expansion while maintaining prudent risk controls.\nProvide leadership to finance teams, fostering a culture of continuous improvement, accountability, and professional development.\nCollaborate with executive leadership on strategic initiatives, offering insights on financial implications and investment opportunities.\n\nRequirements\nProven experience in corporate finance, financial services, or related fields with a strong background in accounting principles.\nDemonstrated leadership skills with the ability to manage cross-functional teams effectively.\nExpertise in budgeting, cost management, risk analysis, and risk management practices.\nProficiency in account reconciliation, bookkeeping software, and financial management tools.\nStrong understanding of investment strategies and business development processes.\nExcellent analytical skills with keen attention to detail and problem-solving capabilities.\nBachelor’s degree in Finance, Accounting or a related discipline;\nAdvanced certification such as CPA or CFA are preferred.\n\nJoin us as our Director of Finance, where your expertise will shape our financial future! Bring your energy, strategic mindset, and passion for excellence to a role that challenges you to lead with confidence while making a tangible impact on our organization’s success.\nBenefits:\nDental care\nExtended health care\nLife insurance\nOn-site parking\nWork Location: In person\n\nPay: CA$150,000.00 - CA$165,000.00 per year\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFood and Beverage Manufacturing",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "",
-      "geo_province": "BC",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 499999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only province BC stated",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
