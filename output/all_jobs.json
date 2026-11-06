@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-06 09:15 UTC",
+  "updated_at": "2026-11-06 09:45 UTC",
   "jobs": [
+    {
+      "company": "Philip Morris International",
+      "title": "Director Finance Business Partnership",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4480305446/",
+      "date_posted": "2026-11-06",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Business Partner Finance Director\n\nThe Business Partner Finance Director is a strategic finance leader and trusted advisor to the Managing Director and Leadership Team. The role drives business performance, value creation, and decision-making through financial planning, analysis, and business partnership.\n\nKey responsibilities include leading budgeting, forecasting, performance management, and long-range planning. The incumbent translates business strategy into financial plans and targets, develops business cases and scenario analyses, and provides insights that support profitable growth and investment decisions.\n\nThe role partners closely with senior leaders to identify risks and opportunities, challenge assumptions, and influence key decisions through data-driven recommendations. It also drives revenue growth, margin improvement, productivity initiatives, and cost optimization while ensuring strong governance, accountability, and planning discipline.\n\nThe Finance Director champions continuous improvement through analytics, reporting enhancements, digital tools, and process simplification. The role also develops high-performing teams and builds organizational capability through coaching and talent development.\n\nExperience\n\n10+ years in Finance, FP&A, Commercial Finance, Strategic Planning, or Business Partnership.\n5+ years leading teams and/or complex cross-functional initiatives.\nExperience influencing senior leaders and supporting strategic decisions.\nStrong experience with budgeting, forecasting, business planning, and performance management.\nExpertise in financial modeling, business cases, investment analysis, and scenario planning.\nExperience in multinational consumer goods, FMCG/CPG, or regulated industries preferred.\n\nQualifications\n\nBachelor's degree in Finance, Accounting, Economics, Business Administration, or related field.\nMBA, Master's degree, CPA, CFA, or equivalent designation preferred.\nAdvanced financial planning, forecasting, modeling, and analytical skills.\nStrong commercial acumen and strategic mindset.\nAbility to translate complex information into clear executive recommendations.\nExcellent communication, influencing, presentation, and stakeholder management skills.\nProven ability to influence without direct authority.\nAgility and resilience in dynamic business environments.\n\nWhat We Offer\n\nCompetitive compensation, benefits, career development opportunities, flexible work arrangements where applicable, and an inclusive environment that supports growth and innovation.\n\nSalary:\nUp to CAD $215,616\n\nAbout RBH\n\nRothmans, Benson & Hedges Inc. (RBH), a subsidiary of Philip Morris International (PMI), is committed to delivering a smoke-free future through better alternatives to cigarettes while fostering a diverse, inclusive, and accessible workplace.\n\n33781\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nManufacturing",
+      "first_seen": "2026-11-06T09:45:04Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "IMDS Software",
       "title": "chief technology officer (CTO)",
@@ -18043,7 +18068,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4470974620/"
+      ]
     },
     {
       "company": "Sun Life",
