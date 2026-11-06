@@ -1,23 +1,18 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 18:43 UTC*
+*Last updated: 2026-11-06 19:45 UTC*
 
-**4 new role(s)** since last run · 66 total in last 24h
+**3 new role(s)** since last run · 69 total in last 24h
 
-### [AVP, Financial Crimes Risk Management, Data Management, Canada](https://www.glassdoor.ca/job-listing/j?jl=1010319420175) — TD Bank
+### [AVP, Promo Operations, Planning & Integration](https://www.glassdoor.ca/job-listing/j?jl=1010319499329) — Canadian Tire Corporation
 - 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-11-06
 
-### [Vice President, Finance & Corporate Development](https://www.glassdoor.ca/job-listing/j?jl=1010319409476) — Hybrid Financial
-- 📍 **Location:** London, Canada
-- 💰 **Salary:** $180k–$220k/yr
+### [Head of Domain, Technology Development](https://www.glassdoor.ca/job-listing/j?jl=1010319481781) — Geotab
+- 📍 **Location:** Oakville, Canada
+- 💰 **Salary:** $164k–$228k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Director, Event Technology I, Chelsea Hotel Toronto](https://www.glassdoor.ca/job-listing/j?jl=1010319453483) — Encore Global
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $65k–$75k/yr
-- 🕒 **Posted:** 2026-11-06
-
-### [Director of Finance and Operations](https://www.glassdoor.ca/job-listing/j?jl=1010319453853) — Canadian Aboriginal and Minority Supplier Council
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $85k–$100k/yr
-- 🕒 **Posted:** 2026-11-06
+### [Director Finance, Canada](https://www.glassdoor.ca/job-listing/j?jl=1010318172586) — Lotus Group
+- 📍 **Location:** Calgary, Canada
+- 💰 **Salary:** $175k/yr
+- 🕒 **Posted:** 2026-11-05
