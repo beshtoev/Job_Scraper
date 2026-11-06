@@ -1,22 +1,20 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 21:53 UTC*
+*Last updated: 2026-11-06 22:28 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Vice President of Finance And Operations](https://www.linkedin.com/jobs/view/4487350561/) — Clarity Recruitment
+### [Director & Principal Engineer, AI/ML & MLOps Platform](https://www.linkedin.com/jobs/view/4488420905/) — RBC
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-06
+
+### [Director, Strategy](https://www.linkedin.com/jobs/view/4488427589/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-06
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4487336786/) — SearchLabs
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$160,000.00/yr
+### [Program Director, Bell AI Fabric](https://www.linkedin.com/jobs/view/4488402876/) — Bell
+- 📍 **Location:** Regina, Saskatchewan, Canada
 - 🕒 **Posted:** 2026-11-06
 
-### [Director, Finance, HR and Operations](https://www.linkedin.com/jobs/view/4487346501/) — BRION RAFFOUL LLP
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 🕒 **Posted:** 2026-11-06
-
-### [IT Director (Digital Operations)](https://www.linkedin.com/jobs/view/4486797715/) — Sonance Wealth Partners
+### [Technology Program Management, Vice President](https://www.linkedin.com/jobs/view/4487540661/) — MUFG
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000 – $180,000
 - 🕒 **Posted:** 2026-11-06
