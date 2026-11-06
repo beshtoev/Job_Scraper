@@ -1,10 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 03:47 UTC*
+*Last updated: 2026-11-06 10:13 UTC*
 
-**1 new role(s)** since last run · 12 total in last 24h
+**2 new role(s)** since last run · 13 total in last 24h
 
-### [Corporate Finance Leader Process](https://ca.indeed.com/viewjob?jk=87f492a0df49d571) — City of Calgary
-- 📍 **Location:** Calgary, AB, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** temporary, fulltime
+### [Director, Product Analytics](https://ca.indeed.com/viewjob?jk=cbdb115bafc02d85) — Manulife
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-04
+
+### [Director of Finance](https://ca.indeed.com/viewjob?jk=16e0efc9a0e02e07) — Unknown
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
