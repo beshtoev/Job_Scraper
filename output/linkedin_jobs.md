@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-07 12:45 UTC*
+*Last updated: 2026-11-07 13:40 UTC*
 
-**2 new role(s)** since last run · 7 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Director, Enterprise Solutions – Finance and Operations](https://www.linkedin.com/jobs/view/4477729802/) — Pomerleau
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-07
-
-### [Director, AI Business Enablement](https://www.linkedin.com/jobs/view/4454033975/) — RBC
+### [Director AI Engineering](https://www.linkedin.com/jobs/view/4472238663/) — CGI
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $145,000–$195,000
 - 🕒 **Posted:** 2026-11-07
