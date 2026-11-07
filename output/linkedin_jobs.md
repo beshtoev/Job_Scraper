@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-07 11:58 UTC*
+*Last updated: 2026-11-07 12:18 UTC*
 
 **1 new role(s)** since last run · 6 total in last 1h
 
-### [Expert Opportunity - VP of FP&A ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4453399169/) — Ethos
-- 📍 **Location:** Canada
+### [Head of Strategy & Operations](https://www.linkedin.com/jobs/view/4461336792/) — Midnite
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-07
