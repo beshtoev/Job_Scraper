@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-07 14:45 UTC*
+*Last updated: 2026-11-07 15:17 UTC*
 
-**1 new role(s)** since last run · 6 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Client & Product Transformation | AVP to EVP](https://www.linkedin.com/jobs/view/4478239452/) — Hays
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $98,000.00/yr - CA$244,000.00/yr
+### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4472034930/) — University of Alberta
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 🕒 **Posted:** 2026-11-07
+
+### [Regional Director, Digital Assets Sales & Commercialization, North America](https://www.linkedin.com/jobs/view/4477745161/) — Mastercard
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $138,000 - $221,000
 - 🕒 **Posted:** 2026-11-07
