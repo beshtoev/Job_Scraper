@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 02:24 UTC",
+  "updated_at": "2026-11-07 02:58 UTC",
   "jobs": [
     {
       "company": "Community Living BC",
@@ -987,16 +987,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-06T18:42:49Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -1132,7 +1132,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010319827115"
+      ]
     },
     {
       "company": "Canadian Blood Services",
@@ -42548,36 +42551,6 @@
       "geo_confidence": "medium",
       "geo_detail": "description names Toronto",
       "geo_version": 1
-    },
-    {
-      "company": "Recrute Action Inc.",
-      "title": "Senior Director, Global Data Retention Program - Enterprise Data Governance",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010288412579",
-      "date_posted": "2026-10-08",
-      "description": "Coordinate regional delivery teams on work breakdown structures, resource plans, financial controls, and delivery standards.",
-      "salary": "$100–$130/hr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-08T02:57:50Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010288512999"
-      ]
     }
   ]
 }
