@@ -1,21 +1,26 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-07 20:27 UTC*
+*Last updated: 2026-11-07 21:56 UTC*
 
-**4 new role(s)** since last run · 70 total in last 24h
+**5 new role(s)** since last run · 64 total in last 24h
 
-### [Vice President of Technology](https://www.glassdoor.ca/job-listing/j?jl=1010319605680) — Basecamp
-- 📍 **Location:** Canmore, Canada
-- 🕒 **Posted:** 2026-11-07
+### [Vice President of Technology](https://www.glassdoor.ca/job-listing/j?jl=1010319605679) — Basecamp
+- 📍 **Location:** Calgary, Canada
+- 🕒 **Posted:** 2026-11-06
 
-### [VP of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010318355258) — Infinite Outsourcing Solutions
-- 📍 **Location:** Oakville, Canada
-- 💰 **Salary:** $200k–$225k/yr
+### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010317133322) — Aplin
+- 📍 **Location:** Manitoba, Canada
 - 🕒 **Posted:** 2026-11-05
 
-### [Director, Corporate Client Group Finance](https://www.glassdoor.ca/job-listing/j?jl=1010319721908) — Royal Bank of Canada
-- 📍 **Location:** Calgary, Canada
-- 🕒 **Posted:** 2026-11-07
-
-### [Director, Digital Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010319607878) — Accessible Media Inc.
+### [Director, Product Analytics](https://www.glassdoor.ca/job-listing/j?jl=1010318685888) — Manulife
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $113k–$210k/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Director, Digital Strategy](https://www.glassdoor.ca/job-listing/j?jl=1010319607877) — Accessible Media Inc.
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-11-06
+
+### [Director, AI Engineering](https://www.glassdoor.ca/job-listing/j?jl=1010319970468) — Sun Life
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $135k–$195k/yr
 - 🕒 **Posted:** 2026-11-07
