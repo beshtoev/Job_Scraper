@@ -1,22 +1,27 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-06 23:46 UTC*
+*Last updated: 2026-11-07 00:49 UTC*
 
-**4 new role(s)** since last run · 71 total in last 24h
+**5 new role(s)** since last run · 72 total in last 24h
 
-### [Director, Strategic Insights](https://www.glassdoor.ca/job-listing/j?jl=1010319697530) — Vancouver City Savings Credit Union
-- 📍 **Location:** Vancouver, Canada
-- 💰 **Salary:** $148k–$192k/yr
-- 🕒 **Posted:** 2026-11-06
+### [AVP, Legal - Technology Enablement, Data Analytics and Reporting](https://www.glassdoor.ca/job-listing/j?jl=1010319701744) — TD Bank
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $155k–$215k/yr
+- 🕒 **Posted:** 2026-11-07
 
-### [Vice President of Technology](https://www.glassdoor.ca/job-listing/j?jl=1010319605680) — Basecamp
-- 📍 **Location:** Canmore, Canada
-- 🕒 **Posted:** 2026-11-06
-
-### [Vice President of Technology](https://www.glassdoor.ca/job-listing/j?jl=1010319605679) — Basecamp
+### [Director, Corporate Client Group Finance](https://www.glassdoor.ca/job-listing/j?jl=1010319721908) — Royal Bank of Canada
 - 📍 **Location:** Calgary, Canada
-- 🕒 **Posted:** 2026-11-06
+- 🕒 **Posted:** 2026-11-07
 
-### [Vice President, Finance & Corporate Development](https://www.glassdoor.ca/job-listing/j?jl=1010319409476) — Hybrid Financial
-- 📍 **Location:** London, Canada
-- 💰 **Salary:** $180k–$220k/yr
-- 🕒 **Posted:** 2026-11-06
+### [Director, Capital Delivery (Healthcare Planning and Initiatives)](https://www.glassdoor.ca/job-listing/j?jl=1010318625702) — Infrastructure Ontario
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $162k–$191k/yr
+- 🕒 **Posted:** 2026-11-07
+
+### [Directeur(trice) des finances / Director of Finance - Hotel](https://www.glassdoor.ca/job-listing/j?jl=1010319709519) — JRoss Hospitality Recruiters
+- 📍 **Location:** Canada
+- 💰 **Salary:** $120k–$130k/yr
+- 🕒 **Posted:** 2026-11-07
+
+### [Director, Corporate Client Group Finance](https://www.glassdoor.ca/job-listing/j?jl=1010319721907) — Royal Bank of Canada
+- 📍 **Location:** Edmonton, Canada
+- 🕒 **Posted:** 2026-11-07
