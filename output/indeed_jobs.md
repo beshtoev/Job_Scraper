@@ -1,10 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-07 09:24 UTC*
+*Last updated: 2026-11-07 18:10 UTC*
 
-**1 new role(s)** since last run · 10 total in last 24h
+**2 new role(s)** since last run · 9 total in last 24h
 
-### [Director, Strategy](https://ca.indeed.com/viewjob?jk=98ae5255dc8f510e) — RBC
+### [AVP HR Service Delivery & Technology](https://ca.indeed.com/viewjob?jk=623e6640fbb4f699) — Mackenzie Investments
+- 📍 **Location:** Greater Toronto Area, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-06
+
+### [AVP, Promo Operations, Planning & Integration](https://ca.indeed.com/viewjob?jk=9f3a2483274042ef) — Canadian Tire Corporation, Ltd.
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-07
+- 🕒 **Posted:** 2026-11-06
