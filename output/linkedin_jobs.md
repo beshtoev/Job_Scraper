@@ -1,13 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-07 15:17 UTC*
+*Last updated: 2026-11-07 15:48 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 5 total in last 1h
 
-### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4472034930/) — University of Alberta
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-11-07
-
-### [Regional Director, Digital Assets Sales & Commercialization, North America](https://www.linkedin.com/jobs/view/4477745161/) — Mastercard
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $138,000 - $221,000
+### [Leader qualité et des technologies de données | Quality Operation Lead and Data Technologies](https://www.linkedin.com/jobs/view/4427186832/) — Pratt & Whitney
+- 📍 **Location:** Longueuil, Quebec, Canada
 - 🕒 **Posted:** 2026-11-07
