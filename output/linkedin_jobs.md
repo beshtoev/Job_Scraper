@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-08 17:23 UTC*
+*Last updated: 2026-11-08 17:46 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4444347373/) — MNP
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $90,000–$140,000
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4487656054/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-08
