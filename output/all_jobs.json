@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-08 14:59 UTC",
+  "updated_at": "2026-11-08 15:21 UTC",
   "jobs": [
+    {
+      "company": "Robert Half",
+      "title": "VP/Director of Finance",
+      "location": "Ottawa, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010320285941",
+      "date_posted": "2026-11-08",
+      "description": "Reporting to senior leadership, this role supports an annual budget of approximately $41M and is responsible for financial stewardship, compliance, reporting,…",
+      "salary": "$130k–$140k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-08T15:21:17Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "OpenAI",
       "title": "AI Support Engineer - Toronto",
@@ -41019,39 +41046,6 @@
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1
-    },
-    {
-      "company": "Nucleus Independent Living",
-      "title": "Director of Finance",
-      "location": "Oakville, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010290822692",
-      "date_posted": "2026-10-09",
-      "description": "In conjunction with the Chief Financial Officer and Senior Leadership Team, work to design, develop, and implement strategic and operational plans, ensuring…",
-      "salary": "$100k–$115k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-09T15:20:17Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Oakville",
-      "geo_province": "ON",
-      "geo_lat": 43.4675,
-      "geo_lon": -79.6877,
-      "geo_distance_km": 35.6,
-      "geo_rank": 100356,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "direct_url": "http://ca.indeed.com/job/director-finance-e666a40daac92056",
-      "job_type": "fulltime",
-      "work_arrangement": "On-site",
-      "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=e666a40daac92056"
-      ]
     }
   ]
 }
