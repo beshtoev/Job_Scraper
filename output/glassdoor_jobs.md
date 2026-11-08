@@ -1,9 +1,6 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-08 19:26 UTC*
+*Last updated: 2026-11-08 20:35 UTC*
 
-**1 new role(s)** since last run · 45 total in last 24h
+**0 new role(s)** since last run · 42 total in last 24h
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010320285974) — Robert Half
-- 📍 **Location:** Saint-Laurent, Canada
-- 💰 **Salary:** $140k–$160k/yr
-- 🕒 **Posted:** 2026-11-08
+No new roles since the last run.
