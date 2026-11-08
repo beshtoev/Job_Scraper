@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-08 09:21 UTC",
+  "scraped_at": "2026-11-08 10:02 UTC",
   "total": 18,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "TD Bank",
@@ -472,32 +472,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Infinite Outsourcing Solutions",
-      "title": "VP of Finance",
-      "location": "Oakville, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010318355258",
-      "date_posted": "2026-11-06",
-      "description": "Bachelor's degree in Finance, Accounting, Commerce, or related discipline. Develop strategies to improve cash generation and capital efficiency.",
-      "salary": "$200k–$225k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Oakville",
-      "geo_province": "ON",
-      "geo_lat": 43.4675,
-      "geo_lon": -79.6877,
-      "geo_distance_km": 35.6,
-      "geo_rank": 100356,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
