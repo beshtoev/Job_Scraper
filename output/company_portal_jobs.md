@@ -1,7 +1,8 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-09 14:13 UTC*
+*Last updated: 2026-11-09 17:23 UTC*
 
-**1 new role(s)** since last run · 210 total in current portal openings
+**1 new role(s)** since last run · 209 total in current portal openings
 
-### [Director of Finance](https://builtintoronto.com/job/director-finance/11960105) — Pontosense
-- 📍 **Location:** Toronto, Ontario, Canada
+### [AVP, CXO Strategy & Transformation](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP--CXO-Strategy---Transformation_JR00129249) — Sun Life
+- 📍 **Location:** Toronto, Ontario
+- 🕒 **Posted:** 2026-11-09
