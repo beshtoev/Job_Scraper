@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-09 22:02 UTC",
+  "updated_at": "2026-11-09 22:16 UTC",
   "jobs": [
+    {
+      "company": "Sun Life",
+      "title": "Director, Global Brand and Consumer Insights",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010321445045",
+      "date_posted": "2026-11-09",
+      "description": "The role will provide strategic leadership across major research and insights initiatives, integrating consumer attitudes, Client feedback, behavioural data and…",
+      "salary": "$130k–$180k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-09T22:16:54Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Sunlife",
       "title": "Director, Strategy & Transformation",
@@ -181,7 +208,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321445039"
+      ]
     },
     {
       "company": "Sun Life",
@@ -208,7 +238,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321445036"
+      ]
     },
     {
       "company": "Sun Life",
@@ -235,7 +268,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321445040"
+      ]
     },
     {
       "company": "Queen's University",
