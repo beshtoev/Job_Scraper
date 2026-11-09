@@ -1,31 +1,53 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-09 18:19 UTC*
+*Last updated: 2026-11-09 18:50 UTC*
 
-**6 new role(s)** since last run · 15 total in last 1h
+**12 new role(s)** since last run · 25 total in last 1h
 
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4488891599/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
-- 🕒 **Posted:** 2026-11-09
-
-### [Vice President, Group Functions Technology - Finance & Treasury Systems](https://www.linkedin.com/jobs/view/4487931639/) — Manulife
+### [VP, Finance, Corporate Segments and Total Company Expenses](https://www.linkedin.com/jobs/view/4487930870/) — Sunlife
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $217,900 - $405,300 USD
 - 🕒 **Posted:** 2026-11-09
 
-### [Chief AI Architect](https://www.linkedin.com/jobs/view/4487934271/) — ITSector
-- 📍 **Location:** Montreal, Quebec, Canada
+### [VP, Finance, Corporate Segments and Total Company Expenses](https://www.linkedin.com/jobs/view/4487929894/) — Sunlife
+- 📍 **Location:** Kitchener, Ontario, Canada
 - 🕒 **Posted:** 2026-11-09
 
-### [Vice President (Head) of Finance](https://www.linkedin.com/jobs/view/4477856728/) — GlassRatner Canada
-- 📍 **Location:** Greater Toronto Area, Canada
+### [Director, Finance](https://www.linkedin.com/jobs/view/4489106503/) — NB Energy and Utilities Board / Commission de l'énergie et des services publics du N.-B.
+- 📍 **Location:** Saint John, New Brunswick, Canada
+- 💰 **Salary:** $131,000.00/yr - CA$139,000.00/yr
 - 🕒 **Posted:** 2026-11-09
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4487935348/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Vice President Finance](https://www.linkedin.com/jobs/view/4487183495/) — Torstaff
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-09
 
-### [Director, Enterprise Applications](https://www.linkedin.com/jobs/view/4468942127/) — Gateway Casinos and Entertainment Limited
-- 📍 **Location:** Burnaby, British Columbia, Canada
-- 💰 **Salary:** $143,837-$160,000
+### [Interim Director Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4487915833/) — LHH Knightsbridge
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-09
+
+### [VP, Finance, Global Technology](https://www.linkedin.com/jobs/view/4487945651/) — Sunlife
+- 📍 **Location:** Kitchener, Ontario, Canada
+- 🕒 **Posted:** 2026-11-09
+
+### [VP, Finance, Global Technology](https://www.linkedin.com/jobs/view/4487942697/) — Sunlife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-09
+
+### [Director, Strategy & Transformation](https://www.linkedin.com/jobs/view/4487930918/) — Sunlife
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 🕒 **Posted:** 2026-11-09
+
+### [Director, Strategy & Transformation](https://www.linkedin.com/jobs/view/4487948664/) — Sunlife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-09
+
+### [Director, Enterprise Applications](https://www.linkedin.com/jobs/view/4489106928/) — Draganfly Inc.
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-09
+
+### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4488891601/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
+- 🕒 **Posted:** 2026-11-09
+
+### [Senior Advisor, Operations & Planning (Office of the VP) (People & Culture)](https://www.linkedin.com/jobs/view/4487951292/) — CBC/Radio-Canada
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-11-09
