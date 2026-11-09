@@ -1,6 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-09 11:08 UTC*
+*Last updated: 2026-11-09 14:13 UTC*
 
-**0 new role(s)** since last run · 210 total in current portal openings
+**1 new role(s)** since last run · 210 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Director of Finance](https://builtintoronto.com/job/director-finance/11960105) — Pontosense
+- 📍 **Location:** Toronto, Ontario, Canada
