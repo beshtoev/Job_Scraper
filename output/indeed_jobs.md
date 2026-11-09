@@ -1,6 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-09 11:09 UTC*
+*Last updated: 2026-11-09 13:24 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Director, Global Network Services, Deloitte Global Technology](https://ca.indeed.com/viewjob?jk=b16325dc13c6173f) — Deloitte
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-09
