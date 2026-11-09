@@ -1,6 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-08 21:48 UTC*
+*Last updated: 2026-11-09 01:20 UTC*
 
-**0 new role(s)** since last run · 212 total in current portal openings
+**1 new role(s)** since last run · 213 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Enterprise AI Architecture Director](https://builtintoronto.com/job/enterprise-ai-architecture-director/10617881) — Bureau Veritas
+- 📍 **Location:** Toronto, Ontario, Canada
