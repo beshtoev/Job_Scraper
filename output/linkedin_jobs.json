@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-09 04:55 UTC",
+  "scraped_at": "2026-11-09 05:16 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "RCL - Reitmans Canada Ltd/Ltée",
@@ -28,30 +28,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "RCL - Reitmans Canada Ltd/Ltée",
-      "title": "Director, Strategic Insights",
-      "location": "Montreal, Quebec, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4488825295/",
-      "date_posted": "2026-11-09",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Company Description\n\nFor 100 years, Reitmans (Canada) Limited (RCL) has defined the Canadian retail fashion landscape with its three iconic brands, Reitmans, RW&CO. and PENN. Penningtons. We're excited about what we’ll build together next. \n\nOur vision is to empower Canadians to live confidently, and our mission is to create collections of uncompromising style and quality for all.\n\nWe believe great people do their best work alongside other great people. Here, you’ll have a voice, be challenged to grow and be part of a team driven by curiosity, bold thinking and ownership.\n\nCome raise the bar of Canadian fashion with us.\n\nJob Description\n\nThe Director, Strategic Insights\nleads the Strategic Insights function by translating customer, market, and behavioural data into actionable insights that support business decisions. Reporting to the VP, Data Strategy, this role partners with brands and cross-functional teams to strengthen insight capabilities and embed a customer-focused, data-driven approach into planning, prioritization, and performance measurement across the organization.\n\nKey Responsibilities\n\nDefine and execute the enterprise Strategic Insights roadmap, integrating customer analytics, consumer research, and market intelligence into a unified capability\nLead advanced customer analytics and translate behavioural data into actionable strategies to improve acquisition, retention, engagement, and lifetime value\nOversee consumer and market research programs to inform brand positioning, strategic planning, and executive decision-making\nPartner with senior leadership to embed insights into planning, prioritization, and performance measurement across the organization\nBuild and lead a high-performing, multidisciplinary insights team while driving adoption of data-driven decision-making and innovation\n\nQualifications\n\n10+ years of experience in strategic insights, analytics, or research leadership within retail or consumer-driven environments\nStrong strategic and commercial acumen with the ability to link insights to business outcomes and influence executive decisions\nDeep expertise in quantitative and qualitative methodologies, including customer segmentation, predictive analytics, and market research\nProven leadership experience building and developing high-performing, cross-functional teams in a matrix environment\nExcellent communication and storytelling skills, with the ability to translate complex data into clear, compelling executive narratives\nBilingual French and English to communicate with teams and stakeholders across Canada\n\nAdditional Information\n\nWhat Sets Us Apart:\n\nUltimate Flexibility*: Enjoy a hybrid work environment that ensures the perfect balance between work and personal life.\nWell-Being First: Access a comprehensive benefits program designed to take care of you.\nFlexible Time Off*: Paid leave, sick days, and vacation time to recharge and spend quality time with loved ones.\nExclusive Discounts*: Enjoy 50% off regular-priced items from PENN. Penningtons, Reitmans, and RW&CO.\nReferral Rewards*: Refer your professional network and earn a bonus for helping us grow our talented team\nGrowth opportunities*: Annual bonuses, career advancement, and tuition reimbursement to help you reach your professional goals.\nCertain conditions apply\n\nTotal rewards are aligned with your employment status, offering different perks depending on whether you're full-time, part-time, or under contract.\n\nReitmans (Canada) Limited is an equal opportunity employer committed to a diverse, inclusive, and accessible workplace where everyone belongs. If you are contacted for an employment opportunity, please advise us of any accommodation required throughout the recruitment process. All information provided will be kept confidential and used solely to support an accessible candidate's experience.\n\nThe use of Artificial Intelligence may be used for candidate screening purposes.\n\nWe thank all applicants. Only selected candidates will be contacted.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRetail",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Montreal",
-      "geo_province": "QC",
-      "geo_lat": 45.5019,
-      "geo_lon": -73.5674,
-      "geo_distance_km": 502.6,
-      "geo_rank": 405026,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
