@@ -1,13 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-09 20:42 UTC*
+*Last updated: 2026-11-09 21:36 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Data & Analytics leader](https://www.linkedin.com/jobs/view/4478124761/) — Tata Consultancy Services
-- 📍 **Location:** Toronto, Ontario, Canada
+### [VP of Finance & Accounting (WHL Group & Family Office)](https://www.linkedin.com/jobs/view/4487964074/) — WHL Holdings
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $175,000-$200,000
 - 🕒 **Posted:** 2026-11-09
 
-### [Director, Indigenous Partnerships and Strategic Transformation](https://www.linkedin.com/jobs/view/4489128453/) — Indigenous Perspectives Society
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $139,562 to $174,453 annually
+### [Finance Director, Poultry Operations](https://www.linkedin.com/jobs/view/4487955330/) — Maple Leaf Foods Inc
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-09
