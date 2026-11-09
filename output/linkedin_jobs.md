@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-08 23:51 UTC*
+*Last updated: 2026-11-09 00:26 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Vice President Finance](https://www.linkedin.com/jobs/view/4488798923/) — RECRUITMENT PARTNERS INC.
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 🕒 **Posted:** 2026-11-09
