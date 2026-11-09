@@ -1,39 +1,31 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-09 16:57 UTC*
+*Last updated: 2026-11-09 18:19 UTC*
 
-**8 new role(s)** since last run · 10 total in last 1h
+**6 new role(s)** since last run · 15 total in last 1h
 
-### [Global Head of Digital Strategy & Transformation](https://www.linkedin.com/jobs/view/4488885695/) — Ingenio Global
+### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4488891599/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
+- 💰 **Salary:** $140,000 to $175,000,
+- 🕒 **Posted:** 2026-11-09
+
+### [Vice President, Group Functions Technology - Finance & Treasury Systems](https://www.linkedin.com/jobs/view/4487931639/) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $217,900 - $405,300 USD
+- 🕒 **Posted:** 2026-11-09
+
+### [Chief AI Architect](https://www.linkedin.com/jobs/view/4487934271/) — ITSector
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-09
+
+### [Vice President (Head) of Finance](https://www.linkedin.com/jobs/view/4477856728/) — GlassRatner Canada
 - 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-09
 
-### [Director, Digital Solutions](https://www.linkedin.com/jobs/view/4488874865/) — Government of Nova Scotia
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $4,754.34 - $5,942.94
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4487935348/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-09
 
-### [Interim Director Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4487915833/) — LHH Knightsbridge
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-09
-
-### [Interim Vice President Finance](https://www.linkedin.com/jobs/view/4487916843/) — LHH Knightsbridge
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-09
-
-### [Machine Learning Engineer, Associate Director](https://www.linkedin.com/jobs/view/4355040565/) — Fitch Ratings
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-09
-
-### [Director of Finance, , Clinic Integration & Growth](https://www.linkedin.com/jobs/view/4487911845/) — Ottawa Physiotherapy & Sport Clinics | OPTSC
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $160,000.00/yr - CA$200,000.00/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Director Financial Systems](https://www.linkedin.com/jobs/view/4487925621/) — Vaco by Highspring
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000.00/yr - CA$175,000.00/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Senior Advisor, Operations & Planning (Office of the VP) (People & Culture)](https://www.linkedin.com/jobs/view/4488884881/) — Radio-Canada
-- 📍 **Location:** Ottawa, Ontario, Canada
+### [Director, Enterprise Applications](https://www.linkedin.com/jobs/view/4468942127/) — Gateway Casinos and Entertainment Limited
+- 📍 **Location:** Burnaby, British Columbia, Canada
+- 💰 **Salary:** $143,837-$160,000
 - 🕒 **Posted:** 2026-11-09
