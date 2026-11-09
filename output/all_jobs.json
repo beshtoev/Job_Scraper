@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-09 19:53 UTC",
+  "updated_at": "2026-11-09 20:01 UTC",
   "jobs": [
+    {
+      "company": "HOTEL GRAND PACIFIC",
+      "title": "Assistant Director of Finance",
+      "location": "Victoria, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010321213104",
+      "date_posted": "2026-11-09",
+      "description": "The role supports financial planning, operational decision-making, business analysis, compliance, and team development while safeguarding hotel assets and…",
+      "salary": "$75k–$90k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-09T20:01:52Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Victoria",
+      "geo_province": "BC",
+      "geo_lat": 48.4284,
+      "geo_lon": -123.3656,
+      "geo_distance_km": 3384.8,
+      "geo_rank": 433848,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Avalere Health",
       "title": "VP/SVP, Medical Strategy - Medical Communications",
@@ -371,7 +398,7 @@
       "company_url": "https://ca.indeed.com/cmp/Chartwell-Retirement-Residences",
       "date_posted": "2026-11-09",
       "description": "**The Opportunity**The Director, AI Enablement is accountable for establishing and advancing Chartwell’s enterprise AI practice. The role exists to help the organization adopt AI safely, practically and at scale by combining strong governance with education, advisory support, and pragmatic implementation guidance.\n\n\nThis is not a pure research or data science leadership role. The Director, AI Enablement governs how AI is introduced into day\\-to\\-day work, helps departments identify and prioritize valuable AI use cases, and ensures that AI systems are deployed responsibly as they become more multimodal, more connected to enterprise data, and more capable of influencing decisions, workflows, and user behaviour.\n\n\nThe role serves as the organization’s AI expertise\\-as\\-a\\-service function, working across corporate departments, FASTech, Service Management \\& Automation, Business Analysis \\& Quality Assurance, Data \\& Analytics, Privacy, Cybersecurity, and enterprise applications to ensure that AI\\-enabled solutions are useful, explainable, governable, and aligned to Chartwell’s operational realities.\n\n\n**Key Accountabilities*****Enterprise AI Governance***\n\n* Develop, maintain, and evolve Chartwell’s AI governance framework, standards, guardrails, and acceptable\\-use practices in alignment with legal, privacy, security, and risk requirements.\n* Define practical controls for responsible AI use, including human accountability, override mechanisms, confidence thresholds, auditability, data handling expectations, and documentation standards.\n* Lead AI intake and review processes to assess proposed use cases for appropriateness, value, risk, explainability, and organizational readiness.\n* Establish approval paths and risk classification for AI initiatives, distinguishing between low\\-risk productivity uses, operational decision support, and higher\\-risk use cases.\n* Partner with Privacy, Cybersecurity, Legal, and enterprise technology leaders to ensure AI\\-enabled solutions meet policy, compliance, and audit expectations.\n\n***AI Education and Organizational Readiness***\n\n* Design and deliver role\\-based AI education, awareness, and training programs for leaders, practitioners, and end users.\n* Create and maintain practical playbooks, templates, examples, and decision guides that help teams use AI effectively and responsibly.\n* Promote AI literacy across the organization by translating technical concepts into plain\\-language guidance and actionable practices.\n* Support leaders in understanding the opportunities and risks of multimodal AI, connected AI, agentic workflows, and AI\\-assisted decision support.\n* Track adoption, usage patterns, and learning outcomes to refine enablement programs and improve organizational readiness.\n\n***AI Expertise\\-as\\-a\\-Service***\n\n* Provide advisory support to all corporate departments on AI opportunities, use\\-case framing, vendor/tool evaluation, and solution options.\n* Help teams convert ambiguous problems into clear AI and automation use cases with defined objectives, constraints, risks, and success measures.\n* Support business and technology teams during design and implementation by providing practical guidance on model and tool selection, workflow design, prompting patterns, and integration considerations.\n* Act as a trusted internal partner who helps departments move from experimentation to controlled, business\\-aligned AI adoption.\n* Contribute expert guidance to FASTech and other delivery teams so AI\\-enabled solutions remain practical, supportable, and aligned with enterprise standards.\n\n***Safeguarding the Organization as AI Evolves***\n\n* Develop guidance and control patterns for AI systems that use text, images, documents, screenshots, voice, and other multimodal inputs or outputs.\n* Establish governance for AI systems that are connected to enterprise data sources, documents, communications, applications, and external research tools.\n* Assess and mitigate risks related to hallucinations, model drift, privacy invasion, data leakage, bias, impersonation, surveillance, over\\-reliance, and unsafe automation.\n* Define boundaries for where AI may assist versus where decisions must remain deterministic or human\\-owned, especially for safety, compliance, financial approvals, and resident\\-impacting decisions.\n* Provide guidance on the safe use of AI as an assistant, coach, or decision\\-support tool, including controls to prevent manipulation, inappropriate inference, or hidden monitoring behaviours.\n\n***Cross\\-Functional Collaboration and Reporting***\n\n* Work closely with FASTech, Service Management \\& Automation, Business Analysis \\& Quality Assurance, Data \\& Analytics, Cybersecurity, enterprise applications, and business leaders to align AI adoption with business priorities.\n* Maintain visibility into approved AI use cases, tools, integrations, risks, and realized outcomes across the organization.\n* Contribute to executive reporting on AI pipeline, enablement activities, governance findings, adoption levels, and realized value.\n* Identify recurring themes, risks, and opportunities across departments and recommend pragmatic improvements to Chartwell’s AI operating model.\n\n**Qualifications*****Education:***\n\n* University degree in Computer Science, Data, Information Systems, Business, Risk, Privacy, or a related discipline; or equivalent combination of education and experience.\n* As an alternative to a Computer Science or Data\\-focused degree, demonstrated and credible expertise in AI Governance, responsible AI, and enterprise AI enablement will be considered.\n* Relevant coursework, certifications, or professional development in AI governance, privacy, risk, responsible AI, or change management are assets.\n\n***Experience:***\n\n* Progressive experience in AI enablement, AI governance, technology advisory, digital transformation, or a related field.\n* Demonstrated experience establishing governance, standards, or policy controls for enterprise technology or AI ad",
-      "salary": "",
+      "salary": "$126k–$149k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -393,7 +420,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321194295"
+      ]
     },
     {
       "company": "Datatonic",
@@ -553,6 +583,7 @@
       "geo_detail": "181 Queen Street, Ottawa",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321200060",
         "https://www.linkedin.com/jobs/view/4487951292/"
       ]
     },
@@ -992,7 +1023,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321265423"
+      ]
     },
     {
       "company": "Scout Talent",
