@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-10 22:17 UTC",
+  "updated_at": "2026-11-10 22:55 UTC",
   "jobs": [
+    {
+      "company": "Iceberg",
+      "title": "VP – Cybersecurity Governance, Risk & Compliance",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4487829515/",
+      "date_posted": "2026-11-10",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "I'm working with a global financial services organisation looking to appoint a VP of Cybersecurity Governance, Risk & Compliance, reporting directly to the CISO.\n\nI'll be upfront. We're not looking for a traditional GRC leader. If your experience has primarily involved maintaining existing governance frameworks, managing audits and overseeing compliance processes, unfortunately I won't be able to consider you for this opportunity.\n\nThe reason is that the CISO wants someone who has genuinely modernised a GRC function, introduced more sophisticated approaches to risk management and can work extremely closely with security engineering and architecture teams.\n\nThe CISO wants someone who understands the technology behind the risks being assessed, can engage with engineers on technical controls and security architecture, and translate that understanding into more meaningful risk assessments and decisions.\n\nAI and automation are also central to the vision for the function, particularly how they can improve risk assessments, control monitoring and the wider approach to GRC.\nThis is also a significant leadership opportunity. You'll inherit a team of around eight people, with the responsibility to develop and motivate the team, raise standards and introduce new ways of working .\n\nThis is what the CISO is looking for in a GRC leader:\n\nA proven leader who has built, developed and motivated high-performing GRC teams.\nSomeone who can demonstrate they've modernised or transformed a GRC function, rather than simply maintained one.\nStrong technical credibility, with experience working closely alongside security engineering, architecture and technology teams.\nExperience introducing more advanced risk assessment methodologies that go beyond traditional compliance-led approaches.\nAn understanding of how AI and automation can be used to improve risk management and GRC processes.\nStrong experience across security governance, policies, standards, risk management, control assurance and regulatory requirements.\nExperience within financial services or another highly regulated environment is essential.\nSomeone who can communicate technical risk effectively to the CISO and wider executive leadership.\n\nLocation:\nCandidates must be based in the Greater Toronto Area.\nWork authorisation:\nApplicants must be Canadian citizens or Canadian permanent residents. Visa sponsorship is not available.\n\nIf you've led GRC transformation, developed strong teams and enjoy working closely with engineering to improve how security risk is managed, I'd be interested in speaking with you.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
+      "first_seen": "2026-11-10T22:55:06Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Greater Toronto Area",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 100061,
+      "geo_source": "description",
+      "geo_confidence": "medium",
+      "geo_detail": "description names Greater Toronto Area",
+      "geo_version": 1
+    },
     {
       "company": "Vortex Aquatic Structures International",
       "title": "Vice-président(e), Ventes et stratégie commerciale |  Vice President, Sales & Commercial Strategy",
@@ -213,7 +238,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4488641227/"
+      ]
     },
     {
       "company": "Egility",
@@ -36862,7 +36890,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
