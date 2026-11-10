@@ -1,52 +1,26 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-09 22:02 UTC*
+*Last updated: 2026-11-10 02:50 UTC*
 
-**8 new role(s)** since last run · 12 total in last 24h
+**4 new role(s)** since last run · 14 total in last 24h
 
-### [Vice President, Group Functions Technology - Finance & Treasury Systems](https://ca.indeed.com/viewjob?jk=d3ff9f65d3b8a05b) — Manulife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-08
-
-### [Director, Strategy & Transformation](https://ca.indeed.com/viewjob?jk=01bdab82c1a28338) — Sunlife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-09
-
-### [Director, Global Brand and Consumer Insights](https://ca.indeed.com/viewjob?jk=456b45de9c76a469) — Sunlife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-09
-
-### [Director, Strategy & Transformation](https://ca.indeed.com/viewjob?jk=67a2b8050fa5c26a) — Sunlife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-09
-
-### [VP, Finance, Global Technology](https://ca.indeed.com/viewjob?jk=7e795ef7e3fd96a3) — Sunlife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-09
-
-### [VP, Finance, Corporate Segments and Total Company Expenses](https://ca.indeed.com/viewjob?jk=d615cd7934786582) — Sunlife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-09
-
-### [VP, Finance, Global Technology](https://ca.indeed.com/viewjob?jk=1b190a4e593c765f) — Sunlife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-09
-
-### [Director, Finance](https://ca.indeed.com/viewjob?jk=8a552b048d7833ed) — AeroVect
+### [Director, Global Network Services, Deloitte Global Technology](https://ca.indeed.com/viewjob?jk=b16325dc13c6173f) — Deloitte
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-09
+
+### [Director, Artificial Intelligence Risk Management & Governance](https://ca.indeed.com/viewjob?jk=ffc65abb4496be8c) — Scotiabank
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-09
+
+### [VP, Finance, Corporate Segments and Total Company Expenses](https://ca.indeed.com/viewjob?jk=500940909d0ee57f) — Sunlife
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-09
+
+### [Director, Capital Planning and Infrastructure Delivery](https://ca.indeed.com/viewjob?jk=8e91a72673457b93) — City of Markham
+- 📍 **Location:** Markham, ON, CA
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-09
