@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-10 03:51 UTC*
+*Last updated: 2026-11-10 04:34 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
