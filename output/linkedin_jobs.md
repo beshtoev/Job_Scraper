@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-10 06:17 UTC*
+*Last updated: 2026-11-10 07:29 UTC*
 
-**1 new role(s)** since last run · 7 total in last 1h
+**0 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Solution Architecture – Information Technology](https://www.linkedin.com/jobs/view/4489420382/) — Alberta Blue Cross
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-11-10
+No new roles since the last run.
