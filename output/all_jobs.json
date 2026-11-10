@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-10 00:29 UTC",
+  "updated_at": "2026-11-10 00:44 UTC",
   "jobs": [
+    {
+      "company": "Illuminex AI",
+      "title": "Director of Finance",
+      "location": "Cobourg, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010321497497",
+      "date_posted": "2026-11-10",
+      "description": "Spend remaining capacity on general corporate and business development support, including assisting with marketing content, drafting and responding to Requests…",
+      "salary": "$68k–$75k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-10T00:44:11Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Cobourg",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "GSK",
       "title": "Senior Director, Content Strategy Head, Respiratory, Immunology and Inflammation (RIIRU)",
@@ -529,7 +556,7 @@
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010321395505",
       "date_posted": "2026-11-09",
       "description": "Makes decisions and recommendations regarding recruitment, workforce planning, development, discipline and organization design within delegated authority.",
-      "salary": "",
+      "salary": "$108k–$147k/yr",
       "salary_source": "",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
@@ -547,7 +574,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321499894"
+      ]
     },
     {
       "company": "Excite Lethbridge",
@@ -583,7 +613,7 @@
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010321395500",
       "date_posted": "2026-11-09",
       "description": "Makes decisions and recommendations regarding recruitment, workforce planning, development, discipline and organization design within delegated authority.",
-      "salary": "",
+      "salary": "$108k–$147k/yr",
       "salary_source": "",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
@@ -601,7 +631,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321499938"
+      ]
     },
     {
       "company": "Queen's University",
@@ -610,7 +643,7 @@
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010321395504",
       "date_posted": "2026-11-09",
       "description": "Development, discipline and organization design within delegated authority. Demonstrated experience advising senior academic, executive or administrative…",
-      "salary": "",
+      "salary": "$108k–$147k/yr",
       "salary_source": "",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
@@ -628,7 +661,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321499847"
+      ]
     },
     {
       "company": "iA Groupe financier / iA Financial Group",
