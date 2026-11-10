@@ -1,20 +1,20 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-10 11:49 UTC*
+*Last updated: 2026-11-10 13:03 UTC*
 
-**4 new role(s)** since last run · 8 total in last 1h
+**4 new role(s)** since last run · 6 total in last 1h
 
-### [Expert Opportunity - Head of Finance Operations ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4455133515/) — Ethos
+### [Head of Finance - R&D](https://www.linkedin.com/jobs/view/4488352187/) — Jobgether
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-10
 
-### [Expert Opportunity - Director of Financial Planning and Analysis ($100/hr, up to $2,000/week)](https://www.linkedin.com/jobs/view/4455155501/) — Ethos
+### [Expert Opportunity - Head of Corporate Finance ($100/hr, up to $2,000/week)](https://www.linkedin.com/jobs/view/4455151388/) — Ethos
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-10
 
-### [Expert Opportunity - VP of Finance ($100/hr, up to $2,000/week)](https://www.linkedin.com/jobs/view/4455138560/) — Ethos
+### [Expert Opportunity - VP of Strategy ($100/hr, up to $2,000/week)](https://www.linkedin.com/jobs/view/4455148372/) — Ethos
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-10
 
-### [Expert Opportunity - Head of Information Security ($90/hr, up to $1,800/week)](https://www.linkedin.com/jobs/view/4455150409/) — Ethos
+### [Expert Opportunity - Director of Corporate Strategy ($100/hr, up to $2,000/week)](https://www.linkedin.com/jobs/view/4455144520/) — Ethos
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-10
