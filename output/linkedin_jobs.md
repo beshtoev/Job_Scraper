@@ -1,52 +1,51 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-10 18:07 UTC*
+*Last updated: 2026-11-10 18:46 UTC*
 
-**11 new role(s)** since last run · 16 total in last 1h
+**10 new role(s)** since last run · 22 total in last 1h
 
-### [Head of Applied Science and AI Delivery](https://www.linkedin.com/jobs/view/4488380786/) — AXIS (AXIS Capital)
+### [Director, Financial Operations](https://www.linkedin.com/jobs/view/4489609955/) — Navacord
+- 📍 **Location:** British Columbia, Canada
+- 💰 **Salary:** $135,000.00/yr - CA$175,000.00/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Director, Strategy Planning & Integration](https://www.linkedin.com/jobs/view/4489612898/) — Canadian Blood Services
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $152,500 - $179,400
+- 🕒 **Posted:** 2026-11-10
+
+### [Director, Strategy Planning & Integration](https://www.linkedin.com/jobs/view/4489615858/) — Canadian Blood Services
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $152,500 - $179,400
+- 🕒 **Posted:** 2026-11-10
+
+### [Director, Strategy Planning & Integration](https://www.linkedin.com/jobs/view/4489609981/) — Canadian Blood Services
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $152,500 - $179,400
+- 🕒 **Posted:** 2026-11-10
+
+### [Program Director - Transformation Initiatives, Client Segmentation](https://www.linkedin.com/jobs/view/4487808716/) — Alfa AI
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $90.00/hr - CA$102.00/hr
+- 🕒 **Posted:** 2026-11-10
+
+### [Director, Technology](https://www.linkedin.com/jobs/view/4488606142/) — BC Cancer Foundation
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $104,000 - $165,000
+- 🕒 **Posted:** 2026-11-10
+
+### [Associate Director, Client Data Team](https://www.linkedin.com/jobs/view/4488614058/) — MUFG Investor Services
 - 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $280,000.00 to $325,000.00
 - 🕒 **Posted:** 2026-11-10
 
-### [Senior Director, Product Management - Agentic Platform (Tax & Trade)](https://www.linkedin.com/jobs/view/4488387452/) — Thomson Reuters
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $181,400 USD - $337,000 USD
+### [AVP Finance, Store Operations & Loss Prevention](https://www.linkedin.com/jobs/view/4489621931/) — TJX Canada – Winners, Marshalls, HomeSense
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $ 139,216.00-$210,812.80 /year
 - 🕒 **Posted:** 2026-11-10
 
-### [Director, Machine Learning](https://www.linkedin.com/jobs/view/4487818053/) — Narvar
+### [Director, Strategic Deal Finance](https://www.linkedin.com/jobs/view/4481005710/) — Liftoff Mobile
 - 📍 **Location:** Canada
-- 💰 **Salary:** $240,000—$260,000
 - 🕒 **Posted:** 2026-11-10
 
-### [Chief Catalyst, Enabling Systems and Chief Financial Officer](https://www.linkedin.com/jobs/view/4481220569/) — RECRUITMENT PARTNERS INC.
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-11-10
-
-### [Senior Director, Capital Markets Finance](https://www.linkedin.com/jobs/view/4489627341/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-10
-
-### [Technology Procurement Leader](https://www.linkedin.com/jobs/view/4488384910/) — illumin
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $120,000–$140,000
-- 🕒 **Posted:** 2026-11-10
-
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4488036160/) — GlassRatner Canada
-- 📍 **Location:** London, Ontario, Canada
-- 🕒 **Posted:** 2026-11-10
-
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4488399503/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 🕒 **Posted:** 2026-11-10
-
-### [Director, Internal Audit, Financial Risk Management](https://www.linkedin.com/jobs/view/4478632439/) — Desjardins
-- 📍 **Location:** Lévis, Quebec, Canada
-- 🕒 **Posted:** 2026-11-10
-
-### [Director, Internal Audit, Financial Risk Management](https://www.linkedin.com/jobs/view/4478643117/) — Desjardins
-- 📍 **Location:** Montréal-Ouest, Quebec, Canada
-- 🕒 **Posted:** 2026-11-10
-
-### [Director, Financial Planning & Analysis (FP&A)](https://www.linkedin.com/jobs/view/4444665237/) — OpenTable
+### [Director, Digital Paid Media](https://www.linkedin.com/jobs/view/4489606913/) — Mandrake
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-10
