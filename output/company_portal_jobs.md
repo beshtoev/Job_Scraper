@@ -1,26 +1,22 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-10 17:29 UTC*
+*Last updated: 2026-11-10 20:42 UTC*
 
-**6 new role(s)** since last run · 220 total in current portal openings
+**5 new role(s)** since last run · 221 total in current portal openings
 
-### [Senior Director, Capital Markets Finance](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Senior-Director--Capital-Markets-Finance_2621978-1) — CIBC
-- 📍 **Location:** Toronto, ON
+### [Director, Wealth Digital AI Platforms & Technology Delivery](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Wealth-Digital-AI-Platforms---Technology-Delivery_R260025430) — BMO
+- 📍 **Location:** Toronto, ON, CAN
 - 🕒 **Posted:** 2026-11-10
 
-### [Director, Data Platform Engineering](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Director--Data-Platform-Engineering_R_1506230) — TD
-- 📍 **Location:** Toronto, Ontario
+### [Director, Fraud Attack Response & Insights - Americas](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Director--Fraud-Attack-Response---Insights---Americas_R-293876) — Mastercard
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-11-10
 
-### [VP, Financial Planning & Analysis](https://job-boards.greenhouse.io/cleargov/jobs/4401863009) — ClearGov
-- 📍 **Location:** Canada, Remote; United States, Remote
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-14
+### [Managing Director, Digital Finance](https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Managing-Director--Financial-Analysis-and-Insights_R-6029) — TMX
+- 📍 **Location:** Toronto - 100 Adelaide St W
+- 🕒 **Posted:** 2026-11-10
 
-### [Senior Director, Product Management - Agentic Platform (Tax & Trade)](https://builtintoronto.com/job/senior-director-product-management-agentic-platform-tax-trade/12165604) — Thomson Reuters
+### [Senior Director, Capital Markets Finance](https://builtintoronto.com/job/senior-director-capital-markets-finance/12166603) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Sales Director for Cloud & AI](https://builtintoronto.com/job/sales-director-cloud-ai/11844785) — Microsoft
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Head of Data Analytics - Veeva Ostro](https://builtintoronto.com/job/data-analytics-lead/10784541) — Veeva
+### [Head of Enterprise Project & Change Management](https://builtintoronto.com/job/head-enterprise-project-change-management/12168499) — Equifax Inc.
 - 📍 **Location:** Toronto, Ontario, Canada
