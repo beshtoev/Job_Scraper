@@ -1,15 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-11 01:02 UTC*
+*Last updated: 2026-11-11 03:41 UTC*
 
-**2 new role(s)** since last run · 11 total in last 24h
+**1 new role(s)** since last run · 11 total in last 24h
 
-### [Head of Enterprise Project & Change Management](https://ca.indeed.com/viewjob?jk=97b6d774c073dfac) — Equifax
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-10
-
-### [Director, Central Funding & Equities Financial Control](https://ca.indeed.com/viewjob?jk=2ad2d3917185df6d) — RBC
+### [Director, Financial Planning & Analysis (FP&A)](https://ca.indeed.com/viewjob?jk=fe95895e7260d8d6) — Questrade Financial Group
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
