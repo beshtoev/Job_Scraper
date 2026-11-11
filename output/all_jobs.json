@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 00:57 UTC",
+  "updated_at": "2026-11-11 01:00 UTC",
   "jobs": [
     {
       "company": "Fidelity Canada",
@@ -589,8 +589,11 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/head-enterprise-project-change-management/12168499",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/head-enterprise-project-change-management/12168499"
-      ]
+        "https://builtintoronto.com/job/head-enterprise-project-change-management/12168499",
+        "https://ca.indeed.com/viewjob?jk=97b6d774c073dfac"
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Navacord",
@@ -2522,8 +2525,11 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=2ad2d3917185df6d",
         "https://www.linkedin.com/jobs/view/4489446224/"
-      ]
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "HOTEL GRAND PACIFIC",
@@ -37132,7 +37138,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
