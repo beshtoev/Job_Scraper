@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-11 21:13 UTC*
+*Last updated: 2026-11-11 21:34 UTC*
 
-**0 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-No new roles since the last run.
+### [VP, Finance and Accounting](https://www.linkedin.com/jobs/view/4490017386/) — Advanced Aircrew Academy
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-11
