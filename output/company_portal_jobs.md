@@ -1,7 +1,7 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-11 06:24 UTC*
+*Last updated: 2026-11-11 09:29 UTC*
 
-**1 new role(s)** since last run · 217 total in current portal openings
+**1 new role(s)** since last run · 216 total in current portal openings
 
-### [Director of Enterprise Sales (New Business)](https://builtintoronto.com/job/director-enterprise-sales-new-business/12055337) — Loopio
+### [Director, Global Tax Information, Reporting & Withholding](https://builtintoronto.com/job/director-global-tax-information-reporting-withholding/12178603) — Block
 - 📍 **Location:** Toronto, Ontario, Canada
