@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-11 21:36 UTC",
+  "updated_at": "2026-11-11 21:59 UTC",
   "jobs": [
+    {
+      "company": "Propel",
+      "title": "Practice Director (Consulting) - Data Projects (Snowflake, Databricks, Redis) - Toronto",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490016408/",
+      "date_posted": "2026-11-11",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Overview\n\nThis is an opportunity for a Practice Director\nto take ownership of a growing data practice within a specialist technology consultancy. The role sits at the intersection of strategy and delivery — suited to a leader who is equally comfortable shaping a long-term practice vision and rolling up their sleeves to ensure projects land well on the ground.\n\nThis is not a purely strategic hire. The right candidate will bring strong delivery credentials, a track record of leading complex software projects, and the commercial and interpersonal skills to build lasting relationships with senior stakeholders. Consulting or professional services experience is a strong advantage.\n\nThe Role\n\nPractice Leadership & Strategy\n\nDefine the direction and growth strategy for the data practice\nBuild and maintain a compelling service offering that reflects market demand and client need\nWork closely with senior leadership to align practice goals with broader business objectives\nContribute to thought leadership, proposals, and business development activity\n\nDelivery\n\nTake overall accountability for the successful delivery of data engagements across the practice\nMaintain hands-on involvement where needed — reviewing delivery approaches, unblocking teams, and ensuring quality\nEstablish and embed delivery standards, methodologies, and best practices across the practice\nIdentify and manage risks before they become problems\n\nStakeholder Management\n\nAct as the senior point of contact for key clients, building trusted advisor relationships at C-suite and director level\nLead client engagement from scoping through to delivery and beyond\nNavigate complex stakeholder environments with clarity and confidence\nEnsure client satisfaction drives repeat business and referrals\n\nPeople & Team\n\nLead, mentor, and grow a team of consultants, engineers, and architects\nCreate an environment where strong practitioners want to stay and develop\nSupport recruitment and capability building as the practice scales\n\nAbout You\n\nA proven track record delivering complex software or data projects, ideally within a consulting or professional services environment\nExperience leading a practice, business unit, or delivery function at a senior level\nStrong stakeholder management skills — able to operate credibly with technical teams and executive audiences alike\nComfortable moving between strategic and operational work without losing effectiveness in either\nA natural leader who invests in the people around them\nClear, confident communicator who can simplify complexity for any audience\nCommercially aware with an understanding of how delivery performance connects to business outcomes\n\nIf you enjoy delivering projects at pace and are comfortable with executive level stakeholder management in an organisation that is in a strong growth phase, please share your CV by clicking apply. If you have any questions please reach out directly.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development and IT Services and IT Consulting",
+      "first_seen": "2026-11-11T21:59:13Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Sunlife",
       "title": "AVP, Security Domain Enterprise Architecture",
