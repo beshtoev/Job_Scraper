@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:09 UTC",
+  "updated_at": "2026-11-11 17:23 UTC",
   "jobs": [
     {
       "company": "BRP",
@@ -114,29 +114,34 @@
       "url": "https://builtintoronto.com/job/associate-director-strategy-demand-gen-performance-marketing-canada/12171988",
       "direct_url": "https://builtintoronto.com/job/associate-director-strategy-demand-gen-performance-marketing-canada/12171988",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-11-11",
       "date_seen": "2026-11-11T16:41:16Z",
-      "description": "",
+      "description": "This includes a comprehensive benefits program with remote-first, flexible work, paid vacation and wellbeing time, career development support, internal career…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-11-11T16:41:27Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$112k–$163k/yr",
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010323504938"
+      ]
     },
     {
       "company": "McCain Foods",
@@ -197,7 +202,7 @@
       "company_url": "https://ca.indeed.com/cmp/Rwandan-Canadian-Healing-Centre",
       "date_posted": "2026-11-11",
       "description": "**Company:** Rwandan Canadian Healing Centre (RCHC)\n\n**Location:** Toronto, Ontario\n\n**Job Type:** Part\\-time\n\n**Schedule:** Approximately 4 hours per week\n\n**Work Arrangement:** To be confirmed\n\n**Reports To:** Executive Director\n\nAbout the Rwandan Canadian Healing Centre\n\nThe Rwandan Canadian Healing Centre (RCHC) is a nonprofit organization dedicated to supporting newcomers and refugees through transitional housing, employment assistance, community programs, and initiatives that promote stability, inclusion, and independence.\n\nOur organization is committed to responsible financial management, transparency, and accountability to ensure that our resources effectively support the individuals and communities we serve.\n\nPosition Overview\n\nRCHC is seeking an experienced, detail\\-oriented, and highly organized **Finance Director** to oversee the organization's financial operations, bookkeeping, financial reporting, budgeting, payroll, and regulatory compliance.\n\nThe successful candidate will play an important role in maintaining accurate financial records, strengthening internal controls, improving financial processes, and supporting informed organizational decision\\-making.\n\nWorking closely with the Executive Director, Board of Directors, Program Manager, and other team members, the Finance Director will help ensure responsible stewardship of organizational resources and the long\\-term financial sustainability of RCHC.\n\nThis position is ideal for a finance or accounting professional who demonstrates strong technical expertise, sound judgment, independence, and an interest in contributing to a mission\\-driven nonprofit organization.\n\nKey Responsibilities\n\n**1\\. Financial Reporting and Budget Management**\n\n* Prepare accurate and timely financial reports for the Executive Director, Board of Directors, and relevant program leads.\n* Monitor organizational revenue, expenditures, cash flow, and overall financial performance.\n* Develop and maintain annual organizational budgets in collaboration with leadership.\n* Prepare financial forecasts and identify potential financial risks, needs, and opportunities.\n* Compile annual financial information and reports for funders, donors, auditors, and other stakeholders.\n* Develop and maintain practical financial dashboards and reporting tools where appropriate.\n* Provide financial analysis and recommendations to support organizational planning and decision\\-making.\n\n**2\\. Bookkeeping and Financial Administration**\n\n* Maintain accurate, complete, and organized financial records.\n* Record and categorize financial transactions in accordance with established accounting procedures.\n* Ensure invoices, receipts, reimbursements, and other financial documentation are properly maintained.\n* Initiate, document, and organize payments for approved organizational and program expenses.\n* Perform or oversee bank reconciliations and month\\-end and year\\-end financial processes.\n* Maintain and troubleshoot integrations between accounting, banking, payroll, and other financial systems.\n* Ensure financial records are properly organized and available for authorized review.\n\n**3\\. Banking and Cash Flow Management**\n\n* Oversee organizational bank and investment accounts.\n* Monitor account balances, cash flow, and upcoming financial obligations.\n* Ensure organizational funds are managed in accordance with approved budgets, internal policies, and funding restrictions.\n* Maintain appropriate financial controls and authorization procedures.\n* Identify opportunities to improve financial efficiency while maintaining accountability and transparency.\n* Support responsible cash management and financial planning.\n\n**4\\. Payroll, Tax Filing, and Regulatory Compliance**\n\n* Process payroll and employee expense reimbursements accurately and on time.\n* Prepare and issue required employee tax documentation.\n* Coordinate annual Canada Revenue Agency (CRA) filings and other applicable nonprofit or charitable reporting requirements.\n* Maintain documentation required for financial audits, regulatory filings, and organizational reviews.\n* Support compliance with applicable payroll, taxation, funding, and financial reporting requirements.\n* Coordinate with external accountants, auditors, and other financial professionals when required.\n* Ensure appropriate confidentiality and security of financial and employee information.\n\n**5\\. Financial Systems and Process Improvement**\n\n* Review existing financial procedures and identify opportunities for improvement.\n* Develop and maintain efficient, transparent, and practical financial management systems.\n* Establish clear procedures for expense tracking, reimbursements, payment approvals, budgeting, and reporting.\n* Improve financial documentation and recordkeeping practices.\n* Support the integration and effective use of accounting and financial management software.\n* Develop scalable financial processes that support RCHC's operational needs and continued growth.\n\n**6\\. Financial Leadership and Organizational Collaboration**\n\n* Provide financial guidance and recommendations to the Executive Director and Board of Directors.\n* Communicate financial information clearly to individuals without an accounting or finance background.\n* Collaborate with program staff to support budget monitoring and responsible expenditure management.\n* Contribute financial insight to organizational planning and strategic discussions.\n* Support financial accountability across programs and operational activities.\n* Promote a culture of transparency, accuracy, and responsible financial stewardship.\n\nQualifications and Experience\n\n**Required Qualifications**\n\n* Demonstrated professional experience in accounting, bookkeeping, financial management, or nonprofit financial administration.\n* Strong working knowledge of QuickBooks or comparable accounting software.\n* Experience preparing financial reports, budgets, reconciliations, and financial records.\n* Familiarity with payroll processing, CRA ",
-      "salary": "",
+      "salary": "$25.02–$80.14/hr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "parttime, contract",
@@ -219,7 +224,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010323409315"
+      ]
     },
     {
       "company": "IBS Software",
@@ -1370,16 +1378,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-10T20:51:48Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
