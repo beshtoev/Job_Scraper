@@ -1,13 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-11 19:30 UTC*
+*Last updated: 2026-11-11 20:21 UTC*
 
 **2 new role(s)** since last run · 7 total in last 1h
 
-### [Associate Director, Media Strategy](https://www.linkedin.com/jobs/view/4489022972/) — Swoon
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $90,000 - $100,000
+### [Director of Finance](https://www.linkedin.com/jobs/view/4489044040/) — Osborne Financial Search
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-11
 
-### [Director of Digital Marketing (Remote, Calgary)](https://www.linkedin.com/jobs/view/4489980822/) — Blacksmith Agency
-- 📍 **Location:** Canada
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4488036160/) — GlassRatner Canada
+- 📍 **Location:** London, Ontario, Canada
 - 🕒 **Posted:** 2026-11-11
