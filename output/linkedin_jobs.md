@@ -1,29 +1,32 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-11 15:59 UTC*
+*Last updated: 2026-11-11 17:09 UTC*
 
-**5 new role(s)** since last run · 8 total in last 1h
+**6 new role(s)** since last run · 14 total in last 1h
 
-### [Sr. Director, Digital Technology  Commercial Transformation](https://www.linkedin.com/jobs/view/4361635173/) — McCain Foods
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $146,200.00 - $195,000.00
+### [Head of E/E Architecture, Connected Vehicles](https://www.linkedin.com/jobs/view/4488237373/) — BRP
+- 📍 **Location:** Valcourt, Quebec, Canada
 - 🕒 **Posted:** 2026-11-11
 
-### [Management Consulting Director, Technology Performance](https://www.linkedin.com/jobs/view/4480735784/) — RSM Canada
+### [Director of Digital](https://www.linkedin.com/jobs/view/4489014484/) — ACAMS
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $138,000 - $253,300
+- 💰 **Salary:** $130,000.00/yr - CA$160,000.00/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Director, Product Strategy & Growth](https://www.linkedin.com/jobs/view/4488238208/) — Infotek Consulting Inc.
+### [Senior Media Director, Media Strategy](https://www.linkedin.com/jobs/view/4478902705/) — Salt XC
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $85.00/hr - CA$94.00/hr
+- 💰 **Salary:** $140,000–$150,000
 - 🕒 **Posted:** 2026-11-11
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4488694966/) — Pontosense
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 💰 **Salary:** $160,000 to $190,000
+### [Managing Director, Media Strategy](https://www.linkedin.com/jobs/view/4478919117/) — Salt XC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $170,000–$200,000
 - 🕒 **Posted:** 2026-11-11
 
-### [Director, Consumer Marketing Strategy](https://www.linkedin.com/jobs/view/4480794248/) — AutoTrader.ca
+### [Director, Insights & Measurement](https://www.linkedin.com/jobs/view/4482126464/) — Plus Company
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150k–$170k/yr
+- 💰 **Salary:** $105,000-$150,000 annually
+- 🕒 **Posted:** 2026-11-11
+
+### [Vice President of Finance](https://www.linkedin.com/jobs/view/4489017520/) — Stevenson & White
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-11-11
