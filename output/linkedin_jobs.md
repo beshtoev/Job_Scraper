@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-11 01:54 UTC*
+*Last updated: 2026-11-11 02:18 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**0 new role(s)** since last run · 2 total in last 1h
 
-### [Director of Finance, Contract](https://www.linkedin.com/jobs/view/4488631751/) — WalterFedy
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 🕒 **Posted:** 2026-11-11
+No new roles since the last run.
