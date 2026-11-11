@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-11 07:56 UTC*
+*Last updated: 2026-11-11 08:33 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Director, Financial Reporting & Internal Controls](https://www.linkedin.com/jobs/view/4474437074/) — Mitel
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $130,000- $150,000
-- 🕒 **Posted:** 2026-11-11
+No new roles since the last run.
