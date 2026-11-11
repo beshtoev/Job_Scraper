@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 11:11 UTC",
+  "updated_at": "2026-11-11 11:44 UTC",
   "jobs": [
     {
       "company": "National Bank of Canada",
@@ -8815,7 +8815,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4489946124/"
+      ]
     },
     {
       "company": "Hays",
@@ -23665,6 +23668,7 @@
         "https://www.linkedin.com/jobs/view/4488325391/",
         "https://www.linkedin.com/jobs/view/4488399503/",
         "https://www.linkedin.com/jobs/view/4488655648/",
+        "https://www.linkedin.com/jobs/view/4488679748/",
         "https://www.linkedin.com/jobs/view/4489416341/",
         "https://www.linkedin.com/jobs/view/4489649744/"
       ]
@@ -37716,7 +37720,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
