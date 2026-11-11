@@ -1,7 +1,6 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-11 09:29 UTC*
+*Last updated: 2026-11-11 12:54 UTC*
 
-**1 new role(s)** since last run · 216 total in current portal openings
+**0 new role(s)** since last run · 215 total in current portal openings
 
-### [Director, Global Tax Information, Reporting & Withholding](https://builtintoronto.com/job/director-global-tax-information-reporting-withholding/12178603) — Block
-- 📍 **Location:** Toronto, Ontario, Canada
+No matching roles found in today's company-portal run.
