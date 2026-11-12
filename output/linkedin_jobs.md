@@ -1,18 +1,14 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-12 19:10 UTC*
+*Last updated: 2026-11-12 19:32 UTC*
 
-**3 new role(s)** since last run · 13 total in last 1h
+**2 new role(s)** since last run · 14 total in last 1h
 
-### [Director of Strategy and Programs](https://www.linkedin.com/jobs/view/4489291358/) — Chiropractic Association of Alberta
-- 📍 **Location:** Alberta, Canada
-- 💰 **Salary:** $115,000 to $125,000,
+### [Deals Value Creation Analytics Director](https://www.linkedin.com/jobs/view/4482184634/) — PwC Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $175,000 - $225,000
 - 🕒 **Posted:** 2026-11-12
 
-### [Director, Digital Infrastructure](https://www.linkedin.com/jobs/view/4490385979/) — Phoenix Contact Canada
-- 📍 **Location:** Milton, Ontario, Canada
-- 🕒 **Posted:** 2026-11-12
-
-### [Director of Finance](https://www.linkedin.com/jobs/view/4490512164/) — Kassen Recruitment
-- 📍 **Location:** Sturgeon Falls, Ontario, Canada
-- 💰 **Salary:** $110,000.00/yr - CA$130,000.00/yr
+### [Financial Reporting and Tax Compliance, Director (Bilingual FR/EN)](https://www.linkedin.com/jobs/view/4482183679/) — PwC Canada
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $133,100 - $183,100
 - 🕒 **Posted:** 2026-11-12
