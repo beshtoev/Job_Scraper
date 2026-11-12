@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-12 12:15 UTC",
+  "updated_at": "2026-11-12 12:29 UTC",
   "jobs": [
+    {
+      "company": "Ingenio Global",
+      "title": "Global Head of Digital Strategy & Transformation | Legal | up to $250k",
+      "location": "Greater Toronto Area, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490325803/",
+      "date_posted": "2026-11-12",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Location:\nToronto, Canada\nSalary:\nup to $250,000, dependent on experience\nEmployment:\nPermanent | Full-time\nIndustry:\nLegal & Professional Services\n\nIngenio is supporting a leading international law firm with the appointment of a Global Head of Digital Strategy & Transformation\n.\n\nThis is a senior leadership position reporting directly to the Global Chief Operating Officer, with significant exposure to the Board and wider executive leadership team. The successful candidate will lead the firm's digital transformation strategy, bringing together business applications, data, AI, automation and digital client services to deliver measurable business improvements.\n\nThis is not a traditional IT infrastructure or operational technology role. An established CTO is responsible for those areas. The focus of this appointment is on strategy, development, transformation and execution\n.\n\nThe Opportunity\nYou will take responsibility for developing and delivering a global digital transformation strategy across legal, corporate and trust services. Working with senior business stakeholders, you will turn commercial and operational challenges into practical technology solutions that improve efficiency, client experience and service delivery.\n\nYou'll inherit an established application development team and will be responsible for developing its capabilities as the transformation programme progresses.\n\nSignificant projects are already underway, including a major entity-management platform initiative, a broader data management and analytics programme, and opportunities to extend the use of AI and automation across the business.\n\nKey Responsibilities\nDevelop and deliver a global digital strategy and transformation roadmap aligned with business priorities.\nLead and develop the existing Business Technology and Application Development team.\nOwn the business applications roadmap, including entity management and client-facing technology solutions.\nOversee the design, development and delivery of new systems, whether built internally, purchased or delivered through external partners.\nDrive the data strategy, analytics, reporting and business intelligence agenda.\nIdentify and implement practical AI and automation opportunities across legal and professional services.\n\nWhat We're Looking For\nWe are particularly interested in senior digital transformation and business technology leaders from professional services, legal, fiduciary/corporate services, financial services or similarly complex, regulated environments\n.\n\nYou will bring:\nSignificant experience leading digital strategy, business technology or enterprise transformation.\nA proven track record of delivering complex technology programmes with measurable business outcomes.\nStrong experience across business applications, software development and technology-enabled process improvement.\nA solid understanding of data strategy, analytics, business intelligence, AI and automation.\nExperience leading multidisciplinary development teams and managing external delivery partners.\nThe ability to influence Board-level stakeholders while remaining technically credible and close to delivery.\n\nLocation & Package\nToronto is the mandatory location, with this being an in-office role.\n\nInterested?\nThis is an opportunity to shape the digital direction of an established international professional services organisation, with direct access to senior leadership, an existing development capability and significant transformation programmes already underway.\n\nFor a confidential discussion, please contact Michelle Queally at Ingenio\n, or apply directly.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
+      "first_seen": "2026-11-12T12:29:02Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Greater Toronto Area",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 100061,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "centre of Greater Toronto Area",
+      "geo_version": 1
+    },
     {
       "company": "Quadra Group",
       "title": "Head of Enterprise Architecture & Applications",
@@ -180,7 +205,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4472382344/"
+      ]
     },
     {
       "company": "Walmart Canada",
@@ -18660,7 +18688,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4455995366/"
+      ]
     },
     {
       "company": "Neo Performance Materials",
