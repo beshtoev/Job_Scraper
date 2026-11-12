@@ -1,14 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-12 13:27 UTC*
+*Last updated: 2026-11-12 14:14 UTC*
 
-**2 new role(s)** since last run · 9 total in last 1h
+**3 new role(s)** since last run · 9 total in last 1h
 
-### [Director, Digital Marketing & Web Experience](https://www.linkedin.com/jobs/view/4471983941/) — Varicent
+### [Director of Finance](https://www.linkedin.com/jobs/view/4489233981/) — Pontosense
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $138,200.00 - $181,400.00
+- 💰 **Salary:** $160,000 to $190,000
 - 🕒 **Posted:** 2026-11-12
 
-### [Director, GTM Planning & Compensation](https://www.linkedin.com/jobs/view/4472384144/) — Clio
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $207,400 to $311,000
+### [Director of Finance](https://www.linkedin.com/jobs/view/4489248637/) — Pontosense
+- 📍 **Location:** Kitchener, Ontario, Canada
+- 💰 **Salary:** $160,000 to $190,000
+- 🕒 **Posted:** 2026-11-12
+
+### [Senior Director, Operations Finance](https://www.linkedin.com/jobs/view/4482438447/) — Live Nation Entertainment
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $156,000-195,000
 - 🕒 **Posted:** 2026-11-12
