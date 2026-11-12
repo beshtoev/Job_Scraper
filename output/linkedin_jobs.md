@@ -1,19 +1,19 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-12 14:14 UTC*
+*Last updated: 2026-11-12 14:36 UTC*
 
-**3 new role(s)** since last run · 9 total in last 1h
+**3 new role(s)** since last run · 7 total in last 1h
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4489233981/) — Pontosense
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000 to $190,000
+### [Director of Finance, Clinic Integration & Growth](https://www.linkedin.com/jobs/view/4489254373/) — Ottawa Physiotherapy & Sport Clinics | OPTSC
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $160,000 – $200,000
 - 🕒 **Posted:** 2026-11-12
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4489248637/) — Pontosense
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 💰 **Salary:** $160,000 to $190,000
+### [Director, Structured and Project Finance - Digital Industries-EN 581](https://www.linkedin.com/jobs/view/4490357194/) — Export Development Canada | Exportation et développement Canada
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $178,118.00/yr - CA$237,490.00/yr
 - 🕒 **Posted:** 2026-11-12
 
-### [Senior Director, Operations Finance](https://www.linkedin.com/jobs/view/4482438447/) — Live Nation Entertainment
+### [Director, Structured and Project Finance - Digital Industries-EN 581](https://www.linkedin.com/jobs/view/4490353401/) — Export Development Canada | Exportation et développement Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $156,000-195,000
+- 💰 **Salary:** $178,118.00/yr - CA$237,490.00/yr
 - 🕒 **Posted:** 2026-11-12
