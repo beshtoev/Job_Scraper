@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-12 23:32 UTC*
+*Last updated: 2026-11-12 23:53 UTC*
 
-**1 new role(s)** since last run · 10 total in last 1h
+**1 new role(s)** since last run · 11 total in last 1h
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4489519005/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Senior Director, Governance and Execution Oversight](https://www.linkedin.com/jobs/view/4489509257/) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-12
