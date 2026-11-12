@@ -38911,7 +38911,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -43230,41 +43230,6 @@
       "geo_confidence": "low",
       "geo_detail": "only country stated",
       "geo_version": 1
-    },
-    {
-      "company": "Jobgether",
-      "title": "Director, Financial Planning and Analysis",
-      "location": "Canada",
-      "url": "https://jobs.lever.co/jobgether/6e21d24e-2d14-4b67-905d-0434cfdf2994",
-      "direct_url": "https://jobs.lever.co/jobgether/6e21d24e-2d14-4b67-905d-0434cfdf2994",
-      "req_id": "6e21d24e-2d14-4b67-905d-0434cfdf2994",
-      "date_posted": "2026-10-13",
-      "date_seen": "2026-10-13T06:35:17Z",
-      "description": "Lead the annual consolidated budget, rolling forecasts, multi-year financial plans, and in-year reforecasting across countries, departments, programs, and funding sources.\n\n Develop integrated financial and operational models connecting program reach, cost per beneficiary, staffing, capital needs, funding availability, and cash requirements.\n\n Conduct scenario modelling and sensitivity analysis to assess growth opportunities, funding gaps, foreign exchange exposure, cost pressures, and strategic trade-offs.\n\n Establish and oversee performance management processes, including budget monitoring, KPI tracking, quarterly executive and country-level reviews, variance analysis, and corrective action planning.\n\n Prepare clear, decision-oriented financial insights and reporting materials for the CFO, executive leadership, Board, and relevant finance, audit, and risk committees.\n\n Act as a strategic finance partner to senior leaders, challenging assumptions and supporting business cases, program design, workforce planning, country expansion, investment decisions, and resource allocation.\n\n Collaborate with Programs, Partnerships, People, IT, Procurement, and country leadership to align strategic objectives, operational delivery, and financial capacity.\n\n Lead financial modelling for donor proposals, cost recovery, funding sustainability, and decisions involving restricted and unrestricted resources.\n\n Oversee forward-looking liquidity and cash flow forecasting in partnership with Accounting and Controllership, maintaining visibility into funding gaps, cash runway, reserve requirements, and financial risks.\n\n Drive the development of FP&A systems, dashboards, planning models, data standards, and management reporting processes, leveraging tools such as Excel, Power BI, and ERP platforms.\n\n Improve forecast accuracy, data quality, reporting efficiency, and automation while establishing consistent methodologies and a reliable source of truth for financial and operational performance.\n\n Lead, coach, and develop the East Africa FP&A team, strengthening technical capabilities, accountability, collaboration, and succession planning.\n\n Build financial literacy across budget owners through training, practical guidance, standardized templates, and ongoing support.\n\n Partner with the Controller and Accounting Manager to maintain clear responsibilities across planning, accounting, reporting, treasury, internal controls, and country finance support.\n\n Ensure planning and reporting practices comply with internal policies, delegated authorities, donor requirements, and approved methodologies, while supporting audits, risk reviews, and strategic finance projects.\n\n Requirements:\n\n Bachelor’s degree in Finance, Accounting, Economics, Business, or a related discipline; an MBA or relevant master’s degree is an asset.\n\n A recognized professional designation, such as CPA, CA, CMA, ACCA, CFA, or equivalent, is strongly preferred.\n\n At least 10 years of progressive finance experience, including substantial responsibility for financial planning and analysis, strategic business partnering, and team leadership.\n\n Proven experience managing complex, multi-entity budgeting, forecasting, scenario modelling, and executive-level performance reporting.\n\n Experience in an international nonprofit, charitable organization, development organization, or donor-funded environment is strongly preferred.\n\n Demonstrated understanding of multi-country and multi-currency operations, restricted and unrestricted funding, cost allocation, and financial sustainability planning.\n\n Advanced Excel skills and strong financial modelling capabilities, with proficiency in Power BI and modern ERP or financial management systems. Experience with Sage Intacct or Microsoft Dynamics 365 Business Central is an asset.\n\n Strong analytical and strategic thinking skills, with the ability to translate complex financial information into clear recommendations, identify risks and opportunities, and influence decision-making.\n\n Excellent communication and stakeholder management skills, with the ability to build effective partnerships across executive leadership, operational teams, and geographically distributed colleagues.\n\n Demonstrated leadership and people development capabilities, including coaching, setting performance expectations, building team capacity, and fostering a culture of accountability and continuous improvement.\n\n Strong organizational skills and attention to detail, with the ability to manage competing priorities, maintain robust planning processes, and deliver reliable insights within established timelines.\n\n A collaborative, inclusive, and adaptable approach, combined with sound judgment, professional integrity, and a commitment to continuous improvement.\n\n Ability to work effectively across global time zones and undertake international travel of up to 20% of working time.\n\n Willingness to follow a hybrid working arrangement based in Toronto, with three days per week in the office and the remaining workdays remote.\n\n Benefits:\n\n Full-time leadership opportunity: A senior finance role with direct exposure to the CFO, executive leadership, and strategic organizational decision-making.\n\n Meaningful impact: The opportunity to strengthen financial sustainability and resource allocation in support of programs addressing ultra-poverty in underserved communities.\n\n International collaboration: Work closely with global teams and country leadership across multiple regions and functions.\n\n Professional growth: Lead the evolution of a global FP&A function, modernize financial systems, and develop the capabilities of a geographically distributed team.\n\n Strategic influence: Contribute directly to organizational planning, investment decisions, funding sustainability, and long-term growth.\n\n Inclusive work environment: Join a collaborative, mission-driven setting that values accountability, learning, inclusion, and continuous improvement.\n\n Accessibility and accommodation: Accommodations are available throughout the recruitment process in accordance with applicable accessibility and human rights requirements.\n\n Compensation and additional benefits: Salary range, healthcare coverage, retirement benefits, paid leave, and other perks were not specified in the provided job description and should be confirmed with the hiring team.",
-      "is_remote": false,
-      "department": "Finance",
-      "ats": "Lever",
-      "source": "company_portal",
-      "archetype": "D",
-      "work_arrangement": "On-site",
-      "first_seen": "2026-10-13T06:47:13Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "description",
-      "geo_confidence": "medium",
-      "geo_detail": "description names Toronto",
-      "geo_version": 1,
-      "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4477958883/"
-      ]
     }
   ]
 }
