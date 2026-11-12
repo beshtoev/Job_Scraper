@@ -1,6 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-12 08:32 UTC*
+*Last updated: 2026-11-12 15:00 UTC*
 
-**0 new role(s)** since last run · 5 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Director, Structured and Project Finance - Digital Industries-EN 581](https://ca.indeed.com/viewjob?jk=6c9033429a331573) — Export Development Canada
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-12
