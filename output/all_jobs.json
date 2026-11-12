@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-11 23:57 UTC",
+  "updated_at": "2026-11-12 00:22 UTC",
   "jobs": [
+    {
+      "company": "Omnicom Media",
+      "title": "Audience & Data Strategy Director",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4489050696/",
+      "date_posted": "2026-11-12",
+      "salary": "$105,000 - $115,000",
+      "ats": "LinkedIn",
+      "description": "Agency\n\nOmnicom Media\n\nJob Function\n\nData and Analytics\n\nJob Subfunction\n\nData Science and Analytics\n\nJob Description\n\nPosition Summary\n\nAs our new Director, Audience Strategy, you will take on blended agency + client-facing role that incorporates business consulting, analytical depth, and cross-functional leadership.\n\nServing as a trusted advisor, you will connect client priorities to the right data capabilities (1P, 2P, 3P), technology, and strategy, to help drive measurable business outcomes.\nUsing your financial accumen and eye for detail you will ensure accurate revenue reporting, campaign pacing, and identify opportunities to grow audience targeting usage\nUsing your technical expertise and analytics skills you will support a talented team of analysts on segment creation, activation, manage operational issues, and collaborate on the development of new tools that improve the efficiency and effectiveness of our processes.\nLeveraging your industry knowledge and leadership skills, you will work with internal product teams and vendors partners to grow our capabilities.\n\nThis position requires strong strategic thinking, relationship building and management, presentation, critical thinking, and problem-solving skills.\n\nKey Responsibilities\n\nAudience Strategy\n\nOwn the audience narrative for clients and align all work to business priorities and measurable outcomes.\nAdvise senior stakeholders using data-driven insights across audience strategy, testing, and optimization.\nTranslate complex signals and technical concepts into clear, actionable recommendations that build confidence with clients, partners, and internal leaders\nSupport development of client-facing deliverables including segment specifications, activation guides, and performance reports\nEvolve and manage client data partnerships to ensure our audience offering stays ahead of customer needs\n\nAudience Execution\n\nManage audience infrastructure including segment uploads, match rate optimization, and troubleshooting activation issues across DSPs, social platforms, and other endpoints\nMaintain documentation of audience build processes, segment definitions, and activation requirements\nSupport audience modeling projects including clustering, lookalike modeling, propensity scoring, and behavioral segmentation in partnership with Advanced Analytics team\nWillingness and ability to be “hands-on” as needed to step in, guide, or support deliverables.\n\nTeam Development\n\nMentor a talented team of 4+\nContribute to internal training materials and knowledge sharing sessions\nSupport recruitment efforts by participating in interviews and candidate evaluations\nProvide technical guidance to junior team members and media planners on audience capabilities and data requirements\n\nContinuous Learning & Innovation\n\nStay current on audience strategy best practices, emerging technologies, and privacy developments\nPilot new tools, techniques, and data sources to expand team capabilities\nDocument learnings and contribute to internal process improvements\nExplore applications of AI/ML for audience development under senior guidance\n\nQualifications\n\nRequired Experience\n\n7+ years of experience in audience strategy, data strategy, programmatic media, or marketing analytics within agency, brand, or martech environments\nExperience managing a multi-million-dollar budget\n1-3 years of people management experience\nDemonstrated ability to independently execute complex audience projects from data analysis through activation\nDirect hands-on experience building audience segments and managing campaign activation across multiple platforms\nProven ability to communicate technical concepts clearly to non-technical stakeholders\n\nCore Competencies\n\nStrong bias toward action with attention to detail and quality\nExceptional presentation and written communication skill\nAbility to manage multiple concurrent projects with competing priorities\nWorks effectively across teams and builds productive relationships\nComfortable with ambiguity and changing priorities in a fast-paced environment\n\nThis is an active vacancy. We are currently hiring for this role and reviewing applications on an ongoing basis.\n\nExpected Salary: $105,000 - $115,000\n\nSkills\n\nOmnicom Media is providing the compensation range that the company is willing to pay for this position based on the successful applicant’s education, experience, knowledge, skills and abilities. In addition, Omnicom Media provides rewarding offerings such as:\n\nGenerous paid time off with a minimum of 37 paid days off including vacation and monthly wellness days. We also have four-day long weekends, half-day summer Fridays, and meeting-free Friday afternoons year-round.\nA flexible hybrid work model that works for you.\nA focus on personal development with formal training opportunities, including mental health training and inclusion education for everyone.\nA chance to be part of and grow within a global network of agencies.\nThe opportunity to contribute to our company culture by joining one of our many community-based employee groups, such as Black Employee Network, Girls on Fire, Hispanic or Latinx Alliance, Neuro Network, Pan-Asian Network, and Rainbow Lounge.\n\nOmnicom is an equal opportunity employer, committed to providing equal employment opportunities to all employees and applicants without regard to race, colour, ethnicity, gender, age, religion, creed, national origin, sexual orientation, gender identity, marital status, citizenship, genetic information, disability, or any other basis prohibited by applicable federal, provincial, or municipal law. If you require an accommodation in any aspect of the selection process, please reach out to talentcanada@omnicommedia.com\n\n$105,000 - $115,000\n\nTo the extent permissible by local law, Omnicom’s policy requires employees to work in the office for a minimum of three days a week, unless additional in-office days are directed by their agency or manager.\n\nOmnicom is committed to hiring and developing exceptional talent. We agree that talent is uniquely distributed, and we’re focused on developing inclusive teams that can bring the best solutions to everything we do. We strongly believe that celebrating what makes us different makes us better together. Join us—we look forward to getting to know you. We will process your personal data in accordance with our Recruitment Privacy Notice.\n\nLink to Recruitment Privacy Notice: https://www.omc.com/privacy-notice/\n\n,\n\n$105,000 - $115,000\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAdvertising Services",
+      "first_seen": "2026-11-12T00:22:39Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Canada Life",
       "title": "Test- Director, Technical Solutions (Enterprise Application Integrations)",
@@ -99,7 +124,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4489045881/"
+      ]
     },
     {
       "company": "Interpublic",
@@ -291,7 +319,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4490035450/"
+      ]
     },
     {
       "company": "Bloom",
