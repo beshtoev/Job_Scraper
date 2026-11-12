@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-11-12 17:02 UTC",
+  "updated_at": "2026-11-12 17:11 UTC",
   "jobs": [
+    {
+      "company": "HRXconnect",
+      "title": "Vice President of Finance",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010324625128",
+      "date_posted": "2026-11-12",
+      "description": "Develop and maintain rolling cash flow forecasts and monitor available cash balances. Approve payments within established authorization limits and manage…",
+      "salary": "$150k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-12T17:11:28Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Pinnacle Search Group",
+      "title": "Director, Forecasting & Financial Planning & Analysis",
+      "location": "Mississauga, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010324726761",
+      "date_posted": "2026-11-12",
+      "description": "Bachelor’s degree in Finance, Accounting, Business Administration, Economics, or a related discipline. Develop three- to five-year financial projections,…",
+      "salary": "$160k–$170k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-12T17:11:28Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Enoch Cree Nation",
+      "title": "Chief Financial Officer (CFO)",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010324692762",
+      "date_posted": "2026-11-12",
+      "description": "A valid driver’s license and reliable vehicle are required. O Provides leadership in the development for the continuous evaluation of short and long-term…",
+      "salary": "$164k–$218k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-12T17:11:28Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Export Development Canada",
       "title": "Director, Structured and Project Finance - Infrastructure -EN 608",
@@ -236,7 +317,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010324694670"
+      ]
     },
     {
       "company": "Export Development Canada",
@@ -429,7 +513,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010324577663"
+      ]
     },
     {
       "company": "Excelitas Technologies Corp.",
@@ -2797,16 +2884,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-10T20:51:48Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -4966,7 +5053,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010321259919"
+      ]
     },
     {
       "company": "Avalere Health",
