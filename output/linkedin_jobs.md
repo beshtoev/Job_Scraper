@@ -1,8 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-12 09:33 UTC*
+*Last updated: 2026-11-12 10:12 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Director, Corporate FP&A](https://www.linkedin.com/jobs/view/4464677605/) — TMX Group
+### [(CAN) Senior Director, Digital Strategy and Media](https://www.linkedin.com/jobs/view/4473291894/) — Walmart Canada
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-12
+
+### [Senior Director AI, Chief Revenue Organization](https://www.linkedin.com/jobs/view/4479441788/) — Equinix
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-12
