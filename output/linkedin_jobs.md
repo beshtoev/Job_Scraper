@@ -1,16 +1,18 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-12 22:42 UTC*
+*Last updated: 2026-11-12 23:10 UTC*
 
-**3 new role(s)** since last run · 7 total in last 1h
+**3 new role(s)** since last run · 9 total in last 1h
 
-### [Associate Director, Pension Planning and Performance Reporting (15-Month Contract)](https://www.linkedin.com/jobs/view/4489291721/) — University Pension Plan Ontario
+### [Director, Enterprise Solutions - Google Cloud](https://www.linkedin.com/jobs/view/4490537161/) — APPLY
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000 - $220,000
 - 🕒 **Posted:** 2026-11-12
 
-### [Global Head of Cloud Platform Engineering](https://www.linkedin.com/jobs/view/4490520739/) — Innocap
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, Total Compensation and HR Data](https://www.linkedin.com/jobs/view/4490531204/) — VOSKER
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-12
 
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4488267067/) — Infinite Outsourcing Solutions Inc
-- 📍 **Location:** Oakville, Ontario, Canada
+### [Assistant Vice President / Vice President, Project Finance & Infrastructure](https://www.linkedin.com/jobs/view/4490521338/) — Morningstar
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $82,000.00-120,000.00
 - 🕒 **Posted:** 2026-11-12
