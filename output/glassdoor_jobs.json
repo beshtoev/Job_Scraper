@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-12 00:31 UTC",
+  "scraped_at": "2026-11-12 01:53 UTC",
   "total": 51,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Manulife",
@@ -1335,32 +1335,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "BRP",
-      "title": "Head of E/E Architecture, Connected Vehicles",
-      "location": "Valcourt, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010323709931",
-      "date_posted": "2026-11-12",
-      "description": "Lead top-level platform design for next-generation vehicle E/E architectures, defining hardware topology, high-speed vehicle networks (Automotive Ethernet, TSN,…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "Valcourt",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
