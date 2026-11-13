@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-13 11:56 UTC*
+*Last updated: 2026-11-13 12:16 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Director, Technology Operations](https://www.linkedin.com/jobs/view/4465868372/) — Goway Travel
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000 – $190,000
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4490717223/) — Journal Technologies
+- 📍 **Location:** Victoria, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-13
+
+### [Vice President Controlling and Finance PSN](https://www.linkedin.com/jobs/view/4489567561/) — Epiroc
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-13
