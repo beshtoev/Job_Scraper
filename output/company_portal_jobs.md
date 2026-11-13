@@ -1,46 +1,37 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-13 20:24 UTC*
+*Last updated: 2026-11-13 23:43 UTC*
 
-**12 new role(s)** since last run · 219 total in current portal openings
+**11 new role(s)** since last run · 208 total in current portal openings
 
-### [Director, Investment Product Platform](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Investment-Product-Platform_R260027789) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-11-13
-
-### [Director, Client Enablement Analytics](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Client-Enablement-Analytics_R260031642) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-11-13
-
-### [Director, Third Party Risk Management – Quality Assurance & Governance (Line 1B)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Director--Third-Party-Risk-Management---Quality-Assurance---Governance--Line-1B-_JR26071321) — Manulife
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-11-13
-
-### [Vice President, Group Functions Technology - Finance & Treasury Systems](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Vice-President--Group-Functions-Technology---Finance---Treasury-Systems_JR26110374) — Manulife
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-11-13
-
-### [Director, Financial Crimes Risk Assessment](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Financial-Crimes-Risk-Assessment_R-0000184783-1) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-11-13
-
-### [Director, Corporate Risk Information Management](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director--Corporate-Risk-Information-Management_JR00129797-2) — Sun Life
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-11-13
-
-### [Director, Corporate Risk Information Management](https://builtintoronto.com/job/director-corporate-risk-information-management/12234141) — Sun Life Financial, Inc.
+### [Director, Investment Product Platform](https://builtintoronto.com/job/director-investment-product-platform/11426271) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director of Finance (B2B SaaS)](https://builtintoronto.com/job/director-finance-b2b-saas/12230578) — Statflo
+### [Senior Director, Information Security and End-User Technology (T & I) (Telework/Hybrid)](https://builtintoronto.com/job/senior-director-information-security-and-end-user-technology-t-i-telework-hybrid/12243997) — CBC/Radio-Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Chapter Lead, Media Analytics](https://builtintoronto.com/job/director-chapter-lead-media-analytics/11701874) — CIBC
+### [Director, Client Enablement Analytics](https://builtintoronto.com/job/director-client-enablement-analytics/12243037) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Transformation Director](https://builtintoronto.com/job/senior-transformation-director/11940762) — D2L
+### [Director, Partnerships Strategy & Corporate Development](https://builtintoronto.com/job/director-partnerships-strategy-corporate-development/11943650) — Manulife
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Assistant Vice President / Vice President, Project Finance & Infrastructure](https://builtintoronto.com/job/assistant-vice-president-vice-president-project-finance-infrastructure/12235574) — Morningstar
+### [Director, Third Party Risk Management – Quality Assurance & Governance (Line 1B)](https://builtintoronto.com/job/director-third-party-risk-management-quality-assurance-governance-line-1b/10442616) — Manulife
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Head of Performance Creative Strategy (Canada)](https://builtintoronto.com/job/head-performance-creative-strategy-canada/9987006) — BM Digital
+### [Senior Director, Governance and Execution Oversight](https://builtintoronto.com/job/senior-director-governance-and-execution-oversight/12242543) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director of Finance](https://builtintoronto.com/job/director-finance/12242112) — Friends of Ruby
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Vice President, Finance & Business Operations](https://builtintoronto.com/job/vice-president-finance-business-operations/12251590) — Make-A-Wish Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Vice President, Finance & Business Operations](https://builtintoronto.com/job/vice-president-finance-business-operations/12251233) — Make-A-Wish | Rêves d’enfants Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [VP, GWAM Technology Operations & Platforms](https://builtintoronto.com/job/vp-gwam-technology-operations-platforms/12242405) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Global Head of Corporate Finance, General Account](https://builtintoronto.com/job/global-head-corporate-finance-general-account/12242413) — Manulife
 - 📍 **Location:** Toronto, Ontario, Canada
