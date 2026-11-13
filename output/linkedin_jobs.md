@@ -1,13 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-13 19:52 UTC*
+*Last updated: 2026-11-13 21:07 UTC*
 
-**2 new role(s)** since last run · 11 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Financial Director](https://www.linkedin.com/jobs/view/4489804819/) — Robert Half
-- 📍 **Location:** Brantford, Ontario, Canada
-- 💰 **Salary:** $130,000.00/yr - CA$160,000.00/yr
+### [Head of Data Systems (Google Stack)](https://www.linkedin.com/jobs/view/4489824433/) — Stacktics
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-13
 
-### [Director of Digital Marketing (Remote, Vancouver)](https://www.linkedin.com/jobs/view/4490769498/) — Blacksmith Agency
+### [Vice President of AI Engineering](https://www.linkedin.com/jobs/view/4490774723/) — Patra Corporation
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-13
