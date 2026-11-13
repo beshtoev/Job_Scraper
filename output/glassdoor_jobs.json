@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-13 01:29 UTC",
+  "scraped_at": "2026-11-13 02:28 UTC",
   "total": 50,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Foresters Financial Services, Inc.",
@@ -1308,58 +1308,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "APPLY",
-      "title": "Director, Enterprise Solutions - Google Cloud",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010325126911",
-      "date_posted": "2026-11-13",
-      "description": "You'll be a hands-on architect and trusted technology advisor to client executives while driving co-sell engagement with Google Cloud's partner engineering,…",
-      "salary": "$150k–$220k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "McCain Foods Limited",
-      "title": "Director, Channel Strategy & Execution - QSR, Chain & C-Store",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010322452269",
-      "date_posted": "2026-11-11",
-      "description": "Partner with Sales leadership to execute customer growth plans and deliver commitments to strategic customers. Position Type: Regular - Full-Time.",
-      "salary": "$146k–$195k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
