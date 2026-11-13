@@ -1,14 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-13 05:33 UTC*
+*Last updated: 2026-11-13 05:52 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Senior Technology Director - Merchandise Planning](https://www.linkedin.com/jobs/view/4488900307/) — lululemon
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $230,300 - 302,300 annually
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4490589126/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-13
 
-### [Technology Director - Developer Excellence](https://www.linkedin.com/jobs/view/4488599369/) — lululemon
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $200,000 - 258,100 annually
+### [Managing Director, Investment Fund Finance](https://www.linkedin.com/jobs/view/4490538510/) — ATB Financial
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $170,000 - $185,0000
 - 🕒 **Posted:** 2026-11-13
