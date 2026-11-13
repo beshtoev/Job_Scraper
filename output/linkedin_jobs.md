@@ -1,29 +1,18 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-13 17:51 UTC*
+*Last updated: 2026-11-13 18:15 UTC*
 
-**6 new role(s)** since last run · 9 total in last 1h
+**3 new role(s)** since last run · 12 total in last 1h
 
-### [AI Director - Global AI Risk Management](https://www.linkedin.com/jobs/view/4489584556/) — Scotiabank
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Senior Director, Software Engineering - Contract Intelligence](https://www.linkedin.com/jobs/view/4484564963/) — Agiloft
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-13
 
-### [Senior Director, Information Technology (Transformation, AI & Enterprise Systems)](https://www.linkedin.com/jobs/view/4490762251/) — Quantum Technology Recruiting Inc. (QTR)
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $180,000.00/yr - CA$200,000.00/yr
+### [Director, Databricks Consultant - Strategic Solution Architecture](https://www.linkedin.com/jobs/view/4452562430/) — Concentrix
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $200,000 -$250,000,
 - 🕒 **Posted:** 2026-11-13
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4489582793/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 🕒 **Posted:** 2026-11-13
-
-### [VP, GWAM Technology Operations & Platforms](https://www.linkedin.com/jobs/view/4489587829/) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-13
-
-### [Assistant Vice President, Data Transformation](https://www.linkedin.com/jobs/view/4472988393/) — The Citco Group Limited
-- 📍 **Location:** Nova Scotia, Canada
-- 🕒 **Posted:** 2026-11-13
-
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4489580836/) — Assiniboine Credit Union
-- 📍 **Location:** Winnipeg, Manitoba, Canada
+### [Chief Financial Officer - Highly Engineered Design/Manufacturing- Private Equity, 79074](https://www.linkedin.com/jobs/view/4489807114/) — Truenorth Executive Search, Inc.
+- 📍 **Location:** Richmond, British Columbia, Canada
+- 💰 **Salary:** $250K - $300K
 - 🕒 **Posted:** 2026-11-13
