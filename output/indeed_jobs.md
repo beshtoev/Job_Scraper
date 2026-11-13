@@ -1,10 +1,15 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-13 18:53 UTC*
+*Last updated: 2026-11-13 21:16 UTC*
 
-**1 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 9 total in last 24h
 
-### [Senior Director, Information Security and End-User Technology (T & I) (Telework/Hybrid)](https://ca.indeed.com/viewjob?jk=80fc2656b1a26411) — CBC/Radio-Canada
+### [AI Director - Global AI Risk Management](https://ca.indeed.com/viewjob?jk=65c716096a4bca63) — Scotiabank
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-13
+
+### [Chief Financial Officer (CFO)](https://ca.indeed.com/viewjob?jk=cb365f4c4e0333b3) — Samee Metal Trading
+- 📍 **Location:** Hamilton, ON, CA
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-13
