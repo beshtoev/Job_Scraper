@@ -1,10 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-13 01:42 UTC*
+*Last updated: 2026-11-13 03:45 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 9 total in last 24h
 
-### [Director, Enterprise Solutions - Google Cloud](https://ca.indeed.com/viewjob?jk=af75b5959d2f846e) — Apply
+### [Director, Newcomer Channel Strategy & Operations](https://ca.indeed.com/viewjob?jk=fa6562f0b5071d50) — RBC
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-12
