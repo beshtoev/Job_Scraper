@@ -1,9 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-13 03:45 UTC*
+*Last updated: 2026-11-13 05:46 UTC*
 
 **1 new role(s)** since last run · 9 total in last 24h
 
-### [Director, Newcomer Channel Strategy & Operations](https://ca.indeed.com/viewjob?jk=fa6562f0b5071d50) — RBC
+### [Senior Director, Governance and Execution Oversight](https://ca.indeed.com/viewjob?jk=d4c49f9b5924c7d4) — Manulife
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
