@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-13 04:43 UTC",
+  "updated_at": "2026-11-13 04:53 UTC",
   "jobs": [
+    {
+      "company": "GeoLOGIC Systems Limited",
+      "title": "Director, Information Technology",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010325168165",
+      "date_posted": "2026-11-13",
+      "description": "An IT roadmap aligned to business objectives, sound governance and reporting for the executive team, and the leadership, standards, coverage model, and…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-13T04:53:27Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Director, Newcomer Channel Strategy & Operations",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010325214086",
+      "date_posted": "2026-11-13",
+      "description": "MBA or equivalent graduate degree. Exceptional stakeholder management and influencing skills across senior leadership teams.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-13T04:53:27Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Bureau Veritas",
       "title": "Enterprise AI Architecture Director",
@@ -459,6 +513,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010325193102",
         "https://www.linkedin.com/jobs/view/4490521338/"
       ]
     },
@@ -1065,7 +1120,8 @@
       "geo_version": 1,
       "direct_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Director---Enterprise-Risk-Management_R0027284",
       "duplicate_urls": [
-        "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Director---Enterprise-Risk-Management_R0027284"
+        "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Director---Enterprise-Risk-Management_R0027284",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010325216665"
       ]
     },
     {
@@ -1443,6 +1499,7 @@
       "first_seen": "2026-11-12T14:33:20Z",
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010324622758",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010324622794",
         "https://www.linkedin.com/jobs/view/4490341844/",
         "https://www.linkedin.com/jobs/view/4490353401/"
       ],
@@ -2165,7 +2222,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010324114060"
+      ]
     },
     {
       "company": "Ciena",
@@ -3960,16 +4020,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-10T20:51:48Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
