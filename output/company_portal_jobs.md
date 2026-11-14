@@ -1,43 +1,20 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 15:31 UTC*
+*Last updated: 2026-11-14 18:56 UTC*
 
-**10 new role(s)** since last run · 217 total in current portal openings
+**4 new role(s)** since last run · 220 total in current portal openings
 
-### [Director, Data Solutions Architect](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Toronto-Ontario/Director--Data-Solutions-Architect_R2051476) — Brookfield
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-07-16
+### [Director, Global AI Thought Leadership](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Director--Global-AI-Thought-Leadership_R-293477) — Mastercard
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-10-15
 
-### [Director, AI Solutions Architect](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Toronto-Ontario/Director--AI-Solutions-Architect_R2051477) — Brookfield
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-07-16
+### [Director, Fraud Attack Response & Insights - Americas](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Director--Fraud-Attack-Response---Insights---Americas_R-293876) — Mastercard
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-11-10
 
-### [Director, Enterprise Architecture](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Toronto-Ontario/Director--Enterprise-Architecture_R2052883) — Brookfield
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-09-15
+### [Director, Quantitative Data Products](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---Toronto---Ontario/Director--Quantitative-Data-Products_R0025316) — Nasdaq
+- 📍 **Location:** Canada - Toronto - Ontario
+- 🕒 **Posted:** 2026-06-24
 
-### [Director, Financial Planning & Analysis (FP&A)](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Toronto-Ontario/Manager--FP-A_R2051408-1) — Brookfield
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-09-09
-
-### [Director, Finance](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Toronto-Ontario/Director--Finance_R2052835) — Brookfield
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-09-11
-
-### [Vice President, Finance](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Toronto-Ontario/Vice-President--Finance_R2053615) — Brookfield
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-10-30
-
-### [Director, Finance](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Toronto-Ontario/Director--Finance_R2053616) — Brookfield
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-10-30
-
-### [Senior Vice President, Health Digital](https://djeholdings.wd5.myworkdayjobs.com/en-US/edelman-careers-E200/job/Toronto-Ontario-Canada/Senior-Vice-President--Health-Digital_JR103629) — Djeholdings
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-02
-
-### [VP, Creator Marketing (Health & Financial Services)](https://djeholdings.wd5.myworkdayjobs.com/en-US/edelman-careers-E200/job/Toronto-Ontario-Canada/VP--Creator-Marketing--Health---Financial-Services-_JR103129) — Djeholdings
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-09-06
-
-### [Director, Information Risk Management Strategy and Insights](https://builtintoronto.com/job/director-information-risk-management-strategy-and-insights/11979785) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Regional Sales Director, Platform - Canada](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-ON-Toronto/Regional-Sales-Director--Platform---Canada_JR-0111019) — Workday
+- 📍 **Location:** Canada, ON, Toronto
+- 🕒 **Posted:** 2026-11-09
