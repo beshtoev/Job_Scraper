@@ -1,15 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 01:22 UTC*
+*Last updated: 2026-11-14 03:29 UTC*
 
-**2 new role(s)** since last run · 10 total in last 24h
+**1 new role(s)** since last run · 9 total in last 24h
 
-### [Lead Financial Crimes Officer (Vice President)](https://ca.indeed.com/viewjob?jk=04a85706110cd99f) — Wells Fargo
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-13
-
-### [Vice President, Finance & Business Operations](https://ca.indeed.com/viewjob?jk=24801c1f44a721b3) — Unknown
+### [Finance Director](https://ca.indeed.com/viewjob?jk=ca635e5cee7c21d7) — Marquis Book Printing
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
