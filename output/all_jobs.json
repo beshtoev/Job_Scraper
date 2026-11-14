@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-14 00:39 UTC",
+  "updated_at": "2026-11-14 01:16 UTC",
   "jobs": [
+    {
+      "company": "Wells Fargo",
+      "title": "Lead Financial Crimes Officer (Vice President)",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=04a85706110cd99f",
+      "direct_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Toronto-Canada/Lead-Financial-Crimes-Officer--Vice-President-_R-586846",
+      "company_url": "https://ca.indeed.com/cmp/Wells-Fargo",
+      "date_posted": "2026-11-13",
+      "description": "**About this role:**\n--------------------\n\n\nWells Fargo is seeking a **Lead Financial Crimes Officer** who will be responsible for providing direct support to the Regional Head in managing the governance function of the Americas FCRM Program. This position will report directly to the Head of Americas Financial Crimes Risk Management (FCRM) and will be a critical role to manage the governance activities owned and managed within the Financial Crimes Risk Management Program covering Canada and Latin America.\n\n  \n\nThis individual may liaise with the regional and domestic lines of business, including Financial Crimes Operations, Commercial Bank/Corporate and Investment Banking (CB/CIB) Financial Crimes Risk teams, Front Line Control and the Chief Operating Office, to ensure they have developed effective processes and controls to meet both corporate and/or local regulatory requirements.\n\n **In this role, you will:**\n\n* Support the Head of Americas FCRM and Canada Branch Chief Anti\\-Money Laundering Officer (CAMLO) in coordinating and overseeing all audit, testing, including post\\-RCSA testing engagements, and examination activity relating to the financial crimes programs in the Americas region.\n* Implement and maintain an effective financial crimes program that complies with all applicable laws, regulations, and regulatory expectations.\n* Oversee the regulatory change management process for Americas FCRM.\n* Develop and provide ongoing reporting to various committees and sr. management.\n* Manage the review and challenge of issues owned by Americas FCRM, domestic FCRM, and key business partners impacting reporting entities in Canada.\n* Oversee and challenge key risk indicators and key performance indicators.\n* Collaborate strategically with peers, colleagues and managers to resolve issues and achieve goals.\n* Inform peers, line of business and other external partners on findings.\n* Support and execute self\\-assessment testing activities.\n* Coordinate and evaluate new product and initiatives.\n\n **Required Qualifications:**\n\n* 5\\+ years of financial crimes, operational risk, fraud, sanctions, anti\\-bribery, or corruption experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education\n* Strong subject\\-matter expertise in Canadian AML requirements and the ability to assess and implement regulatory change.\n* Understanding and demonstrated experience with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) and implementing regulations related to Financial Institutions.\n\n **Desired Qualifications:**\n\n* 5\\+ years of Financial Crimes (e.g., Money Laundering/Terrorist Financing) or Sanctions experience or equivalent demonstrated through one or a combination of the following in Canada: work experience, training, military experience, education.\n* Ability to lead governance activities across Canadian and LATAM AML/ATF programs, including policies, reporting, metrics, and self\\-assessments.\n* Experience managing regulatory gap assessments, audit and testing engagements, issue remediation, and ongoing risk monitoring.\n* Previous compliance governance\\-related experience, including producing reporting to and communication with partners and levels of varying levels.\n* Demonstrated critical thinking skills, ability to anticipate areas of improvement, and ability to evaluate gaps to determine root cause.\n* Strong verbal and written communication skills with ability to communicate effectively with technical and non\\-technical employees and regional leaders.\n* Ability to work with limited oversight on multiple projects and initiatives simultaneously in a rapidly changing environment.\n* Ability to prioritize work, meet deadlines, and achieve goals.\n* Demonstrated project management skills.\n* Certified Anti Money Laundering Specialist (CAMS) or other recognized AML/Financial Crimes certifications.\n\n **Pay Range**\n\n  \n\nReflected is the base pay range offered for this position. Pay may vary depending on factors including but not limited to demonstrated examples of prior performance, skills, experience, or work location. Employees may also be eligible for incentive opportunities.\n\n  \n\n$118,000\\.00 \\- $201,000\\.00**Posting End Date:**\n\n\n22 Nov 2026* ***Job posting may come down early due to volume of applicants.***\n\n**We Value Equal Opportunity**\n\n\nWells Fargo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.\n\n\nEmployees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance\\-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit’s risk appetite and all risk and compliance program requirements.\n\n**Applicants with Disabilities**\n\n\nTo request a medical accommodation during the application or interview process, visit Disability Inclusion at Wells Fargo.\n\n**Drug and Alcohol Policy**\n\n  \n\nWells Fargo maintains a drug free workplace. Please see our Drug and Alcohol Policy to learn more.\n\n **Wells Fargo Recruitment and Hiring Requirements:**\n\n  \n\na. Third\\-Party recordings are prohibited unless authorized by Wells Fargo.\n\n\nb",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-11-14T01:16:47Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Fidelity Canada",
       "title": "Director, Architecture",
@@ -389,7 +422,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=24801c1f44a721b3"
+      ]
     },
     {
       "company": "Make-A-Wish Canada / Rêves d'enfants Canada",
