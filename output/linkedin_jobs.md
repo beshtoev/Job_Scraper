@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 22:52 UTC*
+*Last updated: 2026-11-14 23:31 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Director, Strategic Deal Finance](https://www.linkedin.com/jobs/view/4481005710/) — Liftoff Mobile
-- 📍 **Location:** Canada
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4489893918/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-14
