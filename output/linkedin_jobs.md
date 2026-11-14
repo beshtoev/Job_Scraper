@@ -1,18 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 05:34 UTC*
+*Last updated: 2026-11-14 06:08 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4491045524/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
-- 🕒 **Posted:** 2026-11-14
-
-### [AVP of Fraud Risk - Governance, Policy and Reporting](https://www.linkedin.com/jobs/view/4491034956/) — TD
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000 - $200,000
-- 🕒 **Posted:** 2026-11-14
-
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4489871241/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Director of Cloud & Kubernetes Platform](https://www.linkedin.com/jobs/view/4491043704/) — McKesson
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $126,900 - $169,200
 - 🕒 **Posted:** 2026-11-14
