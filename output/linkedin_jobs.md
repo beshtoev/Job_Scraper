@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 19:18 UTC*
+*Last updated: 2026-11-14 20:03 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Director, Data Science](https://www.linkedin.com/jobs/view/4426887429/) — Mastercard
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $154,000 - $247,000
-- 🕒 **Posted:** 2026-11-14
+No new roles since the last run.
