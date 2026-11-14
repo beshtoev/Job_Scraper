@@ -1,17 +1,20 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 09:45 UTC*
+*Last updated: 2026-11-14 10:37 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**4 new role(s)** since last run · 7 total in last 1h
 
-### [Senior Director, Product Management, AEC Data](https://www.linkedin.com/jobs/view/4481914159/) — Autodesk
-- 📍 **Location:** Greater Toronto Area, Canada
+### [Program Director, Bell AI Fabric](https://www.linkedin.com/jobs/view/4467922003/) — Bell
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-11-14
 
-### [Associate Director, Strategy](https://www.linkedin.com/jobs/view/4439858384/) — Omnicom Precision Marketing
+### [Area Vice President, Sales, Financial Services - CANADA ENTERPRISE](https://www.linkedin.com/jobs/view/4429760085/) — Salesforce
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $95,000-$110,000
 - 🕒 **Posted:** 2026-11-14
 
-### [Sr Director, Business Strategy and Operations](https://www.linkedin.com/jobs/view/4481609816/) — Gilead Sciences
-- 📍 **Location:** Edmonton, Alberta, Canada
+### [Director, Engineering and Procurement, AI Fabric](https://www.linkedin.com/jobs/view/4468262175/) — Bell
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-14
+
+### [Vice President, Fund Finance, Global Credit Markets](https://www.linkedin.com/jobs/view/4489329349/) — National Bank of Canada
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-14
