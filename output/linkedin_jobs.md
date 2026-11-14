@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 10:57 UTC*
+*Last updated: 2026-11-14 11:20 UTC*
 
-**0 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 5 total in last 1h
 
-No new roles since the last run.
+### [Associate Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4447724866/) — KPMG Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $98,000 to $131,500
+- 🕒 **Posted:** 2026-11-14
