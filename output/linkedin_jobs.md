@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 21:09 UTC*
+*Last updated: 2026-11-14 22:52 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Director, Strategic Deal Finance](https://www.linkedin.com/jobs/view/4481005710/) — Liftoff Mobile
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-14
