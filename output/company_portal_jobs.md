@@ -1,7 +1,6 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-15 08:23 UTC*
+*Last updated: 2026-11-15 11:23 UTC*
 
-**1 new role(s)** since last run · 218 total in current portal openings
+**0 new role(s)** since last run · 218 total in current portal openings
 
-### [Director, Product Analytics](https://builtintoronto.com/job/director-product-analytics/12108492) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
+No matching roles found in today's company-portal run.
