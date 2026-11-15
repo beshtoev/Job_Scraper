@@ -1,6 +1,8 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-15 18:07 UTC*
+*Last updated: 2026-11-15 21:08 UTC*
 
-**0 new role(s)** since last run · 218 total in current portal openings
+**1 new role(s)** since last run · 219 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Director, Credit Adjudication, Non-Bank Financial & Asset Dealer Finance](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Credit-Adjudication--Non-Bank-Financial---Asset-Dealer-Finance_R260031705) — BMO
+- 📍 **Location:** Toronto, ON, CAN
+- 🕒 **Posted:** 2026-11-15
