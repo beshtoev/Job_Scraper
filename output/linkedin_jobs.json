@@ -1,7 +1,57 @@
 {
-  "scraped_at": "2026-11-15 19:05 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-15 19:30 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "AnyAlpha",
+      "title": "Vice President of Technology",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4491259536/",
+      "date_posted": "2026-11-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nAnyAlpha is a U.S.-based leader in web design and mobile app development, delivering cost-efficient, high-quality digital solutions across devices including PCs, tablets, and smartphones. The team specializes in modern technologies such as Ruby on Rails, iOS and Android, HTML5/CSS3, jQuery/AJAX, PHP, Java, SaaS/Cloud applications, and Amazon Web Services. AnyAlpha’s developers create applications with robust architecture and user-centric design, ensuring projects run smoothly from planning through development. The company’s expertise spans native and cross-platform app development, as well as major web and CMS platforms including WordPress, Drupal, Joomla, Magento, and custom PHP solutions. AnyAlpha is focused on scalable, high-performing solutions for clients seeking dedicated development partners.\nRole Description\nThe Vice President of Technology is a full-time remote leadership role responsible for guiding AnyAlpha’s technology vision and execution across web and mobile products. This role oversees engineering teams, sets technical standards, and ensures alignment of technology initiatives with business goals and client requirements. Daily responsibilities include defining IT strategy and architecture, prioritizing and managing multiple development projects, and implementing best practices for security, scalability, and performance. The VP of Technology collaborates closely with product, design, sales, and operations teams to plan roadmaps, allocate resources, and remove delivery obstacles. Additional duties include mentoring technical leaders, evaluating new tools and frameworks, supporting pre-sales technical conversations, and fostering a culture of innovation, quality, and continuous improvement.\nQualifications\n\nStrong Information Technology and IT Strategy skills, with experience overseeing complex web and mobile technology stacks and cloud-based infrastructures.\nDemonstrated Project Management and Strategic Planning capabilities, including managing multiple concurrent initiatives and long-term technology roadmaps.\nAdvanced Analytical Skills to interpret technical and business data, assess risks, and make informed, timely decisions.\nProven leadership in technology organizations, including building and mentoring distributed engineering teams and promoting inclusive, collaborative work practices.\nHands-on familiarity with modern development frameworks and platforms (e.g., Ruby on Rails, iOS/Android, JavaScript frameworks, cloud services such as AWS or similar providers).\nExperience defining and implementing software development processes (e.g., Agile/Scrum), code quality standards, and DevOps practices.\nExcellent written and verbal communication skills for partnering with technical and non-technical stakeholders and supporting client engagements.\nBachelor’s degree in Computer Science, Engineering, Information Technology, or a related field; an advanced degree or equivalent experience is beneficial.\nBackground in a digital agency, product development company, or similar environment with a focus on web and mobile applications is preferred\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "AnyAlpha",
+      "title": "Vice President of Technology",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4491259536/",
+      "date_posted": "2026-11-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nAnyAlpha is a U.S.-based leader in web design and mobile app development, delivering cost-efficient, high-quality digital solutions across devices including PCs, tablets, and smartphones. The team specializes in modern technologies such as Ruby on Rails, iOS and Android, HTML5/CSS3, jQuery/AJAX, PHP, Java, SaaS/Cloud applications, and Amazon Web Services. AnyAlpha’s developers create applications with robust architecture and user-centric design, ensuring projects run smoothly from planning through development. The company’s expertise spans native and cross-platform app development, as well as major web and CMS platforms including WordPress, Drupal, Joomla, Magento, and custom PHP solutions. AnyAlpha is focused on scalable, high-performing solutions for clients seeking dedicated development partners.\nRole Description\nThe Vice President of Technology is a full-time remote leadership role responsible for guiding AnyAlpha’s technology vision and execution across web and mobile products. This role oversees engineering teams, sets technical standards, and ensures alignment of technology initiatives with business goals and client requirements. Daily responsibilities include defining IT strategy and architecture, prioritizing and managing multiple development projects, and implementing best practices for security, scalability, and performance. The VP of Technology collaborates closely with product, design, sales, and operations teams to plan roadmaps, allocate resources, and remove delivery obstacles. Additional duties include mentoring technical leaders, evaluating new tools and frameworks, supporting pre-sales technical conversations, and fostering a culture of innovation, quality, and continuous improvement.\nQualifications\n\nStrong Information Technology and IT Strategy skills, with experience overseeing complex web and mobile technology stacks and cloud-based infrastructures.\nDemonstrated Project Management and Strategic Planning capabilities, including managing multiple concurrent initiatives and long-term technology roadmaps.\nAdvanced Analytical Skills to interpret technical and business data, assess risks, and make informed, timely decisions.\nProven leadership in technology organizations, including building and mentoring distributed engineering teams and promoting inclusive, collaborative work practices.\nHands-on familiarity with modern development frameworks and platforms (e.g., Ruby on Rails, iOS/Android, JavaScript frameworks, cloud services such as AWS or similar providers).\nExperience defining and implementing software development processes (e.g., Agile/Scrum), code quality standards, and DevOps practices.\nExcellent written and verbal communication skills for partnering with technical and non-technical stakeholders and supporting client engagements.\nBachelor’s degree in Computer Science, Engineering, Information Technology, or a related field; an advanced degree or equivalent experience is beneficial.\nBackground in a digital agency, product development company, or similar environment with a focus on web and mobile applications is preferred\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    }
+  ]
 }
