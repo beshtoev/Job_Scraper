@@ -1,8 +1,18 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-15 18:41 UTC*
+*Last updated: 2026-11-15 21:44 UTC*
 
-**1 new role(s)** since last run · 44 total in last 24h
+**3 new role(s)** since last run · 42 total in last 24h
 
-### [Director, Process Transformation and Optimization](https://www.glassdoor.ca/job-listing/j?jl=1010326135445) — iA Groupe financier / iA Financial Group
-- 📍 **Location:** Quebec, Canada
-- 🕒 **Posted:** 2026-11-14
+### [Director IT Governance , Risk and Compliance](https://www.glassdoor.ca/job-listing/j?jl=1010326946264) — CIBC Mellon
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $126k–$176k/yr
+- 🕒 **Posted:** 2026-11-15
+
+### [Executive Director, Enterprise Architecture](https://www.glassdoor.ca/job-listing/j?jl=1010326946265) — CIBC Mellon
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-11-15
+
+### [Director, Data & Reporting](https://www.glassdoor.ca/job-listing/j?jl=1010325083412) — Forward Insurance Managers Ltd.
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $80k–$125k/yr
+- 🕒 **Posted:** 2026-11-13
