@@ -1,7 +1,57 @@
 {
-  "scraped_at": "2026-11-15 21:11 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-15 21:35 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "AnyAlpha",
+      "title": "Vice President of Technology",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4491267461/",
+      "date_posted": "2026-11-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nAnyAlpha is a USA-based leader in web design and mobile app development, delivering cost-efficient digital solutions for PCs, tablets, and smartphones. The company specializes in modern technologies including Ruby on Rails, iOS/Android, HTML5/CSS3, jQuery/AJAX, PHP, Java, SaaS/cloud applications, and Amazon Web Services. Its experienced teams build end-to-end applications, from planning and architecture through development and delivery, with a focus on performance and user experience. AnyAlpha’s expertise spans native and cross-platform mobile apps, web applications, and major CMS and e-commerce platforms such as WordPress, Drupal, Joomla, and Magento. The organization emphasizes smooth project execution and long-term client partnerships.\nRole Description\nThe Vice President of Technology is a full-time remote role responsible for leading AnyAlpha’s overall technology vision and execution across web and mobile solutions. This role oversees technical strategy, architecture, and delivery, ensuring that platforms, tools, and processes support scalable, secure, and high-performing applications. The Vice President of Technology will manage and mentor engineering teams, collaborate with product and design leaders, and drive best practices in development, testing, deployment, and operations. Day-to-day responsibilities include setting technology roadmaps, guiding project prioritization, reviewing key initiatives, optimizing resource allocation, and promoting continuous improvement in code quality and engineering workflows. The role also involves engaging with stakeholders and clients to align technology decisions with business goals and industry trends.\nQualifications\n\nStrong Information Technology and IT Strategy skills, with experience overseeing complex web and mobile application ecosystems.\nDemonstrated Project Management and Strategic Planning abilities to lead multiple initiatives, allocate resources, and meet delivery timelines.\nAdvanced Analytical Skills to evaluate technical options, interpret data, and make informed decisions on architecture and tooling.\nProven leadership in managing distributed engineering teams, including hiring, mentoring, performance management, and culture-building.\nHands-on understanding of modern development stacks (e.g., Ruby on Rails, Java, PHP, JavaScript frameworks, mobile platforms) and cloud infrastructure (e.g., AWS or similar).\nExperience implementing secure, scalable, and resilient systems, with familiarity in DevOps practices, CI/CD, and automated testing.\nEffective communication and stakeholder management skills, with the ability to translate complex technical topics for non-technical audiences.\nBachelor’s degree in Computer Science, Engineering, Information Technology, or a related field; advanced degree or equivalent experience is a plus.\nPrior experience in a senior technology leadership role (e.g., Director, VP, CTO) in a software or digital product organization is highly beneficial.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "AnyAlpha",
+      "title": "Vice President of Technology",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4491267461/",
+      "date_posted": "2026-11-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nAnyAlpha is a USA-based leader in web design and mobile app development, delivering cost-efficient digital solutions for PCs, tablets, and smartphones. The company specializes in modern technologies including Ruby on Rails, iOS/Android, HTML5/CSS3, jQuery/AJAX, PHP, Java, SaaS/cloud applications, and Amazon Web Services. Its experienced teams build end-to-end applications, from planning and architecture through development and delivery, with a focus on performance and user experience. AnyAlpha’s expertise spans native and cross-platform mobile apps, web applications, and major CMS and e-commerce platforms such as WordPress, Drupal, Joomla, and Magento. The organization emphasizes smooth project execution and long-term client partnerships.\nRole Description\nThe Vice President of Technology is a full-time remote role responsible for leading AnyAlpha’s overall technology vision and execution across web and mobile solutions. This role oversees technical strategy, architecture, and delivery, ensuring that platforms, tools, and processes support scalable, secure, and high-performing applications. The Vice President of Technology will manage and mentor engineering teams, collaborate with product and design leaders, and drive best practices in development, testing, deployment, and operations. Day-to-day responsibilities include setting technology roadmaps, guiding project prioritization, reviewing key initiatives, optimizing resource allocation, and promoting continuous improvement in code quality and engineering workflows. The role also involves engaging with stakeholders and clients to align technology decisions with business goals and industry trends.\nQualifications\n\nStrong Information Technology and IT Strategy skills, with experience overseeing complex web and mobile application ecosystems.\nDemonstrated Project Management and Strategic Planning abilities to lead multiple initiatives, allocate resources, and meet delivery timelines.\nAdvanced Analytical Skills to evaluate technical options, interpret data, and make informed decisions on architecture and tooling.\nProven leadership in managing distributed engineering teams, including hiring, mentoring, performance management, and culture-building.\nHands-on understanding of modern development stacks (e.g., Ruby on Rails, Java, PHP, JavaScript frameworks, mobile platforms) and cloud infrastructure (e.g., AWS or similar).\nExperience implementing secure, scalable, and resilient systems, with familiarity in DevOps practices, CI/CD, and automated testing.\nEffective communication and stakeholder management skills, with the ability to translate complex technical topics for non-technical audiences.\nBachelor’s degree in Computer Science, Engineering, Information Technology, or a related field; advanced degree or equivalent experience is a plus.\nPrior experience in a senior technology leadership role (e.g., Director, VP, CTO) in a software or digital product organization is highly beneficial.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    }
+  ]
 }
