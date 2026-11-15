@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-15 13:27 UTC",
+  "updated_at": "2026-11-15 13:51 UTC",
   "jobs": [
+    {
+      "company": "TELUS Digital",
+      "title": "Director and Practice Lead, Data Engineering",
+      "location": "British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4429350547/",
+      "date_posted": "2026-11-15",
+      "salary": "$211,000.00/yr - CA$302,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Who We Are\n\nWelcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital agency and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.\n\nWith a global team across North America, South America, Central America, Europe, Africa, and APAC, we offer end-to-end expertise across: Digital Product Strategy & Innovation, Digital Marketing Services, Web & Mobile App Development, Data & AI, Cloud Engineering, and Enterprise Technology Modernization.\n\nFrom mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.\n\nLocation & Flexibility\n\nOur Director & Practice Lead, Data Engineering\nwill operate remotely in Canada OR be based out of either our Toronto, ON or Vancouver, BC office locations.\n\nThe Opportunity\n\nTELUS Digital's Data, AI & Cloud (DAIC) practice is the multidisciplinary engine behind enterprise AI, blending boutique innovation with the breadth of a global services portfolio to help organizations architect, scale, and secure their transformations. Spanning our full family of specialized capabilities, the DAIC practice delivers end-to-end solutions across AI Advisory, AI Solutions, Data & AI Platforms, and Cloud Transformation.\n\nAs a premier Google Cloud partner, our Cloud practice is at the forefront of helping enterprises adopt and scale on Google Cloud infrastructure: delivering complex engineering, deployment, and migration programs for some of the largest organizations in Canada and beyond.\n\nThe Director & Practice Lead, Data Engineering\nwill define and own the Data Engineering Practice along with its market positioning, P&L, talent, and the quality of work we deliver for clients. This role is for someone who has led data and AI practices before, understands how to turn messy enterprise data estates into strategic assets, and earns trust with C-suite executives through genuine expertise. You will shape how we help clients move from data ambition to durable, AI-ready infrastructure.\n\nThis Role Will Have Four Core Anchor Responsibilities\n\nStrategy: Set the practice vision and align Data & AI capabilities to where enterprise demand is heading.\nP&L: Own revenue targets, margin, and growth while being accountable for the practice's full commercial performance.\nTalent & Culture: Build a practice where data-driven thinking, innovation, and engineering rigour are the baseline.\nClient Impact: Act as a trusted advisor to enterprise CxOs navigating data strategy, AI adoption, and governance.\n\nResponsibilities\n\nDefine the multi-year vision for the Data Engineering Practice, ensuring our technical capabilities are ahead of the curve for enterprise demand for Data & AI transformation.\nOwn the full P&L, including pipeline, pricing, delivery margin, and revenue growth, while reporting directly to executive leadership with clear commercial accountability.\nBuild and sustain senior relationships with Google Cloud partner teams and client executives to generate meaningful deal flow and expand strategic accounts.\nLead the practice's position on ethical AI and data democratisation while making principled, evidence-based bets on where advanced analytics and AI are creating real enterprise value.\nDrive investment in reusable IP, data accelerators, and delivery assets that improve consistency, reduce time-to-value, and protect margins at scale.\nServe as a strategic advisor to client C-suite executives, helping them define data strategy, navigate AI adoption, and build the organisational capabilities to sustain it.\nSet the standard for engineering and analytical excellence across the practice by hiring well, developing talent deliberately, and building teams that clients trust and return to.\n\nCompetencies\n\n12+ years in data or AI consulting, including at least 3–5 years in a practice leadership or executive role, not just senior delivery or individual contribution.\nProven P&L ownership: Direct experience managing revenue, margin, and growth targets in a consulting or professional services context.\nData and AI ecosystem depth: Strong command of modern data architecture, AI, and ML trends, cloud-native data platforms, and enterprise data governance.\nExecutive communication: Able to advise, challenge, and build lasting trust with C-suite stakeholders on complex, ambiguous problems, not just present to them.\nBusiness Development track record: Experience generating pipeline and closing complex, multi-stakeholder engagements, not just managing delivery once work is sold.\nTalent leadership: Has hired, grown, and retained senior data engineering and consulting talent in a practice or delivery organisation.\n\nEqual Opportunity Employer\n\nAt TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity.\n\nWe will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us.\n\nFor more information on how we use your information, see our Privacy Policy.\n\nCompensation Range: CA$211K - CA$302K\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "first_seen": "2026-11-15T13:51:16Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "description",
+      "geo_confidence": "medium",
+      "geo_detail": "description names Toronto",
+      "geo_version": 1
+    },
     {
       "company": "MacEwan University",
       "title": "Vice-President, Finance & Administration and Chief Financial Officer - Office of Vice President, Finance and Administration",
@@ -43592,7 +43617,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -44873,36 +44898,6 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://www.linkedin.com/jobs/view/4479369314/"
-      ]
-    },
-    {
-      "company": "Pratt & Whitney",
-      "title": "Directeur adjoint, Ingénierie Digital Engine Service (DES) / Associate Director, DES Engineering",
-      "location": "Mississauga, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010297751209",
-      "date_posted": "2026-10-16",
-      "description": "Piloter le travail des employés impliqués dans la conception, la certification, et le développement de produits embarqués, la connectivité IoT, le traitement…",
-      "salary": "$156k–$206k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-16T13:28:49Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Mississauga",
-      "geo_province": "ON",
-      "geo_lat": 43.589,
-      "geo_lon": -79.6441,
-      "geo_distance_km": 23.9,
-      "geo_rank": 100239,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4480301854/"
       ]
     }
   ]
