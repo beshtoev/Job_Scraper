@@ -1,7 +1,6 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-14 22:39 UTC*
+*Last updated: 2026-11-15 02:00 UTC*
 
-**1 new role(s)** since last run · 218 total in current portal openings
+**0 new role(s)** since last run · 218 total in current portal openings
 
-### [Finance Director, Canada](https://builtintoronto.com/job/finance-director-canada/12257583) — JLL
-- 📍 **Location:** Toronto, Ontario, Canada
+No matching roles found in today's company-portal run.
