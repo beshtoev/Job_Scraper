@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-15 21:35 UTC*
+*Last updated: 2026-11-15 22:21 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Vice President of Technology](https://www.linkedin.com/jobs/view/4491267461/) — AnyAlpha
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-15
+No new roles since the last run.
