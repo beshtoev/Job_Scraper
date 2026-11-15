@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-15 22:20 UTC",
+  "updated_at": "2026-11-15 23:04 UTC",
   "jobs": [
+    {
+      "company": "Insight Global",
+      "title": "Director Solutions Delivery (Finance)",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490240663/",
+      "date_posted": "2026-11-15",
+      "salary": "$200,000.00/yr - CA$300,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Location:\nVancouver, BC | Open to relocation\n\nA leading fashion retailer based in Vancouver, BC\nis seeking a Director, Solution Delivery, Finance Technology to lead the execution and ongoing evolution of enterprise Finance technology solutions.\n\nDay to Day\nLead delivery of enterprise Finance technology solutions across SAP ECC/S/4HANA, financial close, P2P, tax, reporting, and integrations\n.\nPartner closely with Finance leadership to translate business needs into technology solutions and execute against the Finance technology roadmap.\nOversee implementations, configuration, integrations, testing, deployment, and L2/L3 escalations\n, including month-end support.\nLead technology teams and vendors while managing budgets, contracts, delivery commitments, and platform performance.\nDrive continuous improvement, automation, and responsible use of AI across Finance processes.\nOperate as a techno-functional delivery leader\n, solving complex business and technical problems without being hands-on in the code.\n\nMust-Haves\nSenior leadership experience delivering enterprise Finance technology/ERP solutions\n.\nStrong understanding of Finance processes\nand the technology supporting them.\nExperience with SAP ECC and/or S/4HANA\nand large-scale ERP implementations or transformations.\nStrong techno-functional\nbackground with enterprise applications, configuration, integrations, and L2/L3 support.\nExperience partnering with senior Finance stakeholders and leading cross-functional technical teams.\nStrong vendor, budget, and enterprise technology delivery management experience.\n\nPlusses\nBig 4 consulting\nexperience.\nS/4HANA transformation experience.\nExperience with SOX, financial controls, audit, and data governance.\nExperience with Microsoft Copilot, Power Automate, AI, or intelligent automation.\n\nCompensation:\n$200,000-$300,000 CAD annually plus annual bonus.\nFinal compensation will depend on relevant experience, skills, and qualifications.\nAI Disclosure:\nArtificial intelligence tools are used to assist in screening and assessing applicants for this position.\nVacancy Disclosure:\nThis role is for a new vacant opening within a new project.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
+      "first_seen": "2026-11-15T23:04:30Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "CIBC Mellon",
       "title": "Executive Director, Enterprise Architecture",
