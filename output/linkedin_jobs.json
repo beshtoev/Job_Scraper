@@ -1,7 +1,57 @@
 {
-  "scraped_at": "2026-11-15 02:47 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-15 04:05 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Maverick Capital",
+      "title": "Regional Chief Information Officer",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490215321/",
+      "date_posted": "2026-11-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nMaverick Capital is an investment management firm focused on delivering strong, risk-adjusted returns through disciplined research and innovative strategies. The firm emphasizes data-driven decision making, robust risk management, and the use of technology to support trading, operations, and compliance. Team members collaborate across functions to develop and implement solutions that support a fast-paced, dynamic investment environment. Maverick Capital values integrity, transparency, and continuous improvement in its investment and operational practices.\nRole Description\nThe Chief Information Officer (CIO) is a full-time, remote role responsible for setting and executing Maverick Capital’s overall technology vision and strategy. The CIO will oversee all information technology functions, including infrastructure, applications, cybersecurity, data management, and IT operations, ensuring reliability, scalability, and security across the firm’s platforms. Day-to-day responsibilities include leading IT teams, prioritizing and managing technology projects, aligning IT initiatives with business goals, and optimizing processes to support trading, analytics, and back-office operations. The CIO will collaborate with senior leadership and cross-functional stakeholders to identify technology needs, evaluate solutions, manage vendor relationships, and drive digital transformation initiatives. The role also includes establishing governance frameworks, budgeting for technology investments, and ensuring compliance with relevant regulations and industry best practices.\nQualifications\n\nStrong background in Information Technology and IT Operations, with experience overseeing complex, enterprise-scale environments.\nDemonstrated capability in IT Management and IT Strategy, including leading teams, setting technology roadmaps, and aligning IT initiatives with business objectives.\nProven experience in Business Process analysis and optimization, using technology to improve efficiency, control, and data quality.\nExtensive experience in financial services or investment management technology, including trading, risk, data, or portfolio systems, is highly beneficial.\nDeep understanding of cybersecurity, regulatory and compliance requirements, and best practices in data governance and information security.\nTrack record of leading digital transformation projects, implementing cloud solutions, and managing vendor and third-party technology providers.\nExcellent leadership, communication, and stakeholder management skills, with the ability to work effectively in a remote, distributed team environment.\nBachelor’s degree in Information Technology, Computer Science, Engineering, or a related field; advanced degree or relevant certifications (e.g., CIO, CISM, CISSP, ITIL) are a plus.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFunds and Trusts",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Maverick Capital",
+      "title": "Regional Chief Information Officer",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490215321/",
+      "date_posted": "2026-11-15",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nMaverick Capital is an investment management firm focused on delivering strong, risk-adjusted returns through disciplined research and innovative strategies. The firm emphasizes data-driven decision making, robust risk management, and the use of technology to support trading, operations, and compliance. Team members collaborate across functions to develop and implement solutions that support a fast-paced, dynamic investment environment. Maverick Capital values integrity, transparency, and continuous improvement in its investment and operational practices.\nRole Description\nThe Chief Information Officer (CIO) is a full-time, remote role responsible for setting and executing Maverick Capital’s overall technology vision and strategy. The CIO will oversee all information technology functions, including infrastructure, applications, cybersecurity, data management, and IT operations, ensuring reliability, scalability, and security across the firm’s platforms. Day-to-day responsibilities include leading IT teams, prioritizing and managing technology projects, aligning IT initiatives with business goals, and optimizing processes to support trading, analytics, and back-office operations. The CIO will collaborate with senior leadership and cross-functional stakeholders to identify technology needs, evaluate solutions, manage vendor relationships, and drive digital transformation initiatives. The role also includes establishing governance frameworks, budgeting for technology investments, and ensuring compliance with relevant regulations and industry best practices.\nQualifications\n\nStrong background in Information Technology and IT Operations, with experience overseeing complex, enterprise-scale environments.\nDemonstrated capability in IT Management and IT Strategy, including leading teams, setting technology roadmaps, and aligning IT initiatives with business objectives.\nProven experience in Business Process analysis and optimization, using technology to improve efficiency, control, and data quality.\nExtensive experience in financial services or investment management technology, including trading, risk, data, or portfolio systems, is highly beneficial.\nDeep understanding of cybersecurity, regulatory and compliance requirements, and best practices in data governance and information security.\nTrack record of leading digital transformation projects, implementing cloud solutions, and managing vendor and third-party technology providers.\nExcellent leadership, communication, and stakeholder management skills, with the ability to work effectively in a remote, distributed team environment.\nBachelor’s degree in Information Technology, Computer Science, Engineering, or a related field; advanced degree or relevant certifications (e.g., CIO, CISM, CISSP, ITIL) are a plus.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFunds and Trusts",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    }
+  ]
 }
