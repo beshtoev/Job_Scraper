@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-15 09:12 UTC",
+  "updated_at": "2026-11-15 09:35 UTC",
   "jobs": [
+    {
+      "company": "Electric Mind",
+      "title": "Data Strategy, Advisory & Architecture - Associate Director",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4456468271/",
+      "date_posted": "2026-11-15",
+      "salary": "$170,000.00/yr - CA$220,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "At Electric Mind, Engineering is where strategy meets action. Our team helps organizations cut through complexity—aligning business ambition with technology execution to unlock real, lasting change. You’ll work alongside curious, driven people tackling high-impact challenges for everyone from scaling startups to global enterprises. Each engagement is different, pushing you to learn, adapt, and grow. \n\nElectric Mind’s Technology Practice brings together deep engineering expertise, modern delivery disciplines, and pragmatic architectural thinking to help clients execute complex, mission-critical transformation. We design and implement scalable, secure, high-impact technology solutions that accelerate business outcomes. \n\nRole Overview\n\nWe are seeking a senior hands-on leader to drive enterprise data strategy, architecture, and governance initiatives for large organizations.\n\nThis role combines strategic advisory with implementation leadership and requires strong communication skills, deep architecture knowledge, and real-world governance execution experience.\n\nWhat You'll Do\n\nStrategy & Advisory\nAssess and Define enterprise data strategies and roadmaps\nConduct executive workshops and stakeholder alignment\nDesign AI-ready data operating models\nUnderstand, Align and Translate business objectives into data capabilities\nData Governance Leadership\nConduct data governance maturity assessments\nDesign governance frameworks\nData ownership and stewardship models\nData quality management\nMetadata and lineage strategies\nPolicy-as-code approaches\nArchitecture\nDevelop enterprise cloud data architectures\nLakehouse architectures\nData Mesh / Data Products\nEvent-driven architectures\nAlign architecture with strategy, governance and security models\nDelivery Leadership\nLead enterprise transformation programs\nGuide technical teams\nDefine reusable methodologies and accelerators\n\nWhat You'll Bring\n\n15+ years in data architecture, governance, or strategy\nExperience implementing governance programs at scale\nStrong consulting and communication skills\nExperience with modern cloud data platforms\nDemonstrated architecture design experience\nBFSI domain experience\nExposure to tools such as Collibra, Alation, Purview, Informatica, Snowflake Horizon, Databricks Unity Catalog\nKnowledge graph or semantic modeling experience\n\nWhat You’ll Gain\n\nYou will help shape enterprise technology strategy for industry-leading clients while influencing the growth of Electric Mind’s engineering culture. You will work on high-impact, high-visibility programs and help mentor the next generation of technical leaders.\n\nAbout Electric Mind\n\nElectric Mind is a fast-growing, AI-native advisory and digital engineering firm built for those who want to shape the future, not just watch it happen. We blend premium strategy expertise with cutting-edge AI-centric engineering to solve complex, meaningful problems for industry-leading clients. \n\nWe pride ourselves on a high-touch delivery model and a culture that values diverse talent, innovation, and true client partnership — creating an environment where your ideas matter and your impact is visible. \n\nIf you’re looking for a place where you can grow fast, collaborate with exceptional teammates, and help build a company scaling its capabilities and global footprint at speed — Electric Mind is the place to ignite your career. The future is bright! \n\nFor more info on Electric Mind, check out our Careers Page and Instagram.\n\nElectric Mind is committed to diversity in the workplace. We are an inclusive employer and welcome and encourage applications from all qualified candidates. Applicants’ needs will be accommodated during our recruitment and selection process so please advise us if you require accommodation.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
+      "first_seen": "2026-11-15T09:35:34Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Maverick Capital",
       "title": "Regional Chief Information Officer",
