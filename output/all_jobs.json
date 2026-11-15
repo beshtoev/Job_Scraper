@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 14:26 UTC",
+  "updated_at": "2026-11-15 14:34 UTC",
   "jobs": [
     {
       "company": "Versapay",
@@ -43642,7 +43642,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -44859,70 +44859,6 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010298050443"
-      ]
-    },
-    {
-      "company": "Seneca Polytechnic",
-      "title": "Chief Information Officer",
-      "location": "North York, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010297911768",
-      "date_posted": "2026-10-16",
-      "description": "As CIO, you will provide strategic, operational, and people leadership across a broad and integrated portfolio, leading a senior IT leadership team and…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-16T14:29:11Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "North York",
-      "geo_province": "ON",
-      "geo_lat": 43.7615,
-      "geo_lon": -79.4111,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "direct_url": "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=SENECOLL4&cws=42&rid=7130",
-      "job_type": "parttime, fulltime",
-      "work_arrangement": "On-site",
-      "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=cee94d9cc2a5be3b",
-        "https://www.linkedin.com/jobs/view/4480508294/"
-      ]
-    },
-    {
-      "company": "Federated Co-operatives Limited",
-      "title": "Director, Strategy, Planning & Performance",
-      "location": "Regina, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010297893948",
-      "date_posted": "2026-10-16",
-      "description": "Lead the development and execution of long-range and mid-range strategies that maximize profitability across the Energy Value Chain, aligning business,…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-16T14:29:11Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (SK)",
-      "geo_city": "Regina",
-      "geo_province": "SK",
-      "geo_lat": 50.4452,
-      "geo_lon": -104.6189,
-      "geo_distance_km": 2039.4,
-      "geo_rank": 420394,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4479369314/"
       ]
     }
   ]
