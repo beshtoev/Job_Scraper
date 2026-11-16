@@ -1,23 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 11:43 UTC*
+*Last updated: 2026-11-16 12:05 UTC*
 
-**4 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 5 total in last 1h
 
-### [Associate Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4447732067/) — KPMG Canada
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 💰 **Salary:** $98,000 to $131,500
-- 🕒 **Posted:** 2026-11-16
-
-### [Associate Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4447711997/) — KPMG Canada
+### [Director, Financial & Business Analytics](https://www.linkedin.com/jobs/view/4489744541/) — University of Toronto
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $98,000 to $131,500
-- 🕒 **Posted:** 2026-11-16
-
-### [Associate Vice President, Corporate Finance](https://www.linkedin.com/jobs/view/4447717950/) — KPMG Canada
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $98,000 to $131,500
-- 🕒 **Posted:** 2026-11-16
-
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4490281823/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+- 💰 **Salary:** $137,645.00/yr - CA$229,410.00/yr
 - 🕒 **Posted:** 2026-11-16
