@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 08:55 UTC*
+*Last updated: 2026-11-16 10:10 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Director, North America Finance Business Partner](https://www.linkedin.com/jobs/view/4434363254/) — Magellan Aerospace Limited
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $115,000 to $140,000
+- 🕒 **Posted:** 2026-11-16
