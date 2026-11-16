@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-16 05:09 UTC",
+  "scraped_at": "2026-11-16 06:12 UTC",
   "total": 32,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Make-A-Wish Canada / Rêves d'enfants Canada",
@@ -836,32 +836,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Metrolinx",
-      "title": "Director, I&IT Data Platform & Engineering",
-      "location": "Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010326092954",
-      "date_posted": "2026-11-14",
-      "description": "The Director also provides leadership to multidisciplinary engineering teams and strategic partners, establishing modern engineering practices, platform…",
-      "salary": "$159k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only country stated",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
