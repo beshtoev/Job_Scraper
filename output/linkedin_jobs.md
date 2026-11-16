@@ -1,13 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 20:49 UTC*
+*Last updated: 2026-11-16 21:14 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Director Finance](https://www.linkedin.com/jobs/view/4490139645/) — Ontario Medical Supply
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $140.00/yr - CA$190.00/yr
-- 🕒 **Posted:** 2026-11-16
-
-### [Director, Real Estate Finance](https://www.linkedin.com/jobs/view/4490922591/) — National Bank of Canada
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Global Head of Digital Strategy & Transformation | Legal | up to $250k](https://www.linkedin.com/jobs/view/4491297994/) — Ingenio Global
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-16
