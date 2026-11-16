@@ -1,9 +1,14 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 12:42 UTC*
+*Last updated: 2026-11-16 13:36 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Senior Director, Business Transformation, Trust Co.](https://www.linkedin.com/jobs/view/4488004020/) — BMO
+### [Director of Finance](https://www.linkedin.com/jobs/view/4490610287/) — Pontosense
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
+- 💰 **Salary:** $160,000 to $190,000
+- 🕒 **Posted:** 2026-11-16
+
+### [Director of Finance](https://www.linkedin.com/jobs/view/4490620004/) — Pontosense
+- 📍 **Location:** Kitchener, Ontario, Canada
+- 💰 **Salary:** $160,000 to $190,000
 - 🕒 **Posted:** 2026-11-16
