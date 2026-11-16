@@ -1,35 +1,38 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 16:55 UTC*
+*Last updated: 2026-11-16 17:40 UTC*
 
-**7 new role(s)** since last run · 9 total in last 1h
+**8 new role(s)** since last run · 15 total in last 1h
 
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4490689144/) — Thorek/Scott and Partners
+### [Senior Director, Business Transformation, Trust Co.](https://www.linkedin.com/jobs/view/4488004020/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-11-16
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4490905169/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Director Data Engineering & Analytics](https://www.linkedin.com/jobs/view/4490910058/) — Pomerleau
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Vice President Information Technology Services](https://www.linkedin.com/jobs/view/4490697703/) — InsuranceWorks.ca
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-16
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4490683327/) — Aimhire
+### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4490910003/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
+- 💰 **Salary:** $140,000 to $175,000,
+- 🕒 **Posted:** 2026-11-16
+
+### [Director, Marketing Planning, Loyalty and Partnerships [12 Month Contract]](https://www.linkedin.com/jobs/view/4489799230/) — Scotiabank
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-16
 
-### [Director, Global Procurement - Technology & Operations](https://www.linkedin.com/jobs/view/4489778640/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4490686890/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
 - 🕒 **Posted:** 2026-11-16
 
-### [Head of Communications, Brand & Digital Marketing](https://www.linkedin.com/jobs/view/4489761058/) — Arup
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $180,000 to $210,000 per year
-- 🕒 **Posted:** 2026-11-16
-
-### [Regional Finance Director](https://www.linkedin.com/jobs/view/4490687431/) — Pierstone Wealth Management
+### [Regional Finance Director](https://www.linkedin.com/jobs/view/4490900551/) — Pierstone Wealth Management
 - 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [Director of Finance, Corporate Controller](https://www.linkedin.com/jobs/view/4490659701/) — DEFSEC Technologies Inc.
-- 📍 **Location:** Kanata, Ontario, Canada
-- 💰 **Salary:** $160,000.00/yr - CA$200,000.00/yr
-- 🕒 **Posted:** 2026-11-16
-
-### [Director of Finance](https://www.linkedin.com/jobs/view/4490691461/) — Swim Recruiting
-- 📍 **Location:** Port Coquitlam, British Columbia, Canada
-- 💰 **Salary:** $145,000 to $160,000,
 - 🕒 **Posted:** 2026-11-16
