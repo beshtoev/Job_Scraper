@@ -1,24 +1,34 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 20:56 UTC*
+*Last updated: 2026-11-16 21:59 UTC*
 
-**5 new role(s)** since last run · 29 total in last 24h
+**6 new role(s)** since last run · 32 total in last 24h
 
-### [Vice President, Enterprise Risk Management](https://www.glassdoor.ca/job-listing/j?jl=1010327773219) — EQ Bank | Canada's Challenger Bank
+### [VP, Finance](https://www.glassdoor.ca/job-listing/j?jl=1010327905940) — Planitar
+- 📍 **Location:** Waterloo, Canada
+- 💰 **Salary:** $180k–$250k/yr
+- 🕒 **Posted:** 2026-11-16
+
+### [Responsable principal·e, Croissance numérique / Head of Digital Growth](https://www.glassdoor.ca/job-listing/j?jl=1010327905883) — Mobilia
+- 📍 **Location:** Pointe-Claire, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Finance Director, Canada](https://www.glassdoor.ca/job-listing/j?jl=1010327902890) — JLL
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $160k–$210k/yr
 - 🕒 **Posted:** 2026-11-16
 
-### [Responsable de l’analytique et de l’intelligence sportive / Head of Sporting Analytics and Insights](https://www.glassdoor.ca/job-listing/j?jl=1010327848468) — CF Montréal
-- 📍 **Location:** Montreal, Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [AI Risk Director - Global AI Risk Management](https://www.glassdoor.ca/job-listing/j?jl=1010327802469) — Scotiabank
+### [Director of Solution Architecture](https://www.glassdoor.ca/job-listing/j?jl=1010327902921) — Pwc Canada
 - 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $196k–$246k/yr
 - 🕒 **Posted:** 2026-11-16
 
-### [Director, Real Estate Finance](https://www.glassdoor.ca/job-listing/j?jl=1010327818537) — National Bank of Canada
-- 📍 **Location:** Toronto, Canada
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010327922629) — The Jilly Box Inc
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $115k–$125k/yr
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-16
 
-### [Chief Financial Officer](https://www.glassdoor.ca/job-listing/j?jl=1010327855598) — Rosenort Credit Union
-- 📍 **Location:** Canada
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010327925374) — The Jilly Box Inc
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $115k–$125k/yr
 - 🕒 **Posted:** 2026-11-16

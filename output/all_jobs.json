@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-11-16 21:31 UTC",
+  "updated_at": "2026-11-16 21:58 UTC",
   "jobs": [
+    {
+      "company": "The Jilly Box Inc",
+      "title": "Director of Finance",
+      "location": "Remote, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010327922629",
+      "date_posted": "2026-11-16",
+      "description": "Identify and mitigate key financial, operational and regulatory risks, and stay current on events that could impact the business (tariffs, filing requirements,…",
+      "salary": "$115k–$125k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_arrangement": "Remote in-state eligible",
+      "first_seen": "2026-11-16T21:58:58Z",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327925374"
+      ],
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Unknown",
       "title": "Vice President, Enterprise Risk Management",
@@ -390,7 +421,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327905883"
+      ]
     },
     {
       "company": "PwC Canada",
@@ -420,7 +454,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=cb8efc597f2b4137"
+        "https://ca.indeed.com/viewjob?jk=cb8efc597f2b4137",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327902921"
       ]
     },
     {
@@ -2424,7 +2459,8 @@
       "duplicate_urls": [
         "https://builtintoronto.com/job/finance-director-canada/12257583",
         "https://ca.indeed.com/viewjob?jk=42019a721cb804db",
-        "https://ca.indeed.com/viewjob?jk=5fa8a5be7452c117"
+        "https://ca.indeed.com/viewjob?jk=5fa8a5be7452c117",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327902890"
       ],
       "job_type": "fulltime",
       "is_remote": true,
@@ -28793,7 +28829,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327905940"
+      ]
     },
     {
       "company": "National Bank of Canada",
