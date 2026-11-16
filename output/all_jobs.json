@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-11-16 16:26 UTC",
+  "updated_at": "2026-11-16 16:55 UTC",
   "jobs": [
+    {
+      "company": "Aimhire",
+      "title": "Chief Technology Officer",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490683327/",
+      "date_posted": "2026-11-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "🚀 Hiring: Chief Technology Officer (CTO) | Toronto, Canada\n\nOur client is a well-established Canadian legal services business\n, combining legal expertise, technology, and AI to transform the consumer legal experience.\n\nThey’re looking for a hands-on, product-minded CTO\nto lead product and engineering and build an AI-native platform for the next phase of growth.\n\n📍 Toronto, ON — Hybrid (3 days/week)\n💼 Full-time | Law & AI\n\nWhat You’ll Do\nLead product and engineering for an AI-native platform\nOwn product strategy, roadmap, and technology\nBuild scalable AI-powered workflows and client experiences\nHire and grow a high-performing engineering team\nStay hands-on with architecture and development\nPartner closely with the CEO and leadership team\n\nWhat We’re Looking For\n5+ years in engineering/technology leadership\nStartup CTO, co-founding CTO, or 0→1 engineering leadership experience\nStrong product judgment and technical depth\nProven experience applying AI/LLMs to real-world workflows\nHands-on, entrepreneurial mindset\nMust be based in / able to work hybrid from Toronto\n\nWhy Join?\nProfitable, established business with startup speed\n\n100,000+ clients\nand a massive built-in audience\nStrong growth with AI-driven margin improvement\n\nOpportunity to help build one of Canada’s largest consumer law businesses\n\nSignificant end-to-end ownership across product and technology\nStrong compensation\n\nTech:\nNode.js, TypeScript, React, Next.js, PostgreSQL, Google Cloud, Python, FastAPI, AI/LLMs\n\n📩 Interested? Reach out to us to learn more.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "first_seen": "2026-11-16T16:55:25Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Pierstone Wealth Management",
+      "title": "Regional Finance Director",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490687431/",
+      "date_posted": "2026-11-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nPierstone Wealth Management is an independent advisory firm dedicated to helping clients build and preserve wealth, offering clear guidance to support long-term financial confidence. The firm focuses on providing personalized strategies that enable clients to pursue life’s full range of possibilities. Pierstone operates as a DBA of Sanctuary Securities, Inc. and Sanctuary Advisors, LLC, partnering with these registered entities to deliver both brokerage and advisory services. Securities are offered through Sanctuary Securities, Inc., Member FINRA, SIPC, and advisory services are provided through Sanctuary Advisors, LLC, an SEC Registered Investment Advisor. This structure enables Pierstone to combine independent advice with robust regulatory oversight and professional standards.\nRole Description\nThe Regional Finance Director is a full-time, remote role responsible for overseeing financial planning, analysis, and reporting across a defined region. This position leads regional financial strategy, collaborates with advisory teams to support client-focused decisions, and ensures alignment with firm-wide goals. Daily responsibilities include reviewing financial statements, monitoring performance metrics, preparing financial reports, and providing actionable insights to senior leadership. The Regional Finance Director will also support budgeting and forecasting processes, strengthen internal controls, and partner with cross-functional teams to improve operational efficiency. This role involves mentoring regional staff on financial best practices and contributing to continuous improvement initiatives in a dynamic wealth management environment.\nQualifications\n\nCandidates should possess strong Finance and Financial Planning skills, including experience with regional or multi-unit financial oversight.\nCandidates should possess expertise in Financial Statements and Financial Reporting, with the ability to interpret, prepare, and present complex financial data.\nCandidates should possess advanced Analytical Skills to evaluate trends, assess risks, and provide clear recommendations to leadership.\nRelevant experience in wealth management, financial services, or advisory firms, with knowledge of regulatory and compliance considerations.\nBachelor’s degree in Finance, Accounting, Economics, or a related field; advanced credentials (e.g., CPA, CFA, MBA) are beneficial.\nProficiency in financial modeling, budgeting, and forecasting tools, and comfort working with financial systems and spreadsheets.\nStrong communication and presentation skills, with the ability to work effectively in a remote environment and collaborate across teams.\nDemonstrated ability to lead, coach, and influence stakeholders, while maintaining high ethical standards and sound judgment.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
+      "first_seen": "2026-11-16T16:55:25Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "DEFSEC Technologies Inc.",
+      "title": "Director of Finance, Corporate Controller",
+      "location": "Kanata, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490659701/",
+      "date_posted": "2026-11-16",
+      "salary": "$160,000.00/yr - CA$200,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Director of Finance, Corporate Controller\n\nDEFSEC Technologies Inc. (NASDAQ / TSXV: DFSC)\n\nLocation:\nOttawa (Kanata), Ontario, Canada\nDepartment:\nFinance & Accounting\nEmployment Type:\nFull-Time, Permanent\nSalary Range:\n$160,000 – $200,000 CAD\n\nAbout DEFSEC Technologies:\n\nDEFSEC Technologies Inc. is an Ottawa-based defence and security company that develops and delivers next-generation technology for military and first responders. The company is proudly Canadian and provides Dismounted/Mounted Domain Expertise in Command-and-Control software development, integration, and support services.\n\nPosition Summary:\n\nDEFSEC is seeking an experienced Director of Finance, Corporate Controller to lead the company's core accounting operations, internal controls, treasury, and tax functions across a multi-jurisdictional, internationally operating business with outsourced manufacturing. Reporting to the CFO, this individual will own the general ledger, technical accounting, internal controls (alongside the Director of Financial Reporting and FP&A), audit management, treasury, and tax functions, and will oversee accounting for outsourced manufacturing and international operations across multiple legal entities. This role is expected to drive greater efficiency in day-to-day accounting operations, evolving the finance function into a scalable, value-added business partner rather than a purely transactional back office. This is a senior role suited to a hands-on finance professional comfortable operating in a fast-paced, publicly traded, regulated environment with cross-border operations.\n\nKey Responsibilities:\n\nFinancial Reporting, Internal Controls & Audit Management:\n\nOwn overall accountability for the preparation and integrity of consolidated financial statements in accordance with IFRS\nEnsure compliance with applicable Canadian securities requirements (including NI 51-102) and SEC reporting obligations\nManage relationships with external auditors and lead year-end and interim audit/review processes, including provision of supporting schedules and evidence\nOwn and continuously improve the internal controls environment (ICFR) and related SOX-aligned documentation alongside the Director of Financial Reporting and FP&A\nPrepare technical accounting positions and disclosure documents\n\nAccounting Operations:\n\nLead day-to-day accounting operations including general ledger, accounts payable/receivable, payroll compliance, revenue recognition, and month-end/quarter-end close across multiple jurisdictions\nOversee technical accounting positions on complex or non-routine transactions (e.g., revenue contracts, stock-based compensation, business combinations, foreign currency and multi-currency consolidation)\nManage intercompany accounting and eliminations across multiple legal entities\nEstablish and maintain accounting policies and procedures consistent with a dual-listed public company operating in multiple jurisdictions\nDrive continuous improvement of accounting processes, systems, and controls to increase efficiency, reduce close cycle time, and eliminate manual/repetitive work\nIdentify and implement automation, process standardization, and system opportunities to support a scalable, value-added finance organization\nBuild finance capabilities that shift the team's focus from purely transactional processing toward business partnering and decision support\n\nManufacturing & Outsourced Operations Accounting:\n\nOwn accounting and cost controls for DEFSEC's outsourced/contract manufacturing model, including inventory accounting, purchase commitments, and vendor cost verification\nPartner with Supply Chain/Operations on cost accounting related to contract manufacturing partners across jurisdictions\nSupport financial due diligence on outsourced manufacturing partners in coordination with Legal and Supply Chain/Operations\nWork closely with legal, compliance, and program teams to ensure financial processes appropriately account for defense sector regulatory considerations (e.g., ITAR/EAR-related cost segregation, government contract accounting requirements) across international manufacturing and distribution arrangements\nEscalate matters with potential export control, customs, or government contracting compliance implications to Legal/Compliance rather than resolving unilaterally\n\nTreasury & Share Capital:\n\nSupport treasury and share capital activities, including:\nCash management, liquidity forecasting, and FX exposure\nFinancing support, covenant compliance, and investor/lender reporting\nIntercompany funding and share capital administration, including transfer agent reconciliation\nSupport of potential capital and M&A transactions\n\nTax:\n\nSupport tax activities, including:\nIncome tax and indirect tax compliance and planning, with external advisors\nTransfer pricing and tax provision support\nTax risk monitoring and planning opportunities\n\nTeam Leadership:\n\nBuild, mentor, and manage a high-performing finance team\nSet priorities, review work product, and develop staff capabilities as the organization scales\nOwn and manage the finance department's operating budget, including headcount and resourcing decisions\nPartner cross-functionally with Investor Relations, Legal, and operations leadership\n\nCorporate Governance & Disclosure:\n\nSupport the CFO and Audit Committee with quarterly and annual reporting cycles\nMaintain disclosure controls and procedures consistent with dual-listed company obligations\nHandle all financial information, including any material non-public information, with appropriate confidentiality and in accordance with insider trading and selective disclosure policies\nAct as a fiduciary of the company, exercising sound, independent judgment in the best interests of DEFSEC and its shareholders in all financial decision-making\n\nQualifications:\n\nRequired:\n\nCPA designation (Canadian) required; US CPA a strong asset\n10+ years progressive accounting/finance experience, including prior Controller or Assistant Controller experience at a publicly traded company\nDeep working knowledge of IFRS; familiarity with US GAAP/SEC reporting requirements an asset\nExperience with dual-listed or cross-border (Canada/US) reporting environments strongly preferred\nDemonstrated experience managing accounting and consolidation across multiple legal entities and jurisdictions, spanning North America and international operations\nDemonstrated experience managing external audit relationships and internal controls frameworks\nDirect experience with treasury functions (cash management, banking relationships, FX exposure) and corporate tax compliance (including transfer pricing and multi-jurisdictional tax matters)\nStrong people leadership and team-building track record\nEligible to be vetted as part of the Controlled Goods Program (CGP).\n\nPreferred:\n\nPrior experience in the defense, aerospace, government contracting, or public safety sectors\nFamiliarity with export control regimes (ITAR/EAR) as they relate to financial and cost accounting practices\nExperience accounting for outsourced/contract manufacturing arrangements, including inventory and vendor cost oversight\nExperience consolidating financial results across multiple legal entities and subsidiaries in different jurisdictions, including intercompany eliminations and multi-currency consolidation\nExperience with ERP systems used in manufacturing or project-based/contract accounting environments\nPublic company experience with both TSXV and NASDAQ/SEC reporting regimes\nTrack record of driving process improvement, automation, or efficiency initiatives within an accounting/finance organization\n\nKey Competencies:\n\nHigh integrity and sound judgment in handling sensitive and confidential financial information\nStrong technical accounting acumen paired with pragmatic, business-oriented communication\nAbility to operate effectively in a lean, fast-growing organization while maintaining public-company rigor\nClear, professional written and verbal communication with internal and external stakeholders\n\nHow to Apply:\n\nIf you have a strong passion for this role and are eager to join the dynamic team at DEFSEC, we invite you to submit your resume to employment@defsectec.com. Please make sure to emphasize your pertinent experience and any certifications you hold.\n\nDEFSEC is an equal opportunity employer and is committed to providing equal employment opportunities to all qualified individuals regardless of race, color, religion, sex, gender identity, sexual orientation, marital status, national origin, age, disability or any other protected status under applicable law. We celebrate diversity and are dedicated to creating a work environment that is inclusive and welcoming to all, including LGBTQ2S+ individuals. Our hiring decisions are based on qualifications, merit, and business needs. In every step of the interview procedure, DEFSEC is committed to providing accommodations.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nDefense and Space Manufacturing",
+      "first_seen": "2026-11-16T16:55:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Kanata",
+      "geo_province": "ON",
+      "geo_lat": 45.3128,
+      "geo_lon": -75.89405,
+      "geo_distance_km": 330.1,
+      "geo_rank": 203301,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "RBC",
       "title": "VP, Capital Markets Operational Risk, Controls & Governance",
@@ -61,7 +136,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4489778640/"
+      ]
     },
     {
       "company": "Sun Life",
@@ -7395,7 +7473,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4489761058/"
+      ]
     },
     {
       "company": "Iceberg",
@@ -8054,16 +8135,16 @@
       "source": "company_portal",
       "archetype": "B",
       "first_seen": "2026-11-10T17:26:17Z",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.64649,
       "geo_lon": -79.3789,
       "geo_distance_km": 6.9,
-      "geo_rank": 69,
+      "geo_rank": 300069,
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "161 Bay St.",
@@ -9146,7 +9227,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4490689144/"
+      ]
     },
     {
       "company": "iA Financial Group (Industrial Alliance)",
@@ -24518,7 +24602,7 @@
       "archetype": "D",
       "work_arrangement": "On-site",
       "first_seen": "2026-10-30T00:01:38Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Other Canada",
       "geo_label": "Other Canada (BC)",
@@ -24651,14 +24735,14 @@
       "first_seen": "2026-10-30T00:01:38Z",
       "work_mode": "Remote",
       "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -28137,7 +28221,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4490691461/"
+      ]
     },
     {
       "company": "Planitar Inc.",
@@ -32565,14 +32652,14 @@
       "first_seen": "2026-10-24T00:57:58Z",
       "work_mode": "Remote",
       "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -33814,16 +33901,16 @@
       "archetype": "D",
       "work_arrangement": "On-site",
       "first_seen": "2026-10-23T03:02:08Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -44428,6 +44515,5 @@
         "https://ca.indeed.com/viewjob?jk=de5ffcfd5ef92421"
       ]
     }
-  ],
-  "total": 1533
+  ]
 }
