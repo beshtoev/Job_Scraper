@@ -36,6 +36,8 @@
     "_fuzzy_comment": "Optional fuzzy pre-filter for LinkedIn title matching. When both fuzzy_seniority and fuzzy_domain are non-empty, role_is_relevant() uses these instead of the exact-phrase keywords.include filter. Catches title variants like 'Director, Engineering' when searching for 'Engineering Director'. Leave all three empty to use keyword-only matching.",
     "fuzzy_seniority": [],
     "fuzzy_domain": [],
+    "_fuzzy_seniority_alone_comment": "Optional discovery net. Seniority terms listed here (e.g. director, vp, chief, head of) pass the fuzzy filter without any fuzzy_domain token, so unfamiliar senior titles reach downstream screening. Leave empty to require seniority plus domain.",
+    "fuzzy_seniority_alone": [],
     "fuzzy_exclude": []
   },
 

@@ -147,6 +147,11 @@ _KEYWORD_RE = re.compile(
 _FUZZY_SENIORITY = _cfg("keywords.fuzzy_seniority", [])
 _FUZZY_DOMAIN = _cfg("keywords.fuzzy_domain", [])
 _FUZZY_EXCLUDE = _cfg("keywords.fuzzy_exclude", [])
+# Discovery net: seniority terms that pass ON THEIR OWN, with no domain token
+# ("Director, Pricing", "VP Product", "Operating Partner" style titles the
+# domain list has never heard of). Downstream screening judges fit. Empty
+# (the default) keeps the seniority-plus-domain rule.
+_FUZZY_SENIORITY_ALONE = _cfg("keywords.fuzzy_seniority_alone", [])
 
 # Fuzzy filter is active only when both seniority and domain lists are non-empty.
 _FUZZY_ENABLED = bool(_FUZZY_SENIORITY) and bool(_FUZZY_DOMAIN)
@@ -166,6 +171,7 @@ def _build_word_re(terms: list[str]) -> re.Pattern | None:
 _SENIORITY_RE = _build_word_re(_FUZZY_SENIORITY)
 _DOMAIN_RE = _build_word_re(_FUZZY_DOMAIN)
 _FUZZY_EXCLUDE_RE = _build_word_re(_FUZZY_EXCLUDE)
+_SENIORITY_ALONE_RE = _build_word_re(_FUZZY_SENIORITY_ALONE)
 _SR_MGR_RE = re.compile(
     r"\b(?:senior|sr)\b.*\bmanager\b|\bmanager\b.*\b(?:senior|sr)\b",
     re.IGNORECASE,
@@ -221,6 +227,9 @@ def role_is_relevant(title: str, company: str = "") -> bool:
     # Fuzzy mode: broad pre-filter for domain-specific seniority + domain tokens.
     if _FUZZY_EXCLUDE_RE and _FUZZY_EXCLUDE_RE.search(title):
         return False
+    # Discovery net: a senior title passes without a domain token when configured.
+    if _SENIORITY_ALONE_RE and _SENIORITY_ALONE_RE.search(title):
+        return True
     # Director+ : seniority token + domain token (e.g. "Director of Engineering")
     if _SENIORITY_RE.search(title) and _DOMAIN_RE.search(title):
         return True

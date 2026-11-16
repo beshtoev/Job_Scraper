@@ -58,6 +58,32 @@ def test_title_filter_admits_executive_variants_found_in_pilot_recall_checks():
         assert not scrape_jobs.role_is_relevant(title), title
 
 
+def test_discovery_net_passes_senior_titles_outside_the_domain_list():
+    # Murat 2026-11-16: keep the net broad. A Director-and-above title passes
+    # even when its field is not in fuzzy_domain; the hourly screen judges fit.
+    for title in [
+        "Director, Pricing & Monetization",
+        "VP Product",
+        "Managing Director, Digital Finance",
+        "Director, Strategic Initiatives (Wealth Management Canada)",
+        "Director, Revenue Operations",
+        "Senior Vice-President, Commercial",
+        "Operating Partner, Value Creation",
+        "Chief of Staff",
+        "Head of Solutions",
+        "Corporate Controller, Director",
+    ]:
+        assert scrape_jobs.role_is_relevant(title), title
+
+    # Junior and IC signals still drop (existing rules, unchanged).
+    for title in [
+        "Assistant Manager, Director's Office",
+        "Senior Manager, FP&A",
+        "Data Engineer",
+    ]:
+        assert not scrape_jobs.role_is_relevant(title), title
+
+
 def test_triage_prompt_uses_executive_taxonomy_and_canada_gate():
     prompt = triage_agent.build_static_prefix("Target executive profile", "")
     lowered = prompt.lower()

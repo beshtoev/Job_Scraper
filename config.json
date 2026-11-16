@@ -121,6 +121,23 @@
       "platform",
       "erp"
     ],
+    "_fuzzy_seniority_alone_comment": "Discovery net (Murat 2026-11-16): any Director-and-above title passes to the hourly screen, which judges fit, so unfamiliar senior titles are not silently dropped. Only adds; every existing rule is unchanged.",
+    "fuzzy_seniority_alone": [
+      "chief",
+      "president",
+      "vice president",
+      "vice-president",
+      "vp",
+      "svp",
+      "evp",
+      "avp",
+      "senior director",
+      "director",
+      "managing director",
+      "executive director",
+      "head of",
+      "operating partner"
+    ],
     "fuzzy_exclude": [
       "intern",
       "internship",
