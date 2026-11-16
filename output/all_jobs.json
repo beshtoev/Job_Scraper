@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-16 18:16 UTC",
+  "updated_at": "2026-11-16 18:54 UTC",
   "jobs": [
+    {
+      "company": "Recruit Action inc.",
+      "title": "Director, Product Strategy & Growth",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4489989152/",
+      "date_posted": "2026-11-16",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Turn insight into action and strategy into growth in the insurance sector for our client. Drive portfolio direction, uncover new opportunities, and bring teams together to deliver meaningful customer value, sustainable growth, and strong business outcomes.\n\nWhat Is In It For You\n\nSalaried: $75-85 per hour.\nIncorporated Business Rate: $90-100 per hour.\n20-month contract.\nFull-time position: 37.50 hours per week.\nHybrid work arrangement, subject to business and organizational requirements.\nTravel may be required for internal events, client meetings, partner engagements, advisory boards, and industry conferences.\n\nResponsibilities\n\nStrategy and Portfolio management\n\nPortfolio strategy, value proposition, and investment roadmap.\nProduct lifecycle management.\nPortfolio optimization and prioritization.\nBusiness cases and investment recommendations.\n\nCustomer, Market, and Growth\n\nCustomer, market, and competitive insights.\nCommercialization and go-to-market strategies.\nPortfolio performance and scorecards.\nSales, Marketing, and Distribution partnerships.\n\nProduct and Delivery leadership\n\nMajor product initiatives and cross-functional delivery.\nDiscovery, experimentation, and validation.\nDigital, technology, AI, automation, and data opportunities.\nExternal partners and vendor management.\nProduct launch and operational readiness.\n\nRisk and Governance\n\nProduct governance and risk management.\nLegal, Compliance, Risk, and Privacy collaboration.\nDocumentation, controls, approvals, and escalation.\nDecisions within delegated authority.\n\nEnterprise and People leadership\n\nStakeholder alignment and cross-functional leadership.\nTeam leadership, coaching, and development.\nSenior leadership and portfolio representation.\nCross-portfolio strategic initiatives.\nPeople, resources, budgets, and financial commitments.\n\nRequired Qualifications\n\nWhat you will need to succeed:\n\nUndergraduate degree in business, finance, marketing, health, technology, or a related field, or equivalent experience.\n8+ years of progressive experience in product, strategy, innovation, or commercialization, including leadership of complex cross-functional initiatives.\nExperience in financial services, insurance, group benefits, health, wellbeing, disability, or other regulated industries.\nExperience developing product or portfolio strategies and translating them into executable roadmaps, business cases, and measurable outcomes.\nAbility to apply product and strategic capabilities across different portfolios, quickly build subject-matter expertise, and lead effectively as business priorities evolve.\nStrong commercial and financial acumen, including experience assessing product economics, investment trade-offs, and portfolio performance.\nProven ability to lead through influence in a highly matrixed and regulated environment.\nExperience leading, coaching, and developing people and building effective teams.\nExcellent executive communication skills, including the ability to simplify complex issues, frame decisions, and deliver clear recommendations.\n\nPreferred Qualifications\n\nExperience in group benefits, health, wellbeing, dental, and/or disability products, including employer-sponsored solutions.\nExperience managing strategic partnerships, vendors, or ecosystem-based propositions.\nExperience with digital product development, customer experience design, agile delivery, and data-informed experimentation.\nWorking knowledge of relevant compliance, privacy, risk, and product governance practices.\n\nSoft Skills\n\nStrategic and enterprise thinking.\nCustomer and growth orientation.\nSound decision-making.\nInfluence and collaboration.\nExecution and accountability.\nInnovation and adaptability.\nPeople leadership.\nTechnology and data fluency.\n\nWhy Recruit Action?\n\nRecruit Action (agency permit: AP-2504511) provides recruitment services through quality support and a personalized approach. As part of the screening process, some applications may be reviewed using artificial intelligence tools. Only candidates who meet the hiring criteria will be contacted.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nContract\n\nIndustries\n\nStaffing and Recruiting",
+      "first_seen": "2026-11-16T18:54:31Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "EY",
       "title": "Assistant Director - EY wavespace - Strategy & Innovation",
@@ -23939,7 +23964,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.linkedin.com/jobs/view/4487203133/"
+        "https://www.linkedin.com/jobs/view/4487203133/",
+        "https://www.linkedin.com/jobs/view/4490105538/"
       ]
     },
     {
@@ -44698,6 +44724,5 @@
         "https://www.linkedin.com/jobs/view/4480184158/"
       ]
     }
-  ],
-  "total": 1543
+  ]
 }

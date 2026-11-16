@@ -1,26 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 18:15 UTC*
+*Last updated: 2026-11-16 18:54 UTC*
 
-**5 new role(s)** since last run · 13 total in last 1h
+**3 new role(s)** since last run · 12 total in last 1h
 
-### [Assistant Director - EY wavespace - Strategy & Innovation](https://www.linkedin.com/jobs/view/4464229956/) — EY
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Vice President, Enterprise Services](https://www.linkedin.com/jobs/view/4490105538/) — ethree Consulting
+- 📍 **Location:** St John’s, Newfoundland and Labrador, Canada
+- 💰 **Salary:** $126,040 - $163,852
 - 🕒 **Posted:** 2026-11-16
 
-### [Head of Digital Media](https://www.linkedin.com/jobs/view/4490698350/) — Marketers on Demand
+### [Chief Courts Information Officer](https://www.linkedin.com/jobs/view/4456289878/) — Affinity
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Director, Product Strategy & Growth](https://www.linkedin.com/jobs/view/4489989152/) — Recruit Action inc.
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $125,000.00/yr - CA$140,000.00/yr
-- 🕒 **Posted:** 2026-11-16
-
-### [Interim Chief Information Officer](https://www.linkedin.com/jobs/view/4490913244/) — LHH Knightsbridge
-- 📍 **Location:** Greater Toronto Area, Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [Responsable principal·e, Croissance numérique / Head of Digital Growth](https://www.linkedin.com/jobs/view/4490908514/) — Mobilia Canada
-- 📍 **Location:** Pointe-Claire, Quebec, Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [Director of Solution Architecture](https://www.linkedin.com/jobs/view/4490912431/) — PwC Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $196,000 - $246,000
 - 🕒 **Posted:** 2026-11-16
