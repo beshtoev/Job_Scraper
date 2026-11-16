@@ -1,17 +1,25 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 18:54 UTC*
+*Last updated: 2026-11-16 19:26 UTC*
 
-**3 new role(s)** since last run · 12 total in last 1h
+**5 new role(s)** since last run · 14 total in last 1h
 
-### [Vice President, Enterprise Services](https://www.linkedin.com/jobs/view/4490105538/) — ethree Consulting
-- 📍 **Location:** St John’s, Newfoundland and Labrador, Canada
-- 💰 **Salary:** $126,040 - $163,852
+### [Associate Director, Capital Planning and Development](https://www.linkedin.com/jobs/view/4490914611/) — University of Toronto - Victoria University
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $103,467.44 to $129,338.32
 - 🕒 **Posted:** 2026-11-16
 
-### [Chief Courts Information Officer](https://www.linkedin.com/jobs/view/4456289878/) — Affinity
-- 📍 **Location:** Winnipeg, Manitoba, Canada
+### [Regional Finance Director](https://www.linkedin.com/jobs/view/4490900551/) — Pierstone Wealth Management
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-16
 
-### [Director, Product Strategy & Growth](https://www.linkedin.com/jobs/view/4489989152/) — Recruit Action inc.
+### [Director, Inventory Planning & Replenishment](https://www.linkedin.com/jobs/view/4490924513/) — Summit Search Group
+- 📍 **Location:** Greater Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4490686890/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Director, Real Estate Finance](https://www.linkedin.com/jobs/view/4490922591/) — National Bank of Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-16
