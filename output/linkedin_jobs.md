@@ -1,14 +1,25 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 22:45 UTC*
+*Last updated: 2026-11-16 23:39 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**5 new role(s)** since last run · 8 total in last 1h
 
-### [Director of Solution Architecture](https://www.linkedin.com/jobs/view/4490912431/) — PwC Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $196,000 - $246,000
+### [Director (EX-02), Various Positions in the Finance and Administration Branch and the Information Technology Branch](https://www.linkedin.com/jobs/view/4491544139/) — Canada Revenue Agency - Agence du revenu du Canada
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-11-16
 
-### [Director of Finance And Operations](https://www.linkedin.com/jobs/view/4490139910/) — PosiTrace
-- 📍 **Location:** Burnaby, British Columbia, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
+### [Director, People Platform & Self-Service Experience](https://www.linkedin.com/jobs/view/4490145557/) — Electronic Arts (EA)
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $160,700 - $224,700
+- 🕒 **Posted:** 2026-11-16
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4490957205/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Director Data Engineering](https://www.linkedin.com/jobs/view/4490144856/) — Gore Mutual Insurance
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Director Data Engineering](https://www.linkedin.com/jobs/view/4490158420/) — Gore Mutual Insurance
+- 📍 **Location:** Cambridge, Ontario, Canada
 - 🕒 **Posted:** 2026-11-16
