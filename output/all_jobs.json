@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-16 20:49 UTC",
+  "updated_at": "2026-11-16 20:56 UTC",
   "jobs": [
+    {
+      "company": "CF Montréal",
+      "title": "Responsable de l’analytique et de l’intelligence sportive / Head of Sporting Analytics and Insights",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010327848468",
+      "date_posted": "2026-11-16",
+      "description": "Soutenir l'analyse et la gestion de l'effectif professionnel du Club en utilisant des outils et des méthodologies analytiques.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-16T20:56:32Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Rosenort Credit Union",
+      "title": "Chief Financial Officer",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010327855598",
+      "date_posted": "2026-11-16",
+      "description": "8–10+ years of progressively senior financial leadership experience, ideally within a credit union, bank, or regulated financial institution.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-16T20:56:32Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Ontario Medical Supply",
       "title": "Senior Director Finance",
@@ -87,7 +141,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327773219"
+      ]
     },
     {
       "company": "Eli Lilly and Company",
@@ -197,7 +254,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327818537"
+      ]
     },
     {
       "company": "Recruit Action inc.",
@@ -3465,7 +3525,8 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=65c716096a4bca63",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010326052339"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010326052339",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327802469"
       ],
       "direct_url": "https://jobs.scotiabank.com/job/Toronto-AI-Director-Global-AI-Risk-Management-ON-M5C2V9/607996517/",
       "work_arrangement": "On-site"
