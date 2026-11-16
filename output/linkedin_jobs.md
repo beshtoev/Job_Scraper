@@ -1,14 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 14:45 UTC*
+*Last updated: 2026-11-16 15:20 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 7 total in last 1h
 
-### [Director, Data Solutions Architect](https://www.linkedin.com/jobs/view/4439360043/) — Brookfield
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000 - $185,000
+### [Group Finance Director](https://www.linkedin.com/jobs/view/4490652566/) — isgSearch
+- 📍 **Location:** Windsor, Ontario, Canada
+- 💰 **Salary:** $160,000.00/yr - CA$180,000.00/yr
 - 🕒 **Posted:** 2026-11-16
 
-### [Director of Portfolio Finance](https://www.linkedin.com/jobs/view/4490670120/) — Rhyno Equity Group
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000 to $190,000,
+### [Director of FP&A](https://www.linkedin.com/jobs/view/4490660527/) — Avenir Talent Partners
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-16
