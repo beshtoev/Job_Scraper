@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-16 07:21 UTC",
-  "total": 31,
-  "new_count": 0,
+  "scraped_at": "2026-11-16 08:24 UTC",
+  "total": 32,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Make-A-Wish Canada / Rêves d'enfants Canada",
@@ -706,6 +706,32 @@
       "geo_version": 1
     },
     {
+      "company": "Evergreen Hospitality Group",
+      "title": "Director of Financial Planning and Analysis (FP&A)",
+      "location": "Port Coquitlam, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010326383605",
+      "date_posted": "2026-11-14",
+      "description": "This position is being created to complement that function by introducing a more proactive approach to financial planning, budgeting, forecasting, expense…",
+      "salary": "$160k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Port Coquitlam",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
       "company": "Government of Alberta",
       "title": "Director, Financial Operations & Projects",
       "location": "Edmonton, Canada",
@@ -810,5 +836,32 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Evergreen Hospitality Group",
+      "title": "Director of Financial Planning and Analysis (FP&A)",
+      "location": "Port Coquitlam, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010326383605",
+      "date_posted": "2026-11-14",
+      "description": "This position is being created to complement that function by introducing a more proactive approach to financial planning, budgeting, forecasting, expense…",
+      "salary": "$160k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Port Coquitlam",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    }
+  ]
 }

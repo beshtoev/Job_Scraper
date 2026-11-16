@@ -1,6 +1,9 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 07:21 UTC*
+*Last updated: 2026-11-16 08:24 UTC*
 
-**0 new role(s)** since last run · 31 total in last 24h
+**1 new role(s)** since last run · 32 total in last 24h
 
-No new roles since the last run.
+### [Director of Financial Planning and Analysis (FP&A)](https://www.glassdoor.ca/job-listing/j?jl=1010326383605) — Evergreen Hospitality Group
+- 📍 **Location:** Port Coquitlam, Canada
+- 💰 **Salary:** $160k/yr
+- 🕒 **Posted:** 2026-11-14
