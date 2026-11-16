@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 12:05 UTC*
+*Last updated: 2026-11-16 12:42 UTC*
 
-**1 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Director, Financial & Business Analytics](https://www.linkedin.com/jobs/view/4489744541/) — University of Toronto
+### [Senior Director, Business Transformation, Trust Co.](https://www.linkedin.com/jobs/view/4488004020/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $137,645.00/yr - CA$229,410.00/yr
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-11-16
