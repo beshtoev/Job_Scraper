@@ -1,38 +1,26 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 17:40 UTC*
+*Last updated: 2026-11-16 18:15 UTC*
 
-**8 new role(s)** since last run · 15 total in last 1h
+**5 new role(s)** since last run · 13 total in last 1h
 
-### [Senior Director, Business Transformation, Trust Co.](https://www.linkedin.com/jobs/view/4488004020/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-11-16
-
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4490905169/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [Director Data Engineering & Analytics](https://www.linkedin.com/jobs/view/4490910058/) — Pomerleau
+### [Assistant Director - EY wavespace - Strategy & Innovation](https://www.linkedin.com/jobs/view/4464229956/) — EY
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-16
 
-### [Vice President Information Technology Services](https://www.linkedin.com/jobs/view/4490697703/) — InsuranceWorks.ca
+### [Head of Digital Media](https://www.linkedin.com/jobs/view/4490698350/) — Marketers on Demand
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $125,000.00/yr - CA$140,000.00/yr
 - 🕒 **Posted:** 2026-11-16
 
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4490910003/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
+### [Interim Chief Information Officer](https://www.linkedin.com/jobs/view/4490913244/) — LHH Knightsbridge
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-16
 
-### [Director, Marketing Planning, Loyalty and Partnerships [12 Month Contract]](https://www.linkedin.com/jobs/view/4489799230/) — Scotiabank
+### [Responsable principal·e, Croissance numérique / Head of Digital Growth](https://www.linkedin.com/jobs/view/4490908514/) — Mobilia Canada
+- 📍 **Location:** Pointe-Claire, Quebec, Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Director of Solution Architecture](https://www.linkedin.com/jobs/view/4490912431/) — PwC Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [Head of Digital Performance](https://www.linkedin.com/jobs/view/4490686890/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [Regional Finance Director](https://www.linkedin.com/jobs/view/4490900551/) — Pierstone Wealth Management
-- 📍 **Location:** Canada
+- 💰 **Salary:** $196,000 - $246,000
 - 🕒 **Posted:** 2026-11-16
