@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-16 01:35 UTC*
+*Last updated: 2026-11-16 02:02 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-### [Director, Credit Adjudication, Non-Bank Financial & Asset Dealer Finance](https://www.linkedin.com/jobs/view/4491272473/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
+### [Vice President of Information](https://www.linkedin.com/jobs/view/4490238779/) — NextLevelFinstra (NLF)
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-16
+
+### [Vice President of Technology](https://www.linkedin.com/jobs/view/4491282122/) — AnyAlpha
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-16
