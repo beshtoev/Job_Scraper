@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 00:17 UTC",
+  "updated_at": "2026-11-16 00:26 UTC",
   "jobs": [
     {
       "company": "PointClickCare",
@@ -336,7 +336,8 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://www.linkedin.com/jobs/view/4491259536/",
-        "https://www.linkedin.com/jobs/view/4491267461/"
+        "https://www.linkedin.com/jobs/view/4491267461/",
+        "https://www.linkedin.com/jobs/view/4491282122/"
       ]
     },
     {
@@ -44057,7 +44058,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-17T14:16:21Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
