@@ -1,5 +1,9 @@
 {
   "geocode": {
+    "+ travel, on, canada": [
+      42.7825516,
+      -80.1936645
+    ],
     "/teletravail, on, canada": null,
     "000 what you'll do drive, montreal, qc, canada": null,
     "1 dundas st west, toronto, on, canada": [
@@ -36,6 +40,10 @@
     "100 matheson blvd, mississauga, on, canada": [
       43.6214723,
       -79.6676624
+    ],
+    "15 york street, toronto, canada": [
+      43.6424718,
+      -79.380761
     ],
     "16 york street, toronto, canada": [
       43.6418372,
@@ -157,6 +165,10 @@
       43.8217487,
       -79.3418229
     ],
+    "351 king st e, toronto, canada": [
+      43.6515706,
+      -79.3647431
+    ],
     "37955 second avenue, squamish, bc, canada": [
       49.6980971,
       -123.1557038
@@ -194,6 +206,10 @@
     "550 west hastings street, vancouver, canada": [
       49.2841528,
       -123.1126616
+    ],
+    "5700 explorer drive, mississauga, on, canada": [
+      43.6577283,
+      -79.6132208
     ],
     "595 burrard street, vancouver, bc, canada": [
       49.2861912,
@@ -296,6 +312,14 @@
       -73.5587317
     ],
     "can |  -friendly, ab, canada": null,
+    "canada; toronto, on, canada": [
+      43.6434338,
+      -79.3790777
+    ],
+    "canada; united states, on, canada": [
+      45.453911,
+      -75.6854721
+    ],
     "chalk river, on, canada": [
       46.064161,
       -77.5665566
@@ -467,6 +491,10 @@
     "nanaimo, bc, canada": [
       49.163877,
       -123.938122
+    ],
+    "napanee, on, canada": [
+      44.2473883,
+      -76.9505543
     ],
     "new westminster, bc, canada": [
       49.2067726,
