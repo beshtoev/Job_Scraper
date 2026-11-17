@@ -182,6 +182,7 @@
       43.6537934,
       -79.3824279
     ],
+    "510 carnegie center dr., field, bc, canada": null,
     "55 john st., toronto, on, canada": [
       43.6460763,
       -79.3887574
@@ -346,6 +347,10 @@
     "fairview, ab, canada": [
       49.6956106,
       -112.7757686
+    ],
+    "field, bc, canada": [
+      51.3961113,
+      -116.4891525
     ],
     "florenceville-bristol, nb, canada": [
       46.4487505,
