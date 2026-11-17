@@ -1,22 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 08:23 UTC*
+*Last updated: 2026-11-17 09:50 UTC*
 
-**4 new role(s)** since last run · 7 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Head of Security](https://www.linkedin.com/jobs/view/4490409446/) — Tonic.ai
-- 📍 **Location:** Canada
+### [SVP, Product](https://www.linkedin.com/jobs/view/4467497295/) — Toptal
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Head of Finance](https://www.linkedin.com/jobs/view/4490416311/) — Gastronomous Technologies
-- 📍 **Location:** Oakville, Ontario, Canada
-- 💰 **Salary:** $110,000–$130,000
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4467705468/) — Toptal
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Supply Chain Management](https://www.linkedin.com/jobs/view/4491108226/) — Calian Group
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $130K-$180K
-- 🕒 **Posted:** 2026-11-17
-
-### [Director of Product Development](https://www.linkedin.com/jobs/view/4490401927/) — EQ3
-- 📍 **Location:** Winnipeg, Manitoba, Canada
+### [Sr. Director, HR Technology and AI Enablement](https://www.linkedin.com/jobs/view/4457968445/) — PointClickCare
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $163,000.00/yr - CA$181,000.00/yr
 - 🕒 **Posted:** 2026-11-17
