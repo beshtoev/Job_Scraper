@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 02:47 UTC*
+*Last updated: 2026-11-17 03:03 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Customer Success Director](https://www.linkedin.com/jobs/view/4490968901/) — Haystack
+### [VP of Marketing](https://www.linkedin.com/jobs/view/4490990118/) — Haystack
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-17

@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-17 02:47 UTC",
+  "updated_at": "2026-11-17 03:03 UTC",
   "jobs": [
+    {
+      "company": "Haystack",
+      "title": "VP of Marketing",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490990118/",
+      "date_posted": "2026-11-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "An enterprise technology company is seeking a Global VP Marketing to lead its worldwide marketing strategy and organization during its next phase of growth. This leadership role involves shaping market positioning, strengthening brand category leadership, and driving revenue growth through collaborative execution.\n\nThe Role\n• Own the global marketing strategy, organization, and go-to-market alignment across key markets\n• Partner closely with sales, product, and customer teams to drive pipeline creation, conversion, and revenue impact\n• Direct product marketing, brand and content, and demand generation around shared business outcomes\n• Help accelerate growth and market presence internationally\n\nWhat You'll Need\n• Proven experience as a VP or SVP-level marketing leader in a high-growth B2B SaaS environment\n• Strong combination of strategic market depth and hands-on execution capabilities\n• Track record of building and leading high-performing global marketing organizations\n\nApply via Haystack today!\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "first_seen": "2026-11-17T03:03:13Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Haystack",
       "title": "Customer Success Director",
