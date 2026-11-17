@@ -683,6 +683,22 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
+    ],
+    "100 queen street west, toronto, on, canada": [
+      43.6536032,
+      -79.3840055
+    ],
+    "535 hornby street, vancouver, canada": [
+      49.285466,
+      -123.117782
+    ],
+    "morriston, on, canada": [
+      43.4482878,
+      -80.1171956
+    ],
+    "pitt meadows, bc, canada": [
+      49.2207623,
+      -122.690153
     ]
   },
   "research": {}
