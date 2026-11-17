@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 358,
-    "pollable": 227,
+    "companies": 359,
+    "pollable": 228,
     "unresolved": 131
   },
   "companies": [
@@ -4740,6 +4740,20 @@
       "ats": "phenom",
       "slug": "jobs-ca.pwc.com",
       "careers_url": "https://jobs-ca.pwc.com/ca/en/search-results",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Kindsight",
+      "archetype": "A",
+      "archetype_source": "claude",
+      "ats": "teamtailor",
+      "slug": "careers.kindsight.io",
+      "careers_url": "https://careers.kindsight.io/#jobs",
       "source": "manual",
       "include": [],
       "exclude": [],

@@ -680,6 +680,54 @@ def fetch_phenom(entry: dict) -> list[dict]:
     return out
 
 
+TEAMTAILOR_MAX_PAGES = 20
+
+
+def fetch_teamtailor(entry: dict) -> list[dict]:
+    """Teamtailor career sites (e.g. careers.kindsight.io).
+
+    Every Teamtailor site publishes its open jobs as a public JSON Feed at
+    /jobs.json; each item carries the posting's schema.org JobPosting, which
+    holds the locations and remote type. next_url pages are followed if present.
+    """
+    parsed = urllib.parse.urlparse(entry.get("careers_url", ""))
+    if not parsed.netloc:
+        raise SourceFailure("Teamtailor careers_url needs a host")
+    url = f"{parsed.scheme or 'https'}://{parsed.netloc}/jobs.json"
+    out, seen = [], set()
+    for _ in range(TEAMTAILOR_MAX_PAGES):
+        data = http_json(url)
+        if not isinstance(data, dict) or not isinstance(data.get("items"), list):
+            raise SourceFailure("missing JSON Feed items array")
+        for item in data["items"]:
+            job_url = item.get("url", "")
+            if not job_url or job_url in seen:
+                continue
+            seen.add(job_url)
+            ld = item.get("_jobposting") or {}
+            places = ld.get("jobLocation") or []
+            places = places if isinstance(places, list) else [places]
+            names = []
+            for place in places:
+                address = (place or {}).get("address") or {}
+                name = _location(address.get("addressLocality"), address.get("addressRegion"))
+                if name and name not in names:
+                    names.append(name)
+            remote = str(ld.get("jobLocationType", "")).upper() == "TELECOMMUTE"
+            location = "; ".join(f"{name} (Remote)" if remote else name for name in names)
+            identifier = ld.get("identifier") if isinstance(ld.get("identifier"), dict) else {}
+            out.append(posting(entry, title=item.get("title") or ld.get("title"), url=job_url,
+                               location=location or ("Remote" if remote else ""),
+                               req_id=identifier.get("value") or item.get("id", ""),
+                               date_posted=item.get("date_published") or ld.get("datePosted", ""),
+                               description=item.get("content_text") or strip_html(item.get("content_html", "")),
+                               remote=remote))
+        url = data.get("next_url")
+        if not url:
+            break
+    return out
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
@@ -698,6 +746,7 @@ FETCHERS = {
     "ultipro": fetch_ultipro,
     "epam": fetch_epam,
     "phenom": fetch_phenom,
+    "teamtailor": fetch_teamtailor,
 }
 
 

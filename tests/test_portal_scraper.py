@@ -150,3 +150,27 @@ def test_phenom_pages_through_site_scoped_search(monkeypatch):
     assert calls[0][0] == "https://jobs-ca.example.test/widgets"
     assert calls[0][1]["country"] == "ca" and calls[0][1]["lang"] == "en_ca"
     assert len(calls) == 2
+
+
+def test_teamtailor_reads_json_feed_locations_and_remote(monkeypatch):
+    def place(locality, region, country):
+        return {"@type": "Place", "address": {"addressLocality": locality, "addressRegion": region,
+                                              "addressCountry": country}}
+
+    monkeypatch.setattr(portals, "http_json", lambda url, payload=None: {
+        "items": [{
+            "id": "uuid-1", "title": "Senior Director, Solutions Engineering",
+            "url": "https://careers.example.test/jobs/661424-senior-director",
+            "date_published": "2026-07-13T16:51:46-04:00", "content_html": "<p>Lead the team</p>",
+            "_jobposting": {"jobLocation": [place("Canada", "Canada", "CA"),
+                                            place("United States", "United States", "US")],
+                            "jobLocationType": "TELECOMMUTE",
+                            "identifier": {"name": "Example", "value": "661424"}},
+        }]} if url == "https://careers.example.test/jobs.json" else None)
+    entry = {**_entry("teamtailor"), "careers_url": "https://careers.example.test/#jobs"}
+    [job] = portals.fetch_teamtailor(entry)
+    assert job["location"] == "Canada (Remote); United States (Remote)"
+    assert job["is_remote"] is True
+    assert job["req_id"] == "661424"
+    assert job["date_posted"] == "2026-07-13"
+    assert job["description"] == "Lead the team"
