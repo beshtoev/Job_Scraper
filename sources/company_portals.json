@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 361,
-    "pollable": 230,
+    "companies": 362,
+    "pollable": 231,
     "unresolved": 131
   },
   "companies": [
@@ -4782,6 +4782,20 @@
       "ats": "greenhouse",
       "slug": "goremutualinsurance",
       "careers_url": "https://job-boards.greenhouse.io/goremutualinsurance",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "NAC Constructors (North America Construction)",
+      "archetype": "D",
+      "archetype_source": "claude",
+      "ats": "lever",
+      "slug": "nacsworld",
+      "careers_url": "https://jobs.lever.co/nacsworld",
       "source": "manual",
       "include": [],
       "exclude": [],
