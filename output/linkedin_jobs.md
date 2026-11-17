@@ -1,26 +1,21 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 04:42 UTC*
+*Last updated: 2026-11-17 04:55 UTC*
 
-**5 new role(s)** since last run · 6 total in last 1h
+**4 new role(s)** since last run · 9 total in last 1h
 
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4490184258/) — OpenText
-- 📍 **Location:** Waterloo, Ontario, Canada
+### [Director, Executive and Internal Communications](https://www.linkedin.com/jobs/view/4490183548/) — Deloitte
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000 - $260,000,
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4490187175/) — OpenText
-- 📍 **Location:** Richmond Hill, Ontario, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4490977773/) — GoodWork.ca
-- 📍 **Location:** Canmore, Alberta, Canada
-- 💰 **Salary:** $80,000 to $90,000
-- 🕒 **Posted:** 2026-11-17
-
-### [Regional Director - Dental Clinic Support](https://www.linkedin.com/jobs/view/4487489683/) — Passion Dental Group
+### [Director of IT](https://www.linkedin.com/jobs/view/4490176922/) — Guru Studio
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Senior Director, Finance (Non-Profit Housing)](https://www.linkedin.com/jobs/view/4491100290/) — Matrix360 Inc.
-- 📍 **Location:** Canada
-- 💰 **Salary:** $130,000.00/yr - CA$160,000.00/yr
+### [Senior Director, Strategic Accounts & Business Development](https://www.linkedin.com/jobs/view/4488699782/) — Crofter's Organic
+- 📍 **Location:** Parry Sound, Ontario, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Sr Director RSM Marketing](https://www.linkedin.com/jobs/view/4486700479/) — Rogers Communications
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
