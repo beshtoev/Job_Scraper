@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 09:24 UTC",
+  "updated_at": "2026-11-17 09:25 UTC",
   "jobs": [
     {
       "company": "WJ Groundwater",
@@ -14113,16 +14113,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T01:01:11Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Mississauga",
       "geo_province": "ON",
       "geo_lat": 43.589,
       "geo_lon": -79.6441,
       "geo_distance_km": 23.9,
-      "geo_rank": 100239,
+      "geo_rank": 300239,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
