@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 07:53 UTC",
+  "updated_at": "2026-11-17 08:00 UTC",
   "jobs": [
     {
       "company": "The Clarice Smith Performing Arts Center",
@@ -13927,16 +13927,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T01:01:11Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
       "geo_city": "Mississauga",
       "geo_province": "ON",
       "geo_lat": 43.589,
       "geo_lon": -79.6441,
       "geo_distance_km": 23.9,
-      "geo_rank": 300239,
+      "geo_rank": 100239,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -15582,7 +15582,8 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010327867151",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010327867152"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327867152",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010327867153"
       ]
     },
     {
