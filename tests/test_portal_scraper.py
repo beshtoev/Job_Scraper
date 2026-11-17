@@ -125,3 +125,28 @@ def test_rippling_parser_joins_detail_description_and_tolerates_detail_failure(m
     assert "About us. Lead data." in jobs[0]["description"].replace("  ", " ")
     assert jobs[1]["url"] == "https://ats.rippling.com/x/jobs/u2"   # listing alone still a posting
     assert jobs[1]["description"] == "" and jobs[1]["date_posted"] == ""
+
+
+def test_phenom_pages_through_site_scoped_search(monkeypatch):
+    calls = []
+
+    def fake_http_json(url, payload=None):
+        calls.append((url, payload))
+        start = payload["from"]
+        jobs = [{"jobId": f"{n}WD", "reqId": f"{n}WD", "title": f"Director {n}", "city": "Toronto",
+                 "state": "Ontario", "country": "Canada", "postedDate": "2026-11-01T00:00:00.000+0000",
+                 "descriptionTeaser": "Lead the practice", "category": "Consulting"}
+                for n in range(start, min(start + 2, 3))]
+        return {"refineSearch": {"totalHits": 3, "data": {"jobs": jobs}}}
+
+    monkeypatch.setattr(portals, "http_json", fake_http_json)
+    monkeypatch.setattr(portals, "PHENOM_PAGE_SIZE", 2)
+    entry = {**_entry("phenom"), "careers_url": "https://jobs-ca.example.test/ca/en/search-results"}
+    jobs = portals.fetch_phenom(entry)
+    assert [job["title"] for job in jobs] == ["Director 0", "Director 1", "Director 2"]
+    assert jobs[0]["url"] == "https://jobs-ca.example.test/ca/en/job/0WD"
+    assert jobs[0]["location"] == "Toronto, Ontario, Canada"
+    assert jobs[0]["date_posted"] == "2026-11-01"
+    assert calls[0][0] == "https://jobs-ca.example.test/widgets"
+    assert calls[0][1]["country"] == "ca" and calls[0][1]["lang"] == "en_ca"
+    assert len(calls) == 2
