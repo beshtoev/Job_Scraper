@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 360,
-    "pollable": 229,
+    "companies": 361,
+    "pollable": 230,
     "unresolved": 131
   },
   "companies": [
@@ -4768,6 +4768,20 @@
       "ats": "bamboohr",
       "slug": "intercept",
       "careers_url": "https://intercept.bamboohr.com/careers",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Gore Mutual Insurance",
+      "archetype": "B",
+      "archetype_source": "claude",
+      "ats": "greenhouse",
+      "slug": "goremutualinsurance",
+      "careers_url": "https://job-boards.greenhouse.io/goremutualinsurance",
       "source": "manual",
       "include": [],
       "exclude": [],
