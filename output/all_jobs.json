@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-11-17 01:57 UTC",
+  "updated_at": "2026-11-17 01:59 UTC",
   "jobs": [
+    {
+      "company": "GORE MUTUAL INSURANCE COMPANY",
+      "title": "Director Data Engineering",
+      "location": "Cambridge, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=1369aba2138fcfff",
+      "direct_url": "https://grnh.se/974c8ptq6us",
+      "company_url": "https://ca.indeed.com/cmp/Gore-Mutual-Insurance-Company",
+      "date_posted": "2026-11-16",
+      "description": "At Gore Mutual, we've always set ourselves apart as a modern mutual that does good. Now, we're proudly building on that legacy to transform our company—and our industry—for the better.\n\n\n\nEffective January 1, 2026, Gore has joined Beneva—the country's largest mutual insurance company—as part of its Property \\& Casualty operations in Ontario and Western Canada. During 2026, Gore will combine its operations with Unica Insurance, Beneva's Ontario\\-based subsidiary specializing in niche commercial and personal insurance, creating a stronger, more diversified mutual insurer with greater scale and long\\-term stability.\n\n\n\nEvery decision and investment remains anchored in long\\-term benefits to customers, members, and communities. Come join us.\n\n\nWe are looking for a Director, Data Engineering to lead a critical capability within Gore's Enterprise Data \\& Analytics organization. You will lead the teams responsible for turning enterprise data into trusted, reusable data products and building the engineering capabilities that enable Data, Insights and AI across Gore.\n\n\n\nYou will shape how we build and manage data products, evolve our Data Engineering and MLOps capabilities, and ensure our Databricks and Azure ecosystem provides the foundation needed for Analytics, Data Science, GenAI and emerging AI solutions.\n\n\n\nThis is a visible leadership role for someone who combines strong technical depth with business understanding, people leadership and the ability to turn data and technology investments into meaningful business outcomes.\n\n\n**What will you do?**\n\n\n**Build Enterprise Data Products**\n\n\n* Lead the development of trusted, reusable data products that combine business meaning, data quality and strong engineering to support operational, analytical, Data Science and AI use cases.\n* Establish and mature our data product discipline, partnering with business and technology leaders to turn high\\-value data needs into scalable capabilities.\n* Improve the accessibility, consistency and value of enterprise data while reducing fragmentation and duplication.\n\n\n**Advance Data Engineering \\& AI Enablement**\n\n\n* Lead and mature Data Engineering and MLOps capabilities, creating repeatable paths to move data, machine learning, GenAI and emerging AI solutions into secure, reliable production.\n* Raise engineering standards across integration, APIs, orchestration, CI/CD, testing, observability, automation, data quality and production operations.\n* Partner across Data, Analytics and technology teams to provide the engineering capabilities needed to scale Data Science and AI.\n\n\n**Evolve Our Data Technology Foundation**\n\n\n* Guide the evolution of Gore's Databricks and Azure ecosystem to provide a scalable, resilient, secure and cost\\-effective foundation for Data, Insights and AI.\n* Partner with IT and Architecture to shape architecture patterns, integration approaches and technology standards.\n* Evaluate emerging Data and AI technologies based on business value, scalability, security and long\\-term sustainability.\n\n\n**Build and Lead a Strong Engineering Organization**\n\n\n* Lead, coach and develop high\\-performing teams across Data Products, Data Platforms, Data Engineering and MLOps.\n* Develop strong managers and technical leaders with clear accountability for products, engineering quality and production outcomes.\n* Build a culture of ownership, curiosity, continuous improvement and engineering excellence.\n\n\n**Provide Visible Enterprise Leadership**\n\n\n* Represent Data Engineering with senior business and technology leaders, vendors and strategic partners.\n* Translate complex technology decisions into clear business implications, trade\\-offs, risks and recommendations.\n* Provide clear leadership across priorities, investments, delivery and significant operational challenges.\n\n\n**What will you need to succeed?**\n\n\n* A degree in Computer Science, Engineering, Data or a related discipline, or equivalent relevant experience\n* Significant leadership experience across Data Engineering, data products, data platforms, MLOps or related enterprise technology functions.\n* Proven experience building enterprise data products and translating business needs into reusable, scalable data capabilities.\n* Proven experience building and operating enterprise\\-scale data platforms and production data workloads.\n* Direct production experience with Databricks, including data engineering, lakehouse architecture, governance and optimization.\n* Strong experience with Microsoft Azure and modern cloud data architectures.\n* Strong technical knowledge of Python, SQL, APIs, data integration, orchestration and distributed processing.\n* Experience with technologies such as Delta Lake, Unity Catalog and MLflow, or comparable capabilities.\n* Experience with CI/CD, automated testing, observability, DevOps, DataOps and modern production engineering practices.\n* Practical MLOps experience enabling Data Science, machine learning and AI workloads in production.\n* Experience enabling GenAI or emerging AI capabilities in secure enterprise environments.\n* A strong track record of coaching and developing engineers, managers and technical leaders.\n* Strong executive presence and the ability to influence senior business, technology and external stakeholders.\n\n\n\\#LI\\-Hybrid\n\n***This posting pertains to an existing vacancy that is actively being filled.***\n\n  \n\n\n**Accessibility for applicants**\n\n\n\nGore Mutual Insurance Company is committed to providing accommodations for people with disabilities during all phases of the recruiting process, including the application process.\n\n\n\nIf you require accommodation because of a disability, we will work with you to meet your needs. Contact us and a human resources representative will consult with you to determine an appropriate accommodation.\n\n\n\nShould you request an accommodation during the interview process, please notify your Talent Acquisition Consultant.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-11-17T01:59:10Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Cambridge",
+      "geo_province": "ON",
+      "geo_lat": 43.3616,
+      "geo_lon": -80.3144,
+      "geo_distance_km": 83.4,
+      "geo_rank": 200834,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Sunlife",
+      "title": "AVP, Omni-Channel Enablement , Group Retirement Services",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=5281c86cd1197de9",
+      "direct_url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP--Omni-Channel-Enablement---Group-Retirement-Services_JR00129533",
+      "company_url": "https://ca.indeed.com/cmp/Sunlife-c37d578b",
+      "date_posted": "2026-11-16",
+      "description": "You are as unique as your background, experience and point of view. Here, you’ll be encouraged, empowered and challenged to be your best self. You'll work with dynamic colleagues \\- experts in their fields \\- who are eager to share their knowledge with you. Your leaders will inspire and help you reach your potential and soar to new heights. Every day, you'll have new and exciting opportunities to make life brighter for our Clients \\- who are at the heart of everything we do.  \n\n\n\n  \n\nAt Sun Life, we're driven by our Purpose: helping our Clients achieve lifetime financial security and live healthier lives. Our values shape how we work: caring, authentic, bold, inspiring, and impactful.  \n\n\n\n  \n\nWhen you join Sun Life, you'll work with passionate colleagues and empowering leaders who support your growth and celebrate your contributions, so you can make a meaningful difference in our Clients' lives.  \n\n\n\n  \n\nDiscover how you can make a difference in the lives of individuals, families and communities around the world.  \n\n\n\n  \n\n**Job Description:**\n\nThe Client Solutions Centre (CSC) is a growing part of Sunlife Canada, helping plan members improve their financial well\\-being through savings, retirement, wealth and protection solutions.  \n\n\n\n  \n\nAs Assistant Vice\\-President, Omni\\-Channel Enablement, you will shape and execute the GRS Client strategy that connects digital experiences with human advice to drive increased results through more efficient and effective journeys.  \n\n\n\n  \n\nYou will also lead the capabilities that enable licensed Financial Advisors to provide effective advice and support, including project delivery, continuous improvement, process and technology optimization, member education, training, coaching, knowledge management, quality and operational governance.  \n\n\n\n  \n\nThis is a senior transformation leadership role with accountability for turning strategy into measurable business outcomes.  \n\n\n\n  \n\n**What will you do?**\n\n* Shape and execute the GRS Client strategy, translating business priorities into an actionable roadmap and measurable outcomes.\n* Lead the Best Practices function, including knowledge management, member education, coaching, training, quality and real\\-time employee support.\n* Provide executive leadership for the project management and continuous improvement portfolio, ensuring strategic initiatives are prioritized and delivered effectively.\n* Lead the integration and ongoing optimization of digital and human advice experiences, including end\\-to\\-end member journeys, channel handoffs and performance across touchpoints.\n* Improve the processes, tools, technology and platforms used by employees to provide advice and support to members.\n* Oversee governance, risk and operational resilience, including licensing, regulatory change, records management, complaint resolution, business continuity and disaster recovery.\n* Build alignment across senior leaders and cross\\-functional teams by sponsoring strategic initiatives and representing the GRS Client business on relevant councils and committees.\nDevelop a high\\-performing leadership team, oversee key vendors and partnerships, and foster a culture of accountability, innovation, continuous improvement and strong business outcomes.  \n* \n\n  \n\n**What do you need to succeed?**\n\n* Senior leadership experience translating strategy into roadmaps, execution plans and measurable business outcomes within a complex organization.\n* Experience leading transformation, sales enablement, project management or continuous improvement functions in a service, advice or similarly regulated environment.\n* Demonstrated experience improving customer or member journeys across digital and human channels, including channel integration, processes, tools and platforms.\n* Experience leading leaders and multidisciplinary teams, with the ability to set direction, enable execution and build organizational capability.\n* Ability to influence senior stakeholders and align cross\\-functional teams around shared priorities, investments and outcomes.\n* Experience using operational data, customer insights and performance measures to identify opportunities, prioritize work and improve customer, employee and business results.\n* Knowledge of governance, risk or operational practices in a contact centre or comparable customer\\-service environment. Financial services experience is valuable, but relevant experience from banking, telecommunications or another complex service organization may also be considered.\n* Ability to communicate complex strategies and decisions clearly, lead change and maintain a strong focus on quality, execution and deadlines.\n* An undergraduate degree or college diploma in business or a related discipline, or equivalent work experience.\n* A graduate degree or relevant professional designation, such as an MBA, CPA or CFA.\n* Experience with contact\\-centre governance and enablement.\n* As this position is posted in several locations, we specify that bilingualism (French, English, both oral and written) is required **for Quebec only** for the frequent interactions with English and French\\-speaking colleagues or internal partners across Canada or worldwide.\n\n**Unique requirements**\n\nThis role may require travel between Client Solutions Centre locations in Toronto, Waterloo and Montreal. The frequency will depend on the employee’s primary work location and business needs.  \n\n* \n\n  \n\nThe Base Pay range is for the primary location for which the job is posted. It may vary depending on the work location of the successful candidate or other factors. In addition to Base Pay, eligible Sun Life employees participate in various incentive plans, payment under which is discretionary and subject to individual and company performance. Certain sales focused roles have sales incentive plans based on individual or group sales results.  \n\n\n\n  \n\nDiversity and inclusion have always been at the core of our values at Sun Life. A diverse workforce with wide persp",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "thebrightside@sunlife.com",
+      "ats": "Indeed",
+      "first_seen": "2026-11-17T01:59:10Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Chatters Limited Partnership",
+      "title": "Senior Director Category Management and Promotions",
+      "location": "Mississauga, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=194792c53463a72a",
+      "direct_url": "https://chatterslimitedpartnership.applytojob.com/apply/i39VKt1OHA/Senior-Director-Category-Management-And-Promotions?source=INDE&~",
+      "company_url": "https://ca.indeed.com/cmp/Chatters-Limited-Partnership",
+      "date_posted": "2026-11-16",
+      "description": "**At Chatters, beauty is more than what we do, it's how we connect, create, and build confidence every day. From professional hair services to must\\-have beauty products, we bring passion and expertise together to create inspiring spaces where customers feel welcome, empowered, and excited to explore their personal style. We are seeing a Senior Director of Category Management \\& Promotions to lead our team, drive strategic initiatives, and elevate our category and promotional strategies.**\n==============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================\n\n**Position Overview**  \n\nThe **Senior Director, Category Management and Promotions** will lead the category management function to deliver profitable growth across retail, salon, ecommerce and franchise channels. This role is accountable for category strategy, assortment performance, promotional strategy, sales and gross margin delivery, vendor partnerships and inventory productivity. **Leading a team of four Category Managers and one Category Assistant**, the Senior Director will be responsible to translate business objectives and customer insights into clear category plans, compelling promotional activity and disciplined execution. This leader determines where to invest, expand, rationalize or exit, ensuring the assortment remains relevant, competitive and commercially productive.  \n\nThe Senior Director will work closely with Marketing, Supply Chain, Finance, Ecommerce, Operations and Franchise Support to align priorities, resolve issues and deliver initiatives accurately and on time.  \n\n  \n\n**Key Responsibilities**  \n\n**1\\. Category Strategy \\& Financial Performance**\n\n* Own category sales and gross margin performance against plan, identifying risks early and implementing corrective actions.\n* Lead annual and seasonal category plans that define growth opportunities, brand priorities, assortment direction and sales, margin and inventory objectives.\n* Guide Category Managers in developing strategies grounded in customer needs, stylist insights, market trends, competitive activity and business performance.\n* Evaluate category, brand and SKU productivity to guide investment, space allocation, assortment expansion and rationalization.\n\n**2\\. Assortment Strategy \\& Planogram Execution*** Lead assortment decisions across channels and store formats, balancing customer demand, brand positioning, differentiation and profitability.\n* Establish a disciplined approach to new brand and product evaluation, including business cases, launch plans and performance reviews.\n* Oversee planogram strategy and reviews, ensuring product selection and space allocation reflect sales potential, margin contribution and inventory productivity.\n* Ensure discontinued and underperforming products have timely exit plans that minimize markdowns, write\\-offs and disruption to sales.\n\n**3\\. Inventory Productivity \\& Product Lifecycle Management*** Partner with Supply Chain to align purchasing, forecasts, replenishment and inventory allocation with category plans and demand.\n* Drive improvements in inventory turnover, sell\\-through and working capital productivity while supporting strong product availability.\n* Lead commercial action plans for excess, aging and discontinued inventory, including vendor returns, transfers, promotional support and markdown strategies.\n* Anticipate inventory risks and coordinate actions to protect sales, margin and the customer experience.\n\n**4\\. Promotional Strategy \\& Vendor Funding*** Establish promo schedule and events for the year to help meet sales and margin targets.\n* Work with vendors to develop compelling events and negotiate funding, promotional allowances, gifts, exclusive offers and other support.\n* Evaluate promotional opportunities for incremental sales, gross profit, inventory impact and customer value.\n* Partner with Marketing and Ecommerce to align offers, featured products, messaging and channel execution.\n* Ensure promotional commitments, forecasts, funding agreements and execution requirements are finalized within established deadlines.\n\n**5\\. Vendor Negotiation, Pricing \\& Margin Management*** Negotiate commercial terms, cost changes, rebates, promotional funding, returns and other support that strengthen overall profitability.\n* Challenge proposed cost increases and evaluate their impact on retail pricing, competitiveness, demand and margin.\n* Guide pricing decisions across the assortment, balancing customer value, competitive positioning and financial objectives.\n* Ensure vendor commitments are documented, communicated and fulfilled, with approved changes implemented accurately and on time.\n\n**6\\. Cross\\-Functional Leadership \\& Execution*** Serve as the central commercial partner connecting category priorities with Marketing, Supply Chain, Finance, Ecommerce, Operations and Franchise Support.\n* Establish shared plans with clear deliverables, owners, dependencies and deadlines for promotions, launches, planograms and assortment changes.\n* Resolve competing priorities and execution barriers, escalating decisions early when timelines or business results are at risk.\n\n**7\\. Team Leadership \\& Development*** Lead, coach and develop four Category Managers and one Category Assistant, building commercial judgment, analytical capability and negotiation skills.\n* Set clear objectives and hold the team accountable for business performance, quality of work and adherence to timelines.\n* Establish consistent standards for category plans, vendor reviews, promotional analysis and performance reporting.\n* Encoura",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "careers@chatters.ca",
+      "ats": "Indeed",
+      "first_seen": "2026-11-17T01:59:10Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Vuntut Gwitchin Government",
       "title": "Executive Director",
@@ -446,20 +545,27 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T01:01:11Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Mississauga",
       "geo_province": "ON",
       "geo_lat": 43.589,
       "geo_lon": -79.6441,
       "geo_distance_km": 23.9,
-      "geo_rank": 100239,
+      "geo_rank": 300239,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://click.appcast.io/t/odBwpDq-RzFnALkL4hXkqP_CRksyi8lTIXnjm0dfpsU=",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=2583961ecb66f45e"
+      ]
     },
     {
       "company": "Scotiabank",
@@ -678,7 +784,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://careers.shoppersdrugmart.ca/director-of-business-development-acquisitions/job/R2000733928",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=5fcd274e4d479c17"
+      ]
     },
     {
       "company": "OpenText",
@@ -1799,7 +1911,12 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.scotiabank.com/job/Toronto-Director%2C-Program-Management-ON-M5H1H1/608079117/",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=8430e8a051a53d5d"
+      ]
     },
     {
       "company": "Asana",
@@ -2624,6 +2741,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=b9b366cfb336387a",
         "https://www.glassdoor.ca/job-listing/j?jl=1010327530524"
       ]
     },
@@ -2826,6 +2944,7 @@
       "description": "At Gore Mutual, we’ve always set ourselves apart as a modern mutual that does good. Now, we’re proudly building on that legacy to transform our company—and our industry—for the better.\nEffective January 1, 2026, Gore has joined Beneva—the country’s largest mutual insurance company—as part of its Property & Casualty operations in Ontario and Western Canada. During 2026, Gore will combine its operations with Unica Insurance, Beneva’s Ontario-based subsidiary specializing in niche commercial and personal insurance, creating a stronger, more diversified mutual insurer with greater scale and long-term stability.\nEvery decision and investment remains anchored in long-term benefits to customers, members, and communities. Come join us.\nWe are looking for a Director, Data Engineering to lead a critical capability within Gore’s Enterprise Data & Analytics organization. You will lead the teams responsible for turning enterprise data into trusted, reusable data products and building the engineering capabilities that enable Data, Insights and AI across Gore.\nYou will shape how we build and manage data products, evolve our Data Engineering and MLOps capabilities, and ensure our Databricks and Azure ecosystem provides the foundation needed for Analytics, Data Science, GenAI and emerging AI solutions.\nThis is a visible leadership role for someone who combines strong technical depth with business understanding, people leadership and the ability to turn data and technology investments into meaningful business outcomes.\nWhat will you do?\n\nBuild Enterprise Data Products\n\nLead the development of trusted, reusable data products that combine business meaning, data quality and strong engineering to support operational, analytical, Data Science and AI use cases.\nEstablish and mature our data product discipline, partnering with business and technology leaders to turn high-value data needs into scalable capabilities.\nImprove the accessibility, consistency and value of enterprise data while reducing fragmentation and duplication.\n\nAdvance Data Engineering & AI Enablement\n\nLead and mature Data Engineering and MLOps capabilities, creating repeatable paths to move data, machine learning, GenAI and emerging AI solutions into secure, reliable production.\nRaise engineering standards across integration, APIs, orchestration, CI/CD, testing, observability, automation, data quality and production operations.\nPartner across Data, Analytics and technology teams to provide the engineering capabilities needed to scale Data Science and AI.\n\nEvolve Our Data Technology Foundation\n\nGuide the evolution of Gore’s Databricks and Azure ecosystem to provide a scalable, resilient, secure and cost-effective foundation for Data, Insights and AI.\nPartner with IT and Architecture to shape architecture patterns, integration approaches and technology standards.\nEvaluate emerging Data and AI technologies based on business value, scalability, security and long-term sustainability.\n\nBuild and Lead a Strong Engineering Organization\n\nLead, coach and develop high-performing teams across Data Products, Data Platforms, Data Engineering and MLOps.\nDevelop strong managers and technical leaders with clear accountability for products, engineering quality and production outcomes.\nBuild a culture of ownership, curiosity, continuous improvement and engineering excellence.\n\nProvide Visible Enterprise Leadership\n\nRepresent Data Engineering with senior business and technology leaders, vendors and strategic partners.\nTranslate complex technology decisions into clear business implications, trade-offs, risks and recommendations.\nProvide clear leadership across priorities, investments, delivery and significant operational challenges.\n\nWhat will you need to succeed?\n\nA degree in Computer Science, Engineering, Data or a related discipline, or equivalent relevant experience\nSignificant leadership experience across Data Engineering, data products, data platforms, MLOps or related enterprise technology functions.\nProven experience building enterprise data products and translating business needs into reusable, scalable data capabilities.\nProven experience building and operating enterprise-scale data platforms and production data workloads.\nDirect production experience with Databricks, including data engineering, lakehouse architecture, governance and optimization.\nStrong experience with Microsoft Azure and modern cloud data architectures.\nStrong technical knowledge of Python, SQL, APIs, data integration, orchestration and distributed processing.\nExperience with technologies such as Delta Lake, Unity Catalog and MLflow, or comparable capabilities.\nExperience with CI/CD, automated testing, observability, DevOps, DataOps and modern production engineering practices.\nPractical MLOps experience enabling Data Science, machine learning and AI workloads in production.\nExperience enabling GenAI or emerging AI capabilities in secure enterprise environments.\nA strong track record of coaching and developing engineers, managers and technical leaders.\nStrong executive presence and the ability to influence senior business, technology and external stakeholders.\n\nThis posting pertains to an existing vacancy that is actively being filled.\n\nAccessibility for applicants\n\nGore Mutual Insurance Company is committed to providing accommodations for people with disabilities during all phases of the recruiting process, including the application process.\nIf you require accommodation because of a disability, we will work with you to meet your needs. Contact us and a human resources representative will consult with you to determine an appropriate accommodation.\nShould you request an accommodation during the interview process, please notify your Talent Acquisition Consultant.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
       "first_seen": "2026-11-16T23:38:46Z",
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=2655e42086baf1cf",
         "https://www.glassdoor.ca/job-listing/j?jl=1010328038651",
         "https://www.glassdoor.ca/job-listing/j?jl=1010328038652",
         "https://www.linkedin.com/jobs/view/4490158420/"
@@ -2843,7 +2962,9 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://grnh.se/974c8ptq6us",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Edmonton International Airport",
@@ -6663,6 +6784,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=4a24ded3d56a91c8",
         "https://ca.indeed.com/viewjob?jk=65c716096a4bca63",
         "https://ca.indeed.com/viewjob?jk=d71d83cb4d473f1b",
         "https://www.glassdoor.ca/job-listing/j?jl=1010326052339",
