@@ -630,6 +630,56 @@ def fetch_generic_html(entry: dict) -> list[dict]:
     return out
 
 
+PHENOM_PAGE_SIZE = 50
+PHENOM_MAX_PAGES = 40  # 2,000 jobs; a site-scoped board is far smaller
+
+
+def fetch_phenom(entry: dict) -> list[dict]:
+    """Phenom People career sites (e.g. jobs-ca.pwc.com/ca/en/search-results).
+
+    The site's own /widgets search API returns every job the site lists, already
+    scoped to that site (PwC Canada's site lists only Canadian roles, while the
+    Workday board behind it is global). Country and language come from the
+    careers_url path (/ca/en/...).
+    """
+    parsed = urllib.parse.urlparse(entry.get("careers_url", ""))
+    parts = [part for part in parsed.path.split("/") if part]
+    if not parsed.netloc or len(parts) < 2:
+        raise SourceFailure("Phenom careers_url needs /<country>/<lang>/ in its path")
+    country, lang = parts[0], parts[1]
+    root = f"{parsed.scheme or 'https'}://{parsed.netloc}"
+    out, seen, offset = [], set(), 0
+    for _ in range(PHENOM_MAX_PAGES):
+        data = http_json(f"{root}/widgets", {
+            "lang": f"{lang}_{country}", "deviceType": "desktop", "country": country,
+            "pageName": "search-results", "ddoKey": "refineSearch", "sortBy": "", "subsearch": "",
+            "from": offset, "jobs": True, "counts": False, "all_fields": [], "size": PHENOM_PAGE_SIZE,
+            "clearAll": False, "jdsource": "facets", "isSliderEnable": False, "siteType": "external",
+            "keywords": "", "global": True, "selected_fields": {}, "locationData": {}})
+        refine = (data or {}).get("refineSearch") if isinstance(data, dict) else None
+        jobs = ((refine or {}).get("data") or {}).get("jobs")
+        if not isinstance(jobs, list):
+            raise SourceFailure("missing refineSearch.data.jobs array")
+        for item in jobs:
+            job_id = str(item.get("jobId") or item.get("reqId") or "")
+            if not job_id or job_id in seen:
+                continue
+            seen.add(job_id)
+            out.append(posting(entry, title=item.get("title"),
+                               url=f"{root}/{country}/{lang}/job/{job_id}",
+                               location=_location(item.get("city"), item.get("state"), item.get("country")),
+                               req_id=item.get("reqId") or job_id,
+                               date_posted=item.get("postedDate") or item.get("dateCreated") or "",
+                               description=item.get("descriptionTeaser", ""),
+                               remote="remote" in str(item.get("location", "")).lower(),
+                               department=item.get("category", "")))
+        offset += len(jobs)
+        total = refine.get("totalHits")
+        if not jobs or (isinstance(total, int) and offset >= total):
+            break
+    return out
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
@@ -647,6 +697,7 @@ FETCHERS = {
     "opencats": fetch_opencats,
     "ultipro": fetch_ultipro,
     "epam": fetch_epam,
+    "phenom": fetch_phenom,
 }
 
 

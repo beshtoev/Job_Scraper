@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 357,
-    "pollable": 226,
+    "companies": 358,
+    "pollable": 227,
     "unresolved": 131
   },
   "companies": [
@@ -4726,6 +4726,20 @@
       "ats": "lever",
       "slug": "veeva",
       "careers_url": "https://careers.veeva.com/job-search-results/?search=&remote=false&ts=&regions=Canada&office_locations=",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "PwC Canada",
+      "archetype": "D",
+      "archetype_source": "claude",
+      "ats": "phenom",
+      "slug": "jobs-ca.pwc.com",
+      "careers_url": "https://jobs-ca.pwc.com/ca/en/search-results",
       "source": "manual",
       "include": [],
       "exclude": [],
