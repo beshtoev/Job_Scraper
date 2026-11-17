@@ -1,28 +1,22 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 14:01 UTC*
+*Last updated: 2026-11-17 15:14 UTC*
 
-**5 new role(s)** since last run · 100 total in last 24h
+**4 new role(s)** since last run · 101 total in last 24h
 
-### [Director Talent Acquisition](https://www.glassdoor.ca/job-listing/j?jl=1010328522121) — Sonepar
-- 📍 **Location:** Surrey, Canada
+### [Directeur des Produits | Chief Product Officer](https://www.glassdoor.ca/job-listing/j?jl=1010328578026) — Power Factors
+- 📍 **Location:** Montreal, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Head of Internal Audit](https://www.glassdoor.ca/job-listing/j?jl=1010328514390) — Vaco LLC
-- 📍 **Location:** Raleigh, Canada
-- 💰 **Salary:** $130k–$150k/yr
+### [Director, Fleet & Assets](https://www.glassdoor.ca/job-listing/j?jl=1010327981578) — Voyago
+- 📍 **Location:** London, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010327922629) — The Jilly Box Inc
-- 📍 **Location:** Remote, Canada
-- 💰 **Salary:** $115k–$125k/yr
-- **Work mode:** Remote in-state eligible
+### [Director, Financial Planning, Analysis and Corporate Reporting/ Directeur.trice, Planification finan](https://www.glassdoor.ca/job-listing/j?jl=1010328549286) — Summit Search Group
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $132k–$165k/yr
 - 🕒 **Posted:** 2026-11-17
 
-### [Director of Retention Marketing](https://www.glassdoor.ca/job-listing/j?jl=1010327399101) — KittySpout
-- 📍 **Location:** Ottawa, Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010328514389) — Vaco LLC
-- 📍 **Location:** Calgary, Canada
-- 💰 **Salary:** $80–$110/hr
+### [Director, Treasury and Accounts Payable / Directeur.trice, Trésorerie et comptes créditeurs](https://www.glassdoor.ca/job-listing/j?jl=1010328552726) — Summit Search Group
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $132k–$165k/yr
 - 🕒 **Posted:** 2026-11-17
