@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-17 12:44 UTC",
+  "updated_at": "2026-11-17 12:53 UTC",
   "jobs": [
+    {
+      "company": "Sun Life",
+      "title": "AVP, Distribution Partnerships",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010328404020",
+      "date_posted": "2026-11-17",
+      "description": "Manage the development of marketing allowance plans for partner firms, ensuring effective utilization of resources to support business objectives.",
+      "salary": "$155k–$225k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-17T12:53:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "RED TIC",
       "title": "LEADER DEPLOIEMENT ERP (IT)",
@@ -319,7 +346,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010328434022"
+      ]
     },
     {
       "company": "Toptal",
@@ -5283,7 +5313,8 @@
       "archetype": "B",
       "first_seen": "2026-11-17T02:24:48Z",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-it-audit/12279707"
+        "https://builtintoronto.com/job/director-it-audit/12279707",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010328404005"
       ],
       "work_mode": "Hybrid",
       "work_mode_evidence": "description",
@@ -5298,7 +5329,8 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$135k–$195k/yr"
     },
     {
       "company": "Teladoc Health Canada",
@@ -8643,29 +8675,33 @@
       "url": "https://builtintoronto.com/job/creative-director-brand-experience/12280207",
       "direct_url": "https://builtintoronto.com/job/creative-director-brand-experience/12280207",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-11-17",
       "date_seen": "2026-11-17T02:24:39Z",
-      "description": "",
+      "description": "Bachelor's degree in Design, Marketing, Communications, Visual Arts, or a related field, or an equivalent combination of education and experience.",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-11-17T02:24:48Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010328382906"
+      ]
     },
     {
       "company": "JPMorganChase",
@@ -14498,14 +14534,14 @@
       "first_seen": "2026-11-17T01:01:11Z",
       "work_mode": "Remote",
       "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
       "geo_city": "Mississauga",
       "geo_province": "ON",
       "geo_lat": 43.589,
       "geo_lon": -79.6441,
       "geo_distance_km": 23.9,
-      "geo_rank": 300239,
+      "geo_rank": 100239,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -62264,5 +62300,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 2115
 }
