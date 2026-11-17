@@ -222,7 +222,10 @@ def fetch_bamboohr(entry: dict) -> list[dict]:
         raise SourceFailure("missing result array")
     out = []
     for item in data["result"]:
-        loc = item.get("location") or item.get("atsLocation") or {}
+        # "location" is often present but all-null while "atsLocation" holds the
+        # real place; take the first one that names anything.
+        loc = next((cand for cand in (item.get("location"), item.get("atsLocation"))
+                    if isinstance(cand, dict) and any(cand.values())), {})
         title, req_id = item.get("jobOpeningName", ""), item.get("id", "")
         description = ""
         if _title_relevant(title):

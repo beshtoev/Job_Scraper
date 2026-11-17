@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 359,
-    "pollable": 228,
+    "companies": 360,
+    "pollable": 229,
     "unresolved": 131
   },
   "companies": [
@@ -4754,6 +4754,20 @@
       "ats": "teamtailor",
       "slug": "careers.kindsight.io",
       "careers_url": "https://careers.kindsight.io/#jobs",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Intercept",
+      "archetype": "D",
+      "archetype_source": "claude",
+      "ats": "bamboohr",
+      "slug": "intercept",
+      "careers_url": "https://intercept.bamboohr.com/careers",
       "source": "manual",
       "include": [],
       "exclude": [],

@@ -174,3 +174,16 @@ def test_teamtailor_reads_json_feed_locations_and_remote(monkeypatch):
     assert job["req_id"] == "661424"
     assert job["date_posted"] == "2026-07-13"
     assert job["description"] == "Lead the team"
+
+
+def test_bamboohr_uses_ats_location_when_location_is_all_null(monkeypatch):
+    monkeypatch.setattr(portals, "_title_relevant", lambda title: False)
+    monkeypatch.setattr(portals, "http_json", lambda url, payload=None: {"result": [{
+        "id": "38", "jobOpeningName": "Director, Data & Technology", "departmentLabel": "Technology",
+        "location": {"city": None, "state": None},
+        "atsLocation": {"country": "Canada", "state": "Ontario", "province": None, "city": "Toronto"},
+        "isRemote": None,
+    }]})
+    [job] = portals.fetch_bamboohr(_entry("bamboohr", slug="intercept"))
+    assert job["location"] == "Toronto, Ontario, Canada"
+    assert job["url"] == "https://intercept.bamboohr.com/careers/38"
