@@ -41,6 +41,10 @@
       43.6214723,
       -79.6676624
     ],
+    "100 queen street west, toronto, on, canada": [
+      43.6536032,
+      -79.3840055
+    ],
     "15 york street, toronto, canada": [
       43.6424718,
       -79.380761
@@ -185,6 +189,10 @@
       43.6513398,
       -79.3817763
     ],
+    "41 industrial st, east york, on, canada": [
+      43.70811,
+      -79.35664
+    ],
     "4250 canada way, burnaby, canada": [
       49.2541493,
       -123.0099378
@@ -203,6 +211,10 @@
       -79.3824279
     ],
     "510 carnegie center dr., field, bc, canada": null,
+    "535 hornby street, vancouver, canada": [
+      49.285466,
+      -123.117782
+    ],
     "55 john st., toronto, on, canada": [
       43.6460763,
       -79.3887574
@@ -500,6 +512,10 @@
       45.4528545,
       -73.6442442
     ],
+    "morriston, on, canada": [
+      43.4482878,
+      -80.1171956
+    ],
     "nanaimo, bc, canada": [
       49.163877,
       -123.938122
@@ -539,6 +555,10 @@
     "parry sound, on, canada": [
       45.6675279,
       -80.1055284
+    ],
+    "pitt meadows, bc, canada": [
+      49.2207623,
+      -122.690153
     ],
     "pointe-claire, qc, canada": [
       45.4566767,
@@ -683,22 +703,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "100 queen street west, toronto, on, canada": [
-      43.6536032,
-      -79.3840055
-    ],
-    "535 hornby street, vancouver, canada": [
-      49.285466,
-      -123.117782
-    ],
-    "morriston, on, canada": [
-      43.4482878,
-      -80.1171956
-    ],
-    "pitt meadows, bc, canada": [
-      49.2207623,
-      -122.690153
     ]
   },
   "research": {}
