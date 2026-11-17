@@ -1,43 +1,37 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 21:47 UTC*
+*Last updated: 2026-11-17 22:23 UTC*
 
-**9 new role(s)** since last run · 10 total in last 1h
+**8 new role(s)** since last run · 16 total in last 1h
 
-### [Senior Director, Enterprise Architecture](https://www.linkedin.com/jobs/view/4491419723/) — Teranet Inc.
+### [Senior Director, Growth and Franchise Value](https://www.linkedin.com/jobs/view/4491753063/) — EQ Bank
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Technology, Campana Systems](https://www.linkedin.com/jobs/view/4491735659/) — Campana Systems
-- 📍 **Location:** Canada
-- 💰 **Salary:** $150,000 to $200,000
-- 🕒 **Posted:** 2026-11-17
-
-### [Senior Director, Project Management Office](https://www.linkedin.com/jobs/view/4491420833/) — Teranet Inc.
+### [Director, COO Group Productivity & Efficiency](https://www.linkedin.com/jobs/view/4491736873/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Director Technology Services - Competition ID: 4842](https://www.linkedin.com/jobs/view/4481277614/) — Kwantlen Polytechnic University
-- 📍 **Location:** Surrey, British Columbia, Canada
-- 💰 **Salary:** $114,071 to $174,909
-- 🕒 **Posted:** 2026-11-17
-
-### [Director of Engineering](https://www.linkedin.com/jobs/view/4490804733/) — TAIRC
-- 📍 **Location:** Regional Municipality of York, Ontario, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Regional Director - Dental Clinic Support](https://www.linkedin.com/jobs/view/4487489683/) — Passion Dental Group
+### [Director, Strategy and Transformation](https://www.linkedin.com/jobs/view/4491734920/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4488036160/) — GlassRatner Canada
-- 📍 **Location:** London, Ontario, Canada
+### [Head of Business Development](https://www.linkedin.com/jobs/view/4491425554/) — Ironproof
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Head of People Integration Planning](https://www.linkedin.com/jobs/view/4491436088/) — Harbour Air
-- 📍 **Location:** Vancouver, British Columbia, Canada
+### [Director, Capital Markets Operational Risk Controls and Governance](https://www.linkedin.com/jobs/view/4491738830/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [President and Vice Chancellor - Competition ID: 4711](https://www.linkedin.com/jobs/view/4436431450/) — Kwantlen Polytechnic University
-- 📍 **Location:** Surrey, British Columbia, Canada
-- 💰 **Salary:** $250,000 to $282,500
+### [Director of Customer Success](https://www.linkedin.com/jobs/view/4491437243/) — Supra ITS
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Asset Management](https://www.linkedin.com/jobs/view/4491443114/) — Olymel
+- 📍 **Location:** Boucherville, Quebec, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Integration & Separation](https://www.linkedin.com/jobs/view/4491427585/) — RSM Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $123,000 - $225,800
 - 🕒 **Posted:** 2026-11-17
