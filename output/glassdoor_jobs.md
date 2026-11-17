@@ -1,69 +1,23 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 17:40 UTC*
+*Last updated: 2026-11-17 18:44 UTC*
 
-**14 new role(s)** since last run · 108 total in last 24h
+**4 new role(s)** since last run · 105 total in last 24h
 
-### [Vice President, Business Development](https://www.glassdoor.ca/job-listing/j?jl=1010327769159) — Purpose Unlimited
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $140k–$180k/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Vice-President, Major Projects - Hydroelectricity](https://www.glassdoor.ca/job-listing/j?jl=1010327940770) — EBC Inc.
-- 📍 **Location:** Mississauga, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Area Vice President, Southwest Ontario](https://www.glassdoor.ca/job-listing/j?jl=1010327649866) — Securitas Security Services
-- 📍 **Location:** Mississauga, Canada
-- 🕒 **Posted:** 2026-11-16
-
-### [Vice President, Registry Operations](https://www.glassdoor.ca/job-listing/j?jl=1010327744249) — Information Services Corporation
-- 📍 **Location:** Regina, Canada
-- 💰 **Salary:** $168k/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Head of Digital](https://www.glassdoor.ca/job-listing/j?jl=1010328541474) — Y Media
-- 📍 **Location:** Mississauga, Canada
-- 💰 **Salary:** $5000–$10k/mo
-- 🕒 **Posted:** 2026-11-17
-
-### [Head of Internal Audit](https://www.glassdoor.ca/job-listing/j?jl=1010328514390) — Vaco LLC
-- 📍 **Location:** Raleigh, Canada
-- 💰 **Salary:** $130k–$150k/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010327922629) — The Jilly Box Inc
+### [Head of Special Projects, Merchandising](https://www.glassdoor.ca/job-listing/j?jl=1010328777645) — Fullscript
 - 📍 **Location:** Remote, Canada
-- 💰 **Salary:** $115k–$125k/yr
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Wealth Experience and Events Marketing](https://www.glassdoor.ca/job-listing/j?jl=1010328722083) — CIBC
-- 📍 **Location:** Toronto, Canada
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010328769209) — Gabby's
+- 📍 **Location:** East York, Canada
+- 💰 **Salary:** $95k–$125k/yr
 - 🕒 **Posted:** 2026-11-17
 
-### [Director of Sales](https://www.glassdoor.ca/job-listing/j?jl=1010328706625) — Sirius Personnel Inc.
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $150k–$165k/yr
+### [Chief Financial Officer (CFO) - Hybrid](https://www.glassdoor.ca/job-listing/j?jl=1010328650745) — ISAAC Instruments
+- 📍 **Location:** Saint-Bruno-de-Montarville, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Senior Director Software Development](https://www.glassdoor.ca/job-listing/j?jl=1010328716395) — National Bank of Canada
-- 📍 **Location:** Montreal, Canada
+### [Volunteer Director Brockville Food Bank](https://www.glassdoor.ca/job-listing/j?jl=1010328094999) — Brockville and Area Food Bank
+- 📍 **Location:** Brockville, Canada
+- 💰 **Salary:** $1/yr
 - 🕒 **Posted:** 2026-11-17
-
-### [Director, Media and Agency Management](https://www.glassdoor.ca/job-listing/j?jl=1010328722079) — CIBC
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Director, Treasury and Accounts Payable / Directeur.trice, Trésorerie et comptes créditeurs](https://www.glassdoor.ca/job-listing/j?jl=1010328552726) — Summit Search Group
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $132k–$165k/yr
-- 🕒 **Posted:** 2026-11-17
-
-### [Director, Product Management](https://www.glassdoor.ca/job-listing/j?jl=1010328672392) — OpenText
-- 📍 **Location:** Richmond Hill, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Associate Director – Defence and Space Systems](https://www.glassdoor.ca/job-listing/j?jl=1010327533430) — C-CORE
-- 📍 **Location:** St. John's, Canada
-- 💰 **Salary:** $123k–$153k/yr
-- 🕒 **Posted:** 2026-11-16

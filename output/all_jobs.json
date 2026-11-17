@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-17 18:32 UTC",
+  "updated_at": "2026-11-17 18:42 UTC",
   "jobs": [
+    {
+      "company": "Gabby's",
+      "title": "Director of Finance",
+      "location": "East York, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010328769209",
+      "date_posted": "2026-11-17",
+      "description": "Manage cash flow, intercompany balances, HST and CRA filings. CPA designation, or equivalent experience with a strong track record.",
+      "salary": "$95k–$125k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-17T18:42:01Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "East York",
+      "geo_province": "ON",
+      "geo_lat": 43.691,
+      "geo_lon": -79.328,
+      "geo_distance_km": 5.8,
+      "geo_rank": 58,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Brockville and Area Food Bank",
+      "title": "Volunteer Director Brockville Food Bank",
+      "location": "Brockville, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010328094999",
+      "date_posted": "2026-11-17",
+      "description": "We have 3 full time employees and dozens of volunteers who operate from our owned premises on Buell Street. If you believe in the Mission, Vision and Values of…",
+      "salary": "$1/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-17T18:42:01Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Brockville",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "SickKids Foundation",
       "title": "Associate Director, Data Engineer",
@@ -568,7 +622,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010328777645"
+      ]
     },
     {
       "company": "RBC",
@@ -1579,7 +1636,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010328650745"
+      ]
     },
     {
       "company": "SandboxAQ",
@@ -3084,16 +3144,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T06:56:57Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
       "geo_city": "",
       "geo_province": "",
       "geo_lat": null,
       "geo_lon": null,
       "geo_distance_km": null,
-      "geo_rank": 399999,
+      "geo_rank": 599999,
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
@@ -17019,16 +17079,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T01:01:11Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
       "geo_city": "Mississauga",
       "geo_province": "ON",
       "geo_lat": 43.589,
       "geo_lon": -79.6441,
       "geo_distance_km": 23.9,
-      "geo_rank": 300239,
+      "geo_rank": 100239,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -64822,6 +64882,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 2206
+  ]
 }
