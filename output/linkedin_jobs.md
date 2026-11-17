@@ -1,74 +1,78 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 15:31 UTC*
+*Last updated: 2026-11-17 16:02 UTC*
 
-**16 new role(s)** since last run · 20 total in last 1h
+**17 new role(s)** since last run · 31 total in last 1h
 
-### [Director and Practice Lead, Data Engineering](https://www.linkedin.com/jobs/view/4429362517/) — TELUS Digital
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $211,000.00/yr - CA$302,000.00/yr
+### [Director of Policies, Programs and Oversight](https://www.linkedin.com/jobs/view/4491167970/) — Government of Manitoba
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 💰 **Salary:** $98,310.00 - $124,694.00 per year
 - 🕒 **Posted:** 2026-11-17
 
-### [Senior Director - Customer Analytics, Data & AI](https://www.linkedin.com/jobs/view/4483251835/) — Pet Valu
-- 📍 **Location:** Markham, Ontario, Canada
-- 💰 **Salary:** $165,000.00 - $200,000.00 annually
+### [Chief Executive Officer - OLGCC](https://www.linkedin.com/jobs/view/4491185076/) — Onion Lake Cree Nation
+- 📍 **Location:** Onion Lake, Saskatchewan, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Director of Product Management, Financial Simulation and Modeling](https://www.linkedin.com/jobs/view/4417254135/) — SandboxAQ
+### [Practice Director, Microsoft Dynamics 365](https://www.linkedin.com/jobs/view/4490463476/) — Centrilogic
 - 📍 **Location:** Canada
-- 💰 **Salary:** $136,000.00/yr - CA$240,000.00/yr
 - 🕒 **Posted:** 2026-11-17
 
-### [Executive Director, Enterprise Architecture](https://www.linkedin.com/jobs/view/4491163958/) — CIBC Mellon
+### [Executive Vice President of Business Operations](https://www.linkedin.com/jobs/view/4491191017/) — The Kolkata Financial Services
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [director of operations](https://www.linkedin.com/jobs/view/4491156927/) — Garanti BBVA Teknoloji
+### [Digital Marketing Director](https://www.linkedin.com/jobs/view/4490463419/) — GMR School of Aviation
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4477417988/) — GlassRatner Canada
 - 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Head of Operations](https://www.linkedin.com/jobs/view/4490445907/) — Swiss Alliance against Neglected Tropical Diseases (SANTD)
+### [Product Director](https://www.linkedin.com/jobs/view/4491167936/) — gmp-in-industry
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Senior Director, Global Total Rewards (14-Month Contract)](https://www.linkedin.com/jobs/view/4483758720/) — 1Password
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Head of Solutions Engineering](https://www.linkedin.com/jobs/view/4483719321/) — Gorgias
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, Preconstruction and Sales Operations](https://www.linkedin.com/jobs/view/4491566990/) — Polar Racking Inc.
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $130,000.00/yr - CA$170,000.00/yr
 - 🕒 **Posted:** 2026-11-17
 
-### [Head of Product – AI Native](https://www.linkedin.com/jobs/view/4491172704/) — Pivot
+### [Director of AI Delivery](https://www.linkedin.com/jobs/view/4483765519/) — nesto
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Project Controls](https://www.linkedin.com/jobs/view/4401450925/) — Aecon Group Inc.
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, Credit Risk Modelling](https://www.linkedin.com/jobs/view/4491578554/) — FCC / FAC
+- 📍 **Location:** Regina, Saskatchewan, Canada
+- 💰 **Salary:** $140,280 - $189,780
 - 🕒 **Posted:** 2026-11-17
 
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4491179182/) — Bujou Group
+### [Director, Credit Risk Modelling](https://www.linkedin.com/jobs/view/4491583312/) — FCC / FAC
 - 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $140,280 - $189,780
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Financial Reporting](https://www.linkedin.com/jobs/view/4483256946/) — Clutch
+### [Director of Performance Marketing](https://www.linkedin.com/jobs/view/4438353502/) — Relay
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Business Processes](https://www.linkedin.com/jobs/view/4490460597/) — OpenText
+- 📍 **Location:** Richmond Hill, Ontario, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Credit Risk Modelling](https://www.linkedin.com/jobs/view/4491586224/) — FCC / FAC
+- 📍 **Location:** Kanata, Ontario, Canada
+- 💰 **Salary:** $140,280 - $189,780
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Credit Risk Modelling](https://www.linkedin.com/jobs/view/4491572698/) — FCC / FAC
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000 - $170,000 annually
+- 💰 **Salary:** $140,280 - $189,780
 - 🕒 **Posted:** 2026-11-17
 
-### [Assistant Director, Finance and Business Support](https://www.linkedin.com/jobs/view/4475878867/) — Fairmont Hotels & Resorts
-- 📍 **Location:** Lake Louise, Alberta, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [CA-Sales & Operations Director](https://www.linkedin.com/jobs/view/4491182189/) — LEON CYCLE
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Director IT Governance , Risk and Compliance](https://www.linkedin.com/jobs/view/4491181116/) — CIBC Mellon
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $126,000 - $176,000
-- 🕒 **Posted:** 2026-11-17
-
-### [President and Vice Chancellor - Competition ID: 4711](https://www.linkedin.com/jobs/view/4436431450/) — Kwantlen Polytechnic University
-- 📍 **Location:** Surrey, British Columbia, Canada
-- 💰 **Salary:** $250,000 to $282,500
-- 🕒 **Posted:** 2026-11-17
-
-### [Market Vice President, Commercial Banking - Edmonton](https://www.linkedin.com/jobs/view/4483252668/) — Scotiabank
-- 📍 **Location:** Edmonton, Alberta, Canada
+### [Chief Financial Officer (CFO) - Hybrid](https://www.linkedin.com/jobs/view/4490466248/) — ISAAC Instruments
+- 📍 **Location:** St-Bruno-de-Montarville, Quebec, Canada
 - 🕒 **Posted:** 2026-11-17
