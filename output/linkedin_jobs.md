@@ -1,18 +1,22 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 22:41 UTC*
+*Last updated: 2026-11-17 23:04 UTC*
 
-**3 new role(s)** since last run · 19 total in last 1h
+**4 new role(s)** since last run · 22 total in last 1h
 
-### [Director IT App Dev & Software Eng](https://www.linkedin.com/jobs/view/4490811534/) — Ontario Power Generation
-- 📍 **Location:** Oshawa, Ontario, Canada
-- 💰 **Salary:** $161,000.00 - $257,500.00
+### [Director, Technology & Transformation](https://www.linkedin.com/jobs/view/4491760433/) — Loblaw Companies Limited
+- 📍 **Location:** Brampton, Ontario, Canada
+- 💰 **Salary:** $128,000.00 - $176,000.00
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Revenue Operations](https://www.linkedin.com/jobs/view/4491750471/) — EarthDaily
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $145,000 to $190,000
+### [Head of Operations](https://www.linkedin.com/jobs/view/4490822190/) — UNESCO Chair in Cultural Heritage and Emerging Crime
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Director of Manufacturing Engineering](https://www.linkedin.com/jobs/view/4491442134/) — VIAVI Solutions
-- 📍 **Location:** Ottawa, Ontario, Canada
+### [Assistant Vice President, Technology Delivery, Investment Management](https://www.linkedin.com/jobs/view/4491448126/) — Canada Life
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Operational Excellence & Process Engineering](https://www.linkedin.com/jobs/view/4475730163/) — Compass Group Canada
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $110,000 to $140,000
 - 🕒 **Posted:** 2026-11-17
