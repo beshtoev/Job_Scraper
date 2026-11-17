@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-17 02:25 UTC",
+  "updated_at": "2026-11-17 02:47 UTC",
   "jobs": [
+    {
+      "company": "Haystack",
+      "title": "Customer Success Director",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490968901/",
+      "date_posted": "2026-11-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "This employer is an HR technology company seeking a Director of Customer Success Managers to own gross retention and net revenue retention across its named and higher-value accounts. Reporting to the VP of Global Customer Success, you will lead a global organisation of managers and customer success managers who protect the customer base, manage renewals and drive expansion.\n\nThe Role\n\n• Lead, hire and coach managers of customer success across multiple regions and time zones.\n• Set and manage coverage models by account tier, own the annual re-tiering of books and standardise tier-specific playbooks.\n• Oversee renewals across the portfolio and move legacy evergreen agreements to standard contractual terms.\n• Lead the weekly and monthly risk and churn review with revenue leadership, keeping real-time health signals and remediation plans for at-risk accounts.\n• Set rules of engagement with account management, and report retention, net revenue retention and portfolio risk to executive leadership.\n\nWhat You'll Need\n\n• 10+ years of experience in customer success or account management within B2B SaaS or global services, including 5+ years leading people managers.\n• A proven record of protecting and expanding a large customer book with measurable gains in gross and net retention.\n• Experience leading distributed teams across regions and designing tiered coverage models, playbooks and scalable operating frameworks.\n• Strong executive presence and fluency with Salesforce and customer health data platforms; HR tech, payroll or global expansion experience is preferred.\n\nWhat's On Offer\n\n• Annual fixed pay of CAD 140,000 – CAD 175,000, plus variable compensation tied to retention.\n• Medical, dental and vision insurance, spending accounts, generous paid parental leave and flexible time off.\n• A remote-first team, with a sabbatical after five years.\n\nApply via Haystack today!\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "first_seen": "2026-11-17T02:47:08Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "1Password",
       "title": "Senior Director, Corporate Counsel",
