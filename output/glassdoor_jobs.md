@@ -1,23 +1,44 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 18:44 UTC*
+*Last updated: 2026-11-17 19:54 UTC*
 
-**4 new role(s)** since last run · 105 total in last 24h
+**8 new role(s)** since last run · 111 total in last 24h
 
-### [Head of Special Projects, Merchandising](https://www.glassdoor.ca/job-listing/j?jl=1010328777645) — Fullscript
+### [VP, Product Fulfillment (Manufacturing)](https://www.glassdoor.ca/job-listing/j?jl=1010328892667) — Prime Management Group Inc.
+- 📍 **Location:** Aylmer, Canada
+- 💰 **Salary:** $160k–$200k/yr
+- 🕒 **Posted:** 2026-11-17
+
+### [VP Sales - BPO Industry](https://www.glassdoor.ca/job-listing/j?jl=1010328787340) — Bill Gosling Outsourcing Corp.
+- 📍 **Location:** Barrie, Canada
+- 💰 **Salary:** $180k–$200k/yr
+- 🕒 **Posted:** 2026-11-17
+
+### [Senior Director, Facilities Operations](https://www.glassdoor.ca/job-listing/j?jl=1010328935364) — University of Ottawa
+- 📍 **Location:** Ottawa, Canada
+- 💰 **Salary:** $162k–$202k/yr
+- 🕒 **Posted:** 2026-11-17
+
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010327922629) — The Jilly Box Inc
 - 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $115k–$125k/yr
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-17
 
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010328769209) — Gabby's
-- 📍 **Location:** East York, Canada
-- 💰 **Salary:** $95k–$125k/yr
+### [Director of Inuit Education](https://www.glassdoor.ca/job-listing/j?jl=1010328922616) — Pinnguaq Association
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $160k/yr
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-17
 
-### [Chief Financial Officer (CFO) - Hybrid](https://www.glassdoor.ca/job-listing/j?jl=1010328650745) — ISAAC Instruments
-- 📍 **Location:** Saint-Bruno-de-Montarville, Canada
+### [Audit Director, GBM](https://www.glassdoor.ca/job-listing/j?jl=1010328889595) — Scotiabank
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Volunteer Director Brockville Food Bank](https://www.glassdoor.ca/job-listing/j?jl=1010328094999) — Brockville and Area Food Bank
-- 📍 **Location:** Brockville, Canada
-- 💰 **Salary:** $1/yr
+### [Director, Credit Risk Modelling](https://www.glassdoor.ca/job-listing/j?jl=1010328892952) — Farm Credit Canada
+- 📍 **Location:** Regina, Canada
+- 💰 **Salary:** $140k–$190k/yr
+- 🕒 **Posted:** 2026-11-17
+
+### [Assistant Director of Resident Care - RAI Focus](https://www.glassdoor.ca/job-listing/j?jl=1010327955677) — Yee Hong Centre for Geriatric Care
+- 📍 **Location:** Scarborough, Canada
 - 🕒 **Posted:** 2026-11-17
