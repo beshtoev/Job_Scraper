@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-17 08:01 UTC",
+  "updated_at": "2026-11-17 08:22 UTC",
   "jobs": [
+    {
+      "company": "Tonic.ai",
+      "title": "Head of Security",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490409446/",
+      "date_posted": "2026-11-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs.\n\nTonic.ai has been de-identifying sensitive data since 2018, and hundreds of enterprises use our products, among them eBay, UnitedHealth Group, Qualcomm, Commonwealth Bank, and Mercor. Our customers hand us some of the most sensitive data they have: production databases, patient and financial records, and increasingly the email, chat, documents and code that AI labs want to train on.\n\nThat makes security part of what we sell, not just how we operate. Every deal runs through a security review, every customer asks how their data is protected, and the AI tools our own team uses every day raise new questions faster than most policies can keep up. We're looking for a Head of Security who can own all of it.\n\nWhy This Role, Why Now\n\nOur customers are getting bigger and more regulated, and our products now sit in the middle of AI training-data deals where the buyer, the seller and their lawyers all want proof that the data was handled safely. The bar for our own security program is rising with them. What keeps deals moving is a security leader who can pass the audit, answer the questionnaire, get on the call with a customer's CISO, and keep our own house in order at the same time.\n\nThat's this job. You'll be Tonic's senior security leader, working directly with our founders, engineering, DevOps, sales and legal. You'll own the program end to end, setting the strategy and doing much of the hands-on work yourself.\n\nWhat You'll Do\n\nOwn our SOC 2 program end to end: scoping, evidence collection, control remediation, and the auditor relationship.\nKeep our practices aligned with GDPR, HIPAA, and the security commitments in our customer contracts.\nPartner with engineering to build security into the development lifecycle, from design review through release, so products ship securely and on time.\nRun vulnerability management across our code, dependencies, and infrastructure, including pen tests and remediation tracking.\nSecure and govern our AWS, GCP, and Azure environments (IAM, configuration, logging, hardening), working closely with DevOps and backend engineers.\nAct as the customer-facing security expert. Own security questionnaires and RFP responses, and join sales calls when a customer wants to go deep.\nWork with legal on contract negotiations and security redlines.\nRun corporate security and IT: endpoint management and laptop hardening, EDR monitoring, and incident response.\nOwn identity and access management and vendor risk management across the company.\nSet and maintain policies and guardrails for employee AI use, including LLM platforms, coding assistants, and MCP connectors, covering access controls, data handling, and vendor review of AI providers.\nKeep those AI policies current as the landscape moves, so the team can adopt new tools quickly and safely.\n\nWhat We're Looking For\n\nSeveral years leading security at a B2B software company, with a record of building programs rather than inheriting them.\nSOC 2 audits owned end to end, plus working knowledge of GDPR and HIPAA.\nHands-on experience securing AWS, GCP, and Azure. You can read an IAM policy, spot a misconfiguration, and fix it with the engineer who owns it.\nExperience embedding security in the development lifecycle and running vulnerability management without becoming the team that slows everything down.\nComfort in front of customers. You can answer a 300-question security questionnaire, hold your own on a call with a customer's CISO, and work through redlines with legal.\nExperience running corporate security and IT: endpoint management, EDR, incident response, IAM, and vendor risk.\nAI-native workflow. You use AI tools yourself, understand where they create real risk, and can write guardrails that people actually follow.\nSelf-direction. You'll be the security leader, and you'll need to make sound, risk-based calls without waiting for someone to tell you what to do.\nClear communication with very different audiences, from an engineer debugging a finding to an executive weighing a tradeoff.\n\nNice to Haves\n\nExperience at a data infrastructure, privacy, or AI company.\nExperience selling into regulated industries such as healthcare and financial services.\nExperience with ISO 27001, HITRUST, or FedRAMP.\nExperience securing software that customers deploy in their own environments, alongside SaaS.\nExperience at an early-stage or fast-growing company.\n\nWhat Success Looks Like\n\nIn your first month, you'll learn our products, infrastructure, and current controls, take over the security questionnaire queue, and build a clear picture of our biggest risks. By the end of your first quarter, you'll own the SOC 2 program and auditor relationship, have a prioritized roadmap across product, cloud, and corporate security, and have AI-use policies in place that the team actually follows. After that, you'll help shape how security grows at Tonic, including whether and when we hire next.\n\nWhy Join\n\nYou'll own security at a company where security is part of the product, not a back-office function.\nYou'll work directly with our founders, with a real say in how the company handles risk and makes commitments to customers.\nYou'll get close to the AI training-data market and help set the bar for how sensitive data should be handled in it.\nYou'll shape AI governance in real time, at a company whose own business is making data safe for AI.\nCompetitive compensation and equity.\n\nBenefits We Offer\n\nCompetitive salary and equity\nUnlimited paid time off\n401k plan with employer contribution\nMedical, dental, and vision insurance\nGenerous parental leave policy\nRemote-friendly work environment\n\nTonic.ai is an equal opportunity employer. We're building a team that reflects the diversity of our users and the problems they're trying to solve.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "first_seen": "2026-11-17T08:22:56Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "EQ3",
+      "title": "Director of Product Development",
+      "location": "Winnipeg, Manitoba, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490401927/",
+      "date_posted": "2026-11-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Location: Winnipeg, Manitoba | On-site\n\nAbout EQ3\n\nEQ3 is a Canadian furniture company headquartered in Winnipeg, creating timeless furniture that brings together thoughtful design, quality materials and enduring value. Our business connects Canadian upholstery manufacturing, retail showrooms, e-commerce, and wholesale, giving our product development team a direct role in shaping our collections and the customer experience.\n\nThe opportunity\n\nWe are looking for a Director of Product Development to lead product strategy and development across the EQ3 portfolio. Reporting to the President, you will guide products from initial concept through development, launch and lifecycle management.\n\nYou will combine design judgment with commercial insight to build a cohesive assortment that delivers quality, comfort and value. Working closely with engineering, manufacturing, procurement, marketing, sales and operations, you will turn customer needs and business priorities into a clear product roadmap that supports profitable growth.\n\nThis position is based on-site in Winnipeg, Manitoba.\n\nWhat You'll Do\n\nLead product strategy, planning and lifecycle management across the EQ3 portfolio.\nDevelop and manage the product roadmap, setting priorities, milestones and deliverables for new products and improvements to existing collections.\nTranslate customer feedback, market research and business insights into clear development briefs and business cases.\nGuide decisions on materials, construction and product features, balancing design, quality, comfort, durability, cost and manufacturing feasibility.\nCollaborate across departments to coordinate product launches and meet financial and customer satisfaction goals.\nEvaluate assortment performance and identify opportunities to strengthen collections, improve margins, reduce unnecessary complexity and improve product availability.\nEngage with customers and channel partners to understand product performance and emerging needs.\nPresent product direction, progress, business cases and risks to the President and other stakeholders.\nLead and develop the product development team, establishing clear expectations and strong working relationships across the business.\n\nWhat You'll Bring\n\nA master's degree in product leadership, business administration, marketing, finance, economics or a related discipline, or equivalent professional experience.\nA proven record of developing and launching successful products, managing product lines and building cohesive product portfolios.\nStrong commercial judgment and the ability to translate customer research, market insights and performance data into practical decisions.\nDemonstrated leadership skills and the ability to influence and align teams across functions.\nExcellent communication, presentation and interpersonal skills.\nProficiency in Microsoft Word, Excel and PowerPoint.\nExperience in furniture, home furnishings or related consumer products is an asset, particularly in environments that connect design, materials and manufacturing.\n\nWorking at EQ3\n\nJoin a collaborative team where thoughtful design and practical problem-solving shape the work. You will have the opportunity to influence our product portfolio and work closely with colleagues across manufacturing and our customer-facing channels.\n\nWe Offer\n\nA comprehensive benefits package and support for work-life balance.\nEmployee discounts, wellness programs and group banking benefits.\nCommunity involvement, employee recognition and activities through the EQ3 Spirit Committee.\nOpportunities for professional growth and internal advancement.\n\nHow To Apply\n\nSubmit your résumé and cover letter using the Apply\n\nbutton on this posting.\n\nOpen: Until November 15, 2026.\n\nWe thank all applicants for their interest. Only candidates selected for an interview will be contacted.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFurniture and Home Furnishings Manufacturing",
+      "first_seen": "2026-11-17T08:22:56Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (MB)",
+      "geo_city": "Winnipeg",
+      "geo_province": "MB",
+      "geo_lat": 49.8951,
+      "geo_lon": -97.1384,
+      "geo_distance_km": 1510.5,
+      "geo_rank": 415105,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "The Clarice Smith Performing Arts Center",
       "title": "Executive Director, The Clarice Smith Performing Arts Center",
@@ -473,7 +523,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4491108226/"
+      ]
     },
     {
       "company": "Yee Hong Centre for Geriatric Care",
@@ -22860,7 +22913,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010323998595"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010323998595",
+        "https://www.linkedin.com/jobs/view/4490416311/"
       ]
     },
     {

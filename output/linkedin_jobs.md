@@ -1,13 +1,22 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 07:53 UTC*
+*Last updated: 2026-11-17 08:23 UTC*
 
-**2 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 7 total in last 1h
 
-### [Director Engineering, Systems & Digital](https://www.linkedin.com/jobs/view/4490408354/) — Sedgman
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Head of Security](https://www.linkedin.com/jobs/view/4490409446/) — Tonic.ai
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Executive Director, The Clarice Smith Performing Arts Center](https://www.linkedin.com/jobs/view/4490416132/) — The Clarice Smith Performing Arts Center
-- 📍 **Location:** Urban agglomeration of Montreal, Quebec, Canada
-- 💰 **Salary:** $235,000-$275,000
+### [Head of Finance](https://www.linkedin.com/jobs/view/4490416311/) — Gastronomous Technologies
+- 📍 **Location:** Oakville, Ontario, Canada
+- 💰 **Salary:** $110,000–$130,000
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Supply Chain Management](https://www.linkedin.com/jobs/view/4491108226/) — Calian Group
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $130K-$180K
+- 🕒 **Posted:** 2026-11-17
+
+### [Director of Product Development](https://www.linkedin.com/jobs/view/4490401927/) — EQ3
+- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 🕒 **Posted:** 2026-11-17
