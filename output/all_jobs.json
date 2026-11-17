@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-17 03:40 UTC",
+  "updated_at": "2026-11-17 03:57 UTC",
   "jobs": [
+    {
+      "company": "Haystack",
+      "title": "Head of Marketing",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4490988386/",
+      "date_posted": "2026-11-17",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "This employer is seeking a strategic leader to oversee marketing operations, data analytics, and performance measurement for a growing technology company. The role involves managing the marketing tech stack, defining attribution models, and partnering closely with revenue and finance teams to drive pipeline growth.\n\nThe Role\n\n• Lead and manage the marketing operations, automation, and analytics functions while scaling the team and technology stack\n• Own end-to-end attribution methodology, measurement, and reporting of marketing's pipeline contribution to executive leadership\n• Oversee core marketing systems, data hygiene, lead lifecycle management, and account-based marketing infrastructure\n• Manage the marketing technology budget, capacity modeling, and planning processes in alignment with sales and finance objectives\n\nWhat You'll Need\n\n• 10+ years of experience in marketing operations or analytics within B2B or enterprise software environments\n• Proven track record of managing teams, marketing tech stacks, and multi-touch attribution models\n• Hands-on expertise configuring and managing enterprise automation platforms and CRM systems like Marketo and Salesforce\n• Proficiency in SQL and business intelligence tools for data validation and executive reporting\n\nWhat's On Offer\n\n• Competitive salary\n• Comprehensive health and dental benefits, including mental health support\n• Generous paid time off and retirement savings plan matching\n• Professional development stipends and flexible work arrangements\n\nApply via Haystack today!\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "first_seen": "2026-11-17T03:57:58Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "GoodWork.ca",
       "title": "Executive Director",
