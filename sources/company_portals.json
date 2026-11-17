@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 356,
-    "pollable": 225,
+    "companies": 357,
+    "pollable": 226,
     "unresolved": 131
   },
   "companies": [
@@ -4712,6 +4712,20 @@
       "ats": "ashby",
       "slug": "mimica",
       "careers_url": "https://jobs.ashbyhq.com/mimica",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Veeva Systems",
+      "archetype": "A",
+      "archetype_source": "claude",
+      "ats": "lever",
+      "slug": "veeva",
+      "careers_url": "https://careers.veeva.com/job-search-results/?search=&remote=false&ts=&regions=Canada&office_locations=",
       "source": "manual",
       "include": [],
       "exclude": [],
