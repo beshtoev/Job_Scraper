@@ -1,40 +1,14 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 12:30 UTC*
+*Last updated: 2026-11-18 13:24 UTC*
 
-**8 new role(s)** since last run · 14 total in last 1h
+**2 new role(s)** since last run · 16 total in last 1h
 
-### [Director of Finance - Mining](https://www.linkedin.com/jobs/view/4492005715/) — CSG Talent
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Assistant Controller and Associate Director, Accounting & Reporting](https://www.linkedin.com/jobs/view/4482250280/) — Toronto Metropolitan University
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Senior Assistant Director of Finance and Accounting](https://www.linkedin.com/jobs/view/4484291258/) — Marriott International
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $106,000 - $139,000 Annually
-- 🕒 **Posted:** 2026-11-18
-
-### [Director of Asset Management](https://www.linkedin.com/jobs/view/4456392571/) — FirstService Residential Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000 to $160,000
-- 🕒 **Posted:** 2026-11-18
-
-### [Leader, Strategy & Performance](https://www.linkedin.com/jobs/view/4491831644/) — City of Calgary
+### [Managing Director](https://www.linkedin.com/jobs/view/4475585771/) — Raise
 - 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $115,627.00/yr - CA$144,534.00/yr
+- 💰 **Salary:** $175,000.00/yr - CA$200,000.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Senior Director, Data Architecture & Engineering](https://www.linkedin.com/jobs/view/4484241769/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Program Director - Transformation Initiatives, Client Segmentation](https://www.linkedin.com/jobs/view/4491494893/) — Alfa AI
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $90.00/hr - CA$102.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Senior Director, AI Architecture](https://www.linkedin.com/jobs/view/4484232949/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Lead Java Back - End Engineer - Vice President](https://www.linkedin.com/jobs/view/4491835413/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
 - 🕒 **Posted:** 2026-11-18
