@@ -25,9 +25,10 @@
       "queries": [
         "director",
         "vice president",
-        "head of"
+        "head of",
+        "chief"
       ],
-      "page_cap": 5
+      "page_cap": 40
     },
     "summit_search": {
       "enabled": true,
