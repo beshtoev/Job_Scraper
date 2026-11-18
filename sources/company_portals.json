@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 363,
-    "pollable": 232,
+    "companies": 364,
+    "pollable": 233,
     "unresolved": 131
   },
   "companies": [
@@ -4810,6 +4810,20 @@
       "ats": "bamboohr",
       "slug": "minga",
       "careers_url": "https://minga.bamboohr.com/careers",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Rockwell Automation",
+      "archetype": "D",
+      "archetype_source": "claude",
+      "ats": "workday",
+      "slug": "",
+      "careers_url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation?locationCountry=a30a87ed25634629aa6c3958aa2b91ea",
       "source": "manual",
       "include": [],
       "exclude": [],

@@ -187,3 +187,50 @@ def test_bamboohr_uses_ats_location_when_location_is_all_null(monkeypatch):
     [job] = portals.fetch_bamboohr(_entry("bamboohr", slug="intercept"))
     assert job["location"] == "Toronto, Ontario, Canada"
     assert job["url"] == "https://intercept.bamboohr.com/careers/38"
+
+
+def test_workday_filtered_link_pages_through_facets(monkeypatch):
+    calls = []
+
+    def fake_http_json(url, payload=None):
+        calls.append(payload)
+        if payload is None:
+            return {"jobPostingInfo": {}}
+        start = payload["offset"]
+        posts = [{"title": f"Analyst {n}", "externalPath": f"/job/Toronto/Analyst_{n}",
+                  "locationsText": "Toronto, Ontario, Canada", "bulletFields": [f"R{n}"]}
+                 for n in range(start, min(start + 20, 25))]
+        return {"total": 25, "jobPostings": posts}
+
+    monkeypatch.setattr(portals, "http_json", fake_http_json)
+    monkeypatch.setattr(portals, "_title_relevant", lambda title: False)
+    entry = {**_entry("workday"), "careers_url":
+             "https://acme.wd1.myworkdayjobs.com/en-US/External?locationCountry=abc123&utm_source=x"}
+    jobs = portals.fetch_workday(entry)
+    assert len(jobs) == 25
+    assert [c["appliedFacets"] for c in calls] == [{"locationCountry": ["abc123"]}] * 2
+    assert [c["offset"] for c in calls] == [0, 20]
+    assert all(c["searchText"] == "" for c in calls)
+
+
+def test_workday_unfiltered_link_keeps_keyword_search(monkeypatch):
+    calls = []
+    monkeypatch.setattr(portals, "http_json", lambda url, payload=None: calls.append(payload) or {"jobPostings": []})
+    portals.fetch_workday({**_entry("workday"), "careers_url": "https://acme.wd1.myworkdayjobs.com/en-US/External"})
+    assert [c["searchText"] for c in calls] == list(portals.WORKDAY_TERMS)
+    assert all(c["appliedFacets"] == {} for c in calls)
+
+
+def test_workday_multi_location_label_is_resolved_from_detail(monkeypatch):
+    def fake_http_json(url, payload=None):
+        if payload is None:
+            return {"jobPostingInfo": {"location": "Toronto, Ontario, Canada",
+                                       "additionalLocations": ["Milwaukee, Wisconsin, United States"]}}
+        return {"jobPostings": [{"title": "Engineer", "externalPath": "/job/x/Engineer_R1",
+                                 "locationsText": "2 Locations", "bulletFields": ["R1"]}]}
+
+    monkeypatch.setattr(portals, "http_json", fake_http_json)
+    monkeypatch.setattr(portals, "_title_relevant", lambda title: False)
+    monkeypatch.setattr(portals, "WORKDAY_TERMS", ("data",))
+    [job] = portals.fetch_workday({**_entry("workday"), "careers_url": "https://acme.wd1.myworkdayjobs.com/en-US/External"})
+    assert job["location"] == "Toronto, Ontario, Canada; Milwaukee, Wisconsin, United States"
