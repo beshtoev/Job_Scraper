@@ -331,3 +331,24 @@ def test_avature_feed_then_detail(monkeypatch):
     assert "Toronto" in job["location"]
     assert job["req_id"] == "4269"
     assert job["url"].endswith("/JobDetail/Client-Partner/4269")
+
+
+def test_icims_cards_and_paging(monkeypatch):
+    card = ('<li class="iCIMS_JobCardItem"><div class="row"><div class="col-xs-6 header left">'
+            '<span class="sr-only field-label">Job Locations</span> <span > CA-ON-Greater Toronto Area</span></div>'
+            '<div class="col-xs-6 header right"><span class="sr-only field-label">Posted Date</span>'
+            '<span title="11/17/2026 12:00 PM"> 1 day ago</span></div><div class="col-xs-12 title">'
+            '<a href="https://careers-x.icims.com/jobs/6382/director/job?in_iframe=1" class="iCIMS_Anchor" title="6382 - Director">'
+            '<span class="sr-only field-label">Job Title</span> <h3 > Director, Data Science</h3></a></div></div></li>')
+    pages = []
+
+    def fake(url):
+        pages.append(url)
+        return card if url.endswith("pr=0") else ""
+    monkeypatch.setattr(portals, "http_text", fake)
+    [job] = portals.fetch_icims({**_entry("icims"), "careers_url": "https://careers-x.icims.com/jobs/search"})
+    assert job["title"] == "Director, Data Science"
+    assert job["location"] == "Greater Toronto Area, ON, Canada"
+    assert job["url"] == "https://careers-x.icims.com/jobs/6382/director/job"
+    assert job["req_id"] == "6382" and job["date_posted"] == "2026-11-17"
+    assert len(pages) == 2
