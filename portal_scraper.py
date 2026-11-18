@@ -773,6 +773,103 @@ def fetch_teamtailor(entry: dict) -> list[dict]:
     return out
 
 
+SF_MAX_PAGES = 80  # per layout: 800 API jobs or 2,000 table rows
+# sortBy "date" is required: with no sort, page order is unstable and paging returns repeats
+# while skipping others (Deloitte 2026-11-18: 294 unique of 426 unsorted, 426 by date).
+SF_LOCALES = ("en_US", "fr_CA")  # Deloitte has 23 French-only postings; absent locales return 0
+_SF_PAYLOAD = {"locale": "en_US", "sortBy": "date", "keywords": "", "location": "", "facetFilters": {},
+               "brand": "", "skills": [], "categoryId": 0, "alertId": "", "rcmCandidateId": ""}
+
+
+def _sf_date(value: str) -> str:
+    value = re.sub(r"\s+", " ", str(value or "")).strip()
+    for fmt in ("%b %d, %Y", "%m/%d/%y", "%m/%d/%Y", "%d %b %Y"):
+        try:
+            return datetime.strptime(value, fmt).date().isoformat()
+        except ValueError:
+            continue
+    return ""
+
+
+def fetch_successfactors(entry: dict) -> list[dict]:
+    """SAP SuccessFactors career sites (jobs2web / RMK), e.g. jobs.canadalife.com.
+
+    Newer "Unify" sites answer POST /services/recruiting/v1/jobs (10 per page).
+    Classic sites return nothing there; their /search/ results table is paged
+    25 rows at a time instead. The RSS feed is not used: it holds only the
+    newest 20 jobs.
+    """
+    parsed = urllib.parse.urlparse(entry.get("careers_url", ""))
+    if not parsed.netloc:
+        raise SourceFailure("SuccessFactors careers_url needs a host")
+    root = f"{parsed.scheme or 'https'}://{parsed.netloc}"
+    out, seen = [], set()
+
+    api_used = False
+    for locale in SF_LOCALES:
+        payload = {**_SF_PAYLOAD, "locale": locale}
+        try:
+            first = http_json(f"{root}/services/recruiting/v1/jobs", {**payload, "pageNumber": 0})
+        except SourceFailure:
+            continue
+        total = first.get("totalJobs") if isinstance(first, dict) else None
+        if not (isinstance(total, int) and total > 0):
+            continue
+        api_used = True
+        data, page, got = first, 0, 0
+        while page < SF_MAX_PAGES:
+            results = data.get("jobSearchResult") or []
+            got += len(results)
+            for wrapped in results:
+                item = (wrapped or {}).get("response") or {}
+                job_id = str(item.get("id") or "")
+                if not job_id or job_id in seen:
+                    continue
+                seen.add(job_id)
+                places = [re.sub(r"<[^>]+>", "", str(p)).strip() for p in item.get("jobLocationShort") or []]
+                places += [str(p).strip() for p in item.get("mfield1") or []]
+                url_title = item.get("urlTitle") or item.get("unifiedUrlTitle") or "job"
+                out.append(posting(entry, title=item.get("unifiedStandardTitle") or item.get("title"),
+                                   url=f"{root}/job/{url_title}/{job_id}-{locale}/",
+                                   location="; ".join(dict.fromkeys(p for p in places if p)),
+                                   req_id=job_id, date_posted=_sf_date(item.get("unifiedStandardStart", "")),
+                                   remote=any("remote" in str(m).lower() for m in item.get("workModel") or [])))
+            page += 1
+            if not results or got >= total:
+                break
+            data = http_json(f"{root}/services/recruiting/v1/jobs", {**payload, "pageNumber": page})
+            if not isinstance(data, dict):
+                raise SourceFailure("jobs API returned no object")
+    if api_used:
+        return out
+
+    for page in range(SF_MAX_PAGES):
+        body = http_text(f"{root}/search/?q=&locale=en_US&startrow={page * 25}")
+        rows = re.findall(r'(?is)<tr class="data-row[^"]*">(.*?)</tr>', body)
+        if not rows and page == 0:
+            raise SourceFailure("no jobs API results and no search results table")
+        for row in rows:
+            link = re.search(r'(?is)<a[^>]+href="(/job/[^"]+)"[^>]*class="jobTitle-link"[^>]*>(.*?)</a>', row) or \
+                re.search(r'(?is)<a[^>]+class="jobTitle-link"[^>]+href="(/job/[^"]+)"[^>]*>(.*?)</a>', row)
+            if not link or link.group(1) in seen:
+                continue
+            seen.add(link.group(1))
+            loc = re.search(r'(?is)<span class="jobLocation">(.*?)</span>', row)
+            loc_text = re.sub(r"(?is)<small.*?</small>", "", loc.group(1)) if loc else ""
+            date = re.search(r'(?is)<span class="jobDate[^"]*">(.*?)</span>', row)
+            dept = re.search(r'(?is)<span class="jobDepartment">(.*?)</span>', row)
+            req = re.search(r"/(\d+)/?$", link.group(1))
+            out.append(posting(entry, title=html.unescape(strip_html(link.group(2))), url=root + link.group(1),
+                               location=html.unescape(strip_html(loc_text)), req_id=req.group(1) if req else "",
+                               date_posted=_sf_date(strip_html(date.group(1)) if date else ""),
+                               department=html.unescape(strip_html(dept.group(1))) if dept else ""))
+        total_match = re.search(r"(?is)of\s*<b>\s*([\d,]+)\s*</b>", body)
+        total_rows = int(total_match.group(1).replace(",", "")) if total_match else None
+        if len(rows) < 25 or (total_rows is not None and (page + 1) * 25 >= total_rows):
+            break
+    return out
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
@@ -792,6 +889,8 @@ FETCHERS = {
     "epam": fetch_epam,
     "phenom": fetch_phenom,
     "teamtailor": fetch_teamtailor,
+    "successfactors": fetch_successfactors,
+    "j2w": fetch_successfactors,
 }
 
 

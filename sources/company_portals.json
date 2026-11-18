@@ -54,8 +54,8 @@
   ],
   "counts": {
     "companies": 365,
-    "pollable": 235,
-    "unresolved": 130
+    "pollable": 236,
+    "unresolved": 129
   },
   "companies": [
     {
@@ -799,15 +799,15 @@
     {
       "company": "Canada Life",
       "archetype": "B",
-      "ats": "",
+      "ats": "successfactors",
       "slug": "",
-      "careers_url": "",
-      "source": "seed:banks",
+      "careers_url": "https://jobs.canadalife.com/go/All-Jobs/9170201/",
+      "source": "seed:banks; murat 2026-11-18",
       "include": [],
       "exclude": [],
       "searches": [],
-      "enabled": false,
-      "resolution_status": "unresolved"
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "Capco",

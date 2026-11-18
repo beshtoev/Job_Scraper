@@ -243,3 +243,45 @@ def test_ashby_joins_secondary_locations(monkeypatch):
     }]})
     [job] = portals.fetch_ashby(_entry("ashby"))
     assert job["location"] == "New York City; San Francisco; Toronto"
+
+
+def test_successfactors_api_pages_by_date_and_reads_both_locales(monkeypatch):
+    calls = []
+
+    def fake_http_json(url, payload=None):
+        calls.append(payload)
+        assert payload["sortBy"] == "date"
+        if payload["locale"] == "fr_CA":
+            rows = [{"id": "9", "unifiedStandardTitle": "Directeur", "urlTitle": "Directeur",
+                     "mfield1": ["Montreal, QC"], "unifiedStandardStart": "11/3/26"}] if payload["pageNumber"] == 0 else []
+            return {"totalJobs": 1, "jobSearchResult": [{"response": r} for r in rows]}
+        page = payload["pageNumber"]
+        rows = [{"id": str(n), "unifiedStandardTitle": f"Director {n}", "urlTitle": f"Director-{n}",
+                 "jobLocationShort": ["Toronto, ON, ON, CAN, M5C 3G7<br/>"], "mfield1": ["Ottawa, ON"],
+                 "unifiedStandardStart": "10/2/26"} for n in range(page * 2, min(page * 2 + 2, 3))]
+        return {"totalJobs": 3, "jobSearchResult": [{"response": r} for r in rows]}
+
+    monkeypatch.setattr(portals, "http_json", fake_http_json)
+    jobs = portals.fetch_successfactors({**_entry("successfactors"), "careers_url": "https://careers.example.test/"})
+    assert [j["title"] for j in jobs] == ["Director 0", "Director 1", "Director 2", "Directeur"]
+    assert jobs[0]["location"] == "Toronto, ON, ON, CAN, M5C 3G7; Ottawa, ON"
+    assert jobs[0]["url"] == "https://careers.example.test/job/Director-0/0-en_US/"
+    assert jobs[3]["url"] == "https://careers.example.test/job/Directeur/9-fr_CA/"
+    assert jobs[0]["date_posted"] == "2026-10-02"
+
+
+def test_successfactors_falls_back_to_search_table(monkeypatch):
+    row = ('<tr class="data-row"><td class="colTitle"><span class="jobTitle hidden-phone">'
+           '<a href="/job/Toronto-Lead-Analyst-ON/1414086433/" class="jobTitle-link">Lead Analyst</a></span></td>'
+           '<td class="colLocation"><span class="jobLocation"> Toronto, ON, CA <small class="nobr">+2 more&hellip;</small> </span></td>'
+           '<td class="colDate"><span class="jobDate">Nov 18, 2026 </span></td>'
+           '<td><span class="jobDepartment">Corporate Functions</span></td></tr>')
+    monkeypatch.setattr(portals, "http_json", lambda url, payload=None: {"totalJobs": 0, "jobSearchResult": []})
+    monkeypatch.setattr(portals, "http_text", lambda url: f"Results <b>1 - 1</b> of <b>1</b>{row}")
+    [job] = portals.fetch_successfactors({**_entry("successfactors"), "careers_url": "https://jobs.example.test/go/All-Jobs/1/"})
+    assert job["title"] == "Lead Analyst"
+    assert job["location"] == "Toronto, ON, CA"
+    assert job["url"] == "https://jobs.example.test/job/Toronto-Lead-Analyst-ON/1414086433/"
+    assert job["req_id"] == "1414086433"
+    assert job["date_posted"] == "2026-11-18"
+    assert job["department"] == "Corporate Functions"
