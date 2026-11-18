@@ -302,3 +302,32 @@ def test_successfactors_table_pages_by_rows_served(monkeypatch):
     jobs = portals.fetch_successfactors({**_entry("successfactors"), "careers_url": "https://careers.example.test/search/"})
     assert len(jobs) == 45
     assert starts == [0, 20, 40]
+
+
+def test_webflow_cards(monkeypatch):
+    card = ('<a href="/jobs/director-x" class="link-block"><div class="text-block-54">October 26, 2026</div>'
+            '<div class="text-block-56">Director, Data &amp; AI</div></div><div class="text-block-55">Hybrid (Toronto)</div></a>'
+            '<a href="/jobs/arch" class="link-block"><div class="text-block-54">October 2, 2026</div>'
+            '<div class="text-block-56">Architect</div><div class="text-block-55">Hybrid (Multiple Locations)</div></a>')
+    monkeypatch.setattr(portals, "http_text", lambda url: card)
+    jobs = portals.fetch_webflow({**_entry("webflow"), "careers_url": "https://www.example.test/get-hired",
+                                  "default_location": "Toronto, ON, Canada"})
+    assert [j["title"] for j in jobs] == ["Director, Data & AI", "Architect"]
+    assert jobs[0]["location"] == "Toronto (Hybrid)"
+    assert jobs[0]["url"] == "https://www.example.test/jobs/director-x"
+    assert jobs[0]["date_posted"] == "2026-10-26"
+    assert jobs[1]["location"] == "Toronto, ON, Canada (Hybrid)"
+
+
+def test_avature_feed_then_detail(monkeypatch):
+    feed = ('<rss><channel><link>https://jobs.example.test/careersmarketplace</link><item>'
+            '<link>https://jobs.example.test/careersmarketplace/JobDetail/Client-Partner/4269</link></item></channel></rss>')
+    detail = ('<script type="application/ld+json">{"@type":"JobPosting","title":"Client Partner, Director",'
+              '"datePosted":"2026-11-18","jobLocation":[{"@type":"Place","address":{"addressLocality":"Toronto",'
+              '"addressRegion":"ON","addressCountry":"Canada"}}]}</script>')
+    monkeypatch.setattr(portals, "http_text", lambda url: feed if "/feed/" in url else detail)
+    [job] = portals.fetch_avature({**_entry("avature"), "careers_url": "https://jobs.example.test/en_US/careersmarketplace/SearchJobs"})
+    assert job["title"] == "Client Partner, Director"
+    assert "Toronto" in job["location"]
+    assert job["req_id"] == "4269"
+    assert job["url"].endswith("/JobDetail/Client-Partner/4269")
