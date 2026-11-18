@@ -1,37 +1,33 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 09:51 UTC*
+*Last updated: 2026-11-18 10:26 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**7 new role(s)** since last run · 15 total in last 1h
 
-### [Director / Senior Director - Energy Practice](https://www.linkedin.com/jobs/view/4484425255/) — Alvarez & Marsal
-- 📍 **Location:** Calgary, Alberta, Canada
+### [Senior Director, Enterprise Execution](https://www.linkedin.com/jobs/view/4475817168/) — EQ Bank
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Senior Director, Commercial Finance & Performance Management (CFPM)](https://www.linkedin.com/jobs/view/4411946487/) — Finning
+### [Director, Demand Generation](https://www.linkedin.com/jobs/view/4474291746/) — Flywheel
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $130,000 - $150,000
+- 🕒 **Posted:** 2026-11-18
+
+### [Director, Subcontracts - Global Process Owner](https://www.linkedin.com/jobs/view/4476323669/) — Worley
 - 📍 **Location:** Edmonton, Alberta, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Digital Experience Platform, Web & eCommerce](https://www.linkedin.com/jobs/view/4467403120/) — Four Seasons
+### [Assistant Controller and Associate Director, Accounting & Reporting](https://www.linkedin.com/jobs/view/4482250280/) — Toronto Metropolitan University
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000 - $170,000
 - 🕒 **Posted:** 2026-11-18
 
-### [Director of Worldwide Marketing Data Strategy and Analytics](https://www.linkedin.com/jobs/view/4474633375/) — Autodesk
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Account Director, Franchise Markets](https://www.linkedin.com/jobs/view/4483697574/) — ALDO Group
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Enterprise Risk Management](https://www.linkedin.com/jobs/view/4482239836/) — goeasy Ltd.
+### [Director, Portfolio Management](https://www.linkedin.com/jobs/view/4490875419/) — National Bank of Canada
 - 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Head of PCI DSS Advisory | Nov 18. 2026](https://www.linkedin.com/jobs/view/4491811244/) — OBRYN GUARD Inc.
+### [Vice-President Global Transaction Banking Sales](https://www.linkedin.com/jobs/view/4490879381/) — National Bank of Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director of Worldwide Marketing Data Strategy and Analytics](https://www.linkedin.com/jobs/view/4474632380/) — Autodesk
-- 📍 **Location:** Toronto, Ontario, Canada
+### [AVP - Commercial & Private Banking 1859](https://www.linkedin.com/jobs/view/4490862943/) — National Bank of Canada
+- 📍 **Location:** Oakville, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
