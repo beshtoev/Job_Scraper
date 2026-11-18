@@ -1,70 +1,62 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 15:05 UTC*
+*Last updated: 2026-11-18 16:11 UTC*
 
-**15 new role(s)** since last run · 16 total in last 1h
+**13 new role(s)** since last run · 22 total in last 1h
 
-### [Director, Deposits Engineering](https://www.linkedin.com/jobs/view/4474616801/) — Scotiabank
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director and Practice Lead, Data Engineering](https://www.linkedin.com/jobs/view/4429364476/) — TELUS Digital
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $211,000.00/yr - CA$302,000.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Business Systems](https://www.linkedin.com/jobs/view/4492026770/) — Aurora Solar
-- 📍 **Location:** Canada
-- 💰 **Salary:** $160,900.00/yr - CA$225,200.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Head of Revenue Ops & Marketing](https://www.linkedin.com/jobs/view/4491846484/) — Wrapped Media
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Internal Controls over Financial Reporting (ICOFR)](https://www.linkedin.com/jobs/view/4469062477/) — Canada Life
+### [Director, Technology (Western Advancement)](https://www.linkedin.com/jobs/view/4492047176/) — Western University
 - 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $128,200 - $178,200 annually
+- 💰 **Salary:** $100,000 - $125,000 per annum
 - 🕒 **Posted:** 2026-11-18
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4492031673/) — Halliwell
+### [Director, Design](https://www.linkedin.com/jobs/view/4473675503/) — OpenText
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Directeur Pharmacométricien (Director Pharmacometrician)](https://www.linkedin.com/jobs/view/4458285812/) — Allucent
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Director of Finance](https://www.linkedin.com/jobs/view/4492038662/) — Drake International
+- 📍 **Location:** Hamilton, Ontario, Canada
+- 💰 **Salary:** $130,000 - $170,000
+- 🕒 **Posted:** 2026-11-18
+
+### [Director Corporate Finance](https://www.linkedin.com/jobs/view/4492043392/) — BJRC Recruiting
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director Search Engine Optimization](https://www.linkedin.com/jobs/view/4491843538/) — Robert Half
-- 📍 **Location:** North York, Ontario, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$165,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Client Onboarding & Implementation Specialist, AVP](https://www.linkedin.com/jobs/view/4483847239/) — Morgan Stanley
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Deal Desk & Pricing Strategy](https://www.linkedin.com/jobs/view/4475162175/) — Varicent
+### [Interim Chief Financial Officer (CFO)](https://www.linkedin.com/jobs/view/4492037655/) — xNorth™ - Executive Leadership Solutions
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Regional Director - Quebec & Atlantic Canada](https://www.linkedin.com/jobs/view/4473689569/) — Groupe Dynamite
-- 📍 **Location:** Mont-Royal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4483149373/) — CarltonOne
-- 📍 **Location:** Markham, Ontario, Canada
-- 💰 **Salary:** $115,000 to $135,000
-- 🕒 **Posted:** 2026-11-18
-
-### [VP Enterprise Marketing](https://www.linkedin.com/jobs/view/4474792056/) — Mentimeter
+### [Chief Restructuring Officer](https://www.linkedin.com/jobs/view/4492033910/) — xNorth™ - Executive Leadership Solutions
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $226,000–$303,000
 - 🕒 **Posted:** 2026-11-18
 
-### [Director of Field Operations](https://www.linkedin.com/jobs/view/4492038457/) — Fathom Talent Group
+### [Vice President Vertriebsmarketing](https://www.linkedin.com/jobs/view/4490899636/) — Aquatic Capital Management.
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Vice-President, Data Centre Operations and Development](https://www.linkedin.com/jobs/view/4492030980/) — Phase Consulting
 - 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $120.00/yr - CA$200.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Vice President Equipment & Rental Operations](https://www.linkedin.com/jobs/view/4458524654/) — Graham
+### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4491861098/) — Vaco by Highspring
 - 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $90.00/hr - CA$110.00/hr
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Player Experience Research](https://www.linkedin.com/jobs/view/4383208641/) — Affinity
-- 📍 **Location:** Burnaby, British Columbia, Canada
+### [Executive Director](https://www.linkedin.com/jobs/view/4492047247/) — Queen's University
+- 📍 **Location:** Kingston, Ontario, Canada
+- 💰 **Salary:** $126,000.00/yr - CA$173,000.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [President](https://www.linkedin.com/jobs/view/4491841861/) — HR Solutions
-- 📍 **Location:** Niagara, Ontario, Canada
+### [SAP Customer Solution Director](https://www.linkedin.com/jobs/view/4491845861/) — Talan
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $170,000.00/yr - CA$220,000.00/yr
 - 🕒 **Posted:** 2026-11-18
