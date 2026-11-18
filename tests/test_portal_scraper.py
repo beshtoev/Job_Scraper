@@ -234,3 +234,12 @@ def test_workday_multi_location_label_is_resolved_from_detail(monkeypatch):
     monkeypatch.setattr(portals, "WORKDAY_TERMS", ("data",))
     [job] = portals.fetch_workday({**_entry("workday"), "careers_url": "https://acme.wd1.myworkdayjobs.com/en-US/External"})
     assert job["location"] == "Toronto, Ontario, Canada; Milwaukee, Wisconsin, United States"
+
+
+def test_ashby_joins_secondary_locations(monkeypatch):
+    monkeypatch.setattr(portals, "http_json", lambda url, payload=None: {"jobs": [{
+        "id": "a1", "title": "Director of Governance", "jobUrl": "https://jobs.ashbyhq.com/x/a1",
+        "location": "New York City", "secondaryLocations": [{"location": "San Francisco"}, {"location": "Toronto"}],
+    }]})
+    [job] = portals.fetch_ashby(_entry("ashby"))
+    assert job["location"] == "New York City; San Francisco; Toronto"

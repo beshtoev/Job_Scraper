@@ -129,3 +129,20 @@ def test_full_canadian_province_name_counts_as_canada(location, monkeypatch):
 def test_us_new_brunswick_is_not_mistaken_for_the_province(monkeypatch):
     monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
     assert not is_target_location("New Brunswick, NJ")
+
+
+@pytest.mark.parametrize("location", [
+    "New York City; Toronto",
+    "Toronto, Ontario, Canada; Milwaukee, Wisconsin, United States",
+    "San Francisco, California; Remote, Canada",
+])
+def test_multi_site_job_is_in_scope_when_any_place_is(location, monkeypatch):
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
+    monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["toronto"])
+    assert is_target_location(location)
+
+
+def test_multi_site_job_with_no_target_place_stays_out(monkeypatch):
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
+    monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["toronto"])
+    assert not is_target_location("New York City; Austin, Texas; London, United Kingdom")

@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 364,
-    "pollable": 233,
+    "companies": 365,
+    "pollable": 234,
     "unresolved": 131
   },
   "companies": [
@@ -4824,6 +4824,20 @@
       "ats": "workday",
       "slug": "",
       "careers_url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation?locationCountry=a30a87ed25634629aa6c3958aa2b91ea",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "EliseAI",
+      "archetype": "A",
+      "archetype_source": "claude",
+      "ats": "ashby",
+      "slug": "EliseAI",
+      "careers_url": "https://jobs.ashbyhq.com/EliseAI",
       "source": "manual",
       "include": [],
       "exclude": [],
