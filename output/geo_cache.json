@@ -561,6 +561,10 @@
       46.8033114,
       -71.1778792
     ],
+    "m5c 3g7; toronto, on, canada": [
+      43.6525771,
+      -79.3790938
+    ],
     "maskwacis, ab, canada": [
       52.8345485,
       -113.450681
@@ -618,6 +622,14 @@
       67.571002,
       -139.825745
     ],
+    "on; halifax, ns, canada": [
+      44.6745854,
+      -63.6711714
+    ],
+    "on; toronto, on, canada": [
+      43.6434338,
+      -79.3790777
+    ],
     "on; vancouver, bc, canada": [
       49.2810379,
       -123.132738
@@ -625,6 +637,10 @@
     "onion lake, sk, canada": [
       53.7173204,
       -110.0002845
+    ],
+    "ontario;   - vancouver, bc, canada": [
+      49.2285599,
+      -123.1058581
     ],
     "ontario; montreal, qc, canada": [
       45.5334948,
@@ -663,6 +679,7 @@
       54.3126572,
       -130.32549
     ],
+    "qc; toronto, on, canada": null,
     "quebec; waterloo, on, canada": null,
     "queens, pe, canada": [
       46.3172856,
