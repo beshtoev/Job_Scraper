@@ -1,52 +1,61 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-17 21:32 UTC*
+*Last updated: 2026-11-18 00:56 UTC*
 
-**14 new role(s)** since last run · 676 total in current portal openings
+**16 new role(s)** since last run · 681 total in current portal openings
 
-### [Associate Director, Investment Platform (Contract)](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Associate-Director--Investment-Platform--Contract-_R260020316) — BMO
-- 📍 **Location:** Toronto, ON, CAN
+### [Regional Director Investments, Private Investment Counsel](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/MONTREAL-QC-CAN/Regional-Director-Investments--Private-Investment-Counsel_R260024418) — BMO
+- 📍 **Location:** MONTREAL, QC, CAN
 - 🕒 **Posted:** 2026-11-17
 
-### [Senior Director, Product Owner, Simplii and Insurance Data](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Senior-Director--Product-Owner--Simplii-and-Insurance-Data_2623458) — CIBC
-- 📍 **Location:** Toronto, ON
+### [Senior Director, Growth and Franchise Value](https://jobs.lever.co/eqbank/4b4b6944-de17-4e1e-8606-fbc1eba4b849) — EQ Bank
+- 📍 **Location:** Toronto
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Risk Management](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Director--Risk-Management_R-293898) — Mastercard
+### [Director, Data Engineering](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Director--Data-Engineering_JR0157295-1) — Mckesson
+- 📍 **Location:** CAN, ON, Mississauga
+- 🕒 **Posted:** 2026-11-17
+
+### [Director Cybersecurity Program Management](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5483996008) — Momentumfinancialservicesgroup
 - 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Capital Markets Operational Risk Controls and Governance](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Capital-Markets-Operational-Risk-Controls-and-Governance_R-0000192706-1) — RBC
+### [Director, Cash Management](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Cash-Management_R-0000191904) — RBC
 - 📍 **Location:** TORONTO, Ontario, Canada
 - 🕒 **Posted:** 2026-11-17
 
-### [Transfer Pricing - Financial Transactions, Director](https://jobs-ca.pwc.com/ca/en/job/745667WD) — PwC Canada
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director Lead Solution Architecture](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director-Lead-Solution-Architecture_R-0000192762-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Business Technology & Transformation](https://jobs.lever.co/nacsworld/8b1e99b3-93c0-4129-a1e6-8c6c08ed4c19) — NAC Constructors (North America Construction)
+- 📍 **Location:** Morriston, ON
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-07-24
+- 🕒 **Posted:** 2026-11-12
 
-### [Director, Credit Risk Modelling](https://builtintoronto.com/job/director-credit-risk-modelling/12295847) — FCC - FAC
+### [Director Cybersecurity Program Management](https://builtintoronto.com/job/director-cybersecurity-program-management/12301371) — Momentum Financial Services Group
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Wealth Experience and Events Marketing](https://builtintoronto.com/job/director-wealth-experience-and-events-marketing/12295362) — CIBC
+### [Director of Brand Marketing](https://builtintoronto.com/job/director-brand-marketing/12299855) — REBEL
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Media and Agency Management](https://builtintoronto.com/job/director-media-and-agency-management/12295353) — CIBC
+### [Senior Director, Growth and Franchise Value](https://builtintoronto.com/job/senior-director-growth-and-franchise-value/12298756) — EQ Bank | Equitable Bank
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Corporate and Commercial Credit Risk](https://builtintoronto.com/job/director-corporate-and-commercial-credit-risk/12294420) — BMO
+### [Director, Portfolio Management](https://builtintoronto.com/job/director-portfolio-management/12297754) — AstraZeneca
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Associate Director, Investment Platform (Contract)](https://builtintoronto.com/job/associate-director-investment-platform-contract/10176917) — BMO
+### [Senior Director, Engineering - ICM](https://builtintoronto.com/job/senior-director-engineering-icm/12155615) — CaptivateIQ
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Technical Director, Track Design:](https://builtintoronto.com/job/technical-director-track-design/12293985) — Arcadis
+### [VP, Enterprise Sales](https://builtintoronto.com/job/vp-enterprise-sales/12300595) — CoLab Software
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Lead Java Back - End Engineer - Vice President](https://builtintoronto.com/job/lead-java-back-end-engineer-vice-president/12294554) — Citi
+### [Head of Business Systems Product & Transformation](https://builtintoronto.com/job/head-business-systems-product-transformation/12301333) — Rockwell Automation
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Java Tech Lead - Vice President](https://builtintoronto.com/job/senior-java-tech-lead-vice-president/12049039) — Citigroup
+### [Head of Enterprise Sales](https://builtintoronto.com/job/head-enterprise-sales/12302061) — Jonas Software
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Head of Growth Marketing [REMOTE]](https://builtintoronto.com/job/head-growth-marketing-remote/10982052) — Upbound
+### [Head of Accounts](https://builtintoronto.com/job/head-accounts/12300399) — Orium
 - 📍 **Location:** Toronto, Ontario, Canada
