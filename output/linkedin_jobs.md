@@ -1,64 +1,40 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 19:09 UTC*
+*Last updated: 2026-11-18 19:46 UTC*
 
-**14 new role(s)** since last run · 32 total in last 1h
+**8 new role(s)** since last run · 20 total in last 1h
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4491417450/) — Elmwood Residences Inc
-- 📍 **Location:** Saskatoon, Saskatchewan, Canada
+### [Vice President, Digital Platforms](https://www.linkedin.com/jobs/view/4492054157/) — Great Gulf
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $180,000 - $225,000
 - 🕒 **Posted:** 2026-11-18
 
-### [Vice President, Professional Services – ERP, CRM & AI](https://www.linkedin.com/jobs/view/4491856811/) — The Planet Group
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $250,000.00/yr - CA$280,000.00/yr
+### [Chief Technology Officer – Global Fintech (Stablecoin Neobank)](https://www.linkedin.com/jobs/view/4491863954/) — Augmented
+- 📍 **Location:** Greater Toronto and Hamilton Area, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Strategy Planning & Integration](https://www.linkedin.com/jobs/view/4489615858/) — Canadian Blood Services
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $152,500 - $179,400
+### [SOX Director - ITGC](https://www.linkedin.com/jobs/view/4491854698/) — Kraken
+- 📍 **Location:** Canada
+- 💰 **Salary:** $116,600.00/yr - $259,700.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Field Operations - Operations Director](https://www.linkedin.com/jobs/view/4492083587/) — VetStrategy
-- 📍 **Location:** Hamilton, Ontario, Canada
+### [Director, Risk Management](https://www.linkedin.com/jobs/view/4478621834/) — Mastercard
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $138,000 - $221,000
 - 🕒 **Posted:** 2026-11-18
 
-### [Vice President of Business Development](https://www.linkedin.com/jobs/view/4470479352/) — Howard Shockey & Sons, Inc.
-- 📍 **Location:** Winchester, Ontario, Canada
+### [Director, Data Engineering](https://www.linkedin.com/jobs/view/4492072335/) — McKesson
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $126,900 - $169,200
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Cost and Commercial Management (Real Estate)](https://www.linkedin.com/jobs/view/4474668620/) — Turner & Townsend
+### [Associate Director, Operational Risk & Enterprise Crisis Management](https://www.linkedin.com/jobs/view/4476343283/) — HOOPP (Healthcare of Ontario Pension Plan)
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director](https://www.linkedin.com/jobs/view/4491323502/) — Desjardins
-- 📍 **Location:** Québec, Quebec, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director](https://www.linkedin.com/jobs/view/4491332150/) — Desjardins
-- 📍 **Location:** Montréal-Ouest, Quebec, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Field Operations - Operations Director](https://www.linkedin.com/jobs/view/4492091121/) — VetStrategy
-- 📍 **Location:** Greater Toronto Area, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Agency Chief Financial Officer](https://www.linkedin.com/jobs/view/4491332116/) — Minnesota Direct Care and Treatment
-- 📍 **Location:** St.-Paul, New Brunswick, Canada
-- 💰 **Salary:** $53.66 - $76.98
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Global Investment Banking](https://www.linkedin.com/jobs/view/4457023705/) — CIBC
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Chief Administrative Officer (CAO) - Town of Lynn Lake](https://www.linkedin.com/jobs/view/4491860872/) — Harris Leadership Strategies
-- 📍 **Location:** Lynn Lake, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Vice President, Technology Enablement](https://www.linkedin.com/jobs/view/4483679698/) — Klick
+### [Software Engineer, Full-Stack Applications (Associate Director)- AI Fluent](https://www.linkedin.com/jobs/view/4483688019/) — Fitch Ratings
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Strategic Account Director](https://www.linkedin.com/jobs/view/4483802121/) — Zeta Global
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000 - $180,000
+### [Director, Product Design](https://www.linkedin.com/jobs/view/4492066274/) — Replicant
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-18

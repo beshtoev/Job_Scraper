@@ -483,6 +483,7 @@
       45.3990409,
       -72.721834
     ],
+    "greater toronto and hamilton area, on, canada": null,
     "greater vancouver, bc, canada": [
       49.2618661,
       -122.9555509
@@ -551,6 +552,10 @@
     "longueuil, qc, canada": [
       45.521906,
       -73.4644578
+    ],
+    "lynn lake, mb, canada": [
+      56.852727,
+      -101.04538
     ],
     "lévis, qc, canada": [
       46.8033114,
@@ -799,6 +804,10 @@
       52.968492,
       -113.36792
     ],
+    "winchester, on, canada": [
+      45.0928774,
+      -75.35299
+    ],
     "woodstock, on, canada": [
       43.1301111,
       -80.7562977
@@ -806,14 +815,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "lynn lake, mb, canada": [
-      56.852727,
-      -101.04538
-    ],
-    "winchester, on, canada": [
-      45.0928774,
-      -75.35299
     ]
   },
   "research": {}
