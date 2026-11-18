@@ -675,6 +675,99 @@ def fetch_generic_html(entry: dict) -> list[dict]:
     return out
 
 
+WEBFLOW_DEFAULT_CLASSES = {"date": "text-block-54", "title": "text-block-56", "location": "text-block-55"}
+
+
+def fetch_webflow(entry: dict) -> list[dict]:
+    """Webflow CMS job board: one <a href="/jobs/<slug>"> card per role, text in classed divs.
+
+    Built for Toast (trytoast.ca/get-hired), which publishes no feed and no JobPosting JSON-LD.
+    Class names can be overridden with "webflow": {"title": ..., "date": ..., "location": ...}.
+    "Hybrid (Toronto)" becomes "Toronto (Hybrid)"; "Hybrid (Multiple Locations)" falls back to
+    the entry's "default_location" (default "Canada") so the location filter can still judge it.
+    """
+    classes = {**WEBFLOW_DEFAULT_CLASSES, **(entry.get("webflow") or {})}
+    url = entry["careers_url"]
+    root = re.match(r"https?://[^/]+", url).group(0)
+    body = http_text(url)
+    out, seen = [], set()
+    for match in re.finditer(r'(?is)<a[^>]+href="(/jobs/[^"#?]+)"[^>]*>(.*?)</a>', body):
+        path, card = match.group(1), match.group(2)
+        if path in seen:
+            continue
+
+        def text(cls: str) -> str:
+            found = re.search(r'(?is)<div[^>]*class="[^"]*\b' + re.escape(cls) + r'\b[^"]*"[^>]*>(.*?)</div>', card)
+            return html.unescape(strip_html(found.group(1))).strip() if found else ""
+
+        title = text(classes["title"])
+        if not title or title.lower() in {"test", "job test"}:
+            continue
+        seen.add(path)
+        where = text(classes["location"])
+        mode = re.match(r"\s*(remote|hybrid|on-?site|in[- ]office)\s*\((.*)\)\s*$", where, re.I)
+        if mode:
+            place = mode.group(2).strip()
+            if not place or re.search(r"multiple|various|tbd", place, re.I):
+                place = entry.get("default_location", "Canada")
+            where = f"{place} ({mode.group(1).title()})"
+        out.append(posting(entry, title=title, url=root + path, location=where,
+                           req_id=path.rsplit("/", 1)[-1], date_posted=_sf_date(text(classes["date"]))))
+    if not out:
+        raise SourceFailure("no Webflow job cards parsed")
+    return out
+
+
+def _jsonld_postings(entry: dict, body: str, fallback_url: str) -> list[dict]:
+    out = []
+    for raw in re.findall(r'(?is)<script[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', body):
+        try:
+            data = json.loads(html.unescape(raw))
+        except json.JSONDecodeError:
+            continue
+        for item in _jsonld_nodes(data):
+            if item.get("@type") != "JobPosting":
+                continue
+            locs = item.get("jobLocation") or []
+            locs = locs if isinstance(locs, list) else [locs]
+            places = []
+            for loc in locs:
+                address = loc.get("address", {}) if isinstance(loc, dict) else {}
+                place = _location(address.get("addressLocality"), address.get("addressRegion"), address.get("addressCountry"))
+                if place and place not in places:
+                    places.append(place)
+            out.append(posting(entry, title=html.unescape(item.get("title") or ""), url=item.get("url") or fallback_url,
+                               location="; ".join(places), date_posted=str(item.get("datePosted", ""))[:10],
+                               description=strip_html(item.get("description", "")),
+                               remote=str(item.get("jobLocationType", "")).upper() == "TELECOMMUTE"))
+    return out
+
+
+def fetch_avature(entry: dict) -> list[dict]:
+    """Avature portal (e.g. jobs.slalom.com): the SearchJobs RSS feed lists the newest 20 roles
+    (it ignores paging and filters) with no location, so each JobDetail page is read for its
+    JobPosting JSON-LD. Polled every few hours, the newest 20 cover every new posting."""
+    base = re.sub(r"/SearchJobs.*$", "", entry["careers_url"].split("?")[0])
+    feed = http_text(base + "/SearchJobs/feed/?listFilterMode=1")
+    links = list(dict.fromkeys(html.unescape(u).strip() for u in re.findall(r"(?is)<link>(.*?)</link>", feed)
+                               if "JobDetail" in u))
+    if not links:
+        raise SourceFailure("Avature feed carried no JobDetail links")
+    out = []
+    for link in links:
+        try:
+            found = _jsonld_postings(entry, http_text(link), link)
+        except Exception:  # noqa: BLE001 - one bad detail page must not drop the rest
+            continue
+        for item in found:
+            item["url"] = link
+            item["req_id"] = link.rstrip("/").rsplit("/", 1)[-1]
+        out.extend(found)
+    if not out:
+        raise SourceFailure("no Avature job details parsed")
+    return out
+
+
 PHENOM_PAGE_SIZE = 50
 PHENOM_MAX_PAGES = 40  # 2,000 jobs; a site-scoped board is far smaller
 
@@ -783,7 +876,7 @@ _SF_PAYLOAD = {"locale": "en_US", "sortBy": "date", "keywords": "", "location": 
 
 def _sf_date(value: str) -> str:
     value = re.sub(r"\s+", " ", str(value or "")).strip()
-    for fmt in ("%b %d, %Y", "%m/%d/%y", "%m/%d/%Y", "%d %b %Y"):
+    for fmt in ("%b %d, %Y", "%B %d, %Y", "%m/%d/%y", "%m/%d/%Y", "%d %b %Y"):
         try:
             return datetime.strptime(value, fmt).date().isoformat()
         except ValueError:
@@ -895,6 +988,8 @@ FETCHERS = {
     "phenom": fetch_phenom,
     "teamtailor": fetch_teamtailor,
     "successfactors": fetch_successfactors,
+    "webflow": fetch_webflow,
+    "avature": fetch_avature,
     "j2w": fetch_successfactors,
 }
 

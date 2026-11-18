@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 367,
-    "pollable": 238,
+    "companies": 370,
+    "pollable": 241,
     "unresolved": 129
   },
   "companies": [
@@ -829,6 +829,46 @@
       "ats": "workday",
       "slug": "",
       "careers_url": "https://mdlz.wd3.myworkdayjobs.com/en-US/External?locationCountry=a30a87ed25634629aa6c3958aa2b91ea",
+      "source": "murat 2026-11-18",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Toast",
+      "archetype": "A",
+      "ats": "webflow",
+      "slug": "",
+      "careers_url": "https://www.trytoast.ca/get-hired",
+      "default_location": "Toronto, ON, Canada",
+      "source": "murat 2026-11-18",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Slalom",
+      "archetype": "A",
+      "ats": "avature",
+      "slug": "",
+      "careers_url": "https://jobs.slalom.com/en_US/careersmarketplace/SearchJobs",
+      "source": "murat 2026-11-18",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Electric Mind",
+      "archetype": "A",
+      "ats": "lever",
+      "slug": "electricmind",
+      "careers_url": "https://jobs.lever.co/electricmind",
       "source": "murat 2026-11-18",
       "include": [],
       "exclude": [],
