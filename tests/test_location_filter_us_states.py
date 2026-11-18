@@ -115,3 +115,17 @@ def test_empty():
 
 def test_none():
     assert is_target_location(None) is False  # type: ignore[arg-type]
+
+
+@pytest.mark.parametrize("location", [
+    "Kelowna, British Columbia", "Montreal, Québec", "Halifax, Nova Scotia",
+    "Calgary, Alberta", "Moncton, New Brunswick", "Regina, Saskatchewan",
+])
+def test_full_canadian_province_name_counts_as_canada(location, monkeypatch):
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
+    assert is_target_location(location)
+
+
+def test_us_new_brunswick_is_not_mistaken_for_the_province(monkeypatch):
+    monkeypatch.setattr(scrape_jobs, "TARGET_COUNTRIES", {"canada"})
+    assert not is_target_location("New Brunswick, NJ")
