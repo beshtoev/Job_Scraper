@@ -1,61 +1,48 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 00:56 UTC*
+*Last updated: 2026-11-18 04:20 UTC*
 
-**16 new role(s)** since last run · 681 total in current portal openings
+**11 new role(s)** since last run · 685 total in current portal openings
 
-### [Regional Director Investments, Private Investment Counsel](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/MONTREAL-QC-CAN/Regional-Director-Investments--Private-Investment-Counsel_R260024418) — BMO
-- 📍 **Location:** MONTREAL, QC, CAN
-- 🕒 **Posted:** 2026-11-17
-
-### [Senior Director, Growth and Franchise Value](https://jobs.lever.co/eqbank/4b4b6944-de17-4e1e-8606-fbc1eba4b849) — EQ Bank
-- 📍 **Location:** Toronto
+### [Chief Financial Officer](https://jobs.lever.co/jobgether/3e91a1e4-6a56-424d-ac6a-918bc5731ee7) — Jobgether
+- 📍 **Location:** Canada
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-17
+- 🕒 **Posted:** 2026-11-18
 
-### [Director, Data Engineering](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Director--Data-Engineering_JR0157295-1) — Mckesson
-- 📍 **Location:** CAN, ON, Mississauga
-- 🕒 **Posted:** 2026-11-17
-
-### [Director Cybersecurity Program Management](https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5483996008) — Momentumfinancialservicesgroup
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Director, Cash Management](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Cash-Management_R-0000191904) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Director Lead Solution Architecture](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director-Lead-Solution-Architecture_R-0000192762-1) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-11-17
-
-### [Director, Business Technology & Transformation](https://jobs.lever.co/nacsworld/8b1e99b3-93c0-4129-a1e6-8c6c08ed4c19) — NAC Constructors (North America Construction)
-- 📍 **Location:** Morriston, ON
+### [Director, Brand & Editorial](https://jobs.lever.co/jobgether/71e46d10-7018-42f3-84e7-ac589facabd9) — Jobgether
+- 📍 **Location:** Canada
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-12
+- 🕒 **Posted:** 2026-11-18
 
-### [Director Cybersecurity Program Management](https://builtintoronto.com/job/director-cybersecurity-program-management/12301371) — Momentum Financial Services Group
+### [Practice Director, Microsoft Dynamics 365](https://jobs.lever.co/jobgether/4414fe07-ef16-4274-980b-e75e13663014) — Jobgether
+- 📍 **Location:** Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-18
+
+### [VP of Finance](https://jobs.lever.co/jobgether/2579c0e2-4c7b-46e8-b5e8-b5d155d3072e) — Jobgether
+- 📍 **Location:** Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-18
+
+### [VP, Consulting & Transformation](https://jobs.lever.co/jobgether/75b9d8ee-0c1c-4521-b3b5-ee5525e06ceb) — Jobgether
+- 📍 **Location:** Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-18
+
+### [AVP, Global Technology and Solutions, Strategy and Insights](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AVP--Global-Technology-and-Solutions--Strategy-and-Insights_R_1520902) — TD
+- 📍 **Location:** Toronto, Ontario
+- 🕒 **Posted:** 2026-11-17
+
+### [Director, Product Management Equipment](https://builtintoronto.com/job/director-product-management-equipment/12304735) — Ecolab
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director of Brand Marketing](https://builtintoronto.com/job/director-brand-marketing/12299855) — REBEL
+### [Director, Channel and Developing Markets](https://builtintoronto.com/job/director-channel-and-developing-markets/12302768) — Greenfield Global
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Director, Growth and Franchise Value](https://builtintoronto.com/job/senior-director-growth-and-franchise-value/12298756) — EQ Bank | Equitable Bank
+### [Lead Java Back - End Engineer - Vice President](https://builtintoronto.com/job/lead-java-back-end-engineer-vice-president/12303116) — Citigroup
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Director, Portfolio Management](https://builtintoronto.com/job/director-portfolio-management/12297754) — AstraZeneca
+### [Senior Java Developer - Vice President](https://builtintoronto.com/job/senior-java-developer-vice-president/12047777) — Citigroup
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Senior Director, Engineering - ICM](https://builtintoronto.com/job/senior-director-engineering-icm/12155615) — CaptivateIQ
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [VP, Enterprise Sales](https://builtintoronto.com/job/vp-enterprise-sales/12300595) — CoLab Software
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Head of Business Systems Product & Transformation](https://builtintoronto.com/job/head-business-systems-product-transformation/12301333) — Rockwell Automation
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Head of Enterprise Sales](https://builtintoronto.com/job/head-enterprise-sales/12302061) — Jonas Software
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Head of Accounts](https://builtintoronto.com/job/head-accounts/12300399) — Orium
+### [Head of Corporate Development](https://builtintoronto.com/job/head-corporate-development/10968708) — Cohere AI
 - 📍 **Location:** Toronto, Ontario, Canada
