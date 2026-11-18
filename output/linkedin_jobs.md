@@ -1,122 +1,64 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 18:17 UTC*
+*Last updated: 2026-11-18 19:09 UTC*
 
-**28 new role(s)** since last run · 30 total in last 1h
+**14 new role(s)** since last run · 32 total in last 1h
 
-### [Director, WFI Solutions & TPT Partnering](https://www.linkedin.com/jobs/view/4491301923/) — Equinix
+### [Director of Finance](https://www.linkedin.com/jobs/view/4491417450/) — Elmwood Residences Inc
+- 📍 **Location:** Saskatoon, Saskatchewan, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Vice President, Professional Services – ERP, CRM & AI](https://www.linkedin.com/jobs/view/4491856811/) — The Planet Group
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $250,000.00/yr - CA$280,000.00/yr
+- 🕒 **Posted:** 2026-11-18
+
+### [Director, Strategy Planning & Integration](https://www.linkedin.com/jobs/view/4489615858/) — Canadian Blood Services
+- 📍 **Location:** Ontario, Canada
+- 💰 **Salary:** $152,500 - $179,400
+- 🕒 **Posted:** 2026-11-18
+
+### [Field Operations - Operations Director](https://www.linkedin.com/jobs/view/4492083587/) — VetStrategy
+- 📍 **Location:** Hamilton, Ontario, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Vice President of Business Development](https://www.linkedin.com/jobs/view/4470479352/) — Howard Shockey & Sons, Inc.
+- 📍 **Location:** Winchester, Ontario, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Director, Cost and Commercial Management (Real Estate)](https://www.linkedin.com/jobs/view/4474668620/) — Turner & Townsend
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [VP of Digital Media](https://www.linkedin.com/jobs/view/4489785150/) — PaidSync.ai
-- 📍 **Location:** Vancouver, British Columbia, Canada
+### [Director](https://www.linkedin.com/jobs/view/4491323502/) — Desjardins
+- 📍 **Location:** Québec, Quebec, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Valuations](https://www.linkedin.com/jobs/view/4491318308/) — CPP Investments | Investissements RPC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Vice President, Strategy, Personal Banking](https://www.linkedin.com/jobs/view/4492061715/) — EQ Bank
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Program Director, Risk Transformation & Execution](https://www.linkedin.com/jobs/view/4491866621/) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Head of Design and Engineering](https://www.linkedin.com/jobs/view/4491313510/) — The AES Group
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director/Vice President - Derivatives](https://www.linkedin.com/jobs/view/4492056447/) — Brookfield
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Associate Vice President, Client and Advisory Experience](https://www.linkedin.com/jobs/view/4491869245/) — Canadian Forces Morale and Welfare Services
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $142,610.00 - $178,460.00
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer, Full-Stack Applications (Associate Director)- AI Fluent](https://www.linkedin.com/jobs/view/4483688019/) — Fitch Ratings
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Product Design](https://www.linkedin.com/jobs/view/4492066274/) — Replicant
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Senior Director, Organizational Development](https://www.linkedin.com/jobs/view/4491868515/) — Ontario Medical Association
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $131,725-$139,950
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, UI/UX Design](https://www.linkedin.com/jobs/view/4492048793/) — WELLSTAR Technologies
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Strategic Planning and Growth Initiatives](https://www.linkedin.com/jobs/view/4492049949/) — GardaWorld
+### [Director](https://www.linkedin.com/jobs/view/4491332150/) — Desjardins
 - 📍 **Location:** Montréal-Ouest, Quebec, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4491856812/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Field Operations - Operations Director](https://www.linkedin.com/jobs/view/4492091121/) — VetStrategy
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [National Director - Mortgage Centre of Excellence (MCOE), Wealth, Insurance](https://www.linkedin.com/jobs/view/4491862448/) — Scotiabank
+### [Agency Chief Financial Officer](https://www.linkedin.com/jobs/view/4491332116/) — Minnesota Direct Care and Treatment
+- 📍 **Location:** St.-Paul, New Brunswick, Canada
+- 💰 **Salary:** $53.66 - $76.98
+- 🕒 **Posted:** 2026-11-18
+
+### [Director, Global Investment Banking](https://www.linkedin.com/jobs/view/4457023705/) — CIBC
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Chief Administrative Officer (CAO) - Town of Lynn Lake](https://www.linkedin.com/jobs/view/4491860872/) — Harris Leadership Strategies
+- 📍 **Location:** Lynn Lake, Manitoba, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Vice President, Technology Enablement](https://www.linkedin.com/jobs/view/4483679698/) — Klick
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director Provincial Contracting Services](https://www.linkedin.com/jobs/view/4475402530/) — Shared Health-Soins Communs
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Media Advertising](https://www.linkedin.com/jobs/view/4491859742/) — Creative Niche
+### [Strategic Account Director](https://www.linkedin.com/jobs/view/4483802121/) — Zeta Global
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $180,000.00/yr - CA$220,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Director of FP&A](https://www.linkedin.com/jobs/view/4492059271/) — Solen Software Group
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Crisis Management and Continuity of Operations](https://www.linkedin.com/jobs/view/4491312304/) — Bank of Canada
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $181,235 to $213,217
-- 🕒 **Posted:** 2026-11-18
-
-### [Account Director, Travel and Banking Engagement](https://www.linkedin.com/jobs/view/4492054424/) — Scene+
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Vice-President, Marketing - Virtù Hospitality](https://www.linkedin.com/jobs/view/4491853800/) — Harris Leadership Strategies
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Assistant Chief Administrative Officer - RM of Wallace-Woodworth](https://www.linkedin.com/jobs/view/4491857851/) — Harris Leadership Strategies
-- 📍 **Location:** Virden, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Operational Risk Audit](https://www.linkedin.com/jobs/view/4484487411/) — iA Financial Group (Industrial Alliance)
-- 📍 **Location:** Quebec, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [District Vice President - Montreal West](https://www.linkedin.com/jobs/view/4491859462/) — Scotiabank
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director - Deal Analytics](https://www.linkedin.com/jobs/view/4474618282/) — RSM Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000 - $238,700
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Sales Best Practices](https://www.linkedin.com/jobs/view/4467441333/) — SOTI
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Data Engineering](https://www.linkedin.com/jobs/view/4492072335/) — McKesson
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $126,900 - $169,200
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Subsidiary Reporting](https://www.linkedin.com/jobs/view/4482249625/) — CPP Investments | Investissements RPC
-- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000 - $180,000
 - 🕒 **Posted:** 2026-11-18
