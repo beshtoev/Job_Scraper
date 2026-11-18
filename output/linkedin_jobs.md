@@ -1,62 +1,43 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 16:11 UTC*
+*Last updated: 2026-11-18 16:43 UTC*
 
-**13 new role(s)** since last run · 22 total in last 1h
+**9 new role(s)** since last run · 28 total in last 1h
 
-### [Director and Practice Lead, Data Engineering](https://www.linkedin.com/jobs/view/4429364476/) — TELUS Digital
-- 📍 **Location:** Ontario, Canada
-- 💰 **Salary:** $211,000.00/yr - CA$302,000.00/yr
+### [Vice President, Digital Platforms](https://www.linkedin.com/jobs/view/4492054157/) — Great Gulf
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $180,000 - $225,000
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Technology (Western Advancement)](https://www.linkedin.com/jobs/view/4492047176/) — Western University
-- 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $100,000 - $125,000 per annum
+### [Director, Portfolio Management](https://www.linkedin.com/jobs/view/4491863369/) — AstraZeneca
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Design](https://www.linkedin.com/jobs/view/4473675503/) — OpenText
-- 📍 **Location:** Waterloo, Ontario, Canada
+### [Director of Finance](https://www.linkedin.com/jobs/view/4491417450/) — Elmwood Residences Inc
+- 📍 **Location:** Saskatoon, Saskatchewan, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Directeur Pharmacométricien (Director Pharmacometrician)](https://www.linkedin.com/jobs/view/4458285812/) — Allucent
+### [Directeur des finances et de la comptabilité - Montréal - 130 k$ à 145 k$ / Director of Finance](https://www.linkedin.com/jobs/view/4492045444/) — Quantum Management Services Ltd.
 - 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $130,000.00/yr - CA$145,000.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4492038662/) — Drake International
-- 📍 **Location:** Hamilton, Ontario, Canada
-- 💰 **Salary:** $130,000 - $170,000
+### [President & CEO](https://www.linkedin.com/jobs/view/4491865129/) — NAIT (Northern Alberta Institute of Technology)
+- 📍 **Location:** Edmonton, Alberta, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Director Corporate Finance](https://www.linkedin.com/jobs/view/4492043392/) — BJRC Recruiting
+### [Director of Network Planning, Pricing, & Revenue Management](https://www.linkedin.com/jobs/view/4491851576/) — Air North, Yukon's Airline
+- 📍 **Location:** Whitehorse, Yukon Territory, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Director, Private Capital Investments](https://www.linkedin.com/jobs/view/4492045660/) — Kilmer Van Nostrand Co. Limited
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-18
 
-### [Interim Chief Financial Officer (CFO)](https://www.linkedin.com/jobs/view/4492037655/) — xNorth™ - Executive Leadership Solutions
+### [Associate Director, Commercial Banking (Corporate Finance Group)](https://www.linkedin.com/jobs/view/4411804559/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $70,000.00 - $150,000.00
 - 🕒 **Posted:** 2026-11-18
 
-### [Chief Restructuring Officer](https://www.linkedin.com/jobs/view/4492033910/) — xNorth™ - Executive Leadership Solutions
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Vice President Vertriebsmarketing](https://www.linkedin.com/jobs/view/4490899636/) — Aquatic Capital Management.
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Vice-President, Data Centre Operations and Development](https://www.linkedin.com/jobs/view/4492030980/) — Phase Consulting
-- 📍 **Location:** Greater Toronto Area, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4491861098/) — Vaco by Highspring
+### [Director, Compensation and Benefits](https://www.linkedin.com/jobs/view/4484254905/) — AgeCare
 - 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $90.00/hr - CA$110.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4492047247/) — Queen's University
-- 📍 **Location:** Kingston, Ontario, Canada
-- 💰 **Salary:** $126,000.00/yr - CA$173,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [SAP Customer Solution Director](https://www.linkedin.com/jobs/view/4491845861/) — Talan
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $170,000.00/yr - CA$220,000.00/yr
 - 🕒 **Posted:** 2026-11-18

@@ -94,6 +94,10 @@
       43.6009127,
       -79.7378024
     ],
+    "19655 walden blvd, calgary, ab, canada": [
+      50.8751769,
+      -114.0263162
+    ],
     "20 york mills road, toronto, canada": [
       43.74458,
       -79.4047
@@ -546,6 +550,10 @@
       44.4429839,
       -79.8423725
     ],
+    "mont-royal, qc, canada": [
+      45.5085881,
+      -73.5897111
+    ],
     "montréal-ouest, qc, canada": [
       45.4528545,
       -73.6442442
@@ -565,6 +573,10 @@
     "new westminster, bc, canada": [
       49.2067726,
       -122.9108818
+    ],
+    "niagara, on, canada": [
+      43.0631891,
+      -79.3098089
     ],
     "north bay, on, canada": [
       46.3092115,
@@ -752,14 +764,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "mont-royal, qc, canada": [
-      45.5085881,
-      -73.5897111
-    ],
-    "niagara, on, canada": [
-      43.0631891,
-      -79.3098089
     ]
   },
   "research": {}
