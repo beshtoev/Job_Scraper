@@ -776,9 +776,11 @@ def _icims_place(raw: str) -> str:
     places = []
     for part in re.split(r"\s*\|\s*|\s{2,}|\n", raw.strip()):
         bits = [b.strip() for b in part.split("-", 2)]
-        if len(bits) == 3 and len(bits[0]) == 2:
-            country = {"CA": "Canada", "US": "United States"}.get(bits[0].upper(), bits[0])
+        country = {"CA": "Canada", "US": "United States"}.get(bits[0].upper(), bits[0]) if len(bits[0]) == 2 else ""
+        if len(bits) == 3 and country:
             places.append(f"{bits[2]}, {bits[1]}, {country}")
+        elif len(bits) == 2 and country:          # "CA-Remote" (Kinaxis layout)
+            places.append(f"{bits[1]}, {country}")
         elif part:
             places.append(part)
     return "; ".join(places)
@@ -798,8 +800,9 @@ def fetch_icims(entry: dict) -> list[dict]:
                 continue
             seen.add(link.group(2))
             new += 1
-            loc = re.search(r'(?is)Job Locations</span>\s*<span[^>]*>(.*?)</span>', card)
-            posted = re.search(r'(?is)Posted Date</span>\s*<span title="([^"]+)"', card)
+            # Two card layouts: "Job Locations" + header date (Mackenzie), "Location" + dt/dd date (Kinaxis).
+            loc = re.search(r'(?is)>\s*(?:Job\s+)?Locations?\s*</span>\s*<span[^>]*>(.*?)</span>', card)
+            posted = re.search(r'(?is)Posted Date</(?:span|dt)>.*?<span title="([^"]+)"', card)
             date = ""
             if posted:
                 try:
