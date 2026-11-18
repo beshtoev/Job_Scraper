@@ -1,33 +1,40 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 10:26 UTC*
+*Last updated: 2026-11-18 11:52 UTC*
 
-**7 new role(s)** since last run · 15 total in last 1h
+**8 new role(s)** since last run · 10 total in last 1h
 
-### [Senior Director, Enterprise Execution](https://www.linkedin.com/jobs/view/4475817168/) — EQ Bank
+### [Director of Pricing and Business Analytics](https://www.linkedin.com/jobs/view/4484268454/) — GFL Environmental Inc.
+- 📍 **Location:** Vaughan, Ontario, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Chief Advisor Quantitative Risk Specialist](https://www.linkedin.com/jobs/view/4490869712/) — National Bank of Canada
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [VP of Growth](https://www.linkedin.com/jobs/view/4492006772/) — Snaplii
+- 📍 **Location:** Etobicoke, Ontario, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4491832393/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Assistant Vice President / Vice President, Project Finance & Infrastructure](https://www.linkedin.com/jobs/view/4490521338/) — Morningstar
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $82,000.00-120,000.00
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Demand Generation](https://www.linkedin.com/jobs/view/4474291746/) — Flywheel
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000 - $150,000
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Subcontracts - Global Process Owner](https://www.linkedin.com/jobs/view/4476323669/) — Worley
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Assistant Controller and Associate Director, Accounting & Reporting](https://www.linkedin.com/jobs/view/4482250280/) — Toronto Metropolitan University
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Portfolio Management](https://www.linkedin.com/jobs/view/4490875419/) — National Bank of Canada
+### [Vice President Fleet Canada](https://www.linkedin.com/jobs/view/4484272894/) — SIXT
 - 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $165,000–$180,000
 - 🕒 **Posted:** 2026-11-18
 
-### [Vice-President Global Transaction Banking Sales](https://www.linkedin.com/jobs/view/4490879381/) — National Bank of Canada
+### [Technology and Innovation - Associate Director (NetSuite)](https://www.linkedin.com/jobs/view/4410863809/) — Riveron
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $162,000.00/yr - CA$190,000.00/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [AVP - Commercial & Private Banking 1859](https://www.linkedin.com/jobs/view/4490862943/) — National Bank of Canada
-- 📍 **Location:** Oakville, Ontario, Canada
+### [Big Data Engineer (AVP)](https://www.linkedin.com/jobs/view/4491831399/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $94,300.00 - $141,500.00
 - 🕒 **Posted:** 2026-11-18
