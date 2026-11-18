@@ -115,8 +115,14 @@ def fetch_ashby(entry: dict) -> list[dict]:
     data = http_json(f"https://api.ashbyhq.com/posting-api/job-board/{entry['slug']}")
     if not isinstance(data, dict) or not isinstance(data.get("jobs"), list):
         raise SourceFailure("missing jobs array")
+    def places(item):
+        # Ashby lists extra sites in secondaryLocations ("New York City" + Toronto).
+        names = [item.get("location", "")] + [
+            (extra or {}).get("location", "") for extra in item.get("secondaryLocations") or []]
+        return "; ".join(dict.fromkeys(str(name).strip() for name in names if str(name or "").strip()))
+
     return [posting(entry, title=item.get("title"), url=item.get("jobUrl") or item.get("applyUrl"),
-                    location=item.get("location", ""), req_id=item.get("id"),
+                    location=places(item), req_id=item.get("id"),
                     date_posted=item.get("publishedAt", ""),
                     description=strip_html(item.get("descriptionHtml", "")),
                     remote=item.get("isRemote"), department=item.get("department", ""))

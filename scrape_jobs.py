@@ -439,6 +439,19 @@ def _countries_in_location(location: str) -> set[str]:
 def is_target_location(location: str) -> bool:
     if not location:
         return False
+    # The whole label first, exactly as before. Multi-site jobs list their
+    # places separated by ";" ("New York City; Toronto"); a US state anywhere in
+    # the label used to reject the job, so also accept it when any one place is
+    # in scope. This only adds: nothing the whole-label check accepts is lost.
+    if _is_target_place(location):
+        return True
+    return ";" in location and any(_is_target_place(part) for part in location.split(";") if part.strip())
+
+
+def _is_target_place(location: str) -> bool:
+    location = location.strip()
+    if not location:
+        return False
     loc = location.lower()
     # JobSpy renders Canadian results as e.g. "Toronto, ON, CA". Recognize
     # the province first so the trailing CA country code is not mistaken for
