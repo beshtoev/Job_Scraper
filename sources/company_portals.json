@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 362,
-    "pollable": 231,
+    "companies": 363,
+    "pollable": 232,
     "unresolved": 131
   },
   "companies": [
@@ -4796,6 +4796,20 @@
       "ats": "lever",
       "slug": "nacsworld",
       "careers_url": "https://jobs.lever.co/nacsworld",
+      "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Minga",
+      "archetype": "A",
+      "archetype_source": "claude",
+      "ats": "bamboohr",
+      "slug": "minga",
+      "careers_url": "https://minga.bamboohr.com/careers",
       "source": "manual",
       "include": [],
       "exclude": [],

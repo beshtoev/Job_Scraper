@@ -417,6 +417,13 @@ _CANADA_PROVINCE_CODE_RE = re.compile(
     r",\s*(?:AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)(?:\s|,|$)",
     re.IGNORECASE,
 )
+# Full province names after a comma ("Kelowna, British Columbia"). Checked
+# after US states, so "New Brunswick, NJ" stays a US location.
+_CANADA_PROVINCE_NAME_RE = re.compile(
+    r",\s*(?:alberta|british columbia|manitoba|new brunswick|newfoundland(?: and labrador)?|"
+    r"nova scotia|northwest territories|nunavut|ontario|prince edward island|qu[eé]bec|saskatchewan|yukon)\b",
+    re.IGNORECASE,
+)
 
 
 def _countries_in_location(location: str) -> set[str]:
@@ -447,6 +454,9 @@ def is_target_location(location: str) -> bool:
     explicit_countries = _countries_in_location(loc)
     if explicit_countries:
         return bool(explicit_countries & TARGET_COUNTRIES)
+
+    if _CANADA_PROVINCE_NAME_RE.search(location):
+        return "canada" in TARGET_COUNTRIES
 
     # A bare Remote/Hybrid label does not prove that a Canadian candidate is
     # eligible. This fork deliberately prefers a false negative over silently
