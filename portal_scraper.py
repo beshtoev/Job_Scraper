@@ -768,6 +768,55 @@ def fetch_avature(entry: dict) -> list[dict]:
     return out
 
 
+ICIMS_MAX_PAGES = 40
+
+
+def _icims_place(raw: str) -> str:
+    """'CA-ON-Greater Toronto Area' -> 'Greater Toronto Area, ON, Canada'; several sites joined by '; '."""
+    places = []
+    for part in re.split(r"\s*\|\s*|\s{2,}|\n", raw.strip()):
+        bits = [b.strip() for b in part.split("-", 2)]
+        if len(bits) == 3 and len(bits[0]) == 2:
+            country = {"CA": "Canada", "US": "United States"}.get(bits[0].upper(), bits[0])
+            places.append(f"{bits[2]}, {bits[1]}, {country}")
+        elif part:
+            places.append(part)
+    return "; ".join(places)
+
+
+def fetch_icims(entry: dict) -> list[dict]:
+    """iCIMS career portal (careers-<tenant>.icims.com): paged job cards on /jobs/search."""
+    root = re.match(r"https?://[^/]+", entry["careers_url"]).group(0)
+    out, seen = [], set()
+    for page in range(ICIMS_MAX_PAGES):
+        body = http_text(f"{root}/jobs/search?ss=1&in_iframe=1&pr={page}")
+        cards = re.findall(r'(?is)<li class="iCIMS_JobCardItem">(.*?)</li>', body)
+        new = 0
+        for card in cards:
+            link = re.search(r'(?is)<a href="([^"]+/jobs/(\d+)/[^"]+)"[^>]*class="iCIMS_Anchor"[^>]*>.*?<h3[^>]*>(.*?)</h3>', card)
+            if not link or link.group(2) in seen:
+                continue
+            seen.add(link.group(2))
+            new += 1
+            loc = re.search(r'(?is)Job Locations</span>\s*<span[^>]*>(.*?)</span>', card)
+            posted = re.search(r'(?is)Posted Date</span>\s*<span title="([^"]+)"', card)
+            date = ""
+            if posted:
+                try:
+                    date = datetime.strptime(posted.group(1).split()[0], "%m/%d/%Y").date().isoformat()
+                except ValueError:
+                    date = ""
+            out.append(posting(entry, title=html.unescape(strip_html(link.group(3))).strip(),
+                               url=html.unescape(link.group(1)).replace("?in_iframe=1", ""),
+                               location=_icims_place(html.unescape(strip_html(loc.group(1))) if loc else ""),
+                               req_id=link.group(2), date_posted=date))
+        if not new:
+            break
+    if not out:
+        raise SourceFailure("no iCIMS job cards parsed")
+    return out
+
+
 PHENOM_PAGE_SIZE = 50
 PHENOM_MAX_PAGES = 40  # 2,000 jobs; a site-scoped board is far smaller
 
@@ -988,6 +1037,7 @@ FETCHERS = {
     "phenom": fetch_phenom,
     "teamtailor": fetch_teamtailor,
     "successfactors": fetch_successfactors,
+    "icims": fetch_icims,
     "webflow": fetch_webflow,
     "avature": fetch_avature,
     "j2w": fetch_successfactors,
