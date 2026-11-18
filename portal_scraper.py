@@ -287,6 +287,18 @@ def parse_workday_url(url: str) -> tuple[str, str, str] | None:
     return None
 
 
+WORKDAY_MAX_PAGES = 50  # 1,000 jobs per filtered board
+_WORKDAY_MULTI_LOCATION_RE = re.compile(r"^\d+ Locations?$", re.I)
+_WORKDAY_NON_FACET_PARAMS = {"q", "source", "gh_src", "ref", "lang"}
+
+
+def workday_facets(url: str) -> dict:
+    """Facet filters carried in a Workday careers link, e.g. ?locationCountry=<id>."""
+    query = urllib.parse.parse_qs(urllib.parse.urlsplit(url).query)
+    return {key: values for key, values in query.items()
+            if key not in _WORKDAY_NON_FACET_PARAMS and not key.startswith("utm_") and values}
+
+
 def fetch_workday(entry: dict) -> list[dict]:
     parsed = parse_workday_url(entry.get("careers_url", ""))
     if not parsed:
@@ -295,7 +307,24 @@ def fetch_workday(entry: dict) -> list[dict]:
     api_root = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
     public_root = f"https://{tenant}.{wd}.myworkdayjobs.com/en-US/{site}"
     seen = {}
-    for term in WORKDAY_TERMS:
+    facets = workday_facets(entry.get("careers_url", ""))
+    if facets:
+        # A filtered link (e.g. ?locationCountry=<Canada id> on a global board):
+        # page through every job the filter returns instead of keyword samples.
+        offset = 0
+        for _ in range(WORKDAY_MAX_PAGES):
+            data = http_json(f"{api_root}/jobs", {"appliedFacets": facets, "limit": 20, "offset": offset, "searchText": ""})
+            if not isinstance(data, dict) or not isinstance(data.get("jobPostings"), list):
+                raise SourceFailure(f"missing jobPostings array for facets {facets!r}")
+            for item in data["jobPostings"]:
+                external = item.get("externalPath", "")
+                if external:
+                    seen[external] = item
+            offset += len(data["jobPostings"])
+            total = data.get("total")
+            if not data["jobPostings"] or (isinstance(total, int) and total and offset >= total):
+                break
+    for term in ([] if facets else WORKDAY_TERMS):
         data = http_json(f"{api_root}/jobs", {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": term})
         if not isinstance(data, dict) or not isinstance(data.get("jobPostings"), list):
             raise SourceFailure(f"missing jobPostings array for {term!r}")
@@ -306,17 +335,24 @@ def fetch_workday(entry: dict) -> list[dict]:
     out = []
     for external, item in seen.items():
         title, description, posted_at = item.get("title", ""), "", item.get("postedOn", "")
-        if _title_relevant(title):
+        location = item.get("locationsText", "")
+        # The list shows "2 Locations" for multi-site jobs; the real places are
+        # only in the detail record, and the location filter needs them.
+        multi_site = bool(_WORKDAY_MULTI_LOCATION_RE.match(location))
+        if multi_site or _title_relevant(title):
             try:
                 detail = http_json(api_root + external)
                 info = (detail or {}).get("jobPostingInfo") or {}
                 description = strip_html(info.get("jobDescription", ""))
                 posted_at = info.get("startDate") or posted_at
+                if multi_site:
+                    places = [info.get("location")] + list(info.get("additionalLocations") or [])
+                    location = "; ".join(dict.fromkeys(str(p) for p in places if p)) or location
             except SourceFailure:
                 pass
         bullets = item.get("bulletFields") or []
         out.append(posting(entry, title=title, url=public_root + external,
-                           location=item.get("locationsText", ""), req_id=bullets[0] if bullets else "",
+                           location=location, req_id=bullets[0] if bullets else "",
                            date_posted=posted_at, description=description))
     return out
 
