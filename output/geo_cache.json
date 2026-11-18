@@ -752,6 +752,14 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
+    ],
+    "mont-royal, qc, canada": [
+      45.5085881,
+      -73.5897111
+    ],
+    "niagara, on, canada": [
+      43.0631891,
+      -79.3098089
     ]
   },
   "research": {}
