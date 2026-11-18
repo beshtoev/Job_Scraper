@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-18 15:01 UTC",
+  "updated_at": "2026-11-18 15:08 UTC",
   "jobs": [
+    {
+      "company": "Equinix",
+      "title": "Director, WFI Solutions & TPT Partnering",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=52261fa2ad75aeab",
+      "direct_url": "https://careers.equinix.com/jobs/director-wfi-solutions-tpt-partnering-toronto-ontario-canada",
+      "company_url": "https://ca.indeed.com/cmp/Equinix",
+      "date_posted": "2026-11-18",
+      "description": "### **Director, WFI Solutions \\& TPT Partnering**\n\n\n* JR\\-164799\n* Hybrid\n* Toronto\n* General Management\n* Full time\n**Who are we?**\n\n\nEquinix is the world’s digital infrastructure company®, shortening the path to connectivity to enable the innovations that enrich our work, life and planet.\n\n\nA place where bold ideas are welcomed, human connection is valued, and everyone has the opportunity to shape their future.\nA career at Equinix means being at the center of shaping what comes next and amplifying customer value through innovation and impact. You’ll work across teams, influence key decisions, and help shape the path forward. You’ll find belonging, purpose, and a team that welcomes you—because when you feel valued, you’re empowered to do your best work.\n**Job Summary**  \n\nThe Workforce Insight Solutions Leader is accountable for the full lifecycle of the Workforce Insight product portfolio, from identified need through build on Helix to measured adoption by leaders across all functions and regions. The role is the single global owner of workforce insight products for Equinix. The portfolio includes cross\\-domain leadership products that combine People data with business data. The role leads the insight consulting relationship with TPT Functions, runs the Insight Solutions delivery engine (intake, requirements, portfolio, roadmap and standards) and owns the product build and people\\-domain data strategy in direct partnership with DIO. It sets the AI analytics strategy for the portfolio, which is how insight products progress from descriptive reporting towards assisted, conversational and agentic insight, and is accountable to People leadership for the portfolio’s contribution to the Future Ready Team’s outcomes.\n  \n\n  \n\n**Responsibilities**  \n\nProduct \\& Portfolio Strategy\n\n\n* Own the Workforce Insight product portfolio: set the roadmap, prioritisation logic and sunset decisions, anchored to measurable use, impact and outcomes\n* Define and execute the AI analytics strategy for the portfolio, including the view on how insight products move from dashboards to AI\\-assisted, conversational and agentic delivery, and the sequence to get there\n* Define and enforce the WFI product standard (definitions, design patterns, access model, release discipline) so that every product in the portfolio is recognisably one family\n* Own the productisation path for Workforce Decision Intelligence and Equinix Brain outputs\n* Make build, buy or partner decisions on tooling and platforms for the insight product stack, in concert with People Tech Ops and EDNA teams\n\nManage the capacity plan, tooling budget and contingent and vendor resources for the engine, including the people\\-domain engineering capacity shared with DIO  \n* \n\nInsight Partnering (TPT Functions)\n\n\n* Lead the team of TPT Insight Partners in working with senior HR leaders to identify their workforce insight needs, assess those needs against existing products and execute a plan to close the gaps\n* Shape demand into a coherent portfolio\n* Own measurement design for People programmes\n* Lead the development and delivery of cross\\-domain workforce insight products\n\nPartner with WFI and People Strategy leaders and FPT Insight Partners to shape the portfolio  \n* \n\nProduct Build \\& Data Foundations\n\n\n* Lead the DevOps capability that builds insight products on Helix\n* Act as business owner of the people\\-domain data strategy and Helix ingestion roadmap\n* Own People data quality and governance standards for insight products\n* Represent Workforce Insights as the accountable partner to DIO, People Tech Ops and EDNA\n  \n\n  \n\nAdoption \\& Feedback Loop\n\n\n* Design and run a continuous feedback and prioritisation loop\n* Embed agile and design\\-thinking practice across the engine\n* Own product marketing and enablement for the portfolio\n* Accountable to the People Leadership Team for portfolio health\n  \n\n  \n\nTeam Leadership\n\n\n* Lead and develop a globally distributed, multi\\-disciplinary team plus contingent and vendor resources\n* Build a diverse, inclusive, product\\-minded team culture and coach the wider WFI team\n  \n\n  \n\n**Qualifications**\n\n\nKnowledge and Experience\n\n\n* Significant experience in analytics, people analytics or data products, including leading teams\n* Proven ownership of a product portfolio at enterprise scale\n* Track record as a trusted consultant to senior HR or business leaders\n* Experience directing a build team on a modern cloud data platform\n* Applied experience bringing GenAI and LLM capability into analytics products\n* Working knowledge of data governance, data quality and access models for sensitive people data\n* Bachelor’s degree in a quantitative or relevant discipline; Master’s preferred\n  \n\n  \n\nSkills \\& Attributes\n\n\n* Product leadership, with discovery, design thinking, agile delivery and outcome measurement as established working practice\n* Business and financial acumen\n* Technically credible with engineers and data platform leaders without needing to build personally\n* Strong stakeholder leadership across HR, IT and enterprise data functions\n* Clear, concise communicator of complex data\\-driven insight to senior HR and business leaders\n* Comfortable operating at portfolio level under ambiguity and able to establish an operating rhythm where none exists\n\nThe targeted pay range for this position in the following location is / locations are:\n\n\nCanada \\- Toronto Office TRO : 158,000 \\- 236,000 CAD / Annual\n\n\nOur pay ranges reflect the minimum and maximum target for new hire pay for the full\\-time position determined by role, level, and location.**The pay range shown is based on our compensation structure in place at the time of posting and may be updated periodically based on business needs.** Individual pay is based on additional factors including job\\-related skills, experience, and relevant education and/or training.\n\n\nThe targeted pay range listed reflects the base pay only and does not include bonus, equity, or benefits. Employees ar",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-11-18T15:08:26Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Scotiabank",
       "title": "Director, Deposits Engineering",
@@ -68456,39 +68489,6 @@
       "geo_confidence": "low",
       "geo_detail": "centre of Greater Toronto Area",
       "geo_version": 1
-    },
-    {
-      "company": "Scotiabank",
-      "title": "Director, AI Business Solutions, Canadian Wealth Management",
-      "location": "Toronto, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010299841704",
-      "date_posted": "2026-10-19",
-      "description": "Regularly report progress on key initiatives and program outcomes to CWM leadership team, providing insights and strategic recommendations to inform-decision…",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-19T14:41:30Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1,
-      "direct_url": "https://jobs.scotiabank.com/job/Toronto-Director%2C-AI-Business-Solutions%2C-Canadian-Wealth-Management-ON-M5H-4A9/607054117/",
-      "work_arrangement": "On-site",
-      "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=1178ea00e035164b"
-      ]
     }
-  ],
-  "total": 2318
+  ]
 }
