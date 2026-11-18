@@ -843,8 +843,11 @@ def fetch_successfactors(entry: dict) -> list[dict]:
     if api_used:
         return out
 
+    # The page size is the site's choice: Deloitte serves 25 rows, Magellan 20. Advance by
+    # the rows actually served, or a 20-row site stops after its first page (20 of 82).
+    start = 0
     for page in range(SF_MAX_PAGES):
-        body = http_text(f"{root}/search/?q=&locale=en_US&startrow={page * 25}")
+        body = http_text(f"{root}/search/?q=&locale=en_US&startrow={start}")
         rows = re.findall(r'(?is)<tr class="data-row[^"]*">(.*?)</tr>', body)
         if not rows and page == 0:
             raise SourceFailure("no jobs API results and no search results table")
@@ -865,7 +868,9 @@ def fetch_successfactors(entry: dict) -> list[dict]:
                                department=html.unescape(strip_html(dept.group(1))) if dept else ""))
         total_match = re.search(r"(?is)of\s*<b>\s*([\d,]+)\s*</b>", body)
         total_rows = int(total_match.group(1).replace(",", "")) if total_match else None
-        if len(rows) < 25 or (total_rows is not None and (page + 1) * 25 >= total_rows):
+        start += len(rows)
+        if not rows or (total_rows is not None and start >= total_rows) or \
+                (total_rows is None and len(rows) < 20):
             break
     return out
 

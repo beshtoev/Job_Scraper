@@ -285,3 +285,20 @@ def test_successfactors_falls_back_to_search_table(monkeypatch):
     assert job["req_id"] == "1414086433"
     assert job["date_posted"] == "2026-11-18"
     assert job["department"] == "Corporate Functions"
+
+
+def test_successfactors_table_pages_by_rows_served(monkeypatch):
+    def row(i):
+        return (f'<tr class="data-row"><td><a href="/job/Toronto-Role-{i}-ON/{1000 + i}/" class="jobTitle-link">Role {i}</a>'
+                f'<span class="jobLocation">Toronto, ON, CA</span><span class="jobDate">Nov 18, 2026</span></td></tr>')
+    starts = []
+
+    def fake_text(url):
+        start = int(url.rsplit("startrow=", 1)[1])
+        starts.append(start)
+        return f"Results of <b>45</b>" + "".join(row(i) for i in range(start, min(start + 20, 45)))
+    monkeypatch.setattr(portals, "http_json", lambda url, payload=None: {"totalJobs": 0, "jobSearchResult": []})
+    monkeypatch.setattr(portals, "http_text", fake_text)
+    jobs = portals.fetch_successfactors({**_entry("successfactors"), "careers_url": "https://careers.example.test/search/"})
+    assert len(jobs) == 45
+    assert starts == [0, 20, 40]

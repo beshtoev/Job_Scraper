@@ -53,8 +53,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 365,
-    "pollable": 236,
+    "companies": 366,
+    "pollable": 237,
     "unresolved": 129
   },
   "companies": [
@@ -803,6 +803,19 @@
       "slug": "",
       "careers_url": "https://jobs.canadalife.com/go/All-Jobs/9170201/",
       "source": "seed:banks; murat 2026-11-18",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Magellan Aerospace",
+      "archetype": "D",
+      "ats": "successfactors",
+      "slug": "",
+      "careers_url": "https://careers.magellan.aero/search/",
+      "source": "murat 2026-11-18",
       "include": [],
       "exclude": [],
       "searches": [],
