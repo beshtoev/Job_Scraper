@@ -1,16 +1,10 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 15:16 UTC*
+*Last updated: 2026-11-18 17:33 UTC*
 
-**2 new role(s)** since last run · 46 total in last 24h
+**1 new role(s)** since last run · 44 total in last 24h
 
-### [Director, WFI Solutions & TPT Partnering](https://ca.indeed.com/viewjob?jk=52261fa2ad75aeab) — Equinix
+### [Director, Office and Critical Environments Projects, Corporate Real Estate](https://ca.indeed.com/viewjob?jk=c08f6369b5194214) — BMO Financial Group
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-18
-
-### [Big Data Engineer (AVP)](https://ca.indeed.com/viewjob?jk=26e58e9ba74c5a45) — Citi
-- 📍 **Location:** Mississauga, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-17
