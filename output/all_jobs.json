@@ -1,6 +1,168 @@
 {
-  "updated_at": "2026-11-18 06:17 UTC",
+  "updated_at": "2026-11-18 06:25 UTC",
   "jobs": [
+    {
+      "company": "National Bank of Canada",
+      "title": "AVP - Commercial & Private Banking 1859",
+      "location": "Oakville, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010329359346",
+      "date_posted": "2026-11-18",
+      "description": "Bachelor’s degree in a related field combined with significant experience in commercial banking, business development, and relationship management.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-18T06:25:27Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Oakville",
+      "geo_province": "ON",
+      "geo_lat": 43.4675,
+      "geo_lon": -79.6877,
+      "geo_distance_km": 35.6,
+      "geo_rank": 100356,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Kore Wireless Canada Inc.",
+      "title": "Director, Digital & Demand Generation (Toronto, Ontario)",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010329386682",
+      "date_posted": "2026-11-18",
+      "description": "Experience managing and developing marketing or sales development teams. Own the performance and ongoing development of KORE's website and KORE Shop, improving…",
+      "salary": "$150k–$175k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-18T06:25:27Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "McGill University",
+      "title": "Senior Director, Regional Strategy",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010329266413",
+      "date_posted": "2026-11-18",
+      "description": "Demonstrated success in closing high-level gifts; proven ability to drive large-scale philanthropic and organizational development strategies through the…",
+      "salary": "$129k–$199k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-18T06:25:27Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "National Bank of Canada",
+      "title": "Director, Commercial Banking",
+      "location": "Mississauga, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010329358491",
+      "date_posted": "2026-11-18",
+      "description": "Identify and develop business opportunities in your market, increase your commercial client base, and establish business development strategies.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-18T06:25:27Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Scotiabank",
+      "title": "Zone Director, Retail Banking",
+      "location": "100 Mile House, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010329173530",
+      "date_posted": "2026-11-18",
+      "description": "➢ Pursuing an aggressive program of business development according to the agreed plans; Sound judgment is exercised in the areas of resource planning;…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-18T06:25:27Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "100 Mile House",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Elk Valley Resources",
+      "title": "Director, Projects",
+      "location": "Sparwood, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010329144419",
+      "date_posted": "2026-11-18",
+      "description": "This role is responsible for leading the development of a mine plan that can satisfy the necessary social, environmental, and regulatory approval (SERA)…",
+      "salary": "$153k–$180k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-18T06:25:27Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Sparwood",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "National Bank of Canada",
       "title": "Director, Portfolio Management",
@@ -32,7 +194,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329360211"
+      ]
     },
     {
       "company": "Aviva",
@@ -65,7 +230,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329400905"
+      ]
     },
     {
       "company": "Synopsys Inc",
@@ -90,7 +258,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010328407507"
+      ]
     },
     {
       "company": "Siemens",
@@ -337,9 +508,9 @@
       "url": "https://builtintoronto.com/job/director-channel-and-developing-markets/12302768",
       "direct_url": "https://builtintoronto.com/job/director-channel-and-developing-markets/12302768",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-11-18",
       "date_seen": "2026-11-18T04:19:18Z",
-      "description": "",
+      "description": "Bachelor’s degree required; MBA or advanced degree is an asset. Bring a clear, data-driven view of channel and developing-market performance to senior…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -359,7 +530,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$180k–$210k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329226362"
+      ]
     },
     {
       "company": "Citigroup",
@@ -401,7 +576,7 @@
       "company_url": "https://ca.indeed.com/cmp/Aquila-Software-Group",
       "date_posted": "2026-11-18",
       "description": "**We are excited to speak to you about this opportunity. If you are interested in joining our growing team, please apply to this** **link** **directly.**\n\n  \n\n\n**Who we are**\n\n\n\nAt Aquila, we invest in category\\-defining B2B/B2G software companies globally, acting as a thought\\-partner, striving for the success of our companies in the long term. We are a well\\-managed, profitable company that operates like a startup with the financial backing of a parent company. For our people, this means limitless possibilities.\n\n\n\nWe are unapologetically unique, pivoting to respond to the needs of the multiple markets we operate in. We have ambitious goals, and we are looking for genuine contributors with integrity, energy, flexibility, and loyalty. We are investing in building future leaders who can take an idea and make things happen.\n\n\n**About Campana Systems**\n\n\n\nCampana Systems, a Gemini Group company within Aquila, develops specialized software solutions for AAA and CAA auto clubs across North America. Founded in 1988 and headquartered in Waterloo, Ontario, Campana has built long\\-standing relationships with organizations that rely on its technology to manage their operations and deliver services to their members.\n\n\n\nOur AXIS platform brings together membership management, customer relationship management, emergency roadside assistance, travel services, and business intelligence in an integrated suite of solutions. Looking ahead, we are focused on evolving our technology, strengthening our platform capabilities, and finding new ways to help our customers work more efficiently and deliver better member experiences.\n\n\n**Who we need**\n\n\n\nReporting to the General Manager, we are hiring a Director, Technology to lead the evolution of Campana Systems’ technology strategy, architecture, infrastructure, and AXIS platform. In this newly created role, you will own the technology roadmap from strategy through execution, with accountability for modernization priorities, investment decisions, platform reliability, and measurable business outcomes. You will lead the Architecture and Infrastructure \\& Security teams, partner with the Director, Development, and establish the technical direction and capabilities needed to deliver on our product vision while supporting the customers who depend on our technology.\n\n\n*This is a fully remote role open to candidates across Canada, with working hours of 8:30 a.m. to 5:30 p.m. Eastern Time.*\n\n\n**What’s in it for you**\n\n\n*Shape a meaningful transformation.* You will have the autonomy to challenge established approaches, make consequential technology decisions, and guide the evolution of a business\\-critical software platform. You will see the impact of your work in stronger platform capabilities, improved delivery, and better customer experiences.\n\n\n*Build what comes next.* You will lead experienced teams while shaping the standards, capabilities, and ways of working needed for the future. From strengthening engineering practices to developing technical leaders, you will have the opportunity to build a more effective technology organization and see the results of your leadership.\n\n\n*Grow your executive influence.* You will work directly with the General Manager and contribute to decisions that connect technology investments with customer needs and business growth. Backed by Aquila and the broader Constellation Software network, you will have opportunities to expand your leadership experience and pursue broader responsibilities over time.\n\n\n**As our new Director, Technology, you will**\n\n\n* **Own the technology roadmap.** You will turn the product vision into a multi\\-year strategy with clear priorities, investments, milestones, and measurable outcomes. You will balance modernization, technical debt, customer commitments, and platform stability, taking accountability for delivery and results. You will establish architectural standards, technology governance, and engineering priorities. Partnering with the Director, Development, you will strengthen technical decision\\-making, CI/CD, automation, and delivery practices across Canadian and offshore teams.\n* **Lead platform modernization.** You will define a phased approach to evolving AXIS, including its legacy Rocket UniVerse architecture. You will determine what to retain, integrate, replace, or modernize, guiding decisions on APIs, application architecture, CRM, data capabilities, and cloud or hybrid environments while protecting the reliability customers depend on.\n* **Turn innovation into impact.** You will identify opportunities to improve CRM capabilities, business intelligence, reporting, and operational efficiency through AI, automation, and better use of data. You will evaluate feasibility and business value, establish priorities, and work with technical teams to turn promising initiatives into measurable results.\n* **Strengthen security and reliability.** You will oversee infrastructure, hosting, cybersecurity, disaster recovery, and platform resilience. You will reduce technology risk, strengthen operational controls, and advance security and compliance readiness, including SOC 2\\-related requirements.\n* **Build and grow technical capabilities.** You will lead the Architecture and Infrastructure \\& Security teams, develop talent, strengthen accountability, and identify capability gaps. You will improve collaboration with Development and Product to ensure teams have the direction and support needed to execute the roadmap.\n* **Connect technology to business priorities.** You will partner with the General Manager on technology investments, budgets, resources, and strategic decisions. You will communicate risks and trade\\-offs, measure progress, and contribute technical leadership to customer conversations when needed.\n\n**You bring**\n\n\n* **The senior technology leadership.** You have led technology strategy, architecture, and technical teams within an enterprise software business, with accountability for investment dec",
-      "salary": "",
+      "salary": "$150k–$200k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
@@ -423,7 +598,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329227031"
+      ]
     },
     {
       "company": "Manulife",
@@ -434,7 +612,7 @@
       "company_url": "https://ca.indeed.com/cmp/Manulife",
       "date_posted": "2026-11-16",
       "description": "The Assistant Vice President, Architecture \\& Engineering Enablement is responsible for defining and enabling the technology foundation that supports the organization's strategic objectives, digital transformation initiatives, and operational excellence goals. This role leads enterprise and solution architecture, engineering enablement, cloud platforms, reliability engineering, technology risk metrics, release enablement, and modernization programs.\n\n  \n\n  \n\nAs a senior technology leader, the AVP establishes the architectural direction for business and technology platforms while ensuring engineering teams are equipped with the standards, environments, tooling, governance, and platform capabilities necessary to deliver secure, scalable, resilient, and cost\\-effective solutions. The role serves as a critical link between business strategy, technology delivery teams, infrastructure operations, and executive leadership.\n\n  \n\n  \n\nThe AVP is accountable for technology roadmap alignment, modernization planning, engineering effectiveness, operational resilience, cloud adoption, and technical risk reduction, while driving consistency and excellence across the software delivery lifecycle.\n\n  \n\n  \n\n**Position Responsibilities:**\n\n**Architecture Leadership**\n\n\n* Lead the Architecture function and define the strategic technology direction and target\\-state architecture across the portfolio.\n* Develop and maintain multi\\-year application and technology roadmaps aligned with business strategy, enterprise standards, security, data, and cloud direction.\n* Lead solution architecture and provide oversight for strategic transformation, modernization, cloud adoption, and major technology investments.\n* Establish architecture governance, standards, reference architectures, and solution design review practices.\n* Drive application rationalization, technical debt reduction, platform simplification, and modernization planning.\n* Lead technology intake and assessments, evaluating feasibility, complexity, dependencies, architectural impact, and high\\-level estimates.\n* Provide technical leadership for business cases, RFPs, vendor evaluations, and technology investment decisions.\n  \n\n  \n\n**Engineering Enablement Leadership**\n\n\n* Lead the Engineering Enablement function, providing the platforms, environments, tooling, standards, and practices required for secure, scalable, and efficient software delivery.\n* Drive engineering excellence through automation, CI/CD, DevSecOps, Infrastructure\\-as\\-Code, and modern cloud engineering practices.\n* Own cloud and on\\-premise environment strategy, ensuring availability, stability, scalability, resiliency, security, and cost effectiveness.\n* Lead release enablement, establishing deployment controls, production readiness standards, and practices that improve delivery velocity while reducing risk.\n* Lead Site Reliability Engineering (SRE) and operational resilience, including availability, performance, observability, recoverability, SLOs, and continuous improvement.\n* Lead technology risk governance, IRM metrics, remediation plans, and executive reporting, ensuring alignment with security, audit, regulatory, and operational risk requirements.\n* Drive legacy and mainframe\\-to\\-cloud modernization, reducing technical debt and improving platform efficiency, scalability, and cost effectiveness.\n  \n\n  \n\n**Leadership \\& Organizational Effectiveness**\n\n\n* Lead and develop a high\\-performing organization of architects, platform engineers, SREs, release enablement professionals, and technology specialists.\n* Build organizational capabilities across architecture, cloud engineering, reliability, automation, and modern software delivery.\n* Establish objectives, operating metrics, workforce and succession plans, and oversee budgets, vendors, and strategic technology partnerships.\n* Foster a culture of accountability, innovation, collaboration, engineering excellence, and continuous improvement.\n* Influence technology direction across business and technology teams, ensuring strong alignment between architecture strategy and engineering execution.\n  \n\n  \n\n**Required Qualifications:**\n\n\n* 15\\+ years of progressive technology leadership experience.\n* 8\\+ years leading architecture, engineering, platform, or infrastructure functions.\n* Deep expertise in enterprise architecture, cloud platforms, software engineering, and technology modernization.\n* Strong understanding of Azure cloud services, DevOps, CI/CD, Site Reliability Engineering, and modern architecture patterns.\n* Experience leading large\\-scale application modernization and cloud migration programs.\n* Proven success influencing business and technology executives.\n* Experience managing technology portfolios, budgets, and vendor partnerships.\n  \n\n  \n\n**Preferred Qualifications:**\n\n\n* Experience within financial services, insurance, or highly regulated industries.\n* Knowledge of technology risk management, operational resiliency, and regulatory compliance.\n* Architecture certifications (TOGAF, Azure Solutions Architect, etc.).\n* Experience with platform engineering, DevSecOps, and large\\-scale transformation programs.\n  \n\n  \n\n**When you join our team:**\n\n\n* We’ll empower you to learn and grow the career you want.\n* We’ll recognize and support you in a flexible environment where well\\-being and inclusion are more than just words.\n* As part of our global team, we’ll support you in shaping the future you want to see.\n  \n\n  \n\n\\#LI \\- Hybrid\n\n  \n\n  \n\nThe role being advertised is an existing vacancy.\n\n\n**About Manulife and John Hancock**\n\n\nManulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our\\-story.html.\n\n\n**Manulife is an Equal Opportunity Employer**\n\n\nAt Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the custo",
-      "salary": "",
+      "salary": "$130k–$241k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -458,6 +636,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329274016",
         "https://www.linkedin.com/jobs/view/4491812065/"
       ]
     },
@@ -525,7 +704,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329270907"
+      ]
     },
     {
       "company": "Jobgether",
@@ -778,7 +960,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329153673"
+      ]
     },
     {
       "company": "Unknown",
@@ -822,7 +1007,7 @@
       "company_url": "https://ca.indeed.com/cmp/Highclere-Capital",
       "date_posted": "2026-11-17",
       "description": "**Highclere Capital Corporation:**  \n\nDirector AML, Compliance \\& Project Management\n  \n**Location:** Hybrid \\| Department: Compliance\\| Employment Type: Full\\-Time\n  \nAbout Highclere Capital\n  \nHighclere Capital is a growing, Ontario\\-based mortgage finance company focused on providing innovative lending solutions to underserved borrowers across Canada. With a sharp eye on compliance, service excellence, and responsible growth, we partner with mortgage professionals to deliver tailored financing with speed and integrity. As a remote\\-first team, we’re building a culture rooted in accountability, collaboration, and a shared commitment to doing the right thing, for our brokers, our partners, and one another.\n  \nAbout the Role\n  \nAs a member of the leadership team, the Director, AML, Compliance \\& Project Management will lead Highclere’s regulatory compliance and AML/ATF programs while driving projects that strengthen governance, operational integrity, and business efficiency.\n  \nThis position is both strategic and hands\\-on, requiring the ability to interpret complex regulatory requirements, assess organizational risk, lead cross\\-functional initiatives, and embed a culture of compliance and continuous improvement throughout the business.\n  \nCore Responsibilities\n  \nAML/ATF \\& Sanctions Oversight\n  \n* Develop, implement, and maintain Highclere’s AML/ATF and Sanctions Program, including policies, procedures, and internal controls, in alignment with FINTRAC guidelines and the PCMLTFA.\n* Oversee and manage outsourced AML/ATF service provider relationships, ensuring appropriate oversight, reporting, and testing.\n* Conduct annual AML/ATF risk assessments, gap analyses, and program self\\-assessments.\n* Monitor changes in legislation, trends, and risks, and update programs accordingly.\n* Liaise with regulators, industry associations, law enforcement, and internal/external auditors on all AML/ATF matters.\n\n\nRegulatory Compliance\n  \n* Develop and maintain the corporate compliance framework, ensuring all regulatory requirements are identified, interpreted, and implemented across the business.\n* Advise the Leadership Team and business units on compliance risks, policy interpretation, and remediation strategies.\n* Lead the preparation for regulatory reviews/audits and ensure timely resolution of findings.\n* Support ongoing training for employees on compliance and AML/ATF obligations.\n\n\nProject Management\n  \n* Lead cross\\-functional projects related to compliance, AML/ATF, and corporate priorities, ensuring initiatives are delivered on time and within scope.\n* Project manage senior leadership meetings, including agenda development, materials preparation, action tracking, and follow\\-up.\n* Partner with business leaders to assess and manage the regulatory and operational impacts of new products, services, or process changes.\n* Implement and monitor project plans, reporting progress, risks, and outcomes to senior leadership and the Board where required.\n* Drive continuous improvement by embedding project management discipline, clear accountability, and technology\\-enabled solutions across compliance and corporate processes.\n\n\nLeadership \\& Reporting\n  \n* Provide regular compliance and AML/ATF metrics, trends, and risk indicators to the Leadership Team and Board.\n* Act as a trusted advisor to senior leadership, fostering a culture of ethical behaviour and risk awareness.\n\n\nSkills \\& Experience\n  \nMust\\-Have Qualifications\n  \n* 8 \\- 10 years in AML/ATF compliance in financial services, with direct experience in Canadian regulatory frameworks.\n* Proven experience managing compliance programs, regulatory interactions, and third\\-party service providers.\n* Recognized AML certification (e.g., CAMS) preferred.\n* Bachelor’s degree in business, law, or a related discipline.\n* Demonstrated leadership in implementing compliance or AML frameworks from the ground up.\n* Strong technical acumen, with the ability to leverage compliance technology platforms, data analytics tools, and digital workflows.\n* Excellent communication, presentation, and relationship management skills.\n\n\nNice\\-to\\-Have\n  \n* Experience in mortgage lending, underwriting, or related credit risk functions.\n* Exposure to sanctions screening systems and automated compliance tools.\n* Experience leading multi\\-departmental projects or technology implementations.\n\n\nWe use artificial intelligence (AI) tools to screen and assess applications as part of our hiring process. We are committed to an inclusive and accessible recruitment process. Accommodations for applicants with disabilities are available on request at every stage of hiring. Please contact \\[name/email] to request one. We thank all applicants for their interest. Only candidates selected for an interview will be contacted. Candidates who are interviewed will be informed of the hiring decision within 45 days of their final interview. Salary: $100,000 – $120,000 CAD per year, based on the successful candidate’s experience and qualifications.",
-      "salary": "",
+      "salary": "$100k–$120k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -844,7 +1029,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329162118"
+      ]
     },
     {
       "company": "World Renew",
@@ -910,7 +1098,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329198127"
+      ]
     },
     {
       "company": "Adastra",
@@ -1175,8 +1366,10 @@
       "geo_version": 1,
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=8e42471493d288bc"
-      ]
+        "https://ca.indeed.com/viewjob?jk=8e42471493d288bc",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329270701"
+      ],
+      "salary": "$127k–$169k/yr"
     },
     {
       "company": "Momentumfinancialservicesgroup",
@@ -1617,7 +1810,7 @@
       "location": "Mississauga, Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4491436862/",
       "date_posted": "2026-11-17",
-      "salary": "",
+      "salary": "$150k–$170k/yr",
       "ats": "LinkedIn",
       "description": "Join our Team\n\nAbout This Opportunity\n\nEricsson Antenna System (EAS) delivers advanced antenna solutions that help CSPs build high-performing, energy-efficient and sustainable mobile networks.\n\nThe Americas Demand Marketing Director leads demand strategy across Canada, the US and Latin America, translating global priorities into integrated customer journeys, ABM and digital programmes driving engagement, demand creation and measurable business growth.\n\nTranslate global EAS strategy into regional action, align Marketing and Sales, drive customer engagement and accelerate growth across the Americas.\n\nWhat You Will Do\n\nDevelop EAS Americas demand strategy aligned with business, Sales, portfolio and customer priorities; translate regional and account-level growth priorities into measurable demand and engagement plans.\nOrchestrate execution across EAS Sales, Market Area Marketing, Customer Units, Product Management, technical/solution teams and global marketing; connect investment to engagement, qualified pipeline and business growth.\nBuild account profiles, target personas, buying-centre maps and customer journeys with Sales and Market Area teams.\nDesign differentiated engagement plans for strategic CSP accounts, growth accounts and new-market opportunities across North America and LATAM.\nOrchestrate executive workshops, innovation sessions, webinars, customer events, analyst programmes, targeted account activities and opportunity follow-up.\nDrive demand through digital channels, webinars, social media and targeted customer outreach; use CRM and marketing automation to repeatably generate, nurture, qualify and hand over leads and enable Sales follow-up.\nAdapt global EAS campaigns for Canada, the US and Latin America.\nTranslate complex antenna technology into compelling customer-value narratives centred on network performance, efficiency, sustainability and total business value.\nDevelop thought leadership, customer cases and Sales-enablement content with experts, analysts and partners.\nEstablish KPIs and executive reporting for engagement, qualified demand, campaign conversion, Sales influence and marketing return on investment.\nLead complex cross-functional initiatives across countries and organisations; connect Americas execution, customer insights and Sales priorities with global EAS strategy.\n\nThe Skills You Bring\n\nBachelor's or Master's degree in Marketing, Communications, Business, Engineering or equivalent qualification.\nExtensive international B2B marketing experience in telecommunications, technology or other sophisticated technology environments.\nExperience in a large multinational and global matrix organisation across countries, functions and senior stakeholders.\nProven ability to develop and execute strategies across multiple markets, prioritising North America and Latin America.\nStrong understanding of Sales methodology, strategic-account planning, customer buying journeys, demand generation, pipeline acceleration and lead management.\nExperience in account-based marketing, customer marketing, integrated campaigns, Sales enablement, thought leadership and executive engagement.\nWorking knowledge of CRM, marketing automation and analytics platforms (e.g., Salesforce, Marketo) or equivalent tools.\nExperience in telecom networks, Ericsson’s business environment or antenna solutions is an advantage.\nCommercial, customer-focused and data-driven, with measurable results.\nStrong stakeholder management, communication and executive presentation skills.\nEffective prioritisation and influence in fast-paced, global environments.\n\nMust Have\n\nThis is a permanent full time position which requires English language. The person must be working in head office - Suite 200, 2425 Matheson Blvd East, Mississauga, ON L4W 5K4.\n\nWhy join Ericsson?\n\nAt Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build solutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.\n\nWhat happens once you apply?\n\nClick Here to find all you need to know about what our typical hiring process looks like.\n\nEricsson uses a merit-based hiring approach that values people with different experiences, perspectives and skillsets. We truly believe this approach drives innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity employer, learn more.\n\nIf you need assistance or to request an accommodation due to a disability, please contact Ericsson at hr.direct.americas@ericsson.com.\n\nDISCLAIMER:\nThe above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not an exhaustive list of all responsibilities, duties and skills required for this position, and you may be required to perform additional job tasks as assigned.\n\nPrimary country and city:\nCanada (CA) || (Country/ City)\n\nJob details:\nCustomer Marketing\n\nJob Stage:\nJob Stage 8\n\nPrimary Recruiter:\nWilliam Gomes\n\nCompensation And Benefits At Ericsson\n\nAt Ericsson, we know that our people are the key to our success. We offer a competitive package to help with your individual needs and goals.\n\nYour Pay\n\nThe salary offered is dependent on various factors including, but not limited to, location, and the candidate’s combination of job-related knowledge, qualifications, skills, education, training, and experience.\n\nWage Range- 150-170K CAD Annual\n\nYour pay also includes the opportunity for an annual bonus. Actual bonus payouts are based on performance of the business against the unit’s objectives, individual performance, and the individual bonus target. Certain eligibility and pro-ration rules apply.\n\nYour Health\n\nEricsson offers excellent health benefits including the choice of 3 medical and dental plan options that allow an employee to select the level of coverage that suits their needs. Core level coverage is paid for fully by Ericsson.\n\nYour Financial Security\n\nWe invest in both your short and long-term financial wellbeing. Ericsson’s Group Retirement & Savings Program offers an automatic 2% company contribution into the Pension Plan. Ericsson also offers a 50% match of employee’s contribution into the Registered Retirement Savings Plan, up to 8% of the employee’s contribution (maximum of 4% match). This leads to a total company contribution potential of 6%. Employees will also receive basic life insurance and basic accidental death and dismemberment coverage at two-times annual base pay at no cost, as well as short-term disability coverage. Employees also have the option to participate in Ericsson’s Stock Purchase Plan.\n\nYour Time\n\nYour work-life balance is important to us. New employees are provided a minimum of 18 days of accrued vacation, plus at least 3personal days, minimum 10 holidays, 1 volunteer day, and sick days. Please note paid time off is pro-rated based on the employee’s start date. Furthermore, Ericsson provides up to 10 weeks of paid maternity leave and 6 weeks of parental or adoption leave at 100% of pay.\n\nAdditional Benefits\n\nEricsson offers many other company-paid benefits such as financial wellness programs, educational assistance, matching gifts, wellness account, and recognition programs.\n\nEligible to Ericsson’s disability insurance, dental insurance, pension, and extended medical benefits (e.g. prescription drugs, paramedical services, medical services and equipment), eligible to Ericsson’s Short Term Variable (STV) Plan with a target set at 15% of eligible earnings, and eligible to Ericsson's annual vacation allocation as per seniority date.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTelecommunications",
       "first_seen": "2026-11-18T00:00:37Z",
@@ -1634,7 +1827,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "2425 Matheson Blvd East, Mississauga",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329246085"
+      ]
     },
     {
       "company": "People Placement Group",
@@ -1824,7 +2020,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "181 Bay Street",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329281038"
+      ]
     },
     {
       "company": "BDC",
@@ -2186,16 +2385,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T23:11:25Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -2925,7 +3124,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329362494"
+      ]
     },
     {
       "company": "AstraZeneca",
@@ -3879,16 +4081,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T18:42:01Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "East York",
       "geo_province": "ON",
       "geo_lat": 43.691,
       "geo_lon": -79.328,
       "geo_distance_km": 5.8,
-      "geo_rank": 300058,
+      "geo_rank": 58,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -4039,7 +4241,8 @@
       "work_arrangement": "On-site",
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=e9ff268d38e7c3ca",
-        "https://jobs.lever.co/nacsworld/8b1e99b3-93c0-4129-a1e6-8c6c08ed4c19"
+        "https://jobs.lever.co/nacsworld/8b1e99b3-93c0-4129-a1e6-8c6c08ed4c19",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329145378"
       ],
       "job_type": "fulltime"
     },
@@ -4718,16 +4921,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T17:39:41Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 300061,
+      "geo_rank": 61,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -7058,16 +7261,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T06:56:57Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
       "geo_city": "",
       "geo_province": "",
       "geo_lat": null,
       "geo_lon": null,
       "geo_distance_km": null,
-      "geo_rank": 399999,
+      "geo_rank": 599999,
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
@@ -21003,16 +21206,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T01:01:11Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
       "geo_city": "Mississauga",
       "geo_province": "ON",
       "geo_lat": 43.589,
       "geo_lon": -79.6441,
       "geo_distance_km": 23.9,
-      "geo_rank": 300239,
+      "geo_rank": 100239,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
