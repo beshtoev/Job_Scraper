@@ -1,161 +1,166 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-18 14:24 UTC*
+*Last updated: 2026-11-18 17:30 UTC*
 
-**39 new role(s)** since last run · 717 total in current portal openings
+**37 new role(s)** since last run · 741 total in current portal openings
 
-### [DIRECTOR, GOVERNMENT FUNDS - Montreal, Ottawa & Toronto](https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/DIRECTOR--GOVERNMENT-FUNDS---Montreal--Ottawa---Toronto_R-8116) — BDC
-- 📍 **Location:** Montreal; Ottawa; Toronto
-- 🕒 **Posted:** 2026-11-06
-
-### [Senior Director, Data, AI, & Automation Services](https://bird.wd3.myworkdayjobs.com/en-US/BirdConstructionCareers/job/Calgary-AB/Director--Data--AI----Automation-Services_JR-9353) — Bird Construction
-- 📍 **Location:** Calgary, AB; Vancouver, BC; Mississauga, ON
-- 🕒 **Posted:** 2026-11-05
-
-### [Director, Corporate and Commercial Credit Risk](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/MONTREAL-QC-CAN/Director--Corporate-and-Commercial-Credit-Risk_R260022009-1) — BMO
-- 📍 **Location:** MONTREAL, QC, CAN; Toronto, ON, CAN
-- 🕒 **Posted:** 2026-11-17
-
-### [Director, GTM Planning & Compensation](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---USA/Director--GTM-Planning---Compensation_REQ-5307) — Clio
-- 📍 **Location:** Remote - USA; Vancouver; Remote - Canada; Toronto; Calgary
+### [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — Anthropic
+- 📍 **Location:** London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-06
+- 🕒 **Posted:** 2026-04-09
 
-### [Senior Director, Enterprise Architecture - Corporate Technology Services](https://colliers.wd3.myworkdayjobs.com/en-US/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Senior-Director--Enterprise-Architecture---Corporate-Technology-Services_JR18811) — Colliers
-- 📍 **Location:** Toronto, Ontario, Canada; Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-11-17
+### [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) — Anthropic
+- 📍 **Location:** London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-04-09
 
-### [Director, Public & Government Affairs - Technology clients](https://djeholdings.wd5.myworkdayjobs.com/en-US/edelman-careers-E200/job/Ottawa-Ontario-Canada/Director--Public---Government-Affairs---Technology-clients_JR103490) — Djeholdings
-- 📍 **Location:** Ottawa, Ontario, Canada; Toronto, Canada
-- 🕒 **Posted:** 2026-11-02
+### [Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) — Anthropic
+- 📍 **Location:** London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-04-23
 
-### [Director, Systems & Platform Integration, FCC](https://fil.wd3.myworkdayjobs.com/en-US/fidelitycanada/job/Mississauga-Office/Director--Systems---Platform-Integration--FCC_J72282) — FIL
-- 📍 **Location:** Mississauga Office; Toronto Office
-- 🕒 **Posted:** 2026-11-10
+### [VP Actuarial Modeling](https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/VP-Actuarial-Modeling_R255326) — Athene
+- 📍 **Location:** West Des Moines, Iowa; Toronto, Ontario
+- 🕒 **Posted:** 2026-11-11
 
-### [Customer Success Director (Part-time)](https://jobs.lever.co/jobgether/0e6e3ce9-3b59-44b5-9790-49b8e2fe22d7) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
+### [Director, Office and Critical Environments Projects, Corporate Real Estate](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Office-and-Critical-Environments-Projects--Corporate-Real-Estate_R260027879) — BMO
+- 📍 **Location:** Toronto, ON, CAN
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Enterprise Security & IT](https://jobs.ashbyhq.com/klue/d333dfec-2dd5-4b69-a69d-2b1e4a3c4efb) — Klue
-- 📍 **Location:** Vancouver, British Columbia
+### [Director/Vice President - Derivatives](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Toronto-Ontario/Director-Vice-President---Derivatives_R2053828) — Brookfield
+- 📍 **Location:** Toronto, Ontario
+- 🕒 **Posted:** 2026-11-18
+
+### [VP, Global Customer Support](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---USA/Senior-Director--Customer-Support_REQ-4978) — Clio
+- 📍 **Location:** Remote - USA; Vancouver; New York; Remote - Canada; Toronto
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-17
+
+### [VP, People Business Partners & Talent Development](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/VP--People-Business-Partners---Talent-Development_REQ-4593) — Clio
+- 📍 **Location:** Vancouver; New York; Remote - Canada; Toronto; Calgary
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-06
+
+### [Director, Valuations](https://cppib.wd10.myworkdayjobs.com/en-US/cppinvestments/job/Toronto/Director--Valuations_JR00954) — Cppib
+- 📍 **Location:** Toronto
+- 🕒 **Posted:** 2026-11-18
+
+### [Vice President, Information Security](https://jobs.ashbyhq.com/docebo/537e8698-9bfc-40b7-ac69-7f99ce3b5c0f) — Docebo
+- 📍 **Location:** Atlanta, Georgia; Toronto, Ontario; Athens, Georgia
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-05
+
+### [Director of Product Marketing (Hybrid)](https://jobs.ashbyhq.com/homebase/27e70394-fb87-4664-bbd4-8da554df4663) — Homebase
+- 📍 **Location:** San Francisco; Toronto
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-03
+
+### [Director, Sales Enablement](https://jobs.ashbyhq.com/jobber/0dfdd0e2-32c9-43f0-89e7-619815b9e419) — Jobber
+- 📍 **Location:** Edmonton; Vancouver; Kitchener-Waterloo; Toronto
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-21
+
+### [Director, Creator Operations](https://job-boards.greenhouse.io/later/jobs/8939751002) — Later
+- 📍 **Location:** Boston, MA; New York, New York, United States; Remote; San Francisco, California, United States; Vancouver, British Columbia, Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-12
+
+### [Enterprise Account Director](https://job-boards.greenhouse.io/later/jobs/8358045002) — Later
+- 📍 **Location:** Boston, MA; Los Angeles, California, United States; New York, New York, United States; Remote; Vancouver, British Columbia, Canada; Vancouver, Washington, United States
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-01-02
+
+### [VP Partnerships](https://job-boards.greenhouse.io/later/jobs/8377478002) — Later
+- 📍 **Location:** Boston, MA; Chicago, Illinois, United States; Los Angeles, California, United States; New York, New York, United States; Remote; Vancouver, British Columbia, Canada; Vancouver, Washington, United States
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-01-15
+
+### [VP, User Experience](https://job-boards.greenhouse.io/later/jobs/8726004002) — Later
+- 📍 **Location:** Boston, MA; Chicago, Illinois, United States; Los Angeles, California, United States; New York, New York, United States; Remote; San Francisco, California, United States; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Vancouver, Washington, United States
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-18
+
+### [Head of Product](https://jobs.ashbyhq.com/localstack/cdc82c39-72b0-4ead-a191-8e536b60a39a) — Localstack
+- 📍 **Location:** United Kingdom; Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-07-22
+
+### [Global Head of Corporate Finance, General Account](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Global-Head-of-Corporate-Finance--General-Account_JR26110321-1) — Manulife
+- 📍 **Location:** Toronto, Ontario; Boston, Massachusetts
+- 🕒 **Posted:** 2026-11-16
+
+### [VP, GWAM Technology Operations & Platforms](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/VP--GWAM-Technology-Operations---Platforms_JR26110387) — Manulife
+- 📍 **Location:** Toronto, Ontario; Boston, Massachusetts
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Director, CMM Model Monitoring and Architecture](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--CMM-Model-Monitoring-and-Architecture_R-0000192897-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-11-18
+
+### [Director of Analytics Engineering](https://jobs.ashbyhq.com/ScribdInc/de20593d-6bc8-4450-ba5c-5802819224da) — Scribdinc
+- 📍 **Location:** San Francisco; Toronto; Los Angeles; Denver; Chicago; New York City; Vancouver; Seattle; Austin; Boston; Dallas
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Director, Environmental, Health & Safety](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Senior-Director--Environmental--Health---Safety_20261426) — Lumentum
-- 📍 **Location:** Canada - Ottawa (Bill Leathem); USA - NC- Greensboro
-- 🕒 **Posted:** 2026-10-09
+### [Head of Commercial Reporting and Forecasting (US)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/Head-of-Commercial-Reporting-and-Forecasting--US-_R_1521003) — TD
+- 📍 **Location:** New York, New York; Remote Charlotte (NC); Remote Portland (ME); Mount Laurel, New Jersey; West Palm Beach, Florida
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-12
 
-### [Director, Product Analytics](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Director--Product-Analytics_JR26100779) — Manulife
-- 📍 **Location:** Toronto, Ontario; Waterloo, Ontario; Halifax, Nova Scotia; Montreal, Quebec
-- 🕒 **Posted:** 2026-11-05
+### [AVP Future Workforce](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AVP-Future-Workforce_R_1519666) — TD
+- 📍 **Location:** Toronto, Ontario
+- 🕒 **Posted:** 2026-11-18
 
-### [Senior Director, Governance and Execution Oversight](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Senior-Director--Governance-and-Execution-Oversight_JR26110149) — Manulife
-- 📍 **Location:** Toronto, Ontario; Waterloo, Ontario; Halifax, Nova Scotia; Montreal, Quebec
-- 🕒 **Posted:** 2026-11-13
+### [Sales Director - TMT, Public Sector](https://jobs.ashbyhq.com/telus-digital/bc7f0f1a-4bb5-4fb5-93a9-f48ed642f12d) — TELUS Digital
+- 📍 **Location:** Remote, US; Toronto, ON
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-07
 
-### [AVP GB Architecture and Engineering Enablement](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/AVP-GB-Architecture-and-Engineering-Enablement_JR26101411) — Manulife
-- 📍 **Location:** Toronto, Ontario; Waterloo, Ontario
+### [Director, Product & Solution Marketing](https://job-boards.greenhouse.io/cleargov/jobs/4430195009) — ClearGov
+- 📍 **Location:** Boston, Massachusetts, United States; Kansas City, Missouri, United States; Salt Lake City, Utah, United States; Tampa; Toronto, Ontario, Canada; United States; United States, Remote
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-02
+
+### [Head/VP of Product (AI Process Insights & Automation)](https://jobs.ashbyhq.com/mimica/02ca67ea-b630-4bdb-8033-144a2e377e38) — Mimica
+- 📍 **Location:** United Kingdom; Canada; Virginia; Massachusetts; North Carolina; New York; New Jersey; Pennsylvania; Florida
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-06-23
+
+### [Head of Platform (Infrastructure & DevOps)](https://jobs.ashbyhq.com/mimica/bb287245-a114-49be-820e-b602fc220aea) — Mimica
+- 📍 **Location:** Europe; Edinburgh; Ireland; Dublin; Amsterdam; Toronto; London; Lisbon; United Kingdom; Cambridge; Waterloo
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-19
+
+### [Head of Business Systems Product & Transformation](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Toronto-Ontario-Canada/Head-of-Business-Systems-Product---Transformation_R26-8544) — Rockwell Automation
+- 📍 **Location:** Toronto, Ontario, Canada; Milwaukee, Wisconsin, United States
 - 🕒 **Posted:** 2026-11-17
 
-### [Director, Data Science](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Vancouver-Canada/Director--Data-Science_R-280077) — Mastercard
-- 📍 **Location:** Vancouver, Canada; Toronto, Canada
+### [Director of Governance, Risk, and Compliance](https://jobs.ashbyhq.com/EliseAI/24ae98c1-2ef6-4876-b00c-59c572df9257) — EliseAI
+- 📍 **Location:** New York City; San Francisco; Toronto
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-06-16
 
-### [Director, Data Governance](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Director--Data-Governance_JR0154309) — Mckesson
-- 📍 **Location:** CAN, ON, Mississauga; CAN, QC, Montreal, Ville Saint-Laurent
-- 🕒 **Posted:** 2026-09-18
+### [Product Strategy and Operations, Director - New Verticals | Housing](https://jobs.ashbyhq.com/EliseAI/5ae4e913-e4cd-4655-9c80-b13b013552a7) — EliseAI
+- 📍 **Location:** New York City; Toronto
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-25
 
-### [Directeur(trice), Gouvernance des données / Director, Data Governance](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Directeur-trice---Gouvernance-des-donnes---Director--Data-Governance_JR0153194) — Mckesson
-- 📍 **Location:** CAN, QC, Montreal, Ville Saint-Laurent; Mississauga, ON, CAN - 2300 Meadowvale Blvd (MC74)
-- 🕒 **Posted:** 2026-09-18
-
-### [Director, HR Technology Governance & Projects](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Director--HR-Technology-Governance---Projects_JR0157347) — Mckesson
-- 📍 **Location:** USA, TX, Irving; Mississauga, ON, CAN - 2300 Meadowvale Blvd (MC74); USA, GA, Alpharetta
-- 🕒 **Posted:** 2026-11-10
-
-### [AVP - Associate General Counsel - Verafin](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Toronto-King-St/AVP---Associate-General-Counsel_R0027310-1) — Nasdaq
-- 📍 **Location:** Toronto-King St; St. John's - 110 Hebron Way
-- 🕒 **Posted:** 2026-11-13
-
-### [Director, AI Engineering](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director--AI-Engineering_JR00129556) — Sun Life
-- 📍 **Location:** Toronto, Ontario; Waterloo, Ontario
-- 🕒 **Posted:** 2026-11-06
-
-### [Director, Medicaid Compliance](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/US-Telecommuters/Director--Medicaid-Compliance_JR00126868) — Sun Life
-- 📍 **Location:** U.S. Telecommuters; U.S. Employees (Remote)
-- **Work mode:** Telecommute eligible
-- 🕒 **Posted:** 2026-11-02
-
-### [Director, Canadian Tax](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director--Canadian-Tax_JR00129667) — Sun Life
-- 📍 **Location:** Toronto, Ontario; Sun Life Waterloo King; Waterloo, Ontario
-- 🕒 **Posted:** 2026-11-10
-
-### [Director, ITE Value Realization Enablement](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Sun-Life-Toronto-One-York/Director--ITE-Value-Realization-Enablement_JR00129531-2) — Sun Life
-- 📍 **Location:** Sun Life Toronto One York; Sun Life Waterloo King
-- 🕒 **Posted:** 2026-11-10
-
-### [Director, Strategy & Transformation](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director--Strategy---Transformation_JR00129590) — Sun Life
-- 📍 **Location:** Toronto, Ontario; Waterloo, Ontario
-- 🕒 **Posted:** 2026-11-09
-
-### [VP, Finance, Global Technology](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/VP--Finance--Global-Technology_JR00129650-1) — Sun Life
-- 📍 **Location:** Toronto, Ontario; Sun Life Waterloo King
-- 🕒 **Posted:** 2026-11-09
-
-### [AVP, Security Domain Enterprise Architecture](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP--Security-Domain-Enterprise-Architecture_JR00129235) — Sun Life
-- 📍 **Location:** Toronto, Ontario; Montreal, Quebec
-- 🕒 **Posted:** 2026-11-11
-
-### [VP, Finance, Corporate Segments and Total Company Expenses](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/VP--Finance--Corporate-Segments-and-Total-Company-Expenses_JR00129648-1) — Sun Life
-- 📍 **Location:** Toronto, Ontario; Sun Life Waterloo King
-- 🕒 **Posted:** 2026-11-09
-
-### [AVP Market Strategy, Activation and Communications](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/AVP-Market-Strategy--Activation-and-Communications_JR00129598) — Sun Life
-- 📍 **Location:** Toronto, Ontario; Sun Life Waterloo King; Calgary, Alberta; Sun Life Montreal Metcalfe
-- 🕒 **Posted:** 2026-11-09
-
-### [AVP, Technology Lead - Digital](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Montreal-Quebec/AVP--Technology-Lead---Digital_JR00126372) — Sun Life
-- 📍 **Location:** Montreal, Quebec; Waterloo, Ontario
-- 🕒 **Posted:** 2026-11-17
-
-### [Head of Enterprise Sales](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/Remote---USA/Head-of-Enterprise-Sales_R55253-1) — Talentmanagementsolution
-- 📍 **Location:** Remote - USA; Remote - Canada
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-17
-
-### [VP, Marketing](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/Remote---USA/VP--Marketing_R55274) — Talentmanagementsolution
-- 📍 **Location:** Remote - USA; Remote Canada (ON)
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-13
-
-### [President, BEC Legal Systems](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/Remote---Canada/President--BEC-Legal-Systems_R53957) — Talentmanagementsolution
-- 📍 **Location:** Remote - Canada; Remote - USA
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-31
-
-### [Head of Business Development - Marketing Solutions](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Burlington-Canada/Head-of-Business-Development---Marketing-Solutions_19043137) — Transunion
-- 📍 **Location:** Burlington, Canada; Remote - Canada; Toronto
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-11
-
-### [Director, Marketing & Growth](https://minga.bamboohr.com/careers/120) — Minga
-- 📍 **Location:** Vancouver, British Columbia, Canada
-
-### [VP of Finance](https://minga.bamboohr.com/careers/122) — Minga
-- 📍 **Location:** Kelowna, British Columbia, Canada
-
-### [Chief Financial Officer](https://minga.bamboohr.com/careers/123) — Minga
-- 📍 **Location:** Kelowna, British Columbia, Canada
-
-### [Vice President, Private Equity](https://builtintoronto.com/job/vice-president-private-equity/12313051) — Pinnacle Fund Services
+### [Demand Marketing Director](https://builtintoronto.com/job/demand-marketing-director/12314151) — Ericsson
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Head of Data Analytics - Veeva Ostro](https://builtintoronto.com/job/data-analytics-lead/10784541) — Veeva
+### [Director, Global Tax Operations, Reporting & Compliance](https://builtintoronto.com/job/director-global-tax-operations-reporting-compliance/12314060) — Cash App
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Head of Hardware (Robotics)](https://builtintoronto.com/job/head-hardware-robotics/10925816) — TAR
+### [Director, Global Tax Information, Reporting & Withholding](https://builtintoronto.com/job/director-global-tax-information-reporting-withholding/12313994) — Cash App
 - 📍 **Location:** Toronto, Ontario, Canada
 
-### [Head of Manufacturing Engineering](https://builtintoronto.com/job/head-manufacturing-engineering/10925810) — TAR
+### [Regional Sales Director | Canada](https://builtintoronto.com/job/regional-sales-director-canada/10025535) — Stateside Brands LLC
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Head of Strategic Product Sales](https://builtintoronto.com/job/head-strategic-product-sales/12314056) — Cash App
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Head of Seller Onboarding External Workforce Operations](https://builtintoronto.com/job/head-seller-onboarding-external-workforce-operations/12314018) — Cash App
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Head of Customer Self-Service Onboarding, Sales](https://builtintoronto.com/job/head-customer-self-service-onboarding-sales/12313993) — Cash App
 - 📍 **Location:** Toronto, Ontario, Canada

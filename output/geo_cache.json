@@ -303,6 +303,10 @@
       44.6612481,
       -75.883781
     ],
+    "alberta;, ab, canada": [
+      53.52682,
+      -113.5244937
+    ],
     "alpharetta, on, canada": null,
     "antigonish, ns, canada": [
       45.6213607,
@@ -344,6 +348,14 @@
       44.0666091,
       -79.4719565
     ],
+    "british columbia; toronto, on, canada": [
+      43.6319527,
+      -79.4250402
+    ],
+    "british columbia; vancouver, bc, canada": [
+      49.2779085,
+      -123.1089417
+    ],
     "brunswick, nb, canada": [
       45.9593092,
       -66.6362825
@@ -370,6 +382,7 @@
       45.453911,
       -75.6854721
     ],
+    "canada; united states; united states, on, canada": null,
     "canada; vancouver, bc, canada": [
       49.282877,
       -123.1205636
@@ -494,6 +507,7 @@
       43.037725,
       -80.88211
     ],
+    "iowa; toronto, on, canada": null,
     "iqaluit, nu, canada": [
       63.7492738,
       -68.5213763
@@ -594,6 +608,10 @@
     "old crow, yt, canada": [
       67.571002,
       -139.825745
+    ],
+    "on; vancouver, bc, canada": [
+      49.2810379,
+      -123.132738
     ],
     "onion lake, sk, canada": [
       53.7173204,
@@ -725,9 +743,25 @@
       45.3656974,
       -63.2864971
     ],
+    "united states, bc, canada": [
+      49.000563,
+      -116.1817144
+    ],
+    "united states, on, canada": [
+      45.4279545,
+      -75.6958721
+    ],
+    "united states; vancouver, bc, canada": [
+      49.2875058,
+      -123.1196358
+    ],
     "urban agglomeration of montreal, qc, canada": [
       45.5505849,
       -73.6022317
+    ],
+    "us; toronto, on, canada": [
+      43.6534817,
+      -79.3839347
     ],
     "valcourt, qc, canada": [
       45.4937347,
