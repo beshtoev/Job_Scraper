@@ -352,3 +352,15 @@ def test_icims_cards_and_paging(monkeypatch):
     assert job["url"] == "https://careers-x.icims.com/jobs/6382/director/job"
     assert job["req_id"] == "6382" and job["date_posted"] == "2026-11-17"
     assert len(pages) == 2
+
+
+def test_icims_kinaxis_layout(monkeypatch):
+    card = ('<li class="iCIMS_JobCardItem"><div class="row"><div class="col-xs-6 header left">'
+            '<span class="sr-only field-label">Location</span> <span > CA-Remote</span></div>'
+            '<div class="col-xs-12 title"><a href="https://careers-k.icims.com/jobs/36078/head/job?in_iframe=1" class="iCIMS_Anchor" title="x">'
+            '<h3 > Head of Operations Research</h3></a></div><dl><dt class="iCIMS_JobHeaderField">Posted Date</dt>'
+            '<dd class="iCIMS_JobHeaderData"><span title="11/18/2026 2:22 PM"> 3 hours ago</span></dd></dl></div></li>')
+    monkeypatch.setattr(portals, "http_text", lambda url: card if url.endswith("pr=0") else "")
+    [job] = portals.fetch_icims({**_entry("icims"), "careers_url": "https://careers-k.icims.com/jobs/search"})
+    assert job["location"] == "Remote, Canada"
+    assert job["date_posted"] == "2026-11-18"
