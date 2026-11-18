@@ -54,8 +54,8 @@
   ],
   "counts": {
     "companies": 365,
-    "pollable": 234,
-    "unresolved": 131
+    "pollable": 235,
+    "unresolved": 130
   },
   "companies": [
     {
@@ -1511,15 +1511,15 @@
     {
       "company": "Equinix",
       "archetype": "A",
-      "ats": "",
+      "ats": "workday",
       "slug": "",
-      "careers_url": "",
-      "source": "seed:canadian-tech",
+      "careers_url": "https://equinix.wd1.myworkdayjobs.com/en-US/External?Location_Country=a30a87ed25634629aa6c3958aa2b91ea",
+      "source": "seed:canadian-tech; murat 2026-11-18 (careers.equinix.com/equinix-careers-in-canada)",
       "include": [],
       "exclude": [],
       "searches": [],
-      "enabled": false,
-      "resolution_status": "unresolved"
+      "enabled": true,
+      "resolution_status": "resolved"
     },
     {
       "company": "Equitable Bank",
