@@ -1,68 +1,57 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 15:22 UTC*
+*Last updated: 2026-11-19 16:12 UTC*
 
-**14 new role(s)** since last run · 15 total in last 1h
+**12 new role(s)** since last run · 23 total in last 1h
 
-### [Director, Data Analytics](https://www.linkedin.com/jobs/view/4492168329/) — Movable Ink
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $225,000-$290,000/year
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Data Analytics](https://www.linkedin.com/jobs/view/4492159655/) — Movable Ink
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $225,000-$290,000/year
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Indigenous Partnerships, Data and Analytic Services](https://www.linkedin.com/jobs/view/4492175090/) — ICES
+### [Capital Markets Accounting Advisory Director](https://www.linkedin.com/jobs/view/4484135476/) — RSM Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000 - $155,000
+- 💰 **Salary:** $123,000 - $225,800
 - 🕒 **Posted:** 2026-11-19
 
-### [Senior Director, FX Engineering](https://www.linkedin.com/jobs/view/4448573598/) — Scotiabank
+### [Associate Director, Investment Platform (Contract)](https://www.linkedin.com/jobs/view/4440588023/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $70,000.00 - $150,000.00
 - 🕒 **Posted:** 2026-11-19
 
-### [Finance Director](https://www.linkedin.com/jobs/view/4484722131/) — RECRUITMENT PARTNERS INC.
+### [Capital Projects and Infrastructure, Infrastructure Project Finance, Director](https://www.linkedin.com/jobs/view/4484712524/) — PwC Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $152,000 - $202,000
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Internal Audit](https://www.linkedin.com/jobs/view/4476319189/) — Brookfield
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $135,000 – $155,000
+- 🕒 **Posted:** 2026-11-19
+
+### [Director of Retail - OEG - Rank & Rally (Sports Industry / Arena)](https://www.linkedin.com/jobs/view/4484529402/) — Compass Group Canada
 - 📍 **Location:** Edmonton, Alberta, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Data Analytics](https://www.linkedin.com/jobs/view/4492165408/) — Movable Ink
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $225,000-$290,000/year
+### [Director Business Unit Retail Canada](https://www.linkedin.com/jobs/view/4492172303/) — Bizerba Canada
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [VP of Finance & Accounting (WHL Group & Family Office)](https://www.linkedin.com/jobs/view/4492154701/) — WHL Holdings
+### [Director – Data, Analytics & AI (BFSI)](https://www.linkedin.com/jobs/view/4492154966/) — N2P Systems
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Organizational Dashboard Director](https://www.linkedin.com/jobs/view/4484912274/) — Morgan Stanley
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Network Development & Operations](https://www.linkedin.com/jobs/view/4491612916/) — Xplore Inc.
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Network Development & Operations](https://www.linkedin.com/jobs/view/4491616766/) — Xplore Inc.
+- 📍 **Location:** Markham, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Supply Chain Management](https://www.linkedin.com/jobs/view/4465791245/) — Tenstorrent
 - 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $100k - $500k
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Customer Education & Documentation](https://www.linkedin.com/jobs/view/4475132088/) — Redwood Software
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000 - $170,000 annually
-- 🕒 **Posted:** 2026-11-19
-
-### [Associate Director, Retail Search](https://www.linkedin.com/jobs/view/4492175032/) — Cella
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $43.00/hr - CA$49.00/hr
-- 🕒 **Posted:** 2026-11-19
-
-### [Director of Digital Fundraising](https://www.linkedin.com/jobs/view/4492156662/) — Blue North Strategies
-- 📍 **Location:** Guelph, Ontario, Canada
-- 💰 **Salary:** $95,000.00/yr - CA$100,000.00/yr
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Digital Fundraising](https://www.linkedin.com/jobs/view/4492163382/) — Blue North Strategies
-- 📍 **Location:** Guelph, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Senior Director, Growth](https://www.linkedin.com/jobs/view/4422313005/) — APPLY
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Enterprise Architecture](https://www.linkedin.com/jobs/view/4467783382/) — Brookfield
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $165K-$180k
-- 🕒 **Posted:** 2026-11-19
-
-### [Head of Toronto AI Center](https://www.linkedin.com/jobs/view/4456517334/) — Samsung Research America (SRA)
-- 📍 **Location:** Greater Toronto Area, Canada
+### [Director, Network Development & Operations](https://www.linkedin.com/jobs/view/4491610971/) — Xplore Inc.
+- 📍 **Location:** Cornwall, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
