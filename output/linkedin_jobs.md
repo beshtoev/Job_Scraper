@@ -1,39 +1,51 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 13:10 UTC*
+*Last updated: 2026-11-19 14:39 UTC*
 
-**8 new role(s)** since last run · 12 total in last 1h
+**11 new role(s)** since last run · 19 total in last 1h
 
-### [Vice President, IT Solutions Delivery](https://www.linkedin.com/jobs/view/4412997298/) — Westland Insurance Group Ltd.
-- 📍 **Location:** Surrey, British Columbia, Canada
-- 💰 **Salary:** $200,000 to $230,000
+### [IT Director, Application Development & Support](https://www.linkedin.com/jobs/view/4492446428/) — Michael Page
+- 📍 **Location:** Markham, Ontario, Canada
+- 💰 **Salary:** $140,000.00/yr - CA$180,000.00/yr
 - 🕒 **Posted:** 2026-11-19
 
-### [Head of Core Systems to Euroclear](https://www.linkedin.com/jobs/view/4492141934/) — Poolia Sverige
-- 📍 **Location:** Strathcona County, Alberta, Canada
+### [Senior PMO Director](https://www.linkedin.com/jobs/view/4475447988/) — Appficiency Inc.
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Saint John Director of Public Health (N-B) PCN 1254798](https://www.linkedin.com/jobs/view/4491623027/) — Horizon Health Network
-- 📍 **Location:** Saint John, New Brunswick, Canada
+### [VP, AI/Multitech](https://www.linkedin.com/jobs/view/4475465306/) — Appficiency Inc.
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Engineering, Real Estate Secured Lending (RESL)](https://www.linkedin.com/jobs/view/4484139625/) — Scotiabank
+### [VP, Delivery and Customer Success](https://www.linkedin.com/jobs/view/4475463336/) — Appficiency Inc.
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Data Science (Investments)](https://www.linkedin.com/jobs/view/4484745464/) — Mackenzie Investments
+- 📍 **Location:** Greater Toronto Area, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4492167155/) — Elby Professional Recruitment
+- 📍 **Location:** Kitchener, Ontario, Canada
+- 💰 **Salary:** $90,000.00/yr - CA$110,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [VP, Construction & ETO](https://www.linkedin.com/jobs/view/4475463337/) — Appficiency Inc.
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [VP Consulting Services, Banking & Financial Services](https://www.linkedin.com/jobs/view/4436459762/) — CGI
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Vice President, Investments](https://www.linkedin.com/jobs/view/4476974631/) — Brookfield
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Americas, Life Sciences Vertical](https://www.linkedin.com/jobs/view/4492293315/) — Siemens
-- 📍 **Location:** Oakville, Ontario, Canada
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4457632958/) — MNP Executive Search & Professional Recruitment
+- 📍 **Location:** Manitoba, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Growth Marketing](https://www.linkedin.com/jobs/view/4466516973/) — Nicola Wealth
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $140,000 - $180,000
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Enterprise Strategy - Global Banking & Markets](https://www.linkedin.com/jobs/view/4466515375/) — Scotiabank
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Product Support Operations](https://www.linkedin.com/jobs/view/4467219756/) — Tubi
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $175,600 - $250,800
+### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4491861098/) — Vaco by Highspring
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $90.00/hr - CA$110.00/hr
 - 🕒 **Posted:** 2026-11-19
