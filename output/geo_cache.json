@@ -148,6 +148,10 @@
       43.7110013,
       -79.3996631
     ],
+    "2480 walkley road, ottawa, canada": [
+      45.3896969,
+      -75.61059
+    ],
     "25 ontario street, toronto, canada": [
       43.65254,
       -79.366284
@@ -243,6 +247,10 @@
     "55 john street, toronto, on, canada": [
       43.6460763,
       -79.3887574
+    ],
+    "55 york street, toronto, on, canada": [
+      43.6461957,
+      -79.3824764
     ],
     "550 west hastings street, vancouver, canada": [
       49.2841528,
@@ -577,6 +585,10 @@
       49.2650436,
       -123.2446879
     ],
+    "midhurst, on, canada": [
+      44.4436908,
+      -79.7281684
+    ],
     "minesing, on, canada": [
       44.4429839,
       -79.8423725
@@ -840,14 +852,6 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "2480 walkley road, ottawa, canada": [
-      45.3896969,
-      -75.61059
-    ],
-    "midhurst, on, canada": [
-      44.4436908,
-      -79.7281684
     ]
   },
   "research": {}
