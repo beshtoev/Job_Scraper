@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 05:14 UTC",
+  "updated_at": "2026-11-19 05:22 UTC",
   "jobs": [
     {
       "company": "Thomson Reuters",
@@ -97489,5 +97489,6 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ]
+  ],
+  "total": 3249
 }
