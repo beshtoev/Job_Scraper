@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 04:48 UTC*
+*Last updated: 2026-11-19 05:20 UTC*
 
-**2 new role(s)** since last run · 10 total in last 1h
+**1 new role(s)** since last run · 11 total in last 1h
 
-### [Director of Computer Vision](https://www.linkedin.com/jobs/view/4492279304/) — Motorola Solutions
+### [Director, Model Inference Engineering](https://www.linkedin.com/jobs/view/4492122574/) — Thomson Reuters
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Senior Director, SEM](https://www.linkedin.com/jobs/view/4492262714/) — Monks
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $214,000—$240,000
+- 💰 **Salary:** $212,100 USD - $393,900 USD
 - 🕒 **Posted:** 2026-11-19
