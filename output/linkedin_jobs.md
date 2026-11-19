@@ -1,56 +1,30 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 17:56 UTC*
+*Last updated: 2026-11-19 18:36 UTC*
 
-**12 new role(s)** since last run · 22 total in last 1h
+**6 new role(s)** since last run · 14 total in last 1h
 
-### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488181720/) — ABB
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director, Data Analytics](https://www.linkedin.com/jobs/view/4492168329/) — Movable Ink
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $225,000-$290,000/year
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488181513/) — ABB
-- 📍 **Location:** Alberta, Canada
+### [Director, Data Analytics](https://www.linkedin.com/jobs/view/4492159655/) — Movable Ink
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $225,000-$290,000/year
 - 🕒 **Posted:** 2026-11-19
 
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4492465679/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
-- 🕒 **Posted:** 2026-11-19
-
-### [Chief Financial Officer and Vice President of Information Management and Information Technology](https://www.linkedin.com/jobs/view/4467799546/) — First Nations Health Authority
-- 📍 **Location:** Metro Vancouver A, British Columbia, Canada
-- 💰 **Salary:** $226,000- $282,000 per year
-- 🕒 **Posted:** 2026-11-19
-
-### [Associate Vice President, Finance, Strategy, Portfolio Management and Value Realization](https://www.linkedin.com/jobs/view/4492463616/) — TD
+### [Director, Data Science](https://www.linkedin.com/jobs/view/4476759005/) — Capital One
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $155,000 - $215,000
 - 🕒 **Posted:** 2026-11-19
 
-### [Managing Director (NAM)](https://www.linkedin.com/jobs/view/4476791739/) — TAG Software Group
+### [Head of Toronto AI Center](https://www.linkedin.com/jobs/view/4456517334/) — Samsung Research America (SRA)
+- 📍 **Location:** Greater Toronto Area, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [VP, Engineering](https://www.linkedin.com/jobs/view/4484774009/) — 1Password
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [AI Solution Engineering - Director](https://www.linkedin.com/jobs/view/4492465542/) — PwC UK
-- 📍 **Location:** London, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Finance](https://www.linkedin.com/jobs/view/4492183621/) — Electrical Safety Authority
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Digital Construction and Commissioning Delivery Director](https://www.linkedin.com/jobs/view/4492474763/) — Worley
+### [Senior Director, FX Engineering](https://www.linkedin.com/jobs/view/4448573598/) — Scotiabank
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488180569/) — ABB
-- 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Indigenous Partnerships, Data and Analytic Services](https://www.linkedin.com/jobs/view/4492175090/) — ICES
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000 - $155,000
-- 🕒 **Posted:** 2026-11-19
-
-### [Community Engagement Manager, Data Centres (Canada)](https://www.linkedin.com/jobs/view/4492170755/) — Anthropic
-- 📍 **Location:** Alberta, Canada
 - 🕒 **Posted:** 2026-11-19
