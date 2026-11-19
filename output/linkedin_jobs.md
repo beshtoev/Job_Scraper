@@ -1,108 +1,84 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 22:59 UTC*
+*Last updated: 2026-11-19 23:47 UTC*
 
-**24 new role(s)** since last run · 76 total in last 1h
+**18 new role(s)** since last run · 21 total in last 1h
 
-### [Director, FP&A](https://www.linkedin.com/jobs/view/4492715696/) — Range
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Vice President, Marketing](https://www.linkedin.com/jobs/view/4491659151/) — WOW 1 DAY PAINTING
+### [VP, Engineering Operations](https://www.linkedin.com/jobs/view/4491664087/) — Redis
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $160,000-190,000
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Data Analytics](https://www.linkedin.com/jobs/view/4492165408/) — Movable Ink
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $225,000-$290,000/year
+### [Director, Technology & Product](https://www.linkedin.com/jobs/view/4492713907/) — Univerus
+- 📍 **Location:** Surrey, British Columbia, Canada
+- 💰 **Salary:** $120,000 to $145,000
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Trust & Anti-Fraud // Directeur, Confiance et Anti-fraude](https://www.linkedin.com/jobs/view/4488038789/) — Mistplay
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000.00/yr - CA$185,000.00/yr
+### [Ecommerce Director - Royal Canin (Canada)](https://www.linkedin.com/jobs/view/4492507795/) — Mars
+- 📍 **Location:** Guelph, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Data Science](https://www.linkedin.com/jobs/view/4476759005/) — Capital One
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Digital Construction and Commissioning Delivery Director](https://www.linkedin.com/jobs/view/4492474763/) — Worley
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [AI Solution Engineering - Director](https://www.linkedin.com/jobs/view/4492495983/) — PwC UK
-- 📍 **Location:** London, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Vice President - Investment Management](https://www.linkedin.com/jobs/view/4484120136/) — TELUS
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Turnaround & Restructuring Senior Vice President](https://www.linkedin.com/jobs/view/4491660263/) — AlixPartners
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Vice-président(e) exécutif(ve), Partenariats Public-Privé - Canada ou États-Unis | Executive Vice President of Public-Private Partnerships - Canada or United States](https://www.linkedin.com/jobs/view/4492507550/) — Equans Services Canada & US
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Credit Transaction Management (CTM)](https://www.linkedin.com/jobs/view/4492461033/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Managing Director, Real Estate Debt](https://www.linkedin.com/jobs/view/4492191269/) — Thorek/Scott and Partners
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Transaction Accounting Director](https://www.linkedin.com/jobs/view/4484137424/) — RSM Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $123,000 - $225,800
-- 🕒 **Posted:** 2026-11-19
-
-### [Director of Financial Resilience](https://www.linkedin.com/jobs/view/4492713821/) — New Destiny Housing Corporation
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Capital Markets Accounting Advisory Director](https://www.linkedin.com/jobs/view/4484135476/) — RSM Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $123,000 - $225,800
-- 🕒 **Posted:** 2026-11-19
-
-### [Diabetes Canada, Executive Director - Corporate Partnerships](https://www.linkedin.com/jobs/view/4492173504/) — EDGEPATH Talent Solutions
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000–$150,000 annually
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Funding & Servicing](https://www.linkedin.com/jobs/view/4474989218/) — KV Capital
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $125,000 - $160,000 annually
-- 🕒 **Posted:** 2026-11-19
-
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4492708426/) — CPA Prince Edward Island
-- 📍 **Location:** Opportunity 17, Alberta, Canada
-- 💰 **Salary:** $120k - $150k
-- 🕒 **Posted:** 2026-11-19
-
-### [Contract Director](https://www.linkedin.com/jobs/view/4492714975/) — MTY Food Group
+### [Director, Finance Systems](https://www.linkedin.com/jobs/view/4492506792/) — Plusgrade
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [VP Taxation - 3 months](https://www.linkedin.com/jobs/view/4491639642/) — The Mason Group - Strategic Search Partners
+### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488193069/) — ABB
+- 📍 **Location:** New Brunswick, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488181720/) — ABB
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Emerging Resources](https://www.linkedin.com/jobs/view/4492527018/) — Government of Alberta
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $5,139.30 - $6,526.16
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Oracle ERP Product Management](https://www.linkedin.com/jobs/view/4492517387/) — Tru Cooperative Bank
+- 📍 **Location:** Langley, British Columbia, Canada
+- 💰 **Salary:** $120,000.00/yr - $153,800.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Vice President, M&A Integration and Clinic Onboarding](https://www.linkedin.com/jobs/view/4492506831/) — 123Dentist
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Executive Head of Pensions Operations, £multi-bn fund](https://www.linkedin.com/jobs/view/4492463402/) — PensionsAge
+### [Director, Developer Success Programs](https://www.linkedin.com/jobs/view/4492733270/) — Docker, Inc
+- 📍 **Location:** Canada
+- 💰 **Salary:** $218,750 - $375,000
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, FinOps (35690)](https://www.linkedin.com/jobs/view/4492503822/) — Myticas Consulting
+- 📍 **Location:** British Columbia, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director of Public Health Emergency Preparedness](https://www.linkedin.com/jobs/view/4492715740/) — Government of Nova Scotia
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 💰 **Salary:** $4,322.15 - $5,402.66
+- 🕒 **Posted:** 2026-11-19
+
+### [Senior Director, Clinical Trials Performance & Head of Operations, SPHERE CRO](https://www.linkedin.com/jobs/view/4489837188/) — St. Michael's Hospital
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Discretionary Portfolio Management Supervision](https://www.linkedin.com/jobs/view/4492522158/) — Edward Jones
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $158,600.00/yr - CA$269,900.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Associate Director, Commercial Banking (Corporate Finance Group)](https://www.linkedin.com/jobs/view/4492730553/) — BMO
+- 📍 **Location:** Kelowna, British Columbia, Canada
+- 💰 **Salary:** $65,000.00 - $130,000.00
+- 🕒 **Posted:** 2026-11-19
+
+### [Senior Director, Creative – EA SPORTS FC](https://www.linkedin.com/jobs/view/4491668047/) — Electronic Arts (EA)
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $190,500 - $267,300
+- 🕒 **Posted:** 2026-11-19
+
+### [Adobe Alliance Sales Director - UK](https://www.linkedin.com/jobs/view/4492733522/) — PwC UK
 - 📍 **Location:** London, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Payroll Operate Services - Director](https://www.linkedin.com/jobs/view/4491646893/) — EY
-- 📍 **Location:** London, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Payroll Operate Services - Director](https://www.linkedin.com/jobs/view/4491649699/) — EY
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Payroll Operate Services - Director](https://www.linkedin.com/jobs/view/4491664066/) — EY
-- 📍 **Location:** Ottawa, Ontario, Canada
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4492516676/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
