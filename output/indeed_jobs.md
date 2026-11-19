@@ -1,16 +1,14 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 04:26 UTC*
+*Last updated: 2026-11-19 06:54 UTC*
 
-**2 new role(s)** since last run · 31 total in last 24h
+**2 new role(s)** since last run · 27 total in last 24h
 
-### [Program Director, Risk Transformation & Execution](https://ca.indeed.com/viewjob?jk=1ade82a1ab9e1d84) — Manulife
-- 📍 **Location:** Toronto, ON, CA
+### [Director, Business Processes](https://ca.indeed.com/viewjob?jk=1c7ce23d8966911a) — OpenText
+- 📍 **Location:** Richmond Hill, ON, CA
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-17
 
-### [Business Development Vice President](https://ca.indeed.com/viewjob?jk=df74060593bd51fb) — CGI
+### [Director of Project Management](https://ca.indeed.com/viewjob?jk=2426656e130afa36) — GE HealthCare
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-18
