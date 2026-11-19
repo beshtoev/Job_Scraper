@@ -1,14 +1,37 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 11:11 UTC*
+*Last updated: 2026-11-19 12:05 UTC*
 
-**2 new role(s)** since last run · 15 total in last 1h
+**8 new role(s)** since last run · 11 total in last 1h
 
-### [Director - Technology](https://www.linkedin.com/jobs/view/4484795351/) — KPMG Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $117,000 - $196,000
+### [Head of Marketing](https://www.linkedin.com/jobs/view/4492155059/) — Haystack
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Director of Finance & Finance Business Partner - Hybrid](https://www.linkedin.com/jobs/view/4482525874/) — The Mason Group - Strategic Search Partners
-- 📍 **Location:** Surrey, British Columbia, Canada
-- 💰 **Salary:** $180,000.00/yr - CA$210,000.00/yr
+### [Associate Director - Structured Finance Ratings, Esoteric Assets, New York, Chicago, Denver, or Toronto](https://www.linkedin.com/jobs/view/4484147169/) — S&P Global
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $110,000 USD to $193,000 USD
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4492132935/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Vice President Finance Administration](https://www.linkedin.com/jobs/view/4492148435/) — Slemon Park Corporation
+- 📍 **Location:** Slemon Park, Prince Edward Island, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [VP Operations, Western Canada](https://www.linkedin.com/jobs/view/4491608324/) — Ladders
+- 📍 **Location:** Richmond, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Process Team Leader - Automation, Backend, Test and SPCM](https://www.linkedin.com/jobs/view/4475996762/) — Excelitas Technologies Corp.
+- 📍 **Location:** Vaudreuil-Dorion, Quebec, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Global Marketing & Sales Enablement](https://www.linkedin.com/jobs/view/4492132934/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Americas, Life Sciences Vertical](https://www.linkedin.com/jobs/view/4492293315/) — Siemens
+- 📍 **Location:** Oakville, Ontario, Canada
 - 🕒 **Posted:** 2026-11-19
