@@ -1,28 +1,39 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 18:40 UTC*
+*Last updated: 2026-11-19 21:00 UTC*
 
-**4 new role(s)** since last run · 27 total in last 24h
+**6 new role(s)** since last run · 26 total in last 24h
 
-### [Regional Head of Sales, Travel Partnerships, North America](https://ca.indeed.com/viewjob?jk=c4c4f20560c8db5f) — Allianz
-- 📍 **Location:** Cambridge, ON, CA
-- **Work mode:** On-site
+### [Executive Director, Planetary and Molecular Sensing Technologies Program](https://ca.indeed.com/viewjob?jk=c51dda981a7fa12d) — University of Toronto
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Practice Director](https://ca.indeed.com/viewjob?jk=32540ebb7c91461c) — Dentalcorp
+### [Vice President, Consulting](https://ca.indeed.com/viewjob?jk=1895a767c54fe43f) — Klick Health
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Planning and Performance (Operations)](https://ca.indeed.com/viewjob?jk=5b215d81799cca82) — Sofina Foods
-- 📍 **Location:** Markham, ON, CA
+### [Senior Director, Digital Products and Experience - Canada (70309755)](https://ca.indeed.com/viewjob?jk=8841ef7e78ae2e76) — Sodexo
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Commercial Strategy](https://ca.indeed.com/viewjob?jk=2549066303ac2dd0) — Solutions 2 Go
+- 📍 **Location:** Brampton, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Manufacturing and Engineering Practice](https://ca.indeed.com/viewjob?jk=f645ed8f89ef370d) — Innovair Solutions
-- 📍 **Location:** Saint-Bruno-de-Montarville, QC, CA
+### [Vice-President, Technology & Digital Transformation](https://ca.indeed.com/viewjob?jk=f243ff2ed20fc9ab) — Billyard Insurance Group
+- 📍 **Location:** Welland, ON, CA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Manufacturing and Engineering Practice](https://ca.indeed.com/viewjob?jk=e4a396e8fe601ddd) — Innovair Solutions
+- 📍 **Location:** Sherbrooke, QC, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-19
