@@ -1,6 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 02:59 UTC*
+*Last updated: 2026-11-19 03:55 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Vice President, Operations](https://www.linkedin.com/jobs/view/4492263521/) — Vision Group
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [SOX Director - ITGC](https://www.linkedin.com/jobs/view/4492121353/) — Jobgether
+- 📍 **Location:** Canada
+- 💰 **Salary:** USD $116,600–$259,700
+- 🕒 **Posted:** 2026-11-19
