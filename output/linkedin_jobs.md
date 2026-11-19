@@ -1,57 +1,56 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 16:12 UTC*
+*Last updated: 2026-11-19 17:56 UTC*
 
-**12 new role(s)** since last run · 23 total in last 1h
+**12 new role(s)** since last run · 22 total in last 1h
 
-### [Capital Markets Accounting Advisory Director](https://www.linkedin.com/jobs/view/4484135476/) — RSM Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $123,000 - $225,800
-- 🕒 **Posted:** 2026-11-19
-
-### [Associate Director, Investment Platform (Contract)](https://www.linkedin.com/jobs/view/4440588023/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $70,000.00 - $150,000.00
-- 🕒 **Posted:** 2026-11-19
-
-### [Capital Projects and Infrastructure, Infrastructure Project Finance, Director](https://www.linkedin.com/jobs/view/4484712524/) — PwC Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $152,000 - $202,000
-- 🕒 **Posted:** 2026-11-19
-
-### [Director, Internal Audit](https://www.linkedin.com/jobs/view/4476319189/) — Brookfield
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $135,000 – $155,000
-- 🕒 **Posted:** 2026-11-19
-
-### [Director of Retail - OEG - Rank & Rally (Sports Industry / Arena)](https://www.linkedin.com/jobs/view/4484529402/) — Compass Group Canada
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Director Business Unit Retail Canada](https://www.linkedin.com/jobs/view/4492172303/) — Bizerba Canada
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Director – Data, Analytics & AI (BFSI)](https://www.linkedin.com/jobs/view/4492154966/) — N2P Systems
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-19
-
-### [Organizational Dashboard Director](https://www.linkedin.com/jobs/view/4484912274/) — Morgan Stanley
+### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488181720/) — ABB
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Network Development & Operations](https://www.linkedin.com/jobs/view/4491612916/) — Xplore Inc.
-- 📍 **Location:** Calgary, Alberta, Canada
+### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488181513/) — ABB
+- 📍 **Location:** Alberta, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Network Development & Operations](https://www.linkedin.com/jobs/view/4491616766/) — Xplore Inc.
-- 📍 **Location:** Markham, Ontario, Canada
+### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4492465679/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
+- 💰 **Salary:** $140,000 to $175,000,
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Supply Chain Management](https://www.linkedin.com/jobs/view/4465791245/) — Tenstorrent
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $100k - $500k
+### [Chief Financial Officer and Vice President of Information Management and Information Technology](https://www.linkedin.com/jobs/view/4467799546/) — First Nations Health Authority
+- 📍 **Location:** Metro Vancouver A, British Columbia, Canada
+- 💰 **Salary:** $226,000- $282,000 per year
 - 🕒 **Posted:** 2026-11-19
 
-### [Director, Network Development & Operations](https://www.linkedin.com/jobs/view/4491610971/) — Xplore Inc.
-- 📍 **Location:** Cornwall, Ontario, Canada
+### [Associate Vice President, Finance, Strategy, Portfolio Management and Value Realization](https://www.linkedin.com/jobs/view/4492463616/) — TD
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $155,000 - $215,000
+- 🕒 **Posted:** 2026-11-19
+
+### [Managing Director (NAM)](https://www.linkedin.com/jobs/view/4476791739/) — TAG Software Group
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [AI Solution Engineering - Director](https://www.linkedin.com/jobs/view/4492465542/) — PwC UK
+- 📍 **Location:** London, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Finance](https://www.linkedin.com/jobs/view/4492183621/) — Electrical Safety Authority
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Digital Construction and Commissioning Delivery Director](https://www.linkedin.com/jobs/view/4492474763/) — Worley
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, International Business Transformation & Strategy Execution (flexible location)](https://www.linkedin.com/jobs/view/4488180569/) — ABB
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Indigenous Partnerships, Data and Analytic Services](https://www.linkedin.com/jobs/view/4492175090/) — ICES
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000 - $155,000
+- 🕒 **Posted:** 2026-11-19
+
+### [Community Engagement Manager, Data Centres (Canada)](https://www.linkedin.com/jobs/view/4492170755/) — Anthropic
+- 📍 **Location:** Alberta, Canada
 - 🕒 **Posted:** 2026-11-19
