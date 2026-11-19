@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 370,
-    "pollable": 241,
+    "companies": 371,
+    "pollable": 242,
     "unresolved": 129
   },
   "companies": [
@@ -870,6 +870,19 @@
       "slug": "electricmind",
       "careers_url": "https://jobs.lever.co/electricmind",
       "source": "murat 2026-11-18",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Qualio",
+      "archetype": "A",
+      "ats": "greenhouse",
+      "slug": "qualio",
+      "careers_url": "https://job-boards.greenhouse.io/qualio",
+      "source": "murat 2026-11-19",
       "include": [],
       "exclude": [],
       "searches": [],

@@ -471,6 +471,13 @@ def _is_target_place(location: str) -> bool:
     if _CANADA_PROVINCE_NAME_RE.search(location):
         return "canada" in TARGET_COUNTRIES
 
+    # "North America" (often "Remote, North America") names a region that
+    # includes Canada, with no country more specific than that. Accept it so the
+    # screen, which reads the posting's work-authorization lines, decides.
+    # Labels naming a US state or a country were already judged above.
+    if re.search(r"\bnorth america\b", loc):
+        return "canada" in TARGET_COUNTRIES
+
     # A bare Remote/Hybrid label does not prove that a Canadian candidate is
     # eligible. This fork deliberately prefers a false negative over silently
     # admitting another country's remote-only role.
