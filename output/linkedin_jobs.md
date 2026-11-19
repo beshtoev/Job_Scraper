@@ -1,22 +1,39 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-19 12:18 UTC*
+*Last updated: 2026-11-19 13:10 UTC*
 
-**4 new role(s)** since last run · 10 total in last 1h
+**8 new role(s)** since last run · 12 total in last 1h
 
-### [VP Finance](https://www.linkedin.com/jobs/view/4492429559/) — Axya
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Vice President, IT Solutions Delivery](https://www.linkedin.com/jobs/view/4412997298/) — Westland Insurance Group Ltd.
+- 📍 **Location:** Surrey, British Columbia, Canada
+- 💰 **Salary:** $200,000 to $230,000
 - 🕒 **Posted:** 2026-11-19
 
-### [Director of Data Architecture](https://www.linkedin.com/jobs/view/4492418814/) — Supplier.io
-- 📍 **Location:** Canada
+### [Head of Core Systems to Euroclear](https://www.linkedin.com/jobs/view/4492141934/) — Poolia Sverige
+- 📍 **Location:** Strathcona County, Alberta, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Vice President of Programs](https://www.linkedin.com/jobs/view/4492137977/) — Confederation Centre of the Arts
-- 📍 **Location:** Charlottetown, Prince Edward Island, Canada
-- 💰 **Salary:** $130,000 - $150,000 per annum
+### [Saint John Director of Public Health (N-B) PCN 1254798](https://www.linkedin.com/jobs/view/4491623027/) — Horizon Health Network
+- 📍 **Location:** Saint John, New Brunswick, Canada
 - 🕒 **Posted:** 2026-11-19
 
-### [Managing Director, Western Canada Executive Compensation](https://www.linkedin.com/jobs/view/4491611195/) — Ladders
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $260,000.00/yr - $300,000.00/yr
+### [Director, Engineering, Real Estate Secured Lending (RESL)](https://www.linkedin.com/jobs/view/4484139625/) — Scotiabank
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Americas, Life Sciences Vertical](https://www.linkedin.com/jobs/view/4492293315/) — Siemens
+- 📍 **Location:** Oakville, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Growth Marketing](https://www.linkedin.com/jobs/view/4466516973/) — Nicola Wealth
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $140,000 - $180,000
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Enterprise Strategy - Global Banking & Markets](https://www.linkedin.com/jobs/view/4466515375/) — Scotiabank
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director, Product Support Operations](https://www.linkedin.com/jobs/view/4467219756/) — Tubi
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $175,600 - $250,800
 - 🕒 **Posted:** 2026-11-19
