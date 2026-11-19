@@ -16,7 +16,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 
@@ -1082,8 +1082,33 @@ def fetch_workable_board(config: dict) -> list[dict]:
     return out
 
 
+_BUILTIN_AGE = re.compile(r'fa-clock[^>]*></i>\s*(?:Reposted\s+)?([^<]+?)\s*</span>', re.I)
+
+
+def _builtin_age_days(text: str) -> int | None:
+    """Built In card tags read 'Yesterday', '8 Days Ago', 'Reposted 2 Months Ago',
+    '5 Hours Ago'. Returns the age in whole days, or None when unreadable."""
+    t = (text or "").strip().lower()
+    if not t:
+        return None
+    if t in {"today", "just now"} or re.search(r"\b(?:minutes?|hours?)\s+ago", t):
+        return 0
+    if t == "yesterday":
+        return 1
+    m = re.search(r"(\d+|an?)\s+(day|week|month|year)s?\s+ago", t)
+    if not m:
+        return None
+    n = 1 if m.group(1) in {"a", "an"} else int(m.group(1))
+    return n * {"day": 1, "week": 7, "month": 30, "year": 365}[m.group(2)]
+
+
 def fetch_builtin_board(config: dict) -> list[dict]:
+    """Built In Toronto search pages. Cards older than max_age_days (default 14, the
+    tracker's own aging rule closes anything older) are skipped, and each kept card
+    carries its posted date so downstream freshness checks can read it."""
     out, seen = [], set()
+    max_age = int(config.get("max_age_days", 14))
+    today = datetime.now(timezone.utc).date()
     title_re = re.compile(r'href="(/job/[^"]+)"[^>]*data-id="job-card-title"[^>]*>([^<]+)<')
     company_re = re.compile(r'data-id="company-title"[^>]*>.*?<span>([^<]+)</span>', re.S)
     for query in config.get("queries", []):
@@ -1095,19 +1120,25 @@ def fetch_builtin_board(config: dict) -> list[dict]:
                 break
             companies = [(m.start(), html.unescape(m.group(1)).strip()) for m in company_re.finditer(body)]
             new = 0
-            for match in matches:
+            for idx, match in enumerate(matches):
                 path, title = match.group(1), html.unescape(match.group(2)).strip()
                 if path in seen:
                     continue
                 seen.add(path)
+                new += 1
+                card_end = matches[idx + 1].start() if idx + 1 < len(matches) else len(body)
+                age_m = _BUILTIN_AGE.search(body, match.end(), card_end)
+                age = _builtin_age_days(html.unescape(age_m.group(1))) if age_m else None
+                if age is not None and age > max_age:
+                    continue
                 before = [company for pos, company in companies if pos < match.start()]
                 out.append(posting({"company": before[-1] if before else "", "ats": "builtin", "archetype": "D"},
                                    title=title, url="https://builtintoronto.com" + path,
-                                   location="Toronto, Ontario, Canada"))
-                new += 1
+                                   location="Toronto, Ontario, Canada",
+                                   date_posted=(today - timedelta(days=age)).isoformat() if age is not None else ""))
             if not new:
                 break
-    if not out:
+    if not seen:
         raise SourceFailure("no Built In Toronto job cards parsed")
     return out
 
