@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-11-20 01:59 UTC",
+  "updated_at": "2026-11-20 02:22 UTC",
   "jobs": [
+    {
+      "company": "TalentSphere",
+      "title": "VP, Business Development and Commercial Growth (Damage Restoration)",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010331318869",
+      "date_posted": "2026-11-20",
+      "description": "Reporting to the executive leadership team, the Vice-President will be accountable for driving sustainable and profitable revenue growth, personally developing…",
+      "salary": "$200k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-20T02:22:18Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Visa Canada Corporation",
+      "title": "Director, Strategy & Operations",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010331323972",
+      "date_posted": "2026-11-20",
+      "description": "The Director, Strategy & Operations is responsible for strengthening commercial strategy, sales effectiveness and operating discipline across the market,…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-20T02:22:18Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Dynacare",
+      "title": "Scientific Director, Hematology",
+      "location": "Brampton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010331303674",
+      "date_posted": "2026-11-20",
+      "description": "Related discipline, combined with relevant professional certification or equivalent qualification. Develop and implement a strategic vision for hematology…",
+      "salary": "$156k–$195k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-20T02:22:18Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Brampton",
+      "geo_province": "ON",
+      "geo_lat": 43.7315,
+      "geo_lon": -79.7624,
+      "geo_distance_km": 29.6,
+      "geo_rank": 100296,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Mayfair",
       "title": "Chief of Staff, Client Families",
@@ -122,7 +203,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "description": "Executes on the strategic roadmap, as defined by the Business Lead and leadership team ensuring seamless transition from strategy to technical implementation,…",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010331333611"
+      ]
     },
     {
       "company": "The University of British Columbia",
@@ -587,7 +672,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010331340853"
+      ]
     },
     {
       "company": "Myticas Consulting",
@@ -805,6 +893,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010331193580",
         "https://www.linkedin.com/jobs/view/4492743627/"
       ]
     },
@@ -871,7 +960,8 @@
       "direct_url": "https://grnh.se/vuhr5ob77us",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=4bd717063ded37f1"
+        "https://ca.indeed.com/viewjob?jk=4bd717063ded37f1",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010331258857"
       ]
     },
     {
@@ -39016,7 +39106,8 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://builtintoronto.com/job/demand-marketing-director/12314151",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010329246085"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010329246085",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010331143378"
       ],
       "direct_url": "https://builtintoronto.com/job/demand-marketing-director/12314151"
     },
@@ -41299,16 +41390,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T18:42:01Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
       "geo_city": "East York",
       "geo_province": "ON",
       "geo_lat": 43.691,
       "geo_lon": -79.328,
       "geo_distance_km": 5.8,
-      "geo_rank": 300058,
+      "geo_rank": 58,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -44523,16 +44614,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-17T06:56:57Z",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (Canada-wide)",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
       "geo_city": "",
       "geo_province": "",
       "geo_lat": null,
       "geo_lon": null,
       "geo_distance_km": null,
-      "geo_rank": 399999,
+      "geo_rank": 599999,
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
