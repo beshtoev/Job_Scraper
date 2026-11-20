@@ -1,33 +1,45 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 19:38 UTC*
+*Last updated: 2026-11-20 21:47 UTC*
 
-**5 new role(s)** since last run · 21 total in last 24h
+**7 new role(s)** since last run · 25 total in last 24h
 
-### [Director of Business Technology](https://ca.indeed.com/viewjob?jk=ab5451abe843baa2) — Liteline Corporation
-- 📍 **Location:** Richmond Hill, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-20
-
-### [Senior Director, Growth Marketing](https://ca.indeed.com/viewjob?jk=2490416b473dc682) — Lastwall
+### [Director, Partnerships and Rewards, Residential Lending](https://ca.indeed.com/viewjob?jk=26f743dd0d682b8e) — Manulife
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-20
-
-### [Director, Strategy & Operations](https://ca.indeed.com/viewjob?jk=35dc705e77dde2fd) — Visa
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-20
-
-### [Payroll Operate Services - Director](https://ca.indeed.com/viewjob?jk=441b6de62dfe4b1b) — EY
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-19
 
-### [Chief Human Resources Officer](https://ca.indeed.com/viewjob?jk=ee93711b429f5e50) — Achievers
+### [AVP, Global Head of Creative Excellence](https://ca.indeed.com/viewjob?jk=3bde96e017bf1859) — Manulife
 - 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-19
+
+### [Senior Director - AMER Customer Success Management Leader](https://ca.indeed.com/viewjob?jk=da62f27975215f71) — Equinix
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Consolidation Planning and Reporting](https://ca.indeed.com/viewjob?jk=de3a34a017831a01) — Sunlife
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Consolidation Planning and Reporting](https://ca.indeed.com/viewjob?jk=283fdd83bd9b5776) — Sunlife
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-20
+
+### [Associate Director, Development Analytics (Sales and Fundraising Analytics)](https://ca.indeed.com/viewjob?jk=d826c7197739ce96) — The Hospital for Sick Children
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-20
+
+### [Finance Director](https://ca.indeed.com/viewjob?jk=f69d019a0150fc63) — EastGen Incorporated
+- 📍 **Location:** Guelph, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-20
