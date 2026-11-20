@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-20 19:28 UTC",
+  "updated_at": "2026-11-20 19:34 UTC",
   "jobs": [
+    {
+      "company": "EY",
+      "title": "Payroll Operate Services - Director",
+      "location": "Toronto, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=441b6de62dfe4b1b",
+      "direct_url": "https://careers.ey.com/ey/job/Toronto-Payroll-Operate-Services-Director-ON-M5H-0B3/1459027033/",
+      "company_url": "https://ca.indeed.com/cmp/Ey",
+      "date_posted": "2026-11-19",
+      "description": "Location: Toronto\nOther locations: Primary Location Only\nSalary: Competitive\nDate: Nov 19, 2026\n**Job description**\n-------------------\n\n\nRequisition ID: 1762459\nAt EY, we’re all in to shape your future with confidence.\n\n  \n\nWe’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.\n\n  \n\nJoin EY and help to build a better working world.\n\n  \n\n**The opportunity**\n\n  \n\nPayroll is a business\\-critical function, and organizations are looking for more efficient, technology\\-enabled ways to deliver it.\n\n  \n\nWe’re looking for a senior payroll or employment tax professional who knows the market, sees where it’s going and wants to turn those insights into growth.\n\n  \n\nAs a Director in EY’s Payroll Operate team, you’ll lead significant client relationships and help organizations transform how payroll is managed through EY’s managed payroll services. You’ll oversee complex payroll operations and new client transitions, bring together people, process and technology, and help build scalable solutions that improve the payroll experience.\n\n  \n\nThis is an opportunity to combine payroll leadership, client delivery and commercial thinking while helping shape the growth of EY’s Payroll Operate business in Canada and contribute to the global business.\n\n  \n\nThis posting does not relate to an existing vacancy. We are actively recruiting for this strategic hire to support the continued growth and development of our business.\n\n  \n\n**Your key responsibilities**\n\n\n* Lead managed payroll services for complex client organizations, with accountability for quality, controls and client experience.\n* Build strong relationships with senior payroll, HR and finance leaders and provide practical guidance on payroll operations.\n* Lead new client implementations and transitions, establishing effective processes, governance and service expectations.\n* Oversee end\\-to\\-end payroll delivery, including processing, reconciliations, reporting and payments.\n* Identify opportunities to simplify, standardize and automate payroll through technology and better ways of working.\n* Shape and grow the business by identifying market opportunities and expanding our work with Canadian and multinational organizations.\n* Grow client relationships and contribute to new opportunities, proposals and payroll solution design.\n* Develop high\\-performing teams through coaching, collaboration and clear leadership.\n\n  \n\n**Skills and attributes for success**\n\n\n* Strong knowledge of Canadian payroll and the end\\-to\\-end payroll lifecycle.\n* Understanding of global payroll and the ability to collaborate with colleagues across regions and countries to support organizations with global operations.\n* Deep familiarity with enterprise payroll and HRIS systems (e.g., ADP, Workday, Dayforce), multi\\-jurisdictional tax laws, and advanced data analytics/Excel proficiency\n* Experience leading complex payroll operations, implementations or managed services.\n* Ability to build credibility and strong relationships with senior clients.\n* A continuous improvement mindset and interest in payroll technology, automation and transformation.\n* Strong operational judgment with the ability to manage risk and resolve complex delivery challenges.\n* Collaborative leadership style with a focus on developing people and teams.\n\n  \n\n**Qualifications**\n\n\n* Typically, 10\\+ years of progressive payroll experience, including significant leadership responsibility.\n* A bachelor’s degree in business, accounting, finance, human resources or a related discipline, or equivalent relevant experience.\n* Strong knowledge of Canadian payroll requirements, processes, controls and reporting.\n* Experience leading payroll teams, complex implementations, client relationships or significant payroll programs.\n\n  \n\n**Ideally, you’ll also have,**\n\n\n* A PLP, PCP, CPA or other relevant professional designation.\n* Experience in managed payroll, outsourced payroll or a shared services environment.\n* Experience transitioning payroll operations to a new delivery model or provider.\n* Exposure to payroll technology, automation, data analytics or transformation.\n* Experience contributing to proposals, solution design or new client opportunities.\n\n  \n\n**What we look for**\n\n  \n\nWe’re looking for an experienced payroll leader who knows how to deliver payroll reliably at scale while continually looking for ways to make it better. You combine strong operational judgment with a client mindset and are comfortable leading change, solving complex delivery challenges and building strong teams. You’re also excited by the opportunity to strengthen client relationships and help grow EY’s Payroll Operate business.\n\n  \n\n**What we offer**\n\n  \n\nWe offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. In addition, our Total Rewards package allows you to decide which benefits are right for you and which ones help you create a solid foundation for your future. Our Total Rewards package includes a discretionary bonus program, a comprehensive medical, prescription drug and dental coverage plan, a defined contribution pension plan, a great vacation policy plus firm paid days that allow you to enjoy longer long weekends throughout the year, statutory holidays and paid personal days (based on province of residence), and a range of exciting programs and benefits designed to support your physical, financial and social well\\-being. Plus, we offer:\n\n\n* *Support and coaching from some of the most engaging colleagues in the industry*\n* *Learning opportunities to develop new skills and progress your career*\n* *The freedom and flexibility to handle your role in a way that’s right for you*\n\n  \n\nAre you ready to shape your future with confidence? Apply today.\n\n  \n\nTo help create the best experience during the recruitment process, please describe any accommodations you may need.\n\n  \n\n**Inclusivene",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-11-20T19:34:07Z",
+      "work_mode": "On-site",
+      "work_mode_evidence": "description",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Toronto Metropolitan University",
       "title": "Director, Defence Investment Programming",
@@ -53,7 +86,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "http://ca.indeed.com/job/director-business-technology-ab5451abe843baa2",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=ab5451abe843baa2"
+      ]
     },
     {
       "company": "Lastwall",
@@ -68,6 +107,7 @@
       "ats": "Glassdoor",
       "first_seen": "2026-11-20T19:28:32Z",
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=2490416b473dc682",
         "https://www.glassdoor.ca/job-listing/j?jl=1010332082581"
       ],
       "work_mode": "",
@@ -83,7 +123,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://ats.rippling.com/lastwall/jobs/ac7aaf9b-8919-45bb-b6e6-b92123a6f2d0?jobSite=Indeed",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Achievers",
@@ -110,7 +153,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://jobs.lever.co/achievers/3da4b2ca-cc45-460b-b3b5-9a043c794820?lever-source=Indeed",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=ee93711b429f5e50"
+      ]
     },
     {
       "company": "Waypoint Centre for Mental Health Care",
@@ -741,16 +790,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-20T16:29:38Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Guelph",
       "geo_province": "ON",
       "geo_lat": 43.5448,
       "geo_lon": -80.2482,
       "geo_distance_km": 70.9,
-      "geo_rank": 200709,
+      "geo_rank": 300709,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
@@ -4046,6 +4095,7 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=35dc705e77dde2fd",
         "https://ca.indeed.com/viewjob?jk=8aeca9cce4c8e620"
       ]
     },
@@ -6329,16 +6379,16 @@
       "salary_currency": "CAD",
       "ats": "Glassdoor",
       "first_seen": "2026-11-19T18:54:44Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
       "geo_city": "Sherbrooke",
       "geo_province": "",
       "geo_lat": null,
       "geo_lon": null,
       "geo_distance_km": null,
-      "geo_rank": 599999,
+      "geo_rank": 399999,
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "",
