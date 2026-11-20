@@ -1,63 +1,63 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 03:57 UTC*
+*Last updated: 2026-11-20 07:14 UTC*
 
-**15 new role(s)** since last run · 1083 total in current portal openings
+**14 new role(s)** since last run · 1082 total in current portal openings
 
-### [Director of Merchandising, MotoSport](https://jobs.lever.co/cscgeneration-2/168e4054-c31b-44fe-90b5-de4147d65d8b) — CSC Generation
-- 📍 **Location:** Hybrid- Toronto, ON
-- **Work mode:** Telecommute eligible
-- 🕒 **Posted:** 2026-11-20
-
-### [Director of Supply Chain](https://builtintoronto.com/job/director-supply-chain/12354950) — BRC Group Inc.
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Director, Capital Markets](https://builtintoronto.com/job/director-capital-markets/12308639) — Brookfield Asset Management Inc.
-- 📍 **Location:** Toronto, Ontario, Canada
+### [SIA Director, Product & Client Solutions](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/SIA-Director--Product---Client-Solutions_2623838) — CIBC
+- 📍 **Location:** Toronto, ON
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, CMHC Origination & Programs](https://builtintoronto.com/job/director-cmhc-origination-programs/12308169) — MCAN Financial Group
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, US IT Asset Management](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Director--US-IT-Asset-Management_2619441-1) — CIBC
+- 📍 **Location:** Toronto, ON
+- 🕒 **Posted:** 2026-11-13
+
+### [Director of Product, Shopper](https://jobs.lever.co/jobgether/889fe669-0e75-49f5-84c2-e7100a28879f) — Jobgether
+- 📍 **Location:** Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-20
+
+### [Head of Content & Brand](https://jobs.lever.co/jobgether/f1bf296b-5822-4b06-8d43-aa8c5525ce17) — Jobgether
+- 📍 **Location:** Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-20
+
+### [Paid Media Director](https://jobs.lever.co/jobgether/0c90239c-aef4-4ade-a21e-fbfad3305888) — Jobgether
+- 📍 **Location:** Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Security Architecture](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director--Security-Architecture_JR00129227-1) — Sun Life
+- 📍 **Location:** Toronto, Ontario; Sun Life Toronto Atria; Sun Life Waterloo King
 - 🕒 **Posted:** 2026-11-18
 
-### [Senior Director, Project Management Office](https://builtintoronto.com/job/senior-director-project-management-office/12306844) — Teranet Inc.
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-18
-
-### [Director, Sales- Discover Payment Network](https://builtintoronto.com/job/director-sales-discover-payment-network/11773859) — Capital One
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Sr. Director, Global Revenue Management](https://builtintoronto.com/job/sr-director-global-revenue-management/11763585) — McCain Foods
-- 📍 **Location:** Toronto, Ontario, Canada
-
-### [Director of Martech Solutions](https://builtintoronto.com/job/director-martech-solutions/12357202) — EXL
+### [Director, Finance](https://builtintoronto.com/job/director-finance/12363321) — Sofina Foods Inc.
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Director of Manufacturing](https://builtintoronto.com/job/director-manufacturing/12354953) — BRC Group Inc.
+### [Director, Executive Compensation & Board Advisory Consulting](https://builtintoronto.com/job/director-executive-compensation-board-advisory-consulting/12362420) — Willis Towers Watson
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Director, People and Culture](https://builtintoronto.com/job/director-people-and-culture/12354954) — BRC Group Inc.
+### [Director, Executive Compensation & Board Advisory Consulting](https://builtintoronto.com/job/director-executive-compensation-board-advisory-consulting/12362371) — Willis Towers Watson
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [VP, Engineering](https://builtintoronto.com/job/vp-engineering/12357048) — Rakuten Kobo
+### [P&C Reserving and Capital Director – Canada](https://builtintoronto.com/job/p-c-reserving-and-capital-director-canada/12362215) — Willis Towers Watson
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Senior AI Engineer - Vice President](https://builtintoronto.com/job/senior-ai-engineer-vice-president/12355770) — Citigroup
+### [Director, Commercial Strategy](https://builtintoronto.com/job/director-commercial-strategy/12360562) — Solutions 2 GO
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Senior Java Full Stack Lead Developer - Vice President](https://builtintoronto.com/job/senior-java-full-stack-lead-developer-vice-president/12355729) — Citigroup
+### [Director, Performance Marketing](https://builtintoronto.com/job/director-performance-marketing/12361531) — StackAdapt
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [VP, Corporate Development](https://builtintoronto.com/job/vp-corporate-development/10403893) — PICTON Investments
+### [VP of Sales](https://builtintoronto.com/job/vp-sales/12360935) — Levitate
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Head of Product](https://builtintoronto.com/job/head-product/11840010) — Klarify
+### [Head of Compliance - WFG Canada](https://builtintoronto.com/job/head-compliance-wfg-canada/12359541) — Transamerica
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
