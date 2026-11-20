@@ -185,6 +185,7 @@
       43.6628107,
       -79.595344
     ],
+    "294 bernard avenue, can; prince george, bc, canada": null,
     "3 robert speck parkway, mississauga, on, canada": [
       43.59786,
       -79.6372557
@@ -403,6 +404,10 @@
       -73.5587317
     ],
     "can |  -friendly, ab, canada": null,
+    "can; prince george, bc, canada": [
+      53.9679961,
+      -122.8862452
+    ],
     "can; toronto, on, canada": [
       43.6607002,
       -79.3850889
