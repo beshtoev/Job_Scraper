@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-20 03:08 UTC",
+  "updated_at": "2026-11-20 03:12 UTC",
   "jobs": [
+    {
+      "company": "Citi",
+      "title": "Senior AI Engineer - Vice President",
+      "location": "Mississauga, ON, CA",
+      "url": "https://ca.indeed.com/viewjob?jk=62dfa8b6af598c53",
+      "direct_url": "https://jobs.citi.com/job/mississauga/senior-ai-engineer-vice-president/287/103535953968",
+      "company_url": "https://ca.indeed.com/cmp/Citi",
+      "date_posted": "2026-11-19",
+      "description": "**Discover your future at Citi**\n--------------------------------\n\n\nWorking at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\n\n\n**Job Overview**\n----------------\n\n  \n\n  \n\n**Job Description**\n\nCiti is looking for a hands on Senior AI Engineer the engineering foundation of its Services AI Platform a multi\\-tenant, production\\-grade ecosystem where agentic AI meets enterprise scale. In this player\\-coach role, you will write production code and set the technical direction for the platform, ensuring it is built on principles of trust, operational resilience, and scalability. You will translate complex enterprise workflows into intelligent, automated systems that deliver measurable business impact across Citi's global operations.\n\n\n**Responsibilities**\n\n\n* Architect and build full\\-stack AI platform components using Python and Angular, including internal large language model fine\\-tuning interfaces and experiment tracking dashboards.\n* Design and optimize multi\\-tenant intelligent agents using modular orchestration patterns — including ReAct and ReWOO — to power scalable, production\\-ready agentic workflows.\n* Build Model Context Protocol servers that enforce clean, decoupled communication layers, ensuring agents interact exclusively through defined API boundaries without direct database access.\n* Develop next\\-generation retrieval\\-augmented generation pipelines, including Knowledge Graph RAG, LightRAG, and RAPTOR hierarchical summary architectures, to enable sophisticated enterprise data retrieval.\n* Integrate vector and graph databases — such as Neo4j and pgvector — to support complex, thematic data retrieval at platform scale.\n* Design precise prompt and intent classification logic that prevents workflow collisions and ensures each agent instruction is handled with high accuracy.\n* Partner directly with subject matter experts to translate deep domain knowledge into automated, agent\\-driven solutions, and collaborate with UI and API teams to deliver seamless end\\-to\\-end integrations.\n\n**Required Qualifications \\& Skills**\n\n\n* 10 or more years of software engineering experience, with at least 5 years focused on AI and machine learning solutions delivered in production environments.\n* 2 or more years of hands\\-on experience in Generative AI, including large language model development, retrieval\\-augmented generation, and prompt engineering.\n* 3 or more years leading technical teams and owning delivery of complex software or AI platforms end to end.\n* Deep practical experience with AWS infrastructure and services for AI and machine learning workloads.\n* A demonstrated portfolio of AI solutions successfully deployed into live business environments, evidencing both technical depth and delivery ownership.\n* Bachelor's or Master's degree in Computer Science, Data Science, Artificial Intelligence, or a closely related field.\n  \n\n  \n\n**Education**\n\n\n* Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or a related field\n\n**What We Offer**\n\n\nAt Citi, you will work at the forefront of enterprise AI engineering within a global platform team that values technical excellence, collaboration, and meaningful business impact. This is a role where your code ships to production, your architectural decisions shape the platform, and your leadership directly influences the capability and performance of the team around you.\n\n\n* Hybrid working model with 3 days in the office and 2 days working remotely, giving you structure alongside genuine flexibility.\n* Access to cutting\\-edge AI infrastructure, tools, and frameworks that keep you at the leading edge of the field.\n* Continuous learning and development support, including access to technical training, industry conferences, and structured career growth pathways.\n* The opportunity to lead high\\-impact engineering at global scale, with your work directly influencing how Citi builds and deploys intelligent automation across the enterprise.\n* Competitive compensation and a comprehensive financial wellbeing package reflective of a Vice President\\-level position at a leading global institution.\n* Wellbeing support programs that help you maintain balance and perform at your best over the long term.\n\nBuild the AI platform that powers Citi's next generation of intelligent automation — apply now and bring your engineering leadership to one of the most technically ambitious platforms in global financial services\n\n\n\\-\n\n\n**Job Family Group:**\n---------------------\n\nTechnology\n\\-\n\n\n**Job Family:**\n---------------\n\n\nApplications Development\n\\-\n\n\n**Time Type:**\n--------------\n\n\nFull time\n\\-\n\n\n**Primary Location Full Time Salary Range:**\n--------------------------------------------\n\n\n$120,800\\.00 \\- $170,800\\.00\n\\-\n\n\n**Most Relevant Skills**\n------------------------\n\nPlease see the requirements listed above.\n\\-\n\n\n**Other Relevant Skills**\n-------------------------\n\nFor complementary skills, please see above and/or contact the recruiter.\n\\-\n\n\n**Automated Processing and AI**\n-------------------------------\n\n\nWe use automated processing, including artificial intelligence, for our legitimate business interests (or our reasonable and appropriate business purposes) to identify and align the candidate's skills and abilities with a specific job opening. Additionally, if you so choose, or consent, we can match your skills and abilities to other suitable roles at Citi.\n\n\nImportantly, all our hiring processes and decisions, including determining your suitability for a role, are conducted, checked, and decided by individuals. Our automated processing and AI do not involve relying on automatic or autonomous decision\\-making. Please refer to any Jurisdictional Considerations, with specific provisions for your country (where relevant) for further details.\n\n\n\\-\n\n\n*This job opening ",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "first_seen": "2026-11-20T03:12:07Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 300239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "TalentSphere",
       "title": "VP, Business Development and Commercial Growth (Damage Restoration)",
@@ -597,7 +630,13 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "direct_url": "https://careers.mars.com/global/en/job/R173036",
+      "job_type": "fulltime",
+      "work_arrangement": "On-site",
+      "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=d8bb6b04849af85a"
+      ]
     },
     {
       "company": "Plusgrade",
@@ -659,23 +698,28 @@
       "ats": "LinkedIn",
       "description": "Job Title: Vice President, M&A Integration and Clinic Onboarding\n\nDepartment: Operations\n\nScope: National – Canada\n\nReports to: Chief Growth Officer\n\nLocation: Toronto, Ontario (4 Days in Office, 1 Day Remote)\n\nAbout 123Dentist\n\nAt 123Dentist, we are one of Canada’s largest and fastest-growing dental support organizations, supporting more than 500 clinics and 10,000 team members across the country. Growth through acquisition is central to that story, and our M&A Integration and Clinic Onboarding team makes sure every practice that joins the network is set up for success from day one.\n\nPosition Overview\n\n123Dentist is seeking an accomplished executive to lead its national M&A Integration and Clinic Onboarding function. This leader will be responsible for bringing together the existing teams into a unified, scalable operation that ensures newly acquired dental practices transition successfully into the 123Dentist network, maintain operational continuity and deliver against acquisition objectives.\n\nReporting to our Chief Growth Officer, the Vice President M&A Integration and Clinic Onboarding will oversee the full integration lifecycle, from pre-close planning through operational stabilization and transition to Regional Operations. The role will also drive post-acquisition value creation in partnership with Finance and Operations, while ensuring a positive integration experience for partner dentists, clinic leaders and employees. Success will require strong commercial judgment, operational execution and the ability to lead cross-functional teams in a highly acquisitive, multi-site environment.\n\nKey Accountabilities\n\nIntegration Strategy & Executive Leadership\n\nLead the national M&A Integration and Onboarding function, with accountability for its strategy, operating model, resources, priorities and overall performance.\nEstablish scalable integration processes, governance frameworks and standards that support multiple concurrent acquisitions across the network.\nExercise delegated decision-making authority over integration priorities, approved budgets and resources, ensuring alignment with organizational growth objectives.\nProvide executive leadership with visibility into integration performance, material risks, resource requirements and strategic opportunities.\n\nAcquisition Integration & Operational Readiness\n\nOversee the end-to-end operational integration of acquired practices, from permitted pre-close planning through Day 1 readiness, stabilization and formal operational handoff.\nEstablish acquisition-specific integration plans, milestones, accountabilities and risk mitigation strategies based on the complexity and needs of each practice.\nEnsure effective coordination across clinic operations, HR, Finance, IT, Marketing, Procurement and other functions to maintain operational and patient care continuity.\nIdentify and resolve integration challenges, ensuring acquired clinics transition efficiently into the 123Dentist network.\n\nPost-Acquisition Value Creation & Financial Performance\n\nLead the development and execution of post-acquisition value creation plans aligned with each acquisition’s investment case and the organization’s growth strategy.\nPartner with Finance, Regional Operations and functional leaders to establish measurable revenue, growth, productivity and cost-efficiency initiatives.\nMonitor integration-related financial and operational performance, identify variances and drive corrective actions with accountable business leaders.\nEnsure financial value realization is appropriately tracked and validated by Finance, with ongoing performance accountability clearly transitioned to Regional Operations.\n\nPeople, Culture & Partner Experience\n\nEstablish a consistent, relationship-focused onboarding experience for acquired practice owners, partner dentists, clinic leaders and employees.\nPartner with HR and Regional Operations to identify and address critical talent retention risks, leadership transitions and workforce integration requirements.\nLead integration-related change management and communication efforts, promoting engagement, cultural alignment and trust throughout the transition.\nPreserve strong local practice relationships while supporting the adoption of 123Dentist’s operating standards and organizational values.\n\nIntegration Governance & Operational Handoff\n\nEstablish cross-functional integration governance, including clear decision rights, accountabilities, milestones, escalation protocols and performance expectations.\nLead alignment among Corporate Development, Operations, Finance, HR, IT, Legal and other functions to ensure effective integration execution.\nEstablish formal integration completion and handoff criteria, ensuring operational readiness and clear ownership of outstanding risks and initiatives.\nPartner with Regional Operations to ensure a seamless transition of accountability and sustainable clinic performance following integration.\n\nTeam Leadership & Organizational Development\n\nLead the consolidation of the existing M&A Integration and Clinic Onboarding teams into a unified national function.\nEstablish an effective organizational structure, clear leadership accountabilities and resource plans aligned with the acquisition strategy.\nBuild, coach and develop high-performing teams capable of managing multiple integrations and delivering measurable results.\nDrive continuous improvement through standardized processes, performance reporting and scalable integration capabilities.\n\nQualifications & Experience\n\nSignificant progressive leadership experience in M&A integration, multi-site operations or operational transformation, ideally including 12–15 years of relevant experience.\nProven experience leading multiple acquisitions and integrating businesses within complex, geographically distributed organizations.\nDemonstrated ability to build and lead integration teams, establish governance and deliver measurable operational and financial outcomes.\nStrong financial and commercial acumen, including investment-case execution, performance measurement and value realization.\nExperience leading cross-functional teams and influencing senior executives, operational leaders and key stakeholders.\nStrong relationship management and change leadership capabilities, particularly when integrating acquired businesses and retaining critical talent.\nProven ability to balance strategic priorities with hands-on execution in a fast-paced, decentralized environment.\nBachelor’s degree in Business, Operations, Finance or a related field; MBA or equivalent advanced qualification considered an asset.\n\nPreferred Experience\n\nExperience in highly acquisitive, multi-location organizations, including dental support organizations, veterinary networks, pharmacy, optometry, healthcare services or other decentralized service businesses. Experience in private equity-backed or high-growth acquisition environments is highly desirable.\n\nWhat Sets You Apart\n\nYou thrive in a highly acquisitive, fast-paced, decentralized environment, balancing strategy with hands-on execution. You bring sound commercial judgment, lead cross-functional teams, influence senior executives, and build trust with partner dentists, clinic leaders and employees as practices join the network.\n\nWhy Join 123Dentist?\n\nLead a national function with real ownership, including delegated decision-making authority over integration priorities, budgets and resources\nBuild something new by bringing the existing M&A Integration and Clinic Onboarding teams together into one unified, scalable operation\nPlay a central role in the growth of one of Canada’s largest and fastest-growing dental support organizations\nPartner with executive leadership, Finance and Regional Operations to turn each acquisition’s investment case into measurable results\nShape the experience of partner dentists, clinic leaders and employees as new practices join the network\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
       "first_seen": "2026-11-19T23:45:16Z",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=e54c5a417d1b7b88",
         "https://www.glassdoor.ca/job-listing/j?jl=1010331340853"
-      ]
+      ],
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c2a72bdd-3357-40d4-ba1b-c98aada9201f&ccId=19000101_000001&jobId=522313&source=IN&lang=en_CA",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Myticas Consulting",
@@ -4017,8 +4061,11 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://ca.indeed.com/viewjob?jk=c1ae46b3c10a8eb8",
         "https://www.linkedin.com/jobs/view/4492461033/"
-      ]
+      ],
+      "job_type": "fulltime",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Sun Life",
