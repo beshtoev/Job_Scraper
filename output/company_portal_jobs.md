@@ -1,65 +1,78 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 17:16 UTC*
+*Last updated: 2026-11-20 20:22 UTC*
 
-**15 new role(s)** since last run · 1087 total in current portal openings
+**18 new role(s)** since last run · 1104 total in current portal openings
 
-### [Vice President, Energy Origination](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/Vice-President--Energy-Origination_R260032024) — BMO
-- 📍 **Location:** Calgary, AB, CAN
+### [Senior Director, Partner Success](https://jobs.ashbyhq.com/1password/a6f7a1ee-62c7-4d86-afe6-5a774ed22dbe) — 1Password
+- 📍 **Location:** Remote (United States | Canada)
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-20
 
-### [Director, Internal Controls over Financial Reporting (ICOFR)](https://jobs.canadalife.com/job/London-Director%2C-Internal-Controls-over-Financial-Reporting-%28ICOFR%29-ON/1440193233/) — Canada Life
-- 📍 **Location:** London, ON, CA
+### [Chief Human Resources Officer](https://jobs.lever.co/achievers/3da4b2ca-cc45-460b-b3b5-9a043c794820) — Achievers
+- 📍 **Location:** Toronto
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-20
 
-### [Assistant Vice President, Technology Delivery, Investment Management](https://jobs.canadalife.com/job/Toronto-Assistant-Vice-President%2C-Technology-Delivery%2C-Investment-Management-ON/1458202433/) — Canada Life
-- 📍 **Location:** Toronto, ON, CA
-- 🕒 **Posted:** 2026-11-17
+### [Senior Director - AMER Customer Success Management Leader](https://equinix.wd1.myworkdayjobs.com/en-US/External/job/New-York-City-Office-NYO1/Senior-Director---AMER-Customer-Success-Management-Leader_JR-164882) — Equinix
+- 📍 **Location:** New York City Office NYO1; Redwood City; Toronto; Dallas Infomart Office DAI
+- 🕒 **Posted:** 2026-11-20
 
-### [Assistant Vice President, Procurement & Supplier Management](https://jobs.canadalife.com/job/Toronto-Assistant-Vice-President%2C-Procurement-&amp;-Supplier-Management-ON/1456253133/) — Canada Life
-- 📍 **Location:** Toronto, ON, CA
-- 🕒 **Posted:** 2026-11-10
+### [Director, Operations AI Readiness](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Operations-AI-Readiness_R-0000192537-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-11-20
 
-### [Director, Strategic Sourcing & Supplier Management](https://jobs.canadalife.com/job/Toronto-Director%2C-Strategic-Sourcing-&amp;-Supplier-Management-ON/1456253433/) — Canada Life
-- 📍 **Location:** Toronto, ON, CA
-- 🕒 **Posted:** 2026-11-10
+### [Director,  Consolidation Planning and Reporting](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director---Consolidation-Planning-and-Reporting_JR00129986) — Sun Life
+- 📍 **Location:** Toronto, Ontario; Sun Life Waterloo King
+- 🕒 **Posted:** 2026-11-20
 
-### [Director, Network & Security AI and Automation](https://jobs.canadalife.com/job/Toronto-Director%2C-Network-&amp;-Security-AI-and-Automation-ON/1452712033/) — Canada Life
-- 📍 **Location:** Toronto, ON, CA
-- 🕒 **Posted:** 2026-10-29
+### [VP Product Innovation, Modern Campus](https://ats.rippling.com/moderncampus/jobs/7052bc89-30d2-4f46-a840-85c02fd02386) — Modern Campus
+- 📍 **Location:** Remote (Canada)
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-14
 
-### [Director, Technology Delivery](https://jobs.canadalife.com/job/Toronto-Director%2C-Technology-Delivery-ON/1452682533/) — Canada Life
-- 📍 **Location:** Toronto, ON, CA
-- 🕒 **Posted:** 2026-10-29
-
-### [Senior Vice President, Strategy Director](https://djeholdings.wd5.myworkdayjobs.com/en-US/edelman-careers-E200/job/Toronto-Ontario-Canada/Senior-Vice-President--Strategy-Director_JR103916) — Djeholdings
+### [Director, Medical Insights](https://builtintoronto.com/job/director-medical-insights/12376073) — Pfizer
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Planning Associate Director (Contract)](https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/job/Toronto-Ontario-Canada/Planning-Associate-Director_R16954) — Interpublic
+### [Lead Associate Trading Director](https://builtintoronto.com/job/lead-associate-trading-director/12273887) — The Trade Desk
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Planning Director, Estate & Financial Planning Services](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Edmonton-Alberta/Planning-Director--Estate---Financial-Planning-Services_JR00130057) — Sun Life
-- 📍 **Location:** Edmonton, Alberta; Regina, Saskatchewan; Montreal, Quebec; Nova Scotia Telecommuters; New Brunswick Telecommuters; British Columbia Telecommuters; Winnipeg, Manitoba
-- **Work mode:** Telecommute eligible
-- 🕒 **Posted:** 2026-11-20
-
-### [Senior Vice President, Strategy Director](https://builtintoronto.com/job/senior-vice-president-strategy-director/12373572) — Edelman
+### [Director, Global People Transformation & Operations (Canada)](https://builtintoronto.com/job/director-global-people-transformation-operations-canada/12378578) — Optro
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Regional Sales Director | Canada](https://builtintoronto.com/job/regional-sales-director-canada/10025535) — Stateside Brands LLC
+### [Director, People Rewards (Canada)](https://builtintoronto.com/job/director-people-rewards-canada/12378570) — Optro
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Director, Payment Integrity - Appeals & Disputes](https://builtintoronto.com/job/director-payment-integrity-appeals-disputes/12373426) — Centene Corporation
+### [Director, People Rewards](https://builtintoronto.com/job/director-people-rewards/12378571) — Optro
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Sr Director CRP Oncology](https://builtintoronto.com/job/sr-director-crp-oncology/12372727) — Eli Lilly and Company
+### [Director, Senior Global Regulatory Lead](https://builtintoronto.com/job/director-senior-global-regulatory-lead/12378174) — CSL
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [AI-Native VP of Software Engineering, Canada-based (CAD $260,000/year)](https://builtintoronto.com/job/ai-native-vp-software-engineering-canada-based-cad-260-000-year/12371459) — CXT Software
+### [Director, FP&A](https://builtintoronto.com/job/director-fp/11742910) — Duck Creek Technologies
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
+
+### [VP of Business Operations](https://builtintoronto.com/job/vp-business-operations/12377289) — Search Atlas
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Head of Security Centre](https://builtintoronto.com/job/head-security-centre/12378049) — GEOTAB
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Head of Talent](https://builtintoronto.com/job/head-talent/12375684) — Fluxon
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Chief Marketing Officer](https://builtintoronto.com/job/chief-marketing-officer/12376929) — Transmit Security
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Executive Director Winnipeg Wj919](https://summitsearchgroup.com/job/executive-director-winnipeg-mb-wj919/) — Summit Search Group
+- 📍 **Location:** Canada
