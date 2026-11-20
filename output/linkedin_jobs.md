@@ -1,13 +1,14 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 08:16 UTC*
+*Last updated: 2026-11-20 09:07 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Enterprise Architecture](https://www.linkedin.com/jobs/view/4492567224/) — Jobgether
+### [Head of Customer Support](https://www.linkedin.com/jobs/view/4492566394/) — Cheaper Inference
 - 📍 **Location:** Canada
+- 💰 **Salary:** $100,000 - $135,000
 - 🕒 **Posted:** 2026-11-20
 
-### [Director, HR Solutions](https://www.linkedin.com/jobs/view/4492572103/) — Jobgether
-- 📍 **Location:** Canada
-- 💰 **Salary:** $105,518.40 to $131,913.60
+### [Head of Supply Partnerships (Inference Providers)](https://www.linkedin.com/jobs/view/4492572192/) — Cheaper Inference
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-11-20
