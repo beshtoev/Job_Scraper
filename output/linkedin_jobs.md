@@ -1,58 +1,60 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 09:49 UTC*
+*Last updated: 2026-11-20 11:19 UTC*
 
-**13 new role(s)** since last run · 15 total in last 1h
+**13 new role(s)** since last run · 21 total in last 1h
 
-### [Director, Data Governance Enablement](https://www.linkedin.com/jobs/view/4485218479/) — Canadian Tire Corporation
+### [Associate Director, Market Risk (FRTB Capital)](https://www.linkedin.com/jobs/view/4492903439/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459632710/) — Kinaxis
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459634725/) — Kinaxis
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459618796/) — Kinaxis
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459617859/) — Kinaxis
+### [Director, Legal Engineering](https://www.linkedin.com/jobs/view/4483083060/) — Legora
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Director, Corporate Development](https://www.linkedin.com/jobs/view/4480536793/) — Definity Financial
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $134,300 - $184,300
-- 🕒 **Posted:** 2026-11-20
-
-### [Project Director- Nuclear - Canada Central](https://www.linkedin.com/jobs/view/4484533621/) — GHD
-- 📍 **Location:** Peterborough, Ontario, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Project Director- Nuclear - Canada Central](https://www.linkedin.com/jobs/view/4484546004/) — GHD
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Leader, Governance, Risk & Compliance](https://www.linkedin.com/jobs/view/4448536906/) — Interac Corp.
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Director of Business Development & Strategic Partnerships](https://www.linkedin.com/jobs/view/4491907411/) — gAIn360
-- 📍 **Location:** Canada
-- 💰 **Salary:** $120,000.00/yr - CA$160,000.00/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Chief Compliance Officer, Post-Trade Services](https://www.linkedin.com/jobs/view/4448553837/) — TMX Group
+### [Senior Director, IT Delivery and Technology Platforms](https://www.linkedin.com/jobs/view/4491909420/) — National Bank of Canada
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Project Director- Nuclear - Canada Central](https://www.linkedin.com/jobs/view/4484527797/) — GHD
-- 📍 **Location:** Markham, Ontario, Canada
+### [Senior Director, Integrated Talent Solutions](https://www.linkedin.com/jobs/view/4483095234/) — Equinix
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Project Director- Nuclear - Canada Central](https://www.linkedin.com/jobs/view/4484530694/) — GHD
-- 📍 **Location:** Whitby, Ontario, Canada
+### [Director, Cybersecurity – Information Technology](https://www.linkedin.com/jobs/view/4474497075/) — Alberta Blue Cross
+- 📍 **Location:** Alberta, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459621792/) — Kinaxis
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Executive Director, Enterprise Core Services](https://www.linkedin.com/jobs/view/4477123348/) — KPMG Canada
+- 📍 **Location:** Kamloops, British Columbia, Canada
+- 💰 **Salary:** $125,000 to $175,000
+- 🕒 **Posted:** 2026-11-20
+
+### [Vice President, Financial Accounting & Reporting](https://www.linkedin.com/jobs/view/4459635103/) — Kinaxis
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Operations - Elk Valley](https://www.linkedin.com/jobs/view/4481128669/) — Finning
+- 📍 **Location:** Cranbrook, British Columbia, Canada
+- 💰 **Salary:** $160,000 - $170,000
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Operations - Elk Valley](https://www.linkedin.com/jobs/view/4481126721/) — Finning
+- 📍 **Location:** Elkford, British Columbia, Canada
+- 💰 **Salary:** $160,000 - $170,000
+- 🕒 **Posted:** 2026-11-20
+
+### [Head of E-Commerce & Marketplace Business](https://www.linkedin.com/jobs/view/4491910332/) — Quikr
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Operations - Elk Valley](https://www.linkedin.com/jobs/view/4481129618/) — Finning
+- 📍 **Location:** Sparwood, British Columbia, Canada
+- 💰 **Salary:** $160,000 - $170,000
+- 🕒 **Posted:** 2026-11-20
+
+### [Head of Consumer Segment, NAM (Canada)](https://www.linkedin.com/jobs/view/4492798964/) — Xe.com
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-20
