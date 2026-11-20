@@ -1,61 +1,67 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 19:32 UTC*
+*Last updated: 2026-11-20 21:29 UTC*
 
-**12 new role(s)** since last run · 200 total in last 24h
+**14 new role(s)** since last run · 159 total in last 24h
 
-### [Director, Strategy & Operations](https://www.glassdoor.ca/job-listing/j?jl=1010332117376) — Visa Canada Corporation
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Director, Defence Investment Programming](https://www.glassdoor.ca/job-listing/j?jl=1010332087247) — Toronto Metropolitan University
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $109k–$174k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Director of Business Technology](https://www.glassdoor.ca/job-listing/j?jl=1010332121704) — Liteline Corporation
-- 📍 **Location:** Richmond Hill, Canada
-- 💰 **Salary:** $150k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Senior Director, Growth Marketing](https://www.glassdoor.ca/job-listing/j?jl=1010332082582) — Lastwall
-- 📍 **Location:** Toronto, Canada
-- 💰 **Salary:** $140k–$210k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Senior Director, Growth Marketing](https://www.glassdoor.ca/job-listing/j?jl=1010332082581) — Lastwall
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $140k–$210k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Chief Human Resources Officer](https://www.glassdoor.ca/job-listing/j?jl=1010332099728) — Achievers
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Payroll Operate Services - Director](https://www.glassdoor.ca/job-listing/j?jl=1010332087245) — EY
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010331219762) — Elby Professional Recruitment Inc
-- 📍 **Location:** Hamilton, Canada
-- 💰 **Salary:** $140k–$180k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Clinical Director](https://www.glassdoor.ca/job-listing/j?jl=1010332136652) — Waypoint Centre for Mental Health Care
-- 📍 **Location:** Penetanguishene, Canada
-- 💰 **Salary:** $78.92–$92.84/hr
-- 🕒 **Posted:** 2026-11-20
-
-### [Directeur des finances et de la comptabilité - Montréal - 130 k$ à 145 k$ / Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010329903660) — Quantum Management Services
-- 📍 **Location:** Montreal, Canada
-- 💰 **Salary:** $125k–$145k/yr
+### [Internal Controls Director](https://www.glassdoor.ca/job-listing/j?jl=1010329129324) — Pala Interactive Canada
+- 📍 **Location:** North York, Canada
+- 💰 **Salary:** $100k–$130k/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Director, Financial Planning & Business Support](https://www.glassdoor.ca/job-listing/j?jl=1010332107025) — BC Assessment
-- 📍 **Location:** Victoria, Canada
-- 💰 **Salary:** $149k–$182k/yr
+### [Vice President, ACU Wealth](https://www.glassdoor.ca/job-listing/j?jl=1010332174668) — Assiniboine Credit Union Ltd
+- 📍 **Location:** Winnipeg, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Marketing Director - AI Innovation, Real Estate & Home Building](https://www.glassdoor.ca/job-listing/j?jl=1010330878349) — Ivy Homes Ltd.
-- 📍 **Location:** London, Canada
-- 💰 **Salary:** $85k/yr
+### [Senior Vice President, Strategy Director](https://www.glassdoor.ca/job-listing/j?jl=1010332177753) — Edelman
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Partnerships and Rewards, Residential Lending](https://www.glassdoor.ca/job-listing/j?jl=1010332204059) — Manulife
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $125k–$175k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Senior Director - AMER Customer Success Management Leader](https://www.glassdoor.ca/job-listing/j?jl=1010332158908) — Equinix
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Project Controls](https://www.glassdoor.ca/job-listing/j?jl=1010332209151) — Brock Canada
+- 📍 **Location:** Nisku, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Parts Inventory Management](https://www.glassdoor.ca/job-listing/j?jl=1010330187407) — ECL Group of Companies
+- 📍 **Location:** Edmonton, Canada
 - 🕒 **Posted:** 2026-11-19
+
+### [Director, Consulting Services - Consumer Services](https://www.glassdoor.ca/job-listing/j?jl=1010332188253) — CGI
+- 📍 **Location:** Vancouver, Canada
+- 💰 **Salary:** $110k–$210k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Associate Director, Development Analytics (Sales and Fundraising Analytics)](https://www.glassdoor.ca/job-listing/j?jl=1010332227160) — SickKids Foundation
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $99k–$143k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Consolidation Planning and Reporting](https://www.glassdoor.ca/job-listing/j?jl=1010332195572) — Sun Life
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $130k–$180k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Regional Director Clinic Support](https://www.glassdoor.ca/job-listing/j?jl=1010331012746) — Passion Dental Group
+- 📍 **Location:** Hamilton, Canada
+- 🕒 **Posted:** 2026-11-19
+
+### [Director of Design](https://www.glassdoor.ca/job-listing/j?jl=1010332075179) — WDI Group
+- 📍 **Location:** Ancaster, Canada
+- 💰 **Salary:** $80k–$120k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Global Clinical Operations Program Director (Submissions Lead)](https://www.glassdoor.ca/job-listing/j?jl=1010332142404) — ICON Plc
+- 📍 **Location:** Burlington, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Director of Strategic Initiatives (DSI)](https://www.glassdoor.ca/job-listing/j?jl=1010329052926) — Fraser Region Aboriginal Friendship Centre Association
+- 📍 **Location:** Surrey, Canada
+- 💰 **Salary:** $90k–$100k/yr
+- 🕒 **Posted:** 2026-11-18
