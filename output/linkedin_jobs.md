@@ -1,31 +1,35 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 16:21 UTC*
+*Last updated: 2026-11-20 18:03 UTC*
 
-**6 new role(s)** since last run · 20 total in last 1h
+**7 new role(s)** since last run · 15 total in last 1h
 
-### [Directeur(trice) des opérations / Director of Operations](https://www.linkedin.com/jobs/view/4492931796/) — Systemex Industries Conseils
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Fractional Chief AI Officer](https://www.linkedin.com/jobs/view/4492812020/) — Axial Search
+- 📍 **Location:** Canada
+- 💰 **Salary:** $90.00/hr - CA$200.00/hr
 - 🕒 **Posted:** 2026-11-20
 
-### [Commercial Service Director (Insurance)](https://www.linkedin.com/jobs/view/4484520779/) — Western Financial Group
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 💰 **Salary:** $100,000 - $135,000
+### [Director, Data Engineering (Permanent/full-time)](https://www.linkedin.com/jobs/view/4492933967/) — CoreFactor
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Leader Amélioration de la Donnée / Data Improvement Lead](https://www.linkedin.com/jobs/view/4438816526/) — Airbus
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Sales Director - TMT, Public Sector](https://www.linkedin.com/jobs/view/4475462818/) — TELUS Digital
+### [Associate Director, Market Risk (FRTB Capital)](https://www.linkedin.com/jobs/view/4492903439/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $100,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Director of Sales, 79069](https://www.linkedin.com/jobs/view/4492582708/) — Prodomax Automation Ltd.
-- 📍 **Location:** Barrie, Ontario, Canada
-- 💰 **Salary:** $130-$170K
+### [Senior AI Engineer - Vice President](https://www.linkedin.com/jobs/view/4492801936/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
 - 🕒 **Posted:** 2026-11-20
 
-### [Leader Amélioration de la Donnée / Data Improvement Lead](https://www.linkedin.com/jobs/view/4435960284/) — Airbus Aircraft
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Chief Architect & Design Authority](https://www.linkedin.com/jobs/view/4492939918/) — NTT DATA North America
+- 📍 **Location:** Fraser Valley, British Columbia, Canada
+- 💰 **Salary:** $173,828 - $231,700
+- 🕒 **Posted:** 2026-11-20
+
+### [AVP, Technology Lead - Digital](https://www.linkedin.com/jobs/view/4448544777/) — Sunlife
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Senior Director, Partner Success](https://www.linkedin.com/jobs/view/4492964759/) — 1Password
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-20
