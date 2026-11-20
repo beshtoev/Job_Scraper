@@ -1,27 +1,31 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 15:38 UTC*
+*Last updated: 2026-11-20 16:21 UTC*
 
-**5 new role(s)** since last run · 17 total in last 1h
+**6 new role(s)** since last run · 20 total in last 1h
 
-### [Sr. Director, Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4484811444/) — Boyd Group Services Inc.
+### [Directeur(trice) des opérations / Director of Operations](https://www.linkedin.com/jobs/view/4492931796/) — Systemex Industries Conseils
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Commercial Service Director (Insurance)](https://www.linkedin.com/jobs/view/4484520779/) — Western Financial Group
 - 📍 **Location:** Winnipeg, Manitoba, Canada
-- 💰 **Salary:** $180,000 - $200,000
+- 💰 **Salary:** $100,000 - $135,000
 - 🕒 **Posted:** 2026-11-20
 
-### [Director, Customer Service & Business Performance](https://www.linkedin.com/jobs/view/4491932300/) — Venor
-- 📍 **Location:** Moncton, New Brunswick, Canada
+### [Leader Amélioration de la Donnée / Data Improvement Lead](https://www.linkedin.com/jobs/view/4438816526/) — Airbus
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4492929711/) — Michael Page
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $225,000.00/yr - CA$300,000.00/yr
+### [Sales Director - TMT, Public Sector](https://www.linkedin.com/jobs/view/4475462818/) — TELUS Digital
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $100,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Chief Financial Officer - Highly Engineered Design/Manufacturing- Private Equity, 79074](https://www.linkedin.com/jobs/view/4492594348/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Richmond, British Columbia, Canada
-- 💰 **Salary:** $250K - $300K
+### [Director of Sales, 79069](https://www.linkedin.com/jobs/view/4492582708/) — Prodomax Automation Ltd.
+- 📍 **Location:** Barrie, Ontario, Canada
+- 💰 **Salary:** $130-$170K
 - 🕒 **Posted:** 2026-11-20
 
-### [Director, Total Rewards](https://www.linkedin.com/jobs/view/4484979697/) — WestJet
-- 📍 **Location:** Calgary, Alberta, Canada
+### [Leader Amélioration de la Donnée / Data Improvement Lead](https://www.linkedin.com/jobs/view/4435960284/) — Airbus Aircraft
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-20
