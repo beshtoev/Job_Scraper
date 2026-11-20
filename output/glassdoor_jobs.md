@@ -1,53 +1,61 @@
 # 🟩 Glassdoor — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-20 18:15 UTC*
+*Last updated: 2026-11-20 19:32 UTC*
 
-**11 new role(s)** since last run · 210 total in last 24h
+**12 new role(s)** since last run · 200 total in last 24h
 
-### [Assistant Director Airline Supply Chain Operations](https://www.glassdoor.ca/job-listing/j?jl=1010331575404) — International Air Transport Association (IATA)
+### [Director, Strategy & Operations](https://www.glassdoor.ca/job-listing/j?jl=1010332117376) — Visa Canada Corporation
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Director, Defence Investment Programming](https://www.glassdoor.ca/job-listing/j?jl=1010332087247) — Toronto Metropolitan University
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $109k–$174k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Director of Business Technology](https://www.glassdoor.ca/job-listing/j?jl=1010332121704) — Liteline Corporation
+- 📍 **Location:** Richmond Hill, Canada
+- 💰 **Salary:** $150k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Senior Director, Growth Marketing](https://www.glassdoor.ca/job-listing/j?jl=1010332082582) — Lastwall
+- 📍 **Location:** Toronto, Canada
+- 💰 **Salary:** $140k–$210k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Senior Director, Growth Marketing](https://www.glassdoor.ca/job-listing/j?jl=1010332082581) — Lastwall
 - 📍 **Location:** Montreal, Canada
+- 💰 **Salary:** $140k–$210k/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Chief Architect & Design Authority](https://www.glassdoor.ca/job-listing/j?jl=1010332046280) — NTT Ltd
-- 📍 **Location:** British Columbia, Canada
-- 💰 **Salary:** $174k–$232k/yr
+### [Chief Human Resources Officer](https://www.glassdoor.ca/job-listing/j?jl=1010332099728) — Achievers
+- 📍 **Location:** Toronto, Canada
 - 🕒 **Posted:** 2026-11-20
 
-### [Internal Controls Director](https://www.glassdoor.ca/job-listing/j?jl=1010329129324) — Pala Interactive Canada
-- 📍 **Location:** North York, Canada
-- 💰 **Salary:** $100k–$130k/yr
+### [Payroll Operate Services - Director](https://www.glassdoor.ca/job-listing/j?jl=1010332087245) — EY
+- 📍 **Location:** Toronto, Canada
+- 🕒 **Posted:** 2026-11-20
+
+### [Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010331219762) — Elby Professional Recruitment Inc
+- 📍 **Location:** Hamilton, Canada
+- 💰 **Salary:** $140k–$180k/yr
+- 🕒 **Posted:** 2026-11-20
+
+### [Clinical Director](https://www.glassdoor.ca/job-listing/j?jl=1010332136652) — Waypoint Centre for Mental Health Care
+- 📍 **Location:** Penetanguishene, Canada
+- 💰 **Salary:** $78.92–$92.84/hr
+- 🕒 **Posted:** 2026-11-20
+
+### [Directeur des finances et de la comptabilité - Montréal - 130 k$ à 145 k$ / Director of Finance](https://www.glassdoor.ca/job-listing/j?jl=1010329903660) — Quantum Management Services
+- 📍 **Location:** Montreal, Canada
+- 💰 **Salary:** $125k–$145k/yr
 - 🕒 **Posted:** 2026-11-18
 
-### [Chief Operating Officer (COO)](https://www.glassdoor.ca/job-listing/j?jl=1010332076782) — Mindful Therapies
-- 📍 **Location:** Dartmouth, Canada
-- 💰 **Salary:** $47k–$72k/yr
+### [Director, Financial Planning & Business Support](https://www.glassdoor.ca/job-listing/j?jl=1010332107025) — BC Assessment
+- 📍 **Location:** Victoria, Canada
+- 💰 **Salary:** $149k–$182k/yr
 - 🕒 **Posted:** 2026-11-20
 
-### [Director, Quality Assurance](https://www.glassdoor.ca/job-listing/j?jl=1010331242267) — Camp Systems International Inc.
-- 📍 **Location:** Montreal, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Research Director](https://www.glassdoor.ca/job-listing/j?jl=1010332054293) — GritHR Solutions, LLC
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Executive Director, Sales Enablement - North America](https://www.glassdoor.ca/job-listing/j?jl=1010332005096) — Capco
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Director, Analytical & Stability Development - Global](https://www.glassdoor.ca/job-listing/j?jl=1010332056256) — DECIEM
-- 📍 **Location:** Toronto, Canada
-- 🕒 **Posted:** 2026-11-20
-
-### [Director of Design](https://www.glassdoor.ca/job-listing/j?jl=1010332075179) — WDI Group
-- 📍 **Location:** Ancaster, Canada
-- 💰 **Salary:** $80k–$120k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Executive Director](https://www.glassdoor.ca/job-listing/j?jl=1010332061314) — Thunder Bay Waterfront District BIA
-- 📍 **Location:** Thunder Bay, Canada
-- 💰 **Salary:** $60k–$75k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Interim Chief Accounting Officer](https://www.glassdoor.ca/job-listing/j?jl=1010332067249) — ISG Partners
-- 📍 **Location:** Vancouver, Canada
-- 🕒 **Posted:** 2026-11-20
+### [Marketing Director - AI Innovation, Real Estate & Home Building](https://www.glassdoor.ca/job-listing/j?jl=1010330878349) — Ivy Homes Ltd.
+- 📍 **Location:** London, Canada
+- 💰 **Salary:** $85k/yr
+- 🕒 **Posted:** 2026-11-19
