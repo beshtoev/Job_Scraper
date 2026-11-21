@@ -1,16 +1,9 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-21 15:42 UTC*
+*Last updated: 2026-11-21 18:16 UTC*
 
-**2 new role(s)** since last run · 23 total in last 24h
+**1 new role(s)** since last run · 21 total in last 24h
 
-### [Investment Director](https://ca.indeed.com/viewjob?jk=a0969cc70ce60225) — Unknown
-- 📍 **Location:** Greater Toronto Area, ON, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-11-21
-
-### [Vice President Finance & CFO](https://ca.indeed.com/viewjob?jk=11401277d797f73c) — GrandBridge Energy Inc.
-- 📍 **Location:** Cambridge, ON, CA
+### [Director, Product Management (Security Operations)](https://ca.indeed.com/viewjob?jk=6de763a04e66caf4) — OpenText
+- 📍 **Location:** Mississauga, ON, CA
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-21
+- 🕒 **Posted:** 2026-11-18
