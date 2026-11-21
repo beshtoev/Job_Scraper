@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 373,
-    "pollable": 244,
+    "companies": 374,
+    "pollable": 245,
     "unresolved": 129
   },
   "companies": [
@@ -908,6 +908,19 @@
       "ats": "lever",
       "slug": "coinspaid",
       "careers_url": "https://jobs.eu.lever.co/coinspaid",
+      "source": "murat 2026-11-20",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Movable Ink",
+      "archetype": "A",
+      "ats": "greenhouse",
+      "slug": "movableink",
+      "careers_url": "https://movableink.com/careers#open-roles",
       "source": "murat 2026-11-20",
       "include": [],
       "exclude": [],
