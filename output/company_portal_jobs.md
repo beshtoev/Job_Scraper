@@ -1,6 +1,9 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-21 17:29 UTC*
+*Last updated: 2026-11-21 20:27 UTC*
 
-**0 new role(s)** since last run · 1106 total in current portal openings
+**1 new role(s)** since last run · 1105 total in current portal openings
 
-No matching roles found in today's company-portal run.
+### [Deals Value Creation Analytics Director](https://jobs-ca.pwc.com/ca/en/job/739416WD) — PwC Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-10
