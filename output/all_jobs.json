@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 22:12 UTC",
+  "updated_at": "2026-11-21 22:32 UTC",
   "jobs": [
     {
       "company": "TEEMA",
@@ -102968,7 +102968,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-26T05:16:15Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -105867,60 +105867,6 @@
       "duplicate_urls": [
         "https://www.glassdoor.ca/job-listing/j?jl=1010304043648"
       ]
-    },
-    {
-      "company": "Wilfrid Laurier University",
-      "title": "Director of Finance and Administration",
-      "location": "Waterloo, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010302830273",
-      "date_posted": "2026-10-21",
-      "description": "Support the activities of the Principal-Dean through research, high-level project/program development and implementation, implementation of confidential…",
-      "salary": "$90k–$120k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-22T22:29:35Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "Waterloo",
-      "geo_province": "ON",
-      "geo_lat": 43.4643,
-      "geo_lon": -80.5204,
-      "geo_distance_km": 94.5,
-      "geo_rank": 200945,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Cisco Systems",
-      "title": "Canada SE Strategy & Planning Leader",
-      "location": "Montreal, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010303854491",
-      "date_posted": "2026-10-22",
-      "description": "Planification stratégique et croissance : Élaborer et mettre en œuvre des stratégies globales pour l’équipe des spécialiste en ingénierie réseau afin de…",
-      "salary": "$172k–$324k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-22T22:29:35Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Montreal",
-      "geo_province": "QC",
-      "geo_lat": 45.5019,
-      "geo_lon": -73.5674,
-      "geo_distance_km": 502.6,
-      "geo_rank": 405026,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
     }
   ]
 }
