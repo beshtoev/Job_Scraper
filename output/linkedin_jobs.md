@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-21 08:18 UTC*
+*Last updated: 2026-11-21 09:02 UTC*
 
-**1 new role(s)** since last run · 31 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [ERP Finance System Director](https://www.linkedin.com/jobs/view/4492999013/) — Hays
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-20
+No new roles since the last run.
