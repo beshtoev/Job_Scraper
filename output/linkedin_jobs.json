@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-21 21:24 UTC",
+  "scraped_at": "2026-11-21 22:09 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "TEEMA",
@@ -28,30 +28,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "TEEMA",
-      "title": "Director, Application Architecture & Integration",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4492863220/",
-      "date_posted": "2026-11-21",
-      "salary": "$159,000–$215,000 per year",
-      "ats": "LinkedIn",
-      "description": "About the Opportunity\n\nTEEMA Group is partnering with a well-established, growing Vancouver accounting firm to find a hands-on, builder-minded Director, Application Architecture & Integration\n. The firm runs on Microsoft and Azure\n. This leader will own application and integration architecture, including the Microsoft Dynamics 365 platform, connect the specialized accounting, audit and tax applications the firm’s professionals rely on, and modernize how software is built through AI-assisted engineering and DevOps.\n\nAt this firm’s size, you’ll set the direction and roll up your sleeves, with real influence and visibility across the firm.\n\nSalary:\n$159,000–$215,000 per year - & Discretionary bonus\n\nWork arrangement:\n\nOn-site during the first few weeks of onboarding, then hybrid with 3 days in the Vancouver office and 2 days remote\n.\n\nWhat You’ll Do\n\nApplication Architecture & Engineering\nLead application architecture and design on Microsoft and Azure, staying hands-on in design, prototyping and code review.\nBuild modern engineering practices: source control, code review, automated testing and CI/CD (Azure DevOps or GitHub).\nLead the adoption of AI-assisted development (such as GitHub Copilot and Azure OpenAI) to significantly improve delivery speed and quality.\nBuild security into the development lifecycle.\n\nIntegration Architecture\nOwn integration architecture and API standards on Azure Integration Services (API Management, Service Bus, Functions, Logic Apps).\nIntegrate industry-specific accounting, audit, tax and practice management applications with Dynamics 365 and the firm’s core platforms through APIs.\nMake sure integrations are secure, resilient and monitored.\n\nMicrosoft Dynamics 365\nProvide technical leadership for the Dynamics 365 and Power Platform environment, including architecture, customization standards and integration design.\nWork with implementation partners, and build internal capability to support and extend the platform.\n\nTeam & Data\nBuild and lead a small team covering development, integration and QA, and balance internal staff with partners.\nOver time, set direction for data architecture, reporting and analytics.\n\nWhat You Bring\n\nA strong background in application architecture and software engineering, ideally progressing from developer to architect to leader.\nHands-on Microsoft Dynamics 365 experience\n(architecture, customization, integration) and Power Platform.\nHands-on experience with Azure integration and APIs\n, including connecting third-party and vendor applications, plus the Microsoft stack\n(.NET, Azure DevOps or GitHub, Entra ID).\nExperience building DevOps and engineering practices, and using AI-assisted development\nto boost productivity.\n1–2+ years in a Director or Head of role\n, or equivalent senior architecture leadership.\nClear communication with both technical teams and firm leadership.\nNice to have:\nExperience in accounting, professional services, legal or financial services\nData engineering or analytics experience\n\nYou’ll Thrive Here If You\n\nAre a builder who enjoys creating capabilities from scratch, likes being close to the work in a mid-sized firm, sets high standards without bureaucracy, and is excited by how AI can change the way technology is delivered.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "Vancouver",
-      "geo_province": "BC",
-      "geo_lat": 49.2827,
-      "geo_lon": -123.1207,
-      "geo_distance_km": 3355.3,
-      "geo_rank": 433553,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
