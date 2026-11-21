@@ -1,53 +1,50 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-21 18:09 UTC*
+*Last updated: 2026-11-21 19:09 UTC*
 
-**11 new role(s)** since last run · 16 total in last 1h
+**10 new role(s)** since last run · 12 total in last 1h
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4475585771/) — Raise
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $175,000.00/yr - CA$200,000.00/yr
+### [Director, Credit Risk Solutions Consulting](https://www.linkedin.com/jobs/view/4380658110/) — TransUnion
+- 📍 **Location:** Burlington, Ontario, Canada
+- 💰 **Salary:** $174,000 - $245,000 annually
 - 🕒 **Posted:** 2026-11-21
 
-### [VP of Software Engineering - Aquatic Informatics](https://www.linkedin.com/jobs/view/4449936551/) — Aquatic Informatics
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $230,000 - $285,000
-- 🕒 **Posted:** 2026-11-21
-
-### [Sales Leader, Enterprise - Americas](https://www.linkedin.com/jobs/view/4485124357/) — Ashby
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $320,000.00/yr - $407,500.00/yr
-- 🕒 **Posted:** 2026-11-21
-
-### [Client Services Director](https://www.linkedin.com/jobs/view/4450364670/) — MNP
-- 📍 **Location:** Regina, Saskatchewan, Canada
-- 🕒 **Posted:** 2026-11-21
-
-### [Human Resources Director](https://www.linkedin.com/jobs/view/4493107162/) — Haystack
+### [Leader fonctionnel Oracle EPM Planning](https://www.linkedin.com/jobs/view/4459411825/) — Deloitte
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-21
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4493104206/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Director- M&A Human Capital Due Diligence & Value Creation](https://www.linkedin.com/jobs/view/4478047034/) — Deloitte
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $157,000 - $293,000,
 - 🕒 **Posted:** 2026-11-21
 
-### [Enterprise Sales Director, Canada](https://www.linkedin.com/jobs/view/4450684150/) — SpaceX
+### [VP of Growth Marketing (Remote, Hamilton)](https://www.linkedin.com/jobs/view/4493307089/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-21
+
+### [Director, Programs and Operations](https://www.linkedin.com/jobs/view/4493110166/) — Canadian Science Policy Centre
+- 📍 **Location:** Canada
+- 💰 **Salary:** $110,000 - $120,000
+- 🕒 **Posted:** 2026-11-21
+
+### [Director - Geological Data & Database Management](https://www.linkedin.com/jobs/view/4477889643/) — Kinross Gold Corporation
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $180,000 to $220,000
+- 🕒 **Posted:** 2026-11-21
+
+### [Director, Head of Sales Operations](https://www.linkedin.com/jobs/view/4451493770/) — Phreesia
+- 📍 **Location:** Canada
+- 💰 **Salary:** $240,000-260,000
+- 🕒 **Posted:** 2026-11-21
+
+### [Director, Systems & Data Transformation](https://www.linkedin.com/jobs/view/4477840732/) — HSB - Hartford Steam Boiler
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $159000 to $186000 per year
+- 🕒 **Posted:** 2026-11-21
+
+### [Head of Security Centre](https://www.linkedin.com/jobs/view/4485393487/) — Geotab
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-21
 
-### [Associate Director, M&A](https://www.linkedin.com/jobs/view/4468854359/) — Jonas Software
+### [Director , eDiscovery- Technology Consulting](https://www.linkedin.com/jobs/view/4478076004/) — FTI Consulting
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000 – $150,000
-- 🕒 **Posted:** 2026-11-21
-
-### [Director, Campus Retail Services (Bookstore)](https://www.linkedin.com/jobs/view/4492953798/) — University of Calgary
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-21
-
-### [Associate Director, PSP Operations](https://www.linkedin.com/jobs/view/4492892703/) — Canadian Forces Morale and Welfare Services
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $129,270.00 - $161,590.00
-- 🕒 **Posted:** 2026-11-21
-
-### [Technical Director, DataEdge Strategy & Architecture](https://www.linkedin.com/jobs/view/4460506950/) — Rocket Software
-- 📍 **Location:** Ontario, Canada
 - 🕒 **Posted:** 2026-11-21
