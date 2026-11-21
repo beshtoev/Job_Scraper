@@ -1,22 +1,29 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-21 13:00 UTC*
+*Last updated: 2026-11-21 14:40 UTC*
 
-**4 new role(s)** since last run · 9 total in last 1h
+**6 new role(s)** since last run · 12 total in last 1h
 
-### [Senior Vice President, Health Digital](https://www.linkedin.com/jobs/view/4485389144/) — Edelman
+### [Director, Enterprise Integration Services – OneRBC: CNB Integration](https://www.linkedin.com/jobs/view/4485622388/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $162,000 to $200,000
 - 🕒 **Posted:** 2026-11-21
 
-### [VP of Product, Sports (Legend)](https://www.linkedin.com/jobs/view/4476819871/) — Genius Sports
-- 📍 **Location:** Halifax, Nova Scotia, Canada
+### [Senior Director, Wealth Platform Engineering](https://www.linkedin.com/jobs/view/4476246373/) — Tangerine
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-21
 
-### [Director, Measurement & Analytics](https://www.linkedin.com/jobs/view/4485112711/) — Flywheel
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000 - $175,000
+### [Vice President & Market Leader, BMO Private Wealth](https://www.linkedin.com/jobs/view/4492223345/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-11-21
 
-### [Director, Strategic Advisory](https://www.linkedin.com/jobs/view/4477171416/) — J.S. Held LLC
+### [Senior Director, Corporate Strategy & Development](https://www.linkedin.com/jobs/view/4469222192/) — Trulioo
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-21
+
+### [CA-Sales & Operations Director](https://www.linkedin.com/jobs/view/4491182189/) — LEON CYCLE
 - 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-21
+
+### [Director, Operations](https://www.linkedin.com/jobs/view/4485382883/) — Sofina Foods Canada
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-11-21
