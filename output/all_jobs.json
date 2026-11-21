@@ -1,6 +1,179 @@
 {
-  "updated_at": "2026-11-21 00:51 UTC",
+  "updated_at": "2026-11-21 02:04 UTC",
   "jobs": [
+    {
+      "company": "Stingray",
+      "title": "Head of Data & Business Intelligence",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4491964880/",
+      "date_posted": "2026-11-21",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "At Stingray, creativity, collaboration, and innovative technology are the pillars of our DNA. Are you ready to rock your career by joining a growing company, a team of music enthusiasts in a stimulating and fun work environment?\n\nWe are looking for a Head of Data & Business Intelligence\nto join our Data & Business Intelligence team. This position reports to the Director of Software Development Unit – Internal Tools.\n\nAs Head of Data & Business Intelligence, you will drive the technical data vision and strategy for the entire organization. A deeply technical leader, you will have an in-depth command of the systems, architecture, and automations that power our data. Your role will be to keep growing the strategic value of our data, maintaining alignment between our technological capabilities and business objectives. You will act as a key leader in the continued evolution of our culture and practices, connecting technical teams and leadership.\n\nYour day-to-day\n\nDefine the strategic vision: Develop and drive the roadmap for data architecture, technology, and warehousing\nChampion data culture: Promote the importance of data quality, standardize definitions, and implement clear processes to shift the organization toward a predictive approach\nGuide and unify teams: Lead, mentor, and ensure effective collaboration between local and remote data teams, prioritizing high-impact business initiatives\nEnsure technical excellence: Oversee the design of a reliable and high-performing data ecosystem, while directly contributing (approximately 30%) to the design of systems, architectures, and automations to stay connected to ground-level realities\nAgentic leadership: Guide a team already working with agentic development as it migrates our processes onto our in-house agentic platform, putting in place what makes those automations trustworthy: validation, observability, guardrails, and governance\n\nYour Qualifications\n\nOver 10 years of experience in data, business intelligence, and analytics, including team management\nDemonstrated ability to translate complex business objectives into a clear technical vision and strategic roadmap\nStrong leadership experience, with a talent for mentoring, change management, and aligning multidisciplinary teams, including data science and data engineering\nProficiency in data architecture concepts (Data Mesh, Data Lakehouse, ETL/ELT, streaming, Pub/Sub) and Cloud platforms (AWS, GCP, or Azure)\nIn-depth command of systems and architecture concepts, with the ability to design end-to-end solutions and assess their robustness\nMastery of agentic development and automated software production pipelines (agent orchestration, evaluation, observability, guardrails), and a proven ability to lead a team working this way\nAbility to build well-founded trust in automated systems: measuring their reliability, understanding their limits, and keeping human judgment where it matters\nStrong communication and stakeholder management skills, with the ability to influence at all levels of the organization\nFluent in French and English, both written and spoken, with strong spoken fluency in both languages\n\nNice-to-haves\n\nHands-on experience managing the merger of technology stacks and teams\nKnowledge of data ecosystems and technologies (e.g., Snowflake, BigQuery, Databricks, Apache Beam, DBT, Google Cloud Dataflow, Tableau, etc.)\nExperience with the advertising data industry (SSAI, SSP, DSP)\nAbility to design business intelligence strategies tailored to different business models (e.g., subscription services, advertising)\nKnowledge of various programming and database languages (Python, Java, Rust, SQL, etc.)\n\nThe Team You Will Join\n\nA technical Data & Business Intelligence team of 8 people, including a technical lead and a project manager in Montreal\nCollaboration with a remote data science team & a remote data engineering team\nCollaborative work with leaders across the entire company\n\nLife at Stingray\n\nA cool office in Montreal with the flexibility to work from home on Fridays\nStingray café with breakfasts, lunches and snacks offered every day\nA subsidy for your OPUS card to make your commutes easier\nShares purchase plan (with a contribution from Stingray)\nFull access to the Dialogue virtual healthcare platform\nFree fitness classes offered weekly\nAccess to private consultations on nutrition and wellness\nFree language classes, training and access to the latest AI technologies and platforms to boost your productivity and creativity\nSummer hours\nMilestones celebrated with our loyalty program\n5@7 and vibrant social events\nAnd much more!\n\nWe leverage AI‑supported tools to assist with the initial review of applications. These tools do not replace human judgment—final decisions are made by our recruitment teams.\n\nMontreal-based Stingray Group is a leading music, media and technology company with over 1,200 employees worldwide. Our offices are located in the Old Port of Montreal\njust minutes from the Lachine Canal bike path, a prime location for picnics or a jog at lunch time.\n\nStingray supports the principles of Employment Equity and is committed to ensuring our workforce is representative of the communities we serve and in which we operate. Women, Aboriginal peoples, persons with disabilities and visible minorities are encouraged to apply and to self-identify so we can work towards full representation of those groups within our company.\n\nNot the job for you? Go to jobs.stingray.com to consult other available positions and learn more about Stingray, we’re always on the lookout for new talent.\n\nShare this opportunity\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "first_seen": "2026-11-21T02:04:50Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 305026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "BERMANFALK Hospitality Group",
+      "title": "Director, Finance & Accounting",
+      "location": "Langley, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4492836658/",
+      "date_posted": "2026-11-20",
+      "salary": "$150,000 - $175,000",
+      "ats": "LinkedIn",
+      "description": "BERMANFALK Hospitality Group\nis a \"design driven\" manufacturer of custom casegoods and seating for the hospitality industry. At BERMANFALK we are passionate about design and bringing our client's visions to life. We are looking to add like-minded professionals to our team who are excited by contributing to a fast-paced company and who excel with management of details and customer service. www.bermanfalk.com\n\nAbout BERMANFALK Hospitality Group\n\nBERMANFALK Hospitality Group delivers custom casegoods and seating to the hospitality industry, including hotels, resorts, and restaurants; primarily focused on the 3+ to 5 star market. We manage every project from design phase, approvals and shop drawings through to manufacturing, quality control, logistics, delivery and installation. Our model depends on a trusted network of manufacturing partners, which makes precise cost control, disciplined project accounting, and sound supply-chain ﬁnance central to our success.\nWe are growing and evolving high paced business, and we are looking for a ﬁnance leader who can run rigorous day-to-day project and cost accounting while shaping the ﬁnancial strategy that will carry the company to its next stage.\n\nROLE SUMMARY\n\nThe Director, Finance & Accounting is the senior ﬁnance leader at BERMANFALK and owns every part of the company's ﬁnancial function. The role has two equal halves:\n\nOperational ﬁnance:\nbuilding and running cost-based and project-based accounting so that every project's true cost, margin, and cash position is known in real time, from quote to ﬁnal invoice.\nStrategic ﬁnance:\nleading ﬁnancial planning, capital structure, banking relationships, risk management, and growth strategy for the company as a whole.\n\nThis is a hands-on leadership role for someone who is as comfortable reconciling a landed-cost variance on a guestroom package as presenting a ﬁve-year plan to ownership and lenders.\n\nKEY RESPONSIBILITIES\n\nProject & Job-Cost Accounting\n\nOwn the full project accounting lifecycle, including project setup, budgets, cost tracking, change orders, billing, and close-out.\nDesign and maintain a job-costing structure that captures manufacturer costs, freight, duties, brokerage, warehousing, installation, samples, and allocated overhead by project and by line item.\nEnsure change orders and scope changes are priced, approved, and billed promptly so that margin does not erode.\nDeliver project proﬁtability reporting that compares estimated and actual results, identiﬁes variances, and feeds lessons back into estimating.\n\nCost Accounting & Supply-Chain Finance\n\nBuild accurate landed-cost models for outsourced production, covering FOB pricing, ocean and inland freight, tariffs and duties, customs brokerage, insurance, and FX.\nPartner with procurement to manage manufacturer deposits, payment milestones, letters of credit, and supplier terms.\nMonitor and mitigate foreign-exchange exposure on supplier payments and customer contracts, including hedging strategy where appropriate.\nTrack tariff and trade-policy changes and model their impact on pricing, sourcing decisions, and open contracts.\nSupport estimating and sales with cost data, pricing models, and margin guardrails for bids and proposals.\nEvaluate manufacturing partners from a ﬁnancial perspective, including cost competitiveness, ﬁnancial stability, and risk concentration.\n\nFinancial Operations & Controls\n\nLead month-end and year-end close, producing accurate and timely ﬁnancial statements.\nPrepare consolidated Balance Sheets, Income Statements, and Cash Flow Statements.\nCoordinate and lead all annual external audits, ensuring robust internal controls and GAAP/IFRS compliance.\nMaintain 13-week cash-ﬂow forecasting and working-capital management across overlapping projects.\nMaintain direct oversight over global banking accounts and treasury management across 4 countries.\nOversee Indirect Tax Compliance & Remittances – US Sales & Use Tax, Canadian provincial and federal sales taxes and UK VAT returns.\nLead corporate income tax compliance and statutory filings with the CRA, IRS and HMRC.\n\nStrategic Finance & Leadership\n\nDevelop and own the annual budget, rolling forecasts, and long-range ﬁnancial plan.\nServe as a strategic advisor to the Executive Team and ownership on growth, pricing strategy, market expansion, and investment decisions.\nBuild KPI dashboards covering backlog, gross margin by project and client, projects rolling forecast.\nEvaluate strategic opportunities including new product categories, partnerships, acquisitions, and vertical integration.\nLead the selection, implementation, or optimization of ERP and project accounting systems that connect estimating, procurement, and ﬁnance.\nBuild, mentor, and lead the ﬁnance and accounting team as the company scales.\nEstablish standard operating procedures (SOPs), clear performance metrics, and workflow efficiency across global finance functions.\n\nQUALIFICATIONS\n\nRequired\n\nCPA designation (Canada) or equivalent professional accounting credential is preferred.\n10+ years of progressive ﬁnance experience, including at least 5 years in a senior leadership role (Controller, Director of Finance, or VP Finance).\nDeep, hands-on expertise in project-based and job-cost accounting, WIP reporting, and percentage-of-completion or milestone revenue recognition.\nExperience in manufacturing, contract furniture, FF&E, millwork, construction, or another project-driven industry.\nWorking knowledge of import/export ﬁnance, including landed costs, duties, FX, and international supplier payments.\nProven experience managing banking relationships, credit facilities, and cash-ﬂow planning.\nStrong command of ﬁnancial modelling and advanced Excel, plus experience with ERP or project accounting systems.\nExcellent communication skills, with the ability to explain ﬁnancial results to project managers, sales teams, and ownership alike.\n\n﻿Preferred\n\nExperience with outsourced or offshore manufacturing (e.g., Asia, Mexico, Europe) and the related supply-chain ﬁnance.\nBackground in the hospitality FF&E, contract furniture, or hotel development sector.\nExperience leading an ERP implementation.\nFamiliarity with FX hedging, trade credit insurance, letters of credit, and surety bonding.\nExperience in a privately held or family-owned company during a period of growth.\n\nWhat Success Looks Like in the First Year\n\nEvery active project has an accurate, current cost-to-complete and margin forecast.\nMonth-end close is completed on a consistent, reliable timeline with project-level reporting.\nLanded-cost and pricing models are standardized and used by estimating on every bid.\nA rolling cash-ﬂow forecast and KPI dashboard are in place and reviewed with leadership regularly.\nA clear multi-year ﬁnancial strategy and systems roadmap has been presented to and adopted by ownership.\n\nWhy Join BERMANFALK\n\nA senior seat at the leadership table with direct inﬂuence on the company's direction.\nThe opportunity to build and shape the ﬁnance function of a growing hospitality business.\nWork on high-proﬁle projects across the hospitality sector on a global scale.\nCompetitive compensation, performance bonus, and beneﬁts package.\n\nCOMPENSATION:\nSalary Range: $150,000 - $175,000 CAD per year\n\nBENEFITS\n\nComprehensive extended health & dental benefits plan with a health spending account\nPaid time off including vacation\nFlexible working environment - Hybrid & Remote option depending on the role\nSupplementary maternity and parental leave top-up\nBeautiful open office space in Langley with full kitchen - offering coffee, snacks and refreshments\nTuition reimbursement program and various growth opportunities\nCasual dress\nCompany social events and fun team-bonding activities\nEmployee assistance programs\n\nOur business is guided by honesty and integrity. We offer competitive wages and a progressive, collaborative and creative work environment. While we laugh a great deal, we have high expectations of each other, and top-level performance is essential.\nBERMANFALK Hospitality Group is an equal opportunity employer.\n\nHYBRID WORK\n\nBERMANFALK is a hybrid company where employees have the flexibility to work from the\noffice or remotely based on the specific needs of the company. We feel this model empowers employees to work where they feel most productive, while maintaining a strong connection with their team and encouraging company-wide collaboration.  \n\nWe empower our employees to shape their work themselves, so that they can achieve quality results and deliver excellence to our team and clients. When done well, we become better collaborators, communicators, ultimately enriching our work-life balance.\n\nFull in-office attendance will be expected during onboarding and training. \n\nKindly submit a Cover Letter with your application. Please be advised that only qualified candidates will be contacted.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitality",
+      "first_seen": "2026-11-21T02:04:50Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Langley",
+      "geo_province": "BC",
+      "geo_lat": 49.1044,
+      "geo_lon": -122.66,
+      "geo_distance_km": 3324.2,
+      "geo_rank": 433242,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "PSP Investments | Investissements PSP",
+      "title": "Managing Director, Financial Planning, Cash and Expense Management",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4493217843/",
+      "date_posted": "2026-11-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "About Us\n\nWe’re one of Canada’s largest pension investors, with CAD$320.6 billion of net assets as of March 31, 2026.\n\nWe invest funds for the pension plans of the federal public service, the Canadian Forces, the Royal Canadian Mounted Police and the Reserve Force. Headquartered in Ottawa, PSP Investments has its principal business office in Montréal and offices in New York, London and Hong Kong.\n\nCapturing and leading complex global investments requires us to work as one to seize valuable opportunities, in close collaboration with some of the world’s top companies. At PSP Investments, you’ll join a team of motivated and engaged professionals, dedicated to propelling our organization further than ever before.\n\nAt PSP, three values guide our day-to-day work: we embody the mission by aligning the way we work with the needs and expectations of the people we serve; we excel together by joining forces to achieve exceptional results; we are accountable by demonstrating our intentions through our actions.\n\nWhat if your new chapter started here?\n\nAbout The Team\n\nReporting to the Senior Vice-President and Chief Financial Officer, the Managing Director, Financial Planning, Cash and Expense Management provides strategic and operational leadership for these functions and ensures their alignment with PSP’s business priorities. The Managing Director leads a team of 45 people, including three direct reports who head up Financial Planning, Cash Management and Procurement, respectively. In the context of corporate transformation, this newly created position is mandated to provide senior management with the analyses and insights needed to inform decision-making and resource allocation. Working closely with executives, the incumbent contributes to the execution of the strategy and plays an active role in the evolution of the Finance function by fostering efficiency, integration and continued development of the operations under their responsibility.\n\nAbout Your Role\n\nAs the Managing Director, Financial Planning, Cash and Expense Management\n, you’ll:\n\nProvide strategic leadership for the Financial Planning, Expense Management and Procurement functions, establishing an integrated vision, direction and priorities that support the organization’s business objectives\nAct as a strategic partner to senior management by providing an integrated financial perspective, ensuring that financial objectives are aligned with business objectives, and delivering the analyses and insights needed to inform decisions on priorities, investments, expenses and resource allocation\nLead cross-functional financial initiatives aimed at increasing cost transparency, operational efficiency and data quality, as well as the speed and quality of decision-making\nFoster integration and synergies among the three functions, particularly in terms of data, processes, technology and governance, to increase efficiency, transparency and the quality of decision-making\nPromote innovation and the transformation of financial practices, leveraging best practices, technology and new approaches to address complex financial and operational challenges\nLead, engage and develop a high-performing leadership team, holding themselves and their leaders accountable of their results of their respective functions and strengthening capabilities, succession, collaboration and the sustained performance of the entire team\n\nWhat You’ll Need\n\nUniversity degree in accounting, finance, business administration or a related discipline, combined with a CPA designation\nExtensive experience as a senior finance executive, with a proven ability to provide the financial analyses and insights needed to advise senior management and support strategic decision-making\nSignificant experience in transforming a finance team, including reviewing processes and operating models, adopting new technologies and managing change\nExperience assessing the financial impacts and managing the costs associated with the adoption and deployment of artificial intelligence (AI) solutions\nExperience leading seasoned professionals and, depending on the structure, managers spanning multiple financial disciplines\nExcellent judgment, executive presence and communication skills, as well as the ability to negotiate with and influence stakeholders with divergent interests\nAdvanced proficiency with organizational planning and reporting tools\nBilingualism: English and French (frequent interactions in English with PSP employees based in our offices in Hong Kong, London and New York, and interactions in French with employees in our local offices in Montreal and Ottawa)\n\nWe offer a tailored employee experience and competitive total rewards and benefits package* designed to attract and retain global diverse talent, reward performance, and reinforce business strategies and priorities. Beyond salary and incentive pay eligibility, you have access to:\n\nInvestment in career development\nComprehensive group insurance plans\nCompetitive pension plans\nUnlimited access to virtual healthcare services and wellness programs\nGender-inclusive paid family leave policy: up to 26 weeks for primary caregivers, 5 weeks for secondary caregivers\nA personalized family-building support, from pre-pregnancy to menopause, with available financial assistance\nVacation days available on day one with additional days on milestone service anniversaries, and summer Friday afternoons off\nA hybrid work model that includes four in-office days, Monday through Thursday\nThe opportunity to work temporarily from another location in accordance with the applicable policy\nBenefits package may vary based on your employee type.\n\nAt PSP Investments, we aim to provide a workplace where everyone feels valued, safe, respected and empowered to grow. As part of this leadership commitment, we strongly encourage applications from all qualified applicants and strive to offer an inclusive and accessible candidate experience. If you require any accommodation for any part of the recruitment process, please let us know.\n\nVisit us on www.investpsp.com/en/\n\nFollow us on LinkedIn\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInvestment Management, Capital Markets, and Financial Services",
+      "first_seen": "2026-11-21T02:04:50Z",
+      "work_mode": "Hybrid",
+      "work_mode_evidence": "description",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Government of Alberta",
+      "title": "Director, Financial Reporting & Accountability",
+      "location": "Edmonton, Alberta, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4492849440/",
+      "date_posted": "2026-11-20",
+      "salary": "$5,139.30 - $6,526.16",
+      "ats": "LinkedIn",
+      "description": "Job Information\n\nJob Title: Director, Financial Reporting & Accountability\n\nJob Requisition ID: 89522\n\nMinistry: Education and Childcare\n\nLocation: Edmonton\n\nFull or Part-Time: Full Time\n\nHours of Work: 36.25 hours per week\n\nPermanent/Temporary/Wage: Permanent\n\nScope: Open Competition\n\nClosing Date: November 27, 2026\n\nClassification: Senior Manager Zone 2\n\nSalary: $5,139.30 - $6,526.16 bi-weekly ($134,135 - $170,333/year)\n\nThe Alberta Public Service works to build a stronger province for current and future generations. We make a difference in the lives of Albertans through rewarding career opportunities.\n\nThe Ministry of Education and Childcare supports students, parents, teachers and administrators from Early Childhood Services (ECS) through Grade 12. Through safe and respectful schools for all students, Alberta’s government is making life better by investing in education, one of the most important investments we can make in our future. The Ministry has the following responsibilities: developing curriculum and setting standards; evaluating curriculum and assessing outcomes; supporting teacher development and certification; supporting students with diverse learning needs; funding and supporting school boards; advancing First Nations, Métis, Inuit and francophone education; and overseeing basic education policy and regulations.\n\nFor more information on the Ministry of Education and Childcare, please visit: Education and Childcare | Alberta.ca .\n\nRole Responsibilities\n\nReporting to the Executive Director, this position ensures branch functions and programs are integrated, coordinated and in compliance with relevant legislation, policies and business plans.\n\nThe Director is accountable for ensuring that the department, school authority and childcare financial reporting system is effectively developed, maintained and monitored and for financial reporting for the Ministry including quarterly and annual reporting and Public Accounts Committee reporting.\n\nThe Director develops policies relating to department, childcare and school authority financial reporting and information systems used to report school authority budgets and audited financial statements. He/she provides information to support internal and external financial accountabilities and works with business areas across Alberta Education and childcare to lead the completion of financial analysis and reporting accountabilities, including provision of associated advice and expertise.\n\nJob Responsibilities\n\nPrepare quarterly and annual financial statements within established deadlines for the Ministry.\nDevelop, implement and revise guidelines for school authority budget reports and audited financial statements.\nReview and evaluate compliance and comparability of school authority budget reports and audited financial statements.\nConsult and collaborate with stakeholders and Alberta Education staff to develop and implement operational policies related to private school and private ECS financial reporting.\nProvide financial advice, consultation, and reviews while educating Ministry and school jurisdiction staff on financial health and accountability matters.\nLiaise with the Office of the Auditor General and Corporate Internal Audit Services to ensure audit recommendations are appropriately addressed.\nPrepare and deliver briefings and presentations on financial issues and analysis to senior management, stakeholders, MLA task teams, Treasury Board, Executive Team and Legislative Standing Committees.\nProvide leadership, coaching, mentoring, and professional development opportunities to support staff growth, performance, and continuous improvement.\nRepresent the Ministry on internal, cross-ministry, government, and external committees, task forces and working groups.\nBuild and maintain collaborative working relationships across the Ministry and with school authorities, stakeholder organizations, other jurisdictions and external partners.\n\nPlease visit this link for a copy of the full job description for this position.\n\nAPS Competencies\n\nCompetencies are behaviors that are essential to reach our goals in serving Albertans. We encourage you to have an in depth understanding of the competencies that are required for this opportunity and to be prepared to demonstrate them during the recruitment process.\n\nSystems Thinking –\n\nTake a long-term, holistic view of organizational challenges and opportunities.\nUnderstanding how decisions and actions impact the broader system and long-term outcomes.\nAnticipating potential outcomes, risks and impacts while seeking diverse stakeholder perspectives.\nDeveloping actions and plans aligned with APS values and strategic direction.\nCollaborating with internal and external partners to identify opportunities for alignment and shared outcomes.\n\nCreative Problem Solving –\n\nContribute to innovative solutions by working collaboratively in open, inclusive team.\nApplying a wide range of techniques to break down complex problems.\nEncouraging others to think creatively and share diverse perspectives.\nBringing together the right people to address issues effectively.\nIdentifying and proposing new and improved solutions that benefit the organization.\n\nDrive for Results –\n\nTake ownership of outcomes and deliver on commitments.\nMonitoring performance using a variety of tools and resources.\nAcknowledging responsibility for results, including indirect outcomes.\nMaking decisions that serve the best interests of Albertans, even when they may be challenging or unpopular.\nAchieving goals that are consistent with APS priorities and direction.\n\nAgility –\n\nRespond effectively to change and uncertainty.\nIdentifying alternative approaches and supporting others to do the same.\nProactively communicating the impacts of change.\nAnticipating and addressing emotional responses to change.\nIdentifying obstacles early, staying focused on goals, and adapting as needed.\nMaking sound decisions in uncertain situations while developing contingency plans.\n\nQualifications\n\nRequired:\n\nA University graduation in a field related to the position assignment, supplemented by five years progressively responsible experience.\nCPA or legacy designation (CA, CMA, CGA).\nRelated experience or education may be considered as an equivalency on a one for one basis.\n\nAssets\n\nDemonstrated experience with financial operations and management within a public sector environment.\nGovernment strategic and policy directions as they relate to the Ministry's mandate and initiatives.\nGovernment and department budgeting and accounting processes and procedures.\nApplicable legislation, regulations and policies (i.e. the Education Act and Regulations, the Guide to Education, the Government Organization Act, the Financial Administration Act, Freedom of Information and Protection of Privacy Act)\n\nA cover letter must\naccompany your application and should indicate how your previous work experience aligns with the qualifications and competencies required. Please provide clear examples of how you meet the criteria and skills required in your cover letter. Failure to provide a cover letter will lead to the application being screened out. A cover letter will be one of the ways to assess communication skills of candidates.\n\nIn your resume, please include dates (including months and years) associated with all education and work experience. For example, January 2006 – June 2009 (part-time). This example is provided for illustrative purposes only. Applicants are encouraged to present their information clearly and thoroughly, using a format that best conveys their experience.\n\nPlease also clearly outline your educational credentials, including the type of credential obtained (e.g., master’s degree, bachelor’s degree, diploma, or certificate) and the field of study.\n\nMinimum recruitment standards outline the minimum education and experience required for appointment to a job classification.\n\nNotes\n\nHours of Work – 36.25 hours per week (full time), Monday to Friday.\n\nTerm of Employment – Full-time.\n\nLocation – 44 Capital Boulevard Building, Edmonton.\n\nFinal candidates will be required to undergo an academic credentials verification.\n\nThis competition maybe used to fill future vacancies across the Government of Alberta at equal or lower classification and salary.\n\nAny costs associated with obtaining the required documents/checks as noted or interview travel expenses, will be the responsibility of the candidate. Out-of-province applicants can obtain the required documents/checks from the province they currently reside in.\n\nLinks And Information On What We Have To Offer\n\nWorking for the Alberta Public Service\nManagement Employee Pension Plan (MEPP)\nAlberta Public Service Benefit Information\nProfessional learning and development\nResearch Alberta Public Service Careers tool\nPositive workplace culture and work-life balance\n\nHow To Apply\n\nApplicants are advised to provide information that clearly and concisely demonstrates how their qualifications meet the advertised requirements, including education, experience, and relevant examples of required competencies.\n\nCandidates are required to apply for a job online. Please see Job Application Resources for information.\n\nIn your resume, please include dates (including months and years) associated with all education and work experience. For example, January 2006 - June 2009 (part-time). This example is provided for illustrative purposes only. Applicants are encouraged to present their information clearly and thoroughly, using a format that best conveys their experience.\n\nIt is recommended applicants who have completed post-secondary studies from outside of Canada obtain an evaluation of their credentials from the International Qualifications Assessment Service (IQAS) or from a recognized Canadian Credential Evaluator; please visit the Alliance of Credential Evaluation Services of Canada for more information .\n\nIt is recommended that applicants include the assessment certificate from IQAS or any other educational assessment service as part of their application.\n\nClosing Statement\n\nThis competition may be used to fill future vacancies, across the Government of Alberta, at the same or lower classification level.\n\nWe thank all applicants for their interest. All applications will be reviewed to determine which candidates' qualifications most closely match the advertised requirements. Only individuals selected for interviews will be contacted.\n\nIf you require any further information on this job posting or require an accommodation during the recruitment process, please contact PSC.FTA@gov.ab.ca .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nGovernment Administration",
+      "first_seen": "2026-11-21T02:04:50Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.53991,
+      "geo_lon": -113.50717,
+      "geo_distance_km": 2702.0,
+      "geo_rank": 427020,
+      "geo_source": "posting-address",
+      "geo_confidence": "high",
+      "geo_detail": "44 Capital Boulevard",
+      "geo_version": 1
+    },
+    {
+      "company": "Canadian Association of University Teachers",
+      "title": "Director of Finance, Human Resources and Operations",
+      "location": "Ottawa, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4492847472/",
+      "date_posted": "2026-11-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Le français suit.\n\nSince 1951, the Canadian Association of University Teachers (CAUT) has defended the rights of teachers, librarians, researchers and other academic staff in Canada’s public post-secondary institutions. With 75,000 members at over 130 colleges and universities nationwide, CAUT advocates for quality, accessible post-secondary education. CAUT unites and empowers academic staff associations at Canada’s public universities and colleges. They defend academic freedom, the integrity of the academic job and high-quality, accessible and affordable post-secondary education. Working with associations across the country, CAUT brings national and international perspectives to help solve local challenges. They also bring local priorities to the national agenda, influencing federal policy and investments in research and post-secondary education.\n\nReporting to the Executive Director, the Director of Finance, Human Resources and Operations provides integrated leadership and direction for CAUT’s Finance, Human Resources, Information Management and Technology and Operations functions. The Director coordinates the work of these functions, aligns resources and priorities with organizational objectives, and oversees the development and implementation of their budgets, operational plans, policies, and processes. As a member of the management team, the Director contributes to strategic, operational, and financial planning and coordinates progress on cross-functional initiatives. The role combines financial stewardship, sound people management, effective technology and information management, and oversight of facilities and administrative services. The Director leads and develops a team of professional and administrative staff, provides guidance on complex matters, and keeps the Executive Director informed of progress, emerging issues, and resource requirements.\n\nThe ideal candidate is a highly adaptable, bilingual executive who thrives in a hands-on, multifaceted leadership role and can serve as a trusted partner to the Executive Director. They bring a balanced combination of labour relations expertise, operational financial leadership, organizational problem-solving, and sound executive judgment. They have significant experience in unionized environments, are skilled at coaching leaders through difficult people issues, building accountability, and fostering constructive relationships with employees and union representatives. The successful candidate is relationship-oriented, credible, and approachable, with the confidence to make independent decisions, manage competing priorities, and navigate ambiguity.\n\nThis is a publicly advertised job posting for an existing vacancy. Expected: 179,681 CAD.\n\nOdgers does not use artificial intelligence (AI) to screen, assess, or select applicants for a position.\n\nTo Apply\n\nTo fill this position, CAUT has partnered with leadership advisory firm Odgers. Applications are encouraged immediately and should be submitted online at https://careers.odgers.com/en-ca/32323.We thank all those who express an interest, however only those chosen for further development will be contacted.\n\nDiversity, Equity, and Inclusion\n\nCAUT is an equal opportunity employer. In accordance with the Accessible Canada Act, 2019 and all applicable provincial accessibility standards, upon request, accommodation will be provided by both Odgers and CAUT throughout the recruitment, selection and/or assessment process to applicants with disabilities.\n\nOdgers is deeply committed to diversity, equity, and inclusion in all the work that we do. As part of our efforts to better understand our ability to reach as broad a pool of candidates as possible for our searches, our DEI team would like to encourage you to take a moment and access our Self-Declaration Form.\n**********************************************************************************************************\nDepuis 1951, l’Association canadienne des professeures et professeurs d’université (ACPPU) défend les droits des enseignantes et enseignants, des bibliothécaires, des chercheuses et chercheurs et des autres membres du personnel universitaire en poste dans les établissements d’enseignement postsecondaire publics au Canada. Comptant 75 000 membres dans plus de 130 collèges et universités à l’échelle nationale, l’ACPPU milite en faveur d’une éducation postsecondaire accessible et de haute qualité. Tout en leur donnant les moyens pour s’acquitter de leur mission, l’ACPPU unit les associations de personnel universitaire dans les universités et collèges publics du Canada. Elle défend la liberté universitaire, l’intégrité du travail universitaire et un système d’éducation postsecondaire accessible, abordable et de grande qualité. Elle collabore avec des associations de partout au pays, en tenant compte des perspectives nationales et internationales, pour les aider à relever les défis locaux. Elle parvient également à faire inscrire les priorités locales à l’ordre du jour national et à influencer les orientations fédérales et investissements dans la recherche et l’éducation postsecondaire.\n\nSous la responsabilité du directeur général, la directrice ou le directeur des finances, ressources humaines et operations exerce un leadership intégré et donne une orientation stratégique aux services des finances, des ressources humaines, de gestion de l’information et de la technologie ainsi que les operations de l’ACPPU. La personne titulaire du poste coordonne les activités de ces services, veille à faire concorder les ressources et les priorités avec les objectifs de l’organisation et supervise l’élaboration et la mise en œuvre de leurs budgets, plans opérationnels, politiques et processus. En tant que membre de l’équipe de direction, elle contribue à la planification stratégique, opérationnelle et financière et coordonne l’avancement d’initiatives interfonctionnelles. Ce poste conjugue gérance financière, saine gestion des ressources humaines, gestion efficace de la technologie et de l’information, ainsi que supervision des installations et des services administratifs. La personne titulaire du poste crée et dirige une équipe composée de professionnelles et professionnels et de personnel administratif, donne des conseils sur des questions complexes et tient le directeur général au courant de l’avancement des travaux, des enjeux émergents et des besoins en ressources.\n\nCadre bilingue dotée d’une grande capacité d’adaptation, la personne recherchée excelle dans un rôle de direction concret et polyvalent et elle peut agir comme partenaire de confiance pour le directeur général. Faisant preuve d’un jugement sûr, elle sait conjuguer expertise en relations de travail, leadership opérationnel et financier ainsi que capacité à résoudre des problèmes organisationnels. Forte d’une grande expérience des milieux syndiqués, elle est douée pour accompagner des dirigeantes et dirigeants dans la gestion de situations de ressources humaines difficiles, instaurer une culture de responsabilisation et favoriser des relations constructives avec les membres du personnel et les représentantes et représentants des syndicats. Facile d’approche, cette personne préconise les relations humaines, jouit d’une bonne crédibilité et possède l’assurance nécessaire pour prendre des décisions en toute autonomie, gérer des priorités concurrentes et composer avec l’ambiguïté.\n\nIl s’agit d’une offre d’emploi publique pour un poste à pourvoir. Rémunération prévue : 179 681 $ CA.\n\nOdgers n’utilise pas l’intelligence artificielle (IA) pour présélectionner, évaluer, ni sélectionner les candidatures à un poste.\n\nPour postuler\n\nL’ACPPU s’est associée à la firme de services-conseils en leadership intégrés Odgers pour ce recrutement. Si ce défi vous intéresse, nous vous invitons à soumettre votre candidature en ligne à https://careers.odgers.com/fr-ca/32323. Nous remercions toutes les personnes ayant manifesté leur intérêt. Toutefois, seules celles dont la candidature fera l’objet d’une évaluation plus approfondie seront contactées.\n\nDiversité, équité et inclusion\n\nL’ACPPU souscrit au principe de l’égalité d’accès à l’emploi. Conformément à la Loi canadienne sur l’accessibilité (L.C. 2019) et aux normes d’accessibilité provinciales, Odgers et l’ACPPU , sur demande, des mesures d’accompagnement aux personnes en situation de handicap tout au long du processus de recrutement, de sélection et d’évaluation.\n\nChez Odgers, nous accordons une grande importance à la diversité, à l’équité, et à l’inclusion dans l’ensemble de nos activités. Afin de mieux évaluer notre capacité à rejoindre un bassin de candidatures aussi large et diversifié que possible, notre équipe DEI vous invite à prendre un moment pour remplir notre Formulaire de déclaration volontaire.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nNon-profit Organizations",
+      "first_seen": "2026-11-21T02:04:50Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "SelfDesign Learning Foundation",
+      "title": "Foundation Leader - Technology and Organizational Improvement",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4492838391/",
+      "date_posted": "2026-11-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "first_seen": "2026-11-21T02:04:50Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Raymond James Ltd.",
+      "title": "Head of Operations, Correspondent Services - 12 Month Contract",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4440579791/",
+      "date_posted": "2026-11-20",
+      "salary": "",
+      "ats": "LinkedIn",
+      "first_seen": "2026-11-21T02:04:50Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Shoppers Drug Mart",
       "title": "Director, Prestige Beauty Programs & Brand Experience (12 Month Contract)",
@@ -1016,7 +1189,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4493218940/"
+      ]
     },
     {
       "company": "ICON Plc",
@@ -1243,7 +1419,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only province SK stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4492853279/"
+      ]
     },
     {
       "company": "Chignecto-Central Regional Centre for Education (CCRCE)",
@@ -61721,7 +61900,7 @@
       "url": "https://builtintoronto.com/job/head-marketing-operations/11971028",
       "direct_url": "https://builtintoronto.com/job/head-marketing-operations/11971028",
       "req_id": "",
-      "date_posted": "",
+      "date_posted": "2026-11-20",
       "date_seen": "2026-11-17T02:24:43Z",
       "description": "",
       "is_remote": null,
@@ -61743,7 +61922,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4484552087/"
+      ]
     },
     {
       "company": "Directive Consulting",
@@ -65347,7 +65529,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010332225477"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010332225477",
+        "https://www.linkedin.com/jobs/view/4492839420/"
       ]
     },
     {
@@ -83238,7 +83421,8 @@
       "direct_url": "https://builtintoronto.com/job/senior-director-digital-experience-platforms/10993109",
       "duplicate_urls": [
         "https://builtintoronto.com/job/senior-director-digital-experience-platforms/10993109",
-        "https://builtintoronto.com/job/senior-director-digital-experience-platforms/12383945"
+        "https://builtintoronto.com/job/senior-director-digital-experience-platforms/12383945",
+        "https://www.linkedin.com/jobs/view/4492827865/"
       ]
     },
     {
@@ -98500,7 +98684,8 @@
         "https://www.linkedin.com/jobs/view/4492516676/",
         "https://www.linkedin.com/jobs/view/4492554234/",
         "https://www.linkedin.com/jobs/view/4492589090/",
-        "https://www.linkedin.com/jobs/view/4492818245/"
+        "https://www.linkedin.com/jobs/view/4492818245/",
+        "https://www.linkedin.com/jobs/view/4492855329/"
       ]
     },
     {
@@ -99441,7 +99626,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-26T05:16:15Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
