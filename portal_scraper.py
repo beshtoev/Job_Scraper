@@ -130,7 +130,11 @@ def fetch_ashby(entry: dict) -> list[dict]:
 
 
 def fetch_lever(entry: dict) -> list[dict]:
-    data = http_json(f"https://api.lever.co/v0/postings/{entry['slug']}?mode=json")
+    # EU-hosted boards (jobs.eu.lever.co/<slug>) are served by api.eu.lever.co; the global
+    # API returns nothing for them.
+    eu = entry.get("region") == "eu" or ".eu.lever.co" in str(entry.get("careers_url", ""))
+    api = "https://api.eu.lever.co" if eu else "https://api.lever.co"
+    data = http_json(f"{api}/v0/postings/{entry['slug']}?mode=json")
     if not isinstance(data, list):
         raise SourceFailure("response is not an array")
     out = []
