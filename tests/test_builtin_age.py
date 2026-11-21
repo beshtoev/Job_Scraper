@@ -1,4 +1,4 @@
-from datetime import date, timedelta
+from datetime import datetime, timedelta, timezone
 
 import portal_scraper as ps
 
@@ -27,7 +27,7 @@ def test_old_cards_skipped_fresh_cards_dated(monkeypatch):
     jobs = ps.fetch_builtin_board({"queries": ["director"], "page_cap": 3})
     by_title = {j["title"]: j for j in jobs}
     assert set(by_title) == {"Director Data", "Head of AI", "Chief of Staff"}
-    assert by_title["Director Data"]["date_posted"] == (date.today() - timedelta(days=1)).isoformat()
+    assert by_title["Director Data"]["date_posted"] == (datetime.now(timezone.utc).date() - timedelta(days=1)).isoformat()
     assert by_title["Chief of Staff"]["date_posted"] == ""  # unreadable age is kept, undated
 
 
