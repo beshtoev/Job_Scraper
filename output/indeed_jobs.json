@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-22 11:29 UTC",
-  "total": 5,
+  "scraped_at": "2026-11-22 13:56 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
     {
@@ -97,38 +97,6 @@
       "geo_source": "description",
       "geo_confidence": "medium",
       "geo_detail": "description names Greater Toronto Area",
-      "geo_version": 1
-    },
-    {
-      "company": "GrandBridge Energy Inc.",
-      "title": "Vice President Finance & CFO",
-      "location": "Cambridge, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=11401277d797f73c",
-      "direct_url": "https://ats.rippling.com/grandbridge-corporation/jobs/01e4fbdb-bc5e-4d84-ab64-1c3b23a35ad6?jobSite=Indeed",
-      "company_url": "https://ca.indeed.com/cmp/Grandbridge-Energy-Inc.",
-      "date_posted": "2026-11-21",
-      "description": "**About GrandBridge Corporation** **Who We Are:**  \n\nGrandBridge Corporation is an investment holding company dedicated to driving growth and innovation through our fully owned subsidiaries, GrandBridge Energy Inc., and GrandBridge Group Inc.  \n\nGrandBridge Energy Inc. is a leading provider of innovative energy solutions, committed to delivering reliable and sustainable energy to our customers. GrandBridge Group Inc. offers a wide range of energy services through its divisions: Netoptiks, which provides cutting\\-edge telecommunications solutions, and Enersure, which ensures our customers' homes are comfortable and energy\\-efficient with home comfort rentals.  \n\nOur team of dedicated professionals are committed to helping our communities navigate the transition towards a dynamic and evolving energy landscape. The principles and beliefs that guide our operations are deeply rooted in our values. **Join us in our mission to shape the future of energy.** **What We Offer*** Employer Paid Benefits Package\n* OMERS Pension Plan\n* Training and Educational Reimbursement Programs\n* Professional Development \\& Career Opportunities\n* Wellness Resources \\& Healthy Lifestyle Incentives\n* Employee and Family Assistance Program\n* Opportunities for Community Involvement\n **About The Role:**\n\n\nGrandBridge Corporation is seeking an accomplished financial executive to fill the recently vacated position of Vice President, Finance \\& Chief Financial Officer (CFO). As a key member of the Executive Leadership team, reporting directly to the President \\& CEO, you will provide strategic leadership and executive oversight for finance, accounting, business and financial planning, treasury, tax, enterprise risk management, investor relations and procurement, while serving as a trusted advisor to the President \\& CEO, Board of Directors, and Executive Leadership team.\n\n  \n\nYou will play a critical role in shaping the Corporation’s financial strategy, long\\-term sustainability, and overall business performance. As the Corporation’s senior financial executive, you will lead the development and execution of financial strategies that support growth across both regulated and competitive businesses, while ensuring sound governance, prudent risk management, disciplined capital allocation, and strong financial stewardship.\n\n  \n\nYou will play a significant role in evaluating and executing mergers and acquisitions, strategic partnerships and other investment opportunities, including assessing financial risks, investment returns and long\\-term value creation. You will also lead capital financing strategies, evaluate funding alternatives and optimize capital allocation to support the Corporation's strategic priorities and long\\-term financial sustainability.\n\n  \n\nWe are seeking an accomplished and forward\\-thinking leader with significant experience in corporate finance, mergers and acquisitions, capital financing and long\\-term financial planning, ideally gained within the energy or utility sector. The successful candidate will bring the strategic insight, financial acumen and executive presence required to navigate complex business decisions and support the Corporation through a period of continued growth and transformation.\n\n  \n\nYou will be a collaborative and trusted partner who builds strong relationships, influences complex decisions and leads with integrity, accountability and a commitment to excellence. You will foster a high\\-performing, engaged team while advancing a culture of innovation, continuous improvement and exceptional service to customers, stakeholders and the communities we serve.\n\n **What You Will Do:**\n\n**Strategic Leadership \\& Business Performance**:\n\n* Partner with the President \\& CEO, Corporate Development and Executive Leadership team to shape and execute our growth strategy across regulated and competitive businesses.\n* Provide strategic advice on enterprise strategy, capital deployment, growth, risk and financial implications of major decisions.\n* Lead financial strategies that support sustainable growth, operational excellence, and long\\-term value creation.\n* Align financial plans, resources, funding plans, and performance measures with corporate priorities.\n* Develop decision frameworks, scenarios, and performance insights that improve the quality and speed of Executive and Board decisions.\n* Champion accountability, innovation, continuous improvement, and data\\-driven decision\\-making.\n\n\n**Growth, M\\&A, and Competitive Business Development**\n\n* Lead the financial evaluation of acquisitions, mergers, partnerships, joint ventures, new markets and business opportunities.\n* Develop transaction and financing structures that balance strategic value, financial returns, tax, regulatory requirements, and overall capital capacity.\n* Serve as a strategic partner by strengthening business models, pricing, investment governance, performance measures and scalable financial capabilities that support profitable growth.\n* Co\\-lead transaction integration and post\\-investment oversight, including financial systems, controls, cost allocation, synergy tracking and benefits realization, ensuring that approved investments deliver sustainable enterprise value.\n\n\n**Financial Stewardship and Transformation**\n\n* Provide executive leadership for all finance, accounting and financial planning functions.\n* Ensure the integrity, accuracy and timeliness of consolidated and operating entity financial reporting, accounting, management information, and external disclosures.\n* Modernize finance systems, processes, data and analytics to improve efficiency, automation, forecasting accuracy, decision support and the scalability required for business growth and future acquisitions.\n* Maintain a strong system of internal control, delegated authority, financial policy and assurance that protects the company’s assets and reputation.\n* Lead enterprise budgeting, forecasting, and performance reporting, providing the President \\& CEO, Board",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Ontario",
-      "geo_label": "Ontario",
-      "geo_city": "Cambridge",
-      "geo_province": "ON",
-      "geo_lat": 43.3616,
-      "geo_lon": -80.3144,
-      "geo_distance_km": 83.4,
-      "geo_rank": 200834,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
       "geo_version": 1
     },
     {
