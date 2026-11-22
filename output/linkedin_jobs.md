@@ -1,28 +1,30 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-22 16:20 UTC*
+*Last updated: 2026-11-22 17:33 UTC*
 
-**6 new role(s)** since last run · 10 total in last 1h
+**6 new role(s)** since last run · 9 total in last 1h
 
-### [Senior Director, Data, AI, & Automation Services](https://www.linkedin.com/jobs/view/4449951422/) — Bird Construction
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-11-22
-
-### [Senior Director, Data, AI, & Automation Services](https://www.linkedin.com/jobs/view/4449953446/) — Bird Construction
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-22
-
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4475278259/) — OpenText
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-22
-
-### [Global Head of Cloud Alliances](https://www.linkedin.com/jobs/view/4433361926/) — Canonical
+### [VP, Product and UX](https://www.linkedin.com/jobs/view/4493350650/) — Aha!
 - 📍 **Location:** Canada
+- 💰 **Salary:** $245,000-$320,000,
 - 🕒 **Posted:** 2026-11-22
 
-### [Director, Security Operations, Information & Corporate Security](https://www.linkedin.com/jobs/view/4443635386/) — CPP Investments | Investissements RPC
+### [VP, Surety Solutions](https://www.linkedin.com/jobs/view/4460370644/) — Tokio Marine Canada Ltd.
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-22
 
-### [Human Resources Director](https://www.linkedin.com/jobs/view/4493194666/) — Haystack
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director Diagnostic Services](https://www.linkedin.com/jobs/view/4460516970/) — Shared Health-Soins Communs
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 🕒 **Posted:** 2026-11-22
+
+### [Director, Operations - WaterTech - Canada](https://www.linkedin.com/jobs/view/4493368702/) — BluMetric
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-22
+
+### [Assistant Director of Finance and Accounting](https://www.linkedin.com/jobs/view/4493381516/) — Marriott International
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $68,000-$86,000 Annually
+- 🕒 **Posted:** 2026-11-22
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4493501615/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-22
