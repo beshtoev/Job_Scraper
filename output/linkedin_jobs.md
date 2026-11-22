@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-22 20:41 UTC*
+*Last updated: 2026-11-22 22:04 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**0 new role(s)** since last run · 1 total in last 1h
 
-### [VP of Finance](https://www.linkedin.com/jobs/view/4493511177/) — Snaplii
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-22
+No new roles since the last run.
