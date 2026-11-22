@@ -1,7 +1,57 @@
 {
-  "scraped_at": "2026-11-22 09:19 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-22 09:34 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "TAIRC",
+      "title": "Director of Engineering",
+      "location": "Regional Municipality of York, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4492338854/",
+      "date_posted": "2026-11-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Home/Careers/Director of Engineering\n\nExecutive & Research Leadership\n\nDirector of Engineering\n\nThe Director of Engineering oversees all technical teams and ensures that research prototypes become robust, scalable platforms.\n\nApply for this roleManage an applicationBack to careers\n\nOverview\n\nThe Director of Engineering oversees all technical teams and ensures that research prototypes become robust, scalable platforms.\n\nResponsibilities\n\nLead engineering teams: Manage software and hardware engineering teams, ensuring projects are completed on time and within budget.\nDevelop engineering strategies: Design and implement scalable strategies for software development, infrastructure, and integration.\nEnsure compliance: Verify that engineering projects comply with internal policies, safety standards, and legal regulations.\nHire and retain talent: Lead recruitment of engineers, provide mentorship, and develop career pathways for technical staff.\nCollaborate with stakeholders: Work closely with research scientists, product managers, and other directors to align technical efforts with organizational goals.\nUpdate policies and processes: Continuously improve engineering processes, including code quality, security standards, and documentation practices.\n\nQualifications\n\nBachelor's or master's degree in computer science, engineering, or a related field.\nProven track record managing engineering teams and complex technical projects.\nExpertise in software architecture, DevOps practices, and infrastructure planning.\n\nEqual opportunity\n\nTAIRC evaluates candidates using role-related evidence and documented review criteria. Employment decisions must not be based on protected personal characteristics.\n\nEngagement pathways and compensation status\n\nTAIRC is currently building its funding base. Opportunities identified as volunteer or unpaid do not provide compensation at this stage. Any future paid appointment would require available funding, organizational approval, applicable legal compliance, and a separate written agreement. Participation does not guarantee future employment or compensation.\n\nVolunteer contribution interest may be reviewed only as a voluntary, scoped pathway.\nEducational internship interest requires separate supervision, educational purpose, and legal review.\nAdvisory expressions of interest are not board or formal advisory appointments.\nFuture compensated employment is contingent on funding, approval, legal compliance, and a separate written offer.\n\nAccessibility and accommodations\n\nFor an accommodation or alternate submission format, contact hr@tairc.com. The application form does not request medical documentation or sensitive identity documents.\n\nPosting information\n\nDepartment Executive & Research Leadership\n\nPublic role ID TAIRC-ROLE-003\n\nStatus Open\n\nLocation, employment type, workplace type, compensation, sponsorship policy, posted date, and closing date are omitted unless HR has entered approved factual values.\n\nRecruitment privacy\n\nApplication data is used for recruitment review, stored with restricted access, and handled under the recruitment privacy and retention policy.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nVolunteer\n\nIndustries\n\nResearch Services",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Regional Municipality Of York",
+      "geo_province": "ON",
+      "geo_lat": 43.95,
+      "geo_lon": -79.45,
+      "geo_distance_km": 27.3,
+      "geo_rank": 100273,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "centre of Regional Municipality of York",
+      "geo_version": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "TAIRC",
+      "title": "Director of Engineering",
+      "location": "Regional Municipality of York, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4492338854/",
+      "date_posted": "2026-11-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Home/Careers/Director of Engineering\n\nExecutive & Research Leadership\n\nDirector of Engineering\n\nThe Director of Engineering oversees all technical teams and ensures that research prototypes become robust, scalable platforms.\n\nApply for this roleManage an applicationBack to careers\n\nOverview\n\nThe Director of Engineering oversees all technical teams and ensures that research prototypes become robust, scalable platforms.\n\nResponsibilities\n\nLead engineering teams: Manage software and hardware engineering teams, ensuring projects are completed on time and within budget.\nDevelop engineering strategies: Design and implement scalable strategies for software development, infrastructure, and integration.\nEnsure compliance: Verify that engineering projects comply with internal policies, safety standards, and legal regulations.\nHire and retain talent: Lead recruitment of engineers, provide mentorship, and develop career pathways for technical staff.\nCollaborate with stakeholders: Work closely with research scientists, product managers, and other directors to align technical efforts with organizational goals.\nUpdate policies and processes: Continuously improve engineering processes, including code quality, security standards, and documentation practices.\n\nQualifications\n\nBachelor's or master's degree in computer science, engineering, or a related field.\nProven track record managing engineering teams and complex technical projects.\nExpertise in software architecture, DevOps practices, and infrastructure planning.\n\nEqual opportunity\n\nTAIRC evaluates candidates using role-related evidence and documented review criteria. Employment decisions must not be based on protected personal characteristics.\n\nEngagement pathways and compensation status\n\nTAIRC is currently building its funding base. Opportunities identified as volunteer or unpaid do not provide compensation at this stage. Any future paid appointment would require available funding, organizational approval, applicable legal compliance, and a separate written agreement. Participation does not guarantee future employment or compensation.\n\nVolunteer contribution interest may be reviewed only as a voluntary, scoped pathway.\nEducational internship interest requires separate supervision, educational purpose, and legal review.\nAdvisory expressions of interest are not board or formal advisory appointments.\nFuture compensated employment is contingent on funding, approval, legal compliance, and a separate written offer.\n\nAccessibility and accommodations\n\nFor an accommodation or alternate submission format, contact hr@tairc.com. The application form does not request medical documentation or sensitive identity documents.\n\nPosting information\n\nDepartment Executive & Research Leadership\n\nPublic role ID TAIRC-ROLE-003\n\nStatus Open\n\nLocation, employment type, workplace type, compensation, sponsorship policy, posted date, and closing date are omitted unless HR has entered approved factual values.\n\nRecruitment privacy\n\nApplication data is used for recruitment review, stored with restricted access, and handled under the recruitment privacy and retention policy.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nVolunteer\n\nIndustries\n\nResearch Services",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Regional Municipality Of York",
+      "geo_province": "ON",
+      "geo_lat": 43.95,
+      "geo_lon": -79.45,
+      "geo_distance_km": 27.3,
+      "geo_rank": 100273,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "centre of Regional Municipality of York",
+      "geo_version": 1
+    }
+  ]
 }
