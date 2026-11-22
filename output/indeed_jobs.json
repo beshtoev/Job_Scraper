@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-22 13:56 UTC",
-  "total": 4,
+  "scraped_at": "2026-11-22 16:23 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
     {
@@ -65,38 +65,6 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "Unknown",
-      "title": "Investment Director",
-      "location": "Greater Toronto Area, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=a0969cc70ce60225",
-      "direct_url": "http://ca.indeed.com/job/investment-director-a0969cc70ce60225",
-      "company_url": "https://ca.indeed.comNone",
-      "date_posted": "2026-11-21",
-      "description": "**Overview**\n\nNesbridge is a bespoke capital advisory services firm with over 28 years of experience. We specialize in Structured Financing large capital\\-intensive businesses in North America gain access to financial solutions beyond the conventional offerings of traditional banks or brokers.\n\nWe are seeking a dynamic **Investment Director** to lead our capital raising initiatives in commercial real estate located in Canada \\& USA.\n\nThis is a commissioned fees per transaction based role responsible for capital raising and deal origination in building new clients in addition to fostering existing clients relationships.\n\nTeam members join a niche advisory industry that values expertise, rigor, and long‑term client relationships.\n\n**YOU HAVE:**\n\n* Capital Raising, Deal Origination and Business Development experience\n* Dynamic personality with good listening, communication abilities, including negotiation skills\n* Demonstrated integrity, sound judgment, and commitment to deliver bespoke capital strategies and ensure that client engagements are well\\-structured, compliant, and aligned with market conditions\n* Relevant experience in capital markets, private equity, commercial real estate, or financial advisory\n* Strategic thinker with solid problem\\-solving and decision\\-making capabilities\n\n**MUST HAVE:**\n\n* Previous experience capital raising for commercial real estate transactions\n* Bachelor’s degree in finance, business administration, economics, or a related field; an MBA or advanced degree is a plus\n\n**NICE TO HAVE:**\n\n* Experience working in investment banking, brokerage, advisory firms, or similar fields\n\nBenefits:\n\n* Flexible schedule\n* Profit sharing\n\nApplication question(s):\n\n* Not a salaried position, are you comfortable with results based commissioned fees?\n\nWork Location: Hybrid remote in Greater Toronto Area, ON",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "Remote",
-      "work_mode_evidence": "title/location",
-      "geo_category": "Canada Remote",
-      "geo_label": "Canada Remote (ON)",
-      "geo_city": "Greater Toronto Area",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 300061,
-      "geo_source": "description",
-      "geo_confidence": "medium",
-      "geo_detail": "description names Greater Toronto Area",
       "geo_version": 1
     },
     {
