@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-22 11:52 UTC",
+  "updated_at": "2026-11-22 12:19 UTC",
   "jobs": [
+    {
+      "company": "Ethos",
+      "title": "Expert Opportunity - Director of Investor Relations ($100/hr, up to $2,000/week)",
+      "location": "Canada",
+      "url": "https://www.linkedin.com/jobs/view/4441427700/",
+      "date_posted": "2026-11-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "About This Opportunity\n\nWe're working with a leading foundational AI lab to find experienced directors of investor relations from top public companies or IR advisory firms who can help train their latest language model on professional presentation and slide deck tasks. We're looking for directors of IR with 4+ years of experience to create, evaluate, and refine AI-generated presentations and slide decks across core workflows: storyline development, executive summary writing, slide structuring, horizontal and vertical logic, data-driven exhibit design, and client-ready deck production.\n\nCompensation:\n$100/hour\n\nCommitment:\nFlexible, 5-20 hours per week (or more if desired)\n\nLocation:\nFully remote, work on your own schedule\n\nStart date:\nASAP\n\nQualifications\n\n4+ years in Investor Relations, including director-level ownership at a top public company or IR advisory firm\nDeep expertise in structured communication, storylining, and slide craftsmanship\nExpert-level PowerPoint and slide craftsmanship, with excellent written communication and attention to detail\n\nKey Requirements\n\n4+ years in Investor Relations, including manager-level ownership at a top public company or IR advisory firm\nDeep expertise in structured communication, storylining, and slide craftsmanship\nExpert-level PowerPoint and slide craftsmanship, with excellent written communication and attention to detail\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nTechnology, Information and Internet",
+      "first_seen": "2026-11-22T12:19:22Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "description",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Ethos",
       "title": "Expert Opportunity - Director of Corporate Development ($100/hr, up to $2,000/week)",
@@ -105748,33 +105773,6 @@
       "duplicate_urls": [
         "https://jobs.lever.co/jobgether/6a5e490d-6dfe-4463-91d6-c58bece03fb6"
       ]
-    },
-    {
-      "company": "Blyth Group Inc.",
-      "title": "Director of Finance and Operations",
-      "location": "Uxbridge, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010304584794",
-      "date_posted": "2026-10-23",
-      "description": "Qualifications include strong interpersonal and communication skills with a relevant finance degree and operational and leadership experience.",
-      "salary": "$110k–$120k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "first_seen": "2026-10-23T11:56:40Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Uxbridge",
-      "geo_province": "ON",
-      "geo_lat": 44.109,
-      "geo_lon": -79.121,
-      "geo_distance_km": 49.8,
-      "geo_rank": 100498,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
     }
   ]
 }
