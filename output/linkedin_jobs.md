@@ -1,8 +1,17 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-22 12:21 UTC*
+*Last updated: 2026-11-22 12:53 UTC*
 
-**1 new role(s)** since last run · 5 total in last 1h
+**3 new role(s)** since last run · 8 total in last 1h
 
-### [Expert Opportunity - Director of Investor Relations ($100/hr, up to $2,000/week)](https://www.linkedin.com/jobs/view/4441427700/) — Ethos
+### [Vice President, Medical Affairs](https://www.linkedin.com/jobs/view/4469262862/) — Indero
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-22
+
+### [Director of Marketing Technology (Multi-Solution Architect)](https://www.linkedin.com/jobs/view/4448475202/) — Bounteous
 - 📍 **Location:** Canada
+- 💰 **Salary:** $157,000 - $227,000
+- 🕒 **Posted:** 2026-11-22
+
+### [Dedicated Support Engineer - Toronto](https://www.linkedin.com/jobs/view/4476830435/) — OpenAI
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-22
