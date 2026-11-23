@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 377,
-    "pollable": 248,
+    "companies": 378,
+    "pollable": 249,
     "unresolved": 129
   },
   "companies": [
@@ -856,6 +856,19 @@
       "slug": "",
       "careers_url": "https://mdlz.wd3.myworkdayjobs.com/en-US/External?locationCountry=a30a87ed25634629aa6c3958aa2b91ea",
       "source": "murat 2026-11-18",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Secure Digital Markets",
+      "archetype": "A",
+      "ats": "lighthouse",
+      "slug": "secure-digital-markets",
+      "careers_url": "https://jobs.lighthousehiring.ai/secure-digital-markets/b2db3e5c-8c64-4105-a9b2-afcc1948cc84",
+      "source": "murat 2026-11-23",
       "include": [],
       "exclude": [],
       "searches": [],

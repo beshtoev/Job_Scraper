@@ -747,6 +747,38 @@ def _jsonld_postings(entry: dict, body: str, fallback_url: str) -> list[dict]:
     return out
 
 
+def fetch_lighthouse(entry: dict) -> list[dict]:
+    """Lighthouse Hiring boards (jobs.lighthousehiring.ai/<company slug>/<company uuid>).
+    The board page is server-rendered with one <a href="/<slug>/<company uuid>/<posting uuid>"> per
+    role; each posting page carries schema.org JobPosting JSON-LD (title, place, datePosted,
+    description, baseSalary). Added 2026-11-23 for Secure Digital Markets."""
+    board = entry["careers_url"].split("?")[0].rstrip("/")
+    root = re.match(r"https?://[^/]+", board).group(0)
+    base = urllib.parse.urlsplit(board).path
+    paths = list(dict.fromkeys(re.findall(r'href="(' + re.escape(base) + r'/[0-9a-f-]{36})"', http_text(board))))
+    if not paths:
+        raise SourceFailure("no openings found on the Lighthouse Hiring board page")
+    out = []
+    for path in paths:
+        url = root + path
+        body = http_text(url)
+        jobs = _jsonld_postings(entry, body, url)
+        for raw in re.findall(r'(?is)<script[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', body):
+            try:
+                pay = (json.loads(html.unescape(raw)).get("baseSalary") or {})
+            except (json.JSONDecodeError, AttributeError):
+                continue
+            val = pay.get("value") or {} if isinstance(pay, dict) else {}
+            if jobs and isinstance(val, dict) and val.get("minValue") and str(val.get("unitText", "")).upper() == "YEAR":
+                hi = val.get("maxValue") or val["minValue"]
+                jobs[0]["description"] = (f"Salary: {pay.get('currency', '')} ${float(val['minValue']):,.0f} - "
+                                          f"${float(hi):,.0f} per year.\n\n" + jobs[0]["description"])
+        for j in jobs:
+            j["req_id"] = path.rsplit("/", 1)[-1]
+        out.extend(jobs)
+    return out
+
+
 _PUSH_HOST = "https://app-elb.pushoperations.com"
 _PUSH_COMPANY_ID = re.compile(r'data-company-id="(\d+)"')
 
@@ -1089,6 +1121,7 @@ FETCHERS = {
     "webflow": fetch_webflow,
     "avature": fetch_avature,
     "pushoperations": fetch_pushoperations,
+    "lighthouse": fetch_lighthouse,
     "j2w": fetch_successfactors,
 }
 
