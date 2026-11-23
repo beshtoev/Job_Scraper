@@ -54,11 +54,24 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 378,
-    "pollable": 249,
+    "companies": 379,
+    "pollable": 250,
     "unresolved": 129
   },
   "companies": [
+    {
+      "company": "123Dentist",
+      "archetype": "A",
+      "ats": "adp",
+      "slug": "c2a72bdd-3357-40d4-ba1b-c98aada9201f",
+      "careers_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c2a72bdd-3357-40d4-ba1b-c98aada9201f&ccId=9200523617456_2&type=JS&lang=en_CA",
+      "source": "murat 2026-11-23",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
     {
       "company": "1Password",
       "archetype": "A",

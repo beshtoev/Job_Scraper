@@ -779,6 +779,66 @@ def fetch_lighthouse(entry: dict) -> list[dict]:
     return out
 
 
+_ADP_API = "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions"
+
+
+def fetch_adp(entry: dict) -> list[dict]:
+    """ADP Workforce Now career centers (workforcenow.adp.com/mascsr/default/mdf/recruitment/
+    recruitment.html?cid=<uuid>&ccId=<id>). The page is an app over a public JSON API keyed by the
+    same cid/ccId, paged with $top/$skip; descriptions come from each requisition's own call,
+    fetched only for titles that pass the title check. Added 2026-11-23 for 123Dentist."""
+    qs = urllib.parse.parse_qs(urllib.parse.urlsplit(entry["careers_url"]).query)
+    cid, cc = (qs.get("cid") or [""])[0], (qs.get("ccId") or [""])[0]
+    lang = (qs.get("lang") or ["en_CA"])[0]
+    if not cid or not cc:
+        raise SourceFailure("ADP careers_url needs cid and ccId")
+    base = {"cid": cid, "ccId": cc, "lang": lang, "locale": lang}
+    rows, skip, total = [], 0, None
+    while total is None or skip < total:
+        data = http_json(f"{_ADP_API}?{urllib.parse.urlencode({**base, '$top': 50, '$skip': skip})}")
+        page = data.get("jobRequisitions") or []
+        total = int((data.get("meta") or {}).get("totalNumber") or 0)
+        if not page:
+            break
+        rows.extend(page)
+        skip += len(page)
+    if not rows:
+        raise SourceFailure("no requisitions returned by the ADP career center")
+    out, seen = [], set()
+    for r in rows:
+        rid = str(r.get("itemID") or "")
+        if not rid or rid in seen:
+            continue
+        seen.add(rid)
+        fields = {f.get("nameCode", {}).get("codeValue"): f.get("stringValue")
+                  for f in (r.get("customFieldGroup") or {}).get("stringFields", [])}
+        if any(f.get("nameCode", {}).get("codeValue") == "InternalPostingFlag" and f.get("indicatorValue")
+               for f in (r.get("customFieldGroup") or {}).get("indicatorFields", [])):
+            continue
+        places = []
+        for loc in r.get("requisitionLocations") or []:
+            name = ((loc.get("nameCode") or {}).get("shortName") or "").strip()
+            if not name:
+                a = loc.get("address") or {}
+                name = _location(a.get("cityName"), (a.get("countrySubdivisionLevel1") or {}).get("codeValue"), "CA")
+            if name and name not in places:
+                places.append(name)
+        title = (r.get("requisitionTitle") or "").strip()
+        job_id = fields.get("ExternalJobID") or rid
+        url = ("https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?"
+               + urllib.parse.urlencode({"cid": cid, "ccId": cc, "jobId": job_id, "lang": lang, "type": "JS"}))
+        desc = ""
+        if _title_relevant(title):
+            try:
+                detail = http_json(f"{_ADP_API}/{urllib.parse.quote(rid)}?{urllib.parse.urlencode(base)}")
+                desc = strip_html(detail.get("requisitionDescription", ""))
+            except SourceFailure:
+                desc = ""
+        out.append(posting(entry, title=title, url=url, location="; ".join(places), req_id=job_id,
+                           date_posted=r.get("postDate") or "", description=desc))
+    return out
+
+
 _PUSH_HOST = "https://app-elb.pushoperations.com"
 _PUSH_COMPANY_ID = re.compile(r'data-company-id="(\d+)"')
 
@@ -1122,6 +1182,7 @@ FETCHERS = {
     "avature": fetch_avature,
     "pushoperations": fetch_pushoperations,
     "lighthouse": fetch_lighthouse,
+    "adp": fetch_adp,
     "j2w": fetch_successfactors,
 }
 
