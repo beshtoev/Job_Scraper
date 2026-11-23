@@ -1,33 +1,27 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-23 04:57 UTC*
+*Last updated: 2026-11-23 05:57 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**5 new role(s)** since last run · 9 total in last 1h
 
-### [Director, Data Analytics](https://www.linkedin.com/jobs/view/4493704070/) — Jobgether
-- 📍 **Location:** Canada
-- 💰 **Salary:** $225,000 to $290,000,
+### [Director, Corporate and Commercial Credit Risk](https://www.linkedin.com/jobs/view/4491708036/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Solutions Architecture](https://www.linkedin.com/jobs/view/4493590627/) — Jobgether
-- 📍 **Location:** Canada
-- 💰 **Salary:** $175,000 to $218,000,
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4493702324/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [AEO Program Director (Delivery Director)](https://www.linkedin.com/jobs/view/4493700123/) — Jobgether
-- 📍 **Location:** Canada
-- 💰 **Salary:** $105,000 to $130,000 per year
+### [Deputy Head of After-Sales](https://www.linkedin.com/jobs/view/4493396873/) — Geely Auto Canada
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $147,621.00/yr - CA$225,603.00/yr
 - 🕒 **Posted:** 2026-11-23
 
-### [Head of Engineering - VieFund](https://www.linkedin.com/jobs/view/4493593448/) — Jobgether
-- 📍 **Location:** Canada
+### [Chief Financial Officer ( Interim to full time permanent)](https://www.linkedin.com/jobs/view/4490204948/) — Monument Mining Limited
+- 📍 **Location:** Vancouver, British Columbia, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Operations](https://www.linkedin.com/jobs/view/4493587716/) — Jobgether
-- 📍 **Location:** Canada
-- 💰 **Salary:** $170,000 to $190,000,
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President, Marketing](https://www.linkedin.com/jobs/view/4493587656/) — Jobgether
-- 📍 **Location:** Canada
-- 💰 **Salary:** $165,000 to $185,000,
+### [Director, Global Marketing & Sales Enablement](https://www.linkedin.com/jobs/view/4493707064/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 💰 **Salary:** $150,000.00 - 185,000.00
 - 🕒 **Posted:** 2026-11-23
