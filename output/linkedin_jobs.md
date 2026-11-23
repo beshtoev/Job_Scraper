@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-23 09:10 UTC*
+*Last updated: 2026-11-23 09:34 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Associate Director, Marketing Science](https://www.linkedin.com/jobs/view/4493737140/) — Jobgether
-- 📍 **Location:** Canada
+### [Director, Product Management (Discovery, Search, Personalization)](https://www.linkedin.com/jobs/view/4424273985/) — Epic Games
+- 📍 **Location:** Greater Vancouver, British Columbia, Canada
+- 💰 **Salary:** $269,967—$395,952
 - 🕒 **Posted:** 2026-11-23
