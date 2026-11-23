@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-23 06:01 UTC",
+  "scraped_at": "2026-11-23 12:19 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "OpenText",
@@ -68,38 +68,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Select Food Products",
-      "title": "Director, Integrated Planning & Procurement",
-      "location": "Toronto, ON, CA",
-      "url": "https://ca.indeed.com/viewjob?jk=0a48e5a0465241e4",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4308dba2-c6b0-47dd-8291-573c57723824&ccId=19000101_000001&jobId=510047&source=IN&lang=en_CA",
-      "company_url": "https://ca.indeed.com/cmp/Select-Food-Products-3",
-      "date_posted": "2026-11-23",
-      "description": "**Reporting to**\n\n\nPresident \\& COO\n\n**Direct Reports**\n\n\n4 direct reports; approximately 8 team members in total\n\n**Purpose**\n\n\nThe Director, Integrated Planning \\& Procurement is accountable for translating commercial demand into reliable material, procurement, production and inventory plans. This leader owns Select Foods’ end\\-to\\-end planning operating system, including demand planning, materials planning, procurement, production planning, inventory control, S\\&OP and the business ownership of SAGE MRP.\n\n\nThis is a hands\\-on executive leadership role in a lean, growing organization. The successful candidate must be equally comfortable developing long\\-term supply\\-chain strategy, leading an Executive S\\&OP discussion, coaching managers and personally working through an MRP implementation, supplier shortage, inventory imbalance or production\\-planning issue when required.\n\n**Responsibilities**\n\n* **Own and Lead S\\&OP**: Own, chair and continuously improve the monthly S\\&OP cycle: Demand Review, Supply and Capacity Review, Procurement and Materials Review, Integrated Reconciliation and Executive S\\&OP.\n* Establish one credible production plan, document assumptions and risks, and ensure unresolved service, capacity, inventory, cost and supply decisions are escalated to the Enterprise Leadership Team.\n* Connect volume plans to financial commitments, working\\-capital expectations and operating priorities.\n* Maintain clear meeting charters, calendars, inputs, decision rights, actions and follow\\-up disciplines.\n* **Demand Planning:** Establish a disciplined demand planning process in partnership with Sales and Finance.\n* Create and maintain the unconstrained demand plan, incorporating baseline demand, customer intelligence, promotions, new business, losses and one\\-time events.\n* Monitor forecast accuracy and bias at useful product and customer levels; lead root\\-cause actions where performance falls outside agreed tolerances.\n* Challenge assumptions constructively and ensure demand changes are translated into supply, materials, capacity and inventory implications.\n* **Materials Planning and SAGE MRP:** Act as the business owner of SAGE MRP and ensure it produces trusted, actionable recommendations.\n* Own planning policies and parameters, including lead times, safety stocks, order quantities, minimums, planning horizons, yields, scrap factors and make/buy settings.\n* Ensure BOM, master data, supplier and inventory data are sufficiently accurate to support reliable planning.\n* Lead root\\-cause correction to shortages rather than relying on manual workarounds.\n* Develop team capability and standard work for running, interpreting and maintaining MRP.\n* **Production and Capacity Planning:** Convert the agreed demand plan into feasible medium\\-term capacity plans and executable production schedules.\n* Balance service, labour, equipment capacity, changeovers, material availability, shelf life, cost and inventory.\n* Establish planning time horizons, schedule change rules and a clear handoff from planning to operations.\n* Lead recovery plans when demand, supply or capacity deviates from plan.\n* **Procurement and Supplier Performance:** Lead procurement strategy and execution for raw materials, packaging and other assigned categories.\n* Improve material availability, supplier reliability, lead times, commercial terms and supply resilience.\n* Implement supplier scorecards, regular performance reviews, risk mitigation and structured escalation.\n* Ensure purchasing decisions reflect total cost, minimum order quantities, working capital, service risk and quality requirements.\n* **Inventory Strategy and Control:** Develop differentiated inventory strategies for make\\-to\\-stock and make\\-to\\-order products, raw materials, WIP and finished goods.\n* Segment items using demand variability, lead time, service expectations, shelf life, margin, MOQ, production frequency and supply risk.\n* Establish safety\\-stock, reorder, lot\\-sizing and coverage policies with clear ownership and review frequency.\n* Lead initiatives to reduce excess, obsolete and slow\\-moving inventory while protecting customer service and production continuity.\n* Manage overage, obsolete materials cost effectively including charge backs to customer as appropriate.\n* Partner with Finance and Operations to improve inventory accuracy, governance and working\\-capital performance.\n* **Warehouse Operations and Carrier Management:** Oversee warehouse operations ensuring safe, efficient and compliant practices.\n* Align warehouse capacity, labour and processes with the production plan, customer service requirements and inventory policies.\n* Monitor warehouse and carrier performance through clear KPIs, regular reviews and corrective actions.\n* Lead carrier strategy and negotiate carrier contracts, rates and service terms to balance cost, reliability and customer commitments.\n* **People and Functional Leadership:** Lead four direct reports and an overall team of approximately 8 across planning, procurement, warehouse and inventory control.\n* Set clear accountabilities, decision rights, standard work and performance expectations.\n* Coach managers and planners to solve problems independently while remaining close enough to the work to identify weak processes, data or controls.\n* Build succession, cross\\-training and technical capability across demand planning, supply planning, MRP, procurement and inventory.\n* **Strategy and Continuous Improvement:** Develop and execute a multi\\-year roadmap for planning maturity, inventory, sourcing, capacity, systems and team capability.\n* Lead practical improvement initiatives that deliver measurable benefits in service, schedule adherence, inventory, supplier performance, cost and productivity.\n* Contribute to enterprise decisions bringing an integrated commercial, operational and financial perspective.\n* Translate strategy into clear priorities, owners, milestones and sustained operating routines.\n**Qualifications**\n",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed",
-      "work_mode": "On-site",
-      "work_mode_evidence": "description",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
