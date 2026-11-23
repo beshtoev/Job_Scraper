@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 376,
-    "pollable": 247,
+    "companies": 377,
+    "pollable": 248,
     "unresolved": 129
   },
   "companies": [
@@ -816,6 +816,19 @@
       "ats": "greenhouse",
       "slug": "coursera",
       "careers_url": "https://job-boards.greenhouse.io/coursera",
+      "source": "murat 2026-11-23",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Harlo Entertainment",
+      "archetype": "A",
+      "ats": "pushoperations",
+      "slug": "25748",
+      "careers_url": "https://app-elb.pushoperations.com/ats/job-postings/4787486c-1204-4ee0-a3a7-1e249816f183",
       "source": "murat 2026-11-23",
       "include": [],
       "exclude": [],
