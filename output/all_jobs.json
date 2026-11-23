@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:39 UTC",
+  "updated_at": "2026-11-23 17:47 UTC",
   "jobs": [
     {
       "company": "Ecolab",
@@ -107035,7 +107035,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-26T05:16:15Z",
-      "work_mode": "Hybrid",
+      "work_mode": "On-site",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -107878,6 +107878,5 @@
       "geo_detail": "",
       "geo_version": 1
     }
-  ],
-  "total": 3619
+  ]
 }
