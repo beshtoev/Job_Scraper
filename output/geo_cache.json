@@ -422,6 +422,10 @@
       43.6607002,
       -79.3850889
     ],
+    "can; winnipeg, mb, canada": [
+      49.8825357,
+      -97.1498278
+    ],
     "canada; toronto, on, canada": [
       43.6434338,
       -79.3790777
@@ -649,6 +653,7 @@
       52.8345485,
       -113.450681
     ],
+    "massachusetts; montreal, qc, canada": null,
     "metro vancouver a, bc, canada": [
       49.2650436,
       -123.2446879
@@ -965,8 +970,7 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "massachusetts; montreal, qc, canada": null
+    ]
   },
   "research": {}
 }
