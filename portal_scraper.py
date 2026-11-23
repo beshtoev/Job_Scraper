@@ -839,6 +839,48 @@ def fetch_adp(entry: dict) -> list[dict]:
     return out
 
 
+_XNORTH_CARD = re.compile(r'(?is)<a href="(https?://[^"]+/job/[^"]+)" class="job-card[^"]*">(.*?)</a>')
+_XNORTH_TEXT = re.compile(r'(?is)<(?:article|div) class="[^"]*article-section__text[^"]*">(.*?)(?:<div class="[^"]*share|<section[^>]*recent-jobs|<footer)')
+
+
+def fetch_xnorth(entry: dict) -> list[dict]:
+    """xNorth Group careers (xnorthgroup.com/careers?page=N): server-rendered job-card links
+    (title in h3, location / contract / duration in the card list). A page past the end serves
+    page 1 again, so paging stops when a page adds nothing new. Descriptions come from each
+    posting page's article text, fetched only for titles that pass the title check.
+    Added 2026-11-23 at Murat's request."""
+    base = entry["careers_url"].split("?")[0]
+    cards = {}
+    for page in range(1, 21):
+        body = http_text(base if page == 1 else f"{base}?page={page}")
+        new = 0
+        for url, card in _XNORTH_CARD.findall(body):
+            if url in cards:
+                continue
+            title = re.search(r'(?is)<h3[^>]*job-card__title[^>]*>(.*?)</h3>', card)
+            bits = [strip_html(b) for b in re.findall(r'(?is)<li[^>]*>(.*?)</li>', card)]
+            cards[url] = (strip_html(title.group(1)) if title else "", bits)
+            new += 1
+        if not new:
+            break
+    if not cards:
+        raise SourceFailure("no xNorth job cards parsed")
+    out = []
+    for url, (title, bits) in cards.items():
+        if not title:
+            continue
+        desc = ""
+        if _title_relevant(title):
+            m = _XNORTH_TEXT.search(http_text(url))
+            desc = strip_html(m.group(1)) if m else ""
+        extra = " · ".join(b for b in bits[1:] if b)
+        if extra:
+            desc = f"Engagement: {extra}\n\n{desc}".strip()
+        out.append(posting(entry, title=title, url=url, location=bits[0] if bits else "",
+                           req_id=url.rstrip("/").rsplit("/", 1)[-1], description=desc))
+    return out
+
+
 _PUSH_HOST = "https://app-elb.pushoperations.com"
 _PUSH_COMPANY_ID = re.compile(r'data-company-id="(\d+)"')
 
@@ -1183,6 +1225,7 @@ FETCHERS = {
     "pushoperations": fetch_pushoperations,
     "lighthouse": fetch_lighthouse,
     "adp": fetch_adp,
+    "xnorth": fetch_xnorth,
     "j2w": fetch_successfactors,
 }
 

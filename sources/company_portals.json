@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 381,
-    "pollable": 252,
+    "companies": 382,
+    "pollable": 253,
     "unresolved": 129
   },
   "companies": [
@@ -5049,6 +5049,19 @@
       "slug": "EliseAI",
       "careers_url": "https://jobs.ashbyhq.com/EliseAI",
       "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "xNorth Group",
+      "archetype": "A",
+      "ats": "xnorth",
+      "slug": "xnorthgroup",
+      "careers_url": "https://www.xnorthgroup.com/careers",
+      "source": "murat 2026-11-23",
       "include": [],
       "exclude": [],
       "searches": [],
