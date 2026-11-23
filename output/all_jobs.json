@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 08:45 UTC",
+  "updated_at": "2026-11-23 09:08 UTC",
   "jobs": [
     {
       "company": "Jobgether",
@@ -31,7 +31,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4493737140/"
+      ]
     },
     {
       "company": "Nutrics AI Inc.",
@@ -105001,7 +105004,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-26T05:16:15Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
