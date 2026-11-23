@@ -1,63 +1,79 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-23 18:33 UTC*
+*Last updated: 2026-11-23 20:15 UTC*
 
-**14 new role(s)** since last run · 32 total in last 1h
+**17 new role(s)** since last run · 38 total in last 1h
 
-### [Senior Director, Finance & ERP Business Technology Leader](https://www.linkedin.com/jobs/view/4494041147/) — Ciena
-- 📍 **Location:** Ottawa, Ontario, Canada
+### [Director of Software Engineering](https://www.linkedin.com/jobs/view/4493688924/) — Warner Music Group
+- 📍 **Location:** Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Project Director](https://www.linkedin.com/jobs/view/4492624539/) — Endacho Healing Society
-- 📍 **Location:** Yellowknife, Northwest Territories, Canada
+### [AI Solution Engineering - Director](https://www.linkedin.com/jobs/view/4492495983/) — PwC UK
+- 📍 **Location:** London, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [VP, Technology Consulting, North America](https://www.linkedin.com/jobs/view/4492639351/) — Two Circles
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $250,000.00/yr - CA$250,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Enterprise Machine Learning Frameworks & Operations](https://www.linkedin.com/jobs/view/4493673956/) — CIBC
+### [CHIEF FULLSTACK DEVELOPER](https://www.linkedin.com/jobs/view/4492632995/) — National Bank of Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [AVP, Actuarial AI & Data Governance](https://www.linkedin.com/jobs/view/4494031391/) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Enterprise Machine Learning Frameworks & Operations](https://www.linkedin.com/jobs/view/4493691362/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director of Business Development, AI Search (AEO and GEO) (Remote, Victoria)](https://www.linkedin.com/jobs/view/4493685694/) — Blacksmith Agency
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Regional Sales Director, AI Search (AEO and GEO) (Remote, Saskatoon)](https://www.linkedin.com/jobs/view/4493696313/) — Blacksmith Agency
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Regional Sales Director, AI Search (AEO and GEO) (Remote, London)](https://www.linkedin.com/jobs/view/4493697268/) — Blacksmith Agency
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director of Sales, AI Search (AEO and GEO) (Remote, Saskatoon)](https://www.linkedin.com/jobs/view/4493696301/) — Blacksmith Agency
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Sales Director, Aspirational Big Bets](https://www.linkedin.com/jobs/view/4493684429/) — OneTrust
+### [Senior Director, Growth Marketing SVOD](https://www.linkedin.com/jobs/view/4493683461/) — Blue Ant Media
 - 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $153,750—$205,000 USD
+- 💰 **Salary:** $150,000.00/yr - CA$170,000.00/yr
 - 🕒 **Posted:** 2026-11-23
 
-### [Director of New Business, AI Search (AEO and GEO) (Remote, Guelph)](https://www.linkedin.com/jobs/view/4493699228/) — Blacksmith Agency
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Head of Strategy and Chief of Staff (Office: Mississauga, Ontario)](https://www.linkedin.com/jobs/view/4494040447/) — Philips
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $126,000 to $198,000
-- 🕒 **Posted:** 2026-11-23
-
-### [Managing Director, Technology Architecture & Governance](https://www.linkedin.com/jobs/view/4411549338/) — CPP Investments | Investissements RPC
+### [Director, Finance Business Partnering](https://www.linkedin.com/jobs/view/4494044377/) — Vaco
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
+- 🕒 **Posted:** 2026-11-23
+
+### [VP Finance](https://www.linkedin.com/jobs/view/4494040426/) — ProFound Talent Inc.
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director – Financial Reporting and Optimization](https://www.linkedin.com/jobs/view/4492643660/) — Air Transat
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4494051245/) — Root Financial
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $140,000–$165,000
+- 🕒 **Posted:** 2026-11-23
+
+### [Directeur(trice), Financement de projets - Director of Project Finance](https://www.linkedin.com/jobs/view/4494056255/) — Adag Group
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Vice President, Supply Chain and Inventory Management](https://www.linkedin.com/jobs/view/4494055266/) — Delta Water Products
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, High Risk Portfolio Management Team (Commercial Banking)](https://www.linkedin.com/jobs/view/4491246925/) — BMO
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, High Risk Portfolio Management Team (Commercial Banking)](https://www.linkedin.com/jobs/view/4491264138/) — BMO
+- 📍 **Location:** Victoria, British Columbia, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-11-23
+
+### [Vice President of Growth](https://www.linkedin.com/jobs/view/4494030224/) — HRXconnect
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$150,000.00/yr
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Planning, Performance, and Operations](https://www.linkedin.com/jobs/view/4494010891/) — Canada Life
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $114,200 - $164,200 annually
+- 🕒 **Posted:** 2026-11-23
+
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4488036160/) — GlassRatner Canada
+- 📍 **Location:** London, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, People Operations & Solutions](https://www.linkedin.com/jobs/view/4493912182/) — GreenShield
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Head of Tracking, Programs & Logistics](https://www.linkedin.com/jobs/view/4494035911/) — Humankind Global Recruitment
+- 📍 **Location:** Halifax, Nova Scotia, Canada
 - 🕒 **Posted:** 2026-11-23
