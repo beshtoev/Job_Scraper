@@ -1,53 +1,53 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-23 21:38 UTC*
+*Last updated: 2026-11-23 22:50 UTC*
 
-**12 new role(s)** since last run · 13 total in last 1h
+**11 new role(s)** since last run · 15 total in last 1h
 
-### [Regional Executive Vice President](https://www.linkedin.com/jobs/view/4492641862/) — Atwater Capital Group
+### [Director, Data Management](https://www.linkedin.com/jobs/view/4493906915/) — Indero
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Vice President, Marketing](https://www.linkedin.com/jobs/view/4491659151/) — WOW 1 DAY PAINTING
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $160,000-190,000
+- 🕒 **Posted:** 2026-11-23
+
+### [Vice President of Service Management Operations](https://www.linkedin.com/jobs/view/4492654286/) — Chartiers Capital Group
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Vice President of Business Development](https://www.linkedin.com/jobs/view/4493912299/) — Agrocrop Exports Ltd.
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Head of Product](https://www.linkedin.com/jobs/view/4494078005/) — Charitable Impact
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $195,000 - $215,000/year
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, UI/UX Design](https://www.linkedin.com/jobs/view/4493905926/) — WELLSTAR Technologies
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Senior Vice President, Strategic Marketing](https://www.linkedin.com/jobs/view/4493902812/) — MTY Food Group
-- 📍 **Location:** Quebec, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Chief Marketing Officer](https://www.linkedin.com/jobs/view/4494066167/) — Vera Capital Group
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Senior Director - IT PMO](https://www.linkedin.com/jobs/view/4494042994/) — Poly Tech Talent
+### [Director, IT Audit, Transformation and Operations](https://www.linkedin.com/jobs/view/4493918345/) — RBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Software Engineering (Appointments)](https://www.linkedin.com/jobs/view/4494050867/) — Phreesia
+### [Head, Finance](https://www.linkedin.com/jobs/view/4494074556/) — Government of Alberta
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $2,935.39 - $3,850.29
+- 🕒 **Posted:** 2026-11-23
+
+### [Head of Finance](https://www.linkedin.com/jobs/view/4492653403/) — Zazu Digital Talent
 - 📍 **Location:** Canada
-- 💰 **Salary:** $240k -$280k
+- 💰 **Salary:** $108,000–$120,000 USD
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Consulting | Growth & Advisory](https://www.linkedin.com/jobs/view/4493907650/) — Mariner Innovations
-- 📍 **Location:** New Brunswick, Canada
+### [Director of Commercial Leasing](https://www.linkedin.com/jobs/view/4481459558/) — Leyad
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Consulting | Business Development](https://www.linkedin.com/jobs/view/4493901971/) — Mariner Innovations
-- 📍 **Location:** New Brunswick, Canada
+### [Executive Director, Employer and Program Services](https://www.linkedin.com/jobs/view/4494089005/) — Government of Alberta
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $5,896.65 - $7,749.28
 - 🕒 **Posted:** 2026-11-23
 
-### [Vice President of Operations](https://www.linkedin.com/jobs/view/4494060491/) — Quality and Company
-- 📍 **Location:** Maple, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President, Asset Management](https://www.linkedin.com/jobs/view/4494065468/) — Woodbourne Capital Management
+### [Associate Director/Director – Deal Origination & Investment Analysis](https://www.linkedin.com/jobs/view/4492624021/) — Flow Capital
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [VICE PRESIDENT, BUSINESS OPERATIONS & STRATEGY](https://www.linkedin.com/jobs/view/4493920250/) — Larlyn Property Management Ltd.
-- 📍 **Location:** London, Ontario, Canada
+### [Executive Director](https://www.linkedin.com/jobs/view/4494075021/) — Facile Futures
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-23
