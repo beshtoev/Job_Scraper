@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 375,
-    "pollable": 246,
+    "companies": 376,
+    "pollable": 247,
     "unresolved": 129
   },
   "companies": [
@@ -804,6 +804,19 @@
       "slug": "",
       "careers_url": "https://jobs.canadalife.com/go/All-Jobs/9170201/",
       "source": "seed:banks; murat 2026-11-18",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Coursera",
+      "archetype": "A",
+      "ats": "greenhouse",
+      "slug": "coursera",
+      "careers_url": "https://job-boards.greenhouse.io/coursera",
+      "source": "murat 2026-11-23",
       "include": [],
       "exclude": [],
       "searches": [],
