@@ -747,6 +747,47 @@ def _jsonld_postings(entry: dict, body: str, fallback_url: str) -> list[dict]:
     return out
 
 
+_PUSH_HOST = "https://app-elb.pushoperations.com"
+_PUSH_COMPANY_ID = re.compile(r'data-company-id="(\d+)"')
+
+
+def _push_text(body) -> str:
+    """Push Operations stores descriptions as Quill delta JSON ({"ops": [{"insert": ...}]})."""
+    try:
+        ops = json.loads(body).get("ops", []) if isinstance(body, str) else []
+        return "".join(str(o.get("insert", "")) for o in ops if isinstance(o.get("insert"), str)).strip()
+    except (ValueError, AttributeError):
+        return strip_html(str(body or ""))
+
+
+def fetch_pushoperations(entry: dict) -> list[dict]:
+    """Push Operations ATS (app-elb.pushoperations.com/ats/job-postings/<company uuid>), used by
+    hospitality groups. The openings page is a React app over a public JSON endpoint keyed by the
+    numeric company id: slug holds that id, or it is read from the page's data-company-id.
+    Added 2026-11-23 for Harlo Entertainment."""
+    cid = str(entry.get("slug") or "").strip()
+    if not cid.isdigit():
+        m = _PUSH_COMPANY_ID.search(http_text(entry["careers_url"]))
+        if not m:
+            raise SourceFailure("no data-company-id on the Push Operations openings page")
+        cid = m.group(1)
+    data = http_json(f"{_PUSH_HOST}/api/v2/ats/job-postings?company={cid}&status=published&include=position.location")
+    rows = data.get("data", []) if isinstance(data, dict) else []
+    out = []
+    for r in rows:
+        if not r.get("displayExternally", 1) or r.get("hirePrivately"):
+            continue
+        desc = _push_text(r.get("body"))
+        lo, hi = r.get("minSalary"), r.get("maxSalary")
+        if r.get("salaryType") == "salary" and lo and hi:
+            desc = f"Salary: ${float(lo):,.0f} - ${float(hi):,.0f} per year.\n\n{desc}"
+        out.append(posting(entry, title=r.get("externalPositionName") or r.get("description") or "",
+                           url=f"{_PUSH_HOST}/ats/job-postings/{r.get('uuid')}/public",
+                           location=r.get("region") or "", req_id=str(r.get("id") or ""),
+                           date_posted=r.get("createdAt") or "", description=desc))
+    return out
+
+
 def fetch_avature(entry: dict) -> list[dict]:
     """Avature portal (e.g. jobs.slalom.com): the SearchJobs RSS feed lists the newest 20 roles
     (it ignores paging and filters) with no location, so each JobDetail page is read for its
@@ -1047,6 +1088,7 @@ FETCHERS = {
     "icims": fetch_icims,
     "webflow": fetch_webflow,
     "avature": fetch_avature,
+    "pushoperations": fetch_pushoperations,
     "j2w": fetch_successfactors,
 }
 
