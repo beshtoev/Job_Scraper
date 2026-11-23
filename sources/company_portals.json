@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 380,
-    "pollable": 251,
+    "companies": 381,
+    "pollable": 252,
     "unresolved": 129
   },
   "companies": [
@@ -882,6 +882,19 @@
       "slug": "",
       "careers_url": "https://mdlz.wd3.myworkdayjobs.com/en-US/External?locationCountry=a30a87ed25634629aa6c3958aa2b91ea",
       "source": "murat 2026-11-18",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Range",
+      "archetype": "A",
+      "ats": "greenhouse",
+      "slug": "range",
+      "careers_url": "https://job-boards.greenhouse.io/range",
+      "source": "murat 2026-11-23",
       "include": [],
       "exclude": [],
       "searches": [],
