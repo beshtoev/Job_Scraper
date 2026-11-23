@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 379,
-    "pollable": 250,
+    "companies": 380,
+    "pollable": 251,
     "unresolved": 129
   },
   "companies": [
@@ -482,6 +482,19 @@
       "slug": "axonify",
       "careers_url": "https://jobs.gem.com/axonify",
       "source": "seed:canadian-tech",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Axya",
+      "archetype": "A",
+      "ats": "rippling",
+      "slug": "axya-inc",
+      "careers_url": "https://ats.rippling.com/axya-inc/jobs",
+      "source": "murat 2026-11-23",
       "include": [],
       "exclude": [],
       "searches": [],
