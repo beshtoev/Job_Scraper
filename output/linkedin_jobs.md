@@ -1,79 +1,80 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-23 20:15 UTC*
+*Last updated: 2026-11-23 20:52 UTC*
 
-**17 new role(s)** since last run · 38 total in last 1h
+**18 new role(s)** since last run · 47 total in last 1h
 
-### [Director of Software Engineering](https://www.linkedin.com/jobs/view/4493688924/) — Warner Music Group
-- 📍 **Location:** Ontario, Canada
+### [Director, Customer Services and Informatics](https://www.linkedin.com/jobs/view/4492267468/) — The University of British Columbia
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $11,397.00 - $17,081.58
 - 🕒 **Posted:** 2026-11-23
 
-### [AI Solution Engineering - Director](https://www.linkedin.com/jobs/view/4492495983/) — PwC UK
-- 📍 **Location:** London, Ontario, Canada
+### [Senior Director, Sustainability Disclosure](https://www.linkedin.com/jobs/view/4492643592/) — National Bank of Canada
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [CHIEF FULLSTACK DEVELOPER](https://www.linkedin.com/jobs/view/4492632995/) — National Bank of Canada
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director Shared Services - IT & Finance](https://www.linkedin.com/jobs/view/4494050609/) — Poly Tech Talent
+- 📍 **Location:** Kitchener, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Senior Director, Growth Marketing SVOD](https://www.linkedin.com/jobs/view/4493683461/) — Blue Ant Media
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$170,000.00/yr
+### [Project Director](https://www.linkedin.com/jobs/view/4492624539/) — Endacho Healing Society
+- 📍 **Location:** Yellowknife, Northwest Territories, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Finance Business Partnering](https://www.linkedin.com/jobs/view/4494044377/) — Vaco
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [VP Finance](https://www.linkedin.com/jobs/view/4494040426/) — ProFound Talent Inc.
+### [Director, High Risk Portfolio Management Team (Commercial Banking)](https://www.linkedin.com/jobs/view/4491245883/) — BMO
 - 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director – Financial Reporting and Optimization](https://www.linkedin.com/jobs/view/4492643660/) — Air Transat
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director of Finance And Accounting](https://www.linkedin.com/jobs/view/4494051245/) — Root Financial
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $140,000–$165,000
-- 🕒 **Posted:** 2026-11-23
-
-### [Directeur(trice), Financement de projets - Director of Project Finance](https://www.linkedin.com/jobs/view/4494056255/) — Adag Group
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President, Supply Chain and Inventory Management](https://www.linkedin.com/jobs/view/4494055266/) — Delta Water Products
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, High Risk Portfolio Management Team (Commercial Banking)](https://www.linkedin.com/jobs/view/4491246925/) — BMO
-- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 💰 **Salary:** $85,500.00 - $185,000.00
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, High Risk Portfolio Management Team (Commercial Banking)](https://www.linkedin.com/jobs/view/4491264138/) — BMO
-- 📍 **Location:** Victoria, British Columbia, Canada
-- 💰 **Salary:** $85,500.00 - $185,000.00
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President of Growth](https://www.linkedin.com/jobs/view/4494030224/) — HRXconnect
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$150,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Planning, Performance, and Operations](https://www.linkedin.com/jobs/view/4494010891/) — Canada Life
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $114,200 - $164,200 annually
-- 🕒 **Posted:** 2026-11-23
-
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4488036160/) — GlassRatner Canada
+### [VP of Operations and Development](https://www.linkedin.com/jobs/view/4494004620/) — S&I Services Group Ltd
 - 📍 **Location:** London, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, People Operations & Solutions](https://www.linkedin.com/jobs/view/4493912182/) — GreenShield
+### [Director, Project & Commercial Development](https://www.linkedin.com/jobs/view/4492857112/) — pH7 Technologies
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Senior Director Commercial Credit](https://www.linkedin.com/jobs/view/4492635863/) — National Bank of Canada
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Chief Actuary](https://www.linkedin.com/jobs/view/4494012881/) — Manitoba Public Insurance
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director of Commercial Leasing](https://www.linkedin.com/jobs/view/4481459558/) — Leyad
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [President of Puffy](https://www.linkedin.com/jobs/view/4492642560/) — Puffy
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Corporate and Commercial Credit Risk](https://www.linkedin.com/jobs/view/4491708036/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-11-23
+
+### [VP Sales Lead](https://www.linkedin.com/jobs/view/4490993901/) — BMO
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 💰 **Salary:** $80,000.00 - $160,000.00
+- 🕒 **Posted:** 2026-11-23
+
+### [Associate Director/Director – Deal Origination & Investment Analysis](https://www.linkedin.com/jobs/view/4492624021/) — Flow Capital
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Head of Tracking, Programs & Logistics](https://www.linkedin.com/jobs/view/4494035911/) — Humankind Global Recruitment
+### [Director of Commercial Leasing](https://www.linkedin.com/jobs/view/4470172385/) — Leyad
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Transaction Tax Services](https://www.linkedin.com/jobs/view/4493667654/) — BDO Canada
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Transaction Tax Services](https://www.linkedin.com/jobs/view/4493681305/) — BDO Canada
 - 📍 **Location:** Halifax, Nova Scotia, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Transaction Tax Services](https://www.linkedin.com/jobs/view/4493669476/) — BDO Canada
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-11-23
