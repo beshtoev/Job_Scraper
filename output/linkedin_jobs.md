@@ -1,78 +1,92 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-23 16:52 UTC*
+*Last updated: 2026-11-23 17:46 UTC*
 
-**16 new role(s)** since last run · 26 total in last 1h
+**20 new role(s)** since last run · 23 total in last 1h
 
-### [Director, Data Governance](https://www.linkedin.com/jobs/view/4469550419/) — McKesson
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director - Enterprise Architect - Strategy and AI](https://www.linkedin.com/jobs/view/4493674533/) — Ecolab
+- 📍 **Location:** Calgary, Alberta, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director of Sales](https://www.linkedin.com/jobs/view/4494000625/) — Botpress
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director, Distribution Compensation Ops](https://www.linkedin.com/jobs/view/4494013840/) — Canada Life
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 💰 **Salary:** $121,200 - $171,200 annually
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Customer Services and Informatics](https://www.linkedin.com/jobs/view/4492267468/) — The University of British Columbia
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $11,397.00 - $17,081.58
+### [Director, Distribution Compensation Ops](https://www.linkedin.com/jobs/view/4494016731/) — Canada Life
+- 📍 **Location:** London, Ontario, Canada
+- 💰 **Salary:** $121,200 - $171,200 annually
 - 🕒 **Posted:** 2026-11-23
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4492613759/) — Stevenson & White
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $175,000.00/yr - CA$185,000.00/yr
+### [Chief Actuary](https://www.linkedin.com/jobs/view/4494012881/) — Manitoba Public Insurance
+- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Head of Insurance Solutions](https://www.linkedin.com/jobs/view/4486187582/) — Geotab
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Global Service Lines (GIFT) - Associate Director](https://www.linkedin.com/jobs/view/4477284173/) — EY
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,900 to $271,500
-- 🕒 **Posted:** 2026-11-23
-
-### [ADMIN ASST/DIRECTOR CAN 12 month contract](https://www.linkedin.com/jobs/view/4494017095/) — The Home Depot Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $70,000 - $100,000
-- 🕒 **Posted:** 2026-11-23
-
-### [Directeur(trice), Gouvernance des données / Director, Data Governance](https://www.linkedin.com/jobs/view/4469553406/) — McKesson
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800 - $201,400
-- 🕒 **Posted:** 2026-11-23
-
-### [Director of Marketing (Global)](https://www.linkedin.com/jobs/view/4493665088/) — ApprovalMax
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000 – $180,000 per year
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4492619645/) — HRXconnect
+### [Vice President of Growth](https://www.linkedin.com/jobs/view/4494030224/) — HRXconnect
 - 📍 **Location:** Montreal, Quebec, Canada
 - 💰 **Salary:** $150,000.00/yr - CA$150,000.00/yr
 - 🕒 **Posted:** 2026-11-23
 
-### [Project Director](https://www.linkedin.com/jobs/view/4492624539/) — Endacho Healing Society
-- 📍 **Location:** Yellowknife, Northwest Territories, Canada
+### [Director, Distribution Compensation Ops](https://www.linkedin.com/jobs/view/4494013839/) — Canada Life
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $121,200 - $171,200 annually
 - 🕒 **Posted:** 2026-11-23
 
-### [Vice President Commercial Financial Services](https://www.linkedin.com/jobs/view/4493656752/) — RBC
-- 📍 **Location:** St. Catharines, Ontario, Canada
+### [Vice President, Product Line Leader – Professional & Financial Risks](https://www.linkedin.com/jobs/view/4492624878/) — Markel
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Head of Sales](https://www.linkedin.com/jobs/view/4492607752/) — Great Jobs Canada
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$200,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Enterprise Architecture](https://www.linkedin.com/jobs/view/4493672307/) — SE Health
+### [Senior Director Finance](https://www.linkedin.com/jobs/view/4494030151/) — Osborne Financial Search
 - 📍 **Location:** Markham, Ontario, Canada
-- 💰 **Salary:** $129,000 - $160,000
 - 🕒 **Posted:** 2026-11-23
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4494009254/) — Ontario Historical Society
-- 📍 **Location:** North York, Ontario, Canada
-- 💰 **Salary:** $80,000 to $95,000 annually
+### [Head of Revenue](https://www.linkedin.com/jobs/view/4493661952/) — BeMo Academic Consulting
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Senior Vice President, Lending](https://www.linkedin.com/jobs/view/4483684010/) — Collins Recruitment Group
-- 📍 **Location:** Greater Toronto Area, Canada
+### [Head of Revenue Growth](https://www.linkedin.com/jobs/view/4493672547/) — BeMo Academic Consulting
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Client Success and Adoption US](https://www.linkedin.com/jobs/view/4493683195/) — Jacobian
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Vice President of Sales and Marketing](https://www.linkedin.com/jobs/view/4493673511/) — 28 Capital Group
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Head of Discount Operations - West](https://www.linkedin.com/jobs/view/4493680291/) — Sobeys
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Strategy Director, Performance & Creative Integration](https://www.linkedin.com/jobs/view/4494002945/) — McCANN Canada
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Planning, Performance, and Operations](https://www.linkedin.com/jobs/view/4494010891/) — Canada Life
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $114,200 - $164,200 annually
+- 🕒 **Posted:** 2026-11-23
+
+### [Director Customer Success](https://www.linkedin.com/jobs/view/4494015958/) — SiftMed
+- 📍 **Location:** St John’s, Newfoundland and Labrador, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4493670680/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
+- 💰 **Salary:** $140,000 to $175,000,
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Operations Accounting and Reporting](https://www.linkedin.com/jobs/view/4494035166/) — Equinox Gold Corp.
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $213,900.00 to $267,400.00
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4494037112/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director of FP&A](https://www.linkedin.com/jobs/view/4494040046/) — Swim Recruiting
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $170,000.00/yr - CA$190,000.00/yr
 - 🕒 **Posted:** 2026-11-23
