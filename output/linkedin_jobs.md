@@ -1,92 +1,63 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-23 17:46 UTC*
+*Last updated: 2026-11-23 18:33 UTC*
 
-**20 new role(s)** since last run · 23 total in last 1h
+**14 new role(s)** since last run · 32 total in last 1h
 
-### [Director - Enterprise Architect - Strategy and AI](https://www.linkedin.com/jobs/view/4493674533/) — Ecolab
-- 📍 **Location:** Calgary, Alberta, Canada
+### [Senior Director, Finance & ERP Business Technology Leader](https://www.linkedin.com/jobs/view/4494041147/) — Ciena
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Distribution Compensation Ops](https://www.linkedin.com/jobs/view/4494013840/) — Canada Life
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 💰 **Salary:** $121,200 - $171,200 annually
+### [Project Director](https://www.linkedin.com/jobs/view/4492624539/) — Endacho Healing Society
+- 📍 **Location:** Yellowknife, Northwest Territories, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Distribution Compensation Ops](https://www.linkedin.com/jobs/view/4494016731/) — Canada Life
-- 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $121,200 - $171,200 annually
-- 🕒 **Posted:** 2026-11-23
-
-### [Chief Actuary](https://www.linkedin.com/jobs/view/4494012881/) — Manitoba Public Insurance
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President of Growth](https://www.linkedin.com/jobs/view/4494030224/) — HRXconnect
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$150,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Distribution Compensation Ops](https://www.linkedin.com/jobs/view/4494013839/) — Canada Life
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $121,200 - $171,200 annually
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President, Product Line Leader – Professional & Financial Risks](https://www.linkedin.com/jobs/view/4492624878/) — Markel
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Senior Director Finance](https://www.linkedin.com/jobs/view/4494030151/) — Osborne Financial Search
-- 📍 **Location:** Markham, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Head of Revenue](https://www.linkedin.com/jobs/view/4493661952/) — BeMo Academic Consulting
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Head of Revenue Growth](https://www.linkedin.com/jobs/view/4493672547/) — BeMo Academic Consulting
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Client Success and Adoption US](https://www.linkedin.com/jobs/view/4493683195/) — Jacobian
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President of Sales and Marketing](https://www.linkedin.com/jobs/view/4493673511/) — 28 Capital Group
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Head of Discount Operations - West](https://www.linkedin.com/jobs/view/4493680291/) — Sobeys
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Strategy Director, Performance & Creative Integration](https://www.linkedin.com/jobs/view/4494002945/) — McCANN Canada
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Planning, Performance, and Operations](https://www.linkedin.com/jobs/view/4494010891/) — Canada Life
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $114,200 - $164,200 annually
-- 🕒 **Posted:** 2026-11-23
-
-### [Director Customer Success](https://www.linkedin.com/jobs/view/4494015958/) — SiftMed
-- 📍 **Location:** St John’s, Newfoundland and Labrador, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4493670680/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Operations Accounting and Reporting](https://www.linkedin.com/jobs/view/4494035166/) — Equinox Gold Corp.
+### [VP, Technology Consulting, North America](https://www.linkedin.com/jobs/view/4492639351/) — Two Circles
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $213,900.00 to $267,400.00
+- 💰 **Salary:** $250,000.00/yr - CA$250,000.00/yr
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4494037112/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Director, Enterprise Machine Learning Frameworks & Operations](https://www.linkedin.com/jobs/view/4493673956/) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director of FP&A](https://www.linkedin.com/jobs/view/4494040046/) — Swim Recruiting
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $170,000.00/yr - CA$190,000.00/yr
+### [AVP, Actuarial AI & Data Governance](https://www.linkedin.com/jobs/view/4494031391/) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Enterprise Machine Learning Frameworks & Operations](https://www.linkedin.com/jobs/view/4493691362/) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director of Business Development, AI Search (AEO and GEO) (Remote, Victoria)](https://www.linkedin.com/jobs/view/4493685694/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Regional Sales Director, AI Search (AEO and GEO) (Remote, Saskatoon)](https://www.linkedin.com/jobs/view/4493696313/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Regional Sales Director, AI Search (AEO and GEO) (Remote, London)](https://www.linkedin.com/jobs/view/4493697268/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director of Sales, AI Search (AEO and GEO) (Remote, Saskatoon)](https://www.linkedin.com/jobs/view/4493696301/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Sales Director, Aspirational Big Bets](https://www.linkedin.com/jobs/view/4493684429/) — OneTrust
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $153,750—$205,000 USD
+- 🕒 **Posted:** 2026-11-23
+
+### [Director of New Business, AI Search (AEO and GEO) (Remote, Guelph)](https://www.linkedin.com/jobs/view/4493699228/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Head of Strategy and Chief of Staff (Office: Mississauga, Ontario)](https://www.linkedin.com/jobs/view/4494040447/) — Philips
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $126,000 to $198,000
+- 🕒 **Posted:** 2026-11-23
+
+### [Managing Director, Technology Architecture & Governance](https://www.linkedin.com/jobs/view/4411549338/) — CPP Investments | Investissements RPC
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
