@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-23 03:26 UTC",
+  "scraped_at": "2026-11-23 03:52 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Jobgether",
@@ -52,30 +52,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jobgether",
-      "title": "Director, Performance Marketing",
-      "location": "Canada",
-      "url": "https://www.linkedin.com/jobs/view/4493578512/",
-      "date_posted": "2026-11-23",
-      "salary": "USD $180,000–$247,500",
-      "ats": "LinkedIn",
-      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Director, Performance Marketing based in the Canada .\n\nWe are seeking an experienced performance marketing leader to shape and drive a global, multi-channel strategy across paid search, paid social, programmatic advertising, and organic social. This role combines deep channel expertise with a strong understanding of the B2B marketing funnel to generate qualified demand, pipeline, and revenue. You will own a significant marketing budget, set strategic priorities, and lead a high-performing team in a fast-paced technology environment. Through data-driven decisions and continuous experimentation, you will optimize investment and identify new growth opportunities. You will also use the company's own advertising platform as a customer-zero environment, turning practical insights into product and marketing improvements. Working closely with teams across Marketing, Sales, Product, and Customer Success, you will help align performance initiatives with broader business objectives.\n\nAccountabilities\n\nDefine and lead the global performance marketing strategy and roadmap across paid search, paid social, programmatic advertising, and organic channels.\nSet channel priorities, evergreen campaign strategies, testing plans, and growth initiatives while managing a substantial budget against key performance indicators.\nOversee campaigns across Google Ads, LinkedIn, Meta, Reddit, ChatGPT, programmatic platforms, and other relevant channels to strengthen market awareness and generate qualified demand.\nConnect channel performance and optimization decisions to business outcomes, including qualified leads, demo requests, sales impact, pipeline, and revenue.\nAnalyze performance data and business context to guide investment decisions and balance priorities across the marketing funnel.\nDrive experimentation by testing new tactics, monitoring platform algorithms, exploring placements, and developing strategic vendor relationships.\nLead the customer-zero program by using the company's platform, identifying real-world opportunities and limitations, and translating findings into actionable product and marketing insights.\nEstablish performance measurement frameworks, reporting cadences, prioritization processes, and clear team accountability.\nBuild strong cross-functional partnerships with Creative, Integrated Marketing, Product Marketing, Marketing Operations, Sales, Revenue Operations, Product, and Customer Success.\nManage competing stakeholder requests, clarify priorities, remove blockers, and ensure the team focuses on high-impact work rather than simply responding to requests.\nCoach and develop the team through clear expectations, constructive feedback, accountability, and effective prioritization.\nEmpower team members to own execution while providing strategic direction and creating leverage through effective leadership.\nTake initiative and maintain momentum in an ambiguous, fast-paced environment, even when information or stakeholder input is incomplete.\n\nRequirements\n\n8+ years of experience in performance, paid, growth, or digital marketing, including significant people leadership experience.\nDeep hands-on expertise in paid search, particularly Google Ads and full-funnel campaign optimization.\nStrong paid social experience, especially with LinkedIn, and familiarity with platforms such as Meta and Reddit.\nExperience overseeing or closely partnering on programmatic advertising campaigns.\nStrong understanding of the B2B marketing funnel and the ability to connect channel strategy to qualified leads, sales outcomes, pipeline, and revenue.\nProven ability to make strategic investment decisions based on business value rather than optimizing channel metrics in isolation.\nExperience developing growth strategies, testing new approaches, monitoring platform algorithm performance, and improving campaign efficiency.\nProactive leadership style, with the judgment to set direction, prioritize effectively, and move initiatives forward independently.\nDemonstrated ability to coach teams, establish accountability, and delegate ownership without taking over execution.\nExcellent stakeholder-management skills, including navigating ambiguity, gathering context, advocating for team priorities, and removing obstacles.\nExperience working in a fast-paced B2B technology, SaaS, AdTech, or related environment.\nBonus: Experience at a demand-side platform (DSP), advertising technology company, or programmatic business.\nBonus: Experience using an advertising platform as a customer-zero environment to inform product strategy or development.\nBonus: Experience managing strategic relationships with advertising-platform vendors, such as LinkedIn.\n\nBenefits\n\nCompetitive base salary:\nUnited States: USD $180,000–$247,500.\nCanada: CAD $168,000–$231,000.\n\nAdditional compensation may include annual bonuses, commissions, and equity awards, depending on the role.\nComprehensive health benefits from the first day of employment.\nRetirement savings plans, including 401(k), pension, or equivalent arrangements depending on location.\nCompetitive paid time off, including a birthday day off.\nAccess to a comprehensive mental health care program.\nWork-from-home reimbursements.\nOptional global WeWork membership, with office hubs in London and Toronto.\nStructured training and onboarding.\nSupport for professional development, including conferences, courses, and books.\nAccess to programmatic advertising courses and certifications.\nParental leave program.\nSupportive, collaborative, and inclusive working culture.\nSocial activities and team events.\n\nHow Jobgether Works\n\nWe use an AI-powered matching process\nto ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\n\nWhy Apply Through Jobgether?\n\nData Privacy Notice:\nBy submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInternet Marketplace Platforms",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
-      "geo_city": "Toronto",
-      "geo_province": "ON",
-      "geo_lat": 43.6532,
-      "geo_lon": -79.3832,
-      "geo_distance_km": 6.1,
-      "geo_rank": 61,
-      "geo_source": "description",
-      "geo_confidence": "medium",
-      "geo_detail": "description names Toronto",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
