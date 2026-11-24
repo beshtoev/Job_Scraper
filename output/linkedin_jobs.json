@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-24 03:43 UTC",
+  "scraped_at": "2026-11-24 04:24 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Haystack",
@@ -52,30 +52,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Anthem Properties Group Ltd.",
-      "title": "Senior Director, Development and Construction Accounting (Vancouver, BC)",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4493962712/",
-      "date_posted": "2026-11-24",
-      "salary": "$175,000 - $200,000 per year",
-      "ats": "LinkedIn",
-      "description": "As Senior Director, Development and Construction Accounting, you'll lead a team of Managers and own the financial results, reporting, and controls for a portfolio of development and construction projects. You'll also stay hands-on, supporting and guiding Development Accountants across your teams.\n\nWorking closely with project teams, senior leadership, and Anthem Partners, you'll make sure project financials are accurate and clearly communicated. We're looking for someone pragmatic and persistent, who thrives in a fast-paced environment and keeps solving problems until they're solved.\n\nYou are\n\nA proven senior leader who is agile, adaptable and results-oriented\nFriendly and approachable, with the ability to build strong relationships across the accounting, project and senior leadership teams\nProactive and independent, with strong, open communication\nAccurate, organized and comfortable managing multiple priorities in a fast-paced, modern ERP environment\n\nYou will\n\nLead, mentor and develop a team of Managers reporting directly into you through regular meetings and defined growth plans\nTake direct responsibility for supporting the Development Accountants, working alongside their Managers to provide technical guidance, ensuring quality and timely work and fostering growth and development\nOwn the financial close for the portfolio, ensuring compliance with internal controls and company policies\nMaintain thorough knowledge of all projects in the portfolio, working with project teams so proformas are accurate and financial impacts are clearly communicated to senior leadership and partners\nOversee project proformas, scenario modelling and cash flow projections, with a strong understanding of capital structuring\nAnalyze portfolio performance to identify risks and opportunities early, and proactively raise issues with project teams and senior leadership\nOversee partner and financial reporting, ensuring accuracy, consistency with deal structures and timely delivery\nEnsure compliance with partnership and management agreements\nOversee construction loan draws and relationships with cost consultants and lenders\nOwn the audit program for the project portfolio, coordinating multiple audits and reviewing audit support\nDrive process improvement and stronger internal controls across the accounting team\nAct as a steward of Anthem's culture, cultivating a collaborative, diverse and inclusive team environment, in the spirit of The Anthem Way\n\nYou have\n\n10+ years of progressive real estate development accounting experience, including leading and developing managers and multi-level teams\nA CPA designation\nReal estate development accounting expertise, including financial modelling, cash management and financial reporting\nAdvanced Excel skills; Yardi experience preferred\nProven ability to handle high volume in a fast-paced environment with multiple competing demands\nExceptional oral and written communication skills, including presenting project information to all levels of Anthem management and partners\n\nWe have\n\nGreat, diverse, authentic people!\nUnlimited career growth opportunities\nMentorship from the 'best in the biz'\nCorporate Giving Strategy supporting community development\nAnnual salary reviews and performance bonuses\n100% employer paid Benefit Plan with Healthcare Spending Account and Employee Assistance Program\nEducational Assistance Program\n'Dress for your day' policy... and more!\n\nSalary range: $175,000 - $200,000 per year, based on experience and qualifications\n\nFounded in 1991, Anthem is a team of 850+ people driven by creativity, passion and direct communication. Anthem has invested in, developed or managed – alone or in partnership – more than 400 residential and commercial projects across North America.\n\nOur growing residential portfolio includes 44,000 homes that are complete, in design or under construction, from mixed-use residential to townhome, rental and single-family homes. We own, co-own, manage or have previously owned 12 million square feet of retail, industrial and office space, and our land portfolio includes more than 60 communities, spanning 9,100 acres across Canada and the United States.\n\nAnthem is a real estate development, investment and management company that strives, solves and evolves to create better spaces and stronger communities. We are Growing Places.\n\nPlease, no unsolicited resumes or phone inquiries from agencies. View our Policy on Unsolicited Resumes on our website.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nReal Estate",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (BC)",
-      "geo_city": "Vancouver",
-      "geo_province": "BC",
-      "geo_lat": 49.2827,
-      "geo_lon": -123.1207,
-      "geo_distance_km": 3355.3,
-      "geo_rank": 433553,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
