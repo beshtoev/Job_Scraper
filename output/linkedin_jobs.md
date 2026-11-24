@@ -1,65 +1,41 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-23 23:32 UTC*
+*Last updated: 2026-11-24 00:17 UTC*
 
-**14 new role(s)** since last run · 19 total in last 1h
+**9 new role(s)** since last run · 18 total in last 1h
 
-### [Vice President, Software Development](https://www.linkedin.com/jobs/view/4494081380/) — Cytel
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Technical Program Management](https://www.linkedin.com/jobs/view/4493910928/) — Instacart
-- 📍 **Location:** Canada
-- 💰 **Salary:** $245,000—$258,500
-- 🕒 **Posted:** 2026-11-23
-
-### [Director of Software Engineering](https://www.linkedin.com/jobs/view/4493688924/) — Warner Music Group
-- 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4493933265/) — Augustine House Society
-- 📍 **Location:** Delta, British Columbia, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$180,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Director - Compliance Program Governance](https://www.linkedin.com/jobs/view/4493943091/) — BMO
+### [Director of AI Applications Development](https://www.linkedin.com/jobs/view/4493934910/) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-11-24
+
+### [Director Customer Operations](https://www.linkedin.com/jobs/view/4494091225/) — Ericsson
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $144,000 - $189,000
 - 🕒 **Posted:** 2026-11-23
 
-### [Director of Public Health Emergency Preparedness](https://www.linkedin.com/jobs/view/4492715740/) — Government of Nova Scotia
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $4,322.15 - $5,402.66
-- 🕒 **Posted:** 2026-11-23
-
-### [Senior Director, Technology Operations & Security](https://www.linkedin.com/jobs/view/4492648812/) — YPO
-- 📍 **Location:** Alberta, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Senior Director, Technology Operations & Security](https://www.linkedin.com/jobs/view/4492662191/) — YPO
-- 📍 **Location:** Nova Scotia, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4493917993/) — The Winnipeg Civic Employees' Benefits Program (WCEBP)
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Vice President, General Ledger Accounting](https://www.linkedin.com/jobs/view/4493931897/) — FirstService Residential Canada
+### [Director, Network Sales](https://www.linkedin.com/jobs/view/4492659467/) — Samsung Electronics
 - 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Vice President, General Ledger Accounting](https://www.linkedin.com/jobs/view/4493951127/) — FirstService Residential Canada
+### [Senior Director, Technology Operations & Security](https://www.linkedin.com/jobs/view/4492662195/) — YPO
+- 📍 **Location:** Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [VP Product Management 12 Month Fixed-Term Contract](https://www.linkedin.com/jobs/view/4493929703/) — Brookfield
+- 📍 **Location:** London, Canada Metropolitan Area
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, System Engineering Delivery](https://www.linkedin.com/jobs/view/4493951146/) — Telesat
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Sales - Bulloch POS](https://www.linkedin.com/jobs/view/4492661145/) — Bulloch Technologies
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Sr. Director/Product Owner, Payment Servicing Platform (PSP) Enablement & Delivery](https://www.linkedin.com/jobs/view/4493942576/) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4494088304/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Strategy & Corporate Development Director (CA)](https://www.linkedin.com/jobs/view/4494081440/) — PointClickCare
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $156,000.00/yr - CA$195,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [President](https://www.linkedin.com/jobs/view/4493942020/) — West Cirque Construction
-- 📍 **Location:** Vancouver, British Columbia, Canada
+### [Senior Director, Technology Operations & Security](https://www.linkedin.com/jobs/view/4492647965/) — YPO
+- 📍 **Location:** British Columbia, Canada
 - 🕒 **Posted:** 2026-11-23
