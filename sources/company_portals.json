@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 383,
-    "pollable": 254,
+    "companies": 384,
+    "pollable": 255,
     "unresolved": 129
   },
   "companies": [
@@ -170,6 +170,19 @@
       "slug": "affirm",
       "careers_url": "https://job-boards.greenhouse.io/affirm",
       "source": "harvest:jobsinpython 2026-09-01",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Agnico Eagle",
+      "archetype": "A",
+      "ats": "taleo",
+      "slug": "101430233",
+      "careers_url": "https://agnicoeagle.taleo.net/careersection/2/jobsearch.ftl?lang=en",
+      "source": "murat 2026-11-24",
       "include": [],
       "exclude": [],
       "searches": [],
