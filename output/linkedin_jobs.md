@@ -1,138 +1,105 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-24 17:54 UTC*
+*Last updated: 2026-11-24 19:49 UTC*
 
-**31 new role(s)** since last run · 38 total in last 1h
+**23 new role(s)** since last run · 46 total in last 1h
 
-### [Head of AI Asset Review](https://www.linkedin.com/jobs/view/4494701303/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $350,000.00 - $625,000.00
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4494198242/) — BJRC Recruiting
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Staff + Senior Software Engineer, Inference](https://www.linkedin.com/jobs/view/4485799146/) — Anthropic
-- 📍 **Location:** Ontario, Canada
+### [Director of Finance | Hotel PUR, Quebec, A Tribute Portfolio Hotel](https://www.linkedin.com/jobs/view/4492686915/) — Crescent Hotels & Resorts
+- 📍 **Location:** Québec, Quebec, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Technology, Campana Systems](https://www.linkedin.com/jobs/view/4494156227/) — Campana Systems
-- 📍 **Location:** Canada
-- 💰 **Salary:** $150,000 to $200,000
+### [Chief Administration Officer](https://www.linkedin.com/jobs/view/4494725246/) — Regional District of Nanaimo
+- 📍 **Location:** Nanaimo, British Columbia, Canada
+- 💰 **Salary:** $281,986.00/yr - CA$323,585.00/yr
 - 🕒 **Posted:** 2026-11-24
 
-### [Directeur du développement logiciel | Director, Software Development, Platform](https://www.linkedin.com/jobs/view/4494146090/) — Power Factors
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director, Finance Business Partner](https://www.linkedin.com/jobs/view/4494182814/) — GreenShield
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Operational Accounting Technology Systems](https://www.linkedin.com/jobs/view/4382212100/) — Scotiabank
+### [Vice President, General Ledger Accounting](https://www.linkedin.com/jobs/view/4493951127/) — FirstService Residential Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Sr. Director Platform Services](https://www.linkedin.com/jobs/view/4486411882/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [President](https://www.linkedin.com/jobs/view/4494702449/) — MacDonald Search Group
+- 📍 **Location:** Fraser Valley, British Columbia, Canada
+- 💰 **Salary:** $200,000.00/yr - CA$250,000.00/yr
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Strategic Alignment & Portfolio Management](https://www.linkedin.com/jobs/view/4486471207/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Vice President & Market Leader, BMO Private Wealth](https://www.linkedin.com/jobs/view/4492223345/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
 - 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, US Oncology Practice Technology](https://www.linkedin.com/jobs/view/4494182490/) — McKesson
+### [Director, Lending Programs & Capital](https://www.linkedin.com/jobs/view/4494173624/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-11-24
+
+### [Director of Operations - Integrated Products](https://www.linkedin.com/jobs/view/4478538858/) — Industrial Electric Mfg. (IEM)
+- 📍 **Location:** Surrey, British Columbia, Canada
+- 💰 **Salary:** $165,000 - $210,000
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Campus Retail Services (Bookstore)](https://www.linkedin.com/jobs/view/4492953798/) — University of Calgary
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Director of Food & Beverage](https://www.linkedin.com/jobs/view/4493000451/) — Crescent Hotels & Resorts
+- 📍 **Location:** Rossland, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Head of Supply Chain - Canada](https://www.linkedin.com/jobs/view/4482243983/) — Beiersdorf
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4494141734/) — BoomerangFX
 - 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $122,100 - $162,800
+- 💰 **Salary:** $130,000.00/yr - CA$150,000.00/yr
 - 🕒 **Posted:** 2026-11-24
 
-### [Application Development Tech Lead, Vice President](https://www.linkedin.com/jobs/view/4494340402/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
+### [Director, Sales and Business Development](https://www.linkedin.com/jobs/view/4486423703/) — Masco Canada
+- 📍 **Location:** St Thomas, Ontario, Canada
+- 💰 **Salary:** $136,500.00 - $186,450.00
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Customer IAM Engineering (Global Security)](https://www.linkedin.com/jobs/view/4494156420/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Senior Director, People Operations](https://www.linkedin.com/jobs/view/4485760953/) — Boldr
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Sr. Director, Application Development & Quality Assurance](https://www.linkedin.com/jobs/view/4485254963/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Chief Financial Officer (CFO) - Hybrid](https://www.linkedin.com/jobs/view/4493019715/) — ISAAC Instruments
-- 📍 **Location:** St-Bruno-de-Montarville, Quebec, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4493027515/) — American Ratings Business, Professional & Executive Advisory Firm
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Financial Director](https://www.linkedin.com/jobs/view/4494394091/) — Elby Professional Recruitment
-- 📍 **Location:** Hamilton, Ontario, Canada
-- 💰 **Salary:** $140,000.00/yr - CA$180,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [2026-0062 Director of Finance](https://www.linkedin.com/jobs/view/4494399066/) — Electrical Safety Authority
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4494388899/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Chef de la Planification Budgétaire et de la Gouvernance / Head of Business Planning & Governance](https://www.linkedin.com/jobs/view/4484626262/) — Airbus Aircraft
-- 📍 **Location:** Mirabel, Quebec, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Vice President of Global Accounting](https://www.linkedin.com/jobs/view/4493029150/) — Prophecy Capital Group
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Managing Director (MD)](https://www.linkedin.com/jobs/view/4494701058/) — LeadingEdge HR Solutions
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4494377505/) — Confidential Hires
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Commercial Director - Buildings](https://www.linkedin.com/jobs/view/4486413737/) — Graham
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4494377433/) — Sullivan Mahoney
-- 📍 **Location:** St. Catharines, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Director, Commercial Payments & Digital Assets](https://www.linkedin.com/jobs/view/4494174150/) — Escalent
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Managing Director AGEWISE](https://www.linkedin.com/jobs/view/4494149799/) — Queen's University
-- 📍 **Location:** Kingston, Ontario, Canada
-- 💰 **Salary:** $94,000.00/yr - CA$123,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4494701060/) — LeadingEdge HR Solutions
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Director, Finance, Solution Delivery](https://www.linkedin.com/jobs/view/4494376845/) — Insight Global
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $250,000.00/yr - CA$300,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Head of Tax & Asset Compliance](https://www.linkedin.com/jobs/view/4486813571/) — Geotab
+### [Skywise - Head of Commercial - Americas](https://www.linkedin.com/jobs/view/4484611959/) — Airbus
 - 📍 **Location:** Waterloo, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director of Endow Manitoba - Winnipeg Foundation](https://www.linkedin.com/jobs/view/4494383787/) — Harris Leadership Strategies
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 💰 **Salary:** $115,000 to $150,000
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4494146753/) — Harlo Entertainment
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $180,000.00/yr - CA$250,000.00/yr
 - 🕒 **Posted:** 2026-11-24
 
-### [Executive Vice President of Business Strategy & Execution](https://www.linkedin.com/jobs/view/4494382359/) — CAREBOND HEALTHTECH PVT LTD
-- 📍 **Location:** Canada
+### [E-commerce Director - Pet Nutrition](https://www.linkedin.com/jobs/view/4494387760/) — Mars
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, External Reporting & Technical Accounting](https://www.linkedin.com/jobs/view/4494398155/) — Equinox Gold Corp.
+### [Director, Private Capital Investments](https://www.linkedin.com/jobs/view/4494151487/) — Kilmer Van Nostrand Co. Limited
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Senior Director Operations - Major Projects, Tunnel & Underground](https://www.linkedin.com/jobs/view/4494705422/) — EBC Inc.
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $213,900.00 to $267,400.00
+- 🕒 **Posted:** 2026-11-24
+
+### [Senior Director - Performance Marketing (Remote)](https://www.linkedin.com/jobs/view/4492697948/) — Puffy
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Head of Tax & Asset Compliance](https://www.linkedin.com/jobs/view/4486816379/) — Geotab
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4494193093/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
+- 💰 **Salary:** $140,000 to $175,000,
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Club Operations](https://www.linkedin.com/jobs/view/4470261032/) — CAA Club Group
+- 📍 **Location:** Vaughan, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
