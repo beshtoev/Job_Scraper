@@ -1,43 +1,52 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-24 21:38 UTC*
+*Last updated: 2026-11-24 22:49 UTC*
 
-**9 new role(s)** since last run · 11 total in last 1h
+**11 new role(s)** since last run · 18 total in last 1h
 
-### [Senior Director Information Technology](https://www.linkedin.com/jobs/view/4494402742/) — Toronto Region Board of Trade
+### [Vice President, Financial Controller](https://www.linkedin.com/jobs/view/4494722913/) — Classic Fire + Life Safety
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000-$170,000
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Digital Experience Platforms](https://www.linkedin.com/jobs/view/4494420202/) — Sobeys
+### [Director - Accountability and Analytics](https://www.linkedin.com/jobs/view/4494426154/) — Government of Nova Scotia
 - 📍 **Location:** Halifax, Nova Scotia, Canada
+- 💰 **Salary:** $4,754.34 - $5,942.94
 - 🕒 **Posted:** 2026-11-24
 
-### [Director Technology Transformation Stores](https://www.linkedin.com/jobs/view/4494409387/) — Sobeys
-- 📍 **Location:** Stellarton, Nova Scotia, Canada
+### [Executive Director - Fleet Management Services](https://www.linkedin.com/jobs/view/4494728618/) — Government of Manitoba
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 💰 **Salary:** $113,460.00 - $139,106.00 per year
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Digital Experience Platforms](https://www.linkedin.com/jobs/view/4494407696/) — Sobeys
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Marketing Director](https://www.linkedin.com/jobs/view/4494720821/) — MedixSafe
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $115,000.00-$125,000.00 per year
-- 🕒 **Posted:** 2026-11-24
-
-### [Director of Finance](https://www.linkedin.com/jobs/view/4494735216/) — Osborne Financial Search
+### [Head of Operations Canada](https://www.linkedin.com/jobs/view/4493055228/) — elockers
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Head of Partnerships | Canada (Bilingual)](https://www.linkedin.com/jobs/view/4494375964/) — Tedy
+### [Regional Managing Director, Asia Pacific](https://www.linkedin.com/jobs/view/4493064056/) — Destination Canada
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $1,196,200 - $1,555,000
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Application Services](https://www.linkedin.com/jobs/view/4494727910/) — Beem Credit Union
+- 📍 **Location:** Burnaby, British Columbia, Canada
+- 💰 **Salary:** $151,100 - $188,900,
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, AI Risk Monitoring and Reporting](https://www.linkedin.com/jobs/view/4494412649/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Head of Digital and Agency](https://www.linkedin.com/jobs/view/4494198457/) — Bell
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Head of Data and AI, Wealth Management Canada](https://www.linkedin.com/jobs/view/4494413620/) — RBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Americas HR Director (English version)](https://www.linkedin.com/jobs/view/4494410900/) — Averna Powered by Spherea
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director Technology Transformation Stores](https://www.linkedin.com/jobs/view/4494199895/) — Sobeys
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Program Director](https://www.linkedin.com/jobs/view/4485227736/) — Havas CX Canada
+### [Managing Director, XVA Management](https://www.linkedin.com/jobs/view/4494180740/) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $130,000 to $165,000,
 - 🕒 **Posted:** 2026-11-24
