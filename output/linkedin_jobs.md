@@ -1,52 +1,68 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-24 22:49 UTC*
+*Last updated: 2026-11-24 23:39 UTC*
 
-**11 new role(s)** since last run · 18 total in last 1h
+**14 new role(s)** since last run · 18 total in last 1h
 
-### [Vice President, Financial Controller](https://www.linkedin.com/jobs/view/4494722913/) — Classic Fire + Life Safety
+### [Director, AI Strategic Initiatives](https://www.linkedin.com/jobs/view/4493055534/) — Equinix
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director - Accountability and Analytics](https://www.linkedin.com/jobs/view/4494426154/) — Government of Nova Scotia
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $4,754.34 - $5,942.94
-- 🕒 **Posted:** 2026-11-24
-
-### [Executive Director - Fleet Management Services](https://www.linkedin.com/jobs/view/4494728618/) — Government of Manitoba
+### [Director, Portfolio Management & Governance](https://www.linkedin.com/jobs/view/4494741615/) — Canada Life
 - 📍 **Location:** Winnipeg, Manitoba, Canada
-- 💰 **Salary:** $113,460.00 - $139,106.00 per year
+- 💰 **Salary:** $130,000 - $165,000 annually
 - 🕒 **Posted:** 2026-11-24
 
-### [Head of Operations Canada](https://www.linkedin.com/jobs/view/4493055228/) — elockers
+### [VP, Global Finance Risk / Prime Services Risk](https://www.linkedin.com/jobs/view/4494443230/) — BMO Capital Markets
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Regional Managing Director, Asia Pacific](https://www.linkedin.com/jobs/view/4493064056/) — Destination Canada
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $1,196,200 - $1,555,000
+### [Director, Portfolio Management & Governance](https://www.linkedin.com/jobs/view/4494747335/) — Canada Life
+- 📍 **Location:** London, Ontario, Canada
+- 💰 **Salary:** $130,000 - $165,000 annually
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Application Services](https://www.linkedin.com/jobs/view/4494727910/) — Beem Credit Union
-- 📍 **Location:** Burnaby, British Columbia, Canada
-- 💰 **Salary:** $151,100 - $188,900,
-- 🕒 **Posted:** 2026-11-24
-
-### [Director, AI Risk Monitoring and Reporting](https://www.linkedin.com/jobs/view/4494412649/) — RBC
+### [Director, Portfolio Management & Governance](https://www.linkedin.com/jobs/view/4494739704/) — Canada Life
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $130,000 - $165,000 annually
 - 🕒 **Posted:** 2026-11-24
 
-### [Head of Digital and Agency](https://www.linkedin.com/jobs/view/4494198457/) — Bell
-- 📍 **Location:** Toronto, Ontario, Canada
+### [VP Portfolio Operations, 2 Hour Learning (Remote) - $200,000/year USD](https://www.linkedin.com/jobs/view/4494754000/) — Alpha School
+- 📍 **Location:** Canada
+- 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-11-24
 
-### [Head of Data and AI, Wealth Management Canada](https://www.linkedin.com/jobs/view/4494413620/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Data & AI Platform Services Director AI & Data Platforms](https://www.linkedin.com/jobs/view/4494444263/) — Symcor
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Americas HR Director (English version)](https://www.linkedin.com/jobs/view/4494410900/) — Averna Powered by Spherea
+### [Director, Finance and Administration](https://www.linkedin.com/jobs/view/4494749202/) — Greater Moncton Roméo LeBlanc Int'l Airport / Aéroport int. Roméo-LeBlanc du Grand Moncton (YQM)
+- 📍 **Location:** Moncton, New Brunswick, Canada
+- 💰 **Salary:** $130,000.00/yr - CA$155,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, FinOps (35690)](https://www.linkedin.com/jobs/view/4494745392/) — Myticas Consulting
+- 📍 **Location:** British Columbia, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Supply Chain | Directeur(trice), chaîne d'approvisionnement](https://www.linkedin.com/jobs/view/4494437156/) — Nomic Bio
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Managing Director, XVA Management](https://www.linkedin.com/jobs/view/4494180740/) — CIBC
+### [Head of Fraud Investigations](https://www.linkedin.com/jobs/view/4494749065/) — Humans of HR
+- 📍 **Location:** Greater Vancouver, British Columbia, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$200,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Commercial and Corporate Credit Audit](https://www.linkedin.com/jobs/view/4494427777/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Software Engineering - Remote](https://www.linkedin.com/jobs/view/4494441387/) — Optum
+- 📍 **Location:** Richmond, British Columbia, Canada
+- 💰 **Salary:** $127,500 - $264,700 annually
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4494738813/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
