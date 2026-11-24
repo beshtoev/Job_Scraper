@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 382,
-    "pollable": 253,
+    "companies": 383,
+    "pollable": 254,
     "unresolved": 129
   },
   "companies": [
@@ -843,6 +843,19 @@
       "slug": "coursera",
       "careers_url": "https://job-boards.greenhouse.io/coursera",
       "source": "murat 2026-11-23",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "GraceMed",
+      "archetype": "A",
+      "ats": "adp",
+      "slug": "ce70b5d3-e259-4c41-af22-6e0b5886e4c2",
+      "careers_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ce70b5d3-e259-4c41-af22-6e0b5886e4c2&ccId=9200599026593_2&type=JS&lang=en_CA",
+      "source": "murat 2026-11-24",
       "include": [],
       "exclude": [],
       "searches": [],
