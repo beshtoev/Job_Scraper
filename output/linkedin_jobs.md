@@ -1,41 +1,60 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-24 00:17 UTC*
+*Last updated: 2026-11-24 01:02 UTC*
 
-**9 new role(s)** since last run · 18 total in last 1h
+**13 new role(s)** since last run · 28 total in last 1h
 
-### [Director of AI Applications Development](https://www.linkedin.com/jobs/view/4493934910/) — CIBC
+### [AVP, Data Governance](https://www.linkedin.com/jobs/view/4494081753/) — Pacific Life Re
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director Customer Operations](https://www.linkedin.com/jobs/view/4494091225/) — Ericsson
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $144,000 - $189,000
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Network Sales](https://www.linkedin.com/jobs/view/4492659467/) — Samsung Electronics
+### [Director, Supply Chain Management](https://www.linkedin.com/jobs/view/4493951499/) — Walmart Canada
 - 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
+- 🕒 **Posted:** 2026-11-24
 
-### [Senior Director, Technology Operations & Security](https://www.linkedin.com/jobs/view/4492662195/) — YPO
-- 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
+### [Sr. Director, Human Resources](https://www.linkedin.com/jobs/view/4471152331/) — Nestlé
+- 📍 **Location:** North York, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
 
-### [VP Product Management 12 Month Fixed-Term Contract](https://www.linkedin.com/jobs/view/4493929703/) — Brookfield
-- 📍 **Location:** London, Canada Metropolitan Area
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, System Engineering Delivery](https://www.linkedin.com/jobs/view/4493951146/) — Telesat
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Sales - Bulloch POS](https://www.linkedin.com/jobs/view/4492661145/) — Bulloch Technologies
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-23
-
-### [Sr. Director/Product Owner, Payment Servicing Platform (PSP) Enablement & Delivery](https://www.linkedin.com/jobs/view/4493942576/) — CIBC
+### [Vice President, Asset Management](https://www.linkedin.com/jobs/view/4494065468/) — Woodbourne Capital Management
 - 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [VP of Intelligence](https://www.linkedin.com/jobs/view/4494078739/) — Omnicom Media
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000 - $160,000
+- 🕒 **Posted:** 2026-11-24
+
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4493917993/) — The Winnipeg Civic Employees' Benefits Program (WCEBP)
+- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 🕒 **Posted:** 2026-11-23
 
-### [Senior Director, Technology Operations & Security](https://www.linkedin.com/jobs/view/4492647965/) — YPO
-- 📍 **Location:** British Columbia, Canada
+### [Head, Finance](https://www.linkedin.com/jobs/view/4494074556/) — Government of Alberta
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $2,935.39 - $3,850.29
+- 🕒 **Posted:** 2026-11-23
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4493933265/) — Augustine House Society
+- 📍 **Location:** Delta, British Columbia, Canada
+- 💰 **Salary:** $140,000.00/yr - CA$180,000.00/yr
+- 🕒 **Posted:** 2026-11-23
+
+### [President](https://www.linkedin.com/jobs/view/4493942020/) — West Cirque Construction
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [District Director](https://www.linkedin.com/jobs/view/4493952207/) — ParaMed Home Health Care
+- 📍 **Location:** Belleville, Ontario, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Campus Retail Services (Bookstore)](https://www.linkedin.com/jobs/view/4492953798/) — University of Calgary
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-23
+
+### [Director, Asset and Wealth Managers, TPS](https://www.linkedin.com/jobs/view/4493935763/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $85,500.00 - $185,000.00
+- 🕒 **Posted:** 2026-11-23
+
+### [Managing Director and Office Business Leader, Work & Rewards — Montreal](https://www.linkedin.com/jobs/view/4493944087/) — WTW
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-23
