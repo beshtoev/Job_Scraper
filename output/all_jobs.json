@@ -1,6 +1,683 @@
 {
-  "updated_at": "2026-11-24 02:45 UTC",
+  "updated_at": "2026-11-24 02:57 UTC",
   "jobs": [
+    {
+      "company": "VSO School of Music",
+      "title": "Vice President, Marketing and Audience Experience, Vancouver Symphony Orchestra",
+      "location": "Vancouver, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333707784",
+      "date_posted": "2026-11-24",
+      "description": "Develop and implement ticket-sales and audience-development plans under the direction of the Senior Vice President. $120,000 - $150,000 based on experience.",
+      "salary": "$120k–$150k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "H&R Block",
+      "title": "Director, Human Resources & Learning",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333622984",
+      "date_posted": "2026-11-24",
+      "description": "The Director partners with senior leadership to translate business objectives into effective workforce strategies, with accountability for organizational…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "LINK INVESTMENT MANAGEMENT INC",
+      "title": "Director of Partnerships - Western Canada",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333595674",
+      "date_posted": "2026-11-24",
+      "description": "LINK builds fully digital workplace savings technology that financial firms license and offer to employers under their own brand.",
+      "salary": "$125k–$310k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "The NoLimits Group",
+      "title": "Directeur(trice) des opérations | Director of Operations",
+      "location": "Saint-Laurent, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333538448",
+      "date_posted": "2026-11-24",
+      "description": "Le directeur des opérations assume la responsabilité complète des opérations, de A à Z. Il doit être en mesure de prendre en charge et de résoudre toute…",
+      "salary": "$60k–$100k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Saint-Laurent",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Seequent",
+      "title": "Senior Director, Revenue Enablement",
+      "location": "Vancouver, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333592081",
+      "date_posted": "2026-11-24",
+      "description": "Bachelor’s degree in business, marketing, or a related discipline; an MBA or advanced degree is an asset. Define, govern, and continuously evolve the global…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Aeon Blue",
+      "title": "Executive Assistant to the Chief Science Officer",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333724077",
+      "date_posted": "2026-11-24",
+      "description": "Confidence recognizing phishing, impersonation, and social-engineering attempts in email. Patent or IP paralegal experience, including filing, docketing, office…",
+      "salary": "$4000/mo",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "Haven on the Queensway",
+      "title": "Director of Philanthropy",
+      "location": "Etobicoke, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333341218",
+      "date_posted": "2026-11-24",
+      "description": "A university degree in fundraising, nonprofit management, social services, business, or a related field; CFRE designation is an asset.",
+      "salary": "$75k–$85k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Etobicoke",
+      "geo_province": "ON",
+      "geo_lat": 43.6205,
+      "geo_lon": -79.5132,
+      "geo_distance_km": 13.5,
+      "geo_rank": 135,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "National Bank of Canada",
+      "title": "Senior Director, Enterprise Growth & Strategy",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333672413",
+      "date_posted": "2026-11-24",
+      "description": "Bachelor’s degree in business administration, finance, economics or a related field; a Master’s degree or MBA is considered an asset.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Viavi Solutions",
+      "title": "Director, Global Commodity (FPGA)",
+      "location": "Ottawa, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333496113",
+      "date_posted": "2026-11-24",
+      "description": "Develop and implement strategies for supply chain continuity and risk management, including identifying alternative sources and developing buffer stock plans.",
+      "salary": "$115k–$214k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Ottawa",
+      "geo_province": "ON",
+      "geo_lat": 45.4215,
+      "geo_lon": -75.6972,
+      "geo_distance_km": 349.5,
+      "geo_rank": 203495,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Industrial Electric Mfg.",
+      "title": "Director of Operations - Integrated Products",
+      "location": "Surrey, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333584869",
+      "date_posted": "2026-11-24",
+      "description": "Bachelor's degree in Engineering, Operations Management, Manufacturing, Business, or a related field required; master's degree, MBA, or equivalent advanced…",
+      "salary": "$165k–$210k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Surrey",
+      "geo_province": "BC",
+      "geo_lat": 49.1913,
+      "geo_lon": -122.849,
+      "geo_distance_km": 3336.8,
+      "geo_rank": 433368,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Allied Technical Solutions",
+      "title": "Director of Architectural Marketing & Specification - Spectrum",
+      "location": "Scarborough, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333367469",
+      "date_posted": "2026-11-24",
+      "description": "*Sales & Rep Enablement:* Partner with regional representatives across Canada to build scalable promotional tools (CEUs, Lunch & Learns, Product Demos) that…",
+      "salary": "$100k–$130k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Scarborough",
+      "geo_province": "ON",
+      "geo_lat": 43.7764,
+      "geo_lon": -79.2318,
+      "geo_distance_km": 15.3,
+      "geo_rank": 153,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Rubicon Organics",
+      "title": "Key Accounts Director (Vancouver or Toronto)",
+      "location": "Remote, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333469395",
+      "date_posted": "2026-11-24",
+      "description": "Work collaboratively with Sales Operations and Field Sales to assess return risk and secure additional programming to mitigate RTV, ensuring RTV value stays…",
+      "salary": "$120k–$150k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_arrangement": "Remote in-state eligible",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "BDO",
+      "title": "Director, Transaction Tax Services",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333771594",
+      "date_posted": "2026-11-24",
+      "description": "You have a demonstrated ability to assess complex tax issues, exercise sound professional judgment, and communicate practical advice to senior stakeholders.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "BMO Financial Group",
+      "title": "Director, Asset and Wealth Managers, TPS",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333654585",
+      "date_posted": "2026-11-24",
+      "description": "A recruiting agency must first have a valid, written and fully executed agency agreement contract for service to submit resumes.",
+      "salary": "$86k–$185k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Robert Half",
+      "title": "Director Financial Reporting",
+      "location": "Calgary, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333604680",
+      "date_posted": "2026-11-24",
+      "description": "Apply now to leverage your public reporting expertise in a highly visible leadership role where you can influence financial strategy, mentor finance teams, and…",
+      "salary": "$65–$85/hr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Calgary",
+      "geo_province": "AB",
+      "geo_lat": 51.0447,
+      "geo_lon": -114.0719,
+      "geo_distance_km": 2706.9,
+      "geo_rank": 427069,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Slalom",
+      "title": "Directeur(rice), Partenaire Client - Secteur Bancaire /Director, Client Partner - Banking",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333706489",
+      "date_posted": "2026-11-24",
+      "description": "Évoluer en zone grise : Servir de pont entre les capacités mondiales émergentes et les besoins immédiats des clients, en faisant preuve d'agilité pour mettre…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Director, Business Development Eastern Canada, Advisor Channel Sales",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010332536489",
+      "date_posted": "2026-11-22",
+      "description": "A world-class training program in financial services. As part of the ACS Leadership Team, you will help develop our strategy roadmap and implement our sales…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Independent Electricity System Operator",
+      "title": "Director, Engineering Studies",
+      "location": "Mississauga, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333597510",
+      "date_posted": "2026-11-24",
+      "description": "Develops and monitors risk mitigation plans on behalf of their Division regarding emerging threats to the reliability and operability of the electricity grid…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Shared Health",
+      "title": "Director - Clinical and Quality Pharmacy Standards",
+      "location": "Winnipeg, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333349642",
+      "date_posted": "2026-11-24",
+      "description": "Must have a valid driver’s license and use of a personal motor vehicle for regular travel within the province. Post-secondary degree in Pharmacy is required.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (MB)",
+      "geo_city": "Winnipeg",
+      "geo_province": "MB",
+      "geo_lat": 49.8951,
+      "geo_lon": -97.1384,
+      "geo_distance_km": 1510.5,
+      "geo_rank": 415105,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Ignition",
+      "title": "Global Director, Growth Marketing",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333707009",
+      "date_posted": "2026-11-24",
+      "description": "Manage and optimize the paid media budget across search, social and other CPC channels, quickly reallocating spend to the best-performing campaigns.",
+      "salary": "$160k–$200k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Scouts Canada",
+      "title": "Summer Camp Director, Camp Opemikon",
+      "location": "Kingston, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333309096",
+      "date_posted": "2026-11-24",
+      "description": "They will provide leadership to core business areas including risk management, managing staff and volunteers, program development and implementation; ensuring…",
+      "salary": "$31.81/hr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Kingston",
+      "geo_province": "ON",
+      "geo_lat": 44.2312,
+      "geo_lon": -76.486,
+      "geo_distance_km": 240.0,
+      "geo_rank": 202400,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Nova Scotia Health Authority (NSHA)",
+      "title": "Director",
+      "location": "Halifax, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333484153",
+      "date_posted": "2026-11-24",
+      "description": "The Clinical Transformation Director – Central Zone, provides leadership and oversight to the development of ongoing clinical operational work plans and…",
+      "salary": "$60.02–$73.53/hr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (NS)",
+      "geo_city": "Halifax",
+      "geo_province": "NS",
+      "geo_lat": 44.6488,
+      "geo_lon": -63.5752,
+      "geo_distance_km": 1264.0,
+      "geo_rank": 412640,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "TORONTO INTERNATIONAL FILM FESTIVAL",
+      "title": "Director, Board Relations",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333749974",
+      "date_posted": "2026-11-24",
+      "description": "Support appropriate Board engagement with institutional partners, donors, community leaders and other external stakeholders, in coordination with the relevant…",
+      "salary": "$90k–$130k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Arctic Inspiration Prize",
+      "title": "Chief Executive Officer",
+      "location": "Remote, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333509917",
+      "date_posted": "2026-11-24",
+      "description": "Oversee the development and implementation of a multi-year communications plan outlining key communication vehicles and events for broad community awareness and…",
+      "salary": "$87.50/hr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_arrangement": "Remote in-state eligible",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "Rural Municipality of Wallace-Woodworth",
+      "title": "Assistant Chief Administrative Officer",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010333383846",
+      "date_posted": "2026-11-24",
+      "description": "Maintain strong community partnerships with residents, local business, industry, other municipalities, government, and non-. The ACAO will serve as a.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T02:57:59Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Viral Nation",
       "title": "VP, Social Commerce",
@@ -10,7 +687,7 @@
       "company_url": "https://ca.indeed.com/cmp/Viral-Nation",
       "date_posted": "2026-11-23",
       "description": "At **Viral Nation,** we specialize in building social\\-first ecosystems for brands to connect with the modern consumer journey. Our integrated solutions align strategy, talent, media, and technology with culturally relevant creativity to scale the world's fastest\\-growing digital brands. Viral Nation offers a fluid, creative, and growth\\-oriented environment that will support your ambitions to apply your talents in an open, collaborative, and fast\\-paced culture. Our ability to stay at the forefront of the industry has fuelled our success and will guide us in paving the path forward. We're driven to push boundaries and think beyond today to deliver strategies, and we're just getting started.\n\n\n\nWhile we continuously exceed our goals, we need your help – our success is only as great as our people. Strong performance leads to high expectations, and we must keep raising the bar!\n\n\nViral Nation is seeking a **Vice President, Social Commerce** to build and lead our social commerce practice. You'll turn enterprise demand into creator\\-led commerce programs that Viral Nation can sell, deliver and scale profitably.\n\n\n\nStart with a creator affiliate and build on our existing TikTok Shop work. Choose the right path to purchase for each client: retailer or marketplace affiliate, direct\\-to\\-consumer commerce, or in\\-platform checkout. Base that choice on the product, shopper behaviour, unit economics and the client's existing retail and ecommerce partnerships.\n\n\n\nYou'll lead the commerce work from the investment recommendation through launch and the decision to scale. Decide what Viral Nation should build, where partners are better placed to deliver, and when to hold off.\n\n\n**Responsibilities:**\n\n\n### **Lead social commerce strategy**\n\n\n* **Set the direction** for the practice, including the services we sell, how we staff them and what we need to deliver them well.\n* **Choose the right path to purchase** across retailer and marketplace affiliate, direct\\-to\\-consumer programs and native checkout, including TikTok Shop.\n* **Assess launch readiness** across product margin, offer, inventory, fulfillment, returns, client approvals and access to usable data.\n* **Shape programs around the client** by connecting creator content and paid amplification to the point of purchase. Define how the work fits alongside existing partners.\n\n### **Advise clients and shape opportunities**\n\n\n* **Lead senior client conversations** on launch readiness, investment and learning goals.\n* **Qualify opportunities** with Growth and Client Services, and build a pipeline of pilots with a credible path to recurring revenue.\n* **Price and staff the work** with Growth and Finance, with clear scope, delivery capacity and margin expectations before we commit.\n* **Recommend where to invest** based on acquisition, sales and contribution, and be willing to recommend against a channel when the economics don't work.\n\n### **Build the offering and guide delivery**\n\n\n* **Build repeatable delivery playbooks** for creator recruitment and activation, incentives, tracking, approvals, disclosures and payout reconciliation.\n* **Lead the commerce workstream** with Client Services, Strategy, Creator Relations, Creative, Paid Media and Analytics. Define who owns each handoff and escalation.\n* **Apply SocialAI and VN Secure** to identify creators and content that fit target shoppers and to support brand safety vetting. Use campaign data to test which combinations drive purchases.\n* **Choose tools and partners** based on creator reach, workflow, data access and cost. Brands or partners own inventory, fulfillment and returns unless the scope of work explicitly assigns them to Viral Nation.\n* **Develop the team** and identify the specialist capacity we need to deliver reliably as the practice grows.\n\n### **Drive measurable performance and learning**\n\n\n* **Measure client outcomes** with Analytics and Finance. Track net sales after returns, customer acquisition or repeat purchase as relevant, and client contribution after relevant costs such as creator incentives, fees and media spend.\n* **Separate attributed sales from incremental impact** and design tests with Analytics to estimate lift where the data and program allow it.\n* **Decide what to scale, refine or stop** based on performance, commercial contribution and operational readiness.\n* **Track the health of the practice** through qualified pipeline, pilot conversion, recurring revenue and delivery margin.\n\n\n**Skills and Qualifications:**\n\n\n* Senior experience building and running creator commerce programs through launch and optimization, with direct accountability for results.\n* Deep creator affiliate expertise and direct responsibility for launching or operating TikTok Shop.\n* Experience choosing between retailer or marketplace affiliate, brand\\-owned commerce and native checkout, and working with existing partners.\n* A track record of turning a client opportunity into a business case, then leading delivery and using the results to decide what to scale.\n* Strong commercial judgment across commissions, discounts, creator compensation, media, returns, acquisition cost and contribution margin.\n* Credibility with senior clients and the ability to lead discovery, pitches and performance discussions.\n* Experience building a team or service and mobilizing specialists across functions.\n* Ability to diagnose delivery issues and make clear trade\\-offs across client, creator and partner teams.\n* Experience across multiple brands, categories or markets is an asset.\n\n\n**What success looks like**\n\n\n* In the first 30 days, map the pipeline, existing delivery capabilities and partners. Identify what we can launch, what needs support and what to decline.\n* By day 60, give Growth and Client Services a costed affiliate\\-first offer and a TikTok Shop option for clients that meet launch criteria. Define staffing, handoffs and the pilot scorecard.\n* By day 90, have a staffed pilot ready to launch, with tracking, approvals",
-      "salary": "",
+      "salary": "$170k–$200k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
@@ -32,7 +709,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333712279"
+      ]
     },
     {
       "company": "GraceMed",
@@ -65,7 +745,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333757422"
+      ]
     },
     {
       "company": "Scotiabank",
@@ -98,7 +781,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333726283"
+      ]
     },
     {
       "company": "Optum",
@@ -109,7 +795,7 @@
       "company_url": "https://ca.indeed.com/cmp/Optum",
       "date_posted": "2026-11-23",
       "description": "Optum Tech is a global leader in health care innovation. Our teams develop cutting\\-edge solutions that help people live healthier lives and help make the health system work better for everyone. From advanced data analytics and AI to cybersecurity, we use innovative approaches to solve some of health care's most complex challenges. Your contributions here have the potential to change lives. Ready to build the next breakthrough? Join us in making healthcare work better for everyone through people\\-led, responsible AI while **Caring. Connecting. Growing together.**\n\n  \n\nWithin Enterprise Insight Engineering and Enterprise Imaging, the Stratus Imaging Archive (SI Archive) serves as Optum's cloud\\-native Vendor Neutral Archive (VNA) and the foundation of our Enterprise Imaging strategy. We are seeking a Director of Software Engineering to own SI Archive end to end and scale it into the market\\-leading cloud VNA\\-expanding our customer footprint, leading complex cloud migrations, and embedding AI capabilities into both our imaging platform and our engineering workflows on Google Cloud.\n\n  \n\nYou'll enjoy the flexibility to work remotely \\* from anywhere within Canada (except for the Saskatchewan province) as you take on some tough challenges.\n\n **Primary Responsibilities:**\n\n* Own and drive the SI Archive VNA product, partnering with Product Management to set the engineering strategy, roadmap, and execution plans while providing coaching and mentorship across engineering teams\n* Define and execute strategic technical initiatives that expand VNA capabilities, customer footprint, and revenue, including DICOM and non\\-DICOM ingestion, lifecycle management, routing, image exchange, and interoperability (DICOMweb, HL7, FHIR, IHE)\n* Oversee large\\-scale engineering programs, including PACS and archive migrations and new\\-customer onboarding, ensuring compliance (QARA), system quality, architectural integrity, budgets, and delivery timelines are consistently met\n* Balance customer commitments, product roadmap priorities, operational reliability, and technical modernization while owning the availability, performance, security, and cloud cost of a petabyte\\-scale archive on Google Cloud backed by solid SLOs, observability, and disaster recovery\n* Design, develop, and deploy AI\\-powered solutions that make SI Archive AI\\-ready (governed, de\\-identified imaging data, AI orchestration, intelligent search), with a solid emphasis on responsible AI practices\n* Use enterprise\\-approved AI tools across the SDLC to streamline workflows, automate routine processes, and drive continuous improvement in engineering velocity and quality, while reviewing AI\\-assisted and software outputs for accuracy, security, and performance\n* Evaluate emerging imaging, cloud, and AI trends to inform solution design, system resilience, and strategic innovation, and represent SI Archive engineering with customers and senior leadership from executive briefings to escalations\n* Foster a culture of technical rigor, collaboration, and high standards by hiring, developing, and growing a high\\-performing organization of engineering managers and engineers\n\n  \n\nYou'll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.\n\n**Required Qualifications:**\n\n* 10\\+ years of software engineering experience, including 5\\+ years of progressive leadership managing large, distributed teams (20\\+) and delivering complex, large\\-scale software solutions\n* Hands\\-on experience designing, building, and operating scalable, cloud\\-native software platforms on GCP, AWS, or Azure\n* Demonstrated experience delivering AI\\-enabled capabilities in a product or leading AI adoption across an engineering organization\n* Working knowledge of DICOM, DICOMweb, HL7, FHIR, and IHE standards\n* Proven track record of partnering with Product Management on product roadmaps, execution, project timelines, engineering budgets, and quality/compliance standards\n\n **Preferred Qualifications:**\n\n* Hands\\-on experience with Google Cloud Platform (GCP)\n* Experience with large\\-scale imaging data migrations and enterprise customer onboarding\n* Experience implementing Agentic AI at enterprise scale, such as de\\-identification, AI orchestration, or model\\-ready data pipelines\n* Engineering leadership experience for a VNA, PACS, or enterprise imaging product\n* Demonstrated leadership capability in building high\\-performing engineering teams and coaching, mentoring, and developing technical talent and leaders\n\n* All employees working remotely will be required to adhere to UnitedHealth Group's Telecommuter Policy\n\n **Canada Residents Only:** The salary range for Canada residents is $127,500 \\- $264,700 annually. Pay is based on several factors including but not limited to education, work experience, certifications, etc.\n\n *At UnitedHealth Group, our mission is to help people live healthier lives and help make the health system work better for everyone. Together, we are shaping the future of healthcare by harnessing technology and innovation to make care simpler to navigate, more affordable and more connected for the people we serve. We are committed to creating an inclusive workplace where everyone feels welcomed, valued, heard and respected, empowering people to bring their authentic selves to work and strengthening our collective impact through diverse talents, backgrounds, experiences and perspectives.*",
-      "salary": "",
+      "salary": "$128k–$265k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -131,7 +817,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333694445"
+      ]
     },
     {
       "company": "Ignition",
@@ -657,7 +1346,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333611804"
+      ]
     },
     {
       "company": "Hudbay Minerals",
@@ -690,7 +1382,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333616630"
+      ]
     },
     {
       "company": "CPP Investments | Investissements RPC",
@@ -723,7 +1418,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333614772"
+      ]
     },
     {
       "company": "BMO Financial Group",
@@ -734,7 +1432,7 @@
       "company_url": "https://ca.indeed.com/cmp/Bmo-Financial-Group",
       "date_posted": "2026-11-23",
       "description": "Application Deadline:\n\n\n12/03/2026\nAddress:\n\n\n100 King Street West\nJob Family Group:\n\n\nAsset Mgmt Sales \\& Service\n### **Job Summary**\n\nThe Director, Institutional Sales \\& Service – Central Canada, is responsible for developing and managing institutional client relationships across the assigned territory, **with a primary focus on Ontario** . The role focuses on supporting BMO Global Asset Management’s institutional clients and prospects through business development, relationship management, and investment education.\n\n\nA key component of the position includes developing and deepening relationships across the institutional market, including pension plans, foundations and endowments, municipalities and other public\\-sector organizations, Indigenous organizations, family offices, and other institutional investors, while also engaging with investment consultants and professional advisors.\n\n\nThis role combines institutional business development, relationship management, and client servicing responsibilities, with an emphasis on building long\\-term partnerships and delivering investment solutions aligned with clients’ governance frameworks and long\\-term investment objectives. The successful candidate will work closely with portfolio managers and internal specialists to deliver investment insights, client education, and tailored investment solutions.\n\n\n### **Key Responsibilities**\n\n**Institutional Client Coverage**\n\nDevelop and maintain relationships with institutional clients and prospects across the assigned territory, **primarily Ontario** . Provide ongoing relationship management, including investment updates, portfolio reviews, and client education sessions in collaboration with portfolio managers and specialists. Support client onboarding and ensure a high standard of ongoing service.\n\n\n**Business Development**\n\nIdentify and pursue new institutional opportunities across the assigned territory. Participate in business development initiatives, including prospect and client meetings, presentations, and finalist discussions. Support responses to RFPs and other client inquiries and assist with the implementation of new investment mandates.\n\n\n**Investment Consultant Engagement**\n\nDevelop and maintain relationships with investment consultants and other professional advisors involved in institutional investment decisions. Ensure BMO Global Asset Management’s investment strategies and capabilities are effectively represented in consultant discussions and reviews.\n\n\n**Client Education and Thought Leadership**\n\nDeliver investment education and market insights to institutional clients and stakeholders. Provide guidance on topics such as asset allocation, portfolio construction, and long\\-term investment strategy.\n\n\n**Market Awareness**\n\nMaintain a strong understanding of the **Central Canadian institutional market, with particular emphasis on Ontario** , competitive dynamics, and emerging client needs. Provide feedback and insights to senior leadership to support strategic planning and product positioning.\n\n\n**Internal Collaboration**\n\nWork closely with portfolio managers, product specialists, and internal partners to ensure clients receive coordinated support and access to BMO’s broader capabilities. Maintain accurate client and pipeline activity in Salesforce and contribute to regional planning initiatives.\n\n\n### **Qualifications**\n\n* Undergraduate degree in finance, economics, business, or a related field.\n* CFA Charterholder or CIM designation preferred.\n* Must be eligible to obtain Exempt Market Dealer (EMD) licensing.\n* Minimum 7–10 years of experience in institutional asset management, institutional business development, or investment advisory.\n* Strong understanding of institutional investment strategies, asset allocation, and portfolio construction.\n* Experience working with institutional investors such as pension plans, foundations, endowments, municipalities and other public\\-sector organizations, Indigenous communities or organizations, and family offices is an asset.\n* Existing relationships and familiarity with institutional investors, investment consultants, and other stakeholders **across Ontario and Central Canada** would be an asset.\n\n### **Working Conditions**\n\n**Location: Central Canada, with a primary focus on Ontario**\n\nThis role requires regular travel throughout the assigned territory to support client engagement, relationship management, and business development activities.\n\n\n**Salary** **:**\n\n$105,000\\.00 \\- $215,000\\.00\n**Pay Type:**\n\nSalaried\nThe above represents BMO Financial Group’s pay range and type.\n\n\nSalaries will vary based on factors such as location, skills, experience, education, and qualifications for the role, and may include a commission structure. Salaries for part\\-time roles will be pro\\-rated based on number of hours regularly worked. For commission roles, the salary listed above represents BMO Financial Group’s expected target for the first year in this position.\n\n\nBMO Financial Group’s total compensation package will vary based on the pay type of the position and may include performance\\-based incentives, discretionary bonuses, as well as other perks and rewards. BMO also offers health insurance, tuition reimbursement, accident and life insurance, and retirement savings plans. To view more details of our benefits, please visit: https://jobs.bmo.com/global/en/Total\\-Rewards\n\n\n**About Us**\n\nAt BMO we are driven by a shared Purpose: Boldly Grow the Good in business and life. It calls on us to create lasting, positive change for our customers, our communities and our people. By working together, innovating and pushing boundaries, we transform lives and businesses, and power economic growth around the world.\n\n\nAs a member of the BMO team you are valued, respected and heard, and you have more ways to grow and make an impact. We strive to help you make an impact from day one – for yourself and our customers. We’ll support you with the tools and resources you ",
-      "salary": "",
+      "salary": "$105k–$215k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -756,7 +1454,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "100 King Street West",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333654495"
+      ]
     },
     {
       "company": "MedixSafe Inc",
@@ -767,7 +1468,7 @@
       "company_url": "https://ca.indeed.com/cmp/Medixsafe-Inc",
       "date_posted": "2026-11-23",
       "description": "**Director of Marketing — Job Description**\n\n**MedixSafe \\| Full\\-Time \\| Reports to the President**\n\n*This role is hybrid and will require you to work in office up to 3 days per week.*\n\n**About MedixSafe**\n\nMedixSafe provides secure medication storage and narcotics tracking for EMS agencies, fire departments, hospitals, and healthcare organizations. Our intelligent security hardware and cloud software help organizations store, track, and audit controlled substances safely and in compliance with regulatory requirements.\n\nNew DEA regulations are changing how EMS agencies handle controlled substances, and our newest product extension delivers vial\\-level tracking without disrupting medic workflow. We are scaling, and we need a marketing leader to make MedixSafe the category leader in controlled substance compliance and inventory intelligence.\n\n**The Role**\n\nThe Director of Marketing owns MedixSafe's marketing strategy, pipeline generation, and category positioning, and is accountable for marketing's contribution to revenue. You will turn regulatory change and operational risk into messaging that drives demand from enterprise EMS agencies, fire departments, and healthcare systems.\n\n**This is a hands\\-on leadership role in a lean team.** You will work directly with the President and Sales, and lead a Marketing Coordinator who you will share day\\-to\\-day execution and marketing operations (the Coordinator also supports Customer Activation). AI is central to how we operate: we use tools like Claude daily and expect you to build a function that does more with less.\n\n**What You'll Own**\n\n**Strategy, Positioning \\& Category Leadership**\n\n* Set the marketing strategy, plan, and budget, prioritized against revenue goals.\n* Define and communicate our value proposition \\- in close collaboration with our CTO who also leads Product\n* Lead competitive positioning and educate EMS and healthcare leadership on regulatory change and medication diversion risk.\n* Build executive thought leadership through speaking, industry research and benchmarking, and analyst and media engagement.\n\n**Demand Generation \\& Pipeline**\n\n* Build a scalable demand engine, including account\\-based marketing for large EMS agencies and multi\\-site healthcare organizations.\n* Own paid and organic acquisition: our established Google Ads program, the launch of Meta Ads, SEO, and Answer Engine Optimization (AEO) for AI\\-powered search.\n* Lead integrated campaigns across content, email nurture, webinars, events, and channel partners.\n* Own HubSpot strategy, attribution, and reporting on pipeline, cost per lead, and ROI.\n\n**Product Launch \\& Sales Enablement**\n\n* Lead positioning, messaging, and launch campaigns for new products, including vial\\-level tracking.\n* Equip sales with playbooks, battlecards, enterprise collateral, ROI tools, and case studies that shorten deal cycles.\n* Set conference and trade show strategy and measure what each event returns.\n\n**Team \\& AI\\-Enabled Operations**\n\n* Lead and develop the Marketing Coordinator, who executes campaigns, webinar production, event logistics, website and HubSpot updates, and Canva asset creation.\n* Build AI\\-assisted workflows and automation so a lean team delivers high output while protecting accuracy, brand consistency, and customer data.\n* Manage agencies and vendors where specialist help is needed.\n\n**How Success Is Measured**\n\n* Growth in marketing\\-sourced pipeline, especially enterprise opportunities.\n* Cost\\-efficient customer acquisition and faster sales cycles.\n* Market recognition as the leader in controlled substance compliance.\n\n**What You Bring**\n\n**Required**\n\n* 5–10 years of B2B marketing experience, including ownership of pipeline targets and a marketing budget.\n* A track record building demand programs, ABM, and product launches that supported enterprise sales teams.\n* Hands\\-on command of digital performance marketing: Google Ads, SEO, conversion tracking, and campaign analytics.\n* Advanced HubSpot experience across campaigns, automation, lead management, and reporting.\n* Experience directing or mentoring at least one marketer, coordinator, or agency\n* Ability to turn complex regulatory topics into simple, compelling messaging, with strong writing and a sharp eye for on\\-brand design.\n* Practical, daily use of AI tools such as Claude or ChatGPT to raise productivity and quality.\n\n**Preferred**\n\n* Experience marketing hardware plus SaaS, IoT, or medical technology.\n* Experience in regulated markets such as healthcare, compliance, or public safety.\n* Experience with Meta Ads, AEO, GA4, Google Search Console, and Google Tag Manager.\n* Experience running webinar programs, trade shows, and channel partner marketing.\n\n**How You Work**\n\n* Entrepreneurial and hands\\-on: you set the plan and roll up your sleeves to execute it.\n* Analytical and outcome\\-driven, with decisions grounded in data.\n* Collaborative with sales leadership and comfortable in a scaling company.\n* Curious about AI, emerging search, and new ways to get more from a lean team.\n\n**Why MedixSafe**\n\n* **Meaningful work.** Our technology safeguards critical medications and supports the people delivering lifesaving care.\n* **Real ownership.** You report to the President and shape the strategy, the plan, and the team.\n* **A running start.** You inherit proven programs, including a performing Google Ads engine, monthly webinars, and an industry event presence, plus a Coordinator to help execute.\n* **A category\\-defining moment.** New DEA rules and our vial\\-level tracking launch give you a rare chance to define how the market thinks about controlled substance compliance.\n\nIf you are a strategic, hands\\-on marketer who turns regulatory change into pipeline, we would like to hear from you.\n\nPay: $115,000\\.00\\-$125,000\\.00 per year\n\nBenefits:\n\n* Casual dress\n* Company events\n* Dental care\n* Discounted or free food\n* Employee assistance program\n* Extended health care\n* On\\-site parking\n* Paid time off\n* Work from ho",
-      "salary": "",
+      "salary": "$115k–$125k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -789,7 +1490,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333636883"
+      ]
     },
     {
       "company": "Ericsson",
@@ -1038,20 +1742,24 @@
       "ats": "LinkedIn",
       "description": "The Director, Data Management will have overall responsibility for the Data Management team, including Clinical Data Managers, Clinical Data Coordinators, Clinical Study Builders and Clinical Data Coders.\n\nThe Director, Data Management, will provide strategic leadership and oversight of data management resources, processes, and deliverables, ensuring the quality, integrity, and timely delivery of clinical trial data.\n\nThe Director, Data Management will oversee and participate in all clinical data management activities required to ensure that data captured in clinical trials undertaken, or managed by Indero, are collected, managed and reported clearly, accurately and securely. In addition, this position is required to conduct all these activities in conformance with applicable regulatory requirements, industry guidelines and Indero’s SOP while respecting Indero’s commitment to sponsor’s requirements and timelines.\n\nMore specifically, the Director, Data Management must:\n\nStrategic Leadership and Collaboration\n\nInspire, lead and develop all functions within Data Management by helping to formulate a clear vision for the future and attracting and retaining top talent.\nDefine and drive the Data Management strategy and roadmap, including innovation, standardization and automation initiatives that support the company’s business objectives.\nCollaborate with Biostatistics, Risk-Based Study Management, Project Management and other function leaders to align strategies, processes and tools, and to ensure integrated delivery of clinical trial data.\nRepresent Data Management in sponsor and client meetings and manage the escalation of study risks and issues related to Data Management deliverables.\nMonitor industry trends and regulatory changes in clinical data management.\nProvide leadership and accountability to study teams assigned to the dedicated client portfolio.\n\nPeople and Resource Management\n\nProvide direct oversight of data management operations, including planning and assigning work, overseeing the performance of direct reports and conducting performance reviews.\nEvaluate the performance of assigned project personnel.\nOversee and provide ongoing training/mentoring to data management and programming staff and review/approve documentation generated by staff, as necessary.\nEnsure that all trainings assigned to oneself and to direct and indirect reports are completed on time, and provide direct and indirect reports with appropriate support.\nOversee resource allocation for Data Management activities across clinical trials and internal initiatives.\nLead the development of flexible resourcing strategies, including internal and external resources, to meet the evolving demands of the company.\nAdhere to and promote company values and related expected behaviors and follow company SOPs and processes for all deliverables.\n\nFinancial Management and Oversight\n\nOversee budget and resources allocated for Data Management.\nLead the annual Data Management budget planning.\nBe responsible for the operational and financial health of Data Management-supported clinical trials by monitoring key operational metrics and supporting budget oversight and forecasting.\nParticipate in the review of Master Service Agreements (MSA) and work orders with external service providers, process and track payment requests to ensure accordance with the budget and the needs of the study.\nDevelop Work Orders with external service providers, process and track payment requests to ensure accordance with the budget and the needs of the study.\nOversee activities performed by external service providers to ensure they are done in accordance with effective Work Orders, applicable regulations and Indero SOPs (if applicable).\nOversee the selection, implementation and ongoing management of Data Management systems (e.g., EDC) and strategic technology vendors.\n\nOperational Excellence, Quality and Compliance\n\nOversee development and optimization of Data Management processes with specific focus on efficiency and quality, while maintaining or exceeding industry best practices.\nDefine, analyze and monitor Data Management key performance indicators (KPIs) and quality metrics to ensure quality, compliance and timely delivery, and report on performance to senior leadership.\nEnsure that Data Management standards, SOPs, processes and trainings are aligned with applicable ICH-GCP guidelines, regulatory authority requirements and industry best practices.\nOversee the definition, writing and updating of data management SOPs.\nMonitor timelines and ensure that data management deadlines are met.\n\nClinical Data Management Delivery\n\nProvide escalation support and expertise to project teams, sponsors and external vendors on complex data management matters, as needed.\nProvide support and close oversight to data management team activities for clinical trials from the development of study protocols to the completion of study reports.\nOversee the development of eCRF specifications (including data capture screens and edit check specifications) needed to build a study-specific clinical database/electronic data capture (EDC) system.\nOversee the programming and ongoing maintenance of the clinical database.\nOversee the validation and testing of the clinical database e.g. User Acceptance Testing.\nOversee the development of eCRF completion guidelines and other training material required to train site users and monitors.\nOversee the development of data transfer agreements and specifications with vendors providing external data (e.g. laboratory results).\nOversee the review/development of the data management plan (DMP), and other clinical data management related documentation.\nOversee ongoing data review/cleaning during study conduct.\nEnsure that data management documentation is complete and up-to-date in the eTMF.\nOversee the archiving of the clinical database and related documents.\n\nEmployee may be assigned to other responsibilities that do not pertain to their former description, if they have the required experience, are qualified and/or have received adequate training.\n\nRequirements:\n\nB.Sc. or M.Sc., or related field;\nMinimum of 8 years of leadership experience, plus at least 15 years of clinical trials experience in biotechnology, pharmaceutical or CRO industry.\nProven experience leading and developing data management teams and managing multiple studies and sponsor portfolios.\nDemonstrated experience leading global or cross-functional initiatives and influencing strategy across multiple stakeholders.\nExperience with budget planning and resource management, including the oversight of external vendors.\nExperience in the setup, validation and oversight of EDC systems and other clinical data systems.\nExperience supporting sponsor audits and regulatory inspections is an asset.\nStrong knowledge of ICH-GCP, CDISC standards (CDASH, SDTM), and applicable data protection regulations.\nStrategic thinking, with the ability to define a vision and translate it into operational plans.\nStrong leadership and coaching skills, with the ability to teach, train and mentor employees at all levels.\nExcellent communication and stakeholder management skills, with the ability to influence at all levels of the organization and with external stakeholders in a matrix, cross-functional environment.\nStrong organizational and planning skills, with the ability to prioritize multiple competing demands in a fast-paced environment.\nSound judgment, problem-solving and decision-making skills.\nExcellent verbal and written communication skills in English; French is an asset.\nGood knowledge of good clinical practices, and applicable Health Canada and Food and Drug Administration (FDA) regulations/guidelines.\n\nOur company:\n\nAt Indero, you will work with brilliant and driven colleagues. Our values are collaboration, innovation, reliability and responsiveness. We offer a stimulating work environment and attractive advancement opportunities.\n\nIn this position, you will be eligible for the following perks:\n\nPermanent full-time position\nFlexible schedule\nVacation\nHome-based position\nOngoing learning and development\n\n﻿About Indero\n\nA Global Clinical Leader In Dermatology!\n\n﻿Formerly known as Innovaderm, Indero is a world-renowned expert and clinical research leader in dermatology. We have more than two decades of experience serving a broad range of indications, patient populations, administration routes, and drug classes, and a global footprint.\n\n﻿Indero is a dual-focus CRO for dermatology and rheumatology, with 25+ years’ experience in clinical research and trial delivery. Our full-service approach – which includes everything from protocol design and patient recruitment to trial monitoring and biometrics – provides biotech and pharmaceutical sponsors with the rigorous scientific foundation and tailored expertise their studies need to reach the finish line efficiently and effectively. With capabilities in North America, Europe, Asia Pacific and Latin America; vast, continuously growing relationships with investigators and patients; and a dedicated research clinic through which we design and execute our own studies, Indero is the ideal CRO partner for clinical needs at global scale.\n\n﻿Indero is committed to providing equitable treatment and equal opportunity to all individuals. As such, Indero will provide accommodations throughout the recruitment and selection process to applicants with disabilities, upon request.\n\n﻿Indero only accepts applicants who can legally work in Canada.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nResearch Services",
       "first_seen": "2026-11-23T22:47:05Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (QC)",
       "geo_city": "Montreal",
       "geo_province": "QC",
       "geo_lat": 45.5019,
       "geo_lon": -73.5674,
       "geo_distance_km": 502.6,
-      "geo_rank": 405026,
+      "geo_rank": 305026,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333571354"
+      ]
     },
     {
       "company": "Chartiers Capital Group",
@@ -1126,7 +1834,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333668439"
+      ]
     },
     {
       "company": "Zazu Digital Talent",
@@ -1176,7 +1887,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333668971"
+      ]
     },
     {
       "company": "Facile Futures",
@@ -1398,6 +2112,7 @@
       "geo_version": 1,
       "salary": "$245,000—$258,500",
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333665380",
         "https://www.linkedin.com/jobs/view/4493910928/"
       ]
     },
@@ -1538,7 +2253,7 @@
       "req_id": "",
       "date_posted": "2026-11-23",
       "date_seen": "2026-11-23T22:21:08Z",
-      "description": "",
+      "description": "Strategic customers have clear account plans, governance cadences, stakeholder. Experience managing large enterprise customers with complex stakeholder groups.",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -1558,7 +2273,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333540760"
+      ]
     },
     {
       "company": "Qualio",
@@ -1600,27 +2318,32 @@
       "req_id": "",
       "date_posted": "2026-11-23",
       "date_seen": "2026-11-23T22:21:10Z",
-      "description": "",
+      "description": "10+ years of experience in channel partnerships, strategic alliances, ecosystem development, business development, or enterprise software, with meaningful…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
       "source": "company_portal",
       "archetype": "D",
       "first_seen": "2026-11-23T22:21:46Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Toronto",
-      "geo_label": "Toronto",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Toronto",
       "geo_province": "ON",
       "geo_lat": 43.6532,
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
-      "geo_rank": 61,
+      "geo_rank": 300061,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$125k–$135k/yr",
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333480687"
+      ]
     },
     {
       "company": "GS1 Canada",
@@ -1662,7 +2385,7 @@
       "req_id": "",
       "date_posted": "2026-11-23",
       "date_seen": "2026-11-23T22:21:27Z",
-      "description": "",
+      "description": "Master's degree in computer science or a related field. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -1682,7 +2405,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$121k–$171k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333590889"
+      ]
     },
     {
       "company": "Citi",
@@ -1693,7 +2420,7 @@
       "req_id": "",
       "date_posted": "2026-11-23",
       "date_seen": "2026-11-23T22:21:27Z",
-      "description": "",
+      "description": "Bachelor’s degree/University degree or equivalent experience. Appropriately assess risk when business decisions are made, demonstrating particular consideration…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -1713,7 +2440,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$121k–$171k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333591757"
+      ]
     },
     {
       "company": "Cytel",
@@ -1853,7 +2584,7 @@
       "company_url": "https://ca.indeed.com/cmp/Equinix",
       "date_posted": "2026-11-23",
       "description": "### **Director, Workforce Insight Solutions \\& Product Strategy**\n\n\n* JR\\-164799\n* Hybrid\n* Toronto\n* General Management\n* Full time\n**Who are we?**\n\n\nEquinix is the world’s digital infrastructure company®, shortening the path to connectivity to enable the innovations that enrich our work, life and planet.\n\n\nA place where bold ideas are welcomed, human connection is valued, and everyone has the opportunity to shape their future.\nA career at Equinix means being at the center of shaping what comes next and amplifying customer value through innovation and impact. You’ll work across teams, influence key decisions, and help shape the path forward. You’ll find belonging, purpose, and a team that welcomes you—because when you feel valued, you’re empowered to do your best work.\n**Job Summary**  \n\nThe Workforce Insight Solutions Leader is accountable for the full lifecycle of the Workforce Insight product portfolio, from identified need through build on Helix to measured adoption by leaders across all functions and regions. The role is the single global owner of workforce insight products for Equinix. The portfolio includes cross\\-domain leadership products that combine People data with business data. The role leads the insight consulting relationship with TPT Functions, runs the Insight Solutions delivery engine (intake, requirements, portfolio, roadmap and standards) and owns the product build and people\\-domain data strategy in direct partnership with DIO. It sets the AI analytics strategy for the portfolio, which is how insight products progress from descriptive reporting towards assisted, conversational and agentic insight, and is accountable to People leadership for the portfolio’s contribution to the Future Ready Team’s outcomes.\n  \n\n  \n\n**Responsibilities**  \n\nProduct \\& Portfolio Strategy\n\n\n* Own the Workforce Insight product portfolio: set the roadmap, prioritisation logic and sunset decisions, anchored to measurable use, impact and outcomes\n* Define and execute the AI analytics strategy for the portfolio, including the view on how insight products move from dashboards to AI\\-assisted, conversational and agentic delivery, and the sequence to get there\n* Define and enforce the WFI product standard (definitions, design patterns, access model, release discipline) so that every product in the portfolio is recognisably one family\n* Own the productisation path for Workforce Decision Intelligence and Equinix Brain outputs\n* Make build, buy or partner decisions on tooling and platforms for the insight product stack, in concert with People Tech Ops and EDNA teams\n\nManage the capacity plan, tooling budget and contingent and vendor resources for the engine, including the people\\-domain engineering capacity shared with DIO  \n* \n\nInsight Partnering (TPT Functions)\n\n\n* Lead the team of TPT Insight Partners in working with senior HR leaders to identify their workforce insight needs, assess those needs against existing products and execute a plan to close the gaps\n* Shape demand into a coherent portfolio\n* Own measurement design for People programmes\n* Lead the development and delivery of cross\\-domain workforce insight products\n\nPartner with WFI and People Strategy leaders and FPT Insight Partners to shape the portfolio  \n* \n\nProduct Build \\& Data Foundations\n\n\n* Lead the DevOps capability that builds insight products on Helix\n* Act as business owner of the people\\-domain data strategy and Helix ingestion roadmap\n* Own People data quality and governance standards for insight products\n* Represent Workforce Insights as the accountable partner to DIO, People Tech Ops and EDNA\n  \n\n  \n\nAdoption \\& Feedback Loop\n\n\n* Design and run a continuous feedback and prioritisation loop\n* Embed agile and design\\-thinking practice across the engine\n* Own product marketing and enablement for the portfolio\n* Accountable to the People Leadership Team for portfolio health\n  \n\n  \n\nTeam Leadership\n\n\n* Lead and develop a globally distributed, multi\\-disciplinary team plus contingent and vendor resources\n* Build a diverse, inclusive, product\\-minded team culture and coach the wider WFI team\n  \n\n  \n\n**Qualifications**\n\n\nKnowledge and Experience\n\n\n* Significant experience in analytics, people analytics or data products, including leading teams\n* Proven ownership of a product portfolio at enterprise scale\n* Track record as a trusted consultant to senior HR or business leaders\n* Experience directing a build team on a modern cloud data platform\n* Applied experience bringing GenAI and LLM capability into analytics products\n* Working knowledge of data governance, data quality and access models for sensitive people data\n* Bachelor’s degree in a quantitative or relevant discipline; Master’s preferred\n  \n\n  \n\nSkills \\& Attributes\n\n\n* Product leadership, with discovery, design thinking, agile delivery and outcome measurement as established working practice\n* Business and financial acumen\n* Technically credible with engineers and data platform leaders without needing to build personally\n* Strong stakeholder leadership across HR, IT and enterprise data functions\n* Clear, concise communicator of complex data\\-driven insight to senior HR and business leaders\n* Comfortable operating at portfolio level under ambiguity and able to establish an operating rhythm where none exists\n\nThe targeted pay range for this position in the following location is / locations are:\n\n\nCanada \\- Toronto Office TRO : 158,000 \\- 236,000 CAD / Annual\n\n\nOur pay ranges reflect the minimum and maximum target for new hire pay for the full\\-time position determined by role, level, and location.**The pay range shown is based on our compensation structure in place at the time of posting and may be updated periodically based on business needs.** Individual pay is based on additional factors including job\\-related skills, experience, and relevant education and/or training.\n\n\nThe targeted pay range listed reflects the base pay only and does not include bonus, equity, or benefi",
-      "salary": "",
+      "salary": "$158k–$236k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -1875,7 +2606,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333539652"
+      ]
     },
     {
       "company": "Sunlife",
@@ -1955,7 +2689,7 @@
       "company_url": "https://ca.indeed.com/cmp/Mckesson",
       "date_posted": "2026-11-23",
       "description": "McKesson is an impact\\-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well\\-being of you and those we serve – we care.\n\n\nWhat you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.\n\n  \n\n  \n\n**Job Summary**\n\n  \n\n  \n\nAbout the Role\n\n\nMcKesson is seeking a strategic and results\\-oriented Director, US Oncology Practice Technology to lead technology strategy, operational excellence, and modernization initiatives across a portfolio of oncology practices. This executive leadership role serves as a trusted advisor to business and clinical leaders, ensuring technology investments drive improved patient care, operational efficiency, compliance, and business outcomes.\n\n\nThe ideal candidate brings deep healthcare technology expertise, experience leading multi\\-site operations in regulated environments, strong financial and risk management acumen, and the ability to influence outcomes across a highly matrixed organization.\n\n\nWhat You'll Do\n\n\n* Lead healthcare technology strategy and execution across multiple oncology practices, aligning local priorities with enterprise objectives.\n* Partner with executive, clinical, and operational leaders to optimize technology investments, clinical workflows, and patient experience.\n* Drive infrastructure modernization, cloud transformation, cybersecurity initiatives, and operational readiness programs.\n* Lead complex cross\\-functional initiatives through influence, coordinating internal teams, vendors, and business stakeholders.\n* Oversee technology risk identification, mitigation planning, compliance readiness, and governance activities.\n* Develop business cases, evaluate new technology solutions, and support portfolio prioritization decisions.\n* Manage executive communications related to technology strategy, performance, investments, risks, and outcomes.\n* Support growth initiatives including acquisitions, divestitures, and new practice implementations while ensuring continuity of care.\n\nBasic Requirements\n\n\n* 9\\+ years of progressive experience leading healthcare technology, healthcare IT operations, clinical technology, or digital transformation initiatives.\n* Experience leading multi\\-site healthcare technology operations or technology environments within highly regulated industries.\n* Demonstrated success leading complex cross\\-functional programs through influence in a matrixed organization.\n* Strong business, financial, and risk management acumen with experience supporting technology investment decisions.\n* Executive\\-level communication and stakeholder management experience.\n* Experience overseeing technology operations, infrastructure, application delivery, cybersecurity, or clinical technology initiatives.\n* Bachelor's degree in Information Technology, Business, Healthcare Administration, or a related field, or equivalent experience.\n\nPreferred Skills/Experience\n\n\n* Experience supporting oncology, specialty healthcare, ambulatory care, or physician practice environments.\n* Knowledge of healthcare technology ecosystems, clinical applications, EHR/EMR systems, and healthcare operations.\n* Experience leading infrastructure modernization, cloud migration, or enterprise technology transformation initiatives.\n* Proven vendor management and strategic sourcing experience.\n* Experience supporting mergers, acquisitions, divestitures, or healthcare expansion activities.\n* Strong change management and organizational transformation capabilities.\n* Experience working with healthcare compliance, cybersecurity, privacy, and regulatory requirements.\n* Master's degree in Business Administration, Healthcare Administration, Information Technology, or a related discipline.\n\nTravel, Work Location \\& Physical Requirements\n\n\n* Travel may be required to support multiple practice locations, leadership meetings, and strategic technology initiatives.\n* General office and remote work environment with routine use of computer and communication technologies.\n* Ability to participate in virtual and onsite meetings and occasionally visit healthcare practice locations as needed.\n  \n\n  \n\nWe are proud to offer a competitive compensation package at McKesson as part of our Total Rewards. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. In addition to base pay, other compensation, such as an annual bonus or long\\-term incentive opportunities may be offered. For more information regarding benefits at McKesson,\n\n  \n\n  \n\n**Our Base Pay Range for this position:**\n\n\n$122,100 \\- $162,800\n**Career Level:**\n\n\nIC\\-Professional\\-P5\n**Online Recruiting\\-related Scams**\n\n  \n\n  \n\nMcKesson has become aware of online recruiting\\-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind:\n\n  \n\n  \n\nMcKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application.  \n\n  \n\n\n\nMcKesson job postings are posted on our career site: careers.mckesson.com.\n\n  \n\n  \n\n**AI Disclosure**\n\n  \n\n  \n\nMcKesson uses Artificial Intelligence tools to screen, assess, transcribe and evaluate candidates in the hiring process. Candidates are not dispositioned based on AI\\-generated assessments or autonomous decision\\-making. Disposition outcomes are based on pre\\-defined, job\\-related eligibility criteria and screening re",
-      "salary": "",
+      "salary": "$122k–$163k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
@@ -1979,7 +2713,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Director--US-Oncology-Practice-Technology_JR0156785-1"
+        "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Director--US-Oncology-Practice-Technology_JR0156785-1",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333605245"
       ]
     },
     {
@@ -2048,7 +2783,8 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-enterprise-risk-insurance/12425325"
+        "https://builtintoronto.com/job/director-enterprise-risk-insurance/12425325",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333530341"
       ]
     },
     {
@@ -2365,7 +3101,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333397620",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333443286"
+      ]
     },
     {
       "company": "Poly Tech Talent",
@@ -2627,7 +3367,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=e9f556d872e8d6b3"
+        "https://ca.indeed.com/viewjob?jk=e9f556d872e8d6b3",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333519976"
       ]
     },
     {
@@ -3291,7 +4032,7 @@
       "req_id": "",
       "date_posted": "2026-11-23",
       "date_seen": "2026-11-23T19:14:46Z",
-      "description": "",
+      "description": "8+ years of agency experience leading client-facing projects in sponsorship consulting, partnerships, marketing, account management, experiential marketing, or…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -3311,7 +4052,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$98k–$100k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333781625"
+      ]
     },
     {
       "company": "PointClickCare",
@@ -3709,7 +4454,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=94aba1e133ad4205"
+        "https://ca.indeed.com/viewjob?jk=94aba1e133ad4205",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333619967"
       ]
     },
     {
@@ -3760,7 +4506,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333518533"
+      ]
     },
     {
       "company": "Canada Life",
@@ -3813,7 +4562,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333753774"
+      ]
     },
     {
       "company": "HRXconnect",
@@ -3868,7 +4620,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=7220b2689015565d"
+        "https://ca.indeed.com/viewjob?jk=7220b2689015565d",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333508456"
       ]
     },
     {
@@ -4026,7 +4779,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333481104"
+      ]
     },
     {
       "company": "McCANN Canada",
@@ -4076,7 +4832,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333496841"
+      ]
     },
     {
       "company": "Equinox Gold Corp.",
@@ -4161,7 +4920,9 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=d1ff5dd8347ca594"
+        "https://ca.indeed.com/viewjob?jk=d1ff5dd8347ca594",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333376366",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333521124"
       ]
     },
     {
@@ -4242,7 +5003,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=196da59aa43e1e15"
+        "https://ca.indeed.com/viewjob?jk=196da59aa43e1e15",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333382674"
       ]
     },
     {
@@ -4323,7 +5085,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=9964a44e5826436f"
+        "https://ca.indeed.com/viewjob?jk=9964a44e5826436f",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333441933"
       ]
     },
     {
@@ -4531,6 +5294,7 @@
         "https://ca.indeed.com/viewjob?jk=72a32cbd7ae26178",
         "https://ca.indeed.com/viewjob?jk=8d64513a3f16ea2e",
         "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Director--Enterprise-Machine-Learning-Frameworks---Operations_2624227",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333450611",
         "https://www.linkedin.com/jobs/view/4493673956/",
         "https://www.linkedin.com/jobs/view/4493691362/"
       ],
@@ -14643,7 +15407,7 @@
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010331748806",
       "date_posted": "2026-11-20",
       "description": "ALA delivers, coordinates, and oversees home and community care and continuing care health services in Alberta, helping Albertans live safely and independently…",
-      "salary": "",
+      "salary": "$57.07–$100.39/hr",
       "salary_source": "",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
@@ -14661,7 +15425,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333641146"
+      ]
     },
     {
       "company": "McMaster University",
@@ -14781,7 +15548,7 @@
       "url": "https://www.glassdoor.ca/job-listing/j?jl=1010331748803",
       "date_posted": "2026-11-20",
       "description": "ALA delivers, coordinates, and oversees home and community care and continuing care health services in Alberta, helping Albertans live safely and independently…",
-      "salary": "",
+      "salary": "$57.07–$100.39/hr",
       "salary_source": "",
       "salary_currency": "CAD",
       "ats": "Glassdoor",
@@ -14799,7 +15566,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333641275"
+      ]
     },
     {
       "company": "Cumberland Homelessness and Housing Support Association",
@@ -17066,7 +17836,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333564607"
+      ]
     },
     {
       "company": "Visa",
@@ -86516,7 +87289,8 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/director-business-development-media-activation-data-collaboration/12413562",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-business-development-media-activation-data-collaboration/12413562"
+        "https://builtintoronto.com/job/director-business-development-media-activation-data-collaboration/12413562",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333602934"
       ]
     },
     {
@@ -95140,7 +95914,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010333494185"
+      ]
     },
     {
       "company": "Ethos",
@@ -110849,7 +111626,7 @@
       "emails": "",
       "ats": "ZipRecruiter",
       "first_seen": "2026-10-26T05:16:15Z",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
