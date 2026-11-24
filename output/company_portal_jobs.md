@@ -1,56 +1,52 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-24 05:05 UTC*
+*Last updated: 2026-11-24 08:33 UTC*
 
-**13 new role(s)** since last run · 1125 total in current portal openings
+**12 new role(s)** since last run · 1129 total in current portal openings
 
-### [Account Director, Consulting](https://builtintoronto.com/job/account-director-consulting/12433961) — dentsu
+### [Associate Director, Enterprise Crisis Management](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Associate-Director--Enterprise-Crisis-Management_R-0000192915-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-11-24
+
+### [Deals Value Creation Analytics Director](https://jobs-ca.pwc.com/ca/en/job/739416WD) — PwC Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-10
+
+### [Sr. Director, Application Engineering](https://builtintoronto.com/job/sr-director-block-chain-application-engineering/10725444) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Regional Sales Director | Canada](https://builtintoronto.com/job/regional-sales-director-canada/10025535) — Stateside Brands LLC
+### [Sr. Director, Application Development & Quality Assurance](https://builtintoronto.com/job/sr-director-application-development-quality-assurance/11968705) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Innovation](https://builtintoronto.com/job/director-innovation/12128341) — Ipsos
+### [Director of AI Applications Development](https://builtintoronto.com/job/director-ai-applications-development/11759260) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Senior Director, Enterprise Architecture - Corporate Technology Services](https://builtintoronto.com/job/senior-director-enterprise-architecture-corporate-technology-services/12430481) — Colliers
+### [Director, Investment Product Platform](https://builtintoronto.com/job/director-investment-product-platform/11426271) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Brand Activation](https://builtintoronto.com/job/director-brand-management/11425701) — Equinix
+### [Director - Compliance Program Governance](https://builtintoronto.com/job/director-compliance-program-governance/12436516) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Account Director](https://builtintoronto.com/job/account-director/12429240) — VaynerMedia
+### [Strategy & Corporate Development Director (CA)](https://builtintoronto.com/job/strategy-corporate-development-director-ca/12434933) — PointClickCare
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Technical Director, DataEdge Strategy & Architecture](https://builtintoronto.com/job/technical-director-dataedge-strategy-architecture/12432701) — Rocket Software
+### [Marketing Director: Build Your Own Brand (Self-Employed, Remote)](https://builtintoronto.com/job/marketing-director-independent-leadership/9443108) — The Lighthouse Sydney
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [VP, Social Commerce](https://builtintoronto.com/job/vp-social-commerce/12434910) — Viral Nation
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Creative Director (Organic Social)](https://builtintoronto.com/job/creative-director-organic-social/12432274) — MM Coaching Limited
+### [Head of Product](https://builtintoronto.com/job/head-product/12435971) — Savvy Talent
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Associate Director, Insights & Analytics - Aesthetics](https://builtintoronto.com/job/associate-director-insights-analytics-aesthetics/12431381) — Galderma
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Head of Strategy and Chief of Staff (Office: Mississauga, Ontario)](https://builtintoronto.com/job/head-strategy-and-chief-staff-office-mississauga-ontario/12434364) — Philips
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Head of Sales](https://builtintoronto.com/job/head-sales/10636803) — Monex Europe
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Head of Paid Marketing](https://builtintoronto.com/job/head-paid-marketing/12432280) — MM Coaching Limited
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Head of Paid Marketing](https://builtintoronto.com/job/head-paid-marketing/12432273) — MM Coaching Limited
+### [Chief of Staff](https://builtintoronto.com/job/chief-staff/11757209) — KEV Group
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
