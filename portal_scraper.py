@@ -48,11 +48,13 @@ def strip_html(value: str) -> str:
     return re.sub(r"\n\s*\n+", "\n\n", text).strip()
 
 
-def _request(url: str, payload: dict | list | None = None, retries: int = 2) -> bytes:
+def _request(url: str, payload: dict | list | None = None, retries: int = 2,
+             extra_headers: dict | None = None) -> bytes:
     data = json.dumps(payload).encode() if payload is not None else None
     headers = {"User-Agent": USER_AGENT, "Accept": "application/json,text/html;q=0.9"}
     if data is not None:
         headers["Content-Type"] = "application/json"
+    headers.update(extra_headers or {})
     for attempt in range(retries + 1):
         req = urllib.request.Request(url, data=data, headers=headers, method="POST" if data is not None else "GET")
         try:
@@ -65,9 +67,9 @@ def _request(url: str, payload: dict | list | None = None, retries: int = 2) -> 
     raise SourceFailure("request failed")
 
 
-def http_json(url: str, payload: dict | list | None = None) -> dict | list:
+def http_json(url: str, payload: dict | list | None = None, headers: dict | None = None) -> dict | list:
     try:
-        return json.loads(_request(url, payload).decode("utf-8", "replace"))
+        return json.loads(_request(url, payload, extra_headers=headers).decode("utf-8", "replace"))
     except json.JSONDecodeError as exc:
         raise SourceFailure(f"invalid JSON: {exc}") from exc
 
@@ -839,6 +841,84 @@ def fetch_adp(entry: dict) -> list[dict]:
     return out
 
 
+def _taleo_desc(page: str) -> str:
+    """Taleo puts the description in the hidden initialHistory field: '!|!'-separated parts, the
+    rich-text ones prefixed '!*!' and URL-encoded (each appears twice)."""
+    m = re.search(r'id="initialHistory" value="([^"]*)"', page)
+    if not m:
+        return ""
+    parts = []
+    for part in html.unescape(m.group(1)).split("!|!"):
+        if part.startswith("!*!"):
+            text = urllib.parse.unquote(part[3:]).replace("\\:", ":").replace("\\", "")
+            if text not in parts:
+                parts.append(text)
+    return strip_html(" ".join(parts))
+
+
+def fetch_taleo(entry: dict) -> list[dict]:
+    """Oracle Taleo career sections (<org>.taleo.net/careersection/<code>/jobsearch.ftl). The
+    page's portalNo keys a public JSON search (POST /careersection/rest/jobboard/searchjobs),
+    25 per page; descriptions come from each jobdetail.ftl page, fetched only for titles that
+    pass the title check. The date column is the closing date, so no date_posted. Added
+    2026-11-24 for Agnico Eagle."""
+    parts = urllib.parse.urlsplit(entry["careers_url"])
+    origin = f"{parts.scheme}://{parts.netloc}"
+    m = re.search(r"/careersection/([^/]+)/", parts.path)
+    code = m.group(1) if m else "2"
+    lang = (urllib.parse.parse_qs(parts.query).get("lang") or ["en"])[0]
+    portal = str(entry.get("slug") or "")
+    if not portal.isdigit():
+        m = re.search(r"portalNo:\s*'(\d+)'|portal=(\d+)", http_text(entry["careers_url"]))
+        if not m:
+            raise SourceFailure("Taleo portal number not found on the career section page")
+        portal = m.group(1) or m.group(2)
+    api = f"{origin}/careersection/rest/jobboard/searchjobs?lang={lang}&portal={portal}"
+    rows, page_no, total = [], 1, None
+    while (total is None or len(rows) < total) and page_no <= 40:
+        body = {"multilineEnabled": False,
+                "sortingSelection": {"sortBySelectionParam": "3", "ascendingSortingOrder": "false"},
+                "fieldData": {"fields": {"KEYWORD": "", "LOCATION": ""}, "valid": True},
+                "filterSelectionParam": {"searchFilterSelections": []},
+                "advancedSearchFiltersSelectionParam": {"searchFilterSelections": []},
+                "pageNo": page_no}
+        data = http_json(api, body, headers={"tz": "GMT-05:00"})  # Taleo answers 500 without it
+        page = data.get("requisitionList") or []
+        total = int((data.get("pagingData") or {}).get("totalCount") or 0)
+        if not page:
+            break
+        rows.extend(page)
+        page_no += 1
+    if not rows:
+        raise SourceFailure("no requisitions returned by the Taleo career section")
+    out, seen = [], set()
+    for r in rows:
+        contest = str(r.get("contestNo") or r.get("jobId") or "")
+        if not contest or contest in seen:
+            continue
+        seen.add(contest)
+        cols = r.get("column") or []
+        title = str(cols[0] if cols else "").strip()
+        places = []
+        for i in r.get("locationsColumns") or [1]:
+            raw = cols[i] if i < len(cols) else ""
+            try:
+                vals = json.loads(raw) if str(raw).startswith("[") else [raw]
+            except json.JSONDecodeError:
+                vals = [raw]
+            places += [str(v).strip() for v in vals if str(v).strip()]
+        url = f"{origin}/careersection/{code}/jobdetail.ftl?job={urllib.parse.quote(contest)}&lang={lang}"
+        desc = ""
+        if _title_relevant(title):
+            try:
+                desc = _taleo_desc(http_text(url))
+            except SourceFailure:
+                desc = ""
+        out.append(posting(entry, title=title, url=url, location="; ".join(dict.fromkeys(places)),
+                           req_id=contest, description=desc))
+    return out
+
+
 _XNORTH_CARD = re.compile(r'(?is)<a href="(https?://[^"]+/job/[^"]+)" class="job-card[^"]*">(.*?)</a>')
 _XNORTH_TEXT = re.compile(r'(?is)<(?:article|div) class="[^"]*article-section__text[^"]*">(.*?)(?:<div class="[^"]*share|<section[^>]*recent-jobs|<footer)')
 
@@ -1226,6 +1306,7 @@ FETCHERS = {
     "lighthouse": fetch_lighthouse,
     "adp": fetch_adp,
     "xnorth": fetch_xnorth,
+    "taleo": fetch_taleo,
     "j2w": fetch_successfactors,
 }
 
