@@ -1,44 +1,28 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-24 02:45 UTC*
+*Last updated: 2026-11-24 05:11 UTC*
 
-**7 new role(s)** since last run · 28 total in last 24h
+**4 new role(s)** since last run · 29 total in last 24h
 
-### [AVP, Data Governance](https://ca.indeed.com/viewjob?jk=4060582f8f742355) — Pacific Life
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-23
-
-### [VP, Social Commerce](https://ca.indeed.com/viewjob?jk=7a922705c20bed8b) — Viral Nation
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-23
-
-### [Director, Finance](https://ca.indeed.com/viewjob?jk=b5197b480404b5df) — GraceMed
-- 📍 **Location:** Oakville, ON, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-23
-
-### [Client Director, Projects](https://ca.indeed.com/viewjob?jk=b45bcfd2e05fac2d) — BGIS
+### [Director, Finance Technology Solutions and Products](https://ca.indeed.com/viewjob?jk=1f01785d01bcc1fa) — Agnico Eagle
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-23
 
-### [Director, Digital Product Owner, Scotia Protect Platform](https://ca.indeed.com/viewjob?jk=12661582f4608893) — Scotiabank
+### [AVP, Actuarial AI & Data Governance](https://ca.indeed.com/viewjob?jk=5cdaafc5fbbd56b6) — Manulife
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-09
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-22
 
-### [Director, Software Engineering - Remote](https://ca.indeed.com/viewjob?jk=2b759a811b546287) — Optum
-- 📍 **Location:** Richmond, BC, CA
-- **Work mode:** Remote in-state eligible
+### [Director, Specialty Compliance and Ethics - Environmental Health & Safety (Retail Stores)](https://ca.indeed.com/viewjob?jk=d1ff5dd8347ca594) — Walmart
+- 📍 **Location:** Mississauga, ON, CA
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-23
 
-### [Global Director, Growth Marketing](https://ca.indeed.com/viewjob?jk=f63ec69abe780f80) — Ignition
-- 📍 **Location:** Vancouver, BC, CA
-- **Work mode:** Remote in-state eligible
+### [CHIEF FULLSTACK DEVELOPER](https://ca.indeed.com/viewjob?jk=88625cdaef627200) — National Bank of Canada
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-23
