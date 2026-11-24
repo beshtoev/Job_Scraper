@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-24 17:52 UTC",
+  "updated_at": "2026-11-24 18:14 UTC",
   "jobs": [
+    {
+      "company": "CIBC",
+      "title": "Managing Director, XVA Management",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010334376526",
+      "date_posted": "2026-11-24",
+      "description": "We work to recognize you in meaningful, personalized ways including a competitive salary, incentive pay, banking benefits, a benefits program*, defined benefit…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-24T18:14:58Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Scotiabank",
       "title": "Director, Operational Accounting Technology Systems",
@@ -114135,6 +114162,5 @@
         "https://www.linkedin.com/jobs/view/4481967015/"
       ]
     }
-  ],
-  "total": 3827
+  ]
 }
