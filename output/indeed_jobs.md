@@ -1,39 +1,43 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 18:34 UTC*
+*Last updated: 2026-11-25 20:53 UTC*
 
-**6 new role(s)** since last run · 33 total in last 24h
+**7 new role(s)** since last run · 34 total in last 24h
 
-### [Director, AI-Ready Data Products](https://ca.indeed.com/viewjob?jk=90e3560f548b2888) — Mattamy Homes
-- 📍 **Location:** Etobicoke, ON, CA
+### [Director, Loyalty Analytics](https://ca.indeed.com/viewjob?jk=6a3784897cec1b3c) — Scotiabank
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-25
+
+### [Head of Performance Marketing – US Market | Relocation to Vancouver Provided](https://ca.indeed.com/viewjob?jk=89c3716806669ff8) — Pergolux
+- 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-25
 
-### [Head of People & Culture (12 month contract)](https://ca.indeed.com/viewjob?jk=f58de0ad9eeea441) — Resolver
+### [Associate Director, Health Systems](https://ca.indeed.com/viewjob?jk=5380e608affd23fd) — Novo
+- 📍 **Location:** Mississauga, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-25
+
+### [Head of Finance, Canada](https://ca.indeed.com/viewjob?jk=9668d556a19a39da) — Coinbase
+- 📍 **Location:** Waterloo, ON, CA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Collections Channel Management](https://ca.indeed.com/viewjob?jk=4007e29074e6b682) — CIBC
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-25
 
-### [Vice President, Compliance, Privacy and Bank of Canada Affairs](https://ca.indeed.com/viewjob?jk=3e2dfba1b764578f) — Payments Canada
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
-- **Job type:** temporary
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Climate Mobilization](https://ca.indeed.com/viewjob?jk=1f8f9b5ec6b8f859) — FinDev Canada
-- 📍 **Location:** Toronto, ON, CA
+### [Head of Performance Marketing – US Market | Relocation to Vancouver Provided](https://ca.indeed.com/viewjob?jk=0eab483601c9882c) — Pergolux
+- 📍 **Location:** Montréal, QC, CA
 - **Work mode:** On-site
-- **Job type:** contract
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Strategic Risk, Deloitte Global Risk & Brand Protection](https://ca.indeed.com/viewjob?jk=ab73d988d077292b) — Deloitte
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Network Security Platforms & Governance (Hybrid)](https://ca.indeed.com/viewjob?jk=4ebf17097da56484) — Broadridge
-- 📍 **Location:** Toronto, ON, CA
+### [Director, Corporate Taxation](https://ca.indeed.com/viewjob?jk=3d06dffdabab4b9f) — Canada Post
+- 📍 **Location:** Ottawa, ON, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-25
