@@ -1,64 +1,31 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 05:45 UTC*
+*Last updated: 2026-11-25 06:26 UTC*
 
-**14 new role(s)** since last run · 38 total in last 1h
+**6 new role(s)** since last run · 9 total in last 1h
 
-### [Vice President, Enterprise Asset Protection, Fraud, Security & Intelligence](https://www.linkedin.com/jobs/view/4494490209/) — Loblaw Companies Limited
-- 📍 **Location:** Brampton, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Digital Marketing](https://www.linkedin.com/jobs/view/4494764474/) — Sunlife
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director of Digital Operations](https://www.linkedin.com/jobs/view/4494784158/) — Jobgether
+### [Program Director - Program Delivery Executive](https://www.linkedin.com/jobs/view/4494765992/) — Jobgether
 - 📍 **Location:** Canada
-- 💰 **Salary:** $140,000 to $160,000,
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Digital Marketing](https://www.linkedin.com/jobs/view/4494756677/) — Sunlife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director - SR&ED Financing](https://www.linkedin.com/jobs/view/4494767655/) — R&D Financing
+### [Senior Director, Creative – EA SPORTS FC](https://www.linkedin.com/jobs/view/4493090400/) — Electronic Arts (EA)
 - 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $190,500 - $267,300
 - 🕒 **Posted:** 2026-11-25
 
-### [Senior Director, Field Operations](https://www.linkedin.com/jobs/view/4494454220/) — EPCOR
-- 📍 **Location:** Edmonton, Alberta, Canada
+### [Head of Sales │ Chef des ventes](https://www.linkedin.com/jobs/view/4494781389/) — Evvo
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4494773716/) — Husky Technologies
+### [HR Strategic Business Partnering Director](https://www.linkedin.com/jobs/view/4494482658/) — Pembina Pipeline Corporation
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Global Marketing & Sales Enablement](https://www.linkedin.com/jobs/view/4494775596/) — Husky Technologies
 - 📍 **Location:** Bolton, Ontario, Canada
+- 💰 **Salary:** $150,000.00 - 185,000.00
 - 🕒 **Posted:** 2026-11-25
 
-### [Vice President, PE Fund Accounting](https://www.linkedin.com/jobs/view/4494443694/) — Kassen Recruitment
-- 📍 **Location:** Halifax, Nova Scotia, Canada
+### [Regional Director](https://www.linkedin.com/jobs/view/4442239499/) — BGIS
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $110,000 - $138,000 per annum
 - 🕒 **Posted:** 2026-11-25
-
-### [Head of Procurement](https://www.linkedin.com/jobs/view/4493068119/) — Camunda
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,900.00 to $259,500.00
-- 🕒 **Posted:** 2026-11-24
-
-### [Americas HR Director (English version)](https://www.linkedin.com/jobs/view/4494410900/) — Averna Powered by Spherea
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Head of Procurement](https://www.linkedin.com/jobs/view/4493056521/) — Camunda
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $160,900.00 to $259,500.00
-- 🕒 **Posted:** 2026-11-24
-
-### [Managing Director, XVA Management](https://www.linkedin.com/jobs/view/4494180740/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [VP, Global Finance Risk / Prime Services Risk](https://www.linkedin.com/jobs/view/4494443230/) — BMO Capital Markets
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Director, Commercial and Corporate Credit Audit](https://www.linkedin.com/jobs/view/4494427777/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-11-24
