@@ -1,69 +1,52 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 17:11 UTC*
+*Last updated: 2026-11-25 17:45 UTC*
 
-**15 new role(s)** since last run · 22 total in last 1h
+**11 new role(s)** since last run · 23 total in last 1h
 
-### [Director - Accountability and Analytics](https://www.linkedin.com/jobs/view/4494426154/) — Government of Nova Scotia
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 💰 **Salary:** $4,754.34 - $5,942.94
-- 🕒 **Posted:** 2026-11-25
-
-### [Directeur·rice des produits et de l'ingénierie | Head of Product and Engineering](https://www.linkedin.com/jobs/view/4463680046/) — Diffusion Solutions Integrees
+### [Shopify Practice Director](https://www.linkedin.com/jobs/view/4435308045/) — Valtech
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Chief Product Operations Officer](https://www.linkedin.com/jobs/view/4494936132/) — CleanWatt Ventures, Inc.
-- 📍 **Location:** Canada
+### [Head of People & Culture (12 month contract)](https://www.linkedin.com/jobs/view/4493434700/) — Resolver, a Kroll Business
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $155,000 - $180,000
 - 🕒 **Posted:** 2026-11-25
 
-### [VP, Engagement Strategy](https://www.linkedin.com/jobs/view/4478584608/) — BGBx
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $200,000 - $240,000
+### [Management Consulting Director, Technology](https://www.linkedin.com/jobs/view/4486328474/) — RSM Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $138,000 - $253,300
 - 🕒 **Posted:** 2026-11-25
 
-### [Vice President, Global Quality Assurance & Regulatory Affairs](https://www.linkedin.com/jobs/view/4489491793/) — NDI (Northern Digital Inc.)
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Director of Product Management, Endpoint Security and XDR](https://www.linkedin.com/jobs/view/4486886932/) — Elastic
-- 📍 **Location:** Canada
-- 💰 **Salary:** $192,500.00/yr - CA$304,500.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Director of Finance & CFO](https://www.linkedin.com/jobs/view/4494922776/) — District of Peachland
-- 📍 **Location:** Peachland, British Columbia, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Climate Mobilization](https://www.linkedin.com/jobs/view/4494661409/) — FinDev Canada
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $153,729.00/yr - CA$204,972.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Climate Mobilization](https://www.linkedin.com/jobs/view/4494665282/) — FinDev Canada
+### [Vice President, Compliance, Privacy and Bank of Canada Affairs](https://www.linkedin.com/jobs/view/4494945162/) — Payments Canada
 - 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Corporate Taxation](https://www.linkedin.com/jobs/view/4493451095/) — Canada Post / Postes Canada
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of Avionics](https://www.linkedin.com/jobs/view/4494656766/) — TalentWorld
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Interim Director, Products and Services](https://www.linkedin.com/jobs/view/4485061138/) — H&R Block Canada
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [VP, Debt Capital Markets, Corporate & Investment Banking](https://www.linkedin.com/jobs/view/4494673419/) — TD
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $165,000 - $175,000
+- 🕒 **Posted:** 2026-11-25
+
+### [Associate Vice President, Infrastructure](https://www.linkedin.com/jobs/view/4434018345/) — R.V. Anderson Associates Limited
+- 📍 **Location:** Barrie, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Senior Director – Proton/Particle Therapy Project](https://www.linkedin.com/jobs/view/4494444565/) — University Health Network
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Climate Mobilization](https://www.linkedin.com/jobs/view/4494652879/) — FinDev Canada
+- 📍 **Location:** Toronto, Ontario, Canada
 - 💰 **Salary:** $153,729.00/yr - CA$204,972.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Global Project Director](https://www.linkedin.com/jobs/view/4494672007/) — ABB
-- 📍 **Location:** Saint-Laurent, Quebec, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Global Project Director](https://www.linkedin.com/jobs/view/4494668331/) — ABB
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Directeur (trice) des Opérations - Head of Operations](https://www.linkedin.com/jobs/view/4494914970/) — Eco DC Solutions
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Executive Director, Sales Enablement - North America](https://www.linkedin.com/jobs/view/4487091563/) — Capco
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director of Software Engineering](https://www.linkedin.com/jobs/view/4489282670/) — Air-tek Inc.
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Head of Engineering](https://www.linkedin.com/jobs/view/4494651721/) — Kochasoft
-- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-25
