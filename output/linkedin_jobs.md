@@ -1,68 +1,90 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 18:29 UTC*
+*Last updated: 2026-11-25 20:04 UTC*
 
-**15 new role(s)** since last run · 20 total in last 1h
+**19 new role(s)** since last run · 29 total in last 1h
 
-### [Director, MarTech Activation & Personalization](https://www.linkedin.com/jobs/view/4494941464/) — Manulife
+### [Director of Business Decision Support and Financial Performance](https://www.linkedin.com/jobs/view/4493460085/) — The Mason Group - Strategic Search Partners
+- 📍 **Location:** Etobicoke, Ontario, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4494688504/) — Sleeman Breweries Ltd.
+- 📍 **Location:** Guelph, Ontario, Canada
+- 💰 **Salary:** $139,200.00/yr - CA$174,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Vice President Finance](https://www.linkedin.com/jobs/view/4495200092/) — Invictus Direct
+- 📍 **Location:** Canada
+- 💰 **Salary:** $180,000.00/yr - CA$200,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4494947515/) — Clarity Recruitment
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $195,000.00/yr - CA$225,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Collections Channel Management](https://www.linkedin.com/jobs/view/4494673757/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Director, Corporate Taxation](https://www.linkedin.com/jobs/view/4493451095/) — Canada Post / Postes Canada
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Vice President, Infrastructure - Municipal](https://www.linkedin.com/jobs/view/4449040067/) — R.V. Anderson Associates Limited
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Executive Director, Global Markets Trading & Financing - Business Management](https://www.linkedin.com/jobs/view/4486134048/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4494921882/) — Vaco by Highspring
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $200,000.00/yr - CA$220,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Director of Marketing](https://www.linkedin.com/jobs/view/4494948301/) — The Leadership Agency
+### [Senior Regional Vice President](https://www.linkedin.com/jobs/view/4494940649/) — EP Wealth Advisors。
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Capital Markets - Capital Allocation & Management](https://www.linkedin.com/jobs/view/4487081062/) — BMO Capital Markets
+### [Director, Operations](https://www.linkedin.com/jobs/view/4494952175/) — BGIS
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4494950408/) — Alberta Artistic Swimming
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4487511076/) — BDO Canada
+- 📍 **Location:** Oakville, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [AVP, Direct Distribution and Affinity (Personal Lines)](https://www.linkedin.com/jobs/view/4486503672/) — Aviva Canada
+- 📍 **Location:** Markham, Ontario, Canada
+- 💰 **Salary:** $160000 to $185,000
+- 🕒 **Posted:** 2026-11-25
+
+### [AVP, Direct Distribution and Affinity (Personal Lines)](https://www.linkedin.com/jobs/view/4486509463/) — Aviva Canada
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $85,500.00 - $185,000.00
+- 💰 **Salary:** $160000 to $185,000
 - 🕒 **Posted:** 2026-11-25
 
-### [Assistant Vice President, Strategic Finance - Toronto](https://www.linkedin.com/jobs/view/4494931858/) — Harrison Street Asset Management
+### [Managing Director & Head, Credit and Portfolio Management](https://www.linkedin.com/jobs/view/4487513165/) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Head of Asian Market Solutions](https://www.linkedin.com/jobs/view/4494941456/) — Manulife
-- 📍 **Location:** British Columbia, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Associate Vice President, Product and Underwriting, Small Business Insurance](https://www.linkedin.com/jobs/view/4477403615/) — TD
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $155,000 - $215,000
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4487502473/) — BDO Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Sales Operations (Corporate)](https://www.linkedin.com/jobs/view/4486609009/) — Atlantic Packaging Products Ltd.
-- 📍 **Location:** Scarborough, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Frontier and Platform Development Leader](https://www.linkedin.com/jobs/view/4460505255/) — Deloitte
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $104,000 - $215,000,
-- 🕒 **Posted:** 2026-11-25
-
-### [Head of Business Development, AI Search (AEO and GEO) (Remote, Kamloops)](https://www.linkedin.com/jobs/view/4494688183/) — Blacksmith Agency
+### [Workshop Director - CIO Advisory / AI](https://www.linkedin.com/jobs/view/4479223527/) — Infotech
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director of Business Development, AI Search (AEO and GEO) (Remote, Quebec City)](https://www.linkedin.com/jobs/view/4494682454/) — Blacksmith Agency
+### [Workshop Director - Security](https://www.linkedin.com/jobs/view/4479218880/) — Infotech
 - 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Senior Director, Product Management](https://www.linkedin.com/jobs/view/4485032203/) — Electronic Arts (EA)
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $204,600 - $287,500
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Network Security Platforms & Governance (Hybrid)](https://www.linkedin.com/jobs/view/4494684283/) — Broadridge
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $145,000 - $185,000
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of Social Selling](https://www.linkedin.com/jobs/view/4494944537/) — Dexian
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $60.00/hr - CA$73.00/hr
+- 🕒 **Posted:** 2026-11-25
+
+### [Senior Director, Customer Growth & Retention](https://www.linkedin.com/jobs/view/4493444733/) — SysAid
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Product Management](https://www.linkedin.com/jobs/view/4468934805/) — Mastercard
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $150,000 - $234,000
 - 🕒 **Posted:** 2026-11-25
