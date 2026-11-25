@@ -1,90 +1,92 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 20:04 UTC*
+*Last updated: 2026-11-25 20:48 UTC*
 
-**19 new role(s)** since last run · 29 total in last 1h
+**21 new role(s)** since last run · 42 total in last 1h
 
-### [Director of Business Decision Support and Financial Performance](https://www.linkedin.com/jobs/view/4493460085/) — The Mason Group - Strategic Search Partners
-- 📍 **Location:** Etobicoke, Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4494688504/) — Sleeman Breweries Ltd.
-- 📍 **Location:** Guelph, Ontario, Canada
-- 💰 **Salary:** $139,200.00/yr - CA$174,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Vice President Finance](https://www.linkedin.com/jobs/view/4495200092/) — Invictus Direct
-- 📍 **Location:** Canada
-- 💰 **Salary:** $180,000.00/yr - CA$200,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Director of Financial Planning and Analysis](https://www.linkedin.com/jobs/view/4494947515/) — Clarity Recruitment
+### [Director, Integrated Analytics Exploration Branch](https://www.linkedin.com/jobs/view/4494964086/) — Ontario Public Service Leadership | Leadership dans la fonction publique de l’Ontario
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $195,000.00/yr - CA$225,000.00/yr
+- 💰 **Salary:** $160,317.00/yr - CA$201,962.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Corporate Taxation](https://www.linkedin.com/jobs/view/4493451095/) — Canada Post / Postes Canada
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Regional Vice President](https://www.linkedin.com/jobs/view/4494940649/) — EP Wealth Advisors。
+### [Head of Business Development, AI Search (AEO and GEO) (Remote, Kamloops)](https://www.linkedin.com/jobs/view/4494688183/) — Blacksmith Agency
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Operations](https://www.linkedin.com/jobs/view/4494952175/) — BGIS
+### [Director of Business Development, AI Search (AEO and GEO) (Remote, Quebec City)](https://www.linkedin.com/jobs/view/4494682454/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Head of Sales, AI Search (AEO and GEO) (Remote, Calgary)](https://www.linkedin.com/jobs/view/4494672972/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Frontier and Platform Development Leader](https://www.linkedin.com/jobs/view/4460505255/) — Deloitte
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $104,000 - $215,000,
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of Strategic Accounts, AI Search (AEO and GEO) (Remote, St. John's)](https://www.linkedin.com/jobs/view/4494683609/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of New Business, AI Search (AEO and GEO) (Remote, Saskatoon)](https://www.linkedin.com/jobs/view/4494676767/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of Strategic Accounts, AI Search (AEO and GEO) (Remote, Ottawa)](https://www.linkedin.com/jobs/view/4494692046/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Head of Sales, AI Search (AEO and GEO) (Remote, Nanaimo)](https://www.linkedin.com/jobs/view/4494676766/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Product](https://www.linkedin.com/jobs/view/4493448572/) — The Leadership Agency
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $180K–$200K
+- 🕒 **Posted:** 2026-11-25
+
+### [Vice President of Sales, AI Search (AEO and GEO) (Remote, Kelowna)](https://www.linkedin.com/jobs/view/4494689186/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of New Business, AI Search (AEO and GEO) (Remote, Quebec City)](https://www.linkedin.com/jobs/view/4494683618/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [VP of Sales, AI Search (AEO and GEO) (Remote, Quebec City)](https://www.linkedin.com/jobs/view/4494688308/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Vice President of Sales, AI Search (AEO and GEO) (Remote, Red Deer)](https://www.linkedin.com/jobs/view/4494694071/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Sales Director, AI Search (AEO and GEO) (Remote, St. John's)](https://www.linkedin.com/jobs/view/4494679460/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of Sales, AI Search (AEO and GEO) (Remote, Ottawa)](https://www.linkedin.com/jobs/view/4494672840/) — Blacksmith Agency
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, AI-Ready Data Products](https://www.linkedin.com/jobs/view/4495202157/) — Mattamy Asset Management
+- 📍 **Location:** Etobicoke, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [CHIEF FULLSTACK DEVELOPER](https://www.linkedin.com/jobs/view/4493445790/) — National Bank of Canada
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4494950408/) — Alberta Artistic Swimming
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Talent Management & Workforce Insights](https://www.linkedin.com/jobs/view/4487511076/) — BDO Canada
-- 📍 **Location:** Oakville, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [AVP, Direct Distribution and Affinity (Personal Lines)](https://www.linkedin.com/jobs/view/4486503672/) — Aviva Canada
-- 📍 **Location:** Markham, Ontario, Canada
-- 💰 **Salary:** $160000 to $185,000
-- 🕒 **Posted:** 2026-11-25
-
-### [AVP, Direct Distribution and Affinity (Personal Lines)](https://www.linkedin.com/jobs/view/4486509463/) — Aviva Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160000 to $185,000
-- 🕒 **Posted:** 2026-11-25
-
-### [Managing Director & Head, Credit and Portfolio Management](https://www.linkedin.com/jobs/view/4487513165/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Workshop Director - CIO Advisory / AI](https://www.linkedin.com/jobs/view/4479223527/) — Infotech
+### [Director, Technical Program Management](https://www.linkedin.com/jobs/view/4469097453/) — Seismic
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Workshop Director - Security](https://www.linkedin.com/jobs/view/4479218880/) — Infotech
+### [Finance Director](https://www.linkedin.com/jobs/view/4494943965/) — Hamilton International Airport (FLYYHM)
+- 📍 **Location:** Hamilton, Ontario, Canada
+- 💰 **Salary:** $135,000.00/yr - CA$150,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Executive Director of Finance](https://www.linkedin.com/jobs/view/4495202147/) — VTBiotech
 - 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Director, Product Management](https://www.linkedin.com/jobs/view/4485032203/) — Electronic Arts (EA)
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $204,600 - $287,500
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Network Security Platforms & Governance (Hybrid)](https://www.linkedin.com/jobs/view/4494684283/) — Broadridge
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $145,000 - $185,000
-- 🕒 **Posted:** 2026-11-25
-
-### [Director of Social Selling](https://www.linkedin.com/jobs/view/4494944537/) — Dexian
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $60.00/hr - CA$73.00/hr
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Director, Customer Growth & Retention](https://www.linkedin.com/jobs/view/4493444733/) — SysAid
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Product Management](https://www.linkedin.com/jobs/view/4468934805/) — Mastercard
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000 - $234,000
 - 🕒 **Posted:** 2026-11-25
