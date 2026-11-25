@@ -1,85 +1,120 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-24 22:26 UTC*
+*Last updated: 2026-11-25 01:40 UTC*
 
-**20 new role(s)** since last run · 1149 total in current portal openings
+**32 new role(s)** since last run · 1142 total in current portal openings
 
-### [Director & Assistant Market Leader, Private Wealth](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director---Assistant-Market-Leader--Private-Wealth_R260020481) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-11-24
+### [Corporate Director, Mineral Resources](https://jobs.agnicoeagle.com/ca/en/job/HEA00391) — Agnico Eagle
+- 📍 **Location:** Toronto, Ontario, Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-13
 
-### [Director, Commercial and Corporate Credit Audit](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Commercial-and-Corporate-Credit-Audit_R260032048) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-11-24
+### [Director, Finance Technology Solutions and Products](https://jobs.agnicoeagle.com/ca/en/job/HEA00394) — Agnico Eagle
+- 📍 **Location:** Toronto, Ontario, Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-23
 
-### [VP, Global Finance Risk / Prime Services Risk](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/VP--Global-Finance-Risk---Prime-Services-Risk_R260031914) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-11-24
+### [Corporate Director, Mine Geology](https://jobs.agnicoeagle.com/ca/en/job/HEA00390) — Agnico Eagle
+- 📍 **Location:** Toronto, Ontario, Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-11
 
-### [Director, Portfolio Management & Governance](https://jobs.canadalife.com/job/London-Director%2C-Portfolio-Management-&amp;-Governance-ON/1460428333/) — Canada Life
-- 📍 **Location:** London, ON, CA
-- 🕒 **Posted:** 2026-11-24
+### [Vice President, Global Brand Creative](https://jobs.lever.co/arcteryx.com/c94a7fe5-e7da-40b6-a9e7-754e75837f94) — Arc'teryx
+- 📍 **Location:** North Vancouver, BC (Corporate)
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
 
-### [Director, AI Strategic Initiatives](https://equinix.wd1.myworkdayjobs.com/en-US/External/job/Toronto/Director--AI-Strategic-Initiatives_JR-164888) — Equinix
-- 📍 **Location:** Toronto
-- 🕒 **Posted:** 2026-11-24
-
-### [Director, AI Risk Monitoring and Reporting](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--AI-Risk-Monitoring-and-Reporting_R-0000193453-1) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Director, Corporate Client Group](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/OTTAWA-Ontario-Canada/Director--Corporate-Client-Group_R-0000192376-2) — RBC
-- 📍 **Location:** OTTAWA, Ontario, Canada; KINGSTON, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Cloud Architecture & Engineering, Director](https://jobs-ca.pwc.com/ca/en/job/771397WD) — PwC Canada
-- 📍 **Location:** Ottawa, Ontario, Canada
+### [Transformation Risk and Advisory Director](https://jobs-ca.pwc.com/ca/en/job/753341WD) — PwC Canada
+- 📍 **Location:** Toronto, Ontario, Canada
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-24
 
-### [Director of Products](https://builtintoronto.com/job/director-products/12450825) — TechBlocks
+### [Director, GTM Operations](https://builtintoronto.com/job/director-gtm-operations/12248596) — Zapier
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Digital Marketing](https://builtintoronto.com/job/director-digital-marketing/12449760) — Sun Life Financial, Inc.
+### [Director Engineering](https://builtintoronto.com/job/director-engineering/11954002) — Manulife
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Data & AI Platform Services Director AI & Data Platforms](https://builtintoronto.com/job/data-ai-platform-services-director-ai-data-platforms/12453556) — Symcor
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Content & Curriculum - Elementary (K-6)](https://builtintoronto.com/job/director-content-curriculum-elementary-k-6/12453393) — Nelson Education Ltd.
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Content & Curriculum - Secondary (7-12)](https://builtintoronto.com/job/director-content-curriculum-secondary-7-12/12453391) — Nelson Education Ltd.
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Total Rewards](https://builtintoronto.com/job/director-total-rewards/12453341) — Nicola Wealth
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Commercial Payments & Digital Assets](https://builtintoronto.com/job/director-commercial-payments-digital-assets/12452155) — Escalent
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Managing Director, XVA Management](https://builtintoronto.com/job/managing-director-xva-management/12447867) — CIBC
+### [Director of Communications](https://builtintoronto.com/job/director-communications/11895879) — Waabi
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director, Financial Reporting](https://builtintoronto.com/job/director-financial-reporting/11894710) — Clutch
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director Mechanical Engineering](https://builtintoronto.com/job/director-mechanical-engineering/11892833) — Generac Power Systems
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Associate Director, Process Engineering](https://builtintoronto.com/job/associate-director-process-engineering/11882474) — OMERS
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director, Strategic Business Development & Enterprise Sales](https://builtintoronto.com/job/director-strategic-business-development-enterprise-sales/11877810) — Objectway
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director of Business Development](https://builtintoronto.com/job/sales-director/10746413) — Creative Clicks B.V.
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Project Director - Industrial East](https://builtintoronto.com/job/project-director-industrial-east/11874724) — Bird Construction
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director, Product Portfolio Management](https://builtintoronto.com/job/director-product-portfolio-management/11817767) — Thomson Reuters
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director of Finance](https://builtintoronto.com/job/director-finance/11529434) — Multiview Financial Software
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Senior Director, Global Total Rewards (14-Month Contract)](https://builtintoronto.com/job/senior-director-global-total-rewards-14-month-contract/11886428) — 1Password
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Director, Client Services (Influencer Marketing)](https://builtintoronto.com/job/director-client-services-influencer-marketing/11195881) — Viral Nation
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Art Director - all games](https://builtintoronto.com/job/art-director/11873649) — Voldex
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [Tax Principal or Signing Director](https://builtintoronto.com/job/tax-principal-or-signing-director/11873515) — CLA (CliftonLarsonAllen)
+- 📍 **Location:** Toronto, Ontario, Canada
+
+### [SVP, IT Operations](https://builtintoronto.com/job/svp-it-operations/12452421) — BGIS
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
 
-### [Director, Lending Programs & Capital](https://builtintoronto.com/job/director-lending-programs-capital/12447049) — BMO
+### [Vice President, Mergers and Acquisitions](https://builtintoronto.com/job/vice-president-mergers-and-acquisitions/11880852) — Kroll
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
 
-### [Sr. Director, Global MSP Sales](https://builtintoronto.com/job/sr-director-global-msp-sales/12447284) — Cohesity
+### [Canadian Financial and Regulatory Reporting, VP](https://builtintoronto.com/job/canadian-financial-and-regulatory-reporting-vp/11892289) — Citi
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
 
-### [Art Director](https://builtintoronto.com/job/art-director/11544170) — Pencil
+### [Head of Private Equity](https://builtintoronto.com/job/head-private-equity/12455062) — Brain Co.
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
+- 🕒 **Posted:** 2026-11-25
 
-### [Vice President, Financial Controller](https://builtintoronto.com/job/vice-president-financial-controller/12450832) — Classic Fire + Life Safety
+### [Regional Head of Customer Success, NAM](https://builtintoronto.com/job/regional-head-customer-success-nam/10104874) — Cubic Corporation
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
+- 🕒 **Posted:** 2026-11-25
 
-### [Associate Vice President, Product and Underwriting, Small Business Insurance](https://builtintoronto.com/job/associate-vice-president-product-and-underwriting-small-business-insurance/11574181) — TD Bank
+### [Head of Legal](https://builtintoronto.com/job/head-legal/11896212) — Develop Health
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
 
-### [Vice President & Market Leader (GTA West), Private Wealth](https://builtintoronto.com/job/vice-president-market-leader-gta-west-private-wealth/12447051) — BMO
+### [Head of AI Native Operations](https://builtintoronto.com/job/head-ai-native-operations/11507850) — Supabase
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [VP, Global Finance Risk / Prime Services Risk](https://builtintoronto.com/job/vp-global-finance-risk-prime-services-risk/12447046) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Global VP Marketing](https://builtintoronto.com/job/global-vp-marketing/12449056) — Bridge Strategies
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
-
-### [Chief Revenue Officer (f/m/x)](https://builtintoronto.com/job/chief-revenue-officer-f-m-x/12450893) — LiveEO GmbH
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-24
