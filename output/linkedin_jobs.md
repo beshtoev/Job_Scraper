@@ -1,52 +1,71 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 15:02 UTC*
+*Last updated: 2026-11-25 16:22 UTC*
 
-**11 new role(s)** since last run · 16 total in last 1h
+**16 new role(s)** since last run · 24 total in last 1h
 
-### [Program Director](https://www.linkedin.com/jobs/view/4487214545/) — APPLY
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $160,000 - $200,000
-- 🕒 **Posted:** 2026-11-25
-
-### [Chef de l'ingénierie | Head of Engineering](https://www.linkedin.com/jobs/view/4468133647/) — ValPay
-- 📍 **Location:** Saint-Laurent, Quebec, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Chief of Staff](https://www.linkedin.com/jobs/view/4470220613/) — Trulioo
+### [Director, Capital Investment & Decision Support](https://www.linkedin.com/jobs/view/4486301027/) — Turner & Townsend
 - 📍 **Location:** Vancouver, British Columbia, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, SOX](https://www.linkedin.com/jobs/view/4479256304/) — Brookfield
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $145,000 - $165,000
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Customer Success Managers](https://www.linkedin.com/jobs/view/4485027448/) — G-P
-- 📍 **Location:** Hiawatha First Nation, Ontario, Canada
-- 💰 **Salary:** $250K to $1
-- 🕒 **Posted:** 2026-11-25
-
-### [Vice President of Administrative Operations](https://www.linkedin.com/jobs/view/4493434114/) — Capital Wealth Group
+### [Chief Financial Strategy Officer](https://www.linkedin.com/jobs/view/4494908967/) — Vanta Ventures
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Growth Marketing Director](https://www.linkedin.com/jobs/view/4493427536/) — Miratech
+### [Senior Regional Vice President](https://www.linkedin.com/jobs/view/4493423778/) — EP Wealth Advisors。
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Executive Vice President of Regional Operations & Execution](https://www.linkedin.com/jobs/view/4494909916/) — Pavanam Finance
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4488036160/) — GlassRatner Canada
+- 📍 **Location:** London, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Senior Director, Human Resources, Retail Division](https://www.linkedin.com/jobs/view/4494923441/) — J.D. Irving, Limited
+- 📍 **Location:** Saint John, New Brunswick, Canada
+- 💰 **Salary:** $175,000 - $225,000
+- 🕒 **Posted:** 2026-11-25
+
+### [Vice President of Operational Excellence](https://www.linkedin.com/jobs/view/4494915813/) — Stokes Capital Group
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, External Reporting & Consolidation](https://www.linkedin.com/jobs/view/4493430526/) — SNDL Inc.
+- 📍 **Location:** Alberta, Canada
+- 💰 **Salary:** $145,000.00/yr - CA$155,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, External Reporting & Consolidation](https://www.linkedin.com/jobs/view/4493433348/) — SNDL Inc.
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $145,000.00/yr - CA$155,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Wealth Strategy & Research - 12-month contract - Tangerine](https://www.linkedin.com/jobs/view/4486064572/) — Tangerine
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Associate Director, Data Sciences](https://www.linkedin.com/jobs/view/4414921327/) — SOTI
+### [Director, M&A](https://www.linkedin.com/jobs/view/4414741321/) — Perseus Group, Constellation Software
+- 📍 **Location:** Markham, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Investor Relations](https://www.linkedin.com/jobs/view/4486084758/) — Maple Leaf Foods Inc
 - 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Security Architecture](https://www.linkedin.com/jobs/view/4486087388/) — Sunlife
+### [Vice President of Growth Strategy](https://www.linkedin.com/jobs/view/4494647382/) — Rock Haven Ventures
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Associate Director](https://www.linkedin.com/jobs/view/4486093955/) — Turner & Townsend
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Customer Success - Canada](https://www.linkedin.com/jobs/view/4438727818/) — Motive
-- 📍 **Location:** Canada
-- 💰 **Salary:** $243,000—$365,000
+### [Associate Director, M&A](https://www.linkedin.com/jobs/view/4280230558/) — Perseus Group, Constellation Software
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director of Avionics](https://www.linkedin.com/jobs/view/4490321178/) — TalentWorld
-- 📍 **Location:** Calgary, Alberta, Canada
+### [Associate Director, M&A](https://www.linkedin.com/jobs/view/4280229590/) — Perseus Group, Constellation Software
+- 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-25
