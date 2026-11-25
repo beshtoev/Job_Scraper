@@ -1,37 +1,45 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-24 22:55 UTC*
+*Last updated: 2026-11-25 00:57 UTC*
 
-**6 new role(s)** since last run · 33 total in last 24h
+**7 new role(s)** since last run · 35 total in last 24h
 
-### [Data & AI Platform Services Director AI & Data Platforms](https://ca.indeed.com/viewjob?jk=48ed5bd1ed5f9a2d) — Symcor
+### [VP, Global Finance Risk / Prime Services Risk](https://ca.indeed.com/viewjob?jk=996ab4a5dad290d7) — BMO Financial Group
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Content & Curriculum - Elementary (K-6)](https://ca.indeed.com/viewjob?jk=e01117ad0bce2cf6) — Nelson Education
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Engineering](https://ca.indeed.com/viewjob?jk=e01adb6baa0bdfec) — CircleCI
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Content & Curriculum - Secondary (7-12)](https://ca.indeed.com/viewjob?jk=f87f7f7226e2d3cd) — Nelson Education
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-24
+
+### [Director, Digital Marketing & eCommerce](https://ca.indeed.com/viewjob?jk=4c56465b73736f67) — Canopy Growth Corporation
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-24
+
+### [Business Development Director - C&I](https://ca.indeed.com/viewjob?jk=5b5681243cc26eff) — Rodan Energy Solutions
 - 📍 **Location:** Mississauga, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-24
 
-### [Director of Facilities & Projects](https://ca.indeed.com/viewjob?jk=ffa4bec6ead98a84) — Royal Canadian Yacht Club
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-24
-
-### [Digital Presence and Growth Director](https://ca.indeed.com/viewjob?jk=b2bbe716bb695d0f) — Park Lawn Corporation
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-24
-
-### [Vice President/Director, Senior Institutional Derivatives and Fixed Income Sales](https://ca.indeed.com/viewjob?jk=d5cbbe9d348309c8) — Desjardins
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-24
-
-### [Director of Facilities & Projects](https://ca.indeed.com/viewjob?jk=bbe5c4c3fa9fd77f) — Royal Canadian Yacht Club
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-24
-
-### [Chief Technology Officer](https://ca.indeed.com/viewjob?jk=428370aeec69509b) — JOURNAL TECHNOLOGIES
-- 📍 **Location:** Victoria, BC, CA
+### [Head of Talent](https://ca.indeed.com/viewjob?jk=061f0b5ca4ff4452) — Qorsa
+- 📍 **Location:** Waterloo, ON, CA
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-24
