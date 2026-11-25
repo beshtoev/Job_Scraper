@@ -1,33 +1,69 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 12:32 UTC*
+*Last updated: 2026-11-25 13:23 UTC*
 
-**7 new role(s)** since last run · 12 total in last 1h
+**14 new role(s)** since last run · 18 total in last 1h
 
-### [Director, Finance (CSM)](https://www.linkedin.com/jobs/view/4494902628/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
+### [Director, Analytics Engineering](https://www.linkedin.com/jobs/view/4487031404/) — GitLab
+- 📍 **Location:** Canada
+- 💰 **Salary:** $139,200—$285,600 USD
 - 🕒 **Posted:** 2026-11-25
 
-### [Expert Opportunity - Head of FP&A ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4442591828/) — Begun
+### [Director Consulting Services – Insurance](https://www.linkedin.com/jobs/view/4487001500/) — CGI
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $145,000–$195,000
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Technical Program Management](https://www.linkedin.com/jobs/view/4494919241/) — Jobgether
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Senior Director, Operations](https://www.linkedin.com/jobs/view/4487091999/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4494616929/) — Journal Technologies
+- 📍 **Location:** Victoria, British Columbia, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Regional Director](https://www.linkedin.com/jobs/view/4442239499/) — BGIS
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $110,000 - $138,000 per annum
+### [Director Project Management](https://www.linkedin.com/jobs/view/4494629349/) — GRAITEC GROUP
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Expert Opportunity - Strategy Director ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4442705209/) — Begun
+### [SEO Director](https://www.linkedin.com/jobs/view/4494616898/) — Search for Hire
 - 📍 **Location:** Canada
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [Expert Opportunity - Head of Strategy ($80/hr, up to $1,600/week)](https://www.linkedin.com/jobs/view/4442588986/) — Begun
+### [Senior Director, Product & Customer Marketing](https://www.linkedin.com/jobs/view/4468146797/) — Solink
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $275,000.00/yr - CA$335,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Director – Americas, Life Sciences Vertical](https://www.linkedin.com/jobs/view/4494798964/) — Jobgether
 - 📍 **Location:** Canada
+- 💰 **Salary:** $171,217–$293,515 USD
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, New Accounts and Documentation](https://www.linkedin.com/jobs/view/4487098691/) — RBC
+### [Director, Customer & Partner Marketing](https://www.linkedin.com/jobs/view/4487221219/) — SOCi.ai
 - 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Project Management Director](https://www.linkedin.com/jobs/view/4486049841/) — Socomec Group
+- 📍 **Location:** Brampton, Ontario, Canada
+- 💰 **Salary:** $170,000 - $200,000
+- 🕒 **Posted:** 2026-11-25
+
+### [Enterprise Business Systems Director - Product Management Director Sr](https://www.linkedin.com/jobs/view/4493421401/) — Minnesota Direct Care and Treatment
+- 📍 **Location:** St.-Paul, New Brunswick, Canada
+- 💰 **Salary:** $53.66 - $76.98
+- 🕒 **Posted:** 2026-11-25
+
+### [Growth Marketing Director - Directeur, marketing de croissance](https://www.linkedin.com/jobs/view/4487349844/) — DAVIDsTEA
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of Finance](https://www.linkedin.com/jobs/view/4494914519/) — Pontosense
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $160,000 to $190,000
+- 🕒 **Posted:** 2026-11-25
+
+### [Director of Finance](https://www.linkedin.com/jobs/view/4494925019/) — Pontosense
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 💰 **Salary:** $160,000 to $190,000
 - 🕒 **Posted:** 2026-11-25
