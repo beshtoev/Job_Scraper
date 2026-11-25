@@ -1,88 +1,66 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 19:19 UTC*
+*Last updated: 2026-11-25 22:17 UTC*
 
-**20 new role(s)** since last run · 1158 total in current portal openings
+**15 new role(s)** since last run · 1159 total in current portal openings
 
-### [Director, Non-Financial Risk Assessment Programs](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Director--Non-Financial-Risk-Assessment-Programs_R260032475) — BMO
-- 📍 **Location:** Toronto, ON, CAN
+### [Director Portfolio Architecture, Hosting Services](https://jobs.canadalife.com/job/Toronto-Director-Portfolio-Architecture%2C-Hosting-Services-ON/1460820133/) — Canada Life
+- 📍 **Location:** Toronto, ON, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [VP, Wholesale Integration](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/VP--Wholesale-Integration_R260032355) — BMO
-- 📍 **Location:** Toronto, ON, CAN
+### [Director, Finance & Performance Management (CFO, Santé Circle Health)](https://jobs.canadalife.com/job/London-Ontario-Director%2C-Finance-&amp;-Performance-Management-%28CFO%2C-Sant%C3%A9-Circle-Health%29-ON-N6A-4K1/1460822133/) — Canada Life
+- 📍 **Location:** London Ontario, ON, CA, N6A 4K1
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Collections Channel Management](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Director--Collections-Channel-Management_2623772) — CIBC
-- 📍 **Location:** Toronto, ON
+### [Director, Client Identity Security Assessments (Global Security)](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/16-YORK-STTORONTO/Director--Client-Identity-Security-Assessments--Global-Security-_R-0000192831-1) — RBC
+- 📍 **Location:** 16 YORK ST:TORONTO; VANCOUVER, British Columbia, Canada; HALIFAX, Nova Scotia, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Head of America's Partner Sales](https://jobs.lever.co/jobgether/85e95af2-be0d-4599-b6db-0fdabc0b4506) — Jobgether
-- 📍 **Location:** Canada
-- **Work mode:** On-site
+### [Director, CIAM Business Enablement (Global Security)](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/16-YORK-STTORONTO/Director--CIAM-Business-Enablement--Global-Security-_R-0000192832-1) — RBC
+- 📍 **Location:** 16 YORK ST:TORONTO; VANCOUVER, British Columbia, Canada; HALIFAX, Nova Scotia, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, Customer Performance, Brand](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Toronto-Canada/Director--Customer-Performance--Brand_R-290880-1) — Mastercard
-- 📍 **Location:** Toronto, Canada
+### [Director, CIAM Strategic Business Initiatives (Global Security)](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/16-YORK-STTORONTO/Director--CIAM-Strategic-Business-Initiatives--Global-Security-_R-0000192828-1) — RBC
+- 📍 **Location:** 16 YORK ST:TORONTO; VANCOUVER, British Columbia, Canada; HALIFAX, Nova Scotia, Canada
 - 🕒 **Posted:** 2026-11-25
 
-### [Sr. Director, HR Shared Services Strategy & Transformation](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/CAN-ON-Mississauga/Sr-Director--HR-Shared-Services-Strategy---Transformation_JR0157524-1) — Mckesson
-- 📍 **Location:** CAN, ON, Mississauga; Irving, TX, USA - 6555 North State Highway 161 (P001)
-- 🕒 **Posted:** 2026-11-25
+### [President, BEC Legal Systems](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/Remote---Canada/President--BEC-Legal-Systems_R53957) — Talentmanagementsolution
+- 📍 **Location:** Remote - Canada; Remote - USA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-31
 
-### [Director, Data Domain Enablement & Delivery Lead - AIA](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--Data-Domain-Enablement---Delivery-Lead---AIA_4968301-2) — Pfizer
-- 📍 **Location:** United States - New York - New York City; Europe - Any Pfizer Site; North America - Any Pfizer Site; Latin America - Any Pfizer Site
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, AIA – Commercial Agentic Data Stewardship Lead](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--AIA---Commercial-Agentic-Data-Stewardship-Lead_4968300-2) — Pfizer
-- 📍 **Location:** United States - New York - New York City; Europe - Any Pfizer Site; North America - Any Pfizer Site
-- 🕒 **Posted:** 2026-11-25
-
-### [Executive Assistant - Chief Data Officer](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Executive-Assistant---Chief-Data-Officer_R-0000193438-1) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, IAM Product Risk (Global Security)](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--IAM-Product-Risk--Global-Security-_R-0000193064-1) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada; 335 8 AVE SW:CALGARY; 745 THURLOW ST:VANCOUVER
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, IT Audit](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Toronto-Ontario/Director--IT-Audit_JR00129899) — Sun Life
+### [VP, HR Strategy, Platforms and Enablement](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/VP--HR-Strategy--Platforms-and-Enablement_R_1522471) — TD
 - 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-11-16
+- 🕒 **Posted:** 2026-11-25
 
-### [Capital Projects and Infrastructure, Infrastructure Project Finance, Director](https://jobs-ca.pwc.com/ca/en/job/767701WD) — PwC Canada
+### [Deals Value Creation Analytics Director](https://jobs-ca.pwc.com/ca/en/job/739416WD) — PwC Canada
 - 📍 **Location:** Toronto, Ontario, Canada
 - **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-10
+
+### [Senior Assistant Director of Finance and Accounting](https://builtintoronto.com/job/senior-assistant-director-finance-and-accounting/12484381) — Marriott International
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Climate Mobilization](https://builtintoronto.com/job/director-climate-mobilization/12480398) — FinDev Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Director, Trading Market Risk - Global Equities](https://builtintoronto.com/job/director-trading-market-risk-global-equities/12480370) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Senior Director, Clinical Operations](https://builtintoronto.com/job/senior-director-clinical-operations/12217789) — ICON plc
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Senior Director, Performance Management and Continuous Improvement](https://builtintoronto.com/job/senior-director-performance-management-and-continuous-improvement/12479677) — CSL
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Head of Tax & Asset Compliance](https://builtintoronto.com/job/head-tax-asset-compliance/12479532) — GEOTAB
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-25
+
+### [Head of Wealth Compliance Strategy, Emerging Risks, and Transformation (5755)](https://builtintoronto.com/job/senior-manager-wealth-compliance-strategy-emerging-risks-and-transformation-5755/12447537) — TD Bank
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-24
-
-### [U.S. Tax, Director](https://jobs-ca.pwc.com/ca/en/job/769491WD) — PwC Canada
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-27
-
-### [Transfer Pricing - Financial Transactions, Director](https://jobs-ca.pwc.com/ca/en/job/745667WD) — PwC Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-07-24
-
-### [Director, Data Domain Enablement & Delivery Lead - AIA](https://builtintoronto.com/job/director-data-domain-enablement-delivery-lead-aia/12476804) — Pfizer
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, AIA - Commercial Agentic Data Stewardship Lead](https://builtintoronto.com/job/director-aia-commercial-agentic-data-stewardship-lead/12476790) — Pfizer
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Network Security Platforms & Governance (Hybrid)](https://builtintoronto.com/job/director-network-security-platforms-governance-hybrid/12477554) — Broadridge
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Revenue Operations (B2B SaaS)](https://builtintoronto.com/job/director-revenue-operations-b2b-saas/12473663) — StoreForce
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
-
-### [Senior Director, Product Security](https://builtintoronto.com/job/senior-director-product-security/12406904) — 1Password
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-22
-
-### [VP, Wholesale Integration](https://builtintoronto.com/job/vp-wholesale-integration/12479253) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-25
