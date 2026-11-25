@@ -1,44 +1,22 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-25 03:30 UTC*
+*Last updated: 2026-11-25 05:49 UTC*
 
-**7 new role(s)** since last run · 38 total in last 24h
+**3 new role(s)** since last run · 39 total in last 24h
 
-### [Head of Finance, Canada](https://ca.indeed.com/viewjob?jk=8e9d5da0f03f06f5) — Coinbase
+### [Vice President, Financial Controller](https://ca.indeed.com/viewjob?jk=33925be784249f3d) — Classic Fire + Life Safety Inc.
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-24
+
+### [Vice President, Enterprise Asset Protection, Fraud, Security & Intelligence](https://ca.indeed.com/viewjob?jk=27a829aed6299f96) — Loblaw
+- 📍 **Location:** Brampton, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-25
 
-### [Director, AI Strategic Initiatives](https://ca.indeed.com/viewjob?jk=b3684834f9b87c8d) — Equinix
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-24
-
-### [Director / Senior Director – Radiochemistry and Radiopharmaceutical Development](https://ca.indeed.com/viewjob?jk=f45782dd4b90bb20) — Eli Lilly
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-24
-
-### [Senior Director, Information Technology](https://ca.indeed.com/viewjob?jk=cf9fd5922be36eed) — Toronto Region Board of Trade
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-11-24
-
-### [Director, Events](https://ca.indeed.com/viewjob?jk=185f2088b168319b) — University of Toronto
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-24
-
-### [Head of Finance, Canada](https://ca.indeed.com/viewjob?jk=9668d556a19a39da) — Coinbase
-- 📍 **Location:** Waterloo, ON, CA
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Commercial and Corporate Credit Audit](https://ca.indeed.com/viewjob?jk=483b0aa27f13f140) — BMO Financial Group
-- 📍 **Location:** Toronto, ON, CA
+### [Chief Financial Officer (CFO)](https://ca.indeed.com/viewjob?jk=89e107e79bdca540) — Appficiency Inc.
+- 📍 **Location:** Mississauga, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-24
