@@ -1204,8 +1204,8 @@
     if (a === b) return true;
     return a.length >= 5 && b.length >= 5 && (a.includes(b) || b.includes(a));
   }
-  function _locOverlap(a, b) {
-    const at = _locTokens(a), bt = _locTokens(b);
+  function _locOverlap(a, b) { return _locTokOverlap(_locTokens(a), _locTokens(b)); }
+  function _locTokOverlap(at, bt) {
     if (!at.length || !bt.length) return false;
     const an = at.join(' '), bn = bt.join(' ');
     if (an === bn) return true;
@@ -1213,8 +1213,8 @@
     const bset = new Set(bt);
     return at.some(t => t.length >= 4 && bset.has(t));
   }
-  function _titleMatch(a, b) {
-    const at = _titleTokens(a), bt = _titleTokens(b);
+  function _titleMatch(a, b) { return _titleTokMatch(_titleTokens(a), _titleTokens(b)); }
+  function _titleTokMatch(at, bt) {
     if (!at.length || !bt.length) return false;
     const an = at.join(' '), bn = bt.join(' ');
     if (an === bn) return true;
@@ -1264,40 +1264,73 @@
   }
   // Company and title must match; distinct locations stay separate unless a
   // normalized URL ID proves they are the same posting.
+  // Per-job tokens/keys, computed once per render instead of once per pair. dedupe compares
+  // every pair (~3.8M for 2,800 jobs), and re-parsing URLs and re-tokenising titles inside
+  // that loop froze the page for ~20 s on every load and filter click (2026-11-26).
+  let _DK = new WeakMap();
+  function _dk(j) {
+    const sig = `${j.url}\u0001${j.company}\u0001${j.title}\u0001${j.location}\u0001${(j.duplicate_urls || []).length}`;
+    let d = _DK.get(j);
+    if (d && d.sig === sig) return d;
+    const co = _normCo(j.company);
+    d = { sig, keys: _dupUrlList(j).map(_jobKey).filter(Boolean), co,
+          title: _titleTokens(j.title), loc: _locTokens(j.location),
+          noLoc: !(j.location || '').trim() };
+    _DK.set(j, d);
+    return d;
+  }
+  function _coMatchNorm(a, b) {
+    if (!a || !b) return false;
+    if (a === b) return true;
+    return a.length >= 5 && b.length >= 5 && (a.includes(b) || b.includes(a));
+  }
   function _shouldMerge(a, b) {
-    const aKeys = new Set(_dupUrlList(a).map(_jobKey).filter(Boolean));
-    const bKeys = _dupUrlList(b).map(_jobKey).filter(Boolean);
-    if (bKeys.some(k => aKeys.has(k))) return true;
-    if (!_coMatch(a.company, b.company)) return false;
-    if (!_titleMatch(a.title, b.title)) return false;
-    if (_locOverlap(a.location, b.location)) return true;
-    return (!(a.location || '').trim() || !(b.location || '').trim()) && _descOverlap(a, b);
+    const da = _dk(a), db = _dk(b);
+    if (da.keys.length && db.keys.some(k => da.keys.includes(k))) return true;
+    if (!_coMatchNorm(da.co, db.co)) return false;
+    if (!_titleTokMatch(da.title, db.title)) return false;
+    if (_locTokOverlap(da.loc, db.loc)) return true;
+    return (da.noLoc || db.noLoc) && _descOverlap(a, b);
   }
   function _richness(j) { return (j._salMin != null ? 2 : 0) + (j.description ? 1 : 0); }
   const TRIAGE_PRIORITY = { applied: 4, saved: 3, irrelevant: 2, dismissed: 1 };
 
   function dedupe(list) {
-    // Pairwise clustering catches transitive duplicates without merging
-    // generic same-title roles that fail the location/content checks.
-    const out = [];
-    const used = new Array(list.length).fill(false);
-    for (let i = 0; i < list.length; i++) {
+    // Clustering catches transitive duplicates without merging generic same-title roles that
+    // fail the location/content checks. _shouldMerge only ever joins jobs that share a URL key
+    // or whose normalized companies match, so each job is compared only with those candidates
+    // instead of every other job (all pairs took ~20 s for 2,800 jobs; this ~0.1 s, same result).
+    const n = list.length, D = list.map(_dk);
+    const byKey = new Map(), byCo = new Map();
+    D.forEach((d, i) => {
+      d.keys.forEach(k => { let a = byKey.get(k); if (!a) byKey.set(k, a = []); a.push(i); });
+      if (d.co) { let a = byCo.get(d.co); if (!a) byCo.set(d.co, a = []); a.push(i); }
+    });
+    const cos = [...byCo.keys()], longCos = cos.filter(c => c.length >= 5), coPeers = new Map();
+    for (const c of cos) {
+      const peers = [c];
+      if (c.length >= 5) for (const o of longCos) if (o !== c && (o.includes(c) || c.includes(o))) peers.push(o);
+      coPeers.set(c, peers);
+    }
+    const candidates = i => {
+      const found = new Set();
+      D[i].keys.forEach(k => byKey.get(k).forEach(x => found.add(x)));
+      if (D[i].co) coPeers.get(D[i].co).forEach(c => byCo.get(c).forEach(x => found.add(x)));
+      return found;
+    };
+    const out = [], used = new Array(n).fill(false);
+    for (let i = 0; i < n; i++) {
       if (used[i]) continue;
-      const cluster = [list[i]];
       used[i] = true;
-      let changed = true;
-      while (changed) {
-        changed = false;
-        for (let k = i + 1; k < list.length; k++) {
-          if (used[k]) continue;
-          if (cluster.some(member => _shouldMerge(member, list[k]))) {
-            cluster.push(list[k]);
-            used[k] = true;
-            changed = true;
-          }
+      const members = [i];
+      for (let m = 0; m < members.length; m++) {
+        for (const k of candidates(members[m])) {
+          if (k <= i || used[k]) continue;
+          if (_shouldMerge(list[members[m]], list[k])) { used[k] = true; members.push(k); }
         }
       }
-      out.push(_mergeCluster(cluster));
+      members.sort((a, b) => a - b);
+      out.push(_mergeCluster(members.map(x => list[x])));
     }
     return out;
   }
