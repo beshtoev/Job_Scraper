@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 396,
-    "pollable": 267,
+    "companies": 397,
+    "pollable": 268,
     "unresolved": 129
   },
   "companies": [
@@ -5244,6 +5244,19 @@
       "ats": "rippling",
       "slug": "leoberwick",
       "careers_url": "https://ats.rippling.com/leoberwick/jobs",
+      "source": "murat 2026-11-26",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "GS1 Canada",
+      "archetype": "A",
+      "ats": "pinpoint",
+      "slug": "gs1ca",
+      "careers_url": "https://gs1ca.org/careers/job-opportunities/",
       "source": "murat 2026-11-26",
       "include": [],
       "exclude": [],
