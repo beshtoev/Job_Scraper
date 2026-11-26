@@ -1,53 +1,40 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-26 10:50 UTC*
+*Last updated: 2026-11-26 11:28 UTC*
 
-**12 new role(s)** since last run · 15 total in last 1h
+**8 new role(s)** since last run · 18 total in last 1h
 
-### [Director, Marketing Technology](https://www.linkedin.com/jobs/view/4495010378/) — Jobgether
+### [Director, Engineering (Remote from Canada)](https://www.linkedin.com/jobs/view/4495021241/) — Jobgether
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-26
 
-### [Vice President, Integration Management Office](https://www.linkedin.com/jobs/view/4468149303/) — EQ Bank
+### [Director, BD & Commercial Strategy - Canada](https://www.linkedin.com/jobs/view/4453094441/) — ENGIE North America Inc.
+- 📍 **Location:** Markham, Ontario, Canada
+- 💰 **Salary:** $168,000.00– $ 257,945.00
+- 🕒 **Posted:** 2026-11-26
+
+### [Head of Global Benefits and Retirement Savings Programs](https://www.linkedin.com/jobs/view/4469039412/) — PartnerRe
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $125,000 - 175,000 per year
 - 🕒 **Posted:** 2026-11-26
 
-### [Director, EX Innovation](https://www.linkedin.com/jobs/view/4485547172/) — Equinix
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [VP Delivery - Natural Resources](https://www.linkedin.com/jobs/view/4487582161/) — Syntax
-- 📍 **Location:** Greater Toronto Area, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Senior Director, Customer IAM Engineering (Global Security)](https://www.linkedin.com/jobs/view/4495261977/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Associate Director, IOCC Transformation & Innovation](https://www.linkedin.com/jobs/view/4478455882/) — Toronto Pearson International Airport
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Vice President - Construction Project Management](https://www.linkedin.com/jobs/view/4479729174/) — Pinchin Canada
-- 📍 **Location:** Richmond, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Market Sales Director - Vancouver](https://www.linkedin.com/jobs/view/4477025409/) — Tiffany & Co.
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $160,000 - $225,000 per annum
-- 🕒 **Posted:** 2026-11-26
-
-### [Senior Director, Customer IAM Integration Assurance (Global Security)](https://www.linkedin.com/jobs/view/4495271694/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, CIAM Integration Assurance (Global Security)](https://www.linkedin.com/jobs/view/4495286000/) — RBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Vice President of Sales](https://www.linkedin.com/jobs/view/4487510542/) — Ring Rescue Inc.
-- 📍 **Location:** Halifax, Nova Scotia, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, Strategic Planning](https://www.linkedin.com/jobs/view/4493816261/) — Kia Canada
+### [Founding Director of Marketing - Broad Republic](https://www.linkedin.com/jobs/view/4487548984/) — American Tall
 - 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-26
+
+### [Associate Director, Digital and Web](https://www.linkedin.com/jobs/view/4495251923/) — University of Ottawa
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-26
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4495294188/) — Trail Hub
+- 📍 **Location:** Greater Toronto Area, Canada
+- 💰 **Salary:** $90,000 to $105,000
+- 🕒 **Posted:** 2026-11-26
+
+### [Senior Director or Managing Director](https://www.linkedin.com/jobs/view/4491950228/) — Metis Search
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-11-26
+
+### [Sector Director - Transit](https://www.linkedin.com/jobs/view/4443006827/) — Colliers Project Leaders | Canada
+- 📍 **Location:** Winnipeg, Manitoba, Canada
+- 💰 **Salary:** $126,376 – $173,677 per year
 - 🕒 **Posted:** 2026-11-26
