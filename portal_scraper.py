@@ -921,6 +921,58 @@ def fetch_taleo(entry: dict) -> list[dict]:
     return out
 
 
+_ZOHO_ROW = re.compile(r'(?is)<tr id="zr-joblist-detail_(\d+)"[^>]*>(.*?)</tr>')
+_ZOHO_DESC = re.compile(r'"fieldLabel":"Job Description","uitype":\d+,"value":"((?:[^"\\]|\\.)*)"')
+
+
+def _zoho_desc(page: str) -> str:
+    """The detail page embeds the description as JS-escaped HTML ("\\x22", "\\/", "\\-")."""
+    m = _ZOHO_DESC.search(page)
+    if not m:
+        return ""
+    raw = re.sub(r"\\x([0-9a-fA-F]{2})", lambda x: chr(int(x.group(1), 16)), m.group(1))
+    raw = raw.replace("\\n", " ").replace("\\t", " ")
+    raw = re.sub(r"\\(.)", r"\1", raw)
+    return strip_html(raw)
+
+
+def fetch_zoho(entry: dict) -> list[dict]:
+    """Zoho Recruit public portals (<org>.zohorecruit.com/recruit/Portal.na?digest=...): one
+    server-rendered table of all openings, columns job type / title / date opened (MM/DD/YYYY)
+    / city. Descriptions come from each PortalDetail.na page, fetched only for titles that pass
+    the title check. Added 2026-11-26 for Corefactor (staffing firm)."""
+    url = entry["careers_url"]
+    parts = urllib.parse.urlsplit(url)
+    origin = f"{parts.scheme}://{parts.netloc}"
+    out, seen = [], set()
+    for m in _ZOHO_ROW.finditer(http_text(url)):
+        job_id, body = m.group(1), m.group(2)
+        if job_id in seen:
+            continue
+        seen.add(job_id)
+        cells = [html.unescape(re.sub(r"<[^>]+>", "", c)).strip() for c in re.findall(r"(?is)<td[^>]*>(.*?)</td>", body)]
+        if len(cells) < 2 or not cells[1]:
+            continue
+        href = re.search(r"href='([^']*PortalDetail\.na[^']*)'", body)
+        link = urllib.parse.urljoin(origin + "/", html.unescape(href.group(1))) if href else url
+        posted = ""
+        dm = re.fullmatch(r"(\d{2})/(\d{2})/(\d{4})", cells[2] if len(cells) > 2 else "")
+        if dm:
+            posted = f"{dm.group(3)}-{dm.group(1)}-{dm.group(2)}"
+        title = cells[1]
+        desc = ""
+        if _title_relevant(title):
+            try:
+                desc = _zoho_desc(http_text(link))
+            except SourceFailure:
+                desc = ""
+        out.append(posting(entry, title=title, url=link, location=cells[3] if len(cells) > 3 else "",
+                           req_id=job_id, date_posted=posted, description=desc))
+    if not out:
+        raise SourceFailure("no openings found on the Zoho Recruit portal")
+    return out
+
+
 _XNORTH_CARD = re.compile(r'(?is)<a href="(https?://[^"]+/job/[^"]+)" class="job-card[^"]*">(.*?)</a>')
 _XNORTH_TEXT = re.compile(r'(?is)<(?:article|div) class="[^"]*article-section__text[^"]*">(.*?)(?:<div class="[^"]*share|<section[^>]*recent-jobs|<footer)')
 
@@ -1309,6 +1361,7 @@ FETCHERS = {
     "adp": fetch_adp,
     "xnorth": fetch_xnorth,
     "taleo": fetch_taleo,
+    "zoho": fetch_zoho,
     "j2w": fetch_successfactors,
 }
 
