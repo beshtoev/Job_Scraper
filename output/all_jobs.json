@@ -1,5 +1,6 @@
 {
-  "updated_at": "2026-11-26 17:31 UTC",
+  "updated_at": "2026-11-26 17:55 UTC",
+  "total": 4202,
   "jobs": [
     {
       "company": "Leo Berwick",
@@ -124996,6 +124997,5 @@
       "geo_detail": "only country stated",
       "geo_version": 1
     }
-  ],
-  "total": 4202
+  ]
 }
