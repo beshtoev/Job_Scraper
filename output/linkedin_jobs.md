@@ -1,45 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-26 06:25 UTC*
+*Last updated: 2026-11-26 06:52 UTC*
 
-**9 new role(s)** since last run · 10 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Director Consulting Services](https://www.linkedin.com/jobs/view/4495255356/) — CGI
+### [Associate Director, Digital and Web](https://www.linkedin.com/jobs/view/4495251923/) — University of Ottawa
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-26
+
+### [Associate Director, Employee Engagement, Culture and EDI](https://www.linkedin.com/jobs/view/4495249956/) — HOOPP (Healthcare of Ontario Pension Plan)
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $145000–$195000
-- 🕒 **Posted:** 2026-11-26
-
-### [Director; IT Enterprise Applications](https://www.linkedin.com/jobs/view/4495214826/) — Top Aces
-- 📍 **Location:** Dorval, Quebec, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, Digital Product Operations & Strategy](https://www.linkedin.com/jobs/view/4494990516/) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, Revenue Operations (B2B SaaS)](https://www.linkedin.com/jobs/view/4494978970/) — Jobgether
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Director Consulting Services-Public Sector](https://www.linkedin.com/jobs/view/4495246825/) — CGI
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $135,000-$185,000
-- 🕒 **Posted:** 2026-11-26
-
-### [Director of Engineering, Innovations](https://www.linkedin.com/jobs/view/4495252484/) — Localcoin
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $180,000-$200,00
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, Corporate Taxation](https://www.linkedin.com/jobs/view/4495001009/) — Jobgether
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Sector Director - Infrastructure, Western Canada](https://www.linkedin.com/jobs/view/4495267200/) — Colliers Project Leaders | Canada
-- 📍 **Location:** Saskatoon, Saskatchewan, Canada
-- 💰 **Salary:** $126,376 – $173,677 per year
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, Global Marketing & Sales Enablement](https://www.linkedin.com/jobs/view/4494977997/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 💰 **Salary:** $150,000.00 - 185,000.00
+- 💰 **Salary:** $103,000 - $153,000
 - 🕒 **Posted:** 2026-11-26
