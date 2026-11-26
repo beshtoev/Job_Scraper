@@ -1,16 +1,16 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-26 12:20 UTC*
+*Last updated: 2026-11-26 14:33 UTC*
 
-**2 new role(s)** since last run · 32 total in last 24h
+**2 new role(s)** since last run · 31 total in last 24h
 
-### [Director, CIAM Business Enablement (Global Security)](https://ca.indeed.com/viewjob?jk=7329f609a88b2357) — RBC
+### [Director, Services Account Executive](https://ca.indeed.com/viewjob?jk=168623682f1cb57a) — Microsoft
+- 📍 **Location:** Goodwood, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-23
+
+### [Executive Director, Marketing and Communications](https://ca.indeed.com/viewjob?jk=34dfb10d900d5ad8) — University of Toronto
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, Client Identity Security Assessments (Global Security)](https://ca.indeed.com/viewjob?jk=93d2c6b685768d78) — RBC
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
+- 🕒 **Posted:** 2026-11-25
