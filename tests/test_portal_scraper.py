@@ -399,3 +399,16 @@ def test_workday_size_probe_failure_falls_back_to_keywords(monkeypatch):
     monkeypatch.setattr(portals, "http_json", fake_http_json)
     portals.fetch_workday({**_entry("workday"), "careers_url": "https://acme.wd1.myworkdayjobs.com/en-US/External"})
     assert [c["searchText"] for c in calls] == [""] + list(portals.WORKDAY_TERMS)
+
+
+def test_workday_missing_location_is_read_from_detail(monkeypatch):
+    def fake_http_json(url, payload=None):
+        if payload is None:
+            return {"jobPostingInfo": {"location": "Toronto-Ontario-Canada"}}
+        return {"jobPostings": [{"title": "Engineer", "externalPath": "/job/x/Engineer_R1", "bulletFields": ["R1"]}]}
+
+    monkeypatch.setattr(portals, "http_json", fake_http_json)
+    monkeypatch.setattr(portals, "_title_relevant", lambda title: False)
+    monkeypatch.setattr(portals, "WORKDAY_TERMS", ("data",))
+    [job] = portals.fetch_workday({**_entry("workday"), "careers_url": "https://acme.wd1.myworkdayjobs.com/en-US/External"})
+    assert job["location"] == "Toronto-Ontario-Canada"

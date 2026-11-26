@@ -364,15 +364,16 @@ def fetch_workday(entry: dict) -> list[dict]:
         # The list shows "2 Locations" for multi-site jobs; the real places are
         # only in the detail record, and the location filter needs them.
         multi_site = bool(_WORKDAY_MULTI_LOCATION_RE.match(location))
-        if multi_site or _title_relevant(title):
+        no_site = not str(location or "").strip()  # some boards (Thomson Reuters) list no location
+        if multi_site or no_site or _title_relevant(title):
             try:
                 detail = http_json(api_root + external)
                 info = (detail or {}).get("jobPostingInfo") or {}
                 description = strip_html(info.get("jobDescription", ""))
                 posted_at = info.get("startDate") or posted_at
-                if multi_site:
+                if multi_site or no_site:
                     places = [info.get("location")] + list(info.get("additionalLocations") or [])
-                    location = "; ".join(dict.fromkeys(str(p) for p in places if p)) or location
+                    location = "; ".join(dict.fromkeys(str(p) for p in places if p)) or location or ""
             except SourceFailure:
                 pass
         bullets = item.get("bulletFields") or []
