@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-26 18:04 UTC",
+  "scraped_at": "2026-11-26 20:40 UTC",
   "total": 16,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Manulife",
@@ -421,32 +421,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Coinbase",
-      "title": "Head of Finance, Canada",
-      "location": "Montreal, Canada",
-      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010334962801",
-      "date_posted": "2026-11-25",
-      "description": "This strategic leadership role defines the target-state operating model, sets scalable reporting and control standards, and represents Finance with senior…",
-      "salary": "$212k/yr",
-      "salary_source": "employer",
-      "salary_currency": "CAD",
-      "ats": "Glassdoor",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Other Canada",
-      "geo_label": "Other Canada (QC)",
-      "geo_city": "Montreal",
-      "geo_province": "QC",
-      "geo_lat": 45.5019,
-      "geo_lon": -73.5674,
-      "geo_distance_km": 502.6,
-      "geo_rank": 405026,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
