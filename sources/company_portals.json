@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 389,
-    "pollable": 260,
+    "companies": 390,
+    "pollable": 261,
     "unresolved": 129
   },
   "companies": [
@@ -5154,6 +5154,19 @@
       "slug": "circleci",
       "careers_url": "https://job-boards.greenhouse.io/circleci",
       "source": "manual",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Corefactor",
+      "archetype": "A",
+      "ats": "zoho",
+      "slug": "corefactor",
+      "careers_url": "https://corefactor.zohorecruit.com/recruit/Portal.na?iframe=false&digest=Db3P7wNe5WYc8abB1eEVOXGAUnkE7bVo.a85bxdBEmQ-",
+      "source": "murat 2026-11-26 (corefactor.ca/careers)",
       "include": [],
       "exclude": [],
       "searches": [],
