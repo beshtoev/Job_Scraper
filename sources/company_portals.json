@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 388,
-    "pollable": 259,
+    "companies": 389,
+    "pollable": 260,
     "unresolved": 129
   },
   "companies": [
@@ -5140,6 +5140,20 @@
       "slug": "xnorthgroup",
       "careers_url": "https://www.xnorthgroup.com/careers",
       "source": "murat 2026-11-23",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "CircleCI",
+      "archetype": "B",
+      "archetype_source": "claude",
+      "ats": "greenhouse",
+      "slug": "circleci",
+      "careers_url": "https://job-boards.greenhouse.io/circleci",
+      "source": "manual",
       "include": [],
       "exclude": [],
       "searches": [],
