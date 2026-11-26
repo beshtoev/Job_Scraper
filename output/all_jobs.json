@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-26 23:37 UTC",
+  "updated_at": "2026-11-26 23:52 UTC",
   "jobs": [
+    {
+      "company": "Centre for Organizational Effectiveness",
+      "title": "Executive Director - COMPASS Refugee Centre",
+      "location": "Kitchener, Ontario, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4495556133/",
+      "date_posted": "2026-11-26",
+      "salary": "$90,000.00/yr - CA$125,000.00/yr",
+      "ats": "LinkedIn",
+      "description": "Permanent, full-time, 35 hours per week\nLocation: 675 Queen St. S., Unit 230, Kitchener, Ontario\nSalary Range: $90,000–$125,000, commensurate with experience\nClosing Date: January 4, 2027\n\nThe Opportunity\n\nCOMPASS is seeking an Executive Director to lead the organization into its next chapter. The successful candidate will join a respected organization with a clear mission, committed staff and volunteers, strong community relationships, and a long history of walking alongside refugee claimants. Reporting to the Board, the Executive Director will provide strategic and operational leadership, develop people and partnerships, strengthen organizational sustainability, and ensure COMPASS continues to respond to the changing needs of the people and communities it serves.\n\nOur Roots\n\nSince 1987, COMPASS has helped people move from border to belonging through its commitment to Assist, Accompany and Advocate. COMPASS is an inclusive, faith-based organization rooted in the Christian tradition, with core values of empathy, inclusion, empowerment and respect. The organization serves people of all nationalities, cultures and faiths and is committed to welcome, dignity and belonging.\n\nCandidate Profile\n\nCOMPASS is looking for an experienced leader who will be able to embody and promote the COMPASS identity, values, and mission. The ideal candidate is a values-driven and collaborative leader who can build trust, inspire and develop people, work effectively with the Board, manage programs and resources, and strengthen relationships across the refugee-serving sector, faith communities, and the broader community. They will combine strategic thinking with practical leadership, strong communication, financial stewardship, fundraising capability and a commitment to continuous improvement.\n\nQualifications\n\nCandidates will bring progressive senior leadership experience, experience working with a Board, and demonstrated success leading people, operations, partnerships and strategic initiatives. Strong financial stewardship and resource management skills are important, including experience with budgeting, financial oversight, fundraising and supporting long-term organizational sustainability. The ability to lead authentically within a values-based organization are important, along with a commitment to equity, accessibility, reconciliation and inclusion. Knowledge of the refugee claimant experience is valued, whether gained through direct experience or a strong commitment to learning.\n\nInterested?\n\nFor full details about COMPASS, the opportunity, candidate profile, accountabilities, qualifications, compensation and application process, view the full Candidate Profile here\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nNon-profit Organization Management",
+      "first_seen": "2026-11-26T23:52:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Kitchener",
+      "geo_province": "ON",
+      "geo_lat": 43.44214,
+      "geo_lon": -80.49605,
+      "geo_distance_km": 93.4,
+      "geo_rank": 200934,
+      "geo_source": "posting-address",
+      "geo_confidence": "high",
+      "geo_detail": "675 Queen St. S., Kitchener",
+      "geo_version": 1
+    },
     {
       "company": "BMO Financial Group",
       "title": "Director, Office of Strategic Management",
@@ -609,7 +634,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4493847756/"
+      ]
     },
     {
       "company": "Aylo Careers",
@@ -2112,7 +2140,8 @@
       "work_arrangement": "On-site",
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=5ac4d45c518fc137",
-        "https://www.glassdoor.ca/job-listing/j?jl=1010336998658"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336998658",
+        "https://www.linkedin.com/jobs/view/4495044912/"
       ],
       "salary": "$118k–$168k/yr"
     },
@@ -11892,7 +11921,7 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "ZipRecruiter",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",

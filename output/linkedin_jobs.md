@@ -1,41 +1,27 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-26 23:32 UTC*
+*Last updated: 2026-11-26 23:56 UTC*
 
-**8 new role(s)** since last run · 21 total in last 1h
+**5 new role(s)** since last run · 12 total in last 1h
 
-### [Senior Director, Business & Customer Insights](https://www.linkedin.com/jobs/view/4495549607/) — Loblaw Companies Limited
-- 📍 **Location:** Brampton, Ontario, Canada
-- 💰 **Salary:** $170,000.00 - $220,000.00
+### [Director, Guaranteed Wealth Solutions Transformation](https://www.linkedin.com/jobs/view/4495044912/) — Manulife
+- 📍 **Location:** Waterloo, Ontario, Canada
 - 🕒 **Posted:** 2026-11-26
 
-### [Director, Capital Planning](https://www.linkedin.com/jobs/view/4495057347/) — Government of Alberta
+### [Executive Director - COMPASS Refugee Centre](https://www.linkedin.com/jobs/view/4495556133/) — Centre for Organizational Effectiveness
+- 📍 **Location:** Kitchener, Ontario, Canada
+- 💰 **Salary:** $90,000.00/yr - CA$125,000.00/yr
+- 🕒 **Posted:** 2026-11-26
+
+### [Director, Parks and Urban Forestry](https://www.linkedin.com/jobs/view/4493847756/) — City of Edmonton
 - 📍 **Location:** Edmonton, Alberta, Canada
-- 💰 **Salary:** $5,139.30 to $6,526.16
+- 💰 **Salary:** $146,472.00 - $183,091.00
 - 🕒 **Posted:** 2026-11-26
 
-### [Virtual Workspace Engineering Director / Product Owner](https://www.linkedin.com/jobs/view/4495061162/) — Scotiabank
+### [Senior Director – Proton/Particle Therapy Project](https://www.linkedin.com/jobs/view/4494444565/) — University Health Network
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-26
 
-### [Director, Organizational Change Management](https://www.linkedin.com/jobs/view/4495064046/) — Scotiabank
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, Office of Strategic Management](https://www.linkedin.com/jobs/view/4495552527/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Vice President & Market Leader (GTA West), Private Wealth](https://www.linkedin.com/jobs/view/4494177318/) — BMO
+- 📍 **Location:** Oakville, Ontario, Canada
 - 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-11-26
-
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4495058331/) — Ditto
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Director - Compliance Program Governance](https://www.linkedin.com/jobs/view/4493943091/) — BMO
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-11-26
-
-### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4495566137/) — Lacroix Médecine Privée
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $140,000 to $175,000,
 - 🕒 **Posted:** 2026-11-26
