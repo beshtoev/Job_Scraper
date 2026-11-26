@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 394,
-    "pollable": 265,
+    "companies": 395,
+    "pollable": 266,
     "unresolved": 129
   },
   "companies": [
@@ -5219,6 +5219,19 @@
       "slug": "superiorplus",
       "careers_url": "https://jobs.dayforcehcm.com/en-US/superiorplus/SPCAREERS",
       "source": "murat 2026-11-26 (Superior Propane Canada board, linked from superiorpropane.com)",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Coinbase",
+      "archetype": "A",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "careers_url": "https://job-boards.greenhouse.io/coinbase",
+      "source": "murat 2026-11-26 (coinbase.com/en-ca/careers)",
       "include": [],
       "exclude": [],
       "searches": [],
