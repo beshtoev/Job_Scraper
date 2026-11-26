@@ -1,6 +1,527 @@
 {
-  "updated_at": "2026-11-26 21:39 UTC",
+  "updated_at": "2026-11-26 21:50 UTC",
   "jobs": [
+    {
+      "company": "Medline Industries",
+      "title": "VP, Sales Operations",
+      "location": "Mississauga, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336978397",
+      "date_posted": "2026-11-26",
+      "description": "Bachelor's degree in Business, Finance, Economics, Analytics, Commerce or a related discipline; an MBA or other advanced business degree is an asset.",
+      "salary": "$190k–$284k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Flair Airlines Ltd.",
+      "title": "Head of Internal Audit",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337025362",
+      "date_posted": "2026-11-26",
+      "description": "Maintain a quality assurance and improvement (QAIP) program, including ongoing monitoring, periodic internal assessments and external quality assessments at…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337025359",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337025360"
+      ],
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Solen Software Group",
+      "title": "Director of Origination & Sourcing",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336973166",
+      "date_posted": "2026-11-26",
+      "description": "You will own market coverage, outbound strategy, founder engagement, and relationship development for a defined set of verticals and high-priority accounts.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Velora",
+      "title": "Head of Support",
+      "location": "Remote, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336998903",
+      "date_posted": "2026-11-26",
+      "description": "You'll keep raising the bar on talent, own our support goals, partner with our CX AI Lead to keep pushing what AI can do for customers, and make sure customers…",
+      "salary": "$120k–$155k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "work_arrangement": "Remote in-state eligible",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 399999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "Valsoft Corporation",
+      "title": "Responsable des Ventes | Head of Sales",
+      "location": "Saint-Laurent, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336943157",
+      "date_posted": "2026-11-26",
+      "description": "Une expérience pratique de HubSpot ou d’un CRM comparable, et une bonne compréhension des indicateurs de l’entonnoir, de la couverture du pipeline, de la…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Saint-Laurent",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Bistro à venir",
+      "title": "Chief Executive",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336920994",
+      "date_posted": "2026-11-26",
+      "description": "Nous recherchons une personne qui souhaite relever un nouveau défi, partager ses idées et mettre son expérience à profit dans un projet où elle pourra…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "McMan Youth, Family and Community Services Association - South",
+      "title": "Director of Services",
+      "location": "Lethbridge, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336830238",
+      "date_posted": "2026-11-26",
+      "description": "Translate strategic plans into operational plans, measurable objectives, and program outcomes. Research and integrate evidence-based practices and sector trends…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Lethbridge",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "City of Edmonton",
+      "title": "Director, Parks and Urban Forestry",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336939012",
+      "date_posted": "2026-11-26",
+      "description": "Empower supervisors to proactively develop and implement action plans aimed at improving communication, fostering creative problem-solving, promoting seamless…",
+      "salary": "$146k–$183k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Aylo Careers",
+      "title": "Product Director",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336839668",
+      "date_posted": "2026-11-26",
+      "description": "3+ years of experience at a senior leadership level. This is a creator-facing product, so the role blends product strategy, platform integrations, and payments…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Hampton Terrace Long Term Care Centre",
+      "title": "CO - Director Of Care (CO-DOC) (RPN) - Full Time",
+      "location": "Burlington, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336973107",
+      "date_posted": "2026-11-26",
+      "description": "Pension program where we match contributions and invest in your future. Responsible and accountable for the coordination, implementation and overall management…",
+      "salary": "$81k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336973105"
+      ],
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Burlington",
+      "geo_province": "ON",
+      "geo_lat": 43.3255,
+      "geo_lon": -79.799,
+      "geo_distance_km": 53.5,
+      "geo_rank": 100535,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Asante Logistic Group Inc",
+      "title": "Director of Finance",
+      "location": "Truro, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010335817882",
+      "date_posted": "2026-11-25",
+      "description": " Develop budgets, rolling forecasts, cash-flow projections, and scenario analyses with management; report performance against budgets and recommend actions.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Truro",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "University of British Columbia",
+      "title": "Director, Capital Planning & Development",
+      "location": "Vancouver, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336994097",
+      "date_posted": "2026-11-26",
+      "description": "Comprehensive knowledge of capital planning and budgeting, infrastructure development processes in an institutional setting, project development, and space…",
+      "salary": "$14k–$20k/mo",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "The University of Winnipeg",
+      "title": "Director, Financial Reporting and Analysis",
+      "location": "Winnipeg, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336992640",
+      "date_posted": "2026-11-26",
+      "description": "Bachelor’s degree in Accounting, Finance or a related field. Provide Financial expertise in accounting standards and lead the implementation of accounting…",
+      "salary": "$107k–$135k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (MB)",
+      "geo_city": "Winnipeg",
+      "geo_province": "MB",
+      "geo_lat": 49.8951,
+      "geo_lon": -97.1384,
+      "geo_distance_km": 1510.5,
+      "geo_rank": 415105,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Concert Properties LTD.",
+      "title": "Director, Revenue Management & Analytics",
+      "location": "Vancouver, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336932581",
+      "date_posted": "2026-11-26",
+      "description": "We develop, own and manage rental apartments; develop condominium homes; and develop, acquire and manage industrial and office properties.",
+      "salary": "$130k–$160k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Pleasantview Funeral Home",
+      "title": "Funeral Director (Embalmer)",
+      "location": "Thorold, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337017868",
+      "date_posted": "2026-11-26",
+      "description": "As a Funeral Director (Embalmer) at *Pleasantview Funeral Home & Cemetery*, located in *Thorold, Ontario *you will have the opportunity to provide meaningful…",
+      "salary": "$55k–$70k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Thorold",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Pleasantview Funeral Home",
+      "title": "Funeral Director",
+      "location": "Fonthill, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336779482",
+      "date_posted": "2026-11-26",
+      "description": "As a Funeral Director at Pleasantview Funeral Home and Cemetery, located in Thorold, Ontario you will have the opportunity to provide meaningful support to…",
+      "salary": "$63k–$75k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Fonthill",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Black & White Zebra",
+      "title": "Director of Sales",
+      "location": "Vancouver, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336074014",
+      "date_posted": "2026-11-26",
+      "description": "Catch at-risk accounts early using budget run-out, engagement and spend signals, and run save plays before customers churn. Budget run-out (% of PPC customers).",
+      "salary": "$150k–$180k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Ardene",
+      "title": "Director of Construction",
+      "location": "Laval, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337026089",
+      "date_posted": "2026-11-26",
+      "description": "Review and approve project budgets, schedules, change orders, and risk assessments. Track and manage project costs, including invoice approvals, change orders,…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Laval",
+      "geo_province": "QC",
+      "geo_lat": 45.6066,
+      "geo_lon": -73.7124,
+      "geo_distance_km": 496.5,
+      "geo_rank": 404965,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Governor in Council Appointments",
+      "title": "Assistant Chief Commissioner, Canadian Grain Commission",
+      "location": "Winnipeg, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336988239",
+      "date_posted": "2026-11-26",
+      "description": "Knowledge of sound governance principles, strategic planning, monitoring and evaluation of performance; Ability to anticipate emerging issues and to develop…",
+      "salary": "$184k–$217k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-26T21:50:24Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (MB)",
+      "geo_city": "Winnipeg",
+      "geo_province": "MB",
+      "geo_lat": 49.8951,
+      "geo_lon": -97.1384,
+      "geo_distance_km": 1510.5,
+      "geo_rank": 415105,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Superior Propane",
       "title": "Vice President, Revenue Operations and Commercial Excellence",
@@ -255,7 +776,7 @@
       "req_id": "",
       "date_posted": "2026-11-26",
       "date_seen": "2026-11-26T21:25:36Z",
-      "description": "",
+      "description": "Your experience includes several of the following: AML/ATF and financial crime risk management; financial institutions and correspondent banking; FFE due…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -275,7 +796,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336892385"
+      ]
     },
     {
       "company": "Marriott International",
@@ -348,7 +872,7 @@
       "req_id": "",
       "date_posted": "2026-11-26",
       "date_seen": "2026-11-26T21:25:57Z",
-      "description": "",
+      "description": "Strong people, process and project leadership skills, with the ability to mobilize internal and external resources to deliver key initiatives and projects.",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -368,7 +892,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$155k–$225k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337018828"
+      ]
     },
     {
       "company": "Klick Health",
@@ -463,7 +991,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336995128"
+      ]
     },
     {
       "company": "Scotiabank",
@@ -496,7 +1027,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336947568"
+      ]
     },
     {
       "company": "Think Research",
@@ -507,7 +1041,7 @@
       "company_url": "https://ca.indeed.com/cmp/Think-Research",
       "date_posted": "2026-11-26",
       "description": "#### **The Company**\n\n\n\nAt Think Research, we use evidence\\-based digital health technology to make it easier for clinicians to deliver better care. Our solutions support clinical decision\\-making and improve patient outcomes across healthcare settings. If you’re passionate about improving patient care through technology, we’d love to hear from you.\n\n\n#### **About the Role**\n\n\n\nYou will transform marketing for our software business and make it a measurable engine for pipeline, revenue and brand authority.\n\n\n\nOur two product lines need very different marketing. DFD sells to provinces and health authorities in long, high\\-stakes cycles, where account\\-based marketing, thought leadership and executive presence decide deals. Pharmapod sells to thousands of pharmacies and hospitals, from small online purchases to six\\-figure enterprise agreements, where demand generation and a digital buying path drive growth. You will build the playbook for both.\n\n\n\nThis is a hands\\-on leadership role where you will report to the Chief Commercial Officer and start with a lean team you will grow. You work closely with Sales, Revenue Operations, Customer Success, Product and our executive team.\n\n\n#### **What you will do**\n\n\n* **Marketing plan and budget.** Own the annual marketing plan and budget for the software business, with targets for marketing\\-sourced pipeline, cost per opportunity and contribution to bookings.\n* **Rebuild the team.** Propose the right marketing structure for the software business and recruit the additional colleagues it needs. Coach and set the team's priorities, processes, tools and agency partners.\n* **Demand generation.** Build a predictable lead engine for Pharmapod in Canada and in the US states where regulation drives demand: digital campaigns, webinars, email nurture and conferences that feed both inside sales and enterprise sellers.\n* **E\\-commerce and self\\-serve.** Partner with Product and Revenue Operations to launch and grow a buy\\-online path for smaller pharmacies and hospitals: pricing pages, checkout, onboarding journeys and conversion optimization.\n* **Account\\-based marketing.** Run targeted programs for named provinces, health authorities and hospital systems, aligned with the account plans of our sellers and executive sponsors.\n* **Brand authority.** Make Think Research the trusted voice in virtual care and medication safety: executive thought leadership, customer stories and clinical outcomes, media and analyst relations, speaking slots and awards. Lead the launch of our new brand, TRC Health.\n* **Product marketing.** Through the Product Marketing Manager, own positioning, messaging, competitive intelligence and launches for both product lines, and bring market input to pricing and packaging.\n* **Sales enablement.** Give Sales and our Bid Strategy Lead what they need to win: pitch decks, case studies, battlecards, ROI tools and proof points for RFPs.\n* **Customer marketing.** Work with Customer Success on references, advocacy, customer events and upsell and cross\\-sell campaigns to our existing customers.\n* **Digital and web.** With the Digital Marketing Manager, own the website, SEO, paid media, social channels and marketing automation.\n* **Measurement.** Agree lead definitions, funnel stages and handoff rules with Sales and Revenue Operations in Salesforce. Report marketing\\-sourced and influenced pipeline, conversion rates and return on spend every month.\n\n#### **What success looks like**\n\n\n**First 90 days**\n\n\n* A marketing plan agreed with the Chief Commercial Officer: targets, budget, channel mix and calendar for DFD and Pharmapod.\n* A proposed team structure and hiring plan agreed with the Chief Commercial Officer.\n* Lead definitions, funnel stages and handoff rules live in Salesforce, with a first monthly marketing dashboard.\n* Refreshed positioning and messaging for both product lines, and a core sales toolkit in use.\n* First Pharmapod demand campaigns live in Canada and in priority US states.\n\n\n**First year**\n\n\n* Marketing a measurable source of Pharmapod pipeline, growing quarter over quarter.\n* A self\\-serve path live and converting smaller pharmacies and hospitals online.\n* Account\\-based programs supporting every priority provincial and health\\-system pursuit.\n* A recognized voice in digital health: executive thought leadership, published customer stories and a visible presence at the events our buyers attend.\n* The new team structure in place, with priority hires made and onboarded.\n\n#### **What you bring**\n\n\n* 12\\+ years of B2B marketing, including 5\\+ years leading marketing for a SaaS business, ideally in health technology.\n* A record of building or rebuilding a marketing function and turning it into a measurable source of pipeline.\n* Experience with both high\\-volume demand generation, including digital or self\\-serve buying, and account\\-based marketing for large enterprise or public\\-sector deals.\n* Strong positioning and messaging: you make clinical and technical products clear to executives, clinicians and pharmacists.\n* Hands\\-on with marketing technology: Salesforce, a marketing automation platform such as HubSpot, Marketo or Account Engagement, web analytics and paid digital.\n* Comfort owning a budget and reporting pipeline, conversion and return on spend to the executive team.\n* A player\\-coach who sets the strategy and still writes, builds and launches.\n* Bachelor's degree in marketing, business or a related field, or equivalent experience.\n\n#### **Nice to have**\n\n\n* Marketing to Canadian provincial governments, health authorities or hospitals.\n* Marketing to US pharmacies, hospitals or health systems, especially in regulated markets.\n* Launching an e\\-commerce or product\\-led growth motion in B2B SaaS.\n* Leading a rebrand.\n* Media, analyst and thought\\-leadership programs in digital health.\n* French.\n\n\nThis is a full\\-time, remote position with an expected salary range of **$150,000 \\- $175,000 annually**, depending on experience and qua",
-      "salary": "",
+      "salary": "$150k–$175k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
@@ -529,7 +1063,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336985887"
+      ]
     },
     {
       "company": "The Mason Group - Strategic Search Partners",
@@ -554,7 +1091,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337012623"
+      ]
     },
     {
       "company": "Auxo | Growth Partner",
@@ -754,7 +1294,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336972507"
+      ]
     },
     {
       "company": "University of Alberta",
@@ -790,7 +1333,7 @@
       "company_url": "https://ca.indeed.com/cmp/Bmo-Financial-Group",
       "date_posted": "2026-11-26",
       "description": "Application Deadline:\n\n\n01/30/2027\nAddress:\n\n\n100 King Street West\nJob Family Group:\n\n\nLegal\nBMO Financial Group (BMO) is seeking an experienced and innovative technology lawyer to support the bank’s adoption of artificial intelligence (AI) and technology initiatives. You will act as a strategic advisor on legal and regulatory issues related to AI, including its procurement, development, governance and integration into products, services, and internal operations. You will lead legal and regulatory risk management across technology, cybersecurity, fraud, AML, artificial intelligence, outsourcing, enterprise brand marketing, and intellectual property.\n\n\nProvides and/or manages key specialized or broad\\-based legal advice and services to support organizational objectives and manage legal risk. Leads and develops a team of legal professionals responsible for providing legal services across the enterprise. The role draws upon in\\-depth knowledge of the Bank, the financial services industry, and the regulatory environment for the BMO Financial Group.  \n\n\n\n  \n\n* Provides strategic legal advice and counsel to senior management/executives.\n* Applies expertise and thinks creatively to address unique or ambiguous situations and to find solutions to problems that can be complex and non\\-routine.\n* Leads legal service delivery and manages a team of legal professionals.\n* Assigns and oversees work, providing coaching, mentoring, and performance feedback to foster a high\\-performing team culture.\n* Applies key specialized and/or broad\\-based legal knowledge, including knowledge of governing legislation, with enterprise\\-wide or otherwise significant scope.\n* Builds and manages relationships with senior executives and serves as a trusted resource to legal colleagues, including senior practitioners.\n* Communicates effectively with BMO’s senior leadership and key stakeholders.\n* Oversees and resolves significant and complex legal matters with substantial organizational impact.\n* Directs major legal matters involving the organization, including management and oversight of external counsel.\n* Recommends and approves policies, procedures, and performance standards\n* Manages legal and regulatory risks with significant financial, operational, or reputational implications.\n* Develops and maintains relationships with senior executives, external counsel, and regulatory authorities.\nManages legal spend associated with complex matters and external counsel engagements.  \n* \n\n**Qualifications:**\n\n  \n\n* Degree in law (LLB) and license to practice law in the required jurisdiction.\n* 15\\+ years of post\\-call legal experience.\n* Demonstrated proficiency with AI tools and platforms (e.g., Microsoft Copilot, Harvey).\n* Advanced legal expertise, including strong knowledge of applicable legislation, regulatory frameworks, and industry developments.\n* Strong understanding of business strategy and the operational environment of financial services organizations.\n* Proven people leadership experience, including coaching, mentoring, and talent development.\n* Recognized as a trusted legal advisor and subject matter expert.\n* Strong research and problem\\-solving skills, with the ability to proactively identify opportunities and solutions.\n* Ability to synthesize and assess large volumes of complex information.\n* Exceptional judgment and decision\\-making capability.\n* Strong analytical and critical thinking skills.\n* Excellent verbal and written communication skills.\n* Strong negotiation and influencing skills.\n* Exceptional relationship management skills, with the ability to engage effectively at all organizational levels.\n* Demonstrated ability to lead and develop teams of senior legal professionals.\nAbility to thrive in a collaborative environment while balancing competing priorities and resource constraints.  \n* \n\n  \n\n***Please Note: The base salary range for this role will be a range of $180,000 CDN to $230,000 CDN***\n\n**Salary** **:**\n\n**Pay Type:**\n\nSalaried\nThe above represents BMO Financial Group’s pay range and type.\n\n\nSalaries will vary based on factors such as location, skills, experience, education, and qualifications for the role, and may include a commission structure. Salaries for part\\-time roles will be pro\\-rated based on number of hours regularly worked. For commission roles, the salary listed above represents BMO Financial Group’s expected target for the first year in this position.\n\n\nBMO Financial Group’s total compensation package will vary based on the pay type of the position and may include performance\\-based incentives, discretionary bonuses, as well as other perks and rewards. BMO also offers health insurance, tuition reimbursement, accident and life insurance, and retirement savings plans. To view more details of our benefits, please visit: https://jobs.bmo.com/global/en/Total\\-Rewards\n\n\n**About Us**\n\nAt BMO we are driven by a shared Purpose: Boldly Grow the Good in business and life. It calls on us to create lasting, positive change for our customers, our communities and our people. By working together, innovating and pushing boundaries, we transform lives and businesses, and power economic growth around the world.\n\n\nAs a member of the BMO team you are valued, respected and heard, and you have more ways to grow and make an impact. We strive to help you make an impact from day one – for yourself and our customers. We’ll support you with the tools and resources you need to reach new milestones, as you help our customers reach theirs. From in\\-depth training and coaching, to manager support and network\\-building opportunities, we’ll help you gain valuable experience, and broaden your skillset.\n\n\nTo find out more visit us at https://jobs.bmo.com/ca/en .\n\n\nBMO is committed to an inclusive, equitable and accessible workplace. By learning from each other’s differences, we gain strength through our people and our perspectives. Accommodations are available on request for candidates taking part in all aspects of ",
-      "salary": "",
+      "salary": "$180k–$230k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -812,7 +1355,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "100 King Street West",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336870030"
+      ]
     },
     {
       "company": "YWCA",
@@ -881,6 +1427,8 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=37a0955ad2f65df0",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336889540",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336962508",
         "https://www.linkedin.com/jobs/view/4493853046/"
       ]
     },
@@ -893,7 +1441,7 @@
       "company_url": "https://ca.indeed.com/cmp/Concert-Properties-Ltd.",
       "date_posted": "2026-11-26",
       "description": "About Concert Properties\n  \n  \n\nPutting people first is at the heart of the Concert Properties story. We are deeply invested in improving the lives of the people who live and work in our communities, acknowledging that communities are more than just buildings. We focus on quality, consistency and sustainability, and our business is driven by warm, passionate people who embody a desire to help each of us feel more connected to one another.\n  \n  \n\nWe develop, own and manage rental apartments; develop condominium homes; and develop, acquire and manage industrial and office properties. Since 1989, we’ve grown to over $6\\.6 billion in assets under control.\n  \n  \n\nPosition Summary\n  \nThe Director, Revenue Management \\& Analytics will lead Concert Properties' revenue management and analytics function, providing strategic planning and oversight of revenues, financial analysis and market and resident insights for our real estate portfolio. You will develop and execute revenue\\-enhancing strategies, deliver data\\-driven insights that guide rental rates, renewals and investment decisions. You will partner closely with property management, finance, asset management, marketing, and capital teams to optimize asset value. You will be a strategic, analytical leader who thrives in a fast\\-paced environment and is passionate about being part of a high\\-performing team. The Director, Revenue Management \\& Analytics reports to the Senior Vice President, Property ,Management and is located in Toronto, ON or Vancouver, BC.\n  \nKey Responsibilities\n  \n  \n\nRevenue Optimization \\& Management\n  \n* Lead the development, implementation and day\\-to\\-day management of revenue\\-enhancing strategies across the multi\\-residential portfolio, including pricing, renewals, concessions and occupancy targets\n* Oversee the planning, implementation and maintenance of the revenue management platform and related processes, ensuring data integrity and consistent adoption by site and leasing teams\n* Support and enhance the financial and operational performance of individual properties and the overall portfolio, performing analysis to identify trends, risks and opportunities\n* Collaborate with property management, marketing, finance and capital teams to inform leasing strategies, property operations and capital improvements that optimize asset value\n* Lead Above Guideline Increase (AGI) applications in partnership with legal representatives, ensuring compliance with applicable residential tenancy legislation\n* Oversee the return\\-on\\-investment analysis and rent premium recommendations for any suite upgrades\n\n\nLeadership\n  \n* Mentor the property management team, educating them on the value of revenue management and analytics\n* Set clear goals and performance expectations, and foster a culture of curiosity, accountability and continuous improvement\n* Act as a trusted advisor to senior leadership, translating complex data into clear recommendations that support strategic decisions aligned with Concert’s growth and expansion goals\n\n\nBudgeting, Reporting \\& Insights\n  \n* Lead the revenue portion of the annual budgeting and reforecasting processes\n* Prepare and lead monthly and quarterly performance reporting and presentations for senior leadership, investment partners and other stakeholders, providing insightful, data\\-driven analysis\n* Work with development and property management teams on new development proformas\n* Develop and maintain dashboards, key performance indicators and reporting tools that track revenue, occupancy, leasing velocity and resident retention\n* Establish standards for data governance, accuracy and consistency across revenue and operational reporting\n* Provide analytical support for special projects and initiatives, as requested by management\n\n\nMarket Intelligence\n  \n* Conduct market research to support Concert’s investment, acquisition, development, portfolio and property management strategies\n* Monitor economic, demographic and industry trends, maintaining current knowledge of competitor properties and rental market conditions\n* Collect, analyze and monitor data from internal databases and third\\-party sources to inform rental rate recommendations and long\\-term planning\n\n\nRequired Knowledge \\& Skills\n  \n  \n\n* Post\\-secondary degree in Business, Finance, Economics, Real Estate, Data Analytics or a related field\n* 5\\+ years of progressive experience in revenue management, financial analysis or asset management, preferably within multi\\-residential real estate\n* Working knowledge of relevant legislation, including the Residential Tenancies Act, 2006 (Ontario) and Residential Tenancy Act (B.C.)\n* Demonstrated experience implementing and managing revenue management or pricing software\n* Advanced analytical, financial modelling and problem\\-solving skills, with the ability to translate data into actionable strategies\n* Exceptional communication and presentation skills, with the ability to influence and collaborate effectively with senior leaders, colleagues and stakeholders\n* Ability to manage competing priorities, meet deadlines and maintain accuracy in a fast\\-paced environment\n* Advanced knowledge of MS Office, particularly Excel and PowerPoint; experience with Yardi and data visualization tools such as Power BI\n* Employment is conditional upon a satisfactory criminal record check\n\n\nPlease note this is a general description of the tasks and skills required. Additional responsibilities and duties may be required to successfully perform this role.\n  \n  \n\nJoin the Concert Properties team in building a people\\-first future.\n  \n  \n\nConcert Properties is proud to have been named a BC Top Employer from 2021\\-2025!\n  \n  \n\nWe are a proud Canadian company, providing quality employment across the country and working together with the people we serve to realize our vision—building resilient, inclusive and sustainable communities. Our success is powered by a passionate, talented team that values a collaborative culture, a desir",
-      "salary": "",
+      "salary": "$130k–$160k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
@@ -915,7 +1463,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336932578"
+      ]
     },
     {
       "company": "Allianz",
@@ -948,7 +1499,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336912732"
+      ]
     },
     {
       "company": "Chick-fil-A Corporate Support Center",
@@ -1089,6 +1643,7 @@
       "salary": "$128,000 to $166,100",
       "duplicate_urls": [
         "https://builtintoronto.com/job/product-growth-director-investors-edge/12525510",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336892330",
         "https://www.linkedin.com/jobs/view/4495537249/"
       ]
     },
@@ -1123,8 +1678,10 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337021051",
         "https://www.linkedin.com/jobs/view/4495043415/"
-      ]
+      ],
+      "salary": "$113k–$210k/yr"
     },
     {
       "company": "Manulife",
@@ -1159,8 +1716,10 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=5ac4d45c518fc137"
-      ]
+        "https://ca.indeed.com/viewjob?jk=5ac4d45c518fc137",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336998658"
+      ],
+      "salary": "$118k–$168k/yr"
     },
     {
       "company": "RhynoCare",
@@ -1226,6 +1785,7 @@
       "salary": "$162,700-$223,700 annually",
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=83ddbf9f9bfbb477",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336913875",
         "https://www.linkedin.com/jobs/view/4495532370/"
       ],
       "job_type": "fulltime",
@@ -1264,8 +1824,10 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=f17092354c15daf5"
-      ]
+        "https://ca.indeed.com/viewjob?jk=f17092354c15daf5",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336913803"
+      ],
+      "salary": "$163k–$224k/yr"
     },
     {
       "company": "Riveron",
@@ -1364,7 +1926,7 @@
       "location": "Canada",
       "url": "https://www.linkedin.com/jobs/view/4495041284/",
       "date_posted": "2026-11-26",
-      "salary": "",
+      "salary": "$108k–$128k/yr",
       "ats": "LinkedIn",
       "description": "Reports to:\nNational CEO \nLocation:\nAnywhere in Canada, Toronto preferred\n\nABOUT US\n\nYWCA Canada is the country’s oldest and largest gender equity organization.\nSince 1873, we have been a national leader in advocating for the rights of women and girls. A secular, registered charity, we drive systemic change through powerful advocacy, collaboration, and programs that address urgent needs and advance long-term gender equity.\n\nPOSITION SUMMARY\n\nAs the National Director, Finance, you are a key partner to the National CEO and Senior Leadership Team, responsible for the organization's financial strategy, stewardship, reporting, compliance, and risk management. You will provide clear financial insight to support decision-making, lead the Finance Team, and maintain strong systems and controls across a complex national charitable organization. This role requires a strategic leader who can also roll up their sleeves, balancing high-level advice with hands-on financial leadership and execution.\nThe ideal candidate is a seasoned finance leader with a proven track record in charitable or non-profit environments, strong knowledge of Canadian accounting and regulatory requirements, and experience overseeing donation receipting and fund accounting. They bring sound judgment, a collaborative approach, and a deep commitment to gender equity and anti-oppression principles.\n\nKEY RESPONSIBILITIES\n\nExecutive Leadership\n\nLead and manage the Finance Team and external financial support, ensuring clear priorities, strong performance, and reliable financial services across the organization.\nPromote a culture of financial accountability, transparency, continuous improvement, and service.\n\nFinancial Leadership & Strategy\n\nLead financial planning, forecasting, budgeting, and long-term financial strategy.\nConduct regular financial analysis to monitor organizational performance, providing insights and recommendations on resource allocation to support strategic goals.\nOversee statutory, regulatory, and charitable compliance filings, including requirements of the Canada Revenue Agency (CRA).\nManage cash flow, liquidity, and financial reporting to support the organization's financial health and sustainability.\nOversee donation processing, charitable receipting, reconciliations, reporting, and the financial administration of cash, securities, and in-kind donations.\nOversee financial transactions and accounting operations, including payroll, accounts payable, accounts receivable, donations, and government remittances.\nDevelop, implement, and maintain financial policies, procedures, internal controls, and risk-management practices that support accountability, compliance, and sustainability.\nPartner with the CEO and Senior Leadership Team to establish and advance organizational financial goals and provide timely advice on financial implications and trade-offs.\nEnsure timely monthly, quarterly, and annual financial reporting, and continuously improve reporting processes and tools.\nProvide practical recommendations on strategic and fiscally responsible financial management.\nEnsure compliance with government regulations, CRA requirements, accounting standards, and charitable receipting rules.\nManage the organization's reserves, investments, and investment strategy in accordance with approved policies.\nLead financial risk management, year-end activities, and the external audit process.\nPrepare and present budgets, forecasts, financial statements, variance analyses, and narrative reports to Senior Leadership, the Board, and relevant committees.\nSupport the Finance, Audit and Risk Committee by preparing reports, meeting materials, and agendas in collaboration with the Treasurer, CEO, and Board Chair.\nOversee period-end close, reconciliations, analysis, and reporting of accounting transactions.\nOversee the financial administration and regulatory reporting of the group pension plan, including applicable FSRA filings.\nLead shared services across the federation, such as benefits, pension, and insurance at the national office, negotiating group discounts and packages for members, and providing information and support to those interested in joining these services.\n\nDonations, Grants & Fund Financial Management\n\nPartner with the Fund Development and Partnerships team to align fundraising activity with financial plans, controls, and organizational sustainability.\nOwn the financial reporting and reconciliation of donations, grants, charitable receipts, restricted funds, and other designated revenues.\nSupport grant and funding proposals by preparing accurate budgets, financial information, and costing assumptions.\nAdvise internal stakeholders on appropriate financial controls and the administration of restricted or designated funds.\nEnsure grant and funding requests comply with organizational policies, funder requirements, and donor restrictions.\nLead financial reporting for funded projects and initiatives in accordance with funding agreements.\nProvide financial analysis and advice to support the development and administration of equitable federation-wide revenue-sharing approaches.\nMonitor pledges and receivables, assess collection risk, and recommend early mitigation measures.\n\nQUALIFICATIONS & SKILLS\n\n7+ years of progressive finance and accounting experience, including at least three years of hands-on experience in the charitable or non-profit sector, and experience managing a finance team.\nA strategic, hands-on finance leader who can independently plan and prioritize work, manage competing deadlines, and provide clear direction and support to the Finance team.\nExperience with charity finance, including charitable receipting, fund accounting, restricted funds, government and grant funding, and applicable accounting, regulatory and reporting requirements.\nDemonstrated experience leading budgeting, forecasting, financial reporting, year-end and audit processes, and strengthening financial controls, systems and processes.\nExperience preparing and presenting financial information, risks and recommendations to senior leadership, Boards of Directors and Board committees, including the ability to communicate complex financial information clearly to non-financial audiences.\nStrong financial analysis, problem-solving and professional judgment, with the ability to anticipate needs, identify risks, recommend solutions and drive work forward independently.\nAbility to work collaboratively across an organization, including providing clear guidance to leaders and employees on financial processes and requirements and partnering effectively with program and fundraising teams.\nProficiency in Excel, QuickBooks Online and Microsoft 365. Experience with Float, fundraising CRMs and Power BI is an asset.\nStrong interpersonal, verbal and written communication skills.\nBilingualism in English and French is an asset.\n\nWORKING AT YWCA CANADA\n\nImpactful Work:\nJoin a team dedicated to advancing equity and creating meaningful change for women, girls, Two-Spirit, and gender-diverse people across Canada.\nInclusive Culture:\nWe celebrate diversity and foster a workplace where unique perspectives and lived experiences are valued and respected.\nEquitable pay:\nWe offer a competitive salary that reflects your skills, experience, and contributions. \nGreat Benefits:\nEnjoy benefits that prioritize your well-being and work-life balance:\nHealth Benefits:\nFull benefits from day one for you and your dependents, which include gender-affirming care, and a supplemental $2,000/year healthcare spending account, and telehealth.\nMental Health Support:\nAccess to mental health professionals, an Employee Assistance Program, and Noojimo, which offers mental health services to Indigenous staff.\nIncome Protection:\nLong-Term disability Protection.\nEmployer Matching Pension Plan:\n5% employer-matching pension after 3 months.\nProfessional Development:\nA professional development stipend, and in addition to other learning and growth opportunities.\nTime Off:\n4 weeks of vacation per year, and 18 Wellness and Emergency days.\nHoliday Closure and Summer Friday:\nSummer Fridays in July and August, and a 1-week office closure between Christmas and New Year.\nParental leave top-up:\nUp to 90% top-up for 15 weeks of maternity leave and 35 weeks of parental leave.\nFlexibility:\nWhether you prefer to work remotely or at the office or have some flexibility during your workday.\n\nINTERVIEW PROCESS\n\nSubmit resume on Humi and answer our questions. \n30-minute call with HR (for selected candidates): this will be a call over Teams to discuss your background, YWCA Canada, the role and answer some of your initial questions.\n60-minute interview with 3 senior members of our team.\n45-minute interview with the CEO and 2 Board members.\nReference Check: Be ready to provide us with 2-3 professional references, including 1 supervisor.  \nOffer \n\nACCOMMODATIONS \n\nWe are committed to creating an inclusive and accessible environment. Accommodations are available upon request for candidates and employees in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code. We will work with individuals to provide appropriate support to enable full participation in the recruitment process and workplace. \nIf you require accommodation at any stage of the application or interview process, or want more information on our accommodation policies, please contact HR at careers@ywcacanada.ca . We will work with you to meet your needs in a timely manner.\n\nSome final things to note:\n\nThe successful candidate will be committed to working from an anti-oppression, feminist perspective.  \nTo uphold our commitment to equity and fairness, we have implemented a non-negotiation policy for salaries and benefits. Negotiating compensation can perpetuate inequalities and biases, leading to disparities in pay based on negotiation skills or personal circumstances. By eliminating negotiation, we ensure that all employees are treated with equity and have access to the same opportunities for compensation.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nNon-profit Organizations",
       "first_seen": "2026-11-26T17:31:28Z",
@@ -1381,7 +1943,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336873080"
+      ]
     },
     {
       "company": "UpCounting",
@@ -1560,7 +2125,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336952052"
+      ]
     },
     {
       "company": "Nexus Energy Inc.",
@@ -2192,7 +2760,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336607936"
+      ]
     },
     {
       "company": "Royal Bank of Canada",
@@ -3365,7 +3936,7 @@
       "req_id": "",
       "date_posted": "2026-11-26",
       "date_seen": "2026-11-26T08:31:02Z",
-      "description": "",
+      "description": "Significant professional development, training, and a mentorship program. Direct the development of the Infrastructure sector business plan, with input from key…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -3385,7 +3956,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$126k–$174k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336909720"
+      ]
     },
     {
       "company": "CSL",
@@ -3728,6 +4303,7 @@
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-engineering-innovations/12492485",
         "https://www.glassdoor.ca/job-listing/j?jl=1010336307048",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336846763",
         "https://www.linkedin.com/jobs/view/4495299846/"
       ]
     },
@@ -9762,7 +10338,7 @@
       "location": "Calgary, Alberta, Canada",
       "url": "https://www.linkedin.com/jobs/view/4490321178/",
       "date_posted": "2026-11-25",
-      "salary": "",
+      "salary": "$57/hr",
       "ats": "LinkedIn",
       "description": "Job title: Director of Avionics\n\nIf you've built avionics shops into well-run, profitable operations and you're ready to own a whole division, we should talk. We're looking for a seasoned aviation leader to run Avionics across shop work, installations and line maintenance, plus oversight of a component shop. This full-time, permanent role reports to the Senior Director of Operations for Canada; you'll lead through capable managers and supervisors, own the budget and the P&L, and help shape what work gets won and at what margin. If you care as much about developing people as you do about turnaround time and audit results, this is your seat.\n\nTalentWorld\nis recruiting a Director of Avionics\nin Calgary, Alberta\nfor one of our partners.\n\nWhat's In It For You\n\nCompetitive executive-level salary\nComprehensive health and dental benefits, including family coverage\nRetirement savings plan with company match\nFull ownership of a division with real influence on company-wide growth\nRelocation assistance available for the right candidate\n\nDirector of Avionics Responsibilities\n\nBuild and execute a business plan that grows revenue and protects margins\nOwn the annual budget, forecasts and divisional P&L, taking corrective action where results fall short\nPartner with Sales and key customers on bids, quotes and escalations, validating scope, capacity and margin\nSet goals with managers for delivery, turnaround time, productivity, quality and customer service\nOversee the component shop and major projects, stepping in early when delivery or margin is at risk\nEnsure safe, compliant operations and own corrective actions for Avionics audit findings\nCoach managers and supervisors and maintain succession plans\n\nDirector of Avionics Qualifications\n\n7 to 10 years of progressively responsible experience in avionics or comparable aviation operations\nSignificant leadership experience, including financial and people management\nExperience in a regulated aviation environment (Transport Canada, FAA or similar)\nPRM experience, technical qualifications or post-secondary education are assets\n2 to 3 professional references\nWillingness to relocate to Calgary, Alberta if not local\n\nEmployment Details\n\nSchedule: Monday to Friday, day shift\nLocation: Calgary, Alberta (on-site)\nOther: Full-time, permanent\n\nInterested in the Director of Avionics\nrole in Calgary\n?\n\nApply now! And you could have a job tomorrow!\n\nThis posting is an active role that we are recruiting for one of our client organizations.\n\nTalentWorld\nis a Canadian leader in staffing, offering diverse opportunities for professional growth, flexible schedules, and career advancement. Embracing diversity, all are welcome to apply.\n\nPlease note that AI tools may be used to support the screening, assessment, or selection of applicants for this position.\n\n#TWONPERM\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
       "first_seen": "2026-11-25T14:58:22Z",
@@ -9781,6 +10357,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010335604657",
         "https://www.linkedin.com/jobs/view/4494656766/"
       ]
     },
@@ -72646,7 +73223,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336947915"
+      ]
     },
     {
       "company": "Elk Valley Resources",
@@ -100161,7 +100741,8 @@
       "work_arrangement": "On-site",
       "duplicate_urls": [
         "https://ca.indeed.com/viewjob?jk=c5fc1f9e461fc17c",
-        "https://ca.indeed.com/viewjob?jk=cb365f4c4e0333b3"
+        "https://ca.indeed.com/viewjob?jk=cb365f4c4e0333b3",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336987830"
       ]
     },
     {
@@ -125809,31 +126390,6 @@
       "geo_lon": -79.3832,
       "geo_distance_km": 6.1,
       "geo_rank": 61,
-      "geo_source": "posting-city",
-      "geo_confidence": "medium",
-      "geo_detail": "",
-      "geo_version": 1
-    },
-    {
-      "company": "PlantBest",
-      "title": "Ecommerce & Digital Marketing Director",
-      "location": "Markham, Ontario, Canada",
-      "url": "https://www.linkedin.com/jobs/view/4483682671/",
-      "date_posted": "2026-10-27",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "About PlantBest\n\nAt PlantBest, we're changing the way the world grows.\n\nFor over 20 years, we have transformed discarded coconut husks into innovative, high-performance growing solutions that deliver superior results while reducing environmental impact. Guided by our purpose, Better for your garden. Better for our planet.\n, we are challenging conventional growing practices and creating a more sustainable way to grow.\n\nWe are a growing Canadian company with a global presence and an entrepreneurial spirit. Our culture is built on innovation, accountability, collaboration and continuous improvement. We are looking for people who want to build something meaningful and make a visible impact.\n\nThe Opportunity\n\nPlantBest is seeking an E-Commerce & Digital Marketing Director\nto lead our digital growth strategy across North America.\n\nThis is a highly visible, strategic and hands-on role responsible for driving our e-commerce, marketplace and digital marketing growth across North America. The successful candidate will own both strategy and day-to-day execution, developing and implementing initiatives that increase brand awareness, traffic, conversion, customer loyalty and profitable revenue growth.\n\nThe ideal candidate is equally comfortable developing strategy, analyzing business performance and rolling up their sleeves to execute. They bring deep expertise in Amazon, Shopify, digital advertising, content marketing and customer acquisition, with a proven track record of delivering measurable results in consumer products, retail or e-commerce environments.\n\nKey Responsibilities\n\nE-Commerce Leadership\n\nOwn PlantBest's e-commerce and marketplace business across Amazon, Shopify, retailer websites and future platforms.\nDevelop and execute annual growth strategies and revenue plans.\nManage pricing, assortment, merchandising, promotions and product launches.\nImprove conversion rates, average order value and customer lifetime value.\nMonitor competitive activity, marketplace trends and emerging technologies.\n\nAmazon & Marketplace Management\n\nLead PlantBest's Amazon strategy across North America.\nManage listing optimization, SEO, content, advertising and marketplace performance.\nIdentify and launch new marketplace opportunities.\nManage agency and partner relationships where required.\nDevelop plans to internalize key marketplace capabilities.\n\nDigital Marketing\n\nDevelop and execute annual digital marketing plans aligned to business objectives.\nManage paid media activities including Google, Amazon, Meta and other digital channels.\nBuild customer acquisition and retention programs that generate profitable growth.\nOversee email marketing, marketing automation and CRM initiatives.\nManage marketing budgets and maximize ROI.\n\nContent & Brand Development\n\nLead content strategy across all digital channels.\nOversee creation of website content, photography, video, blogs, newsletters and product content.\nDevelop and manage the social media strategy and content calendar.\nBuild influencer and creator partnerships that strengthen the PlantBest brand.\nEnsure consistent execution of brand standards across all customer touchpoints.\n\nWebsite & Customer Experience\n\nOwn the PlantBest website experience.\nImprove site usability, navigation and customer journeys.\nOptimize product pages and content to improve conversion.\nDevelop customer engagement and loyalty initiatives.\nLead ratings and reviews programs.\n\nAnalytics & Performance\n\nEstablish dashboards, KPIs and performance reporting.\nMonitor revenue, traffic, conversion, acquisition costs, ROAS and profitability.\nTranslate data into actionable recommendations.\nPresent regular business reviews and strategic recommendations to senior leadership.\n\nCross Functional Leadership\n\nPartner with Sales, Operations, Supply Chain and Finance to support business goals.\nSupport demand forecasting and inventory planning.\nCoordinate digital product launches and promotions.\nBuild scalable processes and documentation to support future growth.\n\nWhat You Bring\n\nExperience\n\n7-10+ years of progressive experience in e-commerce, digital marketing or omnichannel retail.\nDemonstrated success growing DTC and marketplace businesses.\nExperience managing Amazon Seller Central and other major online marketplaces.\nProven track record in customer acquisition, conversion optimization and digital marketing.\nExperience with consumer products, gardening, home improvement, retail or lifestyle brands is preferred.\n\nTechnical Knowledge\n\nStrong knowledge of Amazon, Shopify, Google Analytics and digital commerce platforms.\nExperience with Google Ads, Meta Ads and marketing automation platforms.\nFamiliarity with CRM systems such as HubSpot.\nStrong understanding of SEO, content marketing and digital merchandising.\nExperience with Canva, video production, content creation and photo/video editing tools.\n\nLeadership Competencies\n\nCommercially minded with strong financial acumen.\nExcellent analytical and problem-solving skills.\nAble to balance strategy and hands on execution.\nStrong project management and organizational capabilities.\nExceptional communication and collaboration skills.\nEntrepreneurial mindset with a bias for action.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHorticulture",
-      "first_seen": "2026-10-27T21:48:09Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
-      "geo_city": "Markham",
-      "geo_province": "ON",
-      "geo_lat": 43.8561,
-      "geo_lon": -79.337,
-      "geo_distance_km": 17.2,
-      "geo_rank": 100172,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
