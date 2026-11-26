@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 392,
-    "pollable": 263,
+    "companies": 394,
+    "pollable": 265,
     "unresolved": 129
   },
   "companies": [
@@ -5193,6 +5193,32 @@
       "slug": "",
       "careers_url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site?Location_Country=a30a87ed25634629aa6c3958aa2b91ea",
       "source": "murat 2026-11-26 (main site, Canada filter)",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Superior Plus",
+      "archetype": "A",
+      "ats": "dayforce",
+      "slug": "superiorplus",
+      "careers_url": "https://jobs.dayforcehcm.com/en-US/superiorplus/CANDIDATEPORTAL",
+      "source": "murat 2026-11-26 (US propane board)",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Superior Plus",
+      "archetype": "A",
+      "ats": "dayforce",
+      "slug": "superiorplus",
+      "careers_url": "https://jobs.dayforcehcm.com/en-US/superiorplus/SPCAREERS",
+      "source": "murat 2026-11-26 (Superior Propane Canada board, linked from superiorpropane.com)",
       "include": [],
       "exclude": [],
       "searches": [],

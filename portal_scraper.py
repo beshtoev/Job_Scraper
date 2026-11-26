@@ -933,6 +933,70 @@ def fetch_taleo(entry: dict) -> list[dict]:
     return out
 
 
+def _dayforce_session(origin: str) -> tuple[str, str]:
+    """next-auth anonymous session: GET /api/auth/csrf returns the token and sets the cookie the
+    job search checks together with the X-CSRF-TOKEN header (403 without both)."""
+    req = urllib.request.Request(f"{origin}/api/auth/csrf", headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT, context=SSL_CONTEXT) as response:
+            cookies = [c.split(";", 1)[0] for c in response.headers.get_all("Set-Cookie") or []]
+            token = json.loads(response.read().decode("utf-8", "replace")).get("csrfToken") or ""
+    except (urllib.error.URLError, TimeoutError, OSError, http.client.HTTPException, json.JSONDecodeError) as exc:
+        raise SourceFailure(f"Dayforce session: {type(exc).__name__}: {exc}") from exc
+    if not token:
+        raise SourceFailure("Dayforce session: no CSRF token")
+    return "; ".join(cookies), token
+
+
+def fetch_dayforce(entry: dict) -> list[dict]:
+    """Dayforce career sites (jobs.dayforcehcm.com/<lang>/<client>/<board>). The job search API
+    (POST /api/geo/<client>/jobposting/search, 25 per page from paginationStart) needs an
+    anonymous next-auth CSRF token; it returns full descriptions, locations and start dates.
+    Added 2026-11-26 for Superior Plus."""
+    parts = urllib.parse.urlsplit(entry["careers_url"])
+    origin = f"{parts.scheme}://{parts.netloc}"
+    segs = [x for x in parts.path.split("/") if x]
+    if segs and re.fullmatch(r"[a-z]{2}-[A-Z]{2}", segs[0]):
+        lang, segs = segs[0], segs[1:]
+    else:
+        lang = "en-US"
+    if len(segs) < 2:
+        raise SourceFailure("unrecognized Dayforce URL (expected /<lang>/<client>/<board>)")
+    client, board = segs[0], segs[1]
+    cookie, token = _dayforce_session(origin)
+    api = f"{origin}/api/geo/{client}/jobposting/search"
+    rows, start, total = [], 0, None
+    for _ in range(80):  # 2,000 postings
+        data = http_json(api, {"clientNamespace": client, "jobBoardCode": board, "cultureCode": lang,
+                               "distanceUnit": 0, "paginationStart": start},
+                         headers={"X-CSRF-TOKEN": token, "Cookie": cookie})
+        page = (data or {}).get("jobPostings") if isinstance(data, dict) else None
+        if not isinstance(page, list):
+            raise SourceFailure("missing jobPostings array in the Dayforce search")
+        rows.extend(page)
+        start += len(page)
+        total = data.get("maxCount") if isinstance(data.get("maxCount"), int) else total
+        if not page or (total is not None and start >= total):
+            break
+    out, seen = [], set()
+    for r in rows:
+        pid = str(r.get("jobPostingId") or "")
+        if not pid or pid in seen:
+            continue
+        seen.add(pid)
+        places = [str(loc.get("formattedAddress") or _location(loc.get("cityName"), loc.get("stateCode"), loc.get("isoCountryCode")))
+                  for loc in r.get("postingLocations") or [] if isinstance(loc, dict)]
+        if r.get("hasVirtualLocation"):
+            places.append("Remote")
+        out.append(posting(entry, title=str(r.get("jobTitle") or "").strip(),
+                           url=f"{origin}/{lang}/{client}/{board}/jobs/{pid}",
+                           location="; ".join(dict.fromkeys(p for p in places if p)),
+                           req_id=str(r.get("jobReqId") or pid),
+                           date_posted=r.get("postingStartTimestampUTC") or "",
+                           description=strip_html(r.get("jobDescription") or "")))
+    return out
+
+
 _ZOHO_ROW = re.compile(r'(?is)<tr id="zr-joblist-detail_(\d+)"[^>]*>(.*?)</tr>')
 _ZOHO_DESC = re.compile(r'"fieldLabel":"Job Description","uitype":\d+,"value":"((?:[^"\\]|\\.)*)"')
 
@@ -1374,6 +1438,7 @@ FETCHERS = {
     "xnorth": fetch_xnorth,
     "taleo": fetch_taleo,
     "zoho": fetch_zoho,
+    "dayforce": fetch_dayforce,
     "j2w": fetch_successfactors,
 }
 
