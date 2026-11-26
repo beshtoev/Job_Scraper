@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 390,
-    "pollable": 261,
+    "companies": 391,
+    "pollable": 262,
     "unresolved": 129
   },
   "companies": [
@@ -5167,6 +5167,19 @@
       "slug": "corefactor",
       "careers_url": "https://corefactor.zohorecruit.com/recruit/Portal.na?iframe=false&digest=Db3P7wNe5WYc8abB1eEVOXGAUnkE7bVo.a85bxdBEmQ-",
       "source": "murat 2026-11-26 (corefactor.ca/careers)",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Thomson Reuters",
+      "archetype": "A",
+      "ats": "workday",
+      "slug": "",
+      "careers_url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/Private_External_Career_Site",
+      "source": "murat 2026-11-26",
       "include": [],
       "exclude": [],
       "searches": [],

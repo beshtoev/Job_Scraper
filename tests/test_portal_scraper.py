@@ -215,10 +215,31 @@ def test_workday_filtered_link_pages_through_facets(monkeypatch):
 
 def test_workday_unfiltered_link_keeps_keyword_search(monkeypatch):
     calls = []
-    monkeypatch.setattr(portals, "http_json", lambda url, payload=None: calls.append(payload) or {"jobPostings": []})
+    monkeypatch.setattr(portals, "http_json",
+                        lambda url, payload=None: calls.append(payload) or {"total": 5000, "jobPostings": []})
     portals.fetch_workday({**_entry("workday"), "careers_url": "https://acme.wd1.myworkdayjobs.com/en-US/External"})
-    assert [c["searchText"] for c in calls] == list(portals.WORKDAY_TERMS)
+    # one size probe, then keyword samples because the board is large
+    assert [c["searchText"] for c in calls] == [""] + list(portals.WORKDAY_TERMS)
+    assert calls[0]["limit"] == 1
     assert all(c["appliedFacets"] == {} for c in calls)
+
+
+def test_workday_small_unfiltered_board_is_paged_in_full(monkeypatch):
+    calls = []
+
+    def fake_http_json(url, payload=None):
+        calls.append(payload)
+        start, limit = payload["offset"], payload["limit"]
+        posts = [{"title": f"Analyst {n}", "externalPath": f"/job/x/Analyst_{n}", "locationsText": "Toronto"}
+                 for n in range(start, min(start + limit, 22))]
+        return {"total": 22, "jobPostings": posts}
+
+    monkeypatch.setattr(portals, "http_json", fake_http_json)
+    monkeypatch.setattr(portals, "_title_relevant", lambda title: False)
+    jobs = portals.fetch_workday({**_entry("workday"), "careers_url": "https://acme.wd1.myworkdayjobs.com/en-US/External"})
+    assert len(jobs) == 22
+    assert [(c["offset"], c["limit"]) for c in calls] == [(0, 1), (0, 20), (20, 20)]
+    assert all(c["searchText"] == "" and c["appliedFacets"] == {} for c in calls)
 
 
 def test_workday_multi_location_label_is_resolved_from_detail(monkeypatch):
@@ -364,3 +385,17 @@ def test_icims_kinaxis_layout(monkeypatch):
     [job] = portals.fetch_icims({**_entry("icims"), "careers_url": "https://careers-k.icims.com/jobs/search"})
     assert job["location"] == "Remote, Canada"
     assert job["date_posted"] == "2026-11-18"
+
+
+def test_workday_size_probe_failure_falls_back_to_keywords(monkeypatch):
+    calls = []
+
+    def fake_http_json(url, payload=None):
+        calls.append(payload)
+        if payload["searchText"] == "":
+            raise portals.SourceFailure("HTTPError: HTTP Error 422")
+        return {"jobPostings": []}
+
+    monkeypatch.setattr(portals, "http_json", fake_http_json)
+    portals.fetch_workday({**_entry("workday"), "careers_url": "https://acme.wd1.myworkdayjobs.com/en-US/External"})
+    assert [c["searchText"] for c in calls] == [""] + list(portals.WORKDAY_TERMS)
