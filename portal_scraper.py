@@ -933,6 +933,34 @@ def fetch_taleo(entry: dict) -> list[dict]:
     return out
 
 
+def fetch_pinpoint(entry: dict) -> list[dict]:
+    """Pinpoint career sites (<org>.pinpointhq.com): the public /jobs.json feed lists every open
+    job with its description sections, location, workplace type and pay. No posting date in the
+    feed. Added 2026-11-26 for GS1 Canada (gs1ca.org loads this feed)."""
+    slug = entry.get("slug") or urllib.parse.urlsplit(entry["careers_url"]).netloc.split(".")[0]
+    data = http_json(f"https://{slug}.pinpointhq.com/jobs.json")
+    rows = data.get("data") if isinstance(data, dict) else None
+    if not isinstance(rows, list):
+        raise SourceFailure("missing data array in the Pinpoint jobs feed")
+    out = []
+    for r in rows:
+        loc = (r.get("location") or {}).get("name") or ""
+        if r.get("workplace_type") == "remote":
+            loc = "; ".join(x for x in (loc, "Remote") if x)
+        parts = [r.get("description") or ""]
+        for key in ("key_responsibilities", "skills_knowledge_expertise", "benefits"):
+            if r.get(key):
+                parts.append(f"<h3>{html.escape(str(r.get(key + '_header') or ''))}</h3>{r[key]}")
+        if r.get("compensation_visible") and r.get("compensation"):
+            parts.append(f"<p>Compensation: {html.escape(str(r['compensation']))}</p>")
+        out.append(posting(entry, title=str(r.get("title") or "").strip(),
+                           url=r.get("url") or f"https://{slug}.pinpointhq.com{r.get('path', '')}",
+                           location=loc, req_id=str(r.get("requisition_id") or r.get("id") or ""),
+                           description=strip_html("".join(parts)),
+                           department=str((r.get("department") or {}).get("name") or "")))
+    return out
+
+
 def _dayforce_session(origin: str) -> tuple[str, str]:
     """next-auth anonymous session: GET /api/auth/csrf returns the token and sets the cookie the
     job search checks together with the X-CSRF-TOKEN header (403 without both)."""
@@ -1439,6 +1467,7 @@ FETCHERS = {
     "taleo": fetch_taleo,
     "zoho": fetch_zoho,
     "dayforce": fetch_dayforce,
+    "pinpoint": fetch_pinpoint,
     "j2w": fetch_successfactors,
 }
 
