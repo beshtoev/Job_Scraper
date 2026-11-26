@@ -7,6 +7,10 @@
     "/teletravail, on, canada": null,
     "000 about trail hub trail, greater toronto area, on, canada": null,
     "000 what you'll do drive, montreal, qc, canada": null,
+    "1 adelaide st. e, toronto, canada": [
+      43.6502199,
+      -79.3778786
+    ],
     "1 dundas st west, toronto, on, canada": [
       43.6557937,
       -79.3816775
@@ -277,6 +281,7 @@
       49.2454863,
       -122.9756737
     ],
+    "500 king street north, 2727 joseph howe drive, ns, canada": null,
     "510 carnegie center dr., field, bc, canada": null,
     "535 hornby street, vancouver, canada": [
       49.285466,
@@ -1063,8 +1068,7 @@
     "woolwich, on, canada": [
       43.5665497,
       -80.4995154
-    ],
-    "500 king street north, 2727 joseph howe drive, ns, canada": null
+    ]
   },
   "research": {}
 }
