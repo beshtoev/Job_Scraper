@@ -1,44 +1,37 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-26 19:10 UTC*
+*Last updated: 2026-11-26 21:20 UTC*
 
-**7 new role(s)** since last run · 32 total in last 24h
+**6 new role(s)** since last run · 29 total in last 24h
 
-### [Director, Information Services](https://ca.indeed.com/viewjob?jk=83ddbf9f9bfbb477) — Element Fleet Management
-- 📍 **Location:** Toronto, ON, CA
+### [Chief Financial Officer (CFO)](https://ca.indeed.com/viewjob?jk=c5fc1f9e461fc17c) — Samee Metal Trading
+- 📍 **Location:** Hamilton, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-26
 
-### [Director, Incident Management](https://ca.indeed.com/viewjob?jk=f17092354c15daf5) — Element Fleet Management
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Managing Director & Associate General Counsel – Technology, Operations & Corporate Areas](https://ca.indeed.com/viewjob?jk=2ae721e1e2b4a847) — BMO Financial Group
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [National Director, Finance](https://ca.indeed.com/viewjob?jk=ae158d404b9c013a) — YWCA
+### [Senior Vice President, Partner Relations](https://ca.indeed.com/viewjob?jk=ecd6b3fbbc535624) — ensemble
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-26
 
-### [Senior Director IFRS-9 Data Analytics](https://ca.indeed.com/viewjob?jk=d206926a7f7cd655) — National Bank of Canada
-- 📍 **Location:** Richmond Hill, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-20
-
-### [Director, Revenue Management & Analytics](https://ca.indeed.com/viewjob?jk=1ab27696dc7b9157) — Concert Properties Ltd.
+### [Director & Head, Governance and Optimization](https://ca.indeed.com/viewjob?jk=600e696e554e7aa9) — Scotiabank
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-26
 
-### [Head of Sales, Travel Agency and Broker - Canada](https://ca.indeed.com/viewjob?jk=9451f9f54024233a) — Allianz
-- 📍 **Location:** Cambridge, ON, CA
+### [Director, Guaranteed Wealth Solutions Transformation](https://ca.indeed.com/viewjob?jk=5ac4d45c518fc137) — Manulife
+- 📍 **Location:** Waterloo, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-25
+
+### [Senior Director, Marketing](https://ca.indeed.com/viewjob?jk=a9339844b7a8a43d) — Think Research
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-26
+
+### [Senior Director IFRS-9 Data Analytics](https://ca.indeed.com/viewjob?jk=37a0955ad2f65df0) — National Bank of Canada
+- 📍 **Location:** Richmond Hill, ON, CA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-05
