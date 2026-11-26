@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 391,
-    "pollable": 262,
+    "companies": 392,
+    "pollable": 263,
     "unresolved": 129
   },
   "companies": [
@@ -5180,6 +5180,19 @@
       "slug": "",
       "careers_url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/Private_External_Career_Site",
       "source": "murat 2026-11-26",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Thomson Reuters",
+      "archetype": "A",
+      "ats": "workday",
+      "slug": "",
+      "careers_url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site?Location_Country=a30a87ed25634629aa6c3958aa2b91ea",
+      "source": "murat 2026-11-26 (main site, Canada filter)",
       "include": [],
       "exclude": [],
       "searches": [],
