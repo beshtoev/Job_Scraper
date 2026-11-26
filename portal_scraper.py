@@ -4,6 +4,8 @@
 from __future__ import annotations
 
 import argparse
+import os
+from concurrent.futures import ThreadPoolExecutor
 import html
 import http.client
 import json
@@ -1445,30 +1447,58 @@ def run(args) -> tuple[list[dict], dict]:
     if args.limit:
         companies = companies[:args.limit]
 
-    jobs, statuses = [], []
-    for entry in companies:
+    def poll(entry: dict) -> tuple[list[dict], dict | None]:
         started = time.monotonic()
         if not entry.get("enabled"):
-            statuses.append({"company": entry.get("company"), "ats": entry.get("ats"),
-                             "status": "unresolved", "job_count": 0,
-                             "reason": "no careers URL or ATS tenant resolved"})
-            continue
+            return [], {"company": entry.get("company"), "ats": entry.get("ats"),
+                        "status": "unresolved", "job_count": 0,
+                        "reason": "no careers URL or ATS tenant resolved"}
         if entry.get("ats") in {"builtin", "summitsearch"}:
-            continue
+            return [], None
         try:
             found = fetch_company(entry, blocked)
-            jobs.extend(found)
-            statuses.append({"company": entry["company"], "ats": entry.get("ats"),
-                             "status": "succeeded", "job_count": len(found),
-                             "duration_seconds": round(time.monotonic() - started, 2), "reason": ""})
+            status = {"company": entry["company"], "ats": entry.get("ats"),
+                      "status": "succeeded", "job_count": len(found),
+                      "duration_seconds": round(time.monotonic() - started, 2), "reason": ""}
         except Exception as exc:
-            statuses.append({"company": entry.get("company"), "ats": entry.get("ats"),
-                             "status": "failed", "job_count": 0,
-                             "duration_seconds": round(time.monotonic() - started, 2),
-                             "reason": f"{type(exc).__name__}: {exc}"})
+            found = []
+            status = {"company": entry.get("company"), "ats": entry.get("ats"),
+                      "status": "failed", "job_count": 0,
+                      "duration_seconds": round(time.monotonic() - started, 2),
+                      "reason": f"{type(exc).__name__}: {exc}"}
         if not args.no_delay:
             delay = 8.0 if entry.get("ats") == "lever" else 0.4
             time.sleep(delay + random.uniform(0, 0.25))
+        return found, status
+
+    # Companies are polled PORTAL_WORKERS at a time (default 8; 1 = the old sequential pass).
+    # Lever rate-limits by IP, so all Lever boards stay in one sequential lane with their 8 s
+    # gap. Sequential, a 258-company pass took ~40 min, ~30 of them Workday (~23 s a board);
+    # the planned ~1,150-company inventory would not fit the runner's 60-minute slot.
+    # Results keep inventory order, so output is the same as a sequential pass.
+    workers = max(1, int(os.environ.get("PORTAL_WORKERS", "8") or 8))
+    results: list = [None] * len(companies)
+    lever = [i for i, e in enumerate(companies) if e.get("ats") == "lever" and e.get("enabled")]
+    others = [i for i in range(len(companies)) if i not in set(lever)]
+
+    def lever_lane() -> None:
+        for i in lever:
+            results[i] = poll(companies[i])
+
+    if workers == 1:
+        for i in range(len(companies)):
+            results[i] = poll(companies[i])
+    else:
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            lane = pool.submit(lever_lane)
+            for i, res in zip(others, pool.map(lambda i: poll(companies[i]), others)):
+                results[i] = res
+            lane.result()
+    jobs, statuses = [], []
+    for found, status in results:
+        jobs.extend(found)
+        if status is not None:
+            statuses.append(status)
 
     aggregators = inventory.get("aggregators", {})
     aggregator_fetchers = {
