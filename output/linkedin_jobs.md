@@ -1,36 +1,41 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-26 22:43 UTC*
+*Last updated: 2026-11-26 23:32 UTC*
 
-**7 new role(s)** since last run · 16 total in last 1h
+**8 new role(s)** since last run · 21 total in last 1h
 
-### [VP, Sales Operations](https://www.linkedin.com/jobs/view/4493838959/) — Medline
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $189,600.00 - $284,400.00
+### [Senior Director, Business & Customer Insights](https://www.linkedin.com/jobs/view/4495549607/) — Loblaw Companies Limited
+- 📍 **Location:** Brampton, Ontario, Canada
+- 💰 **Salary:** $170,000.00 - $220,000.00
 - 🕒 **Posted:** 2026-11-26
 
-### [Director, Enterprise Architecture](https://www.linkedin.com/jobs/view/4493672307/) — SE Health
-- 📍 **Location:** Markham, Ontario, Canada
-- 💰 **Salary:** $129,000 - $160,000
+### [Director, Capital Planning](https://www.linkedin.com/jobs/view/4495057347/) — Government of Alberta
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $5,139.30 to $6,526.16
 - 🕒 **Posted:** 2026-11-26
 
-### [Executive Director, Research Services](https://www.linkedin.com/jobs/view/4495559133/) — York University
+### [Virtual Workspace Engineering Director / Product Owner](https://www.linkedin.com/jobs/view/4495061162/) — Scotiabank
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-26
 
-### [VP, Product and UX](https://www.linkedin.com/jobs/view/4495559098/) — Aha!
-- 📍 **Location:** Canada
-- 💰 **Salary:** $245,000-$320,000,
+### [Director, Organizational Change Management](https://www.linkedin.com/jobs/view/4495064046/) — Scotiabank
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-26
 
-### [VP, Supply and Trading and Renewable Energy](https://www.linkedin.com/jobs/view/4492849605/) — Greenfield Global
-- 📍 **Location:** Varennes, Quebec, Canada
+### [Director, Office of Strategic Management](https://www.linkedin.com/jobs/view/4495552527/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-11-26
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4495060207/) — Richardson Executive Search
-- 📍 **Location:** Edmonton, Alberta, Canada
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4495058331/) — Ditto
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-26
 
-### [Director, Capital Planning & Development](https://www.linkedin.com/jobs/view/4495560097/) — The University of British Columbia
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $13,531.92 - $20,284.50
+### [Director - Compliance Program Governance](https://www.linkedin.com/jobs/view/4493943091/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
+- 🕒 **Posted:** 2026-11-26
+
+### [DIRECTOR OF INFORMATION TECHNOLOGY](https://www.linkedin.com/jobs/view/4495566137/) — Lacroix Médecine Privée
+- 📍 **Location:** Québec, Quebec, Canada
+- 💰 **Salary:** $140,000 to $175,000,
 - 🕒 **Posted:** 2026-11-26
