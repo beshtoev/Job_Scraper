@@ -302,6 +302,7 @@ def parse_workday_url(url: str) -> tuple[str, str, str] | None:
 
 
 WORKDAY_MAX_PAGES = 50  # 1,000 jobs per filtered board
+WORKDAY_SMALL_BOARD = 200  # unfiltered boards up to this size are paged in full
 _WORKDAY_MULTI_LOCATION_RE = re.compile(r"^\d+ Locations?$", re.I)
 _WORKDAY_NON_FACET_PARAMS = {"q", "source", "gh_src", "ref", "lang"}
 
@@ -322,9 +323,19 @@ def fetch_workday(entry: dict) -> list[dict]:
     public_root = f"https://{tenant}.{wd}.myworkdayjobs.com/en-US/{site}"
     seen = {}
     facets = workday_facets(entry.get("careers_url", ""))
-    if facets:
-        # A filtered link (e.g. ?locationCountry=<Canada id> on a global board):
-        # page through every job the filter returns instead of keyword samples.
+    page_all = bool(facets)
+    if not facets:
+        # A small unfiltered board: page through all of it instead of keyword samples,
+        # which miss postings whose titles match none of the terms.
+        try:
+            probe = http_json(f"{api_root}/jobs", {"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""})
+        except SourceFailure:
+            probe = None  # some boards reject an empty search; keyword samples still work there
+        total = probe.get("total") if isinstance(probe, dict) else None
+        page_all = isinstance(total, int) and 0 < total <= WORKDAY_SMALL_BOARD
+    if page_all:
+        # A filtered link (e.g. ?locationCountry=<Canada id> on a global board), or a small
+        # board: page through every job instead of keyword samples.
         offset = 0
         for _ in range(WORKDAY_MAX_PAGES):
             data = http_json(f"{api_root}/jobs", {"appliedFacets": facets, "limit": 20, "offset": offset, "searchText": ""})
@@ -338,7 +349,7 @@ def fetch_workday(entry: dict) -> list[dict]:
             total = data.get("total")
             if not data["jobPostings"] or (isinstance(total, int) and total and offset >= total):
                 break
-    for term in ([] if facets else WORKDAY_TERMS):
+    for term in ([] if page_all else WORKDAY_TERMS):
         data = http_json(f"{api_root}/jobs", {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": term})
         if not isinstance(data, dict) or not isinstance(data.get("jobPostings"), list):
             raise SourceFailure(f"missing jobPostings array for {term!r}")
