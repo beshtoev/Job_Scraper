@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 385,
-    "pollable": 256,
+    "companies": 387,
+    "pollable": 258,
     "unresolved": 129
   },
   "companies": [
@@ -573,6 +573,32 @@
       "slug": "",
       "careers_url": "https://bdc.wd10.myworkdayjobs.com/BDC_Careers",
       "source": "browser-history",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Benchmark Pyramid",
+      "archetype": "A",
+      "ats": "workday",
+      "slug": "",
+      "careers_url": "https://benchmark.wd1.myworkdayjobs.com/en-US/PGH_Careers",
+      "source": "murat 2026-11-26",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Benchmark Pyramid",
+      "archetype": "A",
+      "ats": "workday",
+      "slug": "",
+      "careers_url": "https://benchmark.wd1.myworkdayjobs.com/en-US/PGH_Careers?jobFamilyGroup=cc7b355a38211001a0345ffee7770000&jobFamilyGroup=bfc82fce8d391001513e8b82be220000&jobFamilyGroup=5ac3db349733100159730b55b0d20000",
+      "source": "murat 2026-11-26 (Home Office, Administrative & General, Commercial families)",
       "include": [],
       "exclude": [],
       "searches": [],
