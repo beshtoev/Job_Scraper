@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-27 06:49 UTC*
+*Last updated: 2026-11-27 07:20 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 6 total in last 1h
 
-### [Head of Strategic Finance](https://www.linkedin.com/jobs/view/4495080248/) — Jobgether
+### [VP Portfolio Operations, 2 Hour Learning (Remote) - $200,000/year USD](https://www.linkedin.com/jobs/view/4494754000/) — Alpha School
 - 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Global Marketing & Sales Enablement](https://www.linkedin.com/jobs/view/4495077230/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 💰 **Salary:** $150,000.00 - 185,000.00
+- 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-11-27
