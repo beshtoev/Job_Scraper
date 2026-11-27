@@ -1,46 +1,32 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-26 23:37 UTC*
+*Last updated: 2026-11-27 01:56 UTC*
 
-**7 new role(s)** since last run · 29 total in last 24h
+**5 new role(s)** since last run · 31 total in last 24h
 
-### [Director, Office of Strategic Management](https://ca.indeed.com/viewjob?jk=39ae17431dbb0c7f) — BMO Financial Group
+### [Director, Organizational Change Management](https://ca.indeed.com/viewjob?jk=3e6ec2ee3bf3f792) — Scotiabank
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-26
+
+### [Director, Sales (ON)](https://ca.indeed.com/viewjob?jk=3458b8f7cd589e7a) — IMP Group
+- 📍 **Location:** Toronto, ON, CA
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-26
+
+### [Senior Director, Customer IAM Integration Assurance (Global Security)](https://ca.indeed.com/viewjob?jk=e0bb6735a6b3df1a) — RBC
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-26
 
-### [Sr. Director Analytics Automation, Audit & Advisory Services](https://ca.indeed.com/viewjob?jk=be8766ee141b5fbc) — Manulife
+### [Executive Director, Global Regulatory Change Management and Program Delivery](https://ca.indeed.com/viewjob?jk=17d1b282dee40a16) — CIBC
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [Director, Digital Product Operations & Strategy](https://ca.indeed.com/viewjob?jk=41703bdaa45f5788) — Manulife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-24
-
-### [Head of Internal Audit](https://ca.indeed.com/viewjob?jk=6a1581ed8c8f4ea1) — Flair Airlines Ltd.
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-26
 
-### [Director Of Post Production and Operations (Contract)](https://ca.indeed.com/viewjob?jk=fc80a65f41faac32) — ZULU ALPHA KILO
+### [Virtual Workspace Engineering Director / Product Owner](https://ca.indeed.com/viewjob?jk=e63a1459c72a4d62) — Scotiabank
 - 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, National Accounts](https://ca.indeed.com/viewjob?jk=7924b1db16a8c0e1) — BMO Financial Group
-- 📍 **Location:** Mississauga, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Assistant Vice President, Accounting Advisory](https://ca.indeed.com/viewjob?jk=75330fd4d02916fb) — Sunlife
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-26
