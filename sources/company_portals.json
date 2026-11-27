@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 397,
-    "pollable": 268,
+    "companies": 398,
+    "pollable": 269,
     "unresolved": 129
   },
   "companies": [
@@ -5257,6 +5257,19 @@
       "ats": "pinpoint",
       "slug": "gs1ca",
       "careers_url": "https://gs1ca.org/careers/job-opportunities/",
+      "source": "murat 2026-11-26",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Viral Nation",
+      "archetype": "D",
+      "ats": "greenhouse",
+      "slug": "viralnation",
+      "careers_url": "https://job-boards.greenhouse.io/viralnation",
       "source": "murat 2026-11-26",
       "include": [],
       "exclude": [],
