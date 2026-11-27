@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-11-27 11:22 UTC",
+  "updated_at": "2026-11-27 12:02 UTC",
   "jobs": [
+    {
+      "company": "Via",
+      "title": "Director of Strategic Partnerships",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.linkedin.com/jobs/view/4469025035/",
+      "date_posted": "2026-11-27",
+      "salary": "$160,000-$200,000",
+      "ats": "LinkedIn",
+      "description": "Via is on a mission to create public transportation systems that provide far greater access to jobs, healthcare, and education. Our platform serves as the technology backbone for modern transit networks, transforming antiquated and siloed public transportation systems into smart, data-driven, and efficient digital networks. With hundreds of agency partners around the world, Via is recognized as the leading transportation technology and service provider globally.\n\nAs a Director of Strategic Partnerships\nat Via, you will be the face and voice of Via for our partners, both internally and externally. You'll build genuine, durable relationships with the cities and operators working to deliver better transportation for their communities, while owning the commercial outcomes that come with it — from complex renewals to service expansions. Our Partner Success team is made up of talented, collaborative people who are passionate about making public transit better, and at Via, the work we do together translates into real impact for the people who depend on it every day.\n\nAbout the Role:\n\nOwn a portfolio of complex, high-value partner relationships, serving as the primary point of contact for executive city and agency leadership and setting the standard for how we show up at that level\nAct as a trusted advisor and consultant to partners at the most senior levels, translating their ideas and community needs into revenue opportunities and driving decisions that shape service outcomes\nBuild and steward deep, long-term relationships with partners, acting as a strategic peer to senior leadership and spotting opportunities for service growth and revenue generation\nUse service performance data to set the strategic direction for each partnership, ensuring decisions on quality, efficiency, and growth are grounded in evidence\nIndependently lead multi-year and highly complex contract renewals and service expansions, navigating high-stakes negotiations with executive stakeholders to increase year-on-year revenue\nChampion new products and capabilities internally, influencing Via's roadmap and advocating for partners to facilitate the expansion of each partner's service size and scope\n\nAbout You:\n\n10+ years of relevant work experience in a client-facing role, with a track record of owning and growing strategic accounts independently at the most senior levels\nFluency in French and English is required for frequent client interaction.\nQuantitatively inclined and data savvy; you use complex data sets to drive strategic decisions and influence senior stakeholders both internally and externally\nAn entrepreneurial relationship builder who brings clarity and confidence to highly complex, politically sensitive situations, turning them into opportunities to deepen trust\nA reliable, motivated self-starter who shapes the way things are done and sets a standard others aspire to\nA natural leader in every sense — someone whose judgment, presence, and way of operating raises the quality of the work and the people around them, regardless of title\n\nCompensation and Benefits:\n\nFinal salary will be determined by the candidate’s experience, knowledge, and skills. Salary reflected does not include equity or variable pay, where applicable\nSalary Range: $160,000-$200,000 CAD\nComprehensive health, dental, and vision coverage with 100% company-paid premiums starting on your first day of work.\nA Group RRSP & DPSP with a company match.\nStandard and extended job-protected parental leave options, with company-paid health benefits fully maintained during your leave\nAdditional wellness benefits (including 24/7 virtual medicine, mental health practitioner coverage, EAP, and other wellness perks)\n20 days of paid time off (PTO) annually, plus paid provincial statutory holidays\n\nThere has never been a more exciting time to be on the cutting edge of public mobility. Ready to join the ride?\n\nVia is an equal opportunity employer.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "first_seen": "2026-11-27T12:02:38Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Lifemark Health Group",
       "title": "Director of Operations, Prairies",
@@ -26578,7 +26603,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.linkedin.com/jobs/view/4471167225/"
+      ]
     },
     {
       "company": "Jobgether",
