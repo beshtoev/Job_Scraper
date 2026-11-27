@@ -1,60 +1,90 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-27 20:32 UTC*
+*Last updated: 2026-11-27 23:56 UTC*
 
-**13 new role(s)** since last run · 1243 total in current portal openings
+**21 new role(s)** since last run · 1252 total in current portal openings
 
-### [Director, Channel Operations](https://jobs.ashbyhq.com/1password/706c56db-a8a8-4c92-9954-36c2beeba7c5) — 1Password
-- 📍 **Location:** Remote (United States | Canada)
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-27
-
-### [Senior Director, Business Enablement, Trust Co.](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Director--Business-Enablement--Trust-Co_R260030127) — BMO
-- 📍 **Location:** Toronto, ON, CAN
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Business Marketing – Canada](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Business-Marketing---Canada_R-0000193761-1) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Cyber Forensic Director (Bilingual FR/EN)](https://jobs-ca.pwc.com/ca/en/job/772169WD) — PwC Canada
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Director, Strategic Programs](https://jobs.lever.co/caseware/bf676b83-efa9-4e00-81a0-2e78415d9290) — Caseware
+- 📍 **Location:** Toronto, ON
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-27
 
-### [Account Director for SaaS Solution | REMOTE (Ontario)](https://jobs.workable.com/view/hr51ZVnARWmmCHq99PxTtK/account-director-for-saas-solution-%7C-remote-(ontario)-in-ontario-at-gatekeeper) — Gatekeeper
-- 📍 **Location:** Ontario, Canada
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-10
+### [AVP, Financial Risk Management](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Toronto-ON/AVP--Risk-Management_10079403-WD) — Mufgub
+- 📍 **Location:** Toronto, ON
+- 🕒 **Posted:** 2026-09-17
 
-### [Director of Retention & Lifecycle](https://jobs.workable.com/view/3XkxqXwp45RK5NGjfkXunS/remote-director-of-retention-%26-lifecycle-in-ottawa-at-kittyspout) — KittySpout
-- 📍 **Location:** Ottawa, Ontario, Canada
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-11-06
+### [Director Lead Solution Architecture](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director-Lead-Solution-Architecture_R-0000192762-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
 
-### [Senior Credit Officer, Director - Financial Institutions](https://builtintoronto.com/job/senior-credit-officer-director-financial-institutions/11363384) — BMO
+### [Vice President, Global Investment Banking (Syndicated & Leveraged Finance)](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Vice-President--Global-Investment-Banking--Syndicated---Leveraged-Finance-_R-0000191309-1) — RBC
+- 📍 **Location:** TORONTO, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Valuations Financial Instruments, Director](https://jobs-ca.pwc.com/ca/en/job/765279WD) — PwC Canada
+- 📍 **Location:** Toronto, Ontario, Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-14
+
+### [Director, FDD](https://ats.rippling.com/leoberwick/jobs/cfb6a446-cc24-4e85-9651-81af45ff1192) — Leo Berwick
+- 📍 **Location:** Calgary, Canada
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-27
+
+### [Associate Director, Construction Delay](https://builtintoronto.com/job/associate-director-construction-delay/12584166) — Secretariat International
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Global GTM Operations](https://builtintoronto.com/job/director-global-gtm-operations/12572751) — LHH
+### [Senior Assistant Director of Finance and Accounting](https://builtintoronto.com/job/senior-assistant-director-finance-and-accounting/12484381) — Marriott International
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Cybersecurity](https://builtintoronto.com/job/director-cybersecurity/12572492) — Sinai Health
+### [Construction Director, M&E - Canem Systems](https://builtintoronto.com/job/construction-director-m-e-canem-systems/12583761) — Bird Construction
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, IT Infrastructure & Operations](https://builtintoronto.com/job/director-it-infrastructure-operations/12572427) — Ramudden Global
+### [Managing Director, Construction Disputes (Claims & Delay) & Advisory](https://builtintoronto.com/job/managing-director-construction-disputes-claims-delay-advisory/12583430) — Ankura
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Associate Vice President, Compliance, Governance and Programs, TD Securities Canada](https://builtintoronto.com/job/associate-vice-president-compliance-governance-and-programs-td-securities-canada/12574349) — TD Bank
+### [Associate Director, Real World Data Science](https://builtintoronto.com/job/associate-director-real-world-data-science/12400072) — AstraZeneca
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [VP of Construction](https://builtintoronto.com/job/vp-construction/12565277) — Ameresco
+### [Senior Director, Data and AI](https://builtintoronto.com/job/senior-director-data-and-ai/12580956) — VetStrategy
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Vice President, Partnerships & Business Accelerator](https://builtintoronto.com/job/vice-president-partnerships-business-accelerator/12575047) — Mennonite Economic Development Associates
+### [Sales Director – Critical Power/UPS](https://builtintoronto.com/job/sales-director-critical-power-ups/12585502) — Pearce Services
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
+
+### [Director, Customer Marketing](https://builtintoronto.com/job/director-customer-marketing/10880299) — Coveo
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Managing Director, Construction Claims and Disputes](https://builtintoronto.com/job/managing-director-construction-claims-and-disputes/12579325) — HKA
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Director, Construction Claims](https://builtintoronto.com/job/director-construction-claims/12579326) — HKA
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Senior Director, Product Security](https://builtintoronto.com/job/senior-director-product-security/12406904) — 1Password
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-22
+
+### [Vice President, Technology Operations](https://builtintoronto.com/job/vice-president-technology-operations/12580957) — VetStrategy
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [VP of UAE](https://builtintoronto.com/job/vp-uae/12585359) — Humanoid
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Infrastructure Construction Surveying Party Chief](https://builtintoronto.com/job/infrastructure-construction-surveying-party-chief/12582369) — IBW Surveyors
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Director Health And Wellness Winnipeg Wg1085](https://summitsearchgroup.com/job/director-of-health-and-wellness-winnipeg-mb-wg1085/) — Summit Search Group
+- 📍 **Location:** Canada
