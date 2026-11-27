@@ -1,27 +1,36 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-26 23:56 UTC*
+*Last updated: 2026-11-27 00:39 UTC*
 
-**5 new role(s)** since last run · 12 total in last 1h
+**7 new role(s)** since last run · 12 total in last 1h
 
-### [Director, Guaranteed Wealth Solutions Transformation](https://www.linkedin.com/jobs/view/4495044912/) — Manulife
-- 📍 **Location:** Waterloo, Ontario, Canada
-- 🕒 **Posted:** 2026-11-26
-
-### [Executive Director - COMPASS Refugee Centre](https://www.linkedin.com/jobs/view/4495556133/) — Centre for Organizational Effectiveness
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 💰 **Salary:** $90,000.00/yr - CA$125,000.00/yr
-- 🕒 **Posted:** 2026-11-26
-
-### [Director, Parks and Urban Forestry](https://www.linkedin.com/jobs/view/4493847756/) — City of Edmonton
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 💰 **Salary:** $146,472.00 - $183,091.00
-- 🕒 **Posted:** 2026-11-26
-
-### [Senior Director – Proton/Particle Therapy Project](https://www.linkedin.com/jobs/view/4494444565/) — University Health Network
+### [Executive Director, Global Regulatory Change Management and Program Delivery](https://www.linkedin.com/jobs/view/4495569052/) — CIBC
 - 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Director, Engineering Studies](https://www.linkedin.com/jobs/view/4495054194/) — Independent Electricity System Operator (IESO)
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Director, Product Owner, Release & Operations Management](https://www.linkedin.com/jobs/view/4495551715/) — CIBC
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [HR Director - Canada](https://www.linkedin.com/jobs/view/4495564343/) — Stanley Black & Decker, Inc.
+- 📍 **Location:** Meadowvale Business Park, Ontario, Canada
+- 💰 **Salary:** $180,000-230,000
+- 🕒 **Posted:** 2026-11-27
+
+### [Director - Compliance Program Governance](https://www.linkedin.com/jobs/view/4493943091/) — BMO
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00 - $215,000.00
 - 🕒 **Posted:** 2026-11-26
 
-### [Vice President & Market Leader (GTA West), Private Wealth](https://www.linkedin.com/jobs/view/4494177318/) — BMO
-- 📍 **Location:** Oakville, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
+### [Director of People Operations](https://www.linkedin.com/jobs/view/4492225614/) — Docebo
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $129,800.00/yr - CA$173,100.00/yr
+- 🕒 **Posted:** 2026-11-26
+
+### [Director, Global Marketing & Sales Enablement](https://www.linkedin.com/jobs/view/4495044890/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 💰 **Salary:** $150,000.00 - 185,000.00
 - 🕒 **Posted:** 2026-11-26
