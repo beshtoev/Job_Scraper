@@ -1,63 +1,82 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-27 14:33 UTC*
+*Last updated: 2026-11-27 15:35 UTC*
 
-**13 new role(s)** since last run · 14 total in last 1h
+**17 new role(s)** since last run · 28 total in last 1h
 
-### [Director Market Intelligence](https://www.linkedin.com/jobs/view/4495828023/) — Recipe Unlimited Corporation
-- 📍 **Location:** Vaughan, Ontario, Canada
-- 💰 **Salary:** $150,000 - 175,000
+### [Vice President of Software Engineering](https://www.linkedin.com/jobs/view/4495833062/) — Vero
+- 📍 **Location:** Manitoba, Canada
+- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Senior Director, Operations](https://www.linkedin.com/jobs/view/4495507446/) — Appraisal Institute of Canada / Institut canadien des évaluateurs
+### [Director, Technology & Digital Transformation](https://www.linkedin.com/jobs/view/4486908772/) — SUNPAN
+- 📍 **Location:** Scarborough, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Assoc. Director, IT Business Partner - Pharmaceutical Development](https://www.linkedin.com/jobs/view/4486778941/) — BioCryst Pharmaceuticals, Inc.
+- 📍 **Location:** Chiasson Office, New Brunswick, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Leader, Process Transformation – Connected Vehicles](https://www.linkedin.com/jobs/view/4459977916/) — BRP
+- 📍 **Location:** Valcourt, Quebec, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Applications Development Senior Programmer - Assistant Vice President](https://www.linkedin.com/jobs/view/4486906806/) — Citi
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $94,300.00 - $141,500.00
+- 🕒 **Posted:** 2026-11-27
+
+### [Human Resources Director](https://www.linkedin.com/jobs/view/4478497302/) — Perseus Group, Constellation Software
+- 📍 **Location:** Markham, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Director of Finance](https://www.linkedin.com/jobs/view/4495313170/) — Canadian Accounting Consultants [CPA Recruitment]
+- 📍 **Location:** Oakville, Ontario, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$170,000.00/yr
+- 🕒 **Posted:** 2026-11-27
+
+### [Lead Java Developer - Vice President](https://www.linkedin.com/jobs/view/4486924403/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-11-27
+
+### [Java Developer, Equities Trading, Vice President](https://www.linkedin.com/jobs/view/4486906829/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
+- 🕒 **Posted:** 2026-11-27
+
+### [VP, Finance – Consumer Services – Acquisitive Growth, 79079](https://www.linkedin.com/jobs/view/4495098958/) — Truenorth Executive Search, Inc.
+- 📍 **Location:** North York, Ontario, Canada
+- 💰 **Salary:** $200K - $250K
+- 🕒 **Posted:** 2026-11-27
+
+### [Director, Finance](https://www.linkedin.com/jobs/view/4495543569/) — Somerset West Community Health Centre
 - 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $111,693.40/yr - CA$121,157.40/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Delivery CX AI](https://www.linkedin.com/jobs/view/4478828037/) — TELUS Digital
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$190,000.00/yr
+### [Chief Financial Officer – Consumer Services – Acquisitive Growth, 78936](https://www.linkedin.com/jobs/view/4495306692/) — Truenorth Executive Search, Inc.
+- 📍 **Location:** Vaughan, Ontario, Canada
+- 💰 **Salary:** $250K - $300K
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Growth & Innovation Operations](https://www.linkedin.com/jobs/view/4485873755/) — Altus Group
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Chief Financial Officer - Highly Engineered Design/Manufacturing- Private Equity, 79074](https://www.linkedin.com/jobs/view/4495316113/) — Truenorth Executive Search, Inc.
+- 📍 **Location:** Richmond, British Columbia, Canada
+- 💰 **Salary:** $250K - $300K
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Trust & Anti-Fraud // Directeur, Confiance et Anti-fraude](https://www.linkedin.com/jobs/view/4488054037/) — Mistplay
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $160,000.00/yr - CA$185,000.00/yr
+### [Business Unit Director - Supply Chain](https://www.linkedin.com/jobs/view/4461310178/) — Celestica
+- 📍 **Location:** Newmarket, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Delivery CX AI](https://www.linkedin.com/jobs/view/4478810745/) — TELUS Digital
+### [Director, Infrastructure Projects and Procurement](https://www.linkedin.com/jobs/view/4494085248/) — BC Hydro
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$190,000.00/yr
+- 💰 **Salary:** $193,900.00/yr - CA$245,200.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Delivery CX AI](https://www.linkedin.com/jobs/view/4478823320/) — TELUS Digital
+### [Director, Head of Equity Derivatives Risk Engineering](https://www.linkedin.com/jobs/view/4488058990/) — BMO Capital Markets
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$190,000.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Financial Planning & Analysis and Capital Investment - International Division](https://www.linkedin.com/jobs/view/4482173789/) — Top Aces
-- 📍 **Location:** Dorval, Quebec, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [DIRECTOR OF FINANCE AND ADMINISTRATIVE SERVICES](https://www.linkedin.com/jobs/view/4495306490/) — Community Living Cambridge
-- 📍 **Location:** Cambridge, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Associate Director - Cost Management](https://www.linkedin.com/jobs/view/4486782218/) — Turner & Townsend
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Shopify Practice Director](https://www.linkedin.com/jobs/view/4440809583/) — Valtech
-- 📍 **Location:** Canada
-- 💰 **Salary:** $150,000-225,000
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, IT Cyber Security & Resilience](https://www.linkedin.com/jobs/view/4462022979/) — OSCO Construction Group
-- 📍 **Location:** Saint John, New Brunswick, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Cyber Forensic Director (Bilingual FR/EN)](https://www.linkedin.com/jobs/view/4495825051/) — PwC Canada
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $152,000 - $202,000
+### [Director of Product Management](https://www.linkedin.com/jobs/view/4495306587/) — Experis Canada
+- 📍 **Location:** Gatineau, Quebec, Canada
 - 🕒 **Posted:** 2026-11-27
