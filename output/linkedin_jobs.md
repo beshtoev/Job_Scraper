@@ -1,82 +1,64 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-27 15:35 UTC*
+*Last updated: 2026-11-27 16:20 UTC*
 
-**17 new role(s)** since last run · 28 total in last 1h
+**13 new role(s)** since last run · 32 total in last 1h
 
-### [Vice President of Software Engineering](https://www.linkedin.com/jobs/view/4495833062/) — Vero
-- 📍 **Location:** Manitoba, Canada
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
+### [Managing Director, Data, AI, & Cloud](https://www.linkedin.com/jobs/view/4479192714/) — TELUS Digital
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $236,000.00/yr - $310,000.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Technology & Digital Transformation](https://www.linkedin.com/jobs/view/4486908772/) — SUNPAN
-- 📍 **Location:** Scarborough, Ontario, Canada
+### [Program Advisory, Consulting & Execution, Vice President-MISSISSAUGA](https://www.linkedin.com/jobs/view/4486922429/) — Citi
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $120,800.00 - $170,800.00
 - 🕒 **Posted:** 2026-11-27
 
-### [Assoc. Director, IT Business Partner - Pharmaceutical Development](https://www.linkedin.com/jobs/view/4486778941/) — BioCryst Pharmaceuticals, Inc.
+### [Exec. Director, Biostatistics](https://www.linkedin.com/jobs/view/4486795580/) — BioCryst Pharmaceuticals, Inc.
 - 📍 **Location:** Chiasson Office, New Brunswick, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Leader, Process Transformation – Connected Vehicles](https://www.linkedin.com/jobs/view/4459977916/) — BRP
-- 📍 **Location:** Valcourt, Quebec, Canada
+### [VP, Biostatistics](https://www.linkedin.com/jobs/view/4486797442/) — BioCryst Pharmaceuticals, Inc.
+- 📍 **Location:** Chiasson Office, New Brunswick, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Applications Development Senior Programmer - Assistant Vice President](https://www.linkedin.com/jobs/view/4486906806/) — Citi
+### [Senior Director, Advisor Experience Technology](https://www.linkedin.com/jobs/view/4495825405/) — RBC Dominion Securities
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $94,300.00 - $141,500.00
 - 🕒 **Posted:** 2026-11-27
 
-### [Human Resources Director](https://www.linkedin.com/jobs/view/4478497302/) — Perseus Group, Constellation Software
-- 📍 **Location:** Markham, Ontario, Canada
+### [Director, B2C Travel Insurance](https://www.linkedin.com/jobs/view/4488061555/) — AXA Partners
+- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** USD $126,940 – $169,253 Annually
 - 🕒 **Posted:** 2026-11-27
 
-### [Director of Finance](https://www.linkedin.com/jobs/view/4495313170/) — Canadian Accounting Consultants [CPA Recruitment]
-- 📍 **Location:** Oakville, Ontario, Canada
-- 💰 **Salary:** $150,000.00/yr - CA$170,000.00/yr
+### [Director, Delivery CX AI](https://www.linkedin.com/jobs/view/4478818555/) — TELUS Digital
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$190,000.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Lead Java Developer - Vice President](https://www.linkedin.com/jobs/view/4486924403/) — Citi
+### [Chief of Staff to the CEO (Leadership Track)](https://www.linkedin.com/jobs/view/4495814248/) — Embrace Software Inc
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Managing Director & Operating Partner – MLC College](https://www.linkedin.com/jobs/view/4495308231/) — Robocart.ai
 - 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
+- 💰 **Salary:** $60,000–$70,000
 - 🕒 **Posted:** 2026-11-27
 
-### [Java Developer, Equities Trading, Vice President](https://www.linkedin.com/jobs/view/4486906829/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [VP, Finance – Consumer Services – Acquisitive Growth, 79079](https://www.linkedin.com/jobs/view/4495098958/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** North York, Ontario, Canada
-- 💰 **Salary:** $200K - $250K
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Finance](https://www.linkedin.com/jobs/view/4495543569/) — Somerset West Community Health Centre
+### [Administrative Director](https://www.linkedin.com/jobs/view/4495320091/) — Altis
 - 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $111,693.40/yr - CA$121,157.40/yr
+- 💰 **Salary:** $130,000.00/yr - CA$200,000.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Chief Financial Officer – Consumer Services – Acquisitive Growth, 78936](https://www.linkedin.com/jobs/view/4495306692/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Vaughan, Ontario, Canada
-- 💰 **Salary:** $250K - $300K
+### [Associate Director, National Accounts](https://www.linkedin.com/jobs/view/4469167868/) — BMO
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $70,000.00 - $150,000.00
 - 🕒 **Posted:** 2026-11-27
 
-### [Chief Financial Officer - Highly Engineered Design/Manufacturing- Private Equity, 79074](https://www.linkedin.com/jobs/view/4495316113/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Richmond, British Columbia, Canada
-- 💰 **Salary:** $250K - $300K
+### [Director, Air Transport Bureau (ATB)](https://www.linkedin.com/jobs/view/4493899606/) — International Civil Aviation Organization
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Business Unit Director - Supply Chain](https://www.linkedin.com/jobs/view/4461310178/) — Celestica
-- 📍 **Location:** Newmarket, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Infrastructure Projects and Procurement](https://www.linkedin.com/jobs/view/4494085248/) — BC Hydro
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $193,900.00/yr - CA$245,200.00/yr
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Head of Equity Derivatives Risk Engineering](https://www.linkedin.com/jobs/view/4488058990/) — BMO Capital Markets
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Director of Product Management](https://www.linkedin.com/jobs/view/4495306587/) — Experis Canada
-- 📍 **Location:** Gatineau, Quebec, Canada
+### [Director, Project Governance](https://www.linkedin.com/jobs/view/4477019769/) — WSP in Canada
+- 📍 **Location:** Yukon Territory, Canada
+- 💰 **Salary:** $177,000 - $234,000
 - 🕒 **Posted:** 2026-11-27
