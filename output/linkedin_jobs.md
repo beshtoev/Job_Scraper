@@ -1,147 +1,51 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-27 21:16 UTC*
+*Last updated: 2026-11-27 22:31 UTC*
 
-**31 new role(s)** since last run · 41 total in last 1h
+**10 new role(s)** since last run · 25 total in last 1h
 
-### [Directeur(trice) / Director - Digital Platforms & Delivery Excellence](https://www.linkedin.com/jobs/view/4495344166/) — Genetec
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Project Controls Director](https://www.linkedin.com/jobs/view/4495323477/) — Turner & Townsend
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Senior Director - Data & AI](https://www.linkedin.com/jobs/view/4495325360/) — Poly Tech Talent
+### [Director, Strategic Asset Allocation](https://www.linkedin.com/jobs/view/4485013292/) — Equitable
+- 📍 **Location:** Waterloo, Ontario, Canada
+- 💰 **Salary:** $115,000.00/yr - CA$155,000.00/yr
+- 🕒 **Posted:** 2026-11-27
+
+### [Chief Financial Officer](https://www.linkedin.com/jobs/view/4488036160/) — GlassRatner Canada
+- 📍 **Location:** London, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Director, Product Strategy and Commercialization](https://www.linkedin.com/jobs/view/4460443069/) — Fidelity Canada
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-11-27
+
+### [Chief of Staff to CEO](https://www.linkedin.com/jobs/view/4495859265/) — Blair Health
 - 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $120,000.00/yr - CA$150,000.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Senior Java Back - End Developer - Assistant Vice President](https://www.linkedin.com/jobs/view/4486914578/) — Citi
+### [Director of Property Accounting](https://www.linkedin.com/jobs/view/4495339351/) — Horizon Recruitment Inc
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $150,000.00/yr - CA$180,000.00/yr
+- 🕒 **Posted:** 2026-11-27
+
+### [Director, Parks and Urban Forestry (ID: 56453)](https://www.linkedin.com/jobs/view/4493847756/) — City of Edmonton
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $146,472.00 - $183,091.00
+- 🕒 **Posted:** 2026-11-27
+
+### [Database developer Smartstream TLM SME Senior Programmer Assistant Vice President](https://www.linkedin.com/jobs/view/4486905874/) — Citi
 - 📍 **Location:** Mississauga, Ontario, Canada
 - 💰 **Salary:** $94,300.00 - $141,500.00
 - 🕒 **Posted:** 2026-11-27
 
-### [Senior Director Wealth Management IT Data/AI & BOR](https://www.linkedin.com/jobs/view/4494208797/) — National Bank of Canada
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Associate Director, Business and Systems Integration](https://www.linkedin.com/jobs/view/4495327711/) — Turner & Townsend
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $145,000.00/yr - CA$170,000.00/yr
-- 🕒 **Posted:** 2026-11-27
-
-### [Fullstack Integration Developer Vice President](https://www.linkedin.com/jobs/view/4486905814/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [AI Product Scaling Director](https://www.linkedin.com/jobs/view/4475826450/) — CIBC
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [VP Senior Applied AI Full-Stack Engineer](https://www.linkedin.com/jobs/view/4486905795/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Senior Java Technology Developer – Vice President](https://www.linkedin.com/jobs/view/4486919694/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Capital Management Technology Engineering Lead - SVP](https://www.linkedin.com/jobs/view/4486924444/) — Citi
+### [Program Advisory, Consulting & Execution, Senior Vice President- MISSISSAUGA](https://www.linkedin.com/jobs/view/4486926322/) — Citi
 - 📍 **Location:** Mississauga, Ontario, Canada
 - 💰 **Salary:** $145,100.00 - $217,700.00
 - 🕒 **Posted:** 2026-11-27
 
-### [Lead Java Developer, Vice President](https://www.linkedin.com/jobs/view/4486926291/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Senior Java Developer - Assistant Vice President](https://www.linkedin.com/jobs/view/4486922378/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $94,300.00 - $141,500.00
-- 🕒 **Posted:** 2026-11-27
-
-### [VP Senior Software Engineer – Java & Distributed Systems](https://www.linkedin.com/jobs/view/4486909701/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Senior Java Developer - Vice President](https://www.linkedin.com/jobs/view/4486920559/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Senior Java Full Stack Developer  - Vice President](https://www.linkedin.com/jobs/view/4486919614/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Senior Java Developer - Vice President](https://www.linkedin.com/jobs/view/4486908676/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Java Applications Development Lead, Vice President](https://www.linkedin.com/jobs/view/4486917669/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Application Development Lead, Vice President](https://www.linkedin.com/jobs/view/4486976683/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Java Developer - Assistant Vice President](https://www.linkedin.com/jobs/view/4486904794/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $94,300.00 - $141,500.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Generative AI Engineer -Vice President](https://www.linkedin.com/jobs/view/4486911628/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Restaurant Technology Deployment & Operations, Tim Hortons](https://www.linkedin.com/jobs/view/4480302094/) — Restaurant Brands International
+### [Director, Data & Information Governance](https://www.linkedin.com/jobs/view/4495334656/) — Acara Solutions, An Aleron Company
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Senior Java Developer - Vice President](https://www.linkedin.com/jobs/view/4486926355/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Full Stack Java Developer Tech Lead- Vice President](https://www.linkedin.com/jobs/view/4486915729/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [FX Application Infrastructure Engineer, VIce President](https://www.linkedin.com/jobs/view/4486908669/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Application Development Engineer (Java) - AVP](https://www.linkedin.com/jobs/view/4486914590/) — Citi
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Full Stack Developer - Vice President](https://www.linkedin.com/jobs/view/4486908747/) — Citi
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $120,800.00 - $170,800.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Director of Finance](https://www.linkedin.com/jobs/view/4490691461/) — Swim Recruiting
-- 📍 **Location:** Port Coquitlam, British Columbia, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [VP Accounting / VP Comptabilité](https://www.linkedin.com/jobs/view/4494970457/) — Vention
-- 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Chief Administrative Officer - Rural Municipality of Taché](https://www.linkedin.com/jobs/view/4495338198/) — Harris Leadership Strategies
-- 📍 **Location:** Dufresne, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Director of Operations  - Ventana Special Projects](https://www.linkedin.com/jobs/view/4495331250/) — Ventana Construction Corporation
-- 📍 **Location:** Coquitlam, British Columbia, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [VICE PRESIDENT AND GROUP LEAD, SPECIAL ACCOUNTS AND BUSINESS RESTRUCTURING](https://www.linkedin.com/jobs/view/4495318457/) — BDC
-- 📍 **Location:** Montreal, Quebec, Canada
+- 💰 **Salary:** $200,000.00/yr - CA$230,000.00/yr
 - 🕒 **Posted:** 2026-11-27
