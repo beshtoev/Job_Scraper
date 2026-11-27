@@ -1,6 +1,222 @@
 {
-  "updated_at": "2026-11-27 22:32 UTC",
+  "updated_at": "2026-11-27 22:45 UTC",
   "jobs": [
+    {
+      "company": "Common Wealth Retirement",
+      "title": "Senior Director of Wealth & Planning",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338102808",
+      "date_posted": "2026-11-27",
+      "description": "We expect the team to encompass financial planning, financial education, and investments, with strong support and collaboration from Marketing (e.g., to support…",
+      "salary": "$170k–$200k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T22:45:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Extendicare",
+      "title": "Director of Care (DOC) - Full Time (FT) - Holyrood",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338124574",
+      "date_posted": "2026-11-27",
+      "description": "Strategic planning – in support of the home level strategic priorities, develop the operational plans with respect to clinical operations and staffing, which…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T22:45:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Summit Search Group",
+      "title": "Director, Regional Operations, Quebec/Directeur(trice), Opérations régionales, Québec",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338008066",
+      "date_posted": "2026-11-27",
+      "description": "Soutenir les relations avec les transporteurs et les partenaires de transport qui contribuent à la qualité du service, à la capacité et au succès global des…",
+      "salary": "$160k–$190k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T22:45:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Groupe Scandinave inc.",
+      "title": "National Director of Operations",
+      "location": "Mont-Tremblant, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338132157",
+      "date_posted": "2026-11-27",
+      "description": "Bachelor’s degree in business administration, operations management or a related field (an asset); Implement an audit program to validate compliance with…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T22:45:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Mont-Tremblant",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "DB Conseils(DBC)",
+      "title": "Project Director",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338091937",
+      "date_posted": "2026-11-27",
+      "description": "Access to top-tier resources – SAP certifications, a full SAP book library, PMI certifications, CPIM certification: we equip you with the tools to grow.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T22:45:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Government of Alberta",
+      "title": "Executive Director, Natural Resource Management",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337860820",
+      "date_posted": "2026-11-27",
+      "description": "A bachelor’s degree in agriculture, natural resources, environmental science, engineering or a related discipline is required. Driver’s license is required.",
+      "salary": "$154k–$202k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T22:45:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Explore Edmonton Corporation",
+      "title": "Director, Communications & Connections",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338104749",
+      "date_posted": "2026-11-27",
+      "description": "Guide a multimedia program that encompasses a wide variety of communications products, including Internet/intranet, presentations, video, print publications,…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T22:45:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Birch Hills County",
+      "title": "Director of Corporate Services",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338002068",
+      "date_posted": "2026-11-27",
+      "description": "A valid Class 5 driver’s licence, a satisfactory driver’s abstract, and a satisfactory criminal record check. Prepares the annual operating and capital budgets…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T22:45:25Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
     {
       "company": "Compugen Inc",
       "title": "Acting Director, Distribution Centre & Logistics",
@@ -10,7 +226,7 @@
       "company_url": "https://ca.indeed.com/cmp/Compugen-Inc",
       "date_posted": "2026-11-27",
       "description": "**Vacancy No / Numéro de poste vacant** VN10193\n  \n\n**Company Name/Nom de l'entreprise** Compugen Inc\n  \n\n**Work Location** Richmond Hill, ON\n  \n\n**Pay Range / Rémunération** Base Compensation: $150000\\-$178000 Annually \\*range is not inclusive of variable compensation (if applicable). Total Cash Compensation: $150000\\-$178000 Annually (range is inclusive of variable compensation if applicable)\n  \n\n**Pipeline Posting** No\n  \n\n**Job Details/Détails du poste**\n### **About Compugen**\n\n\nCompugen is Canada's largest privately\\-owned Technology Ally. To innovate industries, transform businesses, connect communities, and drive meaningful change, we must think bigger, reach broader, and act bolder. Through knowledge, curiosity, and collaboration, Compugen helps organizations delivering experience by design. This is what it means to be human\\-centered and technology\\-enabled.\n  \n\n  \n\nDreaming, designing, and delivering isn't just a mantra for us — it's a way of life. We believe that technology is the conduit, but our people – they are the connection that truly makes the magic happen!\n  \n\n### **Our Culture**\n\n\nWe are a human\\-centered culture where we prioritize your well\\-being and are invested in helping you reach your fullest potential. We're not only focused on achieving our goals — we're dedicated to helping you achieve yours.\n  \n\n  \n\nIf you're relentlessly curious, driven to make a difference, and collaborative at the core, then you belong with us.\n### **Position Overview:**\n\nThe **Acting Director, Distribution Centre \\& Logistics** provides leadership continuity and accountable execution across a large part of Compugen's national distribution\\-centre network, focusing on Richmond Hill and Calgary. Based primarily in Richmond Hill, the incumbent leads managers, senior supervisors, and operational support teams responsible for receiving, put\\-away, storage, inventory control, picking, packing, shipping, returns, reverse logistics, re\\-use, service parts, and inter\\-network transfers.\n  \n\n  \n\nReporting to the Vice President, Operations, this leader is accountable for safe and compliant operations, customer service and SLA attainment, operating budgets, workforce capacity, transportation performance, inventory accuracy, technology enablement, and the successful delivery of priority transformation initiatives. The role works closely with Materials Management, Service, Configuration, Sales, Finance, IT, People \\& Culture, Health \\& Safety, Facilities, vendors, carriers, and customers.\n  \n\n  \n\nThis is a 12\\-month acting appointment intended to stabilize the function, advance the current improvement portfolio, strengthen management capability, and leave clear processes, controls, reporting, and transition documentation for the next leader.\n  \n\n### **Key Responsibilities:**\n\n\n* **National operational leadership:** Direct multi\\-site distribution and logistics operations, with hands\\-on leadership of Richmond Hill and Calgary, with oversite of other supported locations, and third\\-party logistics partners.\n* **End\\-to\\-end distribution centre execution:** Own receiving, put\\-away, slotting, storage, replenishment, picking, packing, shipping, returns, reverse logistics, reuse, service\\-parts, and customer\\-owned inventory processes; ensure daily priorities and escalations are resolved quickly.\n* **Safety, quality, and compliance:** Maintain zero compromise on safety; ensure effective training, inspections, incident and near\\-miss reporting, JHSC action closure, CVOR\\-related controls where applicable, and readiness for internal and external quality, ISO, security, and environmental audits.\n* **Customer experience and service levels:** Translate customer contracts and operational requirements into executable processes, capacity plans, controls, and SLAs; monitor on\\-time shipment/delivery, order accuracy, backlog, returns, and corrective actions for off\\-target performance.\n* **Inventory accuracy and asset control:** Establish robust cycle\\-counting, inventory\\-transfer, transaction, traceability, and reconciliation practices across finished goods, reuse, service parts, customer\\-owned assets, and data\\-bearing equipment.\n* **Transportation and freight management:** Lead carrier and 3PL performance, transportation sourcing and RFPs, contract management, routing and mode decisions, freight visibility, claims and exceptions, and freight\\-cost recovery in partnership with Sales and Finance.\n* **Financial management:** Own multiple warehousing and service\\-logistics cost centres; prepare annual plans and forecasts, review results monthly, explain variances, control labour, overtime, occupancy, storage, freight, and handling costs, and identify sustainable savings and recovery opportunities.\n* **Workforce planning and people leadership:** Lead and coach managers and senior supervisors; build defensible labour and utilization models, approve staffing and scheduling plans, recruit critical roles, set objectives, provide feedback, manage performance, and maintain succession and development plans.\n* **Process standardization and continuous improvement:** Standardize core DC methods across locations and business units, eliminate unnecessary variation and rehandling, improve space utilization and flow, and use Lean/problem\\-solving disciplines to deliver measurable productivity and quality gains.\n* **Systems and data enablement:** Act as business owner for distribution centre and logistics processes in JDE, RFSmart, WMS/TMS and related tools; strengthen item, location, dimension, weight, and slot master data; improve system adoption, reporting integrity, and transaction discipline.\n* **KPI governance and management cadence:** Maintain a focused performance dashboard with clear definitions and owners; establish regular operating reviews, document action plans, and enable managers and senior supervisors to lead routine KPI conversations and decisions.\n* **Network and facility planning:** Develop capacity, layout, r",
-      "salary": "",
+      "salary": "$150k–$178k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
@@ -32,7 +248,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338117954"
+      ]
     },
     {
       "company": "Questrade Financial Group",
@@ -76,7 +295,7 @@
       "company_url": "https://ca.indeed.com/cmp/Recipe-Unlimited-Corporation",
       "date_posted": "2026-11-27",
       "description": "Founded in 1954, Swiss Chalet is an iconic Canadian restaurant brand renowned for its classic rotisserie chicken and signature dishes. Swiss Chalet operates as part of Recipe Unlimited Corporation, Canada’s leading restaurant company. We are seeking a dynamic and strategic Director, Marketing, Digital \\& Off\\-Premise to lead high\\-growth digital and off\\-premise marketing initiatives for the brand.\n  \n  \n\nReporting directly to the Head of Marketing, the Director, Marketing, Digital \\& Off\\-Premise will drive strategic growth across Takeout, Order Ahead Pickup, and Delivery channels. The role will oversee the design, planning, and execution of industry\\-leading digital advertising and marketing programs for one of Canada’s most recognizable restaurant brands.\n  \n  \n\n**What you will do in this role:**  \n\n* Leads the Off\\-Premise strategic vision and marketing calendar in close collaboration with agency partners, cross\\-functional teams, and the Head of Marketing.\n* Drives the proactive strategy, development, and execution of targeted campaigns to acquire, retain, and engage Off\\-Premise Guests. Responsibilities include defining program concepts, offers, pricing, operational requirements, communication plans, budget allocation, and key performance indicators (KPIs) to measure and optimize campaign effectiveness.\n* Leads digital media strategies, including mix, allocation, and placement, while overseeing annual planning and spend in partnership with media agencies.\n* Conducts timely, thorough post\\-program evaluations to capture key insights and optimize future campaign performance across ROI, Net Sales, Margin, and Guest Experience.\n* Oversees the strategy and execution of digital media (social media channels, influencer partnerships, paid display advertising, SEM/SEO, and website content) and Public Relations to drive Brand equity and voice in the market.\n* Leads the development and management of CRM strategy and calendar (email marketing, automated email trigger programs, mobile app push notifications, and consumer journeys), to drive frequency, increase transaction value, and strengthen loyalty.\n* Oversees digital guest touchpoints, including the Swiss Chalet mobile app, web ordering platform, and third\\-party delivery channels/partners, in collaboration with IT, Digital Product, and Operations teams.\n* Leads and manages external Brand Partnerships (e.g., loyalty partners, third\\-party delivery services, and research vendors), with central team support, to maximize the impact and reach of the Off\\-Premise marketing plan.\n* Leverages brand research, business insights, and guest sentiment analytics to drive brand equity, expand market share, and optimize category performance.\n* Leads, inspires, and develops direct reports while serving as a key leadership contributor within the broader Swiss Chalet Brand Team.\n\n\n**What we are looking for from you:**  \n\n* 6\\+ years of Brand Management or Marketing leadership experience; restaurant or franchise experience preferred\n* University Degree, BBA, BCom or MBA preferred\n* Strong strategic acumen with a proven track record of forecasting market trends and anticipating industry shifts\n* Ability to navigate, collaborate, and drive alignment across matrix organizations\n* Proactive problem\\-solver and decisive priority\\-setter focused on high\\-impact business outcomes\n* Demonstrated success managing complex projects and cross\\-functional stakeholders (Operations, IT, Finance, Sourcing)\n* Exceptional at translating data\\-driven insights into actionable strategies\n* In\\-depth expertise in advertising best practices, emerging digital channels, and media trends\n* Proven team leader with a strong track record of coaching, developing talent, and fostering an innovative culture. Lives and breaths the Recipe Values (Do the Right Thing, Be Curious, Be Passionate, Celebrate People, Own It)\n\n\nWhat’s in it for you?\n  \n  \n\n* Flexible/Hybrid work environment• Salary Range: $120,000 \\- $150,000 \\+ Annual Bonus\n* You’d be joining a close\\-knit, innovative team of creative and energetic go\\-getters\n* You’d be a part of Canada’s largest full\\-service restaurant company that leads the industry in size and innovation\n* 20% associate discount dining card and monthly dining allowance valid at participating Recipe brands\n* A welcoming, fun and safe work environment founded on respect\n* Career advancement opportunities with a company that owns some of Canada’s most iconic restaurant brands\n* Industry\\-leading benefits, wellness programs, and total rewards programs\n\n\nRecipe is committed to providing a diverse, equitable and inclusive workplace. Celebrating people, being passionate and curious, owning it, and doing the right thing are the values that guide how we build our teams, support our franchisees and create a company that unlocks the full potential of everyone.\n  \n  \n\nRecipe is dedicated to providing accommodations in accordance with applicable human rights and accommodation legislation. For individuals that require accommodations please contact recruit@recipeunlimited.com",
-      "salary": "",
+      "salary": "$120k–$150k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -98,7 +317,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338122771"
+      ]
     },
     {
       "company": "Swiss Chalet",
@@ -109,7 +331,7 @@
       "company_url": "https://ca.indeed.com/cmp/Swiss-Chalet",
       "date_posted": "2026-11-27",
       "description": "Founded in 1954, Swiss Chalet is an iconic Canadian restaurant brand renowned for its classic rotisserie chicken and signature dishes. Swiss Chalet operates as part of Recipe Unlimited Corporation, Canada’s leading restaurant company. We are seeking a dynamic and strategic Director, Marketing, Digital \\& Off\\-Premise to lead high\\-growth digital and off\\-premise marketing initiatives for the brand.\n  \n  \n\nReporting directly to the Head of Marketing, the Director, Marketing, Digital \\& Off\\-Premise will drive strategic growth across Takeout, Order Ahead Pickup, and Delivery channels. The role will oversee the design, planning, and execution of industry\\-leading digital advertising and marketing programs for one of Canada’s most recognizable restaurant brands.\n  \n  \n\n**What you will do in this role:**  \n\n* Leads the Off\\-Premise strategic vision and marketing calendar in close collaboration with agency partners, cross\\-functional teams, and the Head of Marketing.\n* Drives the proactive strategy, development, and execution of targeted campaigns to acquire, retain, and engage Off\\-Premise Guests. Responsibilities include defining program concepts, offers, pricing, operational requirements, communication plans, budget allocation, and key performance indicators (KPIs) to measure and optimize campaign effectiveness.\n* Leads digital media strategies, including mix, allocation, and placement, while overseeing annual planning and spend in partnership with media agencies.\n* Conducts timely, thorough post\\-program evaluations to capture key insights and optimize future campaign performance across ROI, Net Sales, Margin, and Guest Experience.\n* Oversees the strategy and execution of digital media (social media channels, influencer partnerships, paid display advertising, SEM/SEO, and website content) and Public Relations to drive Brand equity and voice in the market.\n* Leads the development and management of CRM strategy and calendar (email marketing, automated email trigger programs, mobile app push notifications, and consumer journeys), to drive frequency, increase transaction value, and strengthen loyalty.\n* Oversees digital guest touchpoints, including the Swiss Chalet mobile app, web ordering platform, and third\\-party delivery channels/partners, in collaboration with IT, Digital Product, and Operations teams.\n* Leads and manages external Brand Partnerships (e.g., loyalty partners, third\\-party delivery services, and research vendors), with central team support, to maximize the impact and reach of the Off\\-Premise marketing plan.\n* Leverages brand research, business insights, and guest sentiment analytics to drive brand equity, expand market share, and optimize category performance.\n* Leads, inspires, and develops direct reports while serving as a key leadership contributor within the broader Swiss Chalet Brand Team.\n\n\n**What we are looking for from you:**  \n\n* 6\\+ years of Brand Management or Marketing leadership experience; restaurant or franchise experience preferred\n* University Degree, BBA, BCom or MBA preferred\n* Strong strategic acumen with a proven track record of forecasting market trends and anticipating industry shifts\n* Ability to navigate, collaborate, and drive alignment across matrix organizations\n* Proactive problem\\-solver and decisive priority\\-setter focused on high\\-impact business outcomes\n* Demonstrated success managing complex projects and cross\\-functional stakeholders (Operations, IT, Finance, Sourcing)\n* Exceptional at translating data\\-driven insights into actionable strategies\n* In\\-depth expertise in advertising best practices, emerging digital channels, and media trends\n* Proven team leader with a strong track record of coaching, developing talent, and fostering an innovative culture. Lives and breaths the Recipe Values (Do the Right Thing, Be Curious, Be Passionate, Celebrate People, Own It)\n\n\nWhat’s in it for you?\n  \n  \n\n* Flexible/Hybrid work environment\n* Salary Range: $120,000 \\- $150,000 \\+ Annual Bonus\n* You’d be joining a close\\-knit, innovative team of creative and energetic go\\-getters\n* You’d be a part of Canada’s largest full\\-service restaurant company that leads the industry in size and innovation\n* 20% associate discount dining card and monthly dining allowance valid at participating Recipe brands\n* A welcoming, fun and safe work environment founded on respect\n* Career advancement opportunities with a company that owns some of Canada’s most iconic restaurant brands\n* Industry\\-leading benefits, wellness programs, and total rewards programs\n\n\nRecipe is committed to providing a diverse, equitable and inclusive workplace. Celebrating people, being passionate and curious, owning it, and doing the right thing are the values that guide how we build our teams, support our franchisees and create a company that unlocks the full potential of everyone.\n  \n  \n\nRecipe is dedicated to providing accommodations in accordance with applicable human rights and accommodation legislation. For individuals that require accommodations please contact recruit@recipeunlimited.com",
-      "salary": "",
+      "salary": "$120k–$150k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -131,7 +353,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338122772"
+      ]
     },
     {
       "company": "Manulife",
@@ -208,7 +433,7 @@
       "company_url": "https://ca.indeed.com/cmp/Cloudkettle",
       "date_posted": "2026-11-27",
       "description": "Director, Client Services\n=========================\n\n**Location:** Remote within Canada**Compensation:** CAD $250,000 – $300,000 OTE (50% Base / 50% Performance)**Travel:** Up to 25% to client sitesThe Work\n--------\n\n  \n\nAre you an experienced sales professional who prioritizes delivering true value from new client acquisition through to long\\-term client partnerships?  \n\nYou should be motivated by achieving positive, measurable outcomes for clients who view you as a trusted advisor. In this role, you will lead the engagement strategy for enterprise Salesforce clients, managing the relationship from initial contact through years of growth. This is a consultative, revenue\\-generating position focused on navigating complex technology transformations leveraging the Salesforce platform and products. Rather than transactional sales, you will build a book of business by leveraging your professional network and acumen to provide strategic guidance to organizations as a peer and partner.**This is a quota\\-carrying role. If that's not what you're looking for, this isn't the right fit.**\n\nWho Will Succeed\n----------------\n\n* **Credible command of enterprise technology.** Not that you architect a solution, but you can speak credibly about what a client’s technology should accomplish and where implementations fail.\n* **Analytical horsepower applied to operational reality.** You structure ambiguous problems in real time, in front of executives, in contexts where the analysis carries real commercial consequences.\n* **Intellectual humility as discipline.** Your value is helping clients see the true shape of a problem \\- working as a true partner to understand the breadth, depth, and complexity with your client, not for them.\n* **Equal stature with the C\\-suite.** You partner with clients as a peer and can point to moments where pushing back on an executive's framing produced a sharper analysis they then defended as their own.\n* **Willingness to disqualify.** You can describe deals you walked away from, fully aligned with why that decision was made, and without seeing it as failure.\n* **Long\\-arc relationships.** Your references have stayed with you across multiple engagements, roles, and organizational transitions.\n* **Substantive vertical expertise.** You know an industry's realities and language, and hold decision\\-maker relationships that predate this role.\n\nKey Responsibilities\n--------------------\n\n* Serve as primary advisor and executive sponsor for top\\-tier accounts, building C\\-suite relationships that endure and growing a retainer\\-based book of business.\n* Own the full commercial process, prospecting through close, renewal, and expansion, with the discipline of strategy consulting rather than the velocity of transactional sales.\n* Run hypothesis\\-driven discovery, decline early capability demos in favor of diagnostic depth, and produce communications suitable for executive committees \\& boards.\n* Collaborate with delivery leads and technical architects so the analytical work is realized in delivery, and coordinate joint pursuits with Salesforce account teams while protecting Ateko's commercial and analytical integrity.\n\nQualifications\n--------------\n\n**Required*** 7\\-10\\+ years in management consulting, technology consulting, professional services, or senior strategic advisory; strategy consulting backgrounds particularly relevant.\n* Proven commercial accountability: you have carried and exceeded a services\\-based revenue target in the $3M–$6M\\+ range and can speak to how, with emphasis on engagement quality over transaction volume.\n* 5\\+ years of engaging directly with C\\-suite and board\\-level executives\n* Substantive vertical expertise with established decision\\-maker relationships.\n* Analytical and structured\\-communication capability at the strategy\\-consulting standard.\n* Working familiarity with enterprise technology platforms.\n* Resides and is legally authorized to work in the United States.\n* Experience using AI tools in your work, or a clear aptitude for it, and the judgement to stand behind what it produces.\n\n **Preferred*** Salesforce certifications or comparable platform fluency.\n* Experience combining consulting rigor with commercial accountability.\n\nAbout Ateko\n-----------\n\n\nAteko partners with enterprises on technology transformations too consequential to manage transactionally, at the intersection of strategy consulting and platform implementation. Our best clients choose us because we have the uncomfortable conversation early and hold the line on the rigor the work requires. We are deliberately smaller and more analytically rigorous than the integrators we compete against, not a limitation we apologize for, but the advantage our clients hire us for. We are actively deploying AI tools across the practice and expect practitioners to embrace them as those tools prove their value.What We Offer\n-------------\n\n* Remote\\-first and flexible, across Canada.\n* CAD $250,000 – $300,000 OTE (50% Base / 50% Performance).\n* Three weeks vacation plus ten personal days (illness, family, mental health).\n* Medical and dental benefits.\n* Subsidized professional development, including certification exam coverage.\n* Support for publishing, conference speaking, and profile development.\n* Peer\\-nominated recognition and performance bonuses.\n* A deliberately gender\\-balanced practice (near 50/50\\).\n* Pledge 1%: 20 working hours per year for volunteering.\n\n *Ateko is an equal opportunity employer. We welcome applications from candidates of all backgrounds and identities.** *Artificial intelligence may be used to screen, assess or select applicants*",
-      "salary": "",
+      "salary": "$250k–$300k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -230,7 +455,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338116585"
+      ]
     },
     {
       "company": "Blair Health",
@@ -1177,7 +1405,7 @@
       "req_id": "",
       "date_posted": "2026-11-27",
       "date_seen": "2026-11-27T20:27:12Z",
-      "description": "",
+      "description": "University degree required: Post Graduate degree preferred. The successful candidate will lead a broad governance and program management mandate spanning…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -1197,7 +1425,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$175k–$215k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337879409"
+      ]
     },
     {
       "company": "Ameresco",
@@ -1328,7 +1560,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337883887"
+      ]
     },
     {
       "company": "TD",
@@ -2150,28 +2385,30 @@
       "location": "Aurora, Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4495321231/",
       "date_posted": "2026-11-27",
-      "salary": "",
+      "salary": "$140k–$160k/yr",
       "ats": "LinkedIn",
       "description": "Ready to shape the future of IT across a growing North American organization, all while working remotely from Canada?\n\nAt Ramudden Global North America, we help make roads and communities safer through traffic management, safety infrastructure, and urban mobility solutions. As part of Ramudden Global, we're connected to more than 5,000 employees across 14 countries, bringing together local expertise and global capabilities to make a difference in the communities we serve.\n\nAs our North American business continues to grow, technology plays an increasingly important role in how we operate, connect our teams, and support our customers. We're looking for an experienced IT leader who enjoys building strong teams, driving innovation, and turning technology challenges into business opportunities.\n\nThis is an opportunity to take ownership of our regional IT infrastructure and operations, influence technology strategy, strengthen cybersecurity, and lead initiatives that will support our continued growth.\n\nThe Opportunity: Director, IT Infrastructure & Operations\n\nReporting to the Vice President, Information Technology, the Director will lead the strategy, performance, and ongoing development of IT infrastructure and operations across Ramudden Global North America.\n\nYou'll oversee cloud platforms, networking, cybersecurity, and IT service delivery while driving modernization, standardization, and technology integration across our operating companies. Working closely with senior leaders, operational teams, and Global IT, you'll help build a secure, reliable, and scalable technology environment that supports our business today and prepares us for what's ahead.\n\nWe're looking for someone who can balance strategic thinking with practical execution, enjoys solving complex challenges, and knows how to bring people together to get things done.\n\nResponsibilities\n\nIT Strategy & Infrastructure\n\nDevelop and lead the North American IT infrastructure and cloud strategy, ensuring alignment with business priorities and global IT standards.\nOversee Microsoft Azure, Microsoft 365, Entra ID, Intune, enterprise networking, and infrastructure services.\nDrive technology modernization, standardization, and consolidation across operating companies.\nEnsure reliable, secure, and scalable technology services across offices, branches, yards, and operational locations.\n\nCybersecurity & Business Continuity\n\nLead regional cybersecurity operations in partnership with Global IT and cybersecurity teams.\nOversee identity and endpoint security, vulnerability management, security monitoring, and incident response.\nIdentify and manage technology risks while supporting security compliance and audit requirements.\nLead disaster recovery and business continuity planning, ensuring backup and recovery capabilities are regularly tested.\n\nIT Operations & Service Delivery\n\nOversee regional IT operations and service delivery, ensuring employees receive reliable and responsive support.\nEstablish clear service standards, performance measures, escalation processes, and accountability.\nDrive automation, process improvements, and standardization to improve service quality and operational efficiency.\nManage technology vendors, managed service providers, and strategic partnerships.\n\nTechnology Integration & Financial Management\n\nLead infrastructure assessments and technology integration activities related to acquisitions.\nOversee regional modernization and transformation initiatives, ensuring alignment with business objectives.\nDevelop and manage regional IT budgets, forecasts, and technology investments.\nIdentify opportunities to optimize technology spending, reduce technical debt, and improve overall value.\n\nLeadership & Team Development\n\nBuild, lead, and develop a high-performing regional IT team.\nEstablish clear roles, responsibilities, and performance expectations.\nDevelop internal technical capabilities and encourage accountability, collaboration, and continuous improvement.\nWork closely with senior leadership and Global IT to represent North American business needs and priorities.\n\nQualifications\n\n15+ years of progressive experience in enterprise IT, infrastructure, cloud, or technology operations, including at least 5 years in a leadership role.\nDemonstrated experience leading complex, geographically distributed IT environments.\nStrong technical knowledge of Microsoft Azure, Microsoft 365, Entra ID, Intune, Active Directory, and enterprise networking.\nStrong understanding of cybersecurity, Zero Trust, IT risk management, disaster recovery, and IT service management.\nExperience leading infrastructure modernization, cloud adoption, technology transformation, and integration initiatives.\nExperience managing IT budgets, vendors, managed service providers, and strategic technology investments.\nProven ability to build and develop technical teams, manage change, and drive operational improvements.\nStrong business acumen, strategic thinking, and communication skills, with the ability to work effectively with technical teams and executive leadership.\nExperience supporting mergers, acquisitions, and technology integrations is considered an asset.\n\nRelevant Microsoft, ITIL, cybersecurity, or networking certifications are considered an asset. Equivalent practical experience will also be considered.\n\nAt Ramudden Global North America, we value collaboration, accountability, and people who take pride in making a difference. You'll have the opportunity to work with teams across North America and around the world, influence our technology direction, and help build the foundation for our continued growth.\n\nRamudden Global North America is an equal opportunity employer and is committed to providing employment in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. If contacted regarding an employment opportunity, please advise Human Resources if you require accommodation.\n\nInterested? Apply today!\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nPublic Safety",
       "first_seen": "2026-11-27T16:56:41Z",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Aurora",
       "geo_province": "ON",
       "geo_lat": 44.0065,
       "geo_lon": -79.4504,
       "geo_distance_km": 33.5,
-      "geo_rank": 100335,
+      "geo_rank": 300335,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/director-it-infrastructure-operations/12572427",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-it-infrastructure-operations/12572427"
-      ]
+        "https://builtintoronto.com/job/director-it-infrastructure-operations/12572427",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338102750"
+      ],
+      "work_arrangement": "Remote in-state eligible"
     },
     {
       "company": "Loblaw Companies Limited",
@@ -3051,7 +3288,10 @@
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337131269"
+      ]
     },
     {
       "company": "Recipe Unlimited Corporation",
@@ -3623,7 +3863,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337377217"
+      ]
     },
     {
       "company": "Jobgether",
@@ -4930,7 +5173,7 @@
       "company_url": "https://ca.indeed.com/cmp/Zulu-Alpha-Kilo",
       "date_posted": "2026-11-26",
       "description": "We were founded on the belief that the world needs more creativity. It's what drives all our decision\\-making. There is just so much ineffective, badly crafted work in the world that never gets noticed, has zero impact and is a waste of client budgets. We are here to change all that. When you truly embrace creativity as a competitive advantage, you will see it transform your world and your business. We've witnessed this over and over with our own clients. And, as a purpose\\-driven company, we also use our creativity to do good in the world by supporting causes we truly believe in.  \n\n  \n\nWith 200 staff in New York, Toronto, and Vancouver, Z.A.K. is a magnet for top global talent. Want to change your world as a marketer? Let's fight sameness together.\n\n\n**Who** **We're** **Looking For:**\n\n\n\nWe're in search of a talented **Director of Post Production \\& Operations** to leads post\\-production operations, overseeing video editing, motion design, and finishing to deliver world\\-class creative content. you will report to the Head of Production and will work with all our teams to support them in delivering award\\-winning work for our clients. More specifically you will:\n\n\n* Manage post\\-production teams and workflow efficiency.\n* Lead post\\-production resource planning across projects and disciplines.\n* Ensure creative excellence and technical quality in all deliverables.\n* Collaborate with producers and creative teams on timelines and output.\n* Oversee vendor relationships and post\\-production budgets.\n* Provide post supervision and technical direction across projects.\n* Advise teams on appropriate workflows, vendors, technology, and post\\-production approaches.\n* Track Revenue For Zulubot and manage monthly reporting with finance\n\n\n**What You Bring:**\n\n\n* 10\\+ years in post\\-production management with leadership experience.\n* Strong knowledge of editing, color grading, and finishing workflows.\n* Excellent organizational and team management skills.\n* Bachelor's degree in Film, Media Production, or related field.\n\n\n**Why Join Us?**\n\n\n* Be part of a fun and collaborative team.\n* Opportunities for growth and professional development.\n* A vibrant workplace culture that values innovation and employee well\\-being.\n* Competitive salary, benefits, and a flexible work environment. We are a hybrid environment. We ask for a minimum of 2 days per week in the office, with 3 days in the office to kickstart your onboarding.\n\n\n***Compensation for this role ranges from $110******,000 to $13******0,000*** ***CAD******, depending on experience.***  \n\n  \n\n*Zulu Alpha Kilo is an equal opportunity employer. It prohibits discrimination based on age, colour, disability, national origin, race, religion, sex, sexual orientation, and any other legally protected class* *in accordance with* *applicable federal, provincial, and local laws. Zulu Alpha Kilo is committed to creating and* *maintaining* *an inclusive and accessible workplace. If you are contacted for an interview and require accommodation during the interviewing process, please let us know.*\n\n\n*This job posting relates to an existing vacancy. Zulu Alpha Kilo uses artificial intelligence systems in the recruitment process to screen, assess, or select applicants but all hiring decisions are made by humans.*\n\n\n***We appreciate your interest in joining Zulu Alpha Kilo. When applicable, please include a link to your portfolio with your application. Although all applications are reviewed, only those selected for interviews will be contacted.***",
-      "salary": "",
+      "salary": "$110k–$130k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "contract",
@@ -4952,7 +5195,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337044640"
+      ]
     },
     {
       "company": "BMO Financial Group",
@@ -5285,20 +5531,24 @@
       "ats": "LinkedIn",
       "description": "About Partners\nPartners for Affordable Housing, a registered Canadian charity, brings together public, private, philanthropic, and nonprofit partners to help community-led affordable housing solutions move forward, faster.\n\nWe mobilize philanthropic capital, connect housing providers with the partners and resources they need, and help unlock funding for viable projects that might otherwise stall. Through initiatives such as our platform Front Door and our funding programs, we are helping affordable housing projects advance in communities across Canada.\n\nWe are a small, growing, mission-driven team working nationally toward a shared goal: helping ensure everyone has a place to call home.\n\nThe Role\nThe Director of Finance provides hands-on leadership of the day-to-day financial operations of Partners for Affordable Housing, ensuring accurate financial reporting, effective accounting processes and reliable financial information to support organizational decision-making.\n\nWorking closely with the CEO, fractional CFO and Executive Team, the Director serves as the primary point of contact for operational financial matters, oversees external bookkeeping support and maintains the integrity of the organization’s financial systems and controls. The fractional CFO leads financial strategy, board-level financial advice and the external [audit / review] relationship; the Director owns day-to-day financial operations, reporting and controls.\n\nThis role is well suited to someone who thrives in a dynamic, entrepreneurial environment and is equally comfortable managing detailed accounting activities, improving processes and providing practical financial guidance to colleagues across the organization.\n\nThe position is open to candidates working remotely within Canada, with a hybrid option available in Calgary.\n\nKey Responsibilities\nAccounting & Financial Operations\n\nReview and finalize the month-end close prepared with external bookkeeping support, including account reconciliations, general ledger accuracy and timely financial reporting.\nMaintain QuickBooks Online, including accurate transaction coding, accounts, classes and locations to support organizational, program and grant/fund reporting.\nOversee external bookkeeping support, ensuring accurate, timely completion of accounting activities and deliverables.\nManage pledges and contributions receivables, including invoicing confirmed contributions accurately and on schedule and issuing official donation receipts in line with CRA requirements.\nOversee payroll for staff across multiple provinces, including reviewing payroll processed by our external bookkeeper, ensuring accurate source deductions and CRA remittances, year-end T4 reporting, and allocation of payroll costs to funds and programs.\n\nBudgeting, Reporting & Fund Accounting\n\nWork with the fractional CFO to support annual budgeting, financial forecasting, cash flow planning and monthly financial reporting.\nPrepare and review budget-to-actual reporting and provide timely financial information to support departmental and organizational decisions.\nEnsure revenue and expenses are appropriately allocated to restricted and designated funds, funding agreements and programs, supporting accurate reporting and compliance with funding requirements.\nMaintain the cost allocation methodology and administrative cost recovery across funds.\nPrepare financial reports for the Finance & Audit Committee and Board, including fund balances, commitment coverage and the annual disbursement quota review.\n\nGrants & Fund Disbursement\n\nManage the financial administration of Partners’ funding programs (First Mile, Last Mile and the Tenant Stability Fund), including fund balances and the commitments register.\nVerify that payment conditions are met, including signed funding agreements, recipient eligibility and independently confirmed banking information, before funds are released, and track grantees’ financial reporting.\n[Support the financial administration of program-related investments, such as loans and guarantees, as these programs develop.]\n\nFinancial Leadership & Controls\n\nServe as the primary day-to-day finance contact for the CEO, Executive Team and staff, responding to questions and providing practical financial guidance.\nMaintain effective internal financial controls and support external audits, regulatory compliance and financial accountability.\nManage charity compliance, including the annual T3010 return, disbursement quota monitoring, GST/HST filings and public service body rebates.\nIdentify opportunities to improve financial processes, reporting, systems and operational efficiency.\n\nQualifications & Experience\nCPA designation required.\nStrong experience in accounting operations, month-end close, reconciliations, budgeting and financial reporting.\nHands-on proficiency with QuickBooks Online, including classes and locations.\nExperience with nonprofit or charitable accounting, fund accounting, grants or restricted funding is preferred.\nKnowledge of CRA requirements for registered charities and Canadian accounting standards for not-for-profit organizations (ASNPO) is preferred.\nExperience with grantmaking or fund disbursement is an asset.\nStrong analytical, organizational and problem-solving skills, with excellent attention to detail.\nExcellent communication skills and the ability to explain financial information clearly to non-financial colleagues.\nA collaborative, adaptable and solutions-oriented approach, with the ability to work independently, manage competing priorities and thrive in a growing, entrepreneurial organization.\n\nCompensation\nThe salary range for this position is $115,000 – $135,000 annually, commensurate with experience and qualifications, together with Partners’ employee health and dental benefits, 4 weeks vacation, generous wellness days and annual paid holiday closure. Flexible remote work environment, with a hybrid option in Calgary.\n\nOur Commitment\nPartners is committed to fostering an inclusive workplace and welcomes applications from qualified candidates with diverse backgrounds, experiences, perspectives and abilities. Accommodations are available upon request throughout the recruitment process.\n\nWe thank all applicants for their interest; however, only those selected for an interview will be contacted.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nNon-profit Organizations",
       "first_seen": "2026-11-26T22:06:38Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (Canada-wide)",
       "geo_city": "",
       "geo_province": "",
       "geo_lat": null,
       "geo_lon": null,
       "geo_distance_km": null,
-      "geo_rank": 599999,
+      "geo_rank": 399999,
       "geo_source": "inferred",
       "geo_confidence": "low",
       "geo_detail": "only country stated",
-      "geo_version": 1
+      "geo_version": 1,
+      "work_arrangement": "Remote in-state eligible",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337125679"
+      ]
     },
     {
       "company": "Medline Industries",
