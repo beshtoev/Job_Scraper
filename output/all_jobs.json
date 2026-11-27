@@ -1,6 +1,333 @@
 {
-  "updated_at": "2026-11-27 14:28 UTC",
+  "updated_at": "2026-11-27 14:41 UTC",
   "jobs": [
+    {
+      "company": "Extendicare",
+      "title": "Senior Director, Construction",
+      "location": "Markham, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337032499",
+      "date_posted": "2026-11-27",
+      "description": "This is a hands-on leadership role: you will set the program's delivery strategy and governance, while staying in the detail, reviewing budgets, resolving risk,…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Markham",
+      "geo_province": "ON",
+      "geo_lat": 43.8561,
+      "geo_lon": -79.337,
+      "geo_distance_km": 17.2,
+      "geo_rank": 100172,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "National Bank of Canada",
+      "title": "Managing Director, Defense Sector Advisory",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337081395",
+      "date_posted": "2026-11-27",
+      "description": "Hold a university degree in a relevant field combined with significant experience in the defence, dual-use, financial services or related sectors.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337145880"
+      ],
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "BC Children's Hospital",
+      "title": "Senior Medical Director, Integrated Programs - BC Children’s Hospital",
+      "location": "Vancouver, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337715943",
+      "date_posted": "2026-11-27",
+      "description": "Provide medical leadership and oversight for the Programs, including program development, implementation and evaluation.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (BC)",
+      "geo_city": "Vancouver",
+      "geo_province": "BC",
+      "geo_lat": 49.2827,
+      "geo_lon": -123.1207,
+      "geo_distance_km": 3355.3,
+      "geo_rank": 433553,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "EllisDon Group",
+      "title": "Regional Director, HS&E",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337384115",
+      "date_posted": "2026-11-27",
+      "description": "University degree or college diploma or certificate in Occupational Health and Safety or a related field is preferred.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Senior Director, Customer IAM Integration Assurance (Global Security)",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337096358",
+      "date_posted": "2026-11-27",
+      "description": "A world-class training program in financial services. Oversee Athena domain engagement, questionnaire review, architecture review, certification and Solution…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Westland Insurance Ltd.",
+      "title": "Director, Commercial Transportation",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337032428",
+      "date_posted": "2026-11-27",
+      "description": "This leadership role is responsible for driving strategic growth, managing complex risks, and empowering a high-performing advisory team across Canada.",
+      "salary": "$129k–$162k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Creative Techinnov Software Solutions",
+      "title": "Director, Federal Business Development",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337366511",
+      "date_posted": "2026-11-27",
+      "description": "Assets: a valid federal security clearance and a network of consultants you can propose. An engineering or software background, followed by 3+ years in IT…",
+      "salary": "$68k–$113k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Manitoba Government",
+      "title": "Director, Human Resources",
+      "location": "Winnipeg, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337023912",
+      "date_posted": "2026-11-27",
+      "description": "Demonstrated senior-level leadership experience providing operational and strategic human resource advisory services, including the development, implementation,…",
+      "salary": "$98k–$125k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (MB)",
+      "geo_city": "Winnipeg",
+      "geo_province": "MB",
+      "geo_lat": 49.8951,
+      "geo_lon": -97.1384,
+      "geo_distance_km": 1510.5,
+      "geo_rank": 415105,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "CorGTA",
+      "title": "Associate Director PreSales SAP - Up to $220k p/y USD",
+      "location": "Mississauga, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010336826014",
+      "date_posted": "2026-11-27",
+      "description": "Bachelor’s degree in Food Science, Engineering, Manufacturing, Supply Chain, Agribusiness, Business, Computer Science or a related field, or equivalent…",
+      "salary": "$220k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "GTA",
+      "geo_label": "GTA",
+      "geo_city": "Mississauga",
+      "geo_province": "ON",
+      "geo_lat": 43.589,
+      "geo_lon": -79.6441,
+      "geo_distance_km": 23.9,
+      "geo_rank": 100239,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Mosaic",
+      "title": "Art Director",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337096835",
+      "date_posted": "2026-11-27",
+      "description": "Proficient using AI tools in your concept-to-design workflow - 3D design is a plus, especially for experiential and spatial renders.",
+      "salary": "$65k–$75k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "DBNC Group",
+      "title": "Director of Sales - B2B Team Coaching, Training & Revenue Growth",
+      "location": "Scarborough, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337188699",
+      "date_posted": "2026-11-27",
+      "description": "We need a leader who can learn a business quickly, coach from real calls, build a disciplined selling system, identify high-potential talent, and turn promising…",
+      "salary": "$125k–$195k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Scarborough",
+      "geo_province": "ON",
+      "geo_lat": 43.7764,
+      "geo_lon": -79.2318,
+      "geo_distance_km": 15.3,
+      "geo_rank": 153,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "TC Transcontinental",
+      "title": "Regional Director, Québec",
+      "location": "Lasalle, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010337131260",
+      "date_posted": "2026-11-27",
+      "description": "An advanced degree or relevant operational excellence certification is an asset. Bachelor’s degree in engineering, operations management, business…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-27T14:41:46Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "Lasalle",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Recipe Unlimited Corporation",
       "title": "Director Market Intelligence",
@@ -288,7 +615,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337026046"
+      ]
     },
     {
       "company": "Rothenbury Group",
@@ -416,7 +746,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337251107"
+      ]
     },
     {
       "company": "MUFG Investor Services",
@@ -710,7 +1043,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4495558969/",
       "date_posted": "2026-11-27",
-      "salary": "",
+      "salary": "$120k–$160k/yr",
       "ats": "LinkedIn",
       "description": "Imagine working at the forefront of innovation in fluid-flow technology, with over 1,600 colleagues across the globe, and contributing to a legacy of excellence that spans eight manufacturing facilities on four continents. Armstrong Fluid Technology is more than just a leader in our industry; we are a community of the brightest and most creative minds, driven by a shared mission to engineer the future and safeguard our planet.\n\nThe Head, HR Operations, Transformation & Service Delivery provides enterprise leadership for the design, delivery and continuous improvement of Armstrong's HR operations and service delivery model. The role is accountable for creating a simple, scalable, employee-centered and operationally disciplined HR environment, ensuring that core HR services are delivered consistently, efficiently and with clear ownership across the employee lifecycle.\n\nLeading HR Operations, HR transformation, process excellence and service delivery, the role translates people strategy into practical operating models, standardized processes, service standards and measurable business outcomes.\n\nA core mandate is to continuously challenge how work is performed through simplification to improvement philosophy, ensuring technology enables well-designed processes rather than automating unnecessary complexity.\n\nKey Accountabilities\n\nHR Operations & Service Delivery\nLead Armstrong's enterprise HR Operations and service delivery capability, establishing clear service ownership, operating standards, controls and performance expectations.\nEstablish consistent processes across the employee lifecycle, including onboarding, employee changes, transfers, promotions, leaves, organizational changes and offboarding.\nDefine and maintain HR service levels, escalation protocols, service ownership and operational performance measures.\nEstablish HR knowledge management standards, ensuring employees, managers and HR teams have access to accurate and current policies, procedures and guidance.\nBuild operational controls that strengthen compliance, data integrity, documentation quality and execution consistency.\nIdentify recurring service issues and resolve root causes rather than relying on manual workarounds.\nDevelop dashboards and performance reviews covering transaction quality, service volume, turnaround time, SLA achievement, employee experience and process effectiveness.\nHR Transformation\nLead the enterprise HR transformation portfolio, translating strategic people priorities into structured programs, projects and implementation roadmaps.\nEstablish disciplined transformation governance including scope, objectives, milestones, deliverables, dependencies, risks, resource requirements and decision rights.\nManage cross-functional HR transformation initiatives from concept through design, implementation, stabilization and benefits realization.\nMaintain an integrated transformation roadmap identifying interdependencies across people, process, technology, data and organizational change.\nEstablish portfolio prioritization methods ensuring HR resources are focused on initiatives delivering the highest organizational and employee value.\nProvide clear executive-level reporting covering milestones, outcomes, risks, decisions, capacity and transformation benefits.\nEnsure transformation initiatives transition effectively into sustainable business-as-usual ownership following implementation.\nHR Process Excellence & Continuous Improvement\nEstablish the enterprise methodology for HR process design, documentation and continuous improvement.\nLead end-to-end process reviews across the employee lifecycle.\nFacilitate current-state assessment, process mapping, root-cause analysis, requirements definition and future-state design.\nApply lean, continuous-improvement and structured problem-solving principles where appropriate.\nEliminate unnecessary handoffs, duplicative activities, manual intervention and unclear ownership.\nEstablish standard work, operating procedures, process controls, decision rights and performance measures.\nCreate and maintain an enterprise HR process catalogue identifying process owners and supporting technology.\nDevelop an HR continuous-improvement pipeline using employee feedback, service data, operational metrics and business requirements.\nPartner with HR Technology & Data to determine where workflow automation, system optimization, AI or self-service can eliminate administrative work and improve service.\nHR Service Delivery Model & Operating Model\nDefine which activities should be centralized, standardized, automated, delivered regionally or remain within specialist COEs.\nEstablish clear roles, responsibilities, handoffs and escalation points.\nDevelop service catalogues and service-level expectations.\nEstablish appropriate governance between enterprise People & Organizational Capability teams and regional HR.\nReduce role ambiguity and duplicate activity across HR.\nEnsure HRBP capacity is increasingly directed toward business partnership rather than transactional administration.\nEstablish scalable service models capable of supporting future organizational growth.\nChange Management & Adoption\nEmbed structured change management into major HR transformation initiatives.\nDevelop stakeholder, communications, training, readiness and adoption plans appropriate to each initiative.\nAssess organizational readiness and identify adoption barriers before implementation.\nEquip managers and HR teams to successfully implement new policies, processes, systems and ways of working.\nEstablish adoption measures and monitor whether implemented changes are delivering intended outcomes.\nReinforce new ways of working through governance, measurement, leadership accountability and ongoing improvement.\nCapture lessons learned and incorporate them into future transformation programs.\nDigital Enablement & Partnership with HR Technology\nDefine business requirements and future-state process requirements.\nIdentify automation and digital workflow opportunities.\nEstablish process priorities for system improvements.\nParticipate in technology investment and enhancement prioritization.\nSupport testing, implementation, change readiness and adoption.\nEnsure technology solutions support efficient processes and meaningful employee/manager experiences.\nPartner on data-quality improvements arising from process or operating-model issues.\nGovernance, Risk & Controls\nEstablish appropriate operational governance across HR services and processes.\nMaintain clear process ownership, decision rights and approval authorities.\nEnsure HR operational practices comply with applicable organizational policies, employment requirements, privacy expectations and internal controls.\nPartner with Legal, Finance, IT and other control functions where required.\nEstablish issue-management and escalation processes for material employee-service or operational risks.\nEnsure documented procedures and controls remain current as processes, systems and organizational structures change.\nLead periodic reviews of HR operating effectiveness and identify required corrective actions.\nLeadership & Cross-Functional Partnership\nBuild and lead a high-performing HR Operations and Transformation capability.\nEstablish clear priorities, accountability and development expectations for the team.\nPartner closely with HR Business Partners and People COEs to improve end-to-end delivery.\nServe as a trusted advisor on HR transformation, operating model and process effectiveness.\nFacilitate decision-making across stakeholders with competing priorities.\nTranslate complex operational challenges into clear options, decisions and implementation plans.\nDevelop organizational capability in process thinking, continuous improvement, program management and change leadership.\nFoster a culture of accountability, collaboration, curiosity, simplification and evidence-based decision-making.\n\nRole Requirements\n\nUniversity degree in Human Resources, Business Administration, Organizational Development, Business Transformation or a related discipline.\nCHRP/CHRL, PMP, PROSCI, Lean Six Sigma or comparable professional certification is an asset.\nTypically,10–15+ years of progressive HR, transformation, operations, shared services, program management or process-improvement experience.\nSignificant experience leading complex HR transformation initiatives across functions and geographies.\nDemonstrated experience designing or improving HR service delivery and operating models.\nStrong understanding of employee lifecycle processes and HR operational controls.\nExperience with HRIS platforms, workflow automation, digital HR and employee/manager self-service.\nDemonstrated program and portfolio management capability.\nStrong process design, continuous-improvement and problem-solving skills.\nExperience establishing governance, performance measures and service standards.\nDemonstrated change-management and organizational adoption experience.\nStrong executive communication, facilitation and stakeholder-management capabilities.\nAbility to translate strategy into practical and sustainable operating solutions.\nExperience working across HR, IT, Finance, Legal and business functions in a complex or global organization.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIndustrial Machinery Manufacturing",
       "first_seen": "2026-11-27T04:44:26Z",
@@ -732,7 +1065,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=24a3c7a36bd483f6"
+        "https://ca.indeed.com/viewjob?jk=24a3c7a36bd483f6",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337547705"
       ]
     },
     {
@@ -925,7 +1259,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337179015"
+      ]
     },
     {
       "company": "Equitable",
@@ -983,7 +1320,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337101116"
+      ]
     },
     {
       "company": "Canadian Food Innovation Network",
@@ -1750,7 +2090,8 @@
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=17d1b282dee40a16"
+        "https://ca.indeed.com/viewjob?jk=17d1b282dee40a16",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337083625"
       ]
     },
     {
@@ -1776,7 +2117,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337091600"
+      ]
     },
     {
       "company": "Centre for Organizational Effectiveness",
@@ -1812,7 +2156,7 @@
       "company_url": "https://ca.indeed.com/cmp/Bmo-Financial-Group",
       "date_posted": "2026-11-26",
       "description": "Application Deadline:\n\n\n01/16/2027\nAddress:\n\n\n100 King Street West\nJob Family Group:\n\n\nStrategy \\& Change\nThe Office of Strategic Management (OSM) works closely with the C\\-suite and with senior leaders in each of the businesses on the bank’s top strategic priorities, spanning the end\\-to\\-end lifecycle –from strategy development and solution prioritization all the way through to implementation.\n\n\nThe OSM brings together the development and execution of BMO’s overall strategy by deeply integrating strategy and performance management within each business, enabled by strong connectivity of the team to the Operating Group Heads and their leadership teams, Finance, Technology \\& Operations, and Corporate Functions.\n\n\nIn recent years, the team’s work has included: cross\\-bank growth initiatives, client segment strategies, Digital and AI acceleration, M\\&A target evaluation, large\\-scale M\\&A integration, business portfolio reviews, new business entry and go\\-to\\-market strategies (e.g., climate finance), transformation initiatives, and enterprise cloud and data strategies.\n\n\nThe OSM has a longstanding track record of placing team members in key roles across the organization and is recognized as a strong talent incubator for BMO.\n\n\nAs a Director, you will have unique exposure to executives and opportunities to build cross\\-bank relationships through working with line\\-of\\-business and corporate function leadership on developing and delivering the bank’s strategic priorities.  \n\n\n\n**Core accountabilities**\n\n* Leads high\\-priority strategy engagements identified by the CEO and their direct reports, acting as a strategic thought partner to the business, drawing key implications from relevant analysis to develop actionable recommendations.\n* Leads the development and structuring of complex strategic projects into relevant work\\-streams using a hypothesis\\-driven approach.\n* Actively manages working team members to deliver on strategy project objectives.\n* Cultivates and supports a team culture that enables high performance, employee morale, integrity, teamwork, and work\\-life balance, through contributions to the development and coaching of team members and participation in team recruitment\n* Shapes relevant analyses into high\\-quality strategic recommendations; provides external perspectives / competitive insights where relevant.\n* Applies expertise and thinks creatively to address unique or ambiguous situations and to find solutions to problems that can be complex and non\\-routine.\n* Effectively communicates key messages and recommendations to executive audiences.\n* Leads on business performance management monitoring and action plan development, to ensure tight alignment between business KPIs (leading / lagging) and enterprise ambitions.\n* Serves as a trusted advisor to senior executives. Manages stakeholders at various levels, including C\\-Suite and Operating Group executives.\n\nLeads change management activities, ensuring cross business/group coordination and logistical support for the implementation of change.  \n\n* \n\n**Strategy development accountabilities**\n\n* Leverages a consultative approach to developing current state analysis (e.g., fact base, opportunity areas) and recommendations on strategic choices / trade\\-offs.\n* Recommends business priorities, advises on resource requirements and develops roadmaps for strategic execution.\n* Conducts analysis and research to provide context into the current state (e.g., industry trends, benchmarks) and inform future state priorities (e.g., financial modelling, best practices)\n* Develops business cases by identifying needs, analysing potential options and assessing expected return on investment.\n* Breaks down strategic problems, and analyses data and information to provide insights and recommendations.\n\nNetworks with industry contacts to gather and identify competitive insights and best practices.  \n\n* \n\n**Delivery accountabilities**\n\n* Leads implementation of strategic initiatives within group and across BMO by partnering with various internal \\& external stakeholders as required; complexity of initiatives may vary and usually involve multiple stakeholders across the enterprise.\n* Acts as a relationship manager on assigned projects / programs and ensures alignment to overall enterprise and group goals.\n* Leads the execution of operational programs; assesses and adapts as needed to ensure quality of execution.\n* Defines business requirements for analytics \\& reporting to ensure data insights inform business decision making.\n* Supports strategy execution by leading transformation roadmaps / programs to ensure disciplined delivery and successful change management.\n\nCollaborates with internal \\& external stakeholders to provide business context in the design, develop and implementation of programs \\& solutions.  \n\n* \n\n**Executive support / other**\n\n* Supports C\\-Suite on other strategic priorities and ad hoc requests as necessary.\n* Operates at a group / enterprise\\-wide level and serves as a specialist resource to senior leaders and stakeholders.\n\nBroader work or accountabilities may be assigned as needed.  \n\n* \n\n**Qualifications:**\n\n* Typically, 6\\-10 years of relevant experience (management consulting, financial services, strategy roles) and post\\-secondary degree in related field of study (e.g., MBA, CFA) or an equivalent combination of education and experience\n* Expertise in structuring, organizing and managing complex strategy projects with minimal supervision\n* Outstanding analytical skills with the ability to frame key analyses and tell a cohesive story required to address critical business issues\n* Seasoned professional with a combination of education, experience and industry knowledge\n* Demonstrated excellence in stakeholder management and organizational effectiveness in complex environments\n* Strong team management skills and proven leadership ability\n* Verbal \\& written communication skills \\- In\\-depth / Expert\n* Analytical and problem\\-sol",
-      "salary": "",
+      "salary": "$120k–$215k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -1834,7 +2178,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "100 King Street West",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337043344"
+      ]
     },
     {
       "company": "ZULU ALPHA KILO",
@@ -1961,7 +2308,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337084410"
+      ]
     },
     {
       "company": "Government of Alberta",
@@ -1986,7 +2336,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337062960"
+      ]
     },
     {
       "company": "Scotiabank",
@@ -2016,7 +2369,8 @@
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=e63a1459c72a4d62"
+        "https://ca.indeed.com/viewjob?jk=e63a1459c72a4d62",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337130556"
       ]
     },
     {
@@ -2046,7 +2400,8 @@
       "direct_url": "https://jobs.scotiabank.com/job/Toronto-Director%2C-Organizational-Change-Management-ON-M5H1H1/608439417/",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=3e6ec2ee3bf3f792"
+        "https://ca.indeed.com/viewjob?jk=3e6ec2ee3bf3f792",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337130560"
       ]
     },
     {
@@ -2110,7 +2465,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4495559133/",
       "date_posted": "2026-11-26",
-      "salary": "",
+      "salary": "$152k–$165k/yr",
       "ats": "LinkedIn",
       "description": "Access Full Position Posting\n\nPurpose:\n\nReporting to the Vice-President Research & Innovation (VPRI), the Executive Director, Research Services is the senior administrative leader responsible for the strategy, integration, delivery and continuous improvement of York University's central research services. The role enables researchers, Faculties, departments and Organized Research Units (ORUs) to pursue and administer research activity effectively while ensuring that institutional obligations, funder requirements and applicable legal, policy and regulatory standards are met.The Executive Director provides strategic and operational oversight for an integrated portfolio comprising Research Grants, Strategic and Institutional Research Initiatives (SIRI), Research Agreements, Safeguarding Research, the Research Commons, Markham Research, central support for ORUs, and portfolio-wide coordination and administration. The role aligns these functions, establishes consistent and responsive service standards, manages institutional risk and resources, and builds a researcher-centred service culture across York's campuses.As a member of the VPRI senior leadership team, the Executive Director advises the VPRI and works closely with the Associate Vice-Presidents Research, the Council of Research Directors, peer Executive Directors, the Senior Executive Officer, Deans, Associate Deans Research, Faculty research offices and central administrative partners. The role represents York with major research funders, government agencies, partner institutions and professional networks. Research Ethics & Integrity and the Vivaria are outside this portfolio, as are Innovation & Industry Partnerships, Knowledge Mobilization, Research Data, Planning & Analytics, DYA and Connected Minds. close coordination with the leaders responsible for those functions is nevertheless required.\n\nEducation:\n\n- Master's degree in a relevant discipline such as public administration, business administration.\n\nExperience:\n\n- 7 years of related experience in a large, complex organization.\n- 5 years of management experience with responsibility for people, budgets, operations and organizational change, including experience leading through directors or managers[NN1.1].\n- Experience developing and implementing strategy, service models, policies, systems and process improvements across multiple organizational units.\n- Experience with major research funding programs and complex institutional submissions, including coordination of academic, administrative, financial and partner commitments.\n- Experience interpreting and operationalizing legislation, government direction, funder policies and institutional requirements and managing material operational, compliance, security and reputational risks.\n- Experience advising senior executives and academic leaders and working effectively with Faculty-based research offices, researchers, committees, funders, government agencies and external partners.\n\nSkills:\n\nKnowledge\n- Advanced knowledge of the Canadian research funding environment, including the federal granting councils, the Canada Foundation for Innovation and other major federal, provincial, international and non-governmental funding programs.\n- Thorough understanding of university research administration and the respective roles of academic leadership, central research services, Faculties, Research Accounting, legal counsel and other institutional partners.\n- Thorough knowledge of research security and safeguarding research, privacy, records management, responsible conduct of research and other compliance frameworks relevant to the portfolio.\n- Knowledge of strategic planning, service design, performance measurement, project and change management, risk management, financial management and human resources/labour relations.\n- Understanding of university governance, collegial decision-making, academic culture and the policy and accountability environment of Ontario universities.\n- Knowledge of enterprise systems, information stewardship, data governance and technology-enabled service delivery in a complex organization.Skills\n- Effective strategic leadership and enterprise thinking, with the ability to connect academic priorities, service delivery, compliance, resources and institutional risk.\n- Ability to lead inclusive, high-performing teams through complexity and change and to build a culture of trust, accountability, collaboration and continuous improvement.\n- Effective judgment, political acuity and discretion, with the ability to make timely and defensible decisions in sensitive or ambiguous circumstances.\n- Effective relationship-building, consultation, influencing, negotiation and conflict-resolution skills with diverse internal and external partners.\n- Effective communication skills, including the ability to explain complex requirements clearly and prepare concise executive advice, policies, reports, presentations and institutional submissions.\n- Advanced analytical and problem-solving skills and the ability to use quantitative and qualitative evidence to assess performance, identify risk and recommend action.\n- Ability to lead organizational and process change, mobilize resources and maintain service continuity while managing multiple complex priorities and urgent issues.\n- Advanced people-management and labour-relations skills, including workforce planning, performance management, coaching, conflict resolution and application of collective agreements and employment policies.\n- Advanced financial and operational management skills, including priority-setting, forecasting, budget stewardship, procurement, contract management and risk controls.\n- Commitment to equity, diversity, inclusion, accessibility and respectful engagement, with the ability to translate those commitments into policies, processes and service delivery.\n- Effective digital fluency and experience overseeing enterprise systems, data governance, reporting and technology-enabled service improvement.\n- High level of organizational ability and resilience, with capacity to manage peak periods, competing deadlines, confidential information and matters of significant institutional consequence.\n\nAdditional Notes:\n\nNote: Role requires verification of degree(s)/credential(s).\n- Normal office work environment\n- Regular meetings across York's campuses.\n- Occasional travel within Canada and internationally may be required to represent the University or participate in funder, government or professional meetings.\n\nAccess Full Position Posting\n\n*Compensation:\n\nYork's CPM Compensation Framework has a salary grid consisting of 6 or 8 steps (depending on job grade) which is reviewed annually with possible adjustments, and a lump sum Performance Based Recognition Award. Employees will receive the grid adjustment and depending on performance, eligible permanent employees may move to the next step of the grid and may receive a lump sum Performance Based Recognition Award.Visit the CPM Compensation page on the HR Website to find out more about York's CPM Compensation Program.\n\nThe University welcomes applications from all qualified individuals, including, but not limited to women, persons with disabilities, visible minorities (racialized), Indigenous Peoples and persons of any gender identity and sexual orientation. York University is committed to a positive, supportive and inclusive environment.\nYork University offers accommodation for applicants with disabilities in its recruitment processes. If you are contacted by York University regarding a job opportunity or testing, please advise if you require accommodation.\nWe are committed to enhancing our environmentally and socially responsible practices for the benefit of all members of the York community. Our long term perspective recognizes our responsibility to be innovators and to continually work as a community to reduce our ecological impact.\nYork University employees must apply to jobs through the Employee Career Portal - YU Hire. If you are a current York University employee and/or are using your rights under a collective agreement to view and/or apply to jobs, you MUST log into YU Hire to access the York University Employee Career Portal.\nPLEASE NOTE: This job posting is for an existing vacancy. Applications must be received by 11:55 pm EST on the posted deadline date, if applicable. Posting deadlines can be updated, or modified, at any time based on hiring needs. Please refer to the York U Career Portal when confirming posting deadlines.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHigher Education",
       "first_seen": "2026-11-26T22:39:15Z",
@@ -2127,7 +2482,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337028359"
+      ]
     },
     {
       "company": "Richardson Executive Search",
@@ -2606,7 +2964,8 @@
       "geo_version": 1,
       "direct_url": "https://builtintoronto.com/job/director-revenue-management-analytics/12539069",
       "duplicate_urls": [
-        "https://builtintoronto.com/job/director-revenue-management-analytics/12539069"
+        "https://builtintoronto.com/job/director-revenue-management-analytics/12539069",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336932579"
       ]
     },
     {
@@ -2755,6 +3114,7 @@
       "description": "What we will offer you:\n\nCulture:\nJoin a supportive and inclusive work environment where teamwork, respect, and open communication are at the core of everything we do.\nOpportunity:\nA continuous focus on professional development with many opportunities for training & career growth.\nHealth & Wellness:\nCompetitive health benefits right from the start including health & wellness spending accounts & maternity leave top-up. Access our employee assistance program for confidential counseling, mental health support, and various resources to help you navigate life’s challenges.\nCompetitive Compensation:\nWe offer a highly competitive salary package, ensuring that your hard work and dedication are recognized and rewarded accordingly.\nFlexibility:\nWe understand the importance of work-life balance, we offer flexible hybrid work options to help you manage your personal and professional commitments.\nTechnology:\nWork with state-of-the-art tools and technologies that empower you to excel in your role and stay at the forefront of industry trends.\nSafety Focused:\nWe care about you and have committed to a zero-harm workplace.\n\nBuild the commercial engine that powers profitable growth.\n\nReporting to the Chief Commercial Officer, the Vice-President, Revenue Operations & Commercial Excellence is a transformational executive leader responsible for building the capabilities, insights, governance and operating disciplines that enable predictable, profitable growth across the organization. As a key strategic partner to the executive team, you will connect commercial strategy, planning, pricing, analytics, technology and execution across the customer lifecycle, creating a unified view of performance that enables smarter decisions and stronger business outcomes across North America.\n\nThis role is ideal for a strategic and commercially minded leader who excels at translating complexity into action. You bring a balance of analytical rigor, operational excellence and change leadership, along with the ability to influence across functions, build high-performing teams and drive enterprise-wide alignment. Leveraging data, customer insights and business performance indicators, you will help shape the commercial capabilities, processes and ways of working that accelerate growth, improve productivity and strengthen profitability.\n\nWhat You'll Do:\n\nLead enterprise-wide commercial planning, forecasting and performance management processes, ensuring alignment between growth objectives, resource priorities and financial outcomes.\nBuild and maintain a consolidated view of commercial performance, customer trends, risks and opportunities to enable timely, data-driven decision-making.\nDevelop executive scorecards, operating reviews and performance reporting that provide visibility into growth, retention, productivity and profitability.\nLead scenario planning and commercial modelling activities to support strategic investments, resource allocation decisions and growth initiatives.\nEstablish pricing strategies, governance frameworks and decision guardrails that strengthen price realization, improve margin performance and support sustainable growth.\nPartner closely with Commercial, Finance and Operations leaders to improve forecasting accuracy, demand visibility and business planning effectiveness.\nAdvance commercial analytics and business intelligence capabilities by partnering with Data & Analytics and IT to strengthen reporting, governance and decision support.\nChampion predictive analytics, automation and AI-enabled solutions that improve productivity, enhance data quality and accelerate decision-making.\nShape the commercial technology roadmap, ensuring CRM, analytics and other commercial platforms are integrated, scalable and aligned to business needs.\nEstablish common commercial processes, governance structures and operating rhythms that improve consistency, accountability and execution across functions.\nStrengthen sales effectiveness through CRM governance, pipeline management, territory design, quota planning, incentive administration and forecasting disciplines.\nLead the development of enablement strategies, tools, training programs and playbooks that build organizational capability and support commercial excellence.\nBuild, develop and lead a multidisciplinary team spanning revenue operations, pricing, analytics, sales operations, performance management and commercial enablement.\nAllocate resources and specialized capabilities against the organization's highest-value commercial priorities and growth opportunities.\nServe as a trusted advisor to the Chief Commercial Officer and Commercial Leadership Team, bringing insights, recommendations and constructive challenge to key business decisions.\nLead enterprise-wide transformation initiatives that improve alignment, accountability and execution across Sales, Marketing, Customer Experience, Retention, Finance, Operations, Data & Analytics, IT and Legal.\n\nWhat You'll Bring:\n\nUniversity degree in Business, Finance, Economics, Engineering or a related field. MBA or relevant professional designation is an asset.\n10+ years of executive leadership experience in Revenue Operations, Commercial Excellence, Commercial Strategy, Sales Operations, FP&A, Pricing, Analytics or related disciplines.\nDemonstrated success building or transforming enterprise-scale commercial capabilities across complex organizations.\nStrong experience in commercial planning, forecasting, pricing, analytics and performance management.\nProven ability to influence senior stakeholders, lead through change and drive alignment across functions.\nExperience operating across Canada and the United States is an asset.\nFluency in English required to support our North American business.\nAbility to travel across Canada and the United States.\nLegal authorization to work in the United States or Canada is required. We will not sponsor employment visas now or in the future for this role.\n\nWhy Join Us?\n\nThis is a rare opportunity to build and lead the commercial capabilities that will shape our future growth. You'll partner closely with executive leadership to influence strategy, strengthen performance and create the systems, insights and ways of working that drive long-term success across North America.\n\nWork Location:\nPreference is for candidates located within commuting distance of Calgary, AB; Greater Toronto, ON; Wayne, PA; or Rochester, NY. However, remote candidates will be considered for the right fit.\n\nThis posting is a replacement for an existing vacancy. We do not use AI tools in the selection process and do not request pay history.\n\nShow more\n\nShow less\n\nSeniority level\n\nExecutive\n\nEmployment type\n\nFull-time\n\nIndustries\n\nOil and Gas",
       "first_seen": "2026-11-26T21:39:06Z",
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337179014",
         "https://www.linkedin.com/jobs/view/4493837825/"
       ],
       "work_mode": "Hybrid",
@@ -2834,6 +3194,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337083639",
         "https://www.linkedin.com/jobs/view/4495551715/"
       ]
     },
@@ -3120,7 +3481,8 @@
       "geo_version": 1,
       "salary": "$155k–$225k/yr",
       "duplicate_urls": [
-        "https://www.glassdoor.ca/job-listing/j?jl=1010337018828"
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337018828",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337493192"
       ]
     },
     {
@@ -3761,7 +4123,7 @@
       "location": "Toronto, Ontario, Canada",
       "url": "https://www.linkedin.com/jobs/view/4495040488/",
       "date_posted": "2026-11-26",
-      "salary": "",
+      "salary": "$130k–$241k/yr",
       "ats": "LinkedIn",
       "description": "Reporting to the Vice President & Head of Retail Products and Portfolio Yield Management, Manulife Bank, the AVP, Retail Products is responsible for leading the Bank’s retail product strategy, portfolio performance and transformation agenda across day-to-day banking products and experience, including deposits, credit cards, ATM and debit payments, and unsecured credit strategy. The role has full P&L accountability for the deposit and credit card portfolios, with support from the Pricing and Yield Management team to optimize pricing, margin and portfolio yield. The portfolio represents a significant opportunity to deepen customer relationships, grow primary banking relationships and deliver sustainable earnings growth for Manulife Bank.\n\nThe AVP, Retail Products bridges strategy and execution. The incumbent sets the direction for the retail product portfolio, makes product, investment and portfolio trade-off decisions, and ensures that product propositions, customer experiences and operating capabilities deliver value for customers and the Bank. The AVP is accountable for overall portfolio growth and financial outcomes, including acquisition, activation, engagement and volume delivery. In fulfilling this role, the incumbent will partner across the Bank, including Pricing and Yield Management, Data and Analytics, Marketing, Sales, Risk, Compliance, Finance, Technology, Operations and Delivery, to deliver high-quality products, experiences and business outcomes.\n\nPosition Responsibilities\n\nProduct Strategy and Portfolio Leadership (20%)\n\nDevelop, monitor and refine the medium- and long-term strategy for the retail product portfolio, aligned to the Bank’s customer, growth and earnings objectives\nOwn the strategic product roadmap and prioritize investments across deposits, credit cards, payments, unsecured credit, relationship banking and day-to-day banking experiences\nDefine compelling product propositions, features and lifecycle strategies that strengthen the Bank’s competitive position and deepen customer relationships\nLead the development of investment business cases and recommend the sequencing of initiatives based on customer value, strategic fit, economics, risk and delivery capacity\nUse customer, market, channel and competitive insights to identify opportunities and inform product and portfolio decisions\n\nProduct Portfolio and P&L Management (20%)\n\nOwn the full P&L for the deposit and credit card portfolios, including balances, revenue, margin, expenses, losses and profitability\nEstablish product-level performance objectives and operating routines to identify opportunities, address performance gaps and improve portfolio economics\nMake portfolio and P&L trade-offs across growth, customer value, risk, pricing, incentives and investment priorities\nPartner with Pricing and Yield Management to establish pricing and promotional guardrails, optimize margin and yield, and balance customer and financial outcomes\nOversee product lifecycle decisions, including the launch, enhancement, simplification or retirement of products, features and services\nProvide oversight of credit card product operations, vendor performance, ATM and debit payments, and related customer and operational outcomes\n\nTransformation and Delivery (30%)\n\nLead the transformation of the Bank’s day-to-day banking products and customer experiences, with a focus on creating simpler, more connected and relationship-led banking experiences\nDrive the introduction of relationship banking capabilities and new product experiences that support customer growth, engagement and deeper primary banking relationships\nSet transformation priorities and ensure delivery plans remain aligned to the product strategy, target customer experience and expected business benefits\nPartner with Technology, Delivery, Operations and other stakeholders to translate customer and business needs into clear requirements, prioritized roadmaps and high-quality solutions\nOversee execution from concept through launch, including planning, readiness, testing, implementation, adoption and benefit realization\nProvide clear updates to senior leadership on progress, decisions, risks, dependencies, financial performance and outcomes\n\nLeadership and Building a High Performing Team (15%)\n\nLead a team of product management professionals with accountability spanning customer growth and campaigns, product and P&L optimization, unsecured credit strategy, and day-to-day banking transformation\nInspire, coach, guide and actively engage employees; establish clear accountabilities, performance standards and decision rights\nBuild product management capability through focused development, coaching, career discussions and succession planning\nCreate an inclusive, collaborative and high-performing culture that encourages constructive challenge, sound judgment and enterprise thinking\nInfluence senior leaders and cross-functional partners to align priorities, resolve trade-offs and deliver customer and business outcomes\n\nGovernance, Risk and Controls (15%)\n\nAct as the first-line business owner for product regulatory compliance, product controls and the ongoing soundness of the retail product portfolio\nOwn and oversee product-related corrective action plans, remediation activities and sustainable control improvements\nEnsure effective vendor and partner oversight, including clear performance expectations, governance, issue management and escalation\nOversee customer communications, forms, disclosures and product collateral to ensure accuracy, consistency and regulatory compliance\nMaintain effective product approval and lifecycle governance, ensuring risks, controls, customer impacts and operational readiness are considered in all material decisions\nPromote strong operational resilience and ensure material product, customer and operational risks are identified, understood and addressed\n\nRequired Qualifications\n\n10+ years of progressive banking, product management, financial management or business transformation experience\nBachelor’s degree in business, finance, economics or a related field\nDemonstrated experience leading deposit and credit card product portfolios\nStrong P&L ownership and financial management experience, including the ability to make portfolio trade-offs and deliver profitable growth\nLeadership experience in strategic planning, business casing, product roadmaps, transformation delivery and cross-functional execution\nDemonstrated knowledge of banking regulation, product governance, first-line risk management and control frameworks\nExcellent written and oral communication skills, with strong executive presence and the ability to influence senior leaders and partners across the Bank\nProven people leadership experience, including building capability, developing talent and leading through change\n\nPreferred Qualifications\n\nMBA or another business-oriented post-graduate qualification is an asset\nExperience with transformation and agile delivery methodologies\nExperience with vendor management, payments, unsecured credit or relationship banking is an asset\n\nWhen You Join Our Team\n\nWe’ll empower you to learn and grow the career you want.\nWe’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words.\nAs part of our global team, we’ll support you in shaping the future you want to see.\n\nThe role being advertised is an existing vacancy.\n\nAbout Manulife And John Hancock\n\nManulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html.\n\nManulife is an Equal Opportunity Employer\n\nAt Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.\n\nIt is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact hr@manulife.com.\n\nReferenced Salary Location\n\nToronto, Ontario\n\nWorking Arrangement\n\nHybrid\n\nBase salary range is expected to be between\n\n$129,800.00 CAD - $241,200.00 CAD\n\nEmployees also have the opportunity to participate in incentive programs and earn incentive compensation tied to business and individual performance. The actual base salary will vary depending on local market conditions, geography and relevant job-related factors such as knowledge, skills, qualifications, experience, and education/training. If you are applying for this role outside of the primary location, please contact hr@manulife.com for the salary range for your location.\n\nManulife offers eligible employees a wide array of customizable benefits, including health, dental, mental health, vision, short- and long-term disability, life and AD&D insurance coverage, adoption/surrogacy and wellness benefits, and employee/family assistance plans. We also offer eligible employees various retirement savings plans (including pension and a global share ownership plan with employer matching contributions) and financial education and counseling resources. Our generous paid time off program in Canada includes holidays, vacation, personal, and sick days, and we offer the full range of statutory leaves of absence. If you are applying for this role in the U.S., please contact hr@manulife.com for more information about U.S.-specific paid time off provisions.\n\nWe use data and analytics technologies, such as artificial intelligence (AI), and automated processing tools, to analyze and process the information you provide to us or third parties in the application process. For more information, please refer to our personal information collection statement.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInsurance",
       "first_seen": "2026-11-26T19:03:29Z",
@@ -3783,7 +4145,8 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=c741868f40166391"
+        "https://ca.indeed.com/viewjob?jk=c741868f40166391",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337512231"
       ]
     },
     {
@@ -6490,6 +6853,7 @@
         "https://builtintoronto.com/job/director-digital-product-operations-strategy/12498111",
         "https://ca.indeed.com/viewjob?jk=293d9fd51e0fbf13",
         "https://ca.indeed.com/viewjob?jk=41703bdaa45f5788",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010336236709",
         "https://www.glassdoor.ca/job-listing/j?jl=1010336535796"
       ]
     },
@@ -7982,7 +8346,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010335940396"
+      ]
     },
     {
       "company": "CBC/Radio-Canada",
@@ -9215,7 +9582,7 @@
       "location": "Galiano Island, British Columbia, Canada",
       "url": "https://www.linkedin.com/jobs/view/4493464204/",
       "date_posted": "2026-11-25",
-      "salary": "",
+      "salary": "$110k–$120k/yr",
       "ats": "LinkedIn",
       "description": "I've run Bodega Ridge since 2003. It's grown into three places on Galiano: the lodge and log cabins at Bodega Ridge, the waterfront cabins at Bodega Cove, and the Pink Geranium Café & Grocery. We host weddings and retreats, and we look after families and travellers who come for a few quiet days on the island.\n\nI'm hiring a Managing Director to run the Collection. This is a new role for us. We've had general managers before, but this job is bigger. You'll make the day-to-day decisions, lead the team, be responsible for the numbers, and build what's next with me. I'll focus on development projects, including the spa and staff housing, and stay involved in sales and with guests at key moments. We'll agree on the budget and major investments together, and I'll be around when you need me.\n\nWhat the job looks like here\n\nA busy week might start with reviewing payroll and end with a wedding, a full house, and a pump that needs fixing. Spring through fall means longer days, evenings, and weekends. Sometimes you'll cover a shift or sort out a guest issue at 10 p.m. If you're hoping for a quieter pace, this probably isn't the right fit.\n\nWe also don't have many systems yet. Scheduling, ordering, maintenance, training and reporting all need to be set up, and that's your job. You'll build them, run the key decisions by me, and make them stick. You'll also build a team that knows who to call and what to do when things go sideways.\n\nGet the different parts of the business working together. Make sure the cabins are ready for arrivals, the café and event teams know what's coming, and maintenance issues get dealt with. Keep weddings and retreats running smoothly, look after safety across the properties, and stay on good terms with our neighbours.\nBuild a team that can grow with us. Hire, train, and schedule staff, and give team leads the support and authority to run their areas. Put clear procedures in place so people know what's expected. Make time for the small things we care about, like remembering a guest's name or leaving a thoughtful note in a cabin.\nStay close to the numbers. Own the P&L, set budgets for each part of the business, and update forecasts as bookings change. Review hours, approve payroll, and match staffing to what's on the books. Keep an eye on pricing, labour, food costs, and margins. Tell me how we're doing, what's changed, and where you need a decision from me.\nBuild the next pieces at a pace we can handle. In your first year, help turn our new saunas into a wellness offering by working out how we'll staff, price, and run it. Take charge of the retreats we put on ourselves, from planning the program to making sure each one makes money.\n\nWho I'm looking for\n\nYou've spent at least three years as a General Manager, Director of Operations, or in a similar role at a lodge, inn, resort, or boutique hotel. You've run both accommodations and food and beverage. You know how to hire and develop people, build a schedule for a busy weekend, and read a P&L well enough to decide what needs attention. You're comfortable overseeing payroll and can communicate clearly with staff, guests, vendors, and wedding planners, especially when things get busy. You use AI tools to work smarter, or you're keen to learn, and you'll bring the team along.\n\nExperience with weddings, retreats, wellness, island or remote operations, or growing direct bookings would be helpful. Serving It Right, FOODSAFE, and first aid are assets.\n\nYou'll need to relocate to Galiano Island, hold a valid driver's licence, and be legally eligible to work in Canada.\n\nPay and benefits\n\nStarting at C$110,000, depending on experience\nC$20,000 target annual performance bonus tied to agreed operating and financial goals\nHousing on Galiano Island included\nHealth benefits and a retention bonus\n\nHow to apply\n\nSend me a message with your résumé and a short note about a place you've helped run and what draws you to Bodega Ridge. No recruiters, please.\n\nWe welcome applicants of all backgrounds. If you need an accommodation during the hiring process, please let us know.\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitality",
       "first_seen": "2026-11-25T22:58:47Z",
@@ -9232,7 +9599,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010337216588"
+      ]
     },
     {
       "company": "Bunzl Canada",
@@ -11830,6 +12200,7 @@
       "description": "Application deadline:\nDecember 18, 2026\n\nAre you ready to advance your career while\nhelping drive positive change in emerging markets?\n\nWe are looking for a Director, Climate Mobilization\n!\n\nJoin FinDev Canada, Canada's development financial institution! We work with and through the private sector to advance climate and nature action, gender equality, and market development in emerging markets and developing economies. Joining FinDev means being part of a growing, purpose-driven organization where your expertise directly contributes to meaningful, measurable impact around the world.\n\nFinDev Canada is at a pivotal moment in its evolution. As we expand our climate ambitions and strengthen our focus on mobilizing private capital at scale, we are building new capabilities to identify, develop, and accelerate transformative climate investment opportunities across emerging markets.\n\nThis is more than a leadership role. It is an opportunity to build and lead a new strategic capability at FinDev Canada at a time when climate finance and private capital mobilization are central to our future ambitions. The successful candidate will help shape how FinDev Canada engages with global investors and partners, develops innovative climate investment opportunities, and mobilizes capital toward meaningful climate outcomes across emerging markets.\n\nAs Director, Climate Mobilization, you will help define and execute a critical institutional priority, build a new team from the ground up, and position FinDev Canada as a partner of choice for leading investors, fund managers, development finance institutions, and other climate finance stakeholders. Few roles offer the opportunity to influence strategy, build a platform, and create impact at this scale.\n\nEmployment Type:\nFixed Term Contract for 2 years or Temporary Assignment (for internal applicants)\n\nLocation:\nFinDev Canada headquarters is in downtown Montreal. For the right candidate, Ottawa or Toronto will be considered, with the flexibility to work under a hybrid model, with a current requirement of three in-office days per week (subject to change).\n\nCompensation Details\n\nDirector - Investments 21: Salaries typically range from $150,715 - $226,073 annually, based on qualifications and experiences\n\nWhy You'll Love Working Here\n\nImpactful Work: We are driven by our mandate to promote sustainable and inclusive growth in emerging markets and developing economies. Every role contributes to creating positive, lasting impact - for our clients, the markets we serve, and communities around the world.\nInspiring Colleagues: Join a diverse and talented team from around the world that brings a wealth of experience, knowledge, and passion to everything we do. We believe strong results come from strong partnerships - working together, sharing perspectives, and building trust to achieve shared goals.\nOur Core Values: Our culture is anchored in Collaboration, Agility, Impact, and Respect. We work together across diverse teams, embrace change and innovation, and stay focused on creating meaningful, sustainable impact - while treating one another with integrity, empathy, and respect.\nPerks and Benefits: Our Total Rewards offering goes beyond a paycheck. We provide a comprehensive package designed to meet the diverse needs and life stages of our employees.\n\nTeam Overview\n\nThe Climate Mobilization Team (CMT) has been established as a strategic initiative reporting directly to the Chief Investment Officer. Created to support delivery of FinDev Canada's Climate Mobilization Strategy, the team focuses on identifying, originating, and advancing transformative climate investment opportunities that require dedicated partnership development, market creation, and mobilization expertise before they become investment-ready.\n\nWorking closely with investment teams, institutional investors, fund managers, governments, and other strategic partners, the team plays a critical role in building FinDev Canada's climate pipeline, accelerating private capital mobilization, and translating climate ambition into investable opportunities and measurable impact. As a newly established function, the team offers a unique opportunity to help shape how FinDev Canada delivers on its climate objectives in the years ahead.\n\nWhat You Will Be Doing\n\nBuild, lead, and develop FinDev Canada's Climate Mobilization Team.\nLead the execution and evolution of FinDev Canada's Climate Mobilization Strategy and climate opportunity pipeline.\nIdentify, develop, and advance high-potential climate investment opportunities and partnerships.\nShape opportunities from early-stage concepts through investment readiness.\nBuild and manage relationships with investors, DFIs, governments, fund managers, and other strategic partners.\nDevelop strategic platforms and partnerships that accelerate climate investment and unlock new market opportunities.\nRepresent FinDev Canada externally and position the organization as a trusted climate finance partner.\nMobilize private capital toward climate solutions across emerging markets.\nCollaborate across investment, blended finance, impact, risk, legal, and strategy teams.\nProvide strategic advice to senior leadership on climate mobilization opportunities and market trends.\nStrengthen FinDev Canada's institutional capabilities and thought leadership in climate mobilisation.\n\nWhat We Are Looking For\n\nMaster's degree in Finance, Business Administration, Economics, International Development, Public Policy, or a related field.\nMinimum 15 years of progressive experience in climate finance, infrastructure finance, development finance, investment banking, private capital mobilisation, blended finance, or related fields.\nSignificant experience originating, structuring, or developing complex investment opportunities and strategic partnerships in emerging and developing markets.\nDemonstrated experience leading senior stakeholder relationships across public, private, and multilateral sectors.\nStrong understanding of climate finance, sustainable investment, capital mobilisation, and development impact.\nProven track record leading high-performing teams and delivering strategic initiatives.\nExperience working across multiple functions and influencing senior stakeholders in complex organizational environments.\nBilingual in both official languages (English and French)\n\nWhat Will Make You Stand Out\n\nExperience within a Development Finance Institution (DFI), Multilateral Development Bank (MDB), impact investor, climate-focused fund manager, or international financial institution.\nDeep network across climate finance, institutional investors, sovereign entities, foundations, and development finance partners.\nExperience establishing new business lines, platforms, or strategic initiatives.\nExperience working across emerging markets and developing economies.\nAdditional language capabilities, particularly Spanish\n\nReady to make a difference?\n\nLearn more about us here: https://www.findevcanada.ca\n\nEligibility:\n\nFinDev Canada is committed to Fair Employment Practices and preference will be given to a candidate who is able to work legally in Canada at the time of application (Canadian Citizens or Permanent Residents). Candidates must meet the requisite government security screening requirements. The position is open to those who meet all of the essential requirements stated above and whose applications are received by the closing date.\n\nYour application must clearly demonstrate how you meet all the requirements. We thank all applicants' interest in a career at FinDev Canada; however, only those selected for an interview will be contacted. Please note that qualified candidates may be considered for similar roles at this level within FinDev Canada.\n\nFinDev Canada's Commitment to Employment Equity\n\nFinDev Canada is dedicated to fostering employment equity and building a diverse workforce. We are committed to creating a safe and inclusive environment that respects people from all cultures, backgrounds, and abilities. At FinDev Canada, we nurture a culture of inclusion and belonging where everyone has equal opportunity to grow, develop, succeed, and be their truest selves.\n\nWe actively encourage applications from women, Indigenous peoples, visible minorities, persons with disabilities, and members of the 2SLGBTQI+ community.\n\nFinDev Canada recognizes that disclosing the need for accommodations can be a personal matter. Please know that as an organization, we are committed to maintain confidentiality and ensure that any accommodation provided is tailored to support your needs. Our aim is to ensure you have a comfortable and positive experience throughout the recruitment process, so please do not hesitate to contact us directly for any accommodation requests at accessible@findevcanada.ca. We are here to support you every step of the way.\n\nPrivacy Notice\n\nBy applying for this job you acknowledge that you have read and understood FinDev Canada's Privacy Notice for Job Applicants, which outlines how we collect, use, retain, and safeguard personal information during the recruitment process, as well as your rights of access and correction\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nContract\n\nIndustries\n\nFinancial Services",
       "first_seen": "2026-11-25T17:08:17Z",
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010335766376",
         "https://www.linkedin.com/jobs/view/4494652879/",
         "https://www.linkedin.com/jobs/view/4494665282/"
       ],
