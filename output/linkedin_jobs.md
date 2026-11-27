@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-27 01:15 UTC*
+*Last updated: 2026-11-27 01:50 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Assistant Vice President, Accounting Advisory](https://www.linkedin.com/jobs/view/4495056682/) — Sunlife
-- 📍 **Location:** Kitchener, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Assistant Vice President, Accounting Advisory](https://www.linkedin.com/jobs/view/4495065244/) — Sunlife
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Regional Innovation Director, Productivity (BC)](https://www.linkedin.com/jobs/view/4495554987/) — Canadian Food Innovation Network
+- 📍 **Location:** Vancouver, British Columbia, Canada
 - 🕒 **Posted:** 2026-11-27
