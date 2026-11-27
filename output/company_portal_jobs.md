@@ -1,75 +1,60 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-27 17:21 UTC*
+*Last updated: 2026-11-27 20:32 UTC*
 
-**17 new role(s)** since last run · 1243 total in current portal openings
+**13 new role(s)** since last run · 1243 total in current portal openings
 
-### [Regional Director of Trust - Prairies](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/Regional-Director-of-Trust---Prairies_R260030019) — BMO
-- 📍 **Location:** Calgary, AB, CAN
+### [Director, Channel Operations](https://jobs.ashbyhq.com/1password/706c56db-a8a8-4c92-9954-36c2beeba7c5) — 1Password
+- 📍 **Location:** Remote (United States | Canada)
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-11-27
 
-### [Senior Credit Officer, Director - Financial Institutions](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Credit-Officer--Director---Financial-Institutions_R260027658) — BMO
+### [Senior Director, Business Enablement, Trust Co.](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Senior-Director--Business-Enablement--Trust-Co_R260030127) — BMO
 - 📍 **Location:** Toronto, ON, CAN
 - 🕒 **Posted:** 2026-11-27
 
-### [Director of Compliance (Quality, EHS & CI)](https://careers.magellan.aero/job/Mississauga-Director-of-Compliance-%28Quality%2C-EHS-&amp;-CI%29-ON-L4T-1A9/605751117/) — Magellan Aerospace
-- 📍 **Location:** Mississauga, ON, CA, L4T 1A9
-- 🕒 **Posted:** 2026-10-30
-
-### [Director, Data Science (Investments)](https://careersen-mackenzieinvestments.icims.com/jobs/6141/director%2c-data-science-%28investments%29/job) — Mackenzie Investments
-- 📍 **Location:** Greater Toronto Area, ON, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Global Technology & Operations Strategy & Transformation](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Director--Global-Technology---Operations-Strategy---Transformation_JR26101746) — Manulife
-- 📍 **Location:** Toronto, Ontario
-- 🕒 **Posted:** 2026-11-27
-
-### [Associate Director, Enterprise Control Testing](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Associate-Director--Enterprise-Control-Testing_R-0000190150-2) — RBC
+### [Director, Business Marketing – Canada](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Director--Business-Marketing---Canada_R-0000193761-1) — RBC
 - 📍 **Location:** TORONTO, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Senior Director, Advisor Experience Technology](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Senior-Director--Advisor-Experience-Technology_R-0000193606) — RBC
-- 📍 **Location:** TORONTO, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Valuations Financial Instruments, Director](https://jobs-ca.pwc.com/ca/en/job/765279WD) — PwC Canada
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Cyber Forensic Director (Bilingual FR/EN)](https://jobs-ca.pwc.com/ca/en/job/772169WD) — PwC Canada
+- 📍 **Location:** Montreal, Quebec, Canada
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-11-27
 
-### [Senior Leader (Managing Director or Partner), Technology, Data and AI Advisory – Energy & Infrastructure (Power, Utilities & Renewables)](https://ats.rippling.com/leoberwick/jobs/d6f200c3-47bc-47bc-bb30-3ccb8f983e38) — Leo Berwick
-- 📍 **Location:** Remote (Canada)
+### [Account Director for SaaS Solution | REMOTE (Ontario)](https://jobs.workable.com/view/hr51ZVnARWmmCHq99PxTtK/account-director-for-saas-solution-%7C-remote-(ontario)-in-ontario-at-gatekeeper) — Gatekeeper
+- 📍 **Location:** Ontario, Canada
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-11-10
 
-### [Director, Integrated Care & Experience (Primary Care & Clinical Services)](https://jobs.workable.com/view/kizWvXe4YjPuErLPYK6Thk/director%2C-integrated-care-%26-experience-(primary-care-%26-clinical-services)-in-oshawa-at-durham-community-health-centre) — Durham Community Health Centre
-- 📍 **Location:** Oshawa, Ontario, Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-27
+### [Director of Retention & Lifecycle](https://jobs.workable.com/view/3XkxqXwp45RK5NGjfkXunS/remote-director-of-retention-%26-lifecycle-in-ottawa-at-kittyspout) — KittySpout
+- 📍 **Location:** Ottawa, Ontario, Canada
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-06
 
-### [Project Director, Mission Critical](https://builtintoronto.com/job/project-director-mission-critical/12558481) — Broccolini
+### [Senior Credit Officer, Director - Financial Institutions](https://builtintoronto.com/job/senior-credit-officer-director-financial-institutions/11363384) — BMO
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Construction (Life Sciences)](https://builtintoronto.com/job/director-construction-life-sciences/12558461) — Broccolini
+### [Director, Global GTM Operations](https://builtintoronto.com/job/director-global-gtm-operations/12572751) — LHH
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, Process & Manufacturing (Construction)](https://builtintoronto.com/job/director-process-manufacturing-construction/12558420) — Broccolini
+### [Director, Cybersecurity](https://builtintoronto.com/job/director-cybersecurity/12572492) — Sinai Health
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Project Director (Construction)](https://builtintoronto.com/job/project-director-construction/12558423) — Broccolini
+### [Director, IT Infrastructure & Operations](https://builtintoronto.com/job/director-it-infrastructure-operations/12572427) — Ramudden Global
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Director / Senior Director, Life Sciences Insights & Growth (San Francisco Bay Area)](https://builtintoronto.com/job/director-senior-director-life-sciences-insights-growth-san-francisco-bay-area/12551784) — Shapiro+Raj
+### [Associate Vice President, Compliance, Governance and Programs, TD Securities Canada](https://builtintoronto.com/job/associate-vice-president-compliance-governance-and-programs-td-securities-canada/12574349) — TD Bank
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Vice-President, Business Development and Client Partnerships](https://builtintoronto.com/job/vice-president-business-development-and-client-partnerships/12559127) — Addenda Capital
+### [VP of Construction](https://builtintoronto.com/job/vp-construction/12565277) — Ameresco
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
 
-### [Founding Pharmacist-in-Charge & Head of Compounding - Turnkey Robotics](https://builtintoronto.com/job/founding-pharmacist-charge-head-compounding-turnkey-robotics/12552855) — Pear VC
+### [Vice President, Partnerships & Business Accelerator](https://builtintoronto.com/job/vice-president-partnerships-business-accelerator/12575047) — Mennonite Economic Development Associates
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-27
