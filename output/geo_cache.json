@@ -201,6 +201,7 @@
       -79.595344
     ],
     "294 bernard avenue, can; prince george, bc, canada": null,
+    "3 robert speck parkway, mississauga office, on, canada": null,
     "3 robert speck parkway, mississauga, on, canada": [
       43.59786,
       -79.6372557
@@ -251,6 +252,10 @@
       43.70811,
       -79.35664
     ],
+    "415 eastern ave, toronto, canada": [
+      43.6570026,
+      -79.3445205
+    ],
     "4210 labelle street, ottawa, canada": [
       45.4220775,
       -75.6289388
@@ -268,6 +273,7 @@
       -113.507166
     ],
     "4400 cox road, laval, qc, canada": null,
+    "483 bay street, mississauga office, on, canada": null,
     "483 bay street, mississauga, on, canada": [
       43.5477669,
       -79.5860777
@@ -374,6 +380,10 @@
       -79.5327235
     ],
     "950 east paces ferry rd, toronto, on, canada": null,
+    "ab; winnipeg, mb, canada": [
+      49.8955367,
+      -97.1384584
+    ],
     "abbotsford, bc, canada": [
       49.0521162,
       -122.329479
@@ -466,6 +476,7 @@
       -97.1498278
     ],
     "canada; 335 8 ave sw:calgary; 745 thurlow st:vancouver, on, canada": null,
+    "canada; greater toronto area, on, canada": null,
     "canada; halifax, ns, canada": [
       44.6563106,
       -63.602157
@@ -566,6 +577,10 @@
     "edmonton metropolitan region, ab, canada": [
       53.53396,
       -113.9737805
+    ],
+    "edmonton; calgary, ab, canada": [
+      53.4981091,
+      -113.4917975
     ],
     "elkford, bc, canada": [
       50.0244558,
