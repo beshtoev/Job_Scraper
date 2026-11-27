@@ -54,8 +54,8 @@
     "awstrack.me"
   ],
   "counts": {
-    "companies": 398,
-    "pollable": 269,
+    "companies": 399,
+    "pollable": 270,
     "unresolved": 129
   },
   "companies": [
@@ -5270,6 +5270,19 @@
       "ats": "greenhouse",
       "slug": "viralnation",
       "careers_url": "https://job-boards.greenhouse.io/viralnation",
+      "source": "murat 2026-11-26",
+      "include": [],
+      "exclude": [],
+      "searches": [],
+      "enabled": true,
+      "resolution_status": "resolved"
+    },
+    {
+      "company": "Life360",
+      "archetype": "D",
+      "ats": "greenhouse",
+      "slug": "life360",
+      "careers_url": "https://job-boards.greenhouse.io/life360",
       "source": "murat 2026-11-26",
       "include": [],
       "exclude": [],
