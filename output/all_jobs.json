@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 01:56 UTC",
+  "updated_at": "2026-11-27 02:19 UTC",
   "jobs": [
     {
       "company": "IMP Group",
@@ -12779,7 +12779,7 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "ZipRecruiter",
-      "work_mode": "On-site",
+      "work_mode": "Hybrid",
       "work_mode_evidence": "description",
       "geo_category": "Canada (unspecified)",
       "geo_label": "Canada (unspecified)",
@@ -127295,6 +127295,5 @@
         "https://www.glassdoor.ca/job-listing/j?jl=1010318126502"
       ]
     }
-  ],
-  "total": 4274
+  ]
 }
