@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-28 03:42 UTC",
+  "scraped_at": "2026-11-28 04:01 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Haystack",
@@ -76,30 +76,5 @@
       "geo_version": 1
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Haystack",
-      "title": "Director of Growth",
-      "location": "Canada",
-      "url": "https://www.linkedin.com/jobs/view/4495357261/",
-      "date_posted": "2026-11-28",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "This tech company is seeking a Global Director of Growth Marketing to lead performance marketing, lifecycle initiatives, and website optimization across multiple regions.\n\nThe Role\n\n• Own and grow the global digital pipeline and revenue targets across multiple regions by designing and adapting channel strategies.\n• Lead performance marketing channels including SEO, paid search, and paid social, alongside lifecycle and nurture programs.\n• Co-own pipeline and revenue with regional sales leaders, shaping joint definitions, routing, and feedback loops.\n• Drive AI adoption across marketing workflows, utilizing AI tools and agents for content variants, campaign builds, analysis, and reporting.\n• Build, mentor, and lead a high-performing remote team covering search, lifecycle, and website development.\n\nWhat You'll Need\n\n• 10+ years of experience in B2B growth or demand generation at a high-growth SaaS company, including 3+ years leading a team.\n• Proven track record of owning pipeline targets across more than one region.\n• Hands-on expertise in performance marketing, website conversion, and daily utilization of AI tools within marketing stacks.\n• Strong analytical agility with experience utilizing BI tools and CRM platforms to pull data and diagnose funnel performance.\n\nWhat's On Offer\n\n• Annual salary of CA$160,000 - CA$200,000.\n• Flexible working hours with opportunities for cross-time-zone collaboration in a global team environment.\n\nApply via Haystack today!\n\nShow more\n\nShow less\n\nSeniority level\n\nDirector\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
-      "work_mode": "",
-      "work_mode_evidence": "",
-      "geo_category": "Canada (unspecified)",
-      "geo_label": "Canada (unspecified)",
-      "geo_city": "",
-      "geo_province": "",
-      "geo_lat": null,
-      "geo_lon": null,
-      "geo_distance_km": null,
-      "geo_rank": 599999,
-      "geo_source": "inferred",
-      "geo_confidence": "low",
-      "geo_detail": "only country stated",
-      "geo_version": 1
-    }
-  ]
+  "new_jobs": []
 }
