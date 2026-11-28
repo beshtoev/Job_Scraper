@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-11-28 17:21 UTC",
+  "updated_at": "2026-11-28 17:46 UTC",
   "jobs": [
+    {
+      "company": "Elby Professional Recruitment Inc",
+      "title": "VP of Human Resources",
+      "location": "Waterloo, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010335988161",
+      "date_posted": "2026-11-26",
+      "description": "Oversee the development and execution of talent acquisition, leadership development, succession, engagement, performance, and employee experience strategies.",
+      "salary": "$185k–$200k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-28T17:46:54Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Ontario",
+      "geo_label": "Ontario",
+      "geo_city": "Waterloo",
+      "geo_province": "ON",
+      "geo_lat": 43.4643,
+      "geo_lon": -80.5204,
+      "geo_distance_km": 94.5,
+      "geo_rank": 200945,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Business Development Bank of Canada",
+      "title": "DIRECTOR, CLIENT EXPERIENCE AND VOICE OF CLIENT",
+      "location": "Montreal, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338159740",
+      "date_posted": "2026-11-28",
+      "description": "University degree in business administration, design, marketing, social sciences or a related field. Lead experience design and end-to-end journey management:…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-28T17:46:54Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (QC)",
+      "geo_city": "Montreal",
+      "geo_province": "QC",
+      "geo_lat": 45.5019,
+      "geo_lon": -73.5674,
+      "geo_distance_km": 502.6,
+      "geo_rank": 405026,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Director, Business Marketing – Canada",
+      "location": "Toronto, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338229923",
+      "date_posted": "2026-11-28",
+      "description": "Strategically develop and execute go-to-market plans for product campaigns and business-as-usual activities. Global Program Leadership – Lead strategic planning…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-28T17:46:54Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Toronto",
+      "geo_label": "Toronto",
+      "geo_city": "Toronto",
+      "geo_province": "ON",
+      "geo_lat": 43.6532,
+      "geo_lon": -79.3832,
+      "geo_distance_km": 6.1,
+      "geo_rank": 61,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
+    {
+      "company": "fgf brands",
+      "title": "Director, Digital Commerce",
+      "location": "Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010338191422",
+      "date_posted": "2026-11-28",
+      "description": "Retail Media Strategy & Joint Business Planning: Set retail media goals and KPIs by retailer and brand, lead annual retail media joint business plans with major…",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-28T17:46:54Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Canada (unspecified)",
+      "geo_label": "Canada (unspecified)",
+      "geo_city": "",
+      "geo_province": "",
+      "geo_lat": null,
+      "geo_lon": null,
+      "geo_distance_km": null,
+      "geo_rank": 599999,
+      "geo_source": "inferred",
+      "geo_confidence": "low",
+      "geo_detail": "only country stated",
+      "geo_version": 1
+    },
+    {
+      "company": "Terra Centre for Teen Parents",
+      "title": "Director, Community Programs & Strategic Partnerships",
+      "location": "Edmonton, Canada",
+      "url": "https://www.glassdoor.ca/job-listing/j?jl=1010335847845",
+      "date_posted": "2026-11-26",
+      "description": "Valid driver’s License, clear (or Executive Director approved) driver’s abstract, and valid vehicle registration. Mission: Empower Teen Parents to Succeed.",
+      "salary": "$90k/yr",
+      "salary_source": "employer",
+      "salary_currency": "CAD",
+      "ats": "Glassdoor",
+      "first_seen": "2026-11-28T17:46:54Z",
+      "work_mode": "",
+      "work_mode_evidence": "",
+      "geo_category": "Other Canada",
+      "geo_label": "Other Canada (AB)",
+      "geo_city": "Edmonton",
+      "geo_province": "AB",
+      "geo_lat": 53.5461,
+      "geo_lon": -113.4938,
+      "geo_distance_km": 2701.3,
+      "geo_rank": 427013,
+      "geo_source": "posting-city",
+      "geo_confidence": "medium",
+      "geo_detail": "",
+      "geo_version": 1
+    },
     {
       "company": "Manos Software Group",
       "title": "Managing Director",
@@ -418,7 +553,7 @@
       "req_id": "",
       "date_posted": "2026-11-28",
       "date_seen": "2026-11-28T12:33:26Z",
-      "description": "",
+      "description": "The role ensures continued license to operate, patient safety and compliance with Health Canada requirements and AstraZeneca standards, advises senior leaders…",
       "is_remote": null,
       "department": "",
       "ats": "Builtin",
@@ -438,7 +573,11 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "salary": "$146k–$192k/yr",
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338212820"
+      ]
     },
     {
       "company": "Transak",
@@ -807,8 +946,10 @@
       "job_type": "fulltime",
       "work_arrangement": "On-site",
       "duplicate_urls": [
-        "https://ca.indeed.com/viewjob?jk=7717425f69a63781"
-      ]
+        "https://ca.indeed.com/viewjob?jk=7717425f69a63781",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338357395"
+      ],
+      "salary": "$165k–$313k/yr"
     },
     {
       "company": "Ipsos",
@@ -883,6 +1024,7 @@
       "description": "At Saputo, we bring good to the table by making high-quality products, investing in our people, and supporting communities around the world . As a top 10 global dairy processor, we value contributions that matter and strive to foster an inclusive, growth-driven work environment. Ready to bring your best?\n\nOverview Of The Role\n\nThe IT Director - Enterprise Applications - Finance is accountable for the global strategy, delivery, and sustainment of Saputo's Finance technology landscape, with primary ownership of SAP Finance capabilities, Finance business intelligence and analytics solutions, and the enterprise applications used by the Finance functions across all Saputo divisions.\n\nThis role partners closely with business and IT leaders to modernize Finance processes, expand trusted self-service reporting and advanced analytics, embed responsible use of artificial intelligence into Finance capabilities and ways of working, and deliver scalable, resilient solutions across Saputo's global operations.\n\nThe IT Director provides people leadership, portfolio governance, and technology direction, ensuring Finance, BI, data, and AI solutions align with enterprise architecture, the SAP S/4HANA strategy, internal-controls requirements, responsible AI principles, and Saputo's operational and financial objectives. This leader acts as the executive escalation point for Finance applications and is accountable for value realization, operational stability, risk management, adoption, and continuous improvement.\n\nHow you will make contributions that matter:\n\nStrategy & Product Ownership\n\nOwn the global Finance applications, business intelligence, analytics, and AI strategy and roadmap, aligned with business transformation priorities, the SAP S/4HANA program, enterprise data strategy, and digital objectives.\nDefine and enforce global design standards, solution patterns, governance, and lifecycle plans across Finance processes and applications.\nDefine the vision and operating model for Finance reporting and analytics, including governed semantic models, certified datasets, self-service BI, executive dashboards, and advanced analytics.\nPartner with Finance and IT leaders to translate business strategy, regulatory needs, and operational priorities into a sequenced technology portfolio.\nAct as the primary executive interface for Finance solutions, clearly communicating roadmap, investments, delivery status, risks, decisions, and business outcomes.\n\nDelivery & Portfolio Management\n\nLead large-scale, multi-region programs, including SAP Finance implementations, BI and analytics solutions, system activities related to acquisitions and divestitures, and Finance modernization initiatives.\nOversee the end-to-end delivery lifecycle: discovery, requirements, solution design, build and configuration, testing, data conversion, cutover, hypercare, and benefits tracking.\nPartner with Data team to direct the end-to-end delivery of BI products, from use-case definition and data modeling through dashboard design, testing, deployment, adoption, support, and benefits realization.\nPartner with the Digital team to establish an AI delivery pipeline that identifies valuable Finance use cases, validates data readiness and controls, conducts proofs of concept, scales successful solutions, and monitors adoption, quality, risk, and business value.\nManage portfolio funding, prioritization, dependencies, risk, and resource capacity across internal teams, business stakeholders, and system integrators.\nEnsure delivery follows Saputo IT methodologies, architecture standards, release governance, security requirements, and change-management practices.\nLead technology due diligence, integration planning, application rationalization, and business process harmonization activities associated with acquisitions and divestitures.\n\nPeople Leadership\n\nLead and develop a team of IT professionals skilled in Finance processes and solutions.\nBuild strong succession plans and skills development paths while fostering a culture of accountability and continuous improvement.\nEstablish clear accountability, objectives, and performance expectations while fostering collaboration, inclusion, and continuous improvement.\nCoach team to operate as trusted partners to Finance and to make sound, enterprise-minded decisions.\n\nArchitecture, Integration & Data\n\nGovern the Finance solution architecture and integrations across SAP ECC or SAP S/4HANA, Microsoft Fabric, Power BI, enterprise data platforms, AI services, and adjacent applications.\nEnsure BI solutions use trusted, reconciled Finance data, reusable semantic models, clear data ownership, consistent financial definitions, and role-appropriate access controls.\nChampion SAP best practices, design principles, reusable design patterns, and sustainable extension strategies.\nEnsure financial data integrity, master-data alignment, reconciliation, traceability, and end-to-end process visibility across systems and regions.\nPartner with Enterprise Architecture, BI, Data, Integration, Infrastructure, Digital and Security teams to ensure solutions are scalable, resilient, secure, and supportable.\nPartner with Digital, Analytics, AI, Security, Privacy, Legal, and Risk teams to apply responsible AI practices, including human oversight, transparency, data protection, model governance, and ongoing monitoring.\nEmbed AI capabilities into Finance processes and products where they provide measurable value, including intelligent insights, anomaly detection, forecasting, narrative generation, workflow assistance, and user productivity.\n\nControls, Risk & Compliance\n\nEmbed internal controls, security-by-design, access governance, segregation of duties, auditability, data protection into Finance solution delivery and operations.\nPartner with Finance, Internal Audit, Security, Privacy, and Risk teams to address control requirements and remediate findings.\nEnsure appropriate governance for financially sensitive data, interfaces, configurations, workflows, and production changes.\nMaintain technology currency and lifecycle plans to reduce operational, compliance, and obsolescence risk.\n\nOperations & Sustainment\n\nOwn the global sustainment model for Finance applications, ensuring operational stability, predictable service levels, and effective business support which meets established Service Level Agreements.\nOversee Level 3 support, major-incident management, root-cause analysis, problem management, and continuous-improvement backlogs.\nEnsure month-end, quarter-end, and year-end business-critical processes are supported through robust readiness, monitoring, and escalation practices.\nMonitor service performance, technical debt, recurring incidents, vendor performance, and improvement outcomes, taking corrective action where required.\n\nFinancial & Vendor Management\n\nOwn budget planning and financial stewardship for the Finance applications portfolio, including project investments, operating costs, licenses, and external services.\nManage strategic vendor and system-integrator relationships, including statements of work, delivery quality, commercial performance, and accountability for outcomes.\nBuild business cases and value measures that connect Finance, BI, analytics, and AI investments to control improvement, decision quality, efficiency, risk reduction, employee experience, and business capability.\n\nYou are best suited for the role if you have the following qualifications:\n\n15+ years of progressive IT experience delivering enterprise-scale solutions, including 10+ years in SAP Finance and demonstrated leadership delivering business intelligence, analytics, or data-enabled Finance solutions.\nDeep expertise in SAP Finance solutions and business processes supporting complex manufacturing environments.\nProven track record leading the successful design, implementation, optimization, and support of SAP Finance solutions across large-scale transformation programs.\nExperience operating within a global SAP template and rollout model, balancing global standards with legitimate regional requirements.\nExcellent communication and executive presence, with the ability to influence, simplify complex topics, resolve conflict, and align senior business and IT leaders.\nProven leadership delivering large, complex ERP, BI or data transformation programs spanning multiple sites, regions, business units, and stakeholder groups.\nDemonstrated experience identifying and scaling practical AI use cases in Finance or enterprise applications, with appropriate attention to data quality, controls, security, privacy, transparency, human oversight, and measurable value.\nDemonstrated experience delivering executive dashboards, operational reporting, self-service BI, governed semantic models, and advanced analytics using platforms such as Microsoft Fabric and Power BI.\nDemonstrated people leadership experience managing global teams, managed services teams, system integrators and other vendors.\nStrong understanding of financial controls, segregation of duties, audit readiness, data governance, and security requirements in a public-company environment.\nBachelor's degree in Information Systems, Business, Finance, Accounting, Engineering, or a related discipline.\nFor candidates based in Montreal, proficiency in both English and French is required, as the position involves ongoing communication and collaboration with stakeholders across Canada\n\nPreferred Qualifications\n\nExperience in food, dairy, manufacturing, distribution, or consumer packaged goods industries.\nExperience with SAP S/4HANA Finance transformation and migration from SAP ECC.\nHands-on leadership experience with Microsoft Fabric and Power BI, including data engineering, lakehouse or warehouse patterns, semantic models, governance, deployment, and adoption.\nExperience with Microsoft Copilot, SAP Joule, machine learning, or generative AI solutions applied to Finance processes and decision support.\nAccounting designation, MBA, or relevant SAP, project management, architecture, or service-management certification.\n\nWe support and take care of our employees and their families by offering :\n\nCompetitive salaries\nA hybrid work environment with the possibility to work from home 2 days a week\nAdvantageous corporate agreements\nFull range of group insurance benefits\nGroup retirement pension plan with employer contribution\nPurchase option of company stocks\nGroup RRSP\nHealth and wellness program in the workplace\nAssistance program for employees and their families\nSaputo products at a discounted price\n\nSalary: $163,765 to $214,940\n\nSalary offers will vary commensurate with experience, education, skills, and training.\n\nSTATEMENT ON AI\n\nAll applications are carefully considered by our Talent Acquisition team.\n\nArtificial Intelligence tools may be used in screening applications.\n\nArtificial Intelligence is not used to assess or select applications.\n\nIn Canada, Saputo is a leading cheese manufacturer and fluid milk and cream processor, with a portfolio of well-loved brands such as Dairyland, Armstrong, Neilson, Alexis de Portneuf, and many more. Whether your expertise lies in manufacturing, operations, supply chain management, sales, quality assurance, or in any other function, your role is integral to our success. You will make contributions that matter, all while working alongside colleagues who genuinely care about your success and who will roll up their sleeves to help.\n\nThe material contained herein is provided for informational purposes only. All open jobs offered by Saputo Inc. and all companies, corporations, partnerships, limited partnerships and other entities controlled by Saputo Inc. (collectively, “Saputo”) on Saputo's web site are subject to specific job skill requirements. The job skill requirements, qualifications, and preferred experience are determined by a Saputo subsidiary, office or department, and all positions are subject to local prevailing employment laws and restrictions. This would include immigr",
       "first_seen": "2026-11-28T05:57:41Z",
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338245016",
         "https://www.linkedin.com/jobs/view/4496009647/"
       ],
       "work_mode": "Hybrid",
@@ -1222,7 +1364,7 @@
       "company_url": "https://ca.indeed.com/cmp/Aquila-Software-Group",
       "date_posted": "2026-11-27",
       "description": "We are excited to speak to you about this opportunity. If you are interested in joining our growing team, please apply to this link directly: https://jobs.lighthousehiring.ai/aquila/2f05e71a\\-7b74\\-4a34\\-931e\\-675296556ded/1d820545\\-5942\\-4eb3\\-9dfd\\-604577511d1d?source\\=direct\n\n\n**Who we are**\n\n\n\nAt Aquila, we invest in category\\-defining B2B/B2G software companies globally, acting as a thought\\-partner, striving for the success of our companies in the long term. We are a well\\-managed, profitable company that operates like a startup with the financial backing of a parent company. For our people, this means limitless possibilities.\n\n\n\nWe are unapologetically unique, pivoting to respond to the needs of the multiple markets we operate in. We have ambitious goals, and we are looking for genuine contributors with integrity, energy, flexibility, and loyalty. We are investing in building future leaders who can take an idea and make things happen.\n\n\n**About GoldCare**\n\n\n\nGoldCare, a Gemini Group company within Aquila, develops specialized healthcare management software for community\\-based healthcare and long\\-term care organizations. Part of Constellation Software since 2014, GoldCare has built long\\-standing relationships with healthcare providers who rely on its technology to simplify their operations, improve efficiency, and focus less on paperwork and more on people.\n\n\n**Who we need**\n\n\n\nReporting to the General Manager, we are hiring a Director of Technology to shape the next phase of GoldCare’s technology and product evolution. In this newly created role, you will define and execute our technology strategy, lead the modernization of our healthcare software platform, and establish the architecture, engineering practices, and technical capabilities that will support our future growth. Combining strategic leadership with hands\\-on technical involvement, you will lead our distributed Development and Quality Assurance teams, balancing the needs of our existing products and customers with the development of more modern technology solutions. You will work closely with Product Management to align technology strategy with product priorities and customer needs, playing a central role in how we build software, introduce new technologies, and evolve as a software business.\n\n\n*This is a fully remote role based anywhere in Canada, with working hours aligned to Eastern Time.*\n\n\n**What’s in it for you**\n\n\n*Modernize technology that makes a difference*. You will join an established healthcare software business at a pivotal point in its evolution. You will have the opportunity to shape the future of our platform, modernizing business\\-critical software and exploring how emerging technologies can enhance its capabilities. What makes this opportunity particularly meaningful is the impact of your work beyond the technology itself. The decisions you make and the solutions you build will help community\\-based healthcare and long\\-term care organizations operate more effectively, reduce administrative burdens, and dedicate more time to the people in their care.\n\n\n*The freedom to lead, build, and influence*. You want to remain close to technology without sacrificing the breadth and influence of a senior leadership role. Working directly with the General Manager, you will have the autonomy to challenge existing thinking, make architectural decisions, influence technology investments, and turn your ideas into reality. You will build on the knowledge and experience of an established team while introducing modern engineering practices, encouraging experimentation with AI and emerging technologies, and developing technical leaders. This is an opportunity to leave a lasting impact not only on what we build but on how we think, collaborate, and innovate as a technology organization.\n\n\n*Broader exposure and career growth*. You will benefit from the autonomy of an entrepreneurial software business, backed by the stability, collective knowledge, and resources of Aquila and the broader Constellation Software network. You will have opportunities to exchange ideas with technology leaders navigating similar transformations, gain exposure to different software businesses, and learn from diverse approaches to innovation. As you shape GoldCare’s technology future, you will deepen your commercial understanding, expand your leadership capabilities, and position yourself for broader technology leadership opportunities over time.\n\n\n**As our new Director, Technology, you will**\n\n\n* **Own the technology roadmap.** You will establish a clear technology vision and translate it into a multi\\-year roadmap with defined priorities, investments, milestones, and measurable outcomes. You will balance modernization, technical debt, customer commitments, and platform stability, taking ownership of moving initiatives from concept through implementation and delivery.\n* **Partner with Product Management**. You will work collaboratively with the Product Management team to shape the product roadmap, align technology investments with product priorities, and translate customer needs into scalable, practical software solutions. Together, you will evaluate opportunities, navigate technical and commercial trade\\-offs, and balance platform modernization with the delivery of new features and enhancements that create meaningful value for our customers.\n* **Lead platform modernization.** You will assess our existing architecture, challenge technical assumptions, and explore alternative approaches to determine the best direction for our software. You will own architectural and technology stack decisions, guiding the evolution of our application architecture, APIs, integrations, data platforms, and cloud services. Working alongside our technical teams, you will actively participate in designing, developing, and validating solutions that strengthen the scalability, maintainability, and reliability of our platform.\n* **Transform how we build software.** You will",
-      "salary": "",
+      "salary": "$150k–$200k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
@@ -1244,7 +1386,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338197170"
+      ]
     },
     {
       "company": "FGF Brands",
@@ -1343,7 +1488,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338088134"
+      ]
     },
     {
       "company": "Hays",
@@ -1504,7 +1652,10 @@
       "geo_source": "posting-address",
       "geo_confidence": "high",
       "geo_detail": "240 McCaul Street, Toronto",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338133791"
+      ]
     },
     {
       "company": "Intact",
@@ -1515,7 +1666,7 @@
       "company_url": "https://ca.indeed.com/cmp/Intact-3",
       "date_posted": "2026-11-27",
       "description": "*Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times.*\n\n *Our employee promise represents Intact’s commitment to you in exchange for living our Values, striving to do your best work, being open to change and investing in your career. In return, we promise to provide support, opportunities and performance\\-led financial rewards at a workplace where you can shape the future, win as a team and grow with us.*\n\n**Pay at Intact is about much more than just salary.**\n\n* **Flexible** work arrangements and a **hybrid** work model\n* Possibility to purchase up to **5 extra days off** per year\n* Multiple benefits offered to support **physical and mental** wellbeing, including telemedicine, Wellness account and much more\n* Share plan \\& other savings: up to **12%** of salary or even more (ask how you could earn guaranteed income for life)\n\n**Salary range** (but not limited to):\n\n\n149,600 \\- 182,800**Annual bonus** target, based on the base salary, with a potential payout of up to **double** the target (subject to personal and company performance):\n\n\n20%\nAs part of our commitment to **Win As A Team**, we share our success with employees through our annual bonus plan and Employee Share Purchase Plan (ESPP) – with Intact matching 50% of your net shares.\n\n\nOur pension offerings provide flexibility and long\\-term security for our employees beyond their careers. We are one of the few companies offering the opportunity to receive guaranteed income for life via our defined benefit pension plan.\n\n\nSalary for the candidate will be determined taking into consideration a number of factors including: experience, skills, qualifications, anticipated contribution to role, internal equity, etc. The salary range presented above is based on a 35\\-hour workweek and would represent a majority of different candidate profiles. However, we encourage candidates who may fall outside of this range to apply as well.\n\n **About the role**\n\n\nWe are creating a new leadership role to shape and advance our Technology Financial Controls capability across Canada and the United States.\n\n  \n\nAs our organization continues to evolve, this leader will establish the strategy, governance and operating model required to support a strong and scalable technology control environment, including the continued development of our SOX 404 framework across technology.\n\n  \n\nWorking at the intersection of Technology, Finance, Risk, Internal Audit and business transformation, you will provide strategic leadership on technology risks that can impact financial reporting. You will partner closely with our Elevate and Advisory teams and with senior technology and business leaders to embed effective controls into how technology is designed, developed, changed and operated.\n\n  \n\nThis is not simply a role focused on testing compliance. You will have the mandate to build and mature the capability, strengthen accountability, influence major technology transformations and modernize how financial controls are designed, monitored and sustained.\n\n  \n\nSuccess will require deep SOX and technology\\-controls expertise, strong understanding of modern software development environments, and the ability to lead significant organizational and behavioural change.\n\n **What you'll do here:**\n\n **Set the strategy and strengthen the control environment**\n\n* Define and lead the IT Financial Controls strategy and roadmap across Canada and the U.S., aligning financial reporting, technology and transformation priorities.\n* Establish the operating model, governance and accountabilities across Technology, Finance, Risk, business control owners and assurance partners.\n* Provide leadership for the technology components of the SOX program, including ITGCs, ITACs, Segregation of Duties and other technology\\-enabled financial controls.\n* Oversee control design and assessment, testing quality, deficiency management and sustainable remediation, ensuring significant and systemic risks are appropriately challenged and escalated.\n\n **Embed controls and drive transformation**\n\n* Partner with technology and software engineering leaders to embed SOX and financial\\-control requirements into technology development, change, access and release processes.\n* Ensure major technology transformations, system implementations and software changes appropriately address financial\\-reporting risks and control requirements.\n* Modernize the control environment through automation, continuous monitoring, data\\-driven risk management and improved reporting, partnering closely with Elevate, Advisory and transformation teams.\n* Challenge legacy practices and drive controls that are effective, scalable and proportionate to risk.\n\n **Advise, influence and lead assurance partnerships**\n\n* Act as a trusted advisor to senior Technology, Finance, Risk and business leaders on control risks, remediation strategies, transformation impacts and investment decisions.\n* Provide executive\\-level visibility into significant deficiencies, systemic risk themes and remediation progress.\n* Lead the approach to Internal and External Audit relationships, strengthening coordination while maintaining clear accountability between control ownership, advisory and independent assurance.\n\n **Build and lead the capability**\n\n* Lead a team while building capabilities across SOX, financial controls, technology risk, software engineering and transformation.\n* Own workforce planning, talent development, succession and resource allocation across the function.\n* Establish clear performance expectations and foster a culture of accountability, continuous improvement and strong business partnership.\n\n **What you bring to the table:**\n\n* 10\\+ years of progressive experience in IT financial controls, SOX, technology risk, audit or a related discipline, with demonstrated leadership experience.\n* Deep knowledge of SOX 404, ITGCs, ITACs, Segregation of Duties and",
-      "salary": "",
+      "salary": "$150k–$183k/yr",
       "salary_source": "",
       "salary_currency": "",
       "job_type": "fulltime",
@@ -1540,6 +1691,7 @@
       "geo_version": 1,
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-it-financial-controls/12591510",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338137064",
         "https://www.linkedin.com/jobs/view/4495358124/"
       ]
     },
@@ -1568,6 +1720,7 @@
       "geo_detail": "",
       "geo_version": 1,
       "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338203125",
         "https://www.linkedin.com/jobs/view/4495340603/"
       ]
     },
@@ -1594,7 +1747,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338145242"
+      ]
     },
     {
       "company": "Loblaw Companies Limited",
@@ -1661,8 +1817,10 @@
       "job_type": "fulltime",
       "duplicate_urls": [
         "https://builtintoronto.com/job/director-strategic-programs/12591811",
-        "https://ca.indeed.com/viewjob?jk=70fcbb30db7f17f9"
-      ]
+        "https://ca.indeed.com/viewjob?jk=70fcbb30db7f17f9",
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338161289"
+      ],
+      "salary": "$160k–$180k/yr"
     },
     {
       "company": "RBC",
@@ -2152,7 +2310,10 @@
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
-      "geo_version": 1
+      "geo_version": 1,
+      "duplicate_urls": [
+        "https://www.glassdoor.ca/job-listing/j?jl=1010338143452"
+      ]
     },
     {
       "company": "BET99",
@@ -119811,16 +119972,16 @@
       "ats": "LinkedIn",
       "description": "Who We Are\n\nGeotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities.\nGeotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab’s open platform and Geotab Marketplace ®, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes.\nOur team is growing and we’re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it’s like to be a Geotabber, check out our blog and follow us @InsideGeotab on Instagram.\n\nWho You Are\n\nGeotab is looking for entrepreneurial product and business leaders to head our domains – focused teams that each own a customer outcome and the business results that come with it. As a Head of Domain, you'll own the strategy, roadmap and results for your area, lead a multi-disciplinary team of product managers, designers and engineers, and turn customer problems into products that customers adopt and pay for.\n\nWhat You'll Do\n\nThis is a role for someone who has\nbuilt and sold something\n: a leader who measures success by business results, not by what shipped, and who uses AI to change how work gets done. You'll report to Geotab's Technology Development Board and operate with real autonomy as the business owner of your domain.\nWe welcome applicants nationwide! If you’re based near one of our office hubs, this role follows our hybrid model, blending the comfort of working from home with regular on-site days to connect and collaborate.\nThis is an evergreen posting. We're building a pipeline of exceptional leaders for current and future domain leadership opportunities across Technology Development.\n\nHow You'll Make An Impact\n\nOwn the outcome. Set the vision, strategy and roadmap for your domain and be accountable for its primary business results – adoption, revenue, retention and customer impact.\nRun it like a business. Make clear build, buy and partner decisions, prioritize by customer and revenue impact, and say no when the return isn't there.\nStay close to customers. Ground your team in customers' real experience to find the problems worth solving, and work with sales, support and partners to bring solutions to market.\nLead the AI shift. Redesign how your domain works around AI to move faster, and help others across the organization do the same.\nBuild a high-performing team. Hire the right talent without settling, place people where their strengths matter most, set a clear and high bar, and develop the next generation of leaders.\nWork across Geotab. Partner closely with platform, segment and other domain leaders, contribute beyond your own goals, and help shape strategy with the Technology Development Board.\nManage your investment. Own your domain's people and budget plan, make investment cases, and report on results and risks to the board.\n\nWhat You'll Bring To This Role\n\n10+ years of experience in product management, product engineering, or related customer-facing product roles.\n5+ years of senior product and people leadership with cross-functional scope and direct accountability for customer-facing business outcomes.\nBachelor's degree in Computer Science, Engineering, or a related technical field (or equivalent combination of education and work experience).\nStrong product leadership capability with demonstrated ability to define and execute customer-facing product strategy tied to measurable business outcomes, with P&L literacy and revenue attribution.\nCross-functional leadership experience managing teams across product management, product design, and product engineering disciplines, with proven capability in identifying and coaching high-potential leaders.\nExcellent stakeholder management, change readiness, and communication skills to effectively collaborate with platform teams, segment leads, and executive leadership in evolving organizational structures.\nFamiliarity with modern product discovery, validation practices, and engineering practices (CI/CD, cloud-native delivery, agile), alongside the ability to redesign domain workflows around AI to compress effort.\n\nPlease note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees.\n\nThis posting is not for an existing vacancy.\n\nWhy Job Seekers Choose Geotab\n\nFlex working arrangements\nBaby bonus & parental leave top up program\nOnline learning and networking opportunities\nElectric vehicle purchase incentive program\nCompetitive medical and dental benefits\nRetirement savings program\n\n*The above are offered to full-time permanent employees only\n\nHow We Work\n\nAt Geotab, we thrive on a flexible hybrid work model that combines the dynamic energy and connection of in-person collaboration with the independence and flexibility of virtual work. We believe that coming together in person is fundamental to cultivating trust, nurturing a vibrant culture of belonging, and fostering meaningful innovation across our diverse teams. Office visit schedules are tailored thoughtfully based on role requirements. Specific expectations regarding workplace location and on-site attendance for this position will be shared during the hiring process.\nWe believe that ensuring diversity is fundamental to our future growth and progress and is an integral part of our business. We believe that success happens where new ideas can flourish – in an environment that is rich in diversity and a place where people from various backgrounds can work together. Geotab encourages applications from all qualified individuals. We are committed to accommodating people with disabilities during the recruitment and assessment processes and when people are hired. We will ensure the accessibility needs of employees with disabilities are taken into account as part of performance management, career development, training and redeployment processes. If you require accommodation at any stage of the application process or want more information about our diversity and inclusion as well as accommodation policies and practices, please contact us at careers@geotab.com. By submitting a job application to Geotab Inc. or its affiliates and subsidiaries (collectively, “Geotab”), you acknowledge Geotab’s collection, use and disclosure of your personal data in accordance with our Privacy Policy. Click here to read our Privacy Notice.\nThe annual base salary for this position is the expected annual salary for this role, and may be subject to change. Geotab offers various perks and benefits and other compensation components that an individual may be eligible for. The actual base salary for this position depends on a variety of factors such as but not limited to skills, qualifications, education and overall experience, including the location the applicant lives while performing the job. This also includes equity with other team members and alignment with local market data. All offers of employment are contingent upon proof of eligibility to work and the individual's ability to pass a background check.\nHiring Range: $163,800 CAD - $227,500 CAD\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "first_seen": "2026-11-06T17:25:50Z",
-      "work_mode": "Hybrid",
-      "work_mode_evidence": "description",
-      "geo_category": "GTA",
-      "geo_label": "GTA",
+      "work_mode": "Remote",
+      "work_mode_evidence": "title/location",
+      "geo_category": "Canada Remote",
+      "geo_label": "Canada Remote (ON)",
       "geo_city": "Oakville",
       "geo_province": "ON",
       "geo_lat": 43.4675,
       "geo_lon": -79.6877,
       "geo_distance_km": 35.6,
-      "geo_rank": 100356,
+      "geo_rank": 300356,
       "geo_source": "posting-city",
       "geo_confidence": "medium",
       "geo_detail": "",
