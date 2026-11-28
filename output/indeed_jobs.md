@@ -1,33 +1,25 @@
 # 🟦 Indeed — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-28 00:46 UTC*
+*Last updated: 2026-11-28 02:49 UTC*
 
-**5 new role(s)** since last run · 28 total in last 24h
+**4 new role(s)** since last run · 28 total in last 24h
 
-### [Vice President, People & Culture](https://ca.indeed.com/viewjob?jk=29837d6f8aba81ce) — Ronald McDonald House Toronto
-- 📍 **Location:** Toronto, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Strategic Programs](https://ca.indeed.com/viewjob?jk=70fcbb30db7f17f9) — CaseWare International
+### [Director of Technology](https://ca.indeed.com/viewjob?jk=fec0d9e970820ecc) — Aquila Software Group
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-27
+
+### [Director, Digital Commerce](https://ca.indeed.com/viewjob?jk=7a347b79c5cda8a7) — FGF Brands
+- 📍 **Location:** Greater Toronto Area, ON, CA
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-27
 
-### [Director, IT Financial Controls](https://ca.indeed.com/viewjob?jk=0741f2e2feaace37) — Intact
+### [Director, Global Third Party Risk Management](https://ca.indeed.com/viewjob?jk=767243b9c4bd6315) — Scotiabank
 - 📍 **Location:** Toronto, ON, CA
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-27
+- 🕒 **Posted:** 2026-11-26
 
-### [Director, Enterprise Risk Management](https://ca.indeed.com/viewjob?jk=4092e043d753cb8e) — Questrade Financial Group
-- 📍 **Location:** Toronto, ON, CA
+### [Head of Product, Questrade Experience Platform](https://ca.indeed.com/viewjob?jk=4bf4d55a9a1d1cd8) — Questrade Financial Group
+- 📍 **Location:** North York, ON, CA
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-27
-
-### [Category Director, National OTC & Hard Discount Wellness & Feminine Hygiene (12-Month Contract), HEHB](https://ca.indeed.com/viewjob?jk=e284844bc8790c41) — Loblaw
-- 📍 **Location:** Brampton, ON, CA
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-27
