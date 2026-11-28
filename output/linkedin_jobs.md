@@ -1,47 +1,39 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-28 09:53 UTC*
+*Last updated: 2026-11-28 10:31 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**8 new role(s)** since last run · 11 total in last 1h
 
-### [Director - Performance Improvement - Transactions Advisory Group - Canada](https://www.linkedin.com/jobs/view/4488142675/) — Alvarez & Marsal
+### [National Vice President, Electrical](https://www.linkedin.com/jobs/view/4488462464/) — Modern Niagara
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Director, Project Controls Nuclear](https://www.linkedin.com/jobs/view/4479877680/) — Worley
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $201,144 to $236,640
+- 🕒 **Posted:** 2026-11-28
+
+### [Payments - Client Solutioning- Vice President](https://www.linkedin.com/jobs/view/4488135691/) — JPMorganChase
 - 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-28
 
-### [Directeur(trice) principal, Solutions aux patients, Canada /Senior Director Patient Solutions, Canada](https://www.linkedin.com/jobs/view/4487360648/) — Inizio Engage
+### [Sector Director - Transit](https://www.linkedin.com/jobs/view/4443007814/) — Colliers Project Leaders | Canada
+- 📍 **Location:** Saskatoon, Saskatchewan, Canada
+- 💰 **Salary:** $126,376 – $173,677 per year
+- 🕒 **Posted:** 2026-11-28
+
+### [Director, Terminal Experience & Groundside Services](https://www.linkedin.com/jobs/view/4439889030/) — Toronto Pearson International Airport
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Senior Director Enterprise Architecture & Ontology](https://www.linkedin.com/jobs/view/4494233913/) — National Bank of Canada
 - 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $170K-$185K
 - 🕒 **Posted:** 2026-11-28
 
-### [Major Projects Director - Defence and Federal Infrastructure](https://www.linkedin.com/jobs/view/4461662723/) — GHD
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $178,125 to $228,125
+### [Associate Director, Technical Architecture – Advisory](https://www.linkedin.com/jobs/view/4480526827/) — Avanade
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $214,202 to $254,365
 - 🕒 **Posted:** 2026-11-28
 
-### [Major Projects Director - Defence and Federal Infrastructure](https://www.linkedin.com/jobs/view/4461666635/) — GHD
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 💰 **Salary:** $178,125 to $228,125
-- 🕒 **Posted:** 2026-11-28
-
-### [Major Projects Director - Defence and Federal Infrastructure](https://www.linkedin.com/jobs/view/4461646915/) — GHD
-- 📍 **Location:** Québec, Quebec, Canada
-- 💰 **Salary:** $178,125 to $228,125
-- 🕒 **Posted:** 2026-11-28
-
-### [Major Projects Director - Defence and Federal Infrastructure](https://www.linkedin.com/jobs/view/4461650804/) — GHD
-- 📍 **Location:** Brossard, Quebec, Canada
-- 💰 **Salary:** $178,125 to $228,125
-- 🕒 **Posted:** 2026-11-28
-
-### [Major Projects Director - Defence and Federal Infrastructure](https://www.linkedin.com/jobs/view/4461663703/) — GHD
-- 📍 **Location:** Whitby, Ontario, Canada
-- 💰 **Salary:** $178,125 to $228,125
-- 🕒 **Posted:** 2026-11-28
-
-### [Major Projects Director - Defence and Federal Infrastructure](https://www.linkedin.com/jobs/view/4461666634/) — GHD
-- 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $178,125 to $228,125
-- 🕒 **Posted:** 2026-11-28
-
-### [National Vice President, Electrical](https://www.linkedin.com/jobs/view/4488473122/) — Modern Niagara
-- 📍 **Location:** Vaughan, Ontario, Canada
+### [Senior Director, Purchasing and Estimating](https://www.linkedin.com/jobs/view/4496030223/) — Minto Group
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-28
