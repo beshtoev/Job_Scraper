@@ -1,61 +1,61 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-28 00:41 UTC*
+*Last updated: 2026-11-28 01:32 UTC*
 
-**13 new role(s)** since last run · 35 total in last 1h
+**13 new role(s)** since last run · 14 total in last 1h
 
-### [Vice President of Interconnects Product Line Management](https://www.linkedin.com/jobs/view/4495333960/) — Ciena
+### [Senior Director, Data and AI](https://www.linkedin.com/jobs/view/4495898525/) — VetStrategy
+- 📍 **Location:** Woodbridge, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Vice President, Technology Operations](https://www.linkedin.com/jobs/view/4495892868/) — VetStrategy
+- 📍 **Location:** Woodbridge, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Director, Advanced Network Planning](https://www.linkedin.com/jobs/view/4475983362/) — Ciena
 - 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $154,000.00 - $246,000.00
+- 🕒 **Posted:** 2026-11-28
+
+### [Director, Advanced Network Planning](https://www.linkedin.com/jobs/view/4475984311/) — Ciena
+- 📍 **Location:** Canada
+- 💰 **Salary:** $154,000.00 - $246,000.00
+- 🕒 **Posted:** 2026-11-28
+
+### [Director, Change Management](https://www.linkedin.com/jobs/view/4495235076/) — Dalhousie University
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Director, IT Financial Controls](https://www.linkedin.com/jobs/view/4495358124/) — Intact
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Vice President of Interconnects Product Line Management](https://www.linkedin.com/jobs/view/4495340603/) — Ciena
+- 📍 **Location:** Canada
 - 💰 **Salary:** $292,700 - $467,500
 - 🕒 **Posted:** 2026-11-28
 
-### [Chief of Staff to the CEO (Leadership Track)](https://www.linkedin.com/jobs/view/4495814248/) — Embrace Software Inc
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Managing Director, Project Delivery](https://www.linkedin.com/jobs/view/4495889601/) — ATB Financial
+### [Director, Engineering and Procurement, AI Fabric](https://www.linkedin.com/jobs/view/4468262175/) — Bell
 - 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-11-27
+- 🕒 **Posted:** 2026-11-28
 
-### [Chief Administrative Officer - Rural Municipality of Taché](https://www.linkedin.com/jobs/view/4495338198/) — Harris Leadership Strategies
-- 📍 **Location:** Dufresne, Manitoba, Canada
-- 🕒 **Posted:** 2026-11-27
+### [VP, Enterprise Development & Real Estate Services - Canadian Tire Corporation](https://www.linkedin.com/jobs/view/4496005282/) — Canadian Tire Corporation
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
 
-### [Director, Finance Systems](https://www.linkedin.com/jobs/view/4492506792/) — Plusgrade
+### [Director of Sales and Marketing - Hotels](https://www.linkedin.com/jobs/view/4494237010/) — Pomeroy Lodging
+- 📍 **Location:** Grande Prairie, Alberta, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Cyber Forensic Director (Bilingual FR/EN)](https://www.linkedin.com/jobs/view/4495897268/) — PwC Canada
+- 📍 **Location:** Québec, Quebec, Canada
+- 💰 **Salary:** $152,000 - $202,000
+- 🕒 **Posted:** 2026-11-28
+
+### [Cyber Forensic Director (Bilingual FR/EN)](https://www.linkedin.com/jobs/view/4495888816/) — PwC Canada
 - 📍 **Location:** Montreal, Quebec, Canada
-- 🕒 **Posted:** 2026-11-27
+- 💰 **Salary:** $152,000 - $202,000
+- 🕒 **Posted:** 2026-11-28
 
-### [Enterprise Managed Services Leader](https://www.linkedin.com/jobs/view/4495877947/) — BDO Canada
-- 📍 **Location:** Oakville, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Vice President & Market Leader (GTA West), Private Wealth](https://www.linkedin.com/jobs/view/4494177318/) — BMO
-- 📍 **Location:** Oakville, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $215,000.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Business Line Senior Director - Nuclear](https://www.linkedin.com/jobs/view/4461310814/) — Kiewit
+### [Human Resources Director](https://www.linkedin.com/jobs/view/4495338939/) — Haystack
 - 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Category Director, National OTC & Hard Discount Wellness & Feminine Hygiene (12-Month Contract), HEHB](https://www.linkedin.com/jobs/view/4495878883/) — Loblaw Companies Limited
-- 📍 **Location:** Brampton, Ontario, Canada
-- 💰 **Salary:** $120,000.00 - $154,000.00
-- 🕒 **Posted:** 2026-11-27
-
-### [Managing Vice President, Consulting](https://www.linkedin.com/jobs/view/4479165510/) — Pariveda
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $345,400.00/yr - CA$367,900.00/yr
-- 🕒 **Posted:** 2026-11-27
-
-### [Enterprise Managed Services Leader](https://www.linkedin.com/jobs/view/4495891355/) — BDO Canada
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Director, Group Finance Accounting Policy](https://www.linkedin.com/jobs/view/4495352122/) — Manulife
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-11-27
-
-### [Canadian Financial and Regulatory Reporting, VP](https://www.linkedin.com/jobs/view/4486911582/) — Citi
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $111,600.00 - $161,600.00
-- 🕒 **Posted:** 2026-11-27
+- 🕒 **Posted:** 2026-11-28
