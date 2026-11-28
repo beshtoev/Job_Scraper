@@ -1,49 +1,49 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-28 16:07 UTC*
+*Last updated: 2026-11-28 17:26 UTC*
 
-**10 new role(s)** since last run · 11 total in last 1h
+**10 new role(s)** since last run · 17 total in last 1h
 
-### [Directeur.trice technique - Capture de données de jeu / Technical Director - Game Data Capture](https://www.linkedin.com/jobs/view/4469642280/) — Electronic Arts (EA)
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $169,500 - $242,600
-- 🕒 **Posted:** 2026-11-28
-
-### [Director, Enterprise Solutions – Finance and Operations](https://www.linkedin.com/jobs/view/4477732516/) — Pomerleau
-- 📍 **Location:** St-Georges, Quebec, Canada
-- 🕒 **Posted:** 2026-11-28
-
-### [Head of Domain, Product & Engineering](https://www.linkedin.com/jobs/view/4488188536/) — Geotab
-- 📍 **Location:** Oakville, Ontario, Canada
-- 💰 **Salary:** $164k–$228k/yr
-- 🕒 **Posted:** 2026-11-28
-
-### [Director, Financial Crime](https://www.linkedin.com/jobs/view/4480500013/) — Deloitte
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $157,000 - $293,000,
-- 🕒 **Posted:** 2026-11-28
-
-### [Head of Platform & Infrastructure Engineering](https://www.linkedin.com/jobs/view/4487354422/) — Ashby
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $475,000.00/yr - CA$550,000.00/yr
-- 🕒 **Posted:** 2026-11-28
-
-### [Project Controls Director](https://www.linkedin.com/jobs/view/4452992848/) — Aecon Group Inc.
+### [Managing Director](https://www.linkedin.com/jobs/view/4488474371/) — Manos Software Group
 - 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-11-28
 
-### [National Director, Technical Services](https://www.linkedin.com/jobs/view/4487350967/) — BGO
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $150,000 - $180,000 per year
+### [Vice President of Property and Asset Management](https://www.linkedin.com/jobs/view/4488185284/) — Kingsley Management Inc.
+- 📍 **Location:** Kitchener, Ontario, Canada
 - 🕒 **Posted:** 2026-11-28
 
-### [Sales & Operations Execution Director](https://www.linkedin.com/jobs/view/4487373737/) — Cascades
-- 📍 **Location:** Saint-Hubert, Quebec, Canada
+### [CA-Sales & Operations Director](https://www.linkedin.com/jobs/view/4491182189/) — LEON CYCLE
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-11-28
 
-### [Practice Director, Cloud Services](https://www.linkedin.com/jobs/view/4488431833/) — Toptal
+### [Managing Director](https://www.linkedin.com/jobs/view/4453608411/) — Edelweiss Software Group
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-11-28
 
-### [Deputy Project Director](https://www.linkedin.com/jobs/view/4453201835/) — Aecon Group Inc.
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Managing Director, Data, AI, & Cloud](https://www.linkedin.com/jobs/view/4479191721/) — TELUS Digital
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $236,000.00/yr - $310,000.00/yr
+- 🕒 **Posted:** 2026-11-28
+
+### [Vice President, Portfolio Management, Investing & Oversight](https://www.linkedin.com/jobs/view/4443184568/) — Richardson Wealth
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $130,000-$145,000
+- 🕒 **Posted:** 2026-11-28
+
+### [Director](https://www.linkedin.com/jobs/view/4445225052/) — Isaac Operations
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [VP of Sales - Public Sector](https://www.linkedin.com/jobs/view/4479169973/) — Cohere
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 💰 **Salary:** $560K - $675K
+- 🕒 **Posted:** 2026-11-28
+
+### [VP of Sales - Public Sector](https://www.linkedin.com/jobs/view/4479169971/) — Cohere
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $560K - $675K
+- 🕒 **Posted:** 2026-11-28
+
+### [AVP, Advisor Experience and Programs](https://www.linkedin.com/jobs/view/4487353123/) — Richardson Wealth
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $190,000-$225,000
 - 🕒 **Posted:** 2026-11-28
