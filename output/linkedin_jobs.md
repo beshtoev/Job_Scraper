@@ -1,22 +1,13 @@
 # 🔥 LinkedIn — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-28 12:27 UTC*
+*Last updated: 2026-11-28 13:31 UTC*
 
-**4 new role(s)** since last run · 8 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Technology Director - Global Sourcing Technology, Supply Chain](https://www.linkedin.com/jobs/view/4494241756/) — lululemon
+### [Director & Principal Engineer, AI/ML & MLOps Platform](https://www.linkedin.com/jobs/view/4488420905/) — RBC
 - 📍 **Location:** Vancouver, British Columbia, Canada
-- 💰 **Salary:** $190,400 - $249,900 annually
 - 🕒 **Posted:** 2026-11-28
 
-### [Banking Partnerships & Quality Director](https://www.linkedin.com/jobs/view/4486629057/) — ADP
-- 📍 **Location:** Etobicoke, Ontario, Canada
-- 🕒 **Posted:** 2026-11-28
-
-### [Vice President, Human Resources Outsourcing (HRO) Sales](https://www.linkedin.com/jobs/view/4486610914/) — ADP
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-11-28
-
-### [Director, Global Marketing & Sales Enablement](https://www.linkedin.com/jobs/view/4495359895/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 💰 **Salary:** $150,000.00 - 185,000.00
+### [Head of Platform & Infrastructure Engineering](https://www.linkedin.com/jobs/view/4487351881/) — Ashby
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $475,000.00/yr - CA$550,000.00/yr
 - 🕒 **Posted:** 2026-11-28
