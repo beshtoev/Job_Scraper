@@ -1,9 +1,20 @@
 # Company Portals — Executive Data, AI & Transformation Roles
-*Last updated: 2026-11-28 09:17 UTC*
+*Last updated: 2026-11-28 12:38 UTC*
 
-**1 new role(s)** since last run · 1242 total in current portal openings
+**4 new role(s)** since last run · 1241 total in current portal openings
 
-### [Valuations Financial Instruments, Director](https://jobs-ca.pwc.com/ca/en/job/765279WD) — PwC Canada
+### [Director, Supply Chain Management](https://builtintoronto.com/job/director-supply-chain-management/12439467) — Walmart Global Tech
 - 📍 **Location:** Toronto, Ontario, Canada
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-11-28
+
+### [Project Director - Clinical Study Management](https://builtintoronto.com/job/project-director-clinical-study-management/12593122) — Alimentiv
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Director, Quality Assurance](https://builtintoronto.com/job/director-quality-assurance/12593053) — AstraZeneca
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
+
+### [Sales Director](https://builtintoronto.com/job/sales-director/12593322) — Transak
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-11-28
